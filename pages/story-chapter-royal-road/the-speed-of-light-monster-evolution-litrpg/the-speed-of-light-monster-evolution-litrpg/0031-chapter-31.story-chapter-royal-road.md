@@ -1,0 +1,221 @@
+---
+id: f6121249-e6c0-5209-9ee4-d7dee91a6271
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31"
+slug: 0031-chapter-31
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 31
+ownLength: 2440
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2648319/chapter-31"
+royalRoadId: "2648319"
+---
+
+Tachyon trotted along the break in the trees, the small Humming Beak riding along as it snacked on her back.
+
+She felt a little confused on how she had suddenly become a snack table for the little monster, but her being so cute, Tachyon allowed it to pass.
+
+It had only been a few hours since she had completely decimated the squirrel legion, on top of leveling a good portion of the forest, while also gaining a level herself. And they had since had a nice little stroll without conflict, surprisingly.
+
+It seemed apparent to Tachyon by now, the second level of the mountain was leagues larger than the first base level, where lower F-Ranks inhabited the area.
+
+She still had a few bones to pick with the monsters who owned the Controlling Stones there, but at this point, she had little worry that she could take them whenever she chose.
+
+Her main priority was finding and defeating the ones on this level. She had taken two already, knowing there was a third somewhere in a cave as well. But that left two more unknown Controlling Stones somewhere on the mountain.
+
+There was also Tachyon’s lack of knowledge beginning to show itself. While she knew when her next evolution was, thanks to her parents. Anything after that she was completely in the dark.
+
+As she trotted along she was also forced to face the fact that she hadn’t seen anything outside the tutorial and the arena. Which to no surprise, left her with complete gaps in information, making for, to say the least, interesting bits of information she was aware of. While some more obvious ones, she was completely unaware of.
+
+For instance, she knew what sand, certain fighting equipment, and certain items were. But she had no idea what the specific names of certain flowers were, trees, animals or the changing of seasons.
+
+Tachyon once again hoped to learn these things, inside the tutorial or when she left eventually, now that she was free from the arena.
+
+She briefly looked over her status while they had a reprieve in the midday sun.
+
+Tachyon
+
+Race: Light Fire Alpha Mare
+
+Rank: F-Rank
+
+Level: 23
+
+VIT - 43(11)
+
+STR - 70(13)
+
+AGI - 327(25)
+
+MAG - 145(14)
+
+STAM - 105(16)
+
+RES - 80(18)
+
+Free Point - 25
+
+Titles
+
+Sapient Monster, Survivor, Captive, Defiant, Sturdy, Slayer of the Strong, Improbability, Manslaughter, Kings Queens and Castles, Bat Out of Hell, Magic Artillery 1, Faster than Most, Death on Four Legs, Skills of Legend, Bane of Cavemen, Magic Artillery 2, Rare Evolution, Kings Queens and Castles 2, Horse Zoomer 1.
+
+Skills
+
+Fire Light Magic - Unique, Fire Light Clones - Rare, Unstoppable Force Meets Movable Object - Legendary, Mana Motion Platform - Rare.
+
+She had come a long way stat wise. Her equipment beginning to add a hefty amount to her stats as well.
+
+And now that she was only two levels away from reaching her next skill selection. It may have been high time to be more liberal in who she fought.
+
+Tachyon had kept her mana sense on high alert ever since the little furball legion had found her again. And while she had sensed a few monsters around them here and there. None were what she would call worth it to fight.
+
+However, she may not have a choice. Beggars could not be choosers.
+
+Another hour of aimless roaming and not much to show for it. Tachyon was beginning to become frustrated.
+
+Her traveling speed had slowed down slightly due to her little adorable passenger, but even with the slower speed. To not encounter a group of monsters seemed strange.
+
+Stranger still was the fact that she had now gone almost an hour without sensing a single other monster than her little companion.
+
+It just didn’t add up.
+
+Tachyon decided to take a break, bedding down under a tree to have a more in-depth think about what might be going on or what she should do next.
+
+“Did the squirrels end up killing everything on this floor?” she thought aloud, “No, that would be impossible. There were many of them, sure, but they weren’t strong enough to clear out an entire level on this mountain. Gregor and the others in the caves were even stronger than the squirrels…”
+
+Lost in thought, the Humming Beak hopped from their seat on Tachyon’s back to in between her ears. Her wings raised as if to cover her eyes as she seemed to look out into the distance for anything suspicious.
+
+Tachyon nickered in amusement, but quickly went back to her thoughts. It would be a major setback if there were actually no monsters left to fight, but she couldn’t imagine that being possible.
+
+There were still the Controlling Stones and those who owned them. Was the second level of the mountain really just that large and expansive? Even with it being at the elevation it was, the scale made no sense.
+
+That was when Tachyon heard a rustling in the tree. Suddenly, a dense mass of mana appeared, alerting her senses.
+
+Leaping forward and using a mana thread to hunker down the Humming Beak. Tachyon dodged out of the way.
+
+Turning around while summoning several magic lightfire carrots, she couldn’t help but tilt her head in confusion.
+
+“The tree attacked me..?” she muttered.
+
+Ambush Treant Level 17
+
+Her head tilted in the opposite direction, the Humming Beak flailing and chirping complaints as she did. Tachyon watched as the Treant sprang from the ground, ripping roots from the ground as the branches seemed to bristle and move like appendages.
+
+Tachyon held nothing back and sent out her lightfire carrots one after the other. And unsurprisingly, the tree went up in a plume of white fire and black smoke. The Treant screeched in what she could only assume was pain until it tumbled backward, charred black.
+
+You have killed, Ambush Treant Level 17. Experience earned.
+
+Almost unable to believe the sequence of events, Tachyon looked at the pile of smoldering lumber.
+
+“I suppose that explains why I can’t find any monsters in this area,” she hummed, looking around at the trees with new eyes. “Well, that is unfortunate that you are made of wood, while I control quite the intense level of fire magic.”
+
+Tachyon summoned another volley of lightfire carrots to her side, sending them out into the forest at any tree unlucky enough to be standing close enough to be in range.
+
+And a moment later, she heard a cacophony of wild screeches in every direction as some trees burned, and others moved and ran in different directions. Some even slammed into other trees in their panic, lighting the others on fire.
+
+Tachyon’s eyes reflected the white fire as she witnessed the destructive scene, the Humming Beak cooing on her head now still as she watched as well.
+
+“Huh. Elemental affinity? Elemental science? Either way, fire beats Treant,” Tachyon smiled, the notifications rolling in.
+
+You have killed, x4 Ambush Treant Level 17. Experience earned.
+
+You have killed, x2 Ambush Treant Level 15. Experience earned.
+
+You have killed, x4 Ambush Treant Level 19. Experience earned.
+
+…
+
+It came to the point where, while strolling around the forest, Tachyon was able to send out only a few spells of her fire in any direction. And if she was able to find a hiding Treant. It would set itself on the journey of spreading her fire by knocking into several other Treants as it burned to death.
+
+Did Tachyon feel somewhat disappointed that it was going so well?
+
+Congratulations! Your race level has increased to 24. +14 to AGI, +12 to MAG and +7 to STAM, +25 Free Points.
+
+Not entirely.
+
+She was completing her goal of increasing her level, and at a good pace at that.
+
+But was it fine for her to just continue burning down the whole mountainside?
+
+The continued notifications alerting her to a steady stream of experience told her all she needed to know.
+
+“Having a relaxing day of leveling up isn’t so bad, I suppose…” she smiled.
+
+For the next half an hour, that is exactly what she did. Tachyon walked through the forest, sending out magic lightfire carrot after magic lightfire carrot. Making sure not to overdo it and deplete herself if anything else showed up.
+
+But luckily enough for her, it was just a Treant buffet. And she continued on as she hummed to herself, the Humming Beak also joining in with several chirps as she bobbed her head on top of Tachyon’s head.
+
+And for another half an hour, that was just what they did. Casual murder of tens, if not hundreds, of Treants.
+
+At least until they came to a break in the forest and a small indent in the mountain.
+
+The indent in the side of the mountain seemed to widen, not into a cave, but a sort of alcove. That turned into a larger space that was just beautiful.
+
+Serene and peaceful, if Tachyon had to describe it. A large and lush tree sat at the middle of a small pond, several smaller trees and bushes all layed out in a semi-circle around it.
+
+But after just going through an entire forest of Ambushing Treants. Tachyon raised a very suspicious eyebrow.
+
+“So peaceful. Had I not just burned a forest to the ground because it was trying to kill me? I would want to sit down for a light snack… However…” Tachyon sighed, more spells activating around her, along with her Fire Light Clones sparking to life next to her, “All I see in front of me is a pile of experience.”
+
+The Humming Beak on top of Tachyon’s head whistled and pointed with a wing as if to say ‘charge!’ And before the little bird could finish its battle cry, Tachyon had sent out her clones as well as tying down the little feathered passenger with a thread of mana as she shot forward with the rest of her spells in tow.
+
+First, her clones ran into the bushes and smaller trees, trampling the small shrubbery in no time flat.
+
+You have killed, x4 Bush Knight Level 15. Experience earned.
+
+The passing notifications confirmed that the small shrubs were indeed some form of Treant and that Tachyon had made the correct decision to burn down the whole area.
+
+Her spells shot out, colliding with the large tree in the center of the alcove before she was able to reach it herself.
+
+And as she expected, as soon as the fire began spreading from the impacts, the massive tree started to shake and screech. Its branches and leaves moved sporadically to try and remove the fire from itself.
+
+That was when Tachyon saw something even more unexpected than the hulking tree move. It was what was hidden underneath it, buried below in a small hole covered in dirt.
+
+“A Controlling Stone?”
+
+The Large Treant moved to the pool of water surrounding its small land area that it sat on, somehow bending over and putting out a majority of the fire covering it. The smoldering branches still gave off steam, while some others still burned to ash as they fell off.
+
+Tachyon began running the outskirts of the alcove, using her mana platforms to gain more and more speed for her legendary skill. All the while, shooting more and more firelight carrot spells the Treant’s way.
+
+Her plan was to keep the monster on the small landmass in the middle of the pond. Either she would burn it to a crisp, keep it occupied until she gained enough speed to take it out in one decisive blow. Or at the very least, exhaust it until it ran out of water to use to put the fires out.
+
+Tachyon’s clones had long since finished dealing with the small bushes that surrounded the area, along with several other hidden Ambush Treants hiding among the smaller trees. They had since gone on to assist in keeping the massive tree occupied as Tachyon continued to build up momentum.
+
+The Humming Beak screaming on top of her head in what Tachyon could only assume were screams- cheers of joy and excitement at the new top speed she was reaching.
+
+After several rounds around the alcove, and Tachyon had reached the peak of what she was able to confidently control. And while she would have liked to push further, she had a passenger for now. As well as she was in no danger of not being able to defeat her current opponent.
+
+Her clones had done their job of keeping the Treant preoccupied, and all three had finally been crushed to sputtering flames. But not before dealing significant damage to the large Treant.
+
+Its branches were nothing but singed black stubs, small patches of white flames covered it from head to root, and all there was left to do was a finishing blow from Tachyon.
+
+And she was happy to give it.
+
+Using her mana platforms, she enhanced them, maneuvering at peak speed to position herself above the Treant, angled just enough that when she struck that she would also take down the Controlling Stone all in one blow.
+
+Her legs connected with the platform, her flames bursting to light as they engulfed her in their brilliant white light. She bent at her knees, pushing off with everything she had stored within her skill, along with the support of her stats.
+
+Shooting down like a falling star, she cut through the air in an instant, slamming into the ground in a flash of white. The area collapsed under the force she emitted and sank in on itself.
+
+The pond flooded the crater she created, extinguishing the flames slowly as steam rose from the hole where Tachyon stood triumphant.
+
+You have killed, King Grove Treant Level 23. Experience earned.
+
+You have captured a Medium Controlling Stone.
+
+You have received 50 control points.
+
+Experience earned.
+
+Congratulations! Your race level has increased to 25. +14 to AGI, +12 to MAG and +7 to STAM, +25 Free Points.
+
+New skills available.
+
+Tachyon smiled at her handiwork, but was then reminded of her little passenger, who was still screaming and struggling at the top of her head.
+
+She released the mana thread holding her, and the Humming Beak rolled to the end of Tachyon’s snout. Her feathers puffed out and slightly singed, making her look like more of a puffball than a bird, a very sour and angry look on her face as she blew out a single smoldering feather on her tail.
+
+Tachyon smiled, not that the Humming Beak could see it, and awkwardly snickered.
+
+“S-Sorry? Ehe.”

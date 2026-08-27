@@ -1,0 +1,127 @@
+---
+id: bc184f65-1b98-5390-8c8a-9221278a1444
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1296 - Questioning Assumptions"
+slug: 0169-chapter-1296-questioning-assumptions
+partOf: the-primal-hunter
+position: 169
+ownLength: 2850
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3285622/chapter-1296-questioning-assumptions"
+royalRoadId: "3285622"
+---
+
+Jake had definitely been lucky with the group he’d met shortly after arriving in this Minor World, which he had immediately dubbed Venus. No, it wasn’t disrespectful to name their world, as it didn’t have any name in the first place. The different massive floating islands had names, but according to the Shaman, the thought of naming the entire world had never crossed anyone's mind.
+
+As for why Jake was lucky, well, a lot of the different races in Venus were less than friendly, and even if he’d met other Venusians, few would have dared to bring Jake back when they met or even spoken to him in the first place. This Minor World was inherently hostile, and when meeting an unknown, the best approach was more often than not to either retreat or fight right away.
+
+The Shaman was a bit different, though, in part due to his far higher than average level of education. As the apprentice of the Oracle, he knew more about the world than the average Venusian, making him more open to learning new things when encountering strangers. Also, unlike many of his kin, he didn’t have to fear punishment for bringing an unknown entity back to the village. His status was pretty damn high in the village, surpassing even most who were dozens of levels above him.
+
+Apparently, only Shamans could evolve into Oracles, meaning the frog Jake had met was being nurtured to one day become an A-grade, and, from the sounds of it, the Shaman’s evolution was almost an expectation at this point. Well, that or he died. Admittedly, most Shamans died long before they managed to evolve.
+
+“How many Shamans does the village have?” Jake asked as he took another sip of his quite excellent bowl of tea. Yes, bowl, as the “cups” of the Venusians were definitely not made with humans in mind.
+
+“Three others and I, where I’m the second youngest,” the Shaman answered. “Becoming Shamans is a fate we determine early in our lives. One needs to be born with the ability to communicate with the spirits of the world, and even during my time in the Life Pool, I started learning magic. By the time I emerged in C-grade, I was already a Shaman Neophyte, my fate truly set once and for all.”
+
+Jake nodded along, finding it very interesting to learn about the Venusian people. While Jake knew a bit about monsters and their Paths, he had a lot of knowledge gaps, especially when it came to these borderline enlightened species. Their society was incredibly human-like in many ways, though they certainly had their own unique cultural traits.
+
+One interesting thing Jake learned was that there was no such concept as “parents” in Venusian society. While they did have males and females who formed couples, any eggs would simply be placed in the Life Pool and hatched as part of the next generation, with no one actually knowing which egg was their own. All these children would then be raised as a single group by the Venusians assigned to do so until the day they grew from tadpoles into full frogs and emerged from the Life Pool.
+
+It felt very impersonal, but it definitely also had some advantages. Concepts like nepotism weren’t a thing, so merit and individual performance were all that mattered in determining how many resources each child would get. This approach also helped when there could be many years between generations, and given the high mortality rate amongst the Venusians, it wasn’t even certain that the parents of a particular egg were still alive at the time of hatching.
+
+While Jake certainly learned a lot, the Shaman was also interested in Jake and his race.
+
+“How do you humans approach the concept of fate and how to make each member of a new generation useful to the village?” he asked, sipping his tea. Also, yes, the tea was highly poisonous, seeing as it came from poisonous leaves, but Jake only thought it added to the flavor.
+
+“It depends on where that human is born and what kind of values that culture has,” Jake shook his head. “Humans aren’t one big united race. The outside world is nearly infinite in size, and humans are nearly always just one part of any given faction. In some factions, selflessness and living for the common good are paramount, while in other places, it’s every individual for themselves, where you can’t rely on anyone. Most places are somewhere in between, though. Personally, I’m a bigger fan of individualism, where every person can choose their own Path and live with whatever merits or consequences come from that.”
+
+Jake did not have on his bingo card that a trip to Venus would include sitting in a large tent drinking tea with a space frog talking philosophy, but life truly was full of surprises.
+
+“Intriguing,” the Shaman nodded. “What other races are part of these factions, I wonder?”
+
+Seeing as the Shaman had been nice and sated much of Jake’s curiosity, he returned the favor and gladly shared some common knowledge of the multiverse. There truly was no need to hide these things, as the Venusians would no doubt enter the true universe one day, and at that time, they would learn everything Jake said anyway. No reason not to at least let them be a little prepared.
+
+The two had a long talk and drank a lot of tea inside the lavish tent, which truly conveyed the Shaman’s status. It had plenty of colorful decorations, was a nice lakefront property next to the Life Pool and temple, and was also far above average in size.
+
+Of course, eventually, the tea ran out, and it was time for Jake to actually head out and see a bit of what Venus now had to offer. And he had a good idea of where to go first.
+
+“You recall where we first met, right?” Jake asked the Shaman, who nodded in confirmation.
+
+“Back then, I saw you battle a Boglord, and after getting in some damage, it retreated, and you didn’t pursue. Seeing as it’s still there and very much alive, how about we go finish the job?” Jake asked with a smile.
+
+Immediately upon seeing the Boglord, Jake wanted to fight it. Plus, he kind of wanted to show off in front of his new frog buddy, and what was better than trashing an opponent the Shaman and his party had struggled against?
+
+However, rather than get an enthusiastic response that it was time for a rematch, the Shaman looked at Jake with utter confusion. “Do you mean to slay the Boglord?”
+
+Jake realized that the Shaman had no idea how strong Jake was and nodded reassuringly. “Naturally, and while my level might be low, I think you’ll come to realize I’m quite competent. Competent enough that I’m confident in killing that Boglord on my own.”
+
+The Shaman looked at Jake as his eyes opened wide. “Goodness, no! That would simply be a disaster!”
+
+Now it was Jake’s turn to be confused. “Why?”
+
+“Do you know what... no, I forget, you do not,” the Shaman sighed, shaking his head. “Boglords are the spawn of a greater being that’s one of the five strongest creatures in the world. Slaying a Boglord will make this being aware and risk attracting its ire. However, perhaps more importantly, these Boglords are highly beneficial to the land. The water sources they reside in are constantly infused with energy, allowing life to thrive, resulting in many plants and similar life-affinity growths in their vicinity. Having a Boglord nearby is a blessing, not a curse. Now, I shall admit that the Boglords can become problematic when awake, destroying much of their surroundings, and as a result, we regularly send out teams to force them into slumber once more. We were one such team. The goal was never to slay the Boglord, but merely to make it return to the depths for hopefully many years in the future.”
+
+“Oh,” Jake muttered, visually deflating in his oversized seat. “Guess it’s a good thing I didn’t head out to kill it by myself, then.”
+
+“It most certainly is,” the Shaman wholeheartedly agreed. “However, there are plenty of beings you are more than free to slaughter to your heart’s content. Many lone monsters roam these islands, but you are also free to target other factions we are not friendly with.”
+
+Jake nodded slowly. “You know what? How about we just head out there, and you show me where there are bastards that need a good slaying? That way, you can also properly introduce me to more of this world.”
+
+“We can most certainly do that,” the Shaman nodded with a smile as he stood up. “Let us be off, then.”
+
+“Let us,” Jake smiled, a big fan of the quick and decisive action of the frog.
+
+“The others will meet us at the edge of the village. Now, please, follow me,” the Shaman said, leading Jake out of the large tent and out of the village. The circular crater-shaped valley didn’t have any walls or anything, but only had the natural defenses of the valley itself to mark its location, and when one had left the village limits.
+
+It didn’t take them long to reach this limit, where four frogs were already waiting for them. Three Warriors and one Virumancer, with them being the same ones the Shaman had in his original party. Consistent parties were something the frogs also did, as that was simply the best way to go. The same people working together for a long time led to a lot of implicit understanding and improved teamwork, something Jake could certainly attest to after Nevermore.
+
+Jake also had to confess something. Initially, he had believed that the Warriors were male and the Virumancer was female, solely based on their builds. The warriors were all large and bulky, while the Virumancer was lithe... but so was the Shaman, who was actually male. It turned out that physical appearance had nothing to do with sex but was solely due to what variant they were, teaching Jake that he really shouldn’t apply human standards to B-grade frog monsters. Something really hammered home when he learned that two of the Warriors were female, and one was male.
+
+He could not tell the difference. Apparently, one could tell by the patterns on their skin, but Jake felt he would need to read an entire thesis to actually tell them apart. Hence, he didn’t even bother trying.
+
+Following the Shaman, they headed directly opposite to where Jake had initially encountered them. On the way, the Shaman told him more of the world as Jake asked questions. One of the things he asked was if they were heading to another island, which was when he learned that there was a vast distance between most islands, with the closest to the one they were currently on about two months’ worth of flying away.
+
+This also served as a reminder that this world was very different from the regular universe. Flying between planets was much faster than flying on a planet, as the emptiness of space meant there was little to no resistance, allowing near-constant acceleration and little loss of speed due to environmental factors. Something that was not at all the case in this Minor World, where the atmosphere was dense and slowed everyone down a lot.
+
+Jake had already noticed that his range with One Step was significantly reduced, and he also suspected that any attacks made would be weakened by the environment. The toxic energy would wear down any energy they came into contact with, which would definitely affect larger explosive attacks more than smaller ones.
+
+Not that Jake thought he would be that affected. He had already confirmed his stable arcane energy was borderline immune to any environmental effects, and with attacks like Protean Arrow, the sheer potency and quantity of energy involved was too much for the environment to do much.
+
+Jake also started reflecting on why the Venusians weren’t an enlightened species. Why no race in this Minor World was. At first, he had thought it was because they lacked something, such as a certain level of civilization, but that clearly wasn’t the case. Also, when he thought about it more... weren’t the Endless Empire also a very well-established civilization? Weren’t the dragons?
+
+He began to question if perhaps he’d gotten it wrong from the beginning. His default assumption had been that civilized and social races would automatically move towards being an enlightened species, but on further consideration... why? Why would that be the default?
+
+Especially in a situation where being enlightened could be downright negative.
+
+Monsters could gain experience and grow simply from the environment itself. As long as the Records were dense enough and the energy sufficient, they could continue to grow simply by staying alive and actively working on absorbing and refining this energy. Something enlightened races could not. They needed to level their classes and professions, and even if they only had one of those, like the vampires, they still needed to progress it.
+
+Even the crafters of the Venusians didn’t actually get much experience from crafting. Same as the Shaman and other more fighting-oriented variants, they didn’t get much experience from battles. To them, fights were more about improving Records and getting better at fighting than earning experience. The bulk of their progress came from refining the incredibly potent toxic energies that filled the entire Minor World.
+
+In other words, being an enlightened being in this Minor World would be highly detrimental. It would mean missing out on the biggest benefit the entire world innately provided through its atmosphere, and Jake reckoned that especially those focused on professions would struggle due to the lack of resources.
+
+Evolution was inherently about bringing one closer to perfection, so how would becoming an enlightened race ever be considered that in this world? Even going by a more classical pre-system definition of evolution that was all about survival of the fittest, Jake was pretty sure that if an enlightened variant of Venusians was born, that poor frog would have a terrible time and die early without gaining many levels.
+
+In retrospect, maybe it was a little silly to consider that every race “wanted” to become enlightened in the first place. Being enlightened or a monster both had pros and cons, with the environment and other factors often determining which was best. Maybe if a group of Venusians left Venus for Earth, their descendants would one day become enlightened, but who knows? All Jake knew was that his view of the subject had been incredibly flawed from the get-go. Pretty silly coming from the Chosen of a Monster, but oh well.
+
+The group of six flew for a solid two days before reaching their destination. On the way, they did encounter plenty of things, including a few dozen powerful B-grade monsters, but none of which the Shaman thought necessary to hunt down. Again, the Venusians only really cared about hunting down creatures that were a threat to their villages or members of enemy factions.
+
+Which, fortunately, was exactly what they had been heading towards.
+
+“There are a few races I would classify us as truly in conflict with,” the Shaman explained as they were coming up on what Jake hoped would be a prime hunting ground.
+
+“Most races or factions try to remain neutral, such as the Nomads, but some are hostile by nature,” the Shaman continued. “Not necessarily due to hostile intent, but literally due to their natures requiring them to constantly seek new resources or claim new territory. Their existences are incompatible with that of others, making us enemies by necessity.”
+
+Jake nodded along, hearing a story that was as old as time itself. That was also why most factions of the multiverse ended up as enemies. The Risen and Holy Church hated one another because the Risen couldn’t become members of the Holy Church due to how their souls worked, meaning that the bigger the Risen faction was, the fewer potential members the Holy Church had. Even the Endless Empire and Rigoria originally became enemies over resources, both having to consume insane amounts to keep expanding.
+
+“What kind of creatures are in this faction?” Jake asked curiously.
+
+“You’ll see soon,” the Shaman said. “And I will already warn you now to be careful. Many Venusians have fallen at their hands, leading to a fate worse than death.”
+
+Hearing such a warning only made Jake more curious, and fortunately, he soon felt the first signs of these enemies. Ahead of them, a familiar kind of energy appeared on the horizon, a sense of death mingling with the toxic, corrosive atmosphere.
+
+Undead.
+
+Unsurprising, considering the kind of world he found himself in. Jake had no inherent dislike of the undead, seeing as one of his best buddies was a Risen. However, when he got closer and finally spotted the first undead...
+
+Yeah, alright, Jake was on board; these fuckers had to be exterminated.

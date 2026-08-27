@@ -1,0 +1,137 @@
+---
+id: 44da9d98-fdce-54e0-8ac3-fb1199720fd8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1222 - A Plan Within A Plan"
+slug: 0094-chapter-1222-a-plan-within-a-plan
+partOf: the-primal-hunter
+position: 94
+ownLength: 2640
+unit: words
+ownProgress: 2640
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2856333/chapter-1222-a-plan-within-a-plan"
+royalRoadId: "2856333"
+markedReadAt: "2026-06-29T19:32:14.610Z"
+---
+
+The reaction of the A-grades present in the auction halls was swift as they all exploded with power and rushed the stage. Two massive explosions of poison gas from the father and daughter pair obscured the stage, and when a mid-tier A-grade blew away the poison cloud with a powerful skill, it was revealed that the Eye of the Magus was gone.
+
+These two explosions had caught many of those in the first few rows in the blast, sending them flying back into walls, with several of the weaker ones already dead before they even hit it. The entire hall was in absolute pandemonium, which only helped the Viper, who was currently lying face down with a decaying corpse on top of him.
+
+After the second explosion, he had quickly taken the Eye of the Magus before using the poison cloud to disguise himself among the dead. The roughly dozen A-grades who’d gone down to the stage looked around before one of them said something to the others. A few of them looked to disagree with whatever the man said, but seeing as the one originally speaking was the strongest among them, Jake reckoned he didn’t listen.
+
+In the next moment, all the other A-grades teleported away, leaving just the one powerful A-grade behind. He looked around the room as his voice echoed.
+
+“I assume the culprit is still here… so let us check.”
+
+Jake saw the Viper’s eyes open wide for a moment as the A-grade summoned a ball of pure white flames. In the very next instant, it exploded, consuming the whole hall and the entire city district in an instant.
+
+The Malefic Viper didn’t seem to have any other good choice as he clicked his tongue right before scales covered his entire body, warding off the flames. When the flames subsided, all that remained were two figures floating over a massive pit with glass walls created from the intense heat.
+
+“So it was you,” the mid-tier A-grade said as he looked at the Malefic Viper. He was a mage wearing a white robe and with a bushy beard extending down to his stomach, with his power naturally speaking for itself. “I did think something was off about you, but I didn’t expect this.”
+
+“You also struck me as the cunning sort,” the Viper said, peeling off a few overly-damaged scales. “Though I must say, I didn’t see the City Lord burning down his own city.”
+
+The City Lord shook his head and briefly glanced below him. “Did you expect me to move and save the citizens?”
+
+“Well, I figured there was a chance you would,” the Malefic Viper shrugged. “If you had, we both could have saved a lot of effort and wouldn’t have had to take unnecessary risks.”
+
+“How long have we known each other, Jabaliah? Though of course, I now doubt that’s truly your name,” the City Lord asked.
+
+“We’ve never known each other, oh dear City Lord,” the Malefic Viper merely smiled.
+
+“How about that woman of yours? Didn’t you spend over a decade with her? Was it truly all just a ruse for this day?” the City Lord said, looking exhausted at the notion.
+
+“No, no, you misunderstand; that was just part of the cover story,” the Malefic Viper said, shaking his head. “I decided on this place due to the availability of resources. You so-called enlightened love your trade, and I must admit I also find myself a fan. I had planned on staying here for another few decades more, but after becoming aware of the Eye of the Magus, the temptation to burn this life was simply too much to bear. My choice of the Golden Road Emporium’s director was originally chosen because it would give me easier access to the merchants, but proved highly valuable indeed.”
+
+The City Lord looked at the Viper with disgust. “Referring to enlightened like that… a monster disguising itself as one of us, huh?”
+
+“I was one of you for a little time,” the Viper shook his head. “I can be an exemplary citizen when I need to be, as long as you don’t tempt me to give up that life. Because when I’m tempted, then yes, it’s back to being a monster once more.”
+
+“Lies, you would never have left willingly without leaving anything but destruction in your wake,” the City Lord scoffed. “It’s not my first time dealing with a beast like you.”
+
+“Now that’s just you being prejudiced and hurtful,” the Viper said, acting all hurt. “Also, I’m wondering here… I know why I’m doing it, but why are you keeping this conversation going to buy time?”
+
+The City Lord didn’t even look surprised as he smiled. “To make sure you wouldn’t get away.”
+
+Right as he said this, large pillars of energy erupted in all the cardinal directions. Screens of light quickly formed between them before a massive spherical barrier surrounded this entire piece of the planet.
+
+The Viper looked surprised for a second as he looked at the mage. “You-“
+
+“Also happen to be the World Leader,” the mage’s smile deepened. “And I had fully expected something to happen during this auction. I heard rumors that someone was aiming for the Eye of the Magus, and the trap was truthfully prepared for them, but I guess catching you instead isn’t all too bad.”
+
+“See, that makes a lot of sense,” the Viper slowly nodded as he glanced around. “Certainly explains things.”
+
+As he said this, more A-grades teleported in, having likely been the ones to set up the formation initially. There were thirteen others at the A-grade level, with two additional individuals besides the City Lord at the mid-tier A-grade level.
+
+They all surrounded the Malefic Viper, seemingly giving him no way to escape. Jake, who was experiencing all of this, had numerous thoughts about the events that had unfolded so far. Villy’s betrayal of the beastkin woman and her father was something he would address later, but looking at the situation, it seemed almost too sloppy.
+
+Sure, the Viper would likely just use his version of Wings and use its escape function to exit the barrier and get away with the Eye of the Magus, but if that was the plan, why even allow them to set up the barrier in the first place?
+
+No… Jake guessed there was more to the Viper’s plan than this.
+
+The City Lord didn’t look interested in speaking anymore as he summoned a staff to his hand and pointed it towards the Viper. “I would ask you for the Eye of the Magus back… but I can just take it off your corpse.”
+
+His staff exploded with magic as the sky above the planet was consumed in flames. All the other A-grades also made their move, forcing the Viper to do the same as he unleashed his own aura, finally also revealing to Jake how powerful the Malefic Viper was at this stage in his life.
+
+Villy had clearly reached A-grade, but he was still far below the level of the City Lord and several of the other A-grades present. In fact, only one of them seemed to be lower level than the Viper, but did all that truly matter?
+
+Because, although the Malefic Viper was at a lower level… he was also a True Dragon.
+
+The humanoid visage was torn apart as the Viper’s body grew manifold instantly, the magic of the ranged attacks searing across his glistening dark green scales. In the blink of an eye, he had turned from a humanoid form to his full dragon form.
+
+Dark green scales covered his entire body, with spikes still protruding from his spine. His two wings were massive, with the webbing seemingly glowing with a toxic light as the Malefic Viper spread them out and let out a deafening roar.
+
+A shockwave sent several of the A-grades reeling back, giving the Viper a chance to attack. Numerous wisps of magic filled the air, forming hundreds of small magic circles that each unleashed magic upon the A-grade attackers with reckless abandon.
+
+At the same time, the Viper also physically went for the mage wearing white, who was apparently also the World Leader. He swept down his claws, but the mage was ready as he swept up his staff, summoning a crescent wave of pure white flames that swept up and recoiled the Viper’s blow.
+
+With his free hand, the mage pushed forward, making the air vibrate and shimmer around him as a massive shockwave of pure force slammed into the Malefic Viper, sending the large dragon tumbling for a moment from the sheer impact.
+
+Pretty strong, Jake noted, though he knew that the mage was ultimately not capable of facing the Viper at all. This became extra clear after the Viper unleashed even more magic, with it quickly becoming clear that only the three mid-tier A-grades even stood a chance at fighting the True Dragon.
+
+Even then, they quickly started struggling, making Jake question once more why the Viper had bothered with this entire scenario in the first place. He was clearly stronger than they, yet he’d plotted and schemed when he could have presumably just gone into dragon form and crashed the auction.
+
+Jake continued to consider this as the battle progressed. Unsurprisingly, the entire city below had been leveled within only a few short blows, and it didn’t even take long before everything besides the A-grades within the massive spherical barrier was obliterated, leaving just a wide open space for them to fight.
+
+From his estimates, this massive barrier was roughly the size of the moon, but even then, it nearly felt too small for A-grades to battle within. Moreover, as the battle went on, it was clear that this barrier proved itself more of a detriment than a boon for the A-grades trying to take down the dragon.
+
+The World Leader was a powerful mage who tried to make use of the relatively limited space to burn the Malefic Viper, but he’d clearly not known he was facing a True Dragon, for if he’d known, he’d have realized how stupid a plan that was.
+
+Dragons were legendarily resistant to magic, and based on the World Leader knowing the Viper was a dragon merely by seeing him, he reckoned these A-grades also knew. Speaking of the A-grades, Jake only noticed now that every one of them, besides one – someone Jake believed was the leader of the security team – was a mage of various kinds. Not very surprising, considering they had come to bid on an item called Eye of the Magus.
+
+Soon enough, seemed to finally realize what Jake had known all along. While they were certainly putting up a good fight, with the Viper having failed to kill any of them off quite yet, they were all slowly being whittled down.
+
+The barrier also proved to be a significant problem, as it allowed the toxic fumes released by the Malefic Viper to spread within, making it impossible to avoid being poisoned. Knowing they were in a losing battle, many turned towards the World Leader.
+
+While Villy and thus Jake couldn’t hear what they spoke out as they communicated telepathically, something was clearly wrong as signs of panic appeared on the World Leader’s face. The other A-grades started to look toward the mage wearing white with frustration, but soon enough, this frustration turned to worry, before becoming full-on panic.
+
+Finally, the World Leader addressed the situation directly, and as he unleashed a torrent of flames that would likely be able to burn planet Earth to a crisp, he yelled at the dragon, who merely summoned a barrier to defend while relying on his scales for anything that managed to get through.
+
+“What have you done! Why is-“
+
+“You shouldn’t ignore rumors,” the Malefic Viper said as he unleashed a quick counterattack while he spoke in a mocking tone. “Perhaps the worry you felt was real… and there indeed was someone else aiming for the Eye of the Magus. As they say, great minds think alike, and I found a like-minded fellow.”
+
+Taking further advantage of the amplified despair his words created, the Malefic Viper managed to land his first kill only a moment later, slaying one of the weaker A-grades. At this point in history, Jake reckoned that the death of A-grades was a rare thing; at least it seemed to have a major impact on the others when they saw him die.
+
+Some tried to negotiate, some tried to escape, while a few tried to still fight. However, with their cohesion broken, the Malefic Viper’s rampage picked up speed as the A-grades were slain one by one.
+
+Several also tried to break the barrier sealing them in, but it appeared utterly indestructible, no matter what they threw at it. When the Malefic Viper unleashed a Dragon’s Breath to slay the World Leader, even that was blocked, though it did look like the Viper purposefully pulled his punch a bit to ensure the barrier’s integrity.
+
+With the most powerful combatant dead, it was only a cleanup job from there. One after another, the dozen or so A-grades were slain by the single dragon, and in the end, they barely even managed to do any damage to the Malefic Viper. As a group of mages, they had faced the apex of magic and been found lacking.
+
+However, Jake still had many questions. Why did the Viper set up this entire situation? He could guess that the Viper had wanted to kill all the A-grades and had made use of the barrier to do so, but why? Sure, he would get some experience points for it, but Jake seriously doubted that was all. It couldn’t be about witnesses either, as the Viper was clearly an expert at disguising himself. Finally, this was a vision related to Palate of the Malefic Viper, right? Because Jake sure as shit hadn’t seen anything related to that skill yet. Plenty of other Legacy skills, but not the one he’d actually come here for.
+
+There was also the fact that this was a high-Record fragment that had consumed two uses of Path of the Heretic-Chosen, and Jake had seen the fight between the Malefic Viper and Valdemar last time he did that. He would be lying if he hadn’t expected more grand revelations, and while it was interesting to hear that the Golden Road Emporium was around all the way back in the first era, this all still felt lacking.
+
+So many questions… but it seemed that he would get at least a few of them answered very soon.
+
+Even after the last of the A-grades were dead, the barrier didn’t disappear. Instead, a single figure appeared to have teleported in to stand atop the barrier. It was a male figure of some kind, but not one Jake immediately recognized.
+
+“Keep the barrier active for now and let it drop at my signal,” the Malefic Viper said, the hooded figure standing atop the barrier giving him a quick nod before teleporting away again.
+
+In the next moment, the Malefic Viper took a deep breath, and at least Jake had reached the part of the vision he’d been waiting for. Time seemed to slow down, and Jake’s senses merged with the Viper’s as he felt everything. The Records of Palate of the Malefic Viper within him seemed to stir and resonate with those of the Viper, Jake actively feeling the parts that had been broken being replaced at a slow rate.
+
+At that moment, Jake understood what the would-be Primordial was about to do before he even did it, giving him time to mentally prepare as the Malefic Viper proceeded to do what the Palate of the Malefic Viper’s flavor text kept talking about:
+
+Devoured the world.

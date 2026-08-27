@@ -1,0 +1,143 @@
+---
+id: 7ad9cb9b-73f1-5844-83ea-fba4d7d4535e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1208 - Back In the Saddle"
+slug: 0080-chapter-1208-back-in-the-saddle
+partOf: the-primal-hunter
+position: 80
+ownLength: 2729
+unit: words
+ownProgress: 2729
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2789007/chapter-1208-back-in-the-saddle"
+royalRoadId: "2789007"
+markedReadAt: "2026-06-29T19:31:48.170Z"
+---
+
+“How many are part of the original clan?” Miyamoto asked as he looked at the proposed city plan.
+
+“A faint minority by now,” his great-niece answered, her fanged teeth showing slightly as her mouth opened and closed. She was one of the many vampires from the Noboru clan and a leader who advocated for as many members as possible to “embrace the power of blood.”
+
+“However, even with that being the case, their loyalty is unquestionable,” she continued. “Especially with the recent support of the vampires from the Order of the Malefic Viper, our position has never been stronger here on Earth.”
+
+“Is it truly our position?” the Sword Saint asked, raising an eyebrow. “Or is it the position of the Order? From what I heard, more and more of the populace has started to consider the Noboru clan as just another minor branch of the Order.”
+
+“I cannot dispute that,” his great-niece sighed. “Some effort has been dedicated to defining the distance between our two factions and emphasizing the independence of the clan, but seeing as the Order is the only major faction accepting of vampires, it has proven difficult. Moreover, we cannot distance ourselves too much, as our connection to the Order is also one of our major strengths.”
+
+The Sword Saint nodded solemnly, knowing his clan found themselves in a difficult situation. Being what was now essentially a clan of vampires had created quite a number of challenges, many of which he had not fully considered before accepting the divine relic of Sanguine and allowing his clan members to embrace the Path of the fallen god.
+
+While he had some understanding, he hadn’t fully comprehended just how isolated and generally hated the vampires were in the multiverse. Few, if any, had, besides maybe Jake and a few others with more multiversal knowledge.
+
+In Miyamoto’s eyes, the vampires weren’t that much different from the Risen or monster races when it came to how derisive others could view them. Historically, vampires have been viewed as evil creatures, but so have the undead and monsters that lived by consuming other sapient beings.
+
+Reality was that, due to the history of the multiverse and due to the fall of Sanguine, the vampires were less than popular. Miyamoto believed there was a good chance the Risen would also be a race looked unfavorably upon if they didn’t have a Primordial backing them up. Now more than ever.
+
+Case in point, after the Malefic Viper had displayed his true power by killing Yip of Yore and afterwards made clear he had embraced the vampires as a core of the Order of the Malefic Viper, the level of discrimination had started falling instantly.
+
+Sure, the Risen and Holy Church still had official policies against the vampire race, but they had done away with their open bounties where one could turn in vampires for rewards.
+
+This change was also why Miyamoto understood why it was so challenging to distance themselves from the Order. Without the Malefic Viper’s backing, his fellow clan members who had embraced vampirism wouldn’t be able to exist in the rest of the multiverse, and the misconception they were part of the Order functioned as a shield they couldn’t do without... because the Sword Saint didn’t doubt that the Risen and Holy Church would both gladly “cleanse” the multiverse of any rogue vampires that didn’t have Primordial backing.
+
+“When is construction slated to begin?” Miyamoto asked while continuing to study the city plan.
+
+“Initial groundwork has already started, but we estimate it to take around a month before initiating the migration,” his great-niece explained before looking a bit nervous. “Does the Patriarch have anything he wants to add?”
+
+“None, as I said before, I don’t plan on getting directly involved in matters like these,” the Sword Saint answered with a calming smile. “I was just curious upon hearing that the Noboru clan would construct a major city in its own region.”
+
+The city that his clan had been planning was situated far away from Haven or any of the other major cities of Earth. Due to the proximity of all the humans on Earth after the Tutorials, most cities were in a small area of the planet about the size of a minor country, but now that all territory of the planet had effectively been claimed, everyone had started expanding and moving. As things were, only Skyggen – the headquarters of the Court of Shadows – and Haven would stay as the only major cities in the original area, while other factions moved to claim territory of their own.
+
+Creating some distance between factions could also help lessen conflict and needless competition for real estate. While Miranda wanted to avoid segregating the different major factions and races, some segregation would naturally appear when the Risen, United Tribes, vampires, and even a few of the Dragonflights wished to get a small territory of their own.
+
+Miyamoto also didn’t question that Miranda liked the high taxes she claimed from factions effectively renting these different territories.
+
+“I have also discussed with the different elders to construct a small outpost in Labyrinth City,” his great-niece continued after a little while. “Mainly to ensure that the clan continues to have a presence in all major hubs. We’re already striving to establish businesses in most cities so our name stays relevant in the common discourse, and-“
+
+“I trust you all have it handled,” the Sword Saint lifted a hand as he smiled. “I only came today out of curiosity and to hear if the clan is experiencing any struggles, but you seem to have things handled... at least I thought so. What’s wrong?”
+
+Towards the end of his sentence, her face had fallen a little, making Miyamoto believe there was indeed trouble.
+
+“It’s nothing significant,” his great-niece shook her head.
+
+“Then you should be able to tell me without hesitating,” the Sword Saint insisted.
+
+“There are just a few minor factions who’ve been working against us using unscrupulous means,” she said, clearly downplaying things.
+
+“Elaborate. Are they simply doing business in a fashion you do not find acceptable while still operating within the law, or are they taking it beyond the realm of mere business?” he asked, his voice calm but cold.
+
+His great-niece clearly hesitated before speaking. “There have been some threats, and one of our own was attacked when-“
+
+“Well, then,” the Sword Saint said, a small smile without a hint of joy marring his lips. “It seems I will have some clan matters to get involved in after all.”
+
+Perhaps he had been gone from Earth for a bit too long, and it was time to remind the factions of Earth that even if the Noboru clan didn’t have a Primordial, that didn’t mean they lacked a backer.
+
+Jake manipulated the concoction with extreme precision and caution as all the different energies mixed and interacted with one another. He empowered some aspects with energy while trying to control others so that no single part of the whole overwhelmed the entire mixture.
+
+He paid special attention to one part of the poison-in-progress. Most of the liquid came from Jake’s own Blood of the Malefic Viper, but some of the blood was different from all the rest. It was regular human blood, donated by Jake himself for the concoction. Many of the ingredients in the mixture were there to try to amplify certain Records within this blood and allow these Records to serve as a guide for the rest of the poison.
+
+This was by far the hardest part of this poison, in part because it was something Jake hadn’t done before. It hadn’t helped that he effectively had to discover what ingredients to use on his own, an endeavor that had taken incredibly long and included many failures.
+
+The only lucky thing was that Jake didn’t have to pay for all the waste he had been responsible for. It was nice having a divine friend one could leave the bill to.
+
+Continuing to focus on the concoction, Jake felt it slowly progress. He was already three hours into this crafting attempt, taking it incredibly slow to try to ensure that everything went as it should.
+
+His Altmar Cauldron of Supreme Simplicity was teeming with power as he kept pouring in more and more mana while even adding in more ingredients here and there when he burned through the energies provided by what he’d already added.
+
+Jake wasn’t even sure how many attempts to craft a bane poison he was up to; all he knew was that it had been several months since he’d returned to the Order, and during this time, he’d done nothing else. He’d even been a pretty shitty boyfriend who hadn’t seen Artemis even once, as Jake had entered his usual state of hyper-focus where nothing else but alchemy and trying to improve his Meditate skill mattered.
+
+As the crafting attempts progressed, Jake got further than ever before as he struggled to keep everything stable. Most of the liquid in the cauldron had evaporated by now, leaving only a little left, which likely contributed to making things easier as he had less to keep track of.
+
+Still, it put him on a timer as the liquid continued to evaporate, making the contents of the cauldron more concentrated while increasing volatility as the energy intensity grew.
+
+Jake was sweating and felt like things were about to fall apart, but he refused to give up and tried to make one final push. Summoning whatever mana he had left, Jake attempted to keep everything stable for just a little longer. Seconds ticked by, and just before Jake lost control... he heard the sweet, sweet sound of a system message, marking his success.
+
+Fucking hell, Jake cursed to himself while trying to suppress his growing headache from spending too much mana. However, despite his words, Jake was grinning from ear to ear as he looked at the contents of the cauldron.
+
+There was barely enough liquid yet to fill two small bottles, but Jake, quite frankly, didn’t give a damn, as all that mattered was his success. Looking at the system message, his smile only grew, despite how silly the name of the poison was.
+
+You have successfully crafted [Weak Humanoidsbane Poison (Epic)] – A new kind of creation has been made. Bonus experience earned
+
+Humanoidsbane definitely sounded dumb, but it was pretty much just an automatically generated word based on the nature of the bane poison, so there really wasn’t much to say. Luckily, Jake didn’t need to yell out the names of his poisons during combat, so it didn’t matter either, and what truly mattered was the effect of Jake’s newest toxin.
+
+After carefully bottling the poison, Jake used Identify to see what he was working with.
+
+[Weak Humanoidsbane Poison (Epic)] – Humanoids are one of the most common classifications of living entities in the multiverse, so why not have a poison more effective against them? Deals significant damage and inflicts various ailments on affected creatures, most commonly displaying effects of a necrotic and hemotoxic nature. This poison is significantly more effective on entities with Records identifying them as humanoid, while completely ineffective against those that do not. Bane poisons directly bind themselves to the Records of affected creatures, making it incredibly difficult to heal.
+
+So, from all Jake had studied about bane poisons, this one was pretty shit and barely qualified. Broad-spectrum bane poisons generally sucked, and a humanoid-focused bane poison was about as broad as one could get. It would work against beastkin, humans, elves, Risen, vampires, dragonkin, and pretty much any creature that the system classified as humanoid.
+
+This was also why the effect of the poison was so general. One good thing about bane poisons was that they would nearly always work as long as one used them on intended targets, as the poison targeted Records first and foremost. Against a Risen, for example, it wouldn’t do any necrotic damage as death-affinity attacks tended to be pretty crap against them, but would instead adopt another vector of attack to inflict damage.
+
+Now, while this sounded incredibly nice – which it in some ways was – it was also further evidence of how bad using such a broad bane poison was. It had to expend a lot of its invested Records and energy to achieve this ability to attack widely, something that wouldn’t be necessary against a more focused target.
+
+Even with all this said, against humanoids, Jake was pretty confident this poison was the best he’d made so far, even if there was substantial room for improvement in so many areas. Seeing that it was classified as a “weak” poison in the name, despite being the highest rarity poison Jake had ever crafted without triggering Malefic Viper’s Poison, Jake didn’t find himself discouraged. Quite the opposite, in fact.
+
+It meant he had a lot of room for improvement and something to strive towards. Alas, for now, he found himself happy with his success as he admired the poison. Besides, his success this time around hadn’t just netted him his first-ever bane poison, but had also gained him something else he’d wanted for a long time:
+
+A skill upgrade to Concoct Poison.
+
+[Concoct Poison (Rare)] - While most focus on the aspect of giving life through their craft, others prefer to take it away. Allows for the concoction of rare rarity poisons and below. Must have suitable materials and equipment in order to create poisons. Adds an increase to the effectiveness of created poisons based on Wisdom.
+
+-->
+
+[Concoct Poison (Epic)] - While most focus on the aspect of giving life through their craft, others prefer to take it away. Allows for the concoction of epic rarity poisons and below. Must have suitable materials and equipment in order to create poisons. Adds a noticeable increase to the effectiveness of created poisons based on Wisdom.
+
+It certainly wasn’t the most interesting skill to upgrade description-wise, yet it was perhaps the most impactful. Having his general crafting skill upgrade like this meant that every poison would be better going forward, courtesy of the small change in the final sentence of the description.
+
+As usual, Jake wasn’t certain just how big the bonus would be, but any improvement was a good thing.
+
+The skill upgrade and successful craft naturally also meant something else, as Jake found himself on the receiving end of quite the windfall of experience, and as always, his first craft, resulting in a rarity upgrade, proved itself to be quite something.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 338 - Stat points allocated, +35 Free Points
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 339 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 335 - Stat points allocated, +45 Free Points
+
+Two levels didn’t seem like a lot, but to Jake, it was honestly more than he had expected. He’d gained a lot of profession levels recently, which usually meant it was harder to gain more. Plus, even if he’d gained fewer levels, he wasn’t afraid of not reaching the cap of C-grade sooner rather than later, considering he also had a Palate skill to fix and a Meditate skill to upgrade.
+
+It wasn’t like he didn’t also have plenty of bane poison crafting left to do. While the weak humanoidsbane poison was a great start, it was only that: a start. Jake had a long way to go before he was at a stage where making a dragonsbane poison was feasible, but today, he had at least moved one step closer.
+
+One step closer to reaching B-grade, and one step closer to finally fulfill his dream of hunting down an actual dragon.
+
+Smiling, satisfied with his progress and happy to be back in the saddle doing some alchemy in the Order, Jake got up and went back to the living room of the house to rest a little, seeing as his resources were nearly empty. He was feeling pretty good about himself... at least he was until he took out his token to see if he’d received any messages, only to find a few dozen waiting for him, with one of them giving him some weird feelings.
+
+... why the fuck would Villy make me do that?

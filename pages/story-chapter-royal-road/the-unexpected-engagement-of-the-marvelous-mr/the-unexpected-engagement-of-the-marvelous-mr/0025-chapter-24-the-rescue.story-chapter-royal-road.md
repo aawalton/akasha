@@ -1,0 +1,391 @@
+---
+id: b2781b79-52e1-54a5-8729-d9b25ddd60ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24 - The Rescue"
+slug: 0025-chapter-24-the-rescue
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 25
+ownLength: 3658
+unit: words
+publishedAt: 2022-06-15
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/928210/chapter-24-the-rescue"
+royalRoadId: "928210"
+---
+
+Penn stood on the edge of the roof, leaning into the slope and staring down at the dark street. The caged fires created pockets of light that showed fragments of what was happening. More men than might be expected at that time of night were milling around the edges of the light, trying to act casual.
+
+Which was a complete joke. Nothing in the world drew as much attention as some idiot trying to act casual. You either were casual or you weren’t. There was no point in acting.
+
+One figure didn’t bother pretending. The man had an innate stillness that betrayed both purpose and patience. He was the man Penn watched.
+
+A few minutes passed, then the figure stepped into the light of the nearest burn cage. It was Haley, and he was looking right at Penn. When he nodded, his chin only dropped a fraction of an inch.
+
+The thief turned and crawled toward the back of the building. He made sure his feet landed over the brick wall below him. Roofs tended to echo, and he had no doubt that Farnham would be listening. When Penn was in line with the last ceiling hatch, he crept up the slope, eased the hatch open as wide as it would go, and let down the rope he’d secured earlier.
+
+The familiar tingle of excitement reached his fingertips about then.
+
+Eleanor stirred when she heard the men on the floor below moving around. The change in the noise was subtle, but she could tell something was happening.
+
+That realization was hardly worth the pain of returning to her senses. Her head throbbed, the cuts ached, and there was a chorus of agony from her joints. She never would have imagined that immobility could be so excruciating.
+
+And there’s nothing I can do. Her heart whimpered at the thought.
+
+Struggling against her bonds would probably dislodge the clots on her arms, and she knew she would be in serious trouble if they started bleeding again. Even if she did decide to risk it, she doubted she’d be able to escape the ropes—nevermind being able to do it before Farnham noticed the attempt.
+
+When the gang had returned, Farnham had ordered them to bring up a lantern and chair. The chair was placed in front of the partition beside her, and the only time he had moved from it was when it had gotten dark enough he wanted to light the lantern.
+
+At the moment, he was leaning back in the chair. Two legs were in the air while the back of it rested against the partition. He was cleaning his nails with the tip of his knife. They were alone. Others had come and gone, but it seemed that no one wanted to be around Farnham while he was in such a mercurial mood.
+
+They both heard the sound of someone ascending the stairs. It was Scott, the brute.
+
+“Mr. Farnham?”
+
+Farnham tucked his knife away. The two front legs of the chair hit the floor with a thud. “What is it?”
+
+Scott clenched and unclenched his hands. “There are…men.”
+
+Farnham stood up. “What do you mean, men?”
+
+“Outside.”
+
+“Are they doing anything?”
+
+“N-no. But there’s a lot of them.”
+
+Farnham stared hard, but Scott, even as nervous as he was, didn’t flinch.
+
+When Farnham walked toward the front gable, Scott followed him.
+
+Eleanor had thought her emotions were dead, but a flutter in her chest made her realize that some hope had survived.
+
+Would he come? It would be stupidly dangerous. But Penn had done stupidly dangerous things before.
+
+The two men stared at the street below.
+
+“I see them,” Farnham said.
+
+“Do you think they have anything to do with us?” Scott asked.
+
+“It could be. Penn loves to play his tricks. Could also be nothing.”
+
+“You think it might be his gang?”
+
+Farnham turned to his underling. “If it is, they’re dead. They carry a gun this one time and think they’ll be able to stand up to us?” He looked out the window again.
+
+Eleanor felt a tug on the rope around her chest. Her gasp of surprise was trapped by the gag, but her heart pounded until her chest ached for want of oxygen.
+
+Then a voice muttered in her ear, “Good evening, my darling.”
+
+At the window, Scott whispered to his boss. “What are they doing?”
+
+“I don’t know.”
+
+The two men observed in silence.
+
+“They look like they’re waiting for something,” Scott noted.
+
+“Or gathering,” Farnham said.
+
+Farnham tried to get a read on how many people might be hiding in the shadows, but before he could get a count, a man stepped between the two iron burn cages. The flames threw his face into deep relief. He was shouting something. They could hear the murmur of his voice, even through the glass.
+
+Farnham moved the latch and wrenched the stubborn window open by an inch to catch the last of what the man was saying.
+
+“—you were seen entering the building! Penn!”
+
+Scott turned to Farnham, looking for some kind of explanation or instruction.
+
+“Get the girl,” his boss said.
+
+“You think it’s the police?”
+
+“Get the girl!”
+
+They both turned to their hostage.
+
+Ryce Penn was lounging in the chair where Eleanor Serrs was supposed to be. His elbow was resting on the arm of the chair, and he was leaning his cheekbone on his raised knuckles. His eyes were full of the purest delight.
+
+“Maddox!” he said. “I got your letter. You said you wanted to see me?”
+
+Farnham shook his head, then grumbled, “You went to the cops?”
+
+“Me? Never. Hate the filthy things. But they do follow me around everywhere, don’t they?”
+
+Scott didn’t need any instruction this time. He rushed the thief.
+
+Penn spun around the back of the chair, lifted it, and swung it around. It crashed into Scott’s head. Heaps of broken wood and splinters rained over the downed man, but roughly three-quarters of the chair was still intact.
+
+“Come on, you can do better than that,” Penn said to himself.
+
+He slammed what was left of the chair on the brute’s head. Scott’s groans were cut off, and the last chunks of the chair fell away from the back post.
+
+“Better.”
+
+Penn saw the shadows on the floor shift. He turned back towards Farnham. The man was moving to strike, but Penn smashed the post into his elbow. Farnham screamed. His knife clattered to the floor and spun into the light.
+
+Ryce ignored it. He swung the wood back, hitting Farnham’s neck. Then he stepped close to throw his elbow into Farnham’s stomach. When Farnham curled over, Penn dropped his makeshift club, grabbed him by the collar, and shoved him back until Farnham slammed into the edge of the wood partition. Penn pushed his fist into Farnham’s throat.
+
+“If you had a problem with me, Maddox, you should have taken it up with me. But you kept going around, hurting innocent people. Behold! I’m here to call down the wrath of god on you and your kind, and when that bullet calls you home, know it comes with my compliments.”
+
+Penn grabbed the man’s hair and slammed his head into the wood. Farnham’s eyes rolled back, and he slithered out of the thief’s grip.
+
+Breathing hard, Penn grabbed the knife and crossed to the window. He yanked it up as far as it would go.
+
+“Inspector Haley!” he shouted. “Is that you, hound of the law and bane of my life?”
+
+Haley looked up. “Ryce Penn, I have a warrant for your arrest! Are you going to come out quietly?”
+
+“Not on your life! Come on in and try to catch me.”
+
+Penn turned away from the window. Several thugs were already thundering up the stairs, but one quick kick to the first man’s chest was enough to send them tumbling back to the floor below. He didn’t spare another thought for them. Judging by how the front doors of the warehouse bulged against the wood bar, the police had already decided to take Penn up on his invitation; the gang would have a lot more pressing issues to worry about in a second.
+
+Ryce paused by Farnham. Maddox was writhing on the floor, trying to get to his knees. Penn dropped the knife barely out of Farnham’s reach.
+
+“You’re going to need it,” Penn said as he walked past.
+
+There was a choking noise. The thief ignored it.
+
+Farnham coughed and tried again: “Penn!”
+
+Ryce turned.
+
+Farnham’s face was ugly with fury and pain. He snatched at the knife handle. “Is this another one of your tricks?”
+
+“One of my finest.” Penn bowed. “And now, for my last performance, I’m going to disappear!” He turned away. “Goodbye, Maddox.”
+
+Penn went to the far end of the building and slid into the shadow of the final partition. He knew Eleanor was there. He could hear her ragged breathing.
+
+“Eleanor?”
+
+“Mr. Penn.”
+
+When she reached out, he took her by the forearms so she would know where he was standing.
+
+“We have to get you out of here,” he said.
+
+“The police—”
+
+“There’s going to be a lot of fighting before this is done.”
+
+As if to support his claim, there was a massive crash below and two shots were fired, one after another.
+
+“I have a rope,” Penn said. “Once we’re on the roof—”
+
+Eleanor let out a weak laugh. “I can’t climb. Not right now.”
+
+Ryce was about to ask her why or cajole her into trying, but then the message his hands had been trying to send to his brain finally got through.
+
+Eleanor was bleeding. He could feel it all over his hands. Some of it was sticky, but some was still warm. She leaned into his grip, allowing him to hold her up.
+
+The roof would not be a good place for her.
+
+“Would you be able to hold a rope?” he asked. “At least for a few seconds?”
+
+“I think so.”
+
+Penn made sure she could stand on her own, then walked over to the rope still hanging from the ceiling hatch. He pulled out his pocketknife and climbed the rope so he could cut off a longer length.
+
+He took it over to the rail at the edge of the loft, then motioned for Eleanor to come to him. She stepped out of the darkness and walked over. He tied a bowline around her seat without wasting a single word on apologies or excuses. Then he had her sit at the edge of the floor.
+
+She gripped the banister beside her as Penn coiled the rope around it. He lifted the rope a foot and a half in front of the bowline knot and handed it to her.
+
+“Hold on tight. There’ll be a jolt when you first drop, but I promise I’ll catch you. I’m going to lower you quickly so there’s less chance someone sees you.”
+
+Eleanor nodded. Penn grabbed the rope and braced himself.
+
+The chaos of the scene was beating against Eleanor’s dazed ears. She barely heard Penn tell her to go. Fear grabbed her heart and squeezed as her weight tipped into the fall. She instinctively leaned back to catch herself.
+
+Eleanor closed her eyes.
+
+As a child, she’d climbed trees with Edward. Her mother had scolded, but her father had only laughed. She always hesitated right before she climbed down—she remembered that. She remembered that moment of fear. And she remembered how she would inch off the branch until she could swing around on one arm to catch herself.
+
+She heard Penn yell for her to go.
+
+With eyes still closed, she inched off the edge.
+
+Penn caught her before her arm had to take any weight. She brought her hands to the rope as she was lowered to the ground.
+
+The moment her feet touched the floor, she started fumbling with the knot. There was a scuffling above her as Penn dropped himself over the edge and caught his weight with his fingers. He let go and landed beside her.
+
+She was still fumbling with the knot.
+
+After sawing through the rope with his pocket knife, he took her by the hand and pulled her toward the back wall, away from the fighting.
+
+He hid her behind a pile of wood boards and told her to wait. Then he disappeared into a dark corner.
+
+Eleanor trembled as she listened to the shouts and gunshots coming from the other side of her cover, but then she heard Haley’s voice above it all. She cautiously turned around and peered through a break in the boards.
+
+Haley was standing in the busted door, firing at the gunmen who’d perched themselves on the edge of the loft. The inspector let off three shots. One man fell back, two others fell to the floor below with an impact that shook the boards.
+
+Even through the smoke, she could see the determination on Haley’s face.
+
+A voice behind her said, “You know, I wasn’t even sure he knew how to use that thing.”
+
+Eleanor turned. Penn had taken her elbow, but the thief was watching Haley shoot into the crowd of gangsters while the other officers formed up behind him.
+
+Penn looked at her. “It makes me damn glad I never carry a weapon.” He tugged on her arm. “Come on.”
+
+They crept along the back wall.
+
+“Where are we going?” Eleanor asked. She grabbed his arm as a way to keep track of him in the confusion.
+
+“My imbecilic enemy picked the only hideout in the history of the world that doesn’t have a back door. I’m afraid we’ll have to go out a window. The trick is that we have to do it without being seen by either the police or Farnham’s gang. Oh, and we should avoid getting shot.”
+
+A bullet ricocheted off an iron sheet to their left.
+
+“How?” Eleanor asked.
+
+Penn stopped under the nearest window. “My general policy is don’t be where people are shooting.”
+
+Eleanor laughed. “That’s a sound policy.”
+
+The laugh was wrong. It was weak and reedy.
+
+When the thief glanced over, he saw that Eleanor was pale and her hands were shaking. He needed to get her out of there.
+
+Penn tried to open the ancient window, but sawdust had built up in the latch and runners. He pounded on the latch repeatedly and only stopped when he felt the cold touch of metal on his other hand.
+
+Eleanor was holding out a hammer she’d grabbed from a nearby table.
+
+Penn smiled. “Oh, my hertis rote. I’ll make a thief out of you yet.”
+
+One hard strike was enough to free the latch. He braced the hammer on the underside of the frame and pushed up. That opened a gap he could fit his fingers through, and with another wrench, his shoulder was under it. He heaved until it finally opened enough he could slip outside.
+
+Eleanor crawled after him.
+
+The moment she was through, a hand went over her mouth and an arm went around her waist. She was pulled down into the scraps and trash leaning against the building. Fear rose from every nerve in her body, making her almost blind with panic.
+
+But nothing happened.
+
+Her breathing slowed, and the white specks at the edge of her vision retreated.
+
+Penn was holding her against him. His back was to the street, and he was leaning over, hiding her between his own crouched form and the wall beneath the open window.
+
+Once her breathing had slowed, he moved his hand off her mouth. Their faces were so close together, when he turned his hand to put his pinkie against her lips in a silent plea for her to be quiet, his index finger touched his own lips.
+
+“For me.” His voice was less than a whisper. “There are two people at the ends of the building. I think they’re Haley’s men.”
+
+“You should run—”
+
+“No!” He went on, slower, “We’ll wait here. I don’t think the fight will last long.” He twisted around to sit beside her. “But we have to do something about your arms.” He pulled out his pocket knife again.
+
+“They need to be tied up. Pressure. To stop the bleeding.”
+
+“Did you learn that from Mr. Gray?”
+
+“A field surgery manual.”
+
+Penn pulled out the ends of his shirt. “Your father just lets you read anything, doesn’t he?”
+
+“Mr. Penn.”
+
+The thief stopped.
+
+“Use my skirts. The dress is already ruined and the strips will be much longer.”
+
+Penn raised an eyebrow. “I don’t often get instructed to play with a woman’s skirts, but far be it from me to argue with a lady.”
+
+“Mr. Penn.”
+
+He could tell she was trying to chide him, but her voice was weak.
+
+“Right,” he said. “Sorry.”
+
+He cut out the strips of cloth a bit at a time, waiting for any sign that the policeman heard the ripping. Then he wrapped them around her arms as tight as he could.
+
+As he worked, he said, “I wish my men could think as straight as you when they’re in shock. Honestly, I wish I could think as straight as you. The hammer. Your skirt—”
+
+“You think I’m in shock?”
+
+He glanced up at her white, clammy face. Her breathing was so fast and shallow he wondered if any air got as far as her lungs.
+
+“I think that’s a safe bet.” He finished tying the last knot and sat back.
+
+“I do feel faint. And ill.”
+
+“I know. It won’t be long.” Hurry up, Haley! he thought as loud as he could.
+
+“And I can’t stop shaking.”
+
+Penn glanced over and saw Eleanor staring at her hands. He reached out, grabbed them both with one hand, and pulled them into his lap.
+
+“It could be excitement,” he murmured. “You know—exhilaration. I get like that before some jobs. Your hands start shaking and your heart feels like it could fly right out of your chest if you take a deep breath.”
+
+“I think this is something different, Mr. Penn.”
+
+“You can’t mind the shaking hands. If you focus on what you have to do, the hands will do what they need to, shaking or not.”
+
+“What are we supposed to be doing?”
+
+“We sit here and wait until it’s safe to move.”
+
+“That’s it?”
+
+“Know when you have to move. Know when you have to wait. Always know the difference.” He turned his head so he could look at her. “And if you can, you should try to slow your breathing.”
+
+Eleanor leaned her head against the wall. She tried to match her breathing to Penn’s. Sometimes it escaped her and ran away at a wild pace, but the rest of the time, she could almost manage it.
+
+Minutes passed.
+
+Penn stood up and helped her to her feet. The men at the ends of the street were gone, and inside, everything was quiet. Ryce walked her over to the street lamp by the corner of the building. When they looked down the alley, they could see men moving in and out of the firelight. Their voices were too faint to make out, but Eleanor and Penn could hear coaches and cars.
+
+A figure turned the corner and started toward them. Eleanor flinched, but Penn’s hand was on her back, holding her in place. He didn’t move.
+
+The figure walked from one end of the building to the other, then stepped into the glow of the street lamp. It was Haley. He was staring at Penn.
+
+“What are you doing here?” Haley said.
+
+“She needs a doctor. It’s bad. She could faint at any moment.”
+
+Haley pulled Eleanor away from the thief and into the light. While he inspected her torn dress, her wrapped arms, and the blood that seemed to be everywhere, Eleanor heard a rustle and felt an empty space behind her.
+
+“Penn,” she muttered.
+
+“Let him go,” Haley said. “He’s right. We have to get you to a doctor.”
+
+He put a hand under her chin and gently raised it. She could feel his breath as he leaned in to examine the cut on her neck. When he pulled away, Eleanor watched his face. He looked so sad and stern.
+
+“There’s a car waiting,” he said. “Can you walk?”
+
+Eleanor nodded, but Haley still supported her as they went down the alley. She could not have been more grateful. Every time she stumbled, she held tighter to his jacket.
+
+She passed a man in uniform, laying on the street. He was being treated by another policeman.
+
+“Your men…” she said.
+
+“They’re securing the ones that were willing to surrender and tagging the ones that weren’t.”
+
+“They’re hurt.”
+
+“They had the chance to take out nine of the city’s worst criminals. I don’t think they’ll complain.”
+
+They reached the car. Haley practically had to lift her into the high back seat.
+
+A man ran up to them. “Lady Serrs!”
+
+“No time!” Haley said. “She’s been hurt, Ellsworth.” The inspector climbed in beside her. “I’m taking her to Lady Sybil’s hospital. Please come find me when you finish up here.”
+
+“Understood, sir. And the duke?”
+
+“I’ll deal with that while I’m there.”
+
+Ellsworth stepped away as the police driver put the car in gear.
+
+Eleanor tried to sit up, but she felt faint. She put her elbows on her knees and leaned over them. Haley pulled her back so she was leaning on him instead.
+
+“It was Farnham,” she mumbled.
+
+“I know,” Haley assured her.
+
+“What happened to him?”
+
+There was a brief silence.
+
+“He had a knife and he wouldn’t surrender.”
+
+“He’s dead?”
+
+“Yes.”
+
+Eleanor’s chest heaved. “That should make me happy. I should be happy and relieved—why am I crying?”
+
+Haley closed his eyes and lifted his head. He was glad it was too dark for Eleanor to see his face.

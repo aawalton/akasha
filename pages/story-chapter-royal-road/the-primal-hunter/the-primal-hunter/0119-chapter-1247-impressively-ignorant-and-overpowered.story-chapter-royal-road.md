@@ -1,0 +1,167 @@
+---
+id: c1d7e063-8a3c-5568-b32b-182b2d034598
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1247 - Impressively Ignorant & Overpowered"
+slug: 0119-chapter-1247-impressively-ignorant-and-overpowered
+partOf: the-primal-hunter
+position: 119
+ownLength: 2851
+unit: words
+ownProgress: 2851
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3008878/chapter-1247-impressively-ignorant-overpowered"
+royalRoadId: "3008878"
+markedReadAt: "2026-06-29T19:34:17.134Z"
+---
+
+Jake hadn’t seen much curse-related yet for him to take inspiration from, but this brief talk about the concept of death had certainly given him some food for thought. When it came to poisons, Jake was best at death-affinity poison, but he also knew that its usage was very limited and specialized.
+
+As Lyra said, Jake focused almost solely on making death energy an antithesis of life energy, thereby inflicting significant damage on biological lifeforms. From her explanation, it also made sense why most poisons Jake came across contained at least some aspects of the death affinity.
+
+Most poisons were designed to kill their targets, making them naturally aligned with the concept of death. There was synergy there, something Jake had no doubt taken advantage of unknowingly with all the death affinity poisons he’d been crafting.
+
+Though it did seem like Jake’s own limited understanding had likely hampered him somewhat. Not to say it still didn’t. There was a vast difference between knowing something about a concept and understanding it. Same as how someone who knew that gravity made something drop to the ground doesn’t mean that person also understood precisely how gravity worked at the same level as a theoretical physicist.
+
+Still, having that initial knowledge could serve as a starting point towards true understanding, and the next time Jake had a good meditation session at the Gate of Enlightenment, he would definitely keep this talk in mind.
+
+Having talked about the death affinity so much also made him think about what he at least understood to be the direct opposite of death: life. It made him think about the concept of life, and that perhaps Jake’s understanding of that was also oversimplified.
+
+There were many things Jake had never quite fully understood about Dina and Eron’s magic, including how they were capable of healing someone like the Fallen King and even, to some extent, Sylphie, who was part-elemental. They had explained it to him somewhat, but it still hadn’t made much sense to him.
+
+Thinking about life and death like this, Jake had another question that was probably also a bit dumb.
+
+“Say, how do Risen and other undead heal themselves or each other?” Jake asked. Okay, self-healing wasn’t that complicated, as all beings could inherently heal themselves, but how did healing magic amongst the undead work?
+
+“Oh, that’s easy,” Casper shrugged. “Skills primarily, though some also use freeform magic to get it done.”
+
+Based on that answer, Jake was fairly certain Casper found his question stupid, but he nevertheless followed up.
+
+“Yeah, yeah, but what concepts are involved? Am I at least right to assume that the life affinity doesn’t work on the Risen and other undead?” Jake questioned.
+
+“Yes and no,” Lyra was kind enough to answer. “Life energy doesn’t work on the undead and actively harms us rather than heals us. That isn’t to say the concept of life can’t benefit us, though. In fact, the blight affinity actually contains traces of the life affinity within it. I guess you can say that if the concept of death is the transformative state towards nonexistence, the concept of life is the exact opposite, where a fading existence can be revitalized.”
+
+“So, undead healing magic contains some traces of the concept of life?” Jake asked curiously, wondering if he should be taking more than mental notes for this talk.
+
+“Strictly speaking, I’m not sure healing magic is even the right term,” Casper joined in, being at least a bit more serious now. “It’s more like mending death magic. This magic can stimulate and flood our bodies with excess spirit… wait, you do know what spirit is, right?”
+
+“I would be offended you could even think I didn’t, but considering I feel like I’m on a run of questions that seem very dumb and ignorant to you two, I’ll let it slide,” Jake sighed. “Spirit is the resource undead have rather than stamina and health points, replacing vital and inner energy.”
+
+While Jake could admit he was impressively ignorant for someone who was nearly B-grade, he did know some things! Sure, he mainly knew stuff like that because of his alchemy research when he learned how one would make potions to restore resources for other races, but it still counted.
+
+“Right,” Casper nodded. “As I said, healing magic on Risen is more or less just a way to stimulate our innate regeneration, same as how one would heal an elemental or any other creature without health points. So, yeah, rather than call it healing magic, it’s more that they use the concept of recovery or something like that. Honestly, neither of us are experts in that area; we just know that it works.”
+
+Jake nodded as he was starting to consider whether he should begin to replace the term system-fuckery with concepts wherever applicable. Then again, some things, like equipment limits and stuff like that, were for sure just pure system-fuckery, and he refused to ever acknowledge otherwise, no matter the explanation.
+
+“Well, this has been a very enlightening conversation that I would love to continue later, but for now, let’s get some more hunting done,” Jake said, reckoning it wasn’t very productive for the three of them to just stand and talk in the first area of the dungeon.
+
+“I’ll return to the locket to recover,” Lyra said with a small bow before she turned into ghostly energy and entered Casper’s body once again.
+
+“She can’t be outside the locket for too long and recovers way faster inside of it,” Casper explained. “To be clear, she can be outside for a few days easily, though she still can’t move too far away from me. We’re working on improving that.”
+
+“I didn’t ask,” Jake shook his head. “Not judging you for having a stay-in-locket wife.”
+
+Casper threw Jake a look, but the hunter just chuckled and looked toward his prey in the distance. “Seeing as you two were so kind as to kill the first one, I guess it’s only right I also show off a little and take one down.”
+
+“Go ahead,” Casper said, motioning with his hand. “The only piece of advice I can offer is that they’re quite durable, Toughness definitely being their highest stat. That, or all their Records are focused on defensive skills. Should you break through their exterior, they’re easily destroyed.”
+
+“Thanks for the advice; I know you mean well,” Jake said in a slightly teasing voice, the reason for which would become apparent very soon.
+
+It hadn’t taken much mental energy to design and create a Protean Arrow as they were talking anyway, and while Casper’s advice didn’t help him much, seeing the fight had been beneficial. At least it had made the arrow he was about to shoot more powerful.
+
+Casper was right that the only real challenge was breaking through the hard shell of these Construction Golems, but by infusing his Protean Arrow with Penetrating Arrow, he was confident he could do so. Especially considering everything else he would throw into this one attack.
+
+“Impressive-looking arrow,” Casper commented. “And is that the cursed weapon you put as the arrowhead?”
+
+“It sure is,” Jake smiled, nocking the arrow as he took aim. Drawing the string, he activated Arcane Powershot and Arcane Awakening at the stable 30%, seeing no need to go all out considering the kind of opponent he was dealing with.
+
+Energy revolved around him as he kept charging the attack. Casper watched him throughout, his look neutral at first, but as Jake kept channeling the Arcane Powershot and the intensity of the energy surrounding Jake increased, his face soon turned serious.
+
+He looked like he wanted to say something, but stayed quiet so as not to disturb Jake. Several more seconds passed before Jake felt like it was enough, and with a poor, solitary Construction Golem carrying a large pillar of metal in his sights, he released the string.
+
+His body exploded with arcane energy as the arrow flew forth, his enemy unable to detect its incoming demise courtesy of Unseen Hunter. Only right at the end did it try to react, but a quick Primal Gaze stopped it entirely in its tracks; the use of that skill also confirmed something else.
+
+Pathetically weak soul.
+
+The arrow struck the Construction Golem, its hard exterior ultimately offering little resistance as the entire B-grade was blown apart at its midsection, sending its arms and head flying into the air in a glorious explosion of arcane mana. In an instant, before the golem could even properly realize it was being attacked, it had been slain, leaving no room for resistance.
+
+*You have slain [Aginian Construction Golem – lvl 352] – Bonus experience earned for killing an enemy above your level*
+
+Lowering his bow, Jake clicked his tongue. “Definitely a contender for the weakest B-grade I’ve ever encountered. These golems must be mass-produced.”
+
+Casper was still staring at the destroyed golem in the distance. The parts of it, anyway. After a few seconds, he looked back at Jake.
+
+“You’re fucking broken, you know that, right?” Casper said, shaking his head. “Then again, should I be surprised that someone who took down a True Dragon is easily capable of one-shotting weak B-grades?”
+
+“Eh, I’ve been able to one-shot B-grades like this for a while,” Jake shrugged casually.
+
+“See, you’re not exactly helping yourself against the allegations that you’re broken,” Casper said, unable to hold himself back from chuckling. “Tell me, what’s the secret to such power?”
+
+“Incredibly powerful classes and professions, a fuckload of titles giving you a stupid amount of stats, high-rarity skills, top-tier equipment, oh, and of course, most importantly, an absolutely overpowered Bloodline,” Jake answered in a deadpan tone.
+
+“That’s fair,” Casper said with a sigh. “I guess I only have a few of those, though I do make up for a lot of what I lack with an awesome ghost girlfriend.”
+
+“My girlfriend could beat up your girlfriend,” Jake said in the pettiest voice he could.
+
+“Oh, really? Then bring her and let’s meet outside the dungeon when we’re done here. Wait, you can’t? That’s a shame,” Casper said in a teasing tone.
+
+“Touché,” Jake surrendered that one. For now. “Anyway, your turn to show off what you two can do.”
+
+“Eh, I’ll prefer to save that for later,” Casper said, also fine with moving on. “For now, let’s just clean up the exterior and start making our way into the Grand Labyrinth proper. Our goal should be the center, and I’m sure we’ll find more interesting enemies the further in we go.”
+
+“Gotta ask, do you know what we’ll find at the center?” Jake couldn’t help but ask.
+
+“The entrance to the next dungeon coming after this, I would guess,” Casper shrugged. “Alongside a boss that will give us context for the next dungeon, of course. For reference, the cabin we started in was – according to Minaga’s lore anyway – created by a powerful mage capable of traveling to the past through his special magic circles.”
+
+“Minaga is taking a lot of liberties with the rules of the multiverse with that one,” Jake shook his head in disbelief. “Unless this mage was more powerful than the Primordials, I’m pretty sure actually traveling to the past, much less allowing others to do so, isn’t a thing.”
+
+“Oh, yeah, definitely not,” Casper chuckled. “Though I guess it would have theoretically been possible to create a simulated reality based on a snapshot of a certain point in time, and while it would take a lot of groundwork, it could then be recreated within a dungeon or perhaps even a Divine Realm. Not perfectly, but close enough.”
+
+“So, in other words, not the same thing at all,” Jake shook his head. The closest thing Jake knew to time travel in the multiverse was things like Jake’s Path of the Heretic-Chosen, which only allowed him to observe and see the past, or the ability of gods to rewind time in certain areas. Aeon could probably also do some overpowered stuff, but nothing Jake knew about.
+
+“Very different indeed,” Casper admitted. “Actually, one more quick question, that bow is pretty new, isn’t it?”
+
+“It is,” Jake confirmed, more than happy to talk about his wooden companion. “Got it at the Pantheon of Life.”
+
+“Nice,” Casper nodded. “It looks good and seems to have a certain aura about it. I assume its origin isn’t normal?”
+
+“Eh, not that special,” Jake said casually. “It’s made by Nature’s Attendant using a branch of Yggdrasil and my old system-given bow, with the help of yours truly and even Artemis. Should be usable for a while, maybe even into godhood based on what those deities said.”
+
+Casper just looked at Jake again before speaking. “Lyra says you’re being spoiled by overly curious gods.”
+
+“Hey, not my fault I’m an interesting guy,” Jake defended himself.
+
+“I’m not complaining,” Casper said with a sincere smile. “Without you, the Blightfather would have never even noticed my existence, much less helped Lyra and me. While I don’t have the evidence, I’m confident he only blessed me in the first place because I was close to you to form a karmic connection early on in the era.”
+
+“You don’t know that,” Jake said with a frown. “It could also have partly been due to William’s existence, as Eversmile would have gotten involved with or without me being there.”
+
+“Maybe, but I sincerely doubt it, and he certainly wouldn’t have done what he did for Lyra,” Casper shook his head. “But seriously, enough about that shit; let’s get killing already. I still need a lot of class levels, and I’m not gonna waste this golden opportunity to get boosted.”
+
+“Wow, after being all vulnerable and emotional like that, you’re right back to trying to take advantage of me, huh?” Jake said, acting all hurt.
+
+“Of course, I would be a fool not to take advantage of so many gods’ favorite mortal,” Casper said shamelessly. “Though in my defense, I do plan on proving myself useful. In fact… how many B-grades have you ever killed at once in a single fight?”
+
+Jake considered the question for a while before answering. “Not that many. I tend to avoid taking on groups if I can avoid it and prefer slaying singular, powerful foes instead.”
+
+“Understandable, but as they say, variety is the spice of life, or well, death in my case, but I digress,” Casper said, obviously amused by his own silly joke. “Point is, let’s have some fun. Say, how many of those golems do you count from here?”
+
+Deciding to go along with whatever Casper wanted, Jake took a look and did a quick headcount of the B-grades. “Thirty-two, unless we want to go to another wall-section entirely.”
+
+The Grand Labyrinth was an octagon based on what Jake could see, so there were eight massive outer walls in total. Jake saw absolutely no reason to go to another section when they could enter from here, but perhaps wiping out all the B-grades could be an idea.
+
+Jake had no idea about the true difficulty of the dungeon, so it was entirely possible they would have to retreat to the safety of the cabin at some point. Risking B-grades patrolling close to the wall spotting them and giving chase mid-retreat could be a problem, as that would keep them in combat. In conclusion, killing them all was probably the wisest.
+
+Admittedly, Jake also wanted to know what Casper was planning.
+
+“Thirty-two? Sounds doable,” Casper said after a few seconds. “I might lack the damage output, but when it comes to control, I’ll have you know that the combination of my class and Dungeon Engineering skills is quite nasty.”
+
+Jake quickly understood what the Risen was getting at, making him smile. “All of them at once?”
+
+“Of course,” Casper said, almost looking offended. “Or don’t you have confidence in your damage output or endurance to kill them all, even with my help? It’s okay if you don’t. While it may take me a while, I’m fairly certain I could handle them all by myself. I’m just trying to give you a chance to get involved and speed things up.”
+
+“While I’m confident when it comes to both damage and endurance, the more you keep talking, the less confident I’m getting in my aim,” Jake said, throwing the Risen a look. “Who knows, if you keep yapping, perhaps we’ll even have an unfortunate accident.”
+
+“Eh, I’ll take the risk,” Casper shrugged with a smirk. “You only live once… well, twice in my case. You know what I mean. Hopefully. Your amazing level of ignorance about basic things has made me start questioning even what I consider common knowledge.”
+
+“Just go gather those damn golems already,” Jake sighed, shaking his head. “Oh, and watch your back out there. With my amazing ignorance, who’s to say I even know how to differentiate enemies from allies?”
+
+“I believe in you!” Casper gave him a thumbs up before wrapping himself in curse energy and teleporting away to gather all the B-grade golems below.

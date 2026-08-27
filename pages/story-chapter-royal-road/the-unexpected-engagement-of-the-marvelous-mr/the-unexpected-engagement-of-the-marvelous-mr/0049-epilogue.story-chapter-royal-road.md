@@ -1,0 +1,109 @@
+---
+id: a9bf61fb-335d-5b18-b1d5-e810e1196dd0
+page-type-slug: story-chapter-royal-road
+title: "Epilogue"
+slug: 0049-epilogue
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 49
+ownLength: 1309
+unit: words
+publishedAt: 2022-07-07
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943712/epilogue"
+royalRoadId: "943712"
+---
+
+The reception room was huge, but it was still filled, from corner to corner, with light, movement, and the laughter of the crowd. Sunlight from the windows flashed around the figures of the people passing in front of them to glint off the crystal and silver. Arches of white flowers glowed between the scads of dark jackets. And despite the fact there were so many individual voices, all of them were happy, so they created a kind of harmony.
+
+Endless harmony. Emphasis on the endless. Even happy sounds can wear on a person after too long.
+
+Haley leaned over and mumbled in Eleanor’s ear, “This is exhausting. Remind me again why we can’t kick all these people out?”
+
+“It’s bad manners,” she whispered back, “and if we insult anyone here, we’re insulting the highest societies of two different countries.”
+
+Haley mentally debated whether or not it would be worth it, but when Eleanor saw his expression, she laughed and took his hand. That appeased him.
+
+“Come on, darling,” she said. “It’s almost over. There can’t be that many more people.”
+
+People! So many people.
+
+Haley smiled sadly. The turnout would have pleased Lady Helena, had she been alive to enjoy it.
+
+The baroness had spoken to Haley shortly after he and Eleanor had started courting. Helena was fully aware of Haley’s feelings for Eleanor, but she also knew that building a relationship would take time, so the baroness had trumped up some excuse—probably tea—and sent Eleanor from the room so she could talk to the inspector alone. She had glared at Haley from her place on the bed and made him promise that if he and Eleanor ever married, they wouldn’t elope. Helena didn’t want there to be even a hint of shame or shyness. She assured Haley that the Serrs would be proud to count him as one of theirs, and he had assured her that his family was as far from being ashamed of Eleanor as it was possible to be. Given the fact he’d stepped down from prominence, they were ecstatic he’d found a society woman even willing to give him a chance.
+
+“I think they were worried I was going to marry a bar maid.”
+
+Helena had chuckled and patted his hand.
+
+Months later, when Haley had proposed to Eleanor and been accepted, he told her about his promise. Despite the fact both of them would have preferred a smaller celebration, they agreed to talk to their families.
+
+Their families were delighted by the idea of a large reception. Duke Aubrey-Serrs couldn’t even understand why there would be any question about it. The only problem was deciding where to have the reception.
+
+Since Eleanor stubbornly refused to have an opinion, it was Haley who had to put his foot down.
+
+He visited his family enough. If they wanted to come to his wedding, they could damn-well come to his country.
+
+They did. Flocks of them. Family, friends, and relations that he hadn’t seen in years all made the trip. Eleanor’s people gathered from across the globe. Perhaps it was the prestige of the two family names, or perhaps it was the infamy of the couple, but for whatever reason, it seemed that no one wanted to miss the wedding.
+
+And, of course, everyone that came had to greet them and congratulate Haley. The moment they managed to send someone off, someone else appeared.
+
+They had been standing there for hours.
+
+After having seen off one of Haley’s older cousins (who seemed determined to test Eleanor’s command of the French language to its limit), the couple had a few seconds to rest.
+
+Their brief reprieve ended when another figure broke away from the crowd and came toward them. He was a tough old man with an impressive beard and an impeccable, but unconventional, suit. He had tan skin, and everything from the color of his hair to the way he squinted his eyes made him look weathered. His age forced him to walk with a stoop, but he radiated cheer as he approached.
+
+“Is he one of yours or one of mine?” Haley whispered.
+
+Eleanor smiled. “That’s my great uncle Jae Quintin Serrs. I haven’t seen him in years. He’s always off exploring. He’s a bit of a black sheep in my family.”
+
+“So you like him.”
+
+“Adore him. He would always call me beautiful and tell me the most fantastic stories about where he’d been—Africa, India, the Arctic. I’m so glad he could come. I didn’t even know if the invitation would reach him.”
+
+The old man didn’t bother with protocol or proper introductions; he came up to both of them with his arms wide open.
+
+“Oh, you two! Look at you. You both look so happy! You look tired as well, but I’m not supposed to say that.”
+
+He chatted and chatted. Eleanor was only able to overlay one or two comments when the old man was forced to take a breath. He eventually turned from her to the groom. Haley accepted his prolonged congratulations while trying not to laugh.
+
+“—and, of course, we must get together and swap stories! Do you travel?”
+
+“Only to see my family,” Haley said.
+
+The sentence was barely out of the inspector’s mouth before the old man was talking again: “That’s hardly travel. Hardly travel. But you’re a detective, I hear, and I’ll bet they have a story or two worth hearing.”
+
+“I wonder if you could hear them for all the talking you do, Uncle Jae,” Eleanor said.
+
+The old man smiled without a trace of offense. “Oh, beautiful! You’ll try to keep me quiet. You’ll try to keep me down. I wouldn’t mind hearing his stories, but first you’d have to nail my feet to the floor to keep me from moving!”
+
+Eleanor laughed. Haley smiled.
+
+“I’ve been nattering away at you, but that’s hardly fair. I think there might be others that want to say hello as well. I’ll have to go bore some other poor soul in a minute. But first a kiss for you, Ellie.” He took her arm and pulled himself straight enough to kiss her cheek. “And I’ll wish you both the greatest happiness for a thousand years. You look so good together. Did I already say that? It’s true. I’ll say it again. You look so good together, and I’m sure that such a handsome pair of thieves must suit each other well.”
+
+Haley’s smile, which had become more indulgent as the man prattled on, faltered and disappeared.
+
+“I’m sorry, sir,” he said, “but did you call us thieves?”
+
+“I did! I did! You can try to pretend, but I know the truth. After all”—when he looked at Eleanor, his voice deepened and the cadence of his words slowed—“you stole my heart”—he turned to Haley—“and you stole my bride.”
+
+There was a speck of silence.
+
+“The game I played was a fair one,” Haley said.
+
+“It was,” Penn said. “You’re the enviable victor, and maybe the better man won.” He pointed at Haley. “But you’ll never hear me say it.”
+
+Penn winked at Eleanor. As he stepped away, he called over his shoulder in Jae’s voice, “Take good care of her!”
+
+Haley tensed to go after him, but Eleanor wrapped her arm under his and intertwine their fingers.
+
+“Let him go,” she said. “Please. I promise I’ll only ever ask you this once.”
+
+Haley looked at her.
+
+She went on, “I know I’m being selfish, but this is my wedding day, and I’d rather have you here with me than chasing after him.”
+
+Haley’s mistake was looking her in the eyes. They were so full of joy and pleading that his heart swelled when he saw it. It would have been easier for him to break his own arm than refuse her.
+
+He kissed her.
+
+“Just this once,” he said.

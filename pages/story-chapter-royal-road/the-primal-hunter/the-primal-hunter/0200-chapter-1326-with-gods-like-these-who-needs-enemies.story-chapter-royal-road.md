@@ -1,0 +1,153 @@
+---
+id: b571aae7-dfef-5d53-a2d3-796666070cd5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1326 - With Gods Like These, Who Needs Enemies?"
+slug: 0200-chapter-1326-with-gods-like-these-who-needs-enemies
+partOf: the-primal-hunter
+position: 200
+ownLength: 2993
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3487873/chapter-1326-with-gods-like-these-who-needs-enemies"
+royalRoadId: "3487873"
+---
+
+Jake took a deep breath of the non-toxic air of his residence, feeling the lack of toxicity and corrosive qualities in the atmosphere. It felt good to be back in the Order; however, he could definitely tell that compared to Venus...
+
+“Feels kind of bad not having Palate stimulated constantly,” Jake muttered, a little disappointed with the change of venue.
+
+“Hey, at least there are no A-grades wanting to take advantage and exploit you here,” a voice came from behind as Villy appeared out of thin air. “Actually, scratch that, plenty of A-grades want to take advantage of you. Just in a very different kind of way. If you catch my drift.”
+
+“You think they’d dare try?” a third person decided to also stop by, making Jake smile as he turned around.
+
+“I’d somehow love to see them try,” Jake joked, happy to see that Artemis was also free to pay him a visit.
+
+“Oh, I’m sure you would,” she returned his smile before getting a bit more serious. “I heard you got yourself into quite a precarious situation exploring a Minor World. Something about revealing too much information and assuming those who are significantly stronger will see you as someone worthy of speaking with. I won’t comment too much, but if I were you, I would have gotten straight out of there at the first chance when I realized I was in a foreign world full of entities that could instantly recognize me as an outsider and were far more powerful than I. I would also be able to come back again when I got strong enough to at least feel somewhat confident in my own safety.”
+
+“See, that’s exactly what I said,” Villy said, spreading out his arms in an exaggerated manner. “You wanna know the worst part? He was literally past the barrier that no one could cross unless he actively helped them. He could have just gone home. But instead, he turned back, noticed a small army of A-grades were waiting for him... and still went back to them.”
+
+Upon hearing this, Artemis looked judgmentally at Jake, though he could also see a hint of concern in her eyes. “This may be overstepping... but didn’t your instincts warn you about the danger of something like that? I don’t have your Bloodline, but even I could have intuited the dangers from a group of A-grades clearly seeing me as nothing more than an asset to exploit, no matter how nicely they treated me on the surface.”
+
+Jake felt a little embarrassed at having the two gang up on him as he scratched the back of his head. “I can’t say I didn’t... I just figured things were progressing well, even if I was a bit apprehensive at times.”
+
+Truthfully, Jake did feel off several times while in the Minor World, and he had been – at least in his mind – incredibly cautious the vast majority of the time. He’d tried to hide information and only revealed things when he believed it would be beneficial to him, hoping that would make the natives friendlier.
+
+As they never displayed any outright hostility or intent to kill, he reckoned the A-grades weren’t actually that bad. What he hadn’t realized in time was that the only reason they didn’t show ill intent was that they wanted to make use of him, and even if they didn’t, was a mere newly evolved B-grade even worth their ire? He was so far beneath them that they never saw him as a person worth attributing much emotion to in the first place.
+
+“When you think about it, it’s partly our fault,” Villy shrugged. “Mine primarily. I’ve gotten him so used to those far stronger than him treating him with respect. That he didn’t really consider that those who had no idea what a Chosen was would just default to treating him as their lesser.”
+
+“Even so, it’s common knowledge... okay, you definitely have a point. Common sense isn’t exactly Jake’s strong suit,” Artemis sighed, looking in thought for a while, as if this was truly a big conundrum.
+
+Watching these two gods, Jake had no idea how to think. On the one hand, it was nice to see two of the most important people in his life get along with one another, especially after Artemis hadn’t been very comfortable around the Viper for the longest time. On the other hand... did their bonding have to include ganging up on poor little Jake?
+
+Really, with gods like these, who needs enemies?
+
+“I get it, and I learned my lesson,” Jake muttered, having truly learned that the next time he found himself in a situation like that, he would be a lot more cautious. Likely even do as Artemis said and just not get involved unless he had some method to somewhat assure his own safety.
+
+“Better late than never,” the Viper smiled. “And, hey, overall it turned out to be a worthwhile trip. Just from the energy still lingering on your body and what I could detect through you while in that Venus world, it’s a pretty great place. Any environment that can foster the growth of A-grades is pretty good, especially when it’s possible without the extra Records from the rest of the multiverse. So we should definitely claim it as part of the Order and make use of the environment.”
+
+“That was always the plan,” Jake nodded. “Though I do wonder what the cause of the environment there is.”
+
+“Clearly, it’s the ocean, but you are right; it’s entirely possible the ocean also has an Origin of some kind. Perhaps a core or unique treasure creates the toxic energy. The Boundary is also quite a curiosity. Overall, worth exploring, and who knows, if we uncover its secrets, maybe we can even improve the world to be even more beneficial to the members of the Order than it already is,” the Malefic Viper said, his eyes full of ambition.
+
+“I do agree it’s a great place, but isn’t it also a little coincidental?” Jake asked with raised eyebrows. “A planet right next to Earth is replaced with the entrance to a Minor World full of A-grades. A Minor World, which just happens to seem tailor-made to benefit myself and other members of the Order. You can’t possibly convince me that’s just purely the luck of the draw.”
+
+“Clearly not,” the Viper shrugged.
+
+“So what is it there?” Jake asked. “And you can’t tell me it’s because Earth has so many outstanding people and Records. Some of the natives there are called Venusians. The planet it replaced was called Venus. So it was always meant to appear there when the initiation arrived, long before the natives of Earth proved themselves extraordinary in any way.”
+
+“Why would that mean Earth and its Records can’t be the explanation?” Artemis asked, tilting her head slightly. “When it comes to the system, cause and effect aren’t necessarily on a linear timeline. What will happen in the future can determine the present, and the past can have been changed in light of the future.”
+
+Jake frowned as Villy followed up, speaking in a casual tone.
+
+“The system is omniscient and omnipotent, so trying to fully understand its capabilities isn’t something I would bother with,” the Viper sighed, shaking his head. “It clearly also wasn’t a coincidence that you and Ell’Hakan were in the same galaxy. I’m generally not a fan of the term fate, but the system certainly does facilitate certain things, making them seem like coincidences. Trying to understand the system is just a headache, but let me at least assure you of one thing: it doesn’t actually change the past. It just sets things as they have always been. So it isn’t like the entrance could suddenly disappear, and if you had lost to Ell’Hakan and everyone had abandoned Earth, Venus would still have been there.”
+
+“I really wouldn’t think about it too much,” Artemis chimed in again before Jake could say anything. “The Mother Tree told me long ago that trying to infer intent or a deeper meaning behind the system’s actions is a waste of time. We can try to understand it, but in the end, any understanding will be flawed, for any limitations we assume are self-imposed and only exist because the system imposes them upon itself. Which also means that these restrictions could disappear at any moment.”
+
+“Fortunately for us, Jake has shown himself to be extremely skilled at not thinking about things,” Villy said with a teasing smile.
+
+“You two seem to be getting along surprisingly well...” Jake muttered in a slightly sour tone.
+
+“Is someone jealous?” the Viper said, still with that same teasing smile. “Don’t worry, I’m not trying to steal your girl.”
+
+“Oh, I wasn’t worried about that,” Jake said, this time speaking before Artemis could say anything. “She’s actually got taste, unlike your joke.”
+
+“Ouch,” Villy chuckled, shaking his head. “But in all seriousness, it’s only natural not to bother with a strained relationship if Artemis represents the Pantheon of Life here at the Order. Plus, it would make it super awkward when the three of us are inevitable gonna be in the same room.”
+
+Artemis didn’t say anything, as she, quite frankly, didn’t want to get involved in this kind of infantile topic of conversation. Fully understandable.
+
+“Enough about all that,” Jake said after a bit, getting to the real meat of why he suspected both had shown up so quickly. “Seat of the Exalted Prima. Any news from Administrator Candidates or their assistants who entered?”
+
+“None, besides the fact that no one has died. They all appear to be trapped within the World Wonder until the selection ends, whether they failed or succeeded,” Artemis shook her head. “That, or everyone else somehow managed to succeed, which wouldn’t make it much of a test.”
+
+“Yeah, definitely the prior,” Jake muttered. “Last time there was a system event at the Seat, no one could fight or actually get hurt, so there is a good chance it’s something similar. Likely related to simulations of some kind.”
+
+In all honesty, Jake also hoped it was based on simulations for his own sake. Not because it assured he wouldn’t be truly hurt or anything like that, but because of the gains he received the last time he experienced the Seat’s simulated realities.
+
+Eternal Shadow of the Primal Hunter was born from Sim-Jake, who originated from a simulated world within the Seat of the Exalted Prima. Ever since getting the skill, Jake had naturally tried to improve it in various ways, but so far, all he’d managed to do was uncover minor optimizations or aspects of the skill it always had. He’d felt no true signs of improvement, and he suspected a big reason for that was his lack of understanding.
+
+Despite the skill belonging to him and he’d upgraded it to mythical rarity, he couldn’t with confidence say it had truly been him behind the upgrade. While he and Sim-Jake had merged with one another, there was obviously still some kind of separation between the two, something Jake had truly come to realize after his encounter and training with the First Sage.
+
+Jake could visualize his different skills within his Soulspace and had a high level of control over his own soul in general, but there were three things he couldn’t truly manipulate. One was the book left by the First Sage, the second was the drop of blood belonging to Villy, and finally was the cursed shadow version of himself that represented Eternal Hunger and Eternal Shadow.
+
+If he wanted to upgrade the skill, Jake guessed he would have to deepen his understanding of it. Seeing as its Origin lay in the concept of simulation, experiencing the Seat of the Exalted Prima once again would hopefully allow him to gain some insight and bring him closer to an upgrade. That, or at least help him figure out what to do with the skill and remove the odd degree of separation he currently felt from it.
+
+This was actually the main piece of inspiration Jake got from the weeks spent meditating on the Gate of Enlightenment back in Venus. Jake still wasn’t very good at targeting specific concepts while meditating, but he had at least some minor success. The majority of concepts he gleaned were just to shore up his current shortcomings, though, and after just a couple of months, Jake was confident he could now summon quite a respectable fireball. Was this useful? No, but it was something, right?
+
+“You’ll find out when you get to the World Wonder,” Villy said, shrugging, seeming surprisingly unenthusiastic about the event. Jake gave him a look, making the Viper explain.
+
+“Look, I already consider the Milky Way Galaxy under lock and key and care far more about the tens of thousands of other galaxies the Order has chosen to actively compete for. And these are just the ones I think we actually have a chance,” the Viper explained.
+
+Hearing this, Jake frowned as he heard something he’d kind of already known, yet never had confirmed. He knew there were many galaxies in the ninety-third universe, the total number definitely surpassing a trillion, but the vast, vast majority of them contained no intelligent life. However, based on the Viper’s words...
+
+“Just how many Seats of the Exalted Prima are there?” Jake asked, not sure he even wanted or needed the full answer to that.
+
+“I don’t have any definite number, but conservative estimates put the number just shy of twenty million,” the Viper answered, making Jake take a deep breath.
+
+“All of which are perfectly identical, with only minor changes to the starscape visible and the names of the entities inhabiting these constructs,” Artemis added.
+
+“Doesn’t that mean even if I claim the Seat in the Milky Way Galaxy, I’ll still have to compete with twenty million other galaxies?” Jake asked in a listless tone.
+
+“Of course,” the Viper said with a chuckle. “My personal hope is a double-elimination tournament with every Chief Administrator taking part!”
+
+“No, that would be utterly ridiculous,” Artemis sighed, shaking her head. “It should be a round-robin format instead.”
+
+Jake just gave the two a deadpan look before sighing. “Now I’m reconsidering whether I even want to become the Chief Administrator.”
+
+“Of course you do,” Villy waved him off. “As my Chosen, it’s something you should just do. In my glorious name and all that.”
+
+“Yeah, now I’m definitely not bothering to-“
+
+“And there’ll definitely be a title or other exclusive rewards available,” the Viper continued, hitting Jake where he knew it would work. “Such as that ring of yours with quite the unique effect. Doesn’t it even say you can upgrade it? Would you really wanna miss out on such an opportunity?”
+
+Jake stared at the Viper for a moment before giving an exaggerated sigh. “Touche... but I’m not going to actually work as an administrator or whatever of the World Wonder.”
+
+“See, if only you were as insistent on avoiding dangerous worlds full of A-grades as you were responsibility, things-“
+
+“I already agreed, no reason to make me rethink,” Jake shut down the evil snake god. “And I am responsible. Responsible for getting stronger, and Miranda happens to get stronger from doing administrator-like things. I’ll just take on the burden of being the guy on the deed of ownership that is the primary target.”
+
+“And reap the vast majority of the benefits in the process,” Artemis added, not sounding like she disapproved at all. “I should also add immediately that if there is a conflict between the different Seats, the Pantheon of Life and Order has entered into a temporary alliance.”
+
+“That sounds good,” Jake nodded with a smile, as it would be good to at least have some allies in case fighting got involved. Not because Jake was afraid to fight, but because he wanted enough numbers on his side to allow him to target those he deemed worth fighting. The Nevermore top-scorers and other talents he’d been briefed about.
+
+Hopefully, it wouldn’t be too long, either. The Administrator Test was set to end in roughly half a day, at which point Jake assumed he wouldn’t have much time before the Chief Administrator Selection began. At least that was the working theory.
+
+“Should I bring any allies or assistants?” Jake suddenly remembered, assuming that if Administrator Candidates could bring allies, there was a chance Administrators would have the same ability in the Chief Administrator Selection.
+
+“Would you need to if you could?” the Viper asked. “Not gonna lie, I figure that whatever the test will be, your chances of passing will be higher solo. Also, let’s not act as if the Milky Way has any competition worth much. All the noteworthy figures are spread across the universe, becoming Administrators themselves.”
+
+“True, I guess,” Jake said.
+
+“Well, that’s about It I think. I actually just came by to make fun of you a little and have nothing much to add,” the Viper shrugged. “I’ll let you catch up, just the two of you. Give you some privacy and all that.”
+
+“Appreciated,” Artemis said with a nod, and without further ado, the Malefic Viper teleported away.
+
+“And there he goes,” Jake said with a slight chuckle as he looked at Artemis. “How have you been?”
+
+“Same as usual, though with more diplomatic work than I tend to care for,” Artemis said, returning his smile. “Let’s head inside. We still have plenty of time before it’s time for you to be summoned to the system event.”
+
+“Let’s,” Jake nodded as he walked over, and just as he was about to reach out, a head suddenly popped out of a crack in space as the Viper looked at them.
+
+“Remember, avoid children before-“
+
+The bastard didn’t get further before he faced the wrath of Doomfoot as a boot kicked him in the face.

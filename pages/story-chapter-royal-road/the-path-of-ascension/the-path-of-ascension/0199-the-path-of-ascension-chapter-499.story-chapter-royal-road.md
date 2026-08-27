@@ -1,0 +1,371 @@
+---
+id: 0bbf657b-9d8d-5be7-98f5-dba356e865fb
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 499"
+slug: 0199-the-path-of-ascension-chapter-499
+partOf: the-path-of-ascension
+position: 199
+ownLength: 6252
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3544177/the-path-of-ascension-chapter-499"
+royalRoadId: "3544177"
+---
+
+Chapter 499
+
+Quill felt the world return to normalcy as if he’d never used the strange realm reward, but there was something extra. Something new and additional.
+
+His armor.
+
+Quill could feel the armor the same way he could his sword, his rings, and their house. It was now connected to his spirit. Except something was off. It took him a few seconds, but he realized that sensation was his name.
+
+He wasn’t the only one inspecting himself. JR was right there next to him, a blur of dark feathers as he inspected the armor. Following the bird's lead, he did the same thing and was shocked at what he saw.
+
+Things were very slightly different. In most of the peripheral cases, the changes were miniscule, a few particles of neutronium shifted here or there to better accommodate the item's new status as a growing one. Having been a part of the entire process from start to finish, he could pick out each and every alteration. He even thought he could identify the reason behind some of those changes.
+
+That was where his progress ended. Quill had zero chance of being able to identify what the reward had done in the core of his armor. On an overall design scale, it managed to change everything and nothing, all at once.
+
+Where the magical stabilizing effects were the core effect of the armor and something he’d get access to immediately, the growing effects would need to be developed over time. Magically speaking, they barely existed; like fresh shoots on a bush.
+
+The strange realm reward hadn’t ignored the deeper modifications as they’d planned around; it did better. It merged the two halves of the armor's design. It mixed the magical and physical side together into a unified whole without changing the effect of either.
+
+Quill couldn’t even begin to hope to follow the changes or how anyone, even JR, might be able to replicate them. Nor did he need the excited bird to understand it was a positive development.
+
+As for what had actually happened during the modification? How did the strange realm layered all of those functions?
+
+Quill had no idea. And from JR’s excited, near frantic fluttering, he didn’t either.
+
+Quill felt a small urge to complain rise, but JR beat him to the punch and started gloating. “I’m simply amazing! I was able to do the impossible and tie everything together! I pulled a fast one over the Realm itself. I’m amazing! The best crafter that this Realm has ever seen, or will see again. I’m going to need to investigate the changes later in more detail, yes yes.”
+
+JR fluffed himself before strutting around the table as his following words made Quill's stomach drop. “Okay, Quill, time to stuff you, back into you. Hop up on the table to the left. I need to study the recordings. Chop chop! Move along now!”
+
+Quill swore he heard another indiscernible voice whispering in a language he couldn’t identify as he got on the slightly cool table, but the feeling faded as fast as it arrived.
+
+Liz and Aster looked at him, but Quill was ready. He’d done everything he needed to and he ached to be whole.
+
+He—.
+
+Darkness swallowed him as JR’s voice seemed to reach into his spirit itself.
+
+***
+
+Matt screamed. He couldn’t help it.
+
+Agony the likes he’d never known were possible racked him, as he felt every sensation of the last two decades crash down upon him all at once. Every cut, every scrape, every bolt and every rune, he felt them all.
+
+At the same time, he experienced everything his body had been through during their separations. Every test and experiment, every laugh, every embarrassing interview, they hit like an unending wave.
+
+On its own, either rush of experience would have been tolerable, but each felt like it came from a different side, and worse yet, the sensations were slightly delayed, which added to the one-two punch effect.
+
+In addition to Quill’s memories, all of the work they’d done on their Domain started to show itself. Like a plant experiencing spring's first shower, his Domain stretched itself and grew now that he was whole again.
+
+Most of the growth was instinctive and uncontrolled, reinforcing what was already there. His Concept's repulsion grew more robust, like a tree trunk thickening, while his Intent's gravity manipulation faded into the background, becoming slightly harder to notice.
+
+Thankfully, he already had his Aspect’s Truth, so it was able to receive a portion of the growth. It wasn’t much, but he was grateful for any improvement.
+
+His true goal, to claim the armor as his Aspect’s anchor, wasn't instantly accomplished by merging with it. He hadn’t expected it to be that easy, but a part of him had hoped all the time Quill spent assisting with the armor's creation would have a positive effect.
+
+Or maybe that had been Quill's desire?
+
+Matt wished he could identify the line between himself and Quill, but everything felt far too fuzzy at the moment. No, his, or maybe Quill's, largest gain had been the inspiration they’d touched when he learned about his mana generating its own mana.
+
+There was something there… Something close, something right in front of him, yet it remained invisible and intangible. Trying to follow the line of thought, he felt like his Aspect’s phrase was right on the tip of his tongue.
+
+I am Endless.
+
+I am Dauntless.
+
+I am…
+
+Matt didn’t know what he was. His mind wanted to fill in that blank, but he couldn’t put words to his thoughts. He wasn’t even confident about the ‘I am’ part any more.
+
+Instead of anything profound, his mind could only find the simplest of words.
+
+He was Matt. He was Quill. He was Titan. He was… empty and tired.
+
+There was nothing left to give.
+
+His spirit, body, mind, and willpower were wrecked. He was a wash rag used one too many times and left in the sun for too long. He was brittle and cracked, and if someone tried to unball him, he’d shatter like glass.
+
+Matt’s Domain stuttered in an attempt of rebellion at the thought of being anything but endless. It failed. Even it couldn't deny his current reality. Processing two decades worth of memories and experiences would have been hard enough on its own, but combined with having surgery performed on the core of his identity, he was spent.
+
+He needed… a nap.
+
+He may be endless, but he wasn’t limitless.
+
+He’d…
+
+Matt felt Manny tap his forehead, which pulled his muddled mind out of the fog he’d been in. The action wasn’t without its price, as his clone faded to the point that Matt could see through to the ceiling behind. “That’s a temporary pick me up. It won’t last, so don’t push yourself. How are you feeling? Is there anything wrong?”
+
+It took a moment for the words to penetrate, but he nodded to show he understood.
+
+He felt awful, but he couldn’t say that.
+
+Instead, he finally focused on the cause of all of his pain, the armor.
+
+Even with his mana channels feeling as if they’d been scorched, he found it easy to engage his… [Spirit Print].
+
+His armor came to life slowly, but it carried with it a weight, like a whale moving through the waves. There were only the thinnest ribbons of solidified mana running under his skin along the armor, but once he had time, it would grow. He could feel it, the armor begging to be fed and made complete.
+
+Despite that yearning for more growth, the armor was already doing a lot for him.
+
+Matt felt powerful.
+
+Remembering what Manny had just warned him about, he tempered those expectations. One by one, he went through his armor’s systems, careful to only use enough mana to ensure it worked before moving on, instead of indulging in how easy his mana felt to move.
+
+It didn’t seem to matter if he used ten mana or ten million any more. Both felt effortless and he desperately wanted to try a few hundred million mana, but he held himself back. His armor wasn’t going anywhere.
+
+When he’d finished, he gave the all clear before moving onto what Manny had actually asked. “Everything works with the armor. I feel awful though. Like someone drove a spike through my spirit and left it in there because it would cause more pain. I’ll get over it once I’ve had some time to rest.”
+
+Manny and JR shared a look packed to the brim with meaning but said nothing.
+
+Liz reached out and grabbed a hand, gently stroking it. “As long as you're okay, everything else can come after. Max said she’d be around in a few days to check up on you but we aren’t—”
+
+Matt knew she continued to speak but the only thing he could focus on was his bond with Aster. It felt wrong in some way. He followed their connection backwards until he found nothing where he expected her.
+
+For a brief instant he feared she’d broken their connection, but even through his sluggish state he'd realized he could feel the bond, just not her. He searched the room for her only to find her absent.
+
+Following their bond, he found she wasn’t in the room at all. She was… it took him a moment to realize the very obvious. She’d been knocked unconscious by the rush of emotions that had overwhelmed him when his name and body had remerged.
+
+His disconnect came from the fact he'd actually merged with his armor almost an hour ago, not the fifteen or thirty seconds he thought had passed. Her spirit was settled because she was unconscious.
+
+The feedback loop of emotions she’d experienced would have been unpleasant to say the least.
+
+Blinking up at Liz, he breathed steadily until he found his mental center and could get words out. “Can we go home?”
+
+Instead of answering, Liz turned to Manny, who passed the question by facing the raven.
+
+“You should be fine in a few years. I know you and Max talked about doing your [AI] modifications before you go home. I no longer need access to you, so feel free to go into a rift or the Plunge as you see fit. The armor is perfect and will heal itself. I don’t offer after-sales service for inter-Great Power purchases, so our deal is concluded.”
+
+“After all our time together, and you just toss me and the armor away the second you got to see the reward used? I’m going to tell Aunt Helen.” Matt’s mind froze as he registered the words that had just come out of his mouth.
+
+They hadn’t felt like something he’d say, or even want to say, but he hadn’t even noticed he was speaking until well after he’d stopped.
+
+JR only laughed at Matt, causing a fear to rise in his chest until it made it hard for him to breathe. “I’d offer you to come back whenever you felt like it, but somehow I doubt you will pop in unannounced. At least not any time soon.”
+
+Matt’s conscious mind wanted to say every move and flutter was JR playing with him, but he couldn’t identify why he thought so.
+
+Before he could spend more time pondering the oddity, JR continued, “Besides, I now have something far more interesting to work on. Quite the worthy exchange if I say so myself.”
+
+JR landed next to a work bench but something immediately stood out as wrong to his jumbled mind. As Matt looked where his memories told him an arrow should be, another wave of vertigo hit him like a brick making him want to vomit his spirit out.
+
+There wasn’t an arrow on the work bench any more. It was the wire mesh diagram of a pocket watch halfway through construction. With the internal mechanisms exposed, he could see how far into the project JR was and he hadn’t just started. He was, in fact, about the same progress of the watch as he was the arrow. The most obvious conclusion was that the arrow and the pocket watch were one and the same, but that didn’t seem possible.
+
+Maybe it was an illusion so Manny, Liz, or Aster didn’t see the arrow?
+
+That felt profoundly wrong for some reason, but he couldn’t put his finger on why. The entire topic was like trying to hold an oil slick with his bare hands. Before it faded completely, Matt made a note to mention the arrow to Manny. Not any time soon, but later, when they were safely in the Empire. He tried not to let any of that show, even knowing it was probably useless and JR had noticed everything.
+
+At this point, he wasn’t sure if anything he saw was real or fake.
+
+His head and spirit hurt far too much to discern anything so complicated.
+
+Liz must have seen that because she glared at both Tier 50’s at once. “Okay, unless we have to do something else now, I’m taking Matt back to the estate.”
+
+“One minor thing,” Manny delayed them for a moment. With a gesture the clone faded just a bit more and Matt felt another spell settle over him. “That should hide your current condition until you’ve mostly recovered.”
+
+With a final nod, Manny turned to JR. The bird had a glint in his eye that Matt knew meant his only thoughts were of getting paid.
+
+He couldn’t identify which of the two opened the [Portal], but he didn’t care.
+
+It took a concentrated effort to roll himself up, and his initial reaction was to blame the surgery he’d just been through, but he immediately realized how wrong that was.
+
+He wasn’t only finding it hard to move because he was tired, it was hard to move because his weight had multiplied. Worse yet, his strained mana channels meant he couldn’t use any of his spells to circumvent the issue, like [Archmage’s Presence], [Gravity Manipulation], or [Flight] if he was feeling particularly lazy.
+
+Matt knew something was wrong when his first instinct, along with the following dozen, were all centered around trying to roll through the [Portal]. Even just the thought of trying to cast a spell with how badly his spirit and mana channels hurt was enough to make him want to break down and cry. Thankfully, he wasn’t alone and didn’t have to solve the problem of how to get home or how their bed would survive his increased mass himself.
+
+Liz half carried his now much heavier body through the [Portal]. For some reason he couldn’t identify or solve, his legs didn’t quite want to work properly, with signals delayed or misfiring altogether.
+
+Throughout the process he could hear her trying to speak with him, but the words were foggy and indistinct for him to process anything.
+
+The only thing he understood were the comforting arms wrapped around him and being horizontal.
+
+And that was all he needed.
+
+***
+
+Matt woke up.
+
+He opened his eyes ready to—.
+
+His eyes drooped as he felt his dreams drag him back under.
+
+***
+
+Matt woke up.
+
+The second time wasn’t much better than the first, but he knew a decent amount of time had passed thanks to feeling Aster up and about. Additionally, human Liz was gone, with only a passed out phoenix in her spot to give him company.
+
+Matt contemplated getting up. He needed to do so many things, but instead he closed his eyes and pulled the covers over his head, letting his breath warm the space.
+
+He'd get up in a few minutes when he gathered the energy and willpower.
+
+He’d…
+
+***
+
+Matt woke up for the third time, coming to full alertness all at once, as if someone had flipped a switch.
+
+His eyes inadvertently flicked to the door, half expecting to find Luna waking him and Liz up for some training in the middle of the night. He found no one, and that oddity was what made him spend the necessary seconds putting together where and when he was. As he looked around, he found even phoenix Liz had left the room, though from the warm pillow next to him, she hadn’t been gone long.
+
+Matt’s body felt significantly better after several days of rest, but moving his increased weight was a struggle, as if he was in a resistance machine or underwater.
+
+He growled as he tried to stand up. He failed.
+
+The effort saw his seemingly abundant energy settle in his back and side, leaving him in a strange limbo state. Pushing through, he once more failed to stand. The sensations that rolled through his body in the attempt made him want him to return to his bed instead of waking up.
+
+Giving up, he tapped into his mana where he found good news. He had recovered enough that using a few thousand mana to reduce his weight with [Gravity Manipulation] was just barely within his abilities.
+
+That seemed to be a signal and he felt the presence outside the room stir. At the exact same moment, his connection to Aster became much sharper as he felt her focus on it. She was checking up on him.
+
+There was no more time for dawdling and Matt forced himself to stand up and get moving before he could fall back into bed. He wanted to, but he resisted the urge, knowing active recovery was more efficient than passive.
+
+His shower may have lasted a little longer than he intended, but his, or more truthfully, Liz’s, timing was impeccable as she finished plating his breakfast just as he stepped into the living room. He was profoundly disinterested in even the thought of food at first, but after one perfunctory bite, he devoured his entire plate before he realized what he’d done.
+
+Neither she nor Aster, who appeared at some point he hadn’t caught, joined him; instead they waited for him to finish eating.
+
+When he had, Aster reached out and grabbed his closest hand. “I want to say I’m sorry about how I reacted during the armor process. I really wanted to be there for you but it was… really hard.”
+
+Matt took a long deep breath and rubbed her hand back, even as he said words he didn’t really want to. “I’m sorry too. I didn’t know it would be that bad. I—”
+
+Aster shook her head, cutting him off. “JR, is a dick and could have warned me, yes, but I still would have wanted to be close in case something went wrong. There was no way I was ever going to be okay with waiting in the Empire while you had something this important happen to you. That would make me… not the person I want to be.”
+
+Matt smiled, but continued what he was going to say regardless. “I still want to acknowledge that it was hard for both of you. I… It was rough for me too, but it's behind us. I already feel a lot better.”
+
+Seeing both of their hopeful expressions, he backpeddled before he set expectations too high. “Don't take that as me being a hundred percent, I’m still trying to settle back into myself. I can barely use a few thousand mana without it hurting, but I can tell this isn’t actually dangerous. It's like I overtrained a lot. I can recover from this.”
+
+Opening and closing his fist, he could barely detect the yet to be fully grown armor.
+
+Liz and Aster misinterpreted his actions and words. Both of them tried to reassure him that he had all the time he needed and that he shouldn’t rush, but that wasn’t his issue.
+
+“I know this sounds like I’m making a joke or a quip, but I can’t bring myself to believe I actually did all of those promotions for the escape talismans.” Wincing at his own choice of word, he let a slowly growing emotion out. “Oh and don’t get me started on that word. Quip. I think I've come to loathe it. Quill thought that word in what felt like every third thought. I can’t believe I was that bad. It's so embarrassing to remember that dinner we hosted. I interrupted Conor five or six times.”
+
+Liz reached out and took his hand, giving him a soft smile, and he winced internally knowing it was going to be bad. “Our friends don’t hold it against you. Everyone could see how hard it was on you. As for the business? You went a little overboard near the end, but I’m not sure if you can say it was too much. Your logic was sound or I would have stepped in and redirected your… enthusiasm. Have you actually checked the numbers?”
+
+Matt hadn’t. He could check Quill's memories, because he’d watched them like a hawk, but like a child who had just burned their hand on the stove, he didn’t even want to get near those memories.
+
+When he opened his Corporation information, he wasn’t expecting to be assaulted by two numbers and felt his stomach sink as he processed what they were. The business itself had enough capital on hand to coast until he Ascended and well beyond, but the money was secondary to him.
+
+What horrified him was the projected aura escape talisman sales Quill had tacked onto their login page. Even in the micro second since he’d logged in, it had already climbed higher.
+
+Matt had already had the plans for the aura resonance tracking talisman, so he wasn’t surprised by their success there. He was actually impressed with what they’d made. It was a very clean use of resources and worked amazingly. He looked up Empire reviews of the product and found the majority were glowing, with the expected upset or angry customer here or there.
+
+The aura escape talismans were another matter. One he didn’t want to touch with a twenty foot pole, despite their absurd success. It was that success that made him feel so sick. In a move of brilliance or stupidity, Quill had made deals that ensured a significant portion of the Realm’s less valuable aura sub-aspects, like a bright aspected fire aura, were redirected to aura escape talisman production, where the sub aspects weren’t as relevant.
+
+Others had quickly followed suit, exactly Quill's intentions, and as a consequence, aura escape talismans were on the fast track to fully replacing their previous iterations.
+
+It was already being estimated that in another nine or ten thousand years, the days of using elemental escape talismans that only wrapped their wielder in a bubble of the mana type and moved them in a straight line would be over.
+
+Matt loved every individual step of that process, but he didn’t love how Quill had gone about such a large scale push in such a short time. He’d done hundreds of ads, dozens of talk shows, public question and answer sessions. He’d even sunk as low as doing cross-product promotional deals for other brands, all in the guise of advertisement.
+
+While Quill had found it funny, he could barely get through a single ad without wanting to go back into JR’s lab and continue the work on his… armor. It wasn’t really armor any beyond the surface most definitions, but he pushed those thoughts aside for the moment.
+
+What made everything worse was the fact that the aura escape talisman diagrams were really impressive. The talisman was a bit harder to make thanks to the inclusion of aura, but disregarding that obstacle, the design truly was a work of art. They grew in complexity in a steady and predictable way that meant anyone who learned any Tiered version would have little issue swapping to a different element, or learning higher or lower Tier variations.
+
+It was clean and he hated every inch of it thanks to his shameful display in advertising the product everywhere. Even without his name, the portion of his body that fell back upon a Quill persona was still himself; Matt knew and accepted that fact, but it was the source of his frustration.
+
+He didn't particularly like that he was capable of being so shameless for a product that didn’t really matter. No matter what Quill thought, Matt knew there was no chance that aura escape talismans would buy him allies for a true war. In a political maneuver or two? Maybe, but Quill underestimated how quickly people were to forget past good will when it came to future benefits.
+
+Accepting what had already happened, he moved onto the rest of his efforts during the twenty years.
+
+He couldn’t be upset. He’d grown quite a bit in several skills he'd let lapse from his Ascender standards. The flash talismans would require a little more work to get where he wanted, but he was excited to have access to an endless faucet for his mana.
+
+While he was in the finances he looked at the rest of his friends' efforts. He found that things had gone about the way he’d expected. Most hadn’t been profitable, but they hadn’t been doing it for them, and their assistance would prove vital in the coming days as he tried to re-acclimate to being whole.
+
+And empowered.
+
+A not so small portion of him desperately wanted to test out his armor, but he knew that he wasn’t ready for that. Not yet. It would come soon enough, but first he needed to relax.
+
+For what felt like the first time, Matt moved around the estate and used its many luxuries to relax and recuperate with his friends. Most of them used the three years of downtime as exits to their business, but Cameron was even busier than before, having to sell a successful business where the rest were simply shutting theirs down.
+
+Liz, Aster, and himself, after Quill’s deliberate efforts, were the only ones who wanted to keep their business operational so they could continue to extract related resources from the Corporations. It would be a bit of additional work, but their local operatives would handle most things for them.
+
+When he finally got to test his armor, he almost cried.
+
+It was everything he dreamed of.
+
+The armor made controlling his mana easy. He felt an urge to rush out and challenge the other Ascenders to a spar at the very least to see the difference, but he knew that was a terrible idea. Even if they kept their mouths closed about the armor, such a strategic power-up should be obscured for as long as possible.
+
+His only chance at a proper showing would be when their treaties with the hostile Great Powers ended in another six or so thousand years. It was possible the Clans or Monster Collective could attack them, but Matt felt that was unlikely. The only other two Great Powers that weren’t treaty bound to not attack them were allied or in a defensive pact with them.
+
+It was why Manny had been willing to let one of his Ascenders render himself combat ineffective for decades.
+
+He was content with that. His armor would take time to grow. That did leave him with little else to do before the treaties ended, beyond getting to Tier 35 and preparing to form his Aspect.
+
+In his own private tests, he had no reason to hold back, not that anyone capable of full-force sparing wanted anything less.
+
+Matt spent three months slowly feeling out his new capabilities with Liz, Aster, Zack, Allie, Susanne, and Rah.
+
+While in his day to day life, his armor had become something of a hindrance, thanks to the weight it added to his already formidable form. When he activated [Archmage’s Presence], all of that flipped. Even with only the initial body integrations and general mana control improvements, that single skill was enough to change everything.
+
+It wasn’t the only skill he needed, but [Archmage’s Presence] had become even more important since he’d gotten the armor.
+
+A Tier 44 spell, it didn't only boost all his physical abilities, but also bolstered all of his equipment’s enchantments. For the purposes of the skill, his newly converted growth power still counted, meaning the buffs were cyclical.
+
+It started with his armor. It boosted his skills, including [Archmage’s Presence], which in turn empowered his items' enchantments, making them more powerful. Instead of stopping there, the loop continued over and over. There were diminishing returns, but his path forward was clear.
+
+He was still heavy, but that was why he had been working on his gravity manipulation, from both the Domain and skill sides. He’d never live down the time he broke one of the floor boards in their living room when he got off the couch with a little too much enthusiasm.
+
+It was almost too much. With the skill active, everything became easy. The Tier 44 skill gave him such a large power increase, it reminded him of the first time he accidentally walked through a wall in a low Tier building.
+
+He’d had his eyes closed and was distracted coming out of the shower, worrying about a lesson from Luna he couldn’t even remember now. He hadn't noticed the non-existent resistance of the mortal wall. Luna had justifiably torn him to shreds for the lapse of control.
+
+And that was before his armor was even boosting his physical capabilities. Then everything would only grow that much stronger, the loop growing and reinforcing itself with each cycle.
+
+Matt only needed to pour more mana inside.
+
+JR had done an amazing job, but the armor was a mana hog and no amount of sugarcoating anything would change that reality. The bird's estimations hadn’t even been that far off the mark. However, possibly due to a side effect of the overlapping chimes, growing his armor's additional abilities had proved about ten percent more expensive than they’d anticipated. It was still within their acceptable results, and Matt was personally okay with it. He was willing to pay a much higher price for such a boost in power.
+
+He estimated it would take another hundred years to grow the first layer of actual armor with half of his Tier 30 regeneration. He was hoping the following steps were only going to double or triple the mana costs, but he was prepared for worse.
+
+He had time, which was why he had one last thing to do before he returned to the Empire. The night before everyone else was to leave, he was preparing to meet up with Max.
+
+That meant asking Allie to make a special trip back to the Empire, but she didn’t even hassle him.
+
+Part of his planned [AI] modifications was to use one of the Corporations' most valuable high Tier trade items, a Spark of Intelligence. However, unlike his strange realm reward that was unique to him, anyone would fight tooth and nail to get their hands on a spark.
+
+It was so valuable that Manny hadn’t let Matt take it out of the Empire at the start of the trip, despite the Corporations being the ones who sold them it in the first place. He claimed it was better to keep it safe and secure in some vault somewhere, but Matt never really bought that logic.
+
+If he was Manny, he’d have kept something that valuable in his personal storage rings. While theoretically risky because of a forced ascension, there were few practical places more secure in the Realm than being on a Tier 50’s person.
+
+The Spark of Intelligence Allie handed him was sealed but unsecured, which meant anyone could use it should they be able to grab it. Before he stored it in his Domain pocket space, he scanned it with his spiritual perception, wanting to get a good look at the priceless item worth as much as the dragon blood he’d found at Tier 4.
+
+The Spark of Intelligence was true to its name, a single mote of light trapped in a specially made container that was more complicated than he could understand as a Tier 30. He didn’t particularly care about the container, he’d study it later, his attention was pulled to the treasure itself. Nearly intangible, its color warbled in a strange rhythm that reminded him of a song he couldn’t hope to comprehend.
+
+It was beautiful.
+
+Matt couldn’t help but feel it was more than a little wasteful to use something so valuable on himself, but Manny had insisted empowering his [AI] was the best use of the spark the Empire had.
+
+A Spark of Intelligence was fairly simple as Natural Treasures went. That was also why they were so valuable, they basically had no restrictions and could be used on anything that wasn’t already alive. Normally, the first object the Spark of Intelligence touched would gain awareness. It wasn’t true intelligence at the level of a human, more along the lines of a low intelligence creature.
+
+Matt could only find scattered pieces of information about the early Everlasting Kingdom of Prosperity and its development of the star that made both Sparks of Intelligence and Revelatory Mind-Gems. What he could find all remarked on how alien the awakened rocks, gems, and trees could be after receiving a spark, but it made sense to him. The items weren't alive in the traditional sense, so why should they conform to anything but the very natural objects they were?
+
+Of course they were able to reason, but the logic behind their reasoning was alien. They were rocks and stones given… a Spark of Intelligence.
+
+Matt knew he had hindsight helping him, but he found it hard to follow their logic. The early Kingdom, not seeing much value in the sparks and preferring the Revelatory Mind-Gems, had used the Spark of Intelligence to replicate a Hill’s Have Eyes Minkalla floor. For a painfully long time, they had been handed out to princes and important vassals as consolation prizes.
+
+Nowadays that would be considered a horrendous waste for the same reason Matt himself felt bad about using it.
+
+The Kingdom had eventually found a much better use for the Spark of Intelligence than helping a single person. It was a rogue researcher who used a spark on a planetary AI rather than his weapons who discovered the Spark of Intelligences true value. It was a practice that had, officially, continued unbroken to this day.
+
+Already incredibly powerful, bestowing the Spark of Intelligence onto an AI was the same as giving an ember to accelerant. The resulting AIs not only became magnitudes more efficient and effective for a multiplicative bonus, they became able to act with some real genuine thought. They had a touch of creativity and initiative rather than blindly following their algorithms. That let them handle far greater loads, up to, and sometimes exceeding, entire star systems with unbelievable finesse.
+
+Matt, alongside every researcher who had so much as glanced at the field of AI, had always been rather disappointed that the formed intelligences were especially inscrutable and utterly uncaring about anything but performing the function the AI was originally designed for.
+
+They were singular in purpose. Something he was now grateful for as it was the only reason he was willing to empower his [AI]. He had no intention of sharing his head with anyone else.
+
+Matt had looked into it and while it wasn’t made too public, two of the EmpireNet’s core servers, along with the Capital and Tur’stal’s queendom capital, had all been enhanced. He was sure there were others that had been quietly empowered, but the Spark of Intelligence weren't produced often, nor were they sold except at the highest levels. Any such ‘illegal’ uses were carefully hidden to not draw undue ire.
+
+However, the most important improvement, and why Matt had wanted a spark in the first place, was that a Spark of Intelligence allowed AIs to directly interact with enchantments.
+
+If Matt’s [AI] could directly interface with his sword and inner armor, he’d be able to increase his micro efficiency to an unheard of degree. But that wasn’t all he was trying to do.
+
+Matt was willing to go farther to improve himself. To do something only Max and a few other of the most extreme mentalists did. Fully integrate their [AI] with their subconscious minds. Something a lot easier and more effective when the [AI] came with its own instincts on how to operate itself, rather than needing a human mind needing to build the appropriate, and all but guaranteed to be flawed, networks.
+
+Having made his decision long ago when he’d started modifying his [AI] in the first place, he put the Spark of Intelligence in his domain pocket space and opened a portal to the front of Max’s estate.
+
+Five more years of work and he could go home.
+
+Best of all, they were going to visit a place he’d always wanted to go in the Corporations. The official name was Delta Nine Axim but the colloquial name outside of the Corporation was The Tomb or The Plunge, depending on the context of one's visit.
+
+The very idea of a settled black hole exhilarated him to no end and he’d been eager to find a valid reason to visit. Originally he’d planned to go when Allie and Zack took their Corporation sponsored delves but he wouldn’t pass up this opportunity now that Max offered it.

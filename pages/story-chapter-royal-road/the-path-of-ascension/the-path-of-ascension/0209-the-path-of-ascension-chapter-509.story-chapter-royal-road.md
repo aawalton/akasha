@@ -1,0 +1,255 @@
+---
+id: 1183da5b-d9b9-5f5d-b3e1-9f6f495047a7
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 509"
+slug: 0209-the-path-of-ascension-chapter-509
+partOf: the-path-of-ascension
+position: 209
+ownLength: 5981
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3796761/the-path-of-ascension-chapter-509"
+royalRoadId: "3796761"
+---
+
+Chapter 509
+
+Matt hadn’t made any breakthroughs in his Aspect by the time they’d left the training facility, but he did feel a lot better about his upgraded sword. Increasing the weight of his blade had necessitated, at least temporarily, a sharp and drastic change in his fighting style. That had carried risks, and while he’d trained with high Tier heavy replicas, he felt better knowing there weren't any surprises after going through his paces.
+
+The war could happen at any time and he couldn’t be unprepared.
+
+Sadly, they didn’t have all the time in the world. The various elites stationed at the Capital were more than willing to spar, but few of them were willing to go all out in the way they needed. Not that he or the others could blame them. Without access to Melinda only a teleport away, they’d have had to be more cautious as well.
+
+Allie vanished almost immediately after her last bout, returning to the secure room where she could go through the previous dynasty’s records. Zack hadn’t gone with her, only because he spent time trying to get General Raven to give him an update on Susanne's progress at her training camp.
+
+That left Matt, Liz, and Aster with an opening, but one shared look made it clear none of them knew what to do. The war loomed over all of their plans, and that uncertainty spilled into everything else.
+
+Matt ran through his list of things to do and reprioritized them, but when the list hadn’t changed from its earlier order, he dismissed it.
+
+Instead, he rubbed his eyes and offered, “Anyone want to go to visit Tur’stal with me? Apparently she wanted to talk to me, and I see that she has an opening between meetings in ten minutes. I figure I might as well get it done and out of the way now.”
+
+Liz immediately shook her head, declining before Aster could manage the same. “I’m going to go find a bowl-like depression and turn into a puddle so I can be depressed while shaped like a bowl. I need a break. However, I will walk with you to her place if you want the company.” After her offer, she turned to Aster and immediately asked, “Want to hit a spa while they chat?”
+
+Aster looked like she wanted to decline the second offer as well, but after a moment, she shrugged and accepted. “We’ve been out of ideas with a chance of working for the last ten attempts. Maybe a break is what I need before the war kicks off. You have no idea how envious I am that you were able to figure Ichor out on your own. Space ice is killing me. At this point, I’m not sure it does exist. Or not in a configuration I’d find useful, which amounts to the same thing. But I refuse to give up! I just need to find the secondary mana types that can elevate ice to the ultimate cold. After that, everything else will click into place. I know it exists. It has to. I had a literal inspiration giving me the gumption to chase this goal. I just need to fulfill it!”
+
+Aster struck a fierce pose at the end before slumping in on herself. “Ugh, now I’m back at the same place I was thirty seconds ago, depressed and without direction. Maybe I need to check in with the Seekers? It's a big Realm, maybe they can point me in the right direction?”
+
+Liz hooked an arm through Aster’s and pulled her away as she tempered the fox. “Don’t chase this ghost again. We did this already. Twice. I’m pretty sure half of them were lying for the commission anyway. You are making progress. You are getting better at making mana types if nothing else, that's something. You’ll find it.”
+
+Choice made and companions gone, Matt opened a [Portal] to a building just outside the imperial palace. It housed offices for the Empire's various nobles when they were on the Capital and needed somewhere officially theirs to conduct business. While many dukes and lower nobles often relocated their offices to their own private estates, the Royals never did.
+
+At least, not officially. And at the moment, Tur’stal was there holding court, instead of one of her villas where she usually preferred to relax.
+
+When he entered the room, Tur’stal’s assistant was already there, ready to politely greet him, but he didn’t have to wait long. He at least didn’t have to worry about his weight, which was nice for a change, and he took the opportunity to sprawl out and stretch in a way that was only refreshing when done horizontally. His newly increased weight had some downsides when it came to everyday life, but by this point, they were little more than second nature only exacerbated when Tiering up and rapidly changing his equilibrium.
+
+He wasn’t left to linger for long. The moment her door opened a newly appointed count walked out, but he didn’t see any scandal in the news cycle that might indicate why they were seeking council with a Royal. Then again, he didn’t look too hard. He didn’t have time for anything new on his plate.
+
+“Come in, Ascender Titan. I have a few minutes before my next meeting.”
+
+Tur’stal’s voice had hardly finished echoing out of the room when he stepped inside. A vine shut the door behind him, but that was the least of his distractions.
+
+Tur’stal’s office looked like a gardening center had exploded its contents… everywhere. The office was always green and colorful, given her Talent and inclinations, but what he saw seemed excessive. Even for her.
+
+In a much more casual tone, she explained, “You aren’t the only one stressed, Matt. Sit down while I delay my next appointment to buy us enough time to have a proper chat.”
+
+A mass of vines crawled its way over to the center of her office before reforming into a lounge he happily plopped down in. Tur’stal was more than strong enough to toss him around like a child, sword included.
+
+The woman in question smirked at his care, but waited for him to settle down before a vine brought them each a glass of wine. “Still wondering about the decor? I did say you aren’t the only one stressed about this upcoming war. All of the royals are.”
+
+Matt felt a spike of nerves jolt through him at the implications, but Tur’stal waved him down after she put a large dent in her glass’s contents.
+
+“I don’t mean it like that. I’m a Tier 47, Matthew. I can’t do anything in the wars. None of us can. I have to sit here and watch as it plays out, all while knowing that I could single handedly end that fighting with a thought. It’s not an easy form of self restraint, even when logic makes it clear it's the right call. We wouldn’t be people anymore if we could fully turn those things off. The closer it gets, the more nervous I'll get until it starts. That’s when things become easier.”
+
+Matt took a much smaller sip of the Tier 35 wine, knowing some of what the Royal kept on hand. She had a bottle for every occasion, and one sip confirmed what the decor hinted at as the alcohol hit like Moe’s fist. He went back in for a second, larger drink, letting himself relax a little.
+
+He wasn’t sure if the royal was actually going through a similar feeling of helplessness as him, or was playing the role to make him feel at ease. Whatever the case, he was happy to play his part because it was helping.
+
+Shifting to get more comfortable, he said, “Except, that intervention wouldn’t be an end to the fighting, just a new escalation. I can't help but wish there was an answer to the population problems that didn’t involve butchering each other.”
+
+Tur’stal’s sigh was heavy, but the plant life around them responded by being a little more vibrant and alive. The Tier 47 smiled at the display over the rim of her glass, but she didn’t interject for a long moment as the flowers danced to a silent song in an invisible wind.
+
+It was beautiful.
+
+“That ties to what I wanted to talk about. What are your post-war plans?”
+
+Matt shook his head, already feeling the alcohol he’d consumed, but resisting the urge to purge the effects.
+
+“Ignoring the heir and everything that involves? I have no idea. I guess a lot of my answers depend on who’s asking. Tur’stal, the Tier 47? Tur’stal the Royal? Tur’stal the person?”
+
+“All and none honestly. It was a genuine question. Some people, even Ascenders, sit at Tier 35 for a long time. We can’t pay you three to stay in the war Tiers, so that removes the normal reason to delay. I’m curious if you’ve thought about it, and what conclusions you may have reached.”
+
+Matt’s hand closed around the thin glass that separated the wine from the rest of the world, taking a steadying grip on the glass as he thought about his answer for a long moment. “I don't know. There are reasons to delay at Tier 35, however I can’t pretend I'm happy about this war or am eager to be a part of it. Maybe it was because I was only Tier 25 during our first one, or maybe it was because we were on the defensive and morally in the right. But whatever the case, I hate the idea of the Great Powers slugging it out as a form of population control. I also don’t like the idea of being the most efficient knife in said battle. It's… distasteful.”
+
+He half expected assurances of their moral correctness, but the royal only nodded out of her latest sip. “Ahhhh yes, population wars. It's not pretty, however it is the solution we have. The alternatives are… less acceptable or un-workable. How familiar are you with how the Glorious Kingdom of Everlasting Prosperity would have handled it?”
+
+“Do you mean the early, middle, or late periods of the entity? They are all different.”
+
+Tur’stal snorted into her cup, even as she drained it and the bottle was carried over and placed on her desk for an easy refill. “I keep forgetting you shoved an entire PlanetNet in your head. I was talking about the late-early and middle periods. Where they implemented mortal population control and limited rift access from Tiers 6 to 14 to keep the amount of immortals at a controllable number. Refill?”
+
+Matt drained then proffered his glass as he responded, “And those measures fell apart as the entity slipped into decline. Are you advocating for something similar? That seems… ill-advised.”
+
+Tur’stal froze mid-pour before busting out in a guffaw of laughter. “No, not even a little. I was about to ask you if you thought that was a viable strategy any more in this day and age.”
+
+Understanding blossomed in an instant and Matt snorted, though his mood was considerably worse than hers seemed to be. “All of the Great Powers agreeing on anything is basically impossible. Agreeing on self population control? That’s never going to happen. I’d be shocked if the Tier 50’s could agree to host a picnic without a fight breaking out. Such a drastic change to the social order? There is no way.”
+
+“I thought that might be your stance. It may come as a shock that before Agatha took over, the Tier 50s were floating the idea between themselves. I won’t go as far as to say it was likely, but there is a universe where it might have happened.”
+
+That caught him off guard, but he didn’t understand where she was going with the question.
+
+“That’s an interesting tidbit of history, but it still feels… unlikely. Even before Agatha and Georgios’ reforms that increased the size of the Empire, it wasn’t like expanding one's population base wasn’t considered and done, even if they were more restrained. Even size is a factor. The Great Powers today may be the size of the former kingdom at its absolute largest but the internal reality is a night and day difference. Today's worlds, from the top Tier Capitals to the Tier 2 and 3 dregs, are far more productive than they were under the kingdom’s rule. Most of our Tier 3 worlds with only a few million people actually produce economic value, where they only typically saw returns on planets Tier 6 and above. So to answer your question though, no. I don’t think that strategy can work.”
+
+Tur’stal nodded along until he finished, where she said, “Then our perspectives are similar. Sadly that means we are back at our original question.”
+
+“Population wars?” Matt clarified.
+
+“That’s a symptom of the problem. My actual point lies somewhere else. What did their population control do? It took me a while to figure it out because it's both glaringly obvious and frustratingly obscure.” Matt’s mind raced, but he was still slower than the Tier 47. “It stopped an influx of immortals. Sadly, a lot of that heavy lifting came from having to form one's own Concept at Tier 4 without aura or Bottled Concepts.”
+
+Matt winced at the inadvertent reminder of his own culpability in what was to come, but Tur’stal shook her head. “Aura potions helped amplify the problem, but Bottled Concepts and their spread outside the Empire's borders was the real thing that killed any possibility of artificial population limits. And that would have prevented the Great Powers from ever agreeing to limit growth. Aura always existed, and aura potions did as well, but it wasn’t considered economical or even viable to mass produce. Like Bottled Concepts, it was a scarce, controllable resource. Bottled Concepts showed everyone the power of getting people over the Tier 5 hurdle, where they innately have more time to grow and flourish on a large scale, letting trash turn itself into treasure without any input from the higher Tiers. Aura simply showed them a better, more efficient way. It sped up a trend, but it didn’t establish it, Matthew.”
+
+That managed to mollify him for a moment, but she continued after taking another much smaller sip from her glass.
+
+“The real answer I’m getting at is that their controls ensured there was room for people to advance upwards and eventually out, should they make it that far. Yes, they forced people to stop advancing at Tier 45 instead of 46, which helped a little, but they also had a peak Tier 48 world, so they had much fewer problems regarding the tip of the Tier pyramid than we do today. However, fewer is far from none. The kingdom’s infighting near the end was, like all things, driven by resource scarcity at the top levels. Even with a Tier 48 world, there wasn’t enough of the pie to go around and there were too many powerful people fighting over it, which led to it shattering. Their population control worked to keep the mortals in line, but they didn’t manage to find a way to stop the immortal factions from entrenching themselves and expanding. It seems an immutable part of a cultivator's nature, whether they be human or beast, to repeat the same patterns over and over.”
+
+Matt leaned forward and refilled their glasses for a third time, emptying the bottle with a dejected sigh. “So what you’re saying is that we are doomed to repeat these actions, unable to change our course? Even with Manny’s plans for the Capital worlds?”
+
+Tur’stal didn’t sugar coat it, but she still managed to catch him off guard with her response. “Maybe. But that’s exactly why I wanted to talk to you about your plans after the war. I’m not content with the way things are, Matthew. I don’t have a solution that can solve the Realm’s problems, but I might have one that solves the Empire’s. And frankly, everything else is outside my scope.”
+
+Matt perked up at that and leaned forward, even though he had an idea of where they might be going. “Oh? And what would that be?”
+
+Tur’stal held up a finger on each hand. “Two things that will feel like one. I want to remove the bottlenecks that force cultivators into conflict. My plan is similar to what the Empire has already been doing. Instead of forcefully limiting how many low Tier worlds we have to control the mortal populations, I want to increase the amount of high Tier worlds first. I want to widen the top of the essence pyramids in each kingdom in the Empire, thereby relieving some of that high end pressure. In the short term, I acknowledge it can make things worse, but it's also the place where the Empire has the least population. We’ve recovered nicely from Agatha’s purges in the lower and mid Tiers, but eventually, those open top Tier positions will be filled and consolidated and then we'll be in the same place in five or ten immortal generations. Ideally, once the peak is taken care of, once we have enough throughput, it will be far easier to scale the amount of lower Tier worlds we have so that the average promotion time is less than the spots available. It would require forcing people to keep moving or take the independence vows, but it offers us an answer better than culling ourselves.”
+
+Matt wanted to snort at the idea, but only nodded along.
+
+She brought up very valid points. Agatha’s impact still scarred the Empire’s highest echelons even sixty thousand years later. At least, the numbers proved that stance when compared to the other Great Powers, even if he’d never felt the difference. He was self aware enough to know he didn’t exactly interact with people of his own Tier, but given how often it seemed like some Tier 45 had a grudge with him, he could only trust the math.
+
+“And you want my help?” Matt cut to what he felt was the point of the meeting.
+
+Tur’stal nodded even as she took another sip of her wine. “Yes, but admittedly I’m jumping the queue due to how interested and involved you were in the construction efforts.”
+
+At his raised eyebrow, she explained with a roll of her eyes, “It must be obvious, Matthew. Once you are out of the war Tiers, your mana will officially reach stupendous levels. You are already making forty three billion mana every second, and that will only double again and again and again. While I’m sure you could find something to spend that much mana on, even if you can’t launder that much mana through your guild, all of us Royals have ideas we’d like to see implemented with your help. My idea is aimed at smoothing out that demand curve while we still have a chance.”
+
+Her words caught Matt off guard, but he wasn’t all that surprised as he read over the small information packet she sent over with a flick. What shocked him was a seemingly insignificant detail her information contained.
+
+“Your second idea is to repeal the terraforming policy?”
+
+“On lower Tier, secondary worlds? Yes, without a doubt. And probably for the same reasons you refused to allow settlement on your guild’s storage worlds, despite the public pushback. Those extra planets, especially the ones in the higher Tier systems, end up becoming mortal havens, and for good reason. The mortals aren’t wrong in their desire for a safe planet next to the economic hubs. Repealing the terraforming policies is the best solution I could come up with to answer the question of how to stop mortals from filling those gaps and defeating the purpose of my efforts. We need more rifts, but we don’t need more arable land. In fact, we need distinctly less around high Tier hub worlds, as most are already overtaxed by their delving population. Let alone the mortal one. For less hospitable worlds, a terraformed moon can be moved in to ensure safe access for delvers, but I think we need to deliberately leave more secondary planets alone and only use them as places to delve, not places to live.”
+
+Matt ran through the math and whistled. He couldn’t help it. “This is… I'm struggling to find the word. Ambitious maybe? That doesn't sound important enough. If you did this, you’d change the face of the Empire. And I’m not sure if it would be in a good way. The terraforming policy was implemented for very good reasons, given the previous dynasty’s predilections.”
+
+Tur’stal nodded along, not denying his claims as he tried to process everything she’d said.
+
+He didn’t hate the idea, though he’d have some input if asked. “And you want my help paying for it?”
+
+“I can’t exactly get started on my own, given the scale of the project. Realistically, this is going to take more than a single immortal generation even with your help. But! If I can get the ball rolling, get the highest Tier stuff out of the way before I ascend, we can make our replacement’s task a lot easier.”
+
+Matt agreed with the sentiment, but couldn’t help but notice a piece of information she hadn’t directly mentioned. “And this is to be centered on your queendom?”
+
+Tur’stal’s bemused expression was his only immediate reply.
+
+Her words only came out after it was clear he wasn’t going to be the first to speak. “Yes. Is that a problem?”
+
+Matt took another moment to gather his thoughts. “Not inherently, but it does strike me as strange given how we got on this topic. We just did major work on the lower Tier worlds Empire-wide. Are the other Royals after the same thing, since the Emperor took care of the bottom rungs?”
+
+“Unlikely. Contrary to your unspoken accusation of double dipping, I was actually against the latest round of internal infrastructure, which most of them were all for. Not because I believed my own plan that much better, rather because I believe that it focused on many of the symptoms without addressing the root cause. While I’m not advocating for us to make the mortal Tiers worse, as the Kingdom actively did, I am sure that those improvements make an already flooded Tier 15 to 20 window all the more jam packed. Those efforts greatly exacerbated this upcoming population war, Matthew. As part of being a Royal, I had to accept that there will always be wars that I can’t stop or solve. But similar to you, I’ve always disliked the population wars and how they are handled. They are a distasteful necessity fueled and driven by cultivator nature, and the reality that there is only so much essence to go around. I’m trying to make that problem better before I inevitably ascend.”
+
+“And Manny doesn't?”
+
+“The Emperor’s gaze is, by necessity and design, wider than my own. To state the obvious, he needs to worry about the other Great Powers. He needs to think about how to protect a properly constructed garden, whereas my job is to build it. I can’t, in good conscience, say the Emperor was wrong in where he focused his efforts. Short term goals are always important, especially if not fulfilling them leads to the failure of the long term ones. I simply would have put my energy elsewhere if I'd have been him. As would the other Royals, I’m sure. We all have our own agendas and ideas on how to improve things. I’m confident they will reach out to you after the war to talk about them, but that's why I’m jumping the line. No one can force you to help us, but we know you and I’d eat a tree, root to leaf, before I’d believe you’d turn away honest attempts to improve things.”
+
+Matt snorted and rubbed his face. He’d drained his third glass and was already feeling the alcohol, but he did nothing to stop it. “Thank you. I think?”
+
+“You're welcome.”
+
+The silence was comfortable as Matt mulled over the proposition. “I know you aren’t pressing for an answer now, given the wine you started us with, so all I'll say now is that I don’t hate the idea. I just can’t see how we hide any of this from the other Great Powers. Such projects won’t be cheap or easily hidden.”
+
+Tur’stal’s smile turned wicked. “Oh, they’ve already noticed something is wrong. As far as I know, Frederic has done a lovely job obscuring things, but they’ve already identified spending is higher than it should be after the latest round of infrastructure work. They roughly know the expected income and expenses from our lands, and have had quite the tizzy trying to figure out how we afforded it. When they realize we stopped funding the Farm, they are going to tear themselves apart in confusion. That will hopefully buy us even more time.”
+
+Matt thought about everything Tur’stal said before leveraging himself to his feet as he heard her outer door open and someone else enter. They’d already gone well past the allotted window and he didn’t want to take up any more of her time.
+
+“I’ll think about it. I don’t hate the idea, but it feels… unreal for you to come to me with something like this. I like the goal, I really do. It just seems… Impossible.” Matt smiled at the last bit before adding, “Fuck the impossible.”
+
+Midway to the door, he spun back around and asked, “Got another bottle of— thank you.”
+
+He took the bottle a vine had already extended to him and cast [Portal] all in the same motion. Except he cast the spell directly under his feet, allowing himself to fall through the aperture and out of the room.
+
+He caught himself immediately, or he’d have gone through the spa’s reinforced floor, but he managed it without a tremble.
+
+Liz and Aster were puddles under the hands of the masseuse, literally in Liz’s case, but both perked up as Matt waggled the bottle of wine back and forth the tiniest amount.
+
+“Look what I pilfered from Tur’stal’s stash!”
+
+***
+
+When Emmanuel felt the message pass through the beacons calling for a gathering, he debated letting a clone go, but ultimately chose to let the clone continue on with the paperwork. While sending a clone would have indicated his own lack of interest in the upcoming war, fitting in with the general Tier 50’s trend he expected, he couldn’t let even a copy of himself shoulder the burden.
+
+His people would be fighting and dying in this war, and they deserved his best, even if he already knew how the meeting would play out.
+
+Unlike his other recent moves, he didn’t make a spectacle of it and simply teleported next to Minkalla, waiting for the others. Janet was the next to join him, but she was quickly followed by the others. The only one who didn’t send their real body was Tobias, but given his size and habitat on his shell, Emmanuel hadn’t expected him to.
+
+Winter Hornet was the first to speak as he rubbed his hands together. “Finally. Who wants to get started? Emmanuel, any chance I can convince you to declare on me? Come on, it would be fun. That treaty was too long. I tried to let it run its course, but even I can’t keep my people contained any longer. The glut of newly advanced cultivators is already reaching Tier 23, and it’s time to spend them before they become a much harder to solve problem. Why don’t we just agree to let the truce lapse and fight like true cultivators?”
+
+Emmanuel internally rolled his eyes at the stupidity such an action would imply on his end, but he didn’t let any of that show. Instead, he shrugged as if it didn’t matter to him. “If you are prepared to pay the breakage fee, sure. I need to refill my coffers after my latest round of spending. If you are volunteering, I don’t see why I’d decline.”
+
+Aofie snorted and looked like she was about to interject, but Janet was the one who got there first. “Gentlemen, our personal animosity isn’t in question today. If you want to have a spar or spat, do it on your own time. We all agree that it's time for a population war, so let’s skip to the relevant details. Who wants to fight whom?”
+
+Virgil pointed a finger at Aoife and cast the first stone, exactly as Emmanuel foresaw so many years ago when he’d set that particular piece in motion.
+
+“Aofie. You and I need to have a talk about privacy, but I suppose our people can do the important exchanges.”
+
+Everyone but the dwarf in question was entirely unsurprised that Virgil was the first one to make a move, but Aofie herself only looked contemplative at the news. However, that was exactly what Emmanuel was counting on. Now that she’d been declared on, Aofie would turn to Winter Hornet and break convention by expanding the battle into a three way slug fest that took care of the three most combative Great Powers in one fell swoop.
+
+It would be perfect.
+
+Instead, Aofie turned to Emmanuel and said, “I’m calling in the Empire as a defensive ally. Hastor’s agreement is still in effect. I might as well get some use out of it. I—”
+
+Emmanuel processed her following words, but hardly heard them. He… hadn’t expected her to do that. He’d considered it, but it had been so unlikely as to be unfathomable. He immediately started churning through the set past and possible futures, trying to see what had changed to lead to that catastrophic deviation. But with other Tier 50s making decisions, the future was impossibly murky.
+
+Just as he’d wanted only a few minutes ago, but now cursed.
+
+Thankfully, Emmanuel wasn’t the only one who was surprised.
+
+Winter Hornet looked angry enough that Emmanuel was afraid he was going to join the Federation just to take advantage of the treaty bypass Aofie had just given him by calling the Empire in as a secondary target.
+
+That would be very bad. Population wars were typically one on one affairs to keep things more controllable, but the wars were very much still wars. While some of their people may think the population wars were lesser wars, the opposite was true.
+
+Lessening the population of immortals was useful, but none of the Great Powers would throw away perfectly good assets for free. If they’d been willing to do that they’d simply kill the extra cultivators in some other fashion themselves. Like all wars, the Tier 50s would try to maximize their gains even as they tried to minimize their losses.
+
+Which was exactly why he wanted nothing to do with this war, and why he’d worked so hard to distance himself from it. It was probably why everything was falling apart.
+
+It was Allister who came to his rescue by taking the man’s attention onto himself. “Don’t try to be coy like Virgil, Hornet, your people claimed and took that Tier 37 world when it was still firmly in our jurisdiction. Do you think I was ever going to allow that without comment or reprisal? Don’t try to slip out of what’s coming your way.”
+
+“There is no jurisdiction except the size of one's fist. Let's see whose is bigger.” Winter Hornet’s aggression slipped off Emmanuel as it fell onto the Great Power most similar to his own.
+
+Allister didn’t acknowledge the change in plans even as he deviated from them, but his actions helped carve a path to a salvageable conclusion.
+
+With only one even mildly acceptable solution remaining, Emmanuel turned to Tobias and fluctuated his spiritual perception inside the other man’s projection. It was the closest thing to silent communication they could manage at the moment, though it only obscured what they said, not that they spoke. None of the others could comment on such actions without opening themselves up to similar reprisals, and that was good enough.
+
+That might not stop them if the two of them weren’t quick, but Emmanuel thanked his lucky stars the turtle’s predicted actions and desires hadn’t shifted like Aofie’s.
+
+Tobias had made it clear he wanted to declare on the Federation, thanks to their last treaty being shorter than most due to the resource exchange lowering the Collective’s war score. Something Emmanuel had been counting on in his plans. It was why he sowed the seeds of conflict between the Federation and the Clans in the first place.
+
+Tobias had blood in his mouth and he wanted more, whereas Virgil wanted to, needed to, redirect against a more neutral Great Power that they didn’t have a blood feud with.
+
+To that end, he was perfectly willing to agree to keep the war on the less lethal side, aiming for only ninety five percent of the other’s accepted casualty rates. It was callous, but worked in Emmanuel’s favor, giving him no reason to say no.
+
+Deal brokered, Tobias spoke to the group as he threw out a silent lifeline Emmanuel would be paying for the privilege of accepting. “As much as I’d prefer to join the Clans and use this opportunity to wipe the stain that is your collection of planets off the face of the Realm, Virgil, I’ll be declaring on the Empire. I’d rather fight them than see someone aid the Federation to even things out.”
+
+His glare went to Winter Hornet, making it very clear who he was talking about.
+
+With a primary war declared on them from an outside power, Emmanuel now had a perfectly reasonable excuse to limit his involvement in the Clan and Federation war, which had suddenly become his highest priority now that he’d been dragged inside against his will. He wanted nothing to do with the shit storm that war would kick up if his plan still worked.
+
+Now that the Tier 50s were close together and the future was in such flux, it was impossible to separate figments of the truth from wishful fiction, even with his father’s Talent. He’d have to trust that his previous planning was solid, and that he could salvage some amount of chaos during these wars.
+
+Aofie glared at the turtle, but she’d been the one to bring in a third party, which went against the spirit of a population war in the first place. On the surface, Tobias’ actions seemed like they helped the Federation, but the desire for further conflict between the Collective and the Federation had been at an all time high after their latest interrupted war. The Collective had tasted victory against their greatest enemies, and they desperately wanted more.
+
+Politics made for strange bedfellows, but Emmanuel hoped he could work with this last minute pivot.
+
+The Empire would now have to fight in two separate conflicts, but he planned to ignore the Federation war for as long as possible. His only saving grace was that the Federation wouldn’t have many troops at their shared borders, given their pre-mobilization against the Clans, which would buy him time should Virgil be dumb enough to antagonize him.
+
+He wouldn’t put it past her. Or Aofie to try and force his hand.
+
+Their wars settled, only the Corporations and Republic were left, but that made it easy for the two. They only needed to exchange a few words to settle things on their ends, wrapping everything up.
+
+War had been declared, just as he’d expected. It just hadn’t played out the way he’d expected, and that feeling settled like a rock in his stomach as he teleported back to his office.
+
+He had plans to try and salvage.

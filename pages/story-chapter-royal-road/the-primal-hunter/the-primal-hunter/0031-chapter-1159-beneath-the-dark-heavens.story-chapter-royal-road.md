@@ -1,0 +1,141 @@
+---
+id: c26cf2fd-05e3-5501-a811-7e4dc06e9150
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1159 - Beneath the Dark Heavens"
+slug: 0031-chapter-1159-beneath-the-dark-heavens
+partOf: the-primal-hunter
+position: 31
+ownLength: 2759
+unit: words
+ownProgress: 2759
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2604969/chapter-1159-beneath-the-dark-heavens"
+royalRoadId: "2604969"
+markedReadAt: "2026-06-29T19:30:14.507Z"
+---
+
+The black clouds rumbled as the sound of thunder roared. Bolts of black lightning jumped between the clouds, with the occasional strike hitting the ground. No matter in which direction one looked, dark clouds were all one could see as they made up the entire sky.
+
+Below, the ground was perfectly bare, not a single thing there besides black sand. Whenever a lightning strike hit the sand, it was kicked up, and occasionally, a natural sculpture formed as the sand was transformed into glass.
+
+Besides the sand and clouds, only one other thing existed in this barren world. Standing beneath the dark heavens, a single human stared up into the eternal blackness. Despite looking so small, this solitary man was the center of this world and the victim of the dark heavens’ full attention as it bore down on him with ever-increasing pressure.
+
+Yet the man remained unfazed.
+
+Raising his hand, the man clenched a fist as dozens of bolts struck him at once, the lightning burning through his body and into the ground below, forming a platform of glass all around him.
+
+Energy lingered in his body for several seconds before he sighed.
+
+“It’s indeed getting stronger every day,” the man muttered. “Tenlucis truly was a complete and utter lunatic to have devised a Path like this. Then again, aren’t I equally insane for having accepted it?”
+
+The man in question was naturally Caleb, and he found himself deep in meditation where he’d entered his Soulspace. Unlike Jake, who had control and influence over his own Soulspace, Caleb’s was quite different. While his Soulspace was indeed a representation of his Path and powers, it was also a timer counting down to the day when the dark heavens would overwhelm him.
+
+Tenlucis truly had been a maniac, something Caleb had only begun to realize more and more the further he progressed. What Tenlucis had done was create a special affinity and concept he called the Dark Heavens, which had led to him becoming one of the most powerful gods during his time and someone considered only second to Umbra herself. If he’d managed to survive, perhaps he would even have been able to truly be her equal, but he had sadly fallen before he could fully realize his Path.
+
+What the Dark Heavens did was to constantly temper one’s magic as it was in an eternal phase of growth. Relying on the concepts of the dark affinity, the Dark Heavens would constantly consume Caleb’s Records and forcefully make them part of itself. This made his dark lighting stronger and all Legacy skills affected by Tenlucis were constantly improved, but it also put pressure on Caleb.
+
+The Dark Heavens couldn’t be stopped, only fed. He needed to accumulate more and more Records, or the Dark Heavens would starve, and as it was designed, would begin to consume whatever else it could find. With no Records coming in, it would eat the ones Caleb already had, resulting in only bad things, from the loss of skills and even stats, all the way to consuming his very existence, forcing his entire being to become one with the Dark Heavens.
+
+One could wonder why anyone would make something like this, but Caleb understood, and even if he didn’t, Umbra had gladly enlightened him. The number one killer of potential wasn’t getting killed in battle... it was complacency. Loss of momentum.
+
+The Dark Heavens forced Caleb to keep moving forward. Forced him to keep progressing. While internal motivation was best when getting stronger, external ones were also great to have. That’s why factions bothered with having wars all the time and why it was even considered relatively commonplace for factions to hire assassins to kill their own young talents. The threat of death or having one’s country destroyed was a great motivator.
+
+However, these external motivators could be dealt with. One could defeat the enemy country invading, have the assassination contract expire, or finally get revenge on a hated enemy. At that point, many geniuses lost their purpose and began to become complacent, eventually resulting in their Path falling apart and time claiming their lives.
+
+The Dark Heavens fixed that. It was a constant reminder that Caleb couldn’t just decide to do nothing for a few hundred years. He needed to always do something to at least get a few Records.
+
+It was a reckless and dangerous Path, but Caleb had chosen it for a reason, and he’d walked into it with both eyes wide open.
+
+Caleb was fully aware that he wasn’t a genius. Not compared to those around him. Eron, the Sword Saint, Casper, Arnold, Carmen, and, of course, his dear brother Jake, also surpassed him several times over when it came to sheer talent. This wasn’t even mentioning the monsters Jake had been behind creating.
+
+Granted, he had originally accepted the Legacy of Tenlucis without knowing he was surrounded by monsters, and back then, he’d done it as a way to ensure he could be powerful enough to defend his family. He’d also instantly understood that he was particularly suited to the Path.
+
+Besides the obvious weakness of having a Path that would one day consume his very existence, the Dark Heavens did have another major downside. In fact, it had been this downside that ended up dooming Tenlucis in the end.
+
+Lack of Records for the Dark Heavens truthfully wasn’t a problem, and Caleb doubted it ever would be. As long as he got enough to still be able to evolve when the time came, it was all fine. No, the real problem came from just how overbearing the Dark Heavens were.
+
+It was a concept designed to constantly pressure its user, pushing them forward. And it did just that... perhaps a bit too well. The pressure it put on people was akin to that of a powerful presence, seeing as the Dark Heavens were effectively its own living entity within Caleb’s Soulspace.
+
+This entity would continue growing in his Soulspace, and unless he could withstand the pressure it put on him, it would eventually make everything around it crumble. The only way to address this was to continue growing stronger, as the stronger one got, the more one could resist the presences of others.
+
+Except... Caleb had a level of aura resistance that couldn’t quite be measured. While Caleb did feel some pressure when standing in front of a god like Umbra, he wasn’t sure how much of that pressure was from him feeling like he should be pressured. If he actively resisted being suppressed, even Umbra’s aura wasn’t enough to make him bend a knee.
+
+That’s why Caleb didn’t fear the Dark Heavens. He didn’t fear finding himself crushed by his own Path, which meant the only downside was the need to constantly keep growing, something he planned on doing, anyway.
+
+This Path of a mad god had been the thing that allowed him to stand beside the other top performers of Earth, and he was confident that he could continue to do so. Especially now that he’d finally reached level 320 in his class and gained a skill he’d been waiting for.
+
+Opening his eyes in the real world, Caleb found himself sitting in a small cave. Four members from the Court of Shadows were with him, one of whom saw he had exited meditation.
+
+“Judge,” the woman said with a nod. “The target has been located. Jim and Dwight are currently tracking it.”
+
+“Thanks, Pam,” Caleb nodded as he stood up and exited the cave. “I’ll move to their position.”
+
+Taking a single step forward, Caleb faded into the shadows and remained within them as he closed in on his allies. The two men had been tracking the target they’d been contracted to kill, keeping a safe distance, which was perfectly understandable.
+
+They didn’t stand a chance against a B-grade, after all.
+
+For Caleb, this would also be his first solo hunt, but compared to last time, he had a lot more confidence.
+
+The target they were tracking was on a planet in the Milky Way that had undergone quite a few challenges after the death of Ell’Hakan and had only recently fully stabilized after years of internal conflict.
+
+Right as they did, a B-grade monster had emerged and began to threaten the newfound balance. Seeing as the planet’s new ruling faction wanted to prove itself and not instantly run to Miranda for help when faced with a problem, they decided to instead hire the Court of Shadows to handle their problem. It wasn’t a regular kind of gig, but Caleb had gladly accepted it, in part for purely selfish reasons, as he wanted to test himself.
+
+Closing in on his destination, Caleb briefly made contact with the two other assassins and told them to retreat. He no longer needed their help, as he’d already located the target.
+
+The B-grade in question was a large reptilian monster that looked a bit like a scaled hippo walking on two legs. When he spotted the B-grade, Caleb saw it was resting within a small pond, injuries still on its body from when it faced a large group of peak C-grade monsters recently. Proof that he was dealing with a low-tier B-grade for sure.
+
+Taking a deep breath, Caleb prepared himself. His passive stealth skill had reached legendary rarity a long time ago, and combined with the B-grade not expecting an attack, he had plenty of prep-time.
+
+Taking out his staff – a long black metal pole – Caleb got himself ready. Energy began building in his body as he prepared to unleash his combo attack. One only made possible due to his recent gains.
+
+With everything ready, Caleb made his move, and many things happened at once.
+
+Caleb shot forward like a bolt of lightning, and a massive pillar of energy descended upon the B-grade. As this pillar of lightning descended, the world changed with it. All life seemed to fade from reality, and everything lost color for both Caleb and the B-grade as the Judge dragged them into the Shadow Realm.
+
+His target realized something was up the second the world changed, but at that point, it was already too late. Thunderfall of Tenlucis struck the B-grade right as Caleb himself also arrived. His staff slammed into the monster’s head as he dove through his own pillar of lightning, his weapon serving as a lightning rod to funnel even more of the energy into his opponent’s body.
+
+A deafening scream erupted from the hippo-like monster, sending out a shockwave that pushed Caleb back, and a moment later, the lightning pillar ceased, revealing the form of the B-grade. From this brief opening attack, it was already covered in burns as the dark lightning lingered, but Caleb was fully aware this was far from enough to take down a true B-grade.
+
+Which was why he was far from done.
+
+“You... a mere human C-grade dares to-“ the B-grade tried to say, but Caleb was not in the mood for chit-chat.
+
+“Descent of the Dark Heavens.”
+
+This was the skill he’d learned upon reaching level 320 in his class. It was also Caleb’s second Mythical Skill.
+
+Descent of the Dark Heavens was even more powerful than his first one. Umbra had been quite hands-on with informing him of the steps he’d need to take in order to unlock this skill, and he fully understood why after using it for the first time.
+
+The most important prerequisite to use the skill was the ability to enter the Shadow Realm in the first place, because the Dark Heavens could only exist there. In fact, according to Umbra, the Dark Heavens always existed within the Shadow Realm, as the concept had become one with it.
+
+After Caleb summoned it, the endless darkness above the Judge and the B-grade rumbled. Clouds full of energy formed as a powerful pressure fell upon the world. Caleb stood unfazed under this pressure as the B-grade hippo looked toward the sky with wide eyes as its legs shook from having to experience the same thing Caleb did every moment of every day.
+
+Without giving his target any chance to acclimate, Caleb attacked. He’d already fully unleashed his boosting skill – his second mythical skill. It was a boosting skill truly towards the pinnacle, more than doubling all his stats for a brief period when fully activated. Unlike the boosting skills of others, his wasn’t made for prolonged combat, but for absolute explosive power to finish his target off as soon as possible.
+
+Striking with his staff, Caleb went all out as he unleashed a barrage of attacks. At the same time, the skies above resonated with his blows, raining down lightning bolts with every strike.
+
+Each attack did very little, but Caleb kept striking as he allowed the dark lightning to accumulate within his target. His blows didn’t merely aim to damage the body of his foe, but the dark lightning went as far as to affect the soul, burning away resources while having a numbing effect, serving almost as a weak neurotoxin.
+
+However, perhaps more importantly was that the more lightning energy accumulated within his foe, the more the B-grade would resonate with the Dark Heavens and be affected by it. Which meant that the pressure would only keep growing with every bit of damage taken, and what’s more, when the level of resonance reached a high enough level, the Dark Heavens would begin to strive to eliminate the being that dared defy it.
+
+Having taken advantage of his opponent’s shock and the fact that it was already damaged when Caleb attacked, he soon reached this point. The scary thing about resonating with the Dark Heavens was that not only would lightning bolts begin to shoot down from the sky, but the B-grade itself would become a source.
+
+One could avoid a descending lightning strike, but if the lightning strike ascended directly from one’s body, there was no escape.
+
+Bolts of lightning constantly shot up and down between the Dark Heavens and the B-grade, burning it even more from the inside out. Not to misunderstand, the monster did try to fight back and had throughout, but with the damage it had taken, the effects of the Dark Heavens, lightning, and Caleb’s speed, nothing it did could hit Caleb.
+
+Still, Caleb knew that victory wasn’t inevitable. Doing this much burned through his resources like there was no tomorrow, as keeping the Dark Heavens present wasn’t an easy endeavour, and the longer he kept it active, the more mana it would drain. Alright, the skill description also included that the longer he kept it active, the more he would be affected by the pressure, but again, Caleb didn’t really care about that part.
+
+The mana drain alone was a tight timer, though, and he had already consumed a mana potion to keep himself going. With every passing second, his own boosting skill also damaged his body more and more, as while he was quite resistant to his own dark lightning, he wasn’t entirely immune.
+
+Caleb had made estimations before his attack, and luckily for him, he’d been on the mark. After the B-grade unleashed its last gambit and promptly failed because Caleb retreated farther away with his version of Shadow Vault, his target finally fell to the ground.
+
+Right as it did, Caleb dispelled everything as quickly as he could. The Shadow Realm dispersed around them alongside the Dark Heavens, and his boosting skill also deactivated as extreme weakness flooded his body, making Caleb fall down on one knee in front of his slain foe.
+
+He started coughing as his body convulsed, his muscles rippling from how overexerted they were. The pressure from the Dark Heavens was also stronger than usual as his own Path punished him for having dared to summon it... but most important was that he’d won.
+
+Less than a minute later, the four assassins he’d brought with him to this mission arrived and helped him retreat to somewhere safer.
+
+In total, it had taken three minutes and thirty-nine seconds to kill his first B-grade solo. If the fight had surpassed four minutes, Caleb would have had to retreat or risk dying or permanent injury from his own skills.
+
+Caleb truly did walk an extreme Path... but alas, he didn’t really have much of a choice if he wanted to keep up with the absolute monsters he was surrounded by. Especially not when he considered his big brother, who was the biggest monster of them all.

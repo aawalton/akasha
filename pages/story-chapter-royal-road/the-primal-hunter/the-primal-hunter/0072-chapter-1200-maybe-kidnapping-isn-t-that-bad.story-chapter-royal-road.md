@@ -1,0 +1,165 @@
+---
+id: 59c2a6cb-344f-504b-9188-f6e4f98ab196
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1200 - Maybe Kidnapping Isn't That Bad"
+slug: 0072-chapter-1200-maybe-kidnapping-isn-t-that-bad
+partOf: the-primal-hunter
+position: 72
+ownLength: 2568
+unit: words
+ownProgress: 2568
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2754958/chapter-1200-maybe-kidnapping-isnt-that-bad"
+royalRoadId: "2754958"
+markedReadAt: "2026-06-29T19:31:32.832Z"
+---
+
+With most of the gods gone and the situation having calmed down a little, the Viper sighed as he looked at Jake. “Seriously, you can’t even go on one little trip through the void without causing some major incident?”
+
+“Hey, no incidents on the way to the Pantheon of Life,” Jake defended himself. “And I don’t think it’s fair to put any of this on me, as clearly some major stuff is going on that’s way above my pay grade as a lowly C-grade.”
+
+“Yet you’re involved anyway.” Villy shook his head before turning to Artemis. “Not the best first day at work as a new Ambassador, huh?”
+
+“Certainly could have been smoother,” Artemis said with a nod, clearly feeling less stressed now that all the other Primordial-level gods were gone.
+
+“At least everyone’s still alive,” the Viper said, glancing at the teleportation vessel. “Good craftsmanship, that one. Automaton origin, right?”
+
+“Yes,” Artemis confirmed. “One of their newer high-level models designed for Godkings and Godqueens to use.”
+
+Villy nodded again as he looked toward the endless void above and the being that still waited there. “You really don’t want to volunteer any information? Give some tips as to why you helped Jake in the first place, because I have a difficult time seeing why you would owe him a favor of this level.”
+
+“Matter between He Who Hunts and I,” Oras answered, Jake feeling the attention of the Void God on him. “Knowledge detrimental. Capacity insufficient. Future unveils comprehension.”
+
+“Fair enough,” the Viper shrugged, not trying to press the Void God in any way. In fact, he seemed pretty happy with the answer he did get. Jake also got the gist of it based on what Oras said.
+
+As a mere C-grade, Oras believed it would be detrimental to explain the matter to Jake, but in the future, he would understand. It was interesting the Oras kept insisting this had nothing to do with the Viper and was between himself and Jake. Actually, it was kind of flattering in a way that Oras viewed Jake as someone he considered a somewhat equal party worth dealing with.
+
+“I also wish to once more give proper gratitude to the Void God for saving all our lives; without your assistance, I don’t even want to imagine what would have happened.” Artemis bowed for the second time.
+
+“Death,” Oras kindly answered her theoretical what-if. “Gratitude unnecessary. Death of companion and mate of He Who Hunts, detrimental.”
+
+Artemis looked lost for words for a moment as the Viper chuckled. “Wow, seen through by the all-seeing Void God.”
+
+Jake couldn’t help but smile as he remembered the other still-awake C-grades as he turned and looked at the Sword Saint. The old man just shrugged, having definitely known already… Jake and Artemis really had to work on being more subtle, huh? Or maybe the Sword Saint was just a damn savant when it came to that area of life.
+
+Deciding he should also thank the Void God properly, Jake glanced upward for a moment, instantly regretted it, and proceeded to lower his gaze as he nodded. “I also want to really thank you for the brisk rescue, and I definitely owe you one, even if you think you’re just returning a favor. No argument.”
+
+The void rumbled slightly in acknowledgment, making Jake smile and give a second nod.
+
+“Jake… before Oras appeared, you said something about this not ending well, no matter the outcome,” the Sword Saint decided to speak up.
+
+“Yeah,” Jake sighed loudly. “In truth, I had no idea what would happen. It was entirely possible I would have spawned a void explosion or some stuff and consumed us all, but in the best-case scenario – which we got – it wasn’t without any losses. It required the sacrifice of one of my most precious items, the Vision of Oras.”
+
+Better known as the best damn Void Lollipop of Perception in the multiverse.
+
+All jokes aside, infusing the Vision of Oras with his Primeval Origin Energy hadn’t been an easy or cheap endeavor. The damn thing had drained far more than Jake had initially expected it could handle before there was any kind of reaction.
+
+He also truly had no idea what the reaction would be. As he said, it could have just blown up, but a myriad of other things could have gone down as Jake truly had no proper comprehension of how the void worked or how his special energy would interact with it.
+
+They truly had all gotten incredibly lucky that Jake had somehow summoned a small aspect of Oras into the item. Or maybe summoned wasn’t the right word; perhaps awakening would be more right? Either way, it was a damn good thing it had happened, as it allowed Oras to instantly know where they were despite the formation, seeing as Jake had effectively placed a part of him within.
+
+As Jake was still mourning his loss, something absolutely incredible happened. The void once more rumbled above as the Void God mobilized some energy and spoke.
+
+“Lost. Regained. Restored. Another.”
+
+Like a miracle from the admittedly pitch-black heaven, a familiar-looking item appeared just above Jake and floated down to appear in front of him. Jake’s eyes were wide open as he used Identify and felt his heart get filled with happiness from the result.
+
+[Vision of Oras (?)]
+
+It was another Vision of Oras. Not the same one, as that had disappeared into the flood of eyes, but an entirely new one that Oras had either been holding onto or just made. Which did beg the question… where did these things come from, and how hard were they for the Void God to make?
+
+Were they even hard to make? For all Jake knew, Oras could have a few million lying around or the ability to summon them at command. Perhaps Oras didn’t even value them at all.
+
+Not that any of that mattered, because to Jake, his Vision of Oras had been pretty damn awesome, and he was ecstatic to see another.
+
+“You’re seriously just giving me a new one after I broke the other?” Jake asked in disbelief, nearly not believing his own Perception – which is saying a lot.
+
+“Yes,” Oras merely answered, once more not seeming in the mood to elaborate. Not that he had to, as Jake was more than happy to take the new Vision of Oras, a massive smile on his lips.
+
+“Yeah, alright, I definitely owe you one now,” Jake said, holding his precious. No, he more than held it as he couldn’t resist but give it a little lick, instantly feeling the energy from the item enter his body and increase his Perception… something that came as a surprise until Jake realized something.
+
+In the chaos of it all, Jake had completely ignored any system messages he had received. He actually hadn’t expected to get any, making him quickly check to see what was up.
+
+Apparently, he had accomplished quite an achievement… actually, scratch that, two achievements.
+
+Congratulations! You have successfully managed to escape the ambush and kidnapping attempt of several unknown gods through the use of your prowess as the Harbinger of Primeval Origins by calling upon [REDACTED] – A new feat has been accomplished. Bonus experience earned
+
+This first message had come right after the gods had all erased themselves, recognizing Jake’s success at infusing his Primeval Origin Energy and having Oras come help. It was interesting that apparently Oras was a redacted entity... but then again, it wasn’t that weird, now was it?
+
+He doubted the Void Dweller’s status menu – assuming he had one similar to Jake – said Oras, or just called him a Void God. It likely had a different title or long name that the system wouldn’t freely disclose in a notification. Of course, it was also possible that the Void Gods simply weren’t beings that the system usually categorized in system messages.
+
+Either way, Jake wasn’t complaining that the system at least recognized Jake’s efforts to escape the perilous situation. However, he was actually a little surprised at the next system message he’d gotten.
+
+Congratulations! You have successfully assisted your Patron in uncovering information related to beings he recognizes as unknown enemies, all while in the presence of other powerful gods to acknowledge your contribution – A new feat has been accomplished. Bonus experience earned
+
+It felt pretty damn weird to get experience from sharing the faces of people who’d ambushed him. Like, it was the kind of thing that didn’t feel like it should be recognized in the first place, as Jake hadn’t done much despite summoning a few images for all the gods to ponder on.
+
+Then again, without Jake there, the many gods would have had far less to discuss. His intel was critical, no doubt about it, so maybe he did deserve some reward, especially when one factored in that Jake had acted as a proper Heretic-Chosen. As a Chosen, he had helped his Patron, and as a Heretic, he had spoken up and acted as if he were on equal standing and capable of participating in a meeting between Primordial-level figures, something not even Artemis dared to do.
+
+However, even considering all that… Jake sometimes really felt like a cheat character with the way he tended to get levels in his profession. Sure, it could be argued that Jake deserved some reward, but as he saw his level-ups, it just felt like too much.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 328 - Stat points allocated, +35 Free Points
+
+…
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 337 - Stat points allocated, +35 Free Points
+
+Jake honestly had to do a double-check as he counted all the notifications before confirming that he had indeed ended up getting ten fucking levels from being ambushed in the void and trying to find out who the hell tried to kidnap him.
+
+It was just dumb to get that many, and if Jake didn’t enjoy doing alchemy, it would seriously feel like a waste of time to arduously study and experiment for months on end for a single level when he could just have encounters like this instead.
+
+Of course, he knew that he couldn’t have one thing without the other, and while an event like this gave a lot of levels, it didn’t help Jake progress his Path at all, outside of just gaining levels. It led to no skill upgrades or increase in capabilities, so if he did gain all his levels like this, he would end up being a pretty shitty alchemist.
+
+Besides, there had to be a massive level of diminishing returns on things like this, right? Yeah, there had to be… if not, maybe kidnapping attempts weren't that bad if Jake found himself starved for levels again, and he wouldn't complain that much if it happened again.
+
+One thing was for sure. Jake’s way of gaining levels couldn’t be considered standard at all, considering he was killing entire populations of B-grades to gain class levels while getting involved in multiversal-level events when progressing his profession.
+
+Anyway, with the profession levels had naturally also come a fair deal of race ones.
+
+’DING!’ Race: [Human (C)] has reached level 330 - Stat points allocated, +45 Free Points
+
+…
+
+’DING!’ Race: [Human (C)] has reached level 334 - Stat points allocated, +45 Free Points
+
+All in all, Jake was now another step closer to B-grade, and this event had moved the timeline up a fair deal. Before, he had even been afraid of being the last of those around him to evolve – besides probably the King and Dina – but now that fear had been dispelled for the most part as he had likely saved at least half a decade of alchemy grinding.
+
+Finally, Jake had felt kind of good leaving the Pantheon of Life with his class ahead of his profession again… that sure hadn’t lasted long. Oh, and for the many Free Points Jake had gotten, he instantly tossed them all into Perception as he had planned to do for the rest of C-grade.
+
+With a smile and now back to being in a good mood, Jake smiled and looked up, once more instantly regretting it, before looking down again. “Thanks, Oras, you’re definitely my favorite Void God.”
+
+The Void Dweller didn’t comment on how meaningless that statement was, but just took his words at face value as the void rumbled.
+
+“Wow, you’re really good at avoiding experiencing losses,” Villy commented. “Not that it’s a big thing. Anyhow, let’s actually get moving and return to my little Order.”
+
+“You’ll come with us the rest of the way, I guess?” Jake asked to clarify.
+
+“Yep,” the Viper nodded. “Granted, I don’t think a second ambush is set up in case this first one failed, but better safe than sorry.”
+
+“Can’t argue with that,” Jake shrugged, definitely back to being in a good mood again. Yeah, this entire encounter had, in retrospect, turned out to kind of be a good thing for Jake.
+
+Granted, he did already have a horrendous headache, and he was sure that it would take him at least a few days to be back to normal, but such was only to be expected after spending such a prolonged time within the void. Without the teleportation vessel, things would have been far worse, and it had at least protected those unconscious within.
+
+“Just to clarify again, we’re gonna return and act as if nothing happened. As if this were just another routine teleportation from one faction to the other,” the Viper said. “You mortals have the excuse that teleporting through the void can take a toll, so we can excuse your absence for a few days, but Artemis will need to get to work pretty much immediately.”
+
+“I understand,” Artemis nodded. “Thanks to the potion provided by the Malefic One, my injuries should be fully healed within a few days, but I can suppress any signs till then.”
+
+The Viper nodded, and after he, Artemis, Jake, and even the Sword Saint gave their final farewells to the Void God observing them above, everyone entered the teleportation vessel. However, just before doing so, the Viper briefly checked out the hole that had nearly opened up one entire side of the vessel.
+
+“Oh yeah… this entire thing will definitely need to be tossed and not seen by anyone,” the Primordial said in a joking tone as he went and stood in the center formation. “It should be able to handle one last jump, though.”
+
+And with those words, they were off, finally returning to the Order of the Malefic Viper despite the unpredictable traffic along the way.
+
+Back in the empty void, only Oras remained, his form ever-shifting. The sea of eyes moved, bending and twisting until it suddenly opened up, revealing one eye among an endless ocean that looked different from all the others.
+
+If Jake were there, he would have recognized it as the Vision of Oras he had infused his Primeval Origin Energy into.
+
+Oras observed it. Inspected it. Embraced and made it part of his being. In the next moment, the Void God departed, having accomplished what he had come for.
+
+A promise had been fulfilled.
+
+His reward was reaped.
+
+Records planted.
+
+Desired future… closer.

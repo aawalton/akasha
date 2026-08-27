@@ -1,0 +1,133 @@
+---
+id: 92fd2275-9b63-5596-b6f2-8fc65dd69997
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1309 - Precarious Circumstances"
+slug: 0183-chapter-1309-precarious-circumstances
+partOf: the-primal-hunter
+position: 183
+ownLength: 2898
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3382553/chapter-1309-precarious-circumstances"
+royalRoadId: "3382553"
+---
+
+All of Jake’s thoughts on how to handle the Arachnecs wanting him to lead them through the Boundary were quickly swept away at the announcement that his froggy friends had come for a visit.
+
+The atmosphere within the chamber changed instantly, with the Archweaver and Nestmother both flaring their auras, making their animosity clear. Fortunately, none of their ire was aimed at Jake, though he didn’t doubt their arrival had something to do with him.
+
+A bit touching, wasn’t it? His Shaman buddy had asked them to come rescue him after being valiantly kidnapped. He had even gone as far as to recruit quite the powerful rescue team based on the reaction of the Nestmother, as he doubted she would care if a bunch of B-grades or even just the Oracle had arrived.
+
+“Take him down into the center of the Nest,” the A-grade Arachnec said to the Archweaver after collecting herself.
+
+“Very well,” the Archweaver nodded and very firmly motioned for Jake to once more teleport back into the central part of the Nest. Jake didn’t argue, as going there was probably the safest place he could be outside of the egg chamber deep in the bowels of the structure.
+
+The central part that housed the market and where all visitors to the Arachnecs resided was the second-best-defended area of the Nest. It was surrounded by powerful barriers sealing it off from anywhere else in the nest, with the only way to leave either through the Tunnel Mounds or a few set teleporters that only Arachnecs could use. Not that anyone else but Arachnecs could use the Tunnel Mounds either.
+
+Jake had already put together that the center being this well-defended wasn’t only to keep guests and visitors safe, but to keep them contained. It kept everything and everyone out, while also keeping them in, making it difficult for any so-called guest to suddenly turn into an enemy and deal damage to the more important parts of the Nest.
+
+“So...” Jake said as they reached the central building that they had initially teleported up to the Nestmother’s chambers from.
+
+“Do not worry, it’s evident you had no way to contact them, and the decision to bring you here was obvious and predictable. What’s more, the Oracles of the Venusians live up to their name, and even if we attempted to hide your existence somewhere, they would discover you,” the Archweaver said in an attempt to reassure Jake that they didn’t blame him for the sudden frog invasion.
+
+Which really wasn’t what Jake was going for as he shook his head. “But what’s the plan now?”
+
+The Archweaver looked unsure for a few moments before looking upwards. “That will be decided by the Nestmother.”
+
+--
+
+“A frontal assault is out of the question,” the Oracle shook her head, shutting down the idea immediately. “It would risk killing the one from beyond the Boundary, and his value exceeds that of destroying a single Nest.”
+
+“Not to mention the inevitable response of the Arachnecs,” another A-grade Venusian said as he looked down at the Nest from far above. “Last time, we lost nine villages in the mad revenge-fueled rampage that followed, and we’ve not made preparations for such an event.”
+
+“Then let’s hope they respond soon,” a third Venusian said, speaking with a tone that made it clear he was the one carrying the most authority here. He was large and, unlike nearly all other Venusians, wore a full set of armor created from a mixture of bone and scales. Additionally, on his back was what looked like a large black bone carved into a more than four-meter-long cleaver, making it even larger than his already tall three-and-a-half-meter frame.
+
+However, perhaps most notable were two horns growing out of his forehead, both of them teeming with power, ready to be unleashed should it be necessary. Should the frog make a move, there was no question the Nest would crumble before his power, which bordered on peak A-grade.
+
+[Horned Venusian Slayer – lvl 735]
+
+Behind him were more than fifty other Venusians, all of them also wielding weapons of carved bone, and all giving off the auras of powerful A-grades. Not just early-tier A-grades either. This was one of the elite squads of the Venusian faction, led by one of the ten strongest figures.
+
+“The Nestmother will certainly respond soon upon realizing we’re not immediately attacking. While a more diplomatic approach is rare, there is precedent,” the Oracle said, feeling fairly confident despite one glaring issue with them coming to this Nest.
+
+“Assuming they even know why we’ve come,” the Horned Slayer said, not veiling his dissatisfaction with the Oracle in the slightest. She couldn’t really blame him, though.
+
+Despite her best efforts and even using some rare treasures of the Circle, she’d been incapable of divining the position of the human. Fortunately, she at least knew he was still alive because her disciple had captured part of his spiritual essence, allowing her to confirm his condition somewhat.
+
+It was a bit unsettling that she had been unable to determine his position, though. In fact, he’d been entirely immune to all attempts she’d made to divine his state of being, location, or anything else related to him. The most logical explanation was that the Arachnecs had found some method the Venusians weren’t aware of to hide people. Something that, if true, would have many implications.
+
+The theory that the human himself was the one with the immunity had been brought up, but it barely seemed worth considering unless he had some special natural treasure from beyond the Boundary. Or he had means that were beyond their current understanding.
+
+Either way, it all meant that while they had confidently come to this Hive and were threatening to destroy it if they didn’t get a response, they didn’t actually know if the one from beyond the Boundary was in there. It was just what they assumed based on their countless years of history with the Arachnecs.
+
+The Oracle waited impatiently, and finally, a response came from within the Hive.
+
+“I could smell your ilk from across the entire island, Slayer of the Sea. What foolishness brings you here?” the unmistakable voice of a Nestmother spoke, meaning they definitely had the attention of the strongest being within the Nest.
+
+“You already know the answer to that,” the Horned Slayer said, looking down at the Hive with contempt.
+
+“So, is that your wish? To enter another era of slaughter that we both know will ultimately benefit the Arachnec?” her voice echoed from within, the magic of the Hive already being charged further.
+
+Through the magic of the Oracle and the Ancestral Keeper from the Ancestral Village standing by her side, the space in the entire region had already been sealed off, making it impossible to use their Nest Mounds to escape from within the Nest. And for reinforcements to arrive immediately, of course.
+
+“Oh, I’d love to scrape more of your kind’s filth off my blade, but unfortunately, crushing you and your disgusting Nest would risk killing the one from beyond the Boundary,” the Horned Slayer scoffed, not being the most diplomatic, but the Venusians and Arachnec had never been.
+
+There were cases where Venusians had negotiated for prisoners, and the Arachnec had even done the same on rare occasions where their valuable nobles were captured. Often, these negotiations did end with the prisoner dead, and a slaughter ensuing, all diplomacy crushed beneath the overwhelming hatred between their races, but the Oracle hoped that wouldn’t be the ending this time.
+
+Though the death of the one from beyond the Boundary was a preferable conclusion to allowing the Arachnecs to make use of him. It should be avoided, though, as it sounded like the human race was quite powerful, and making them the enemies of the Venusians before even making contact could prove problematic.
+
+“What does our guest have to do with you, Venusian?” the Arachnec asked in a spiteful tone, making the Oracle frown a little.
+
+For her to outright confirm his presence within hadn’t been expected, though it was certainly a positive outcome. It did indicate that they weren’t the ones hiding him, though, but that it was through his own means that he had been obscured from all divination. Another factor adding to the mysteriousness of this figure from beyond the Boundary.
+
+“Guest? Is that what you call those you kidnap and imprison these days? The shamelessness of you filth truly knows no limits,” the Horned Slayer scoffed, as he also briefly shared a few telepathic messages with the Ancestral Keeper and Oracle, discussing the realization that this human had been the one capable of hiding himself.
+
+“Stop the theatrics already, Slayer,” the Nestmother said as space quivered above the Nest as a portal opened. The A-grade stepped out, flaring her aura as it pushed back against the Horned Slayer’s, and proved positively inferior. The Oracle used Identify and confirmed that this disgusting creature was indeed far weaker than the Slayer.
+
+[Arachnec Nestmother – lvl 709]
+
+“The Envoy from beyond the Boundary is no member of your Venusian kin, so what purpose would we have to hand him over? What grounds do you have to demand he belongs with you?” the Nestmother continued, looking at the Slayer and even trying to use some of her disgusting mental magic. It naturally failed, but a few of the elites that had come along with the Slayer would definitely have found themselves affected if not for the Keeper’s shielding.
+
+“Isn’t this ground enough?” the Horned Slayer said, lifting his cleaver as he also stopped infusing his voice with power.
+
+“Certainly, you might think so,” the Nestmother nodded as she spread out her arms. “I do not doubt you could slay me and crush the Nest beneath. Of course, such a crude approach would also result in the human’s death, and I question if your kin can bear the consequences of that.”
+
+The Slayer paused and telepathically reached out to the Oracle and Keeper. Her words clearly indicated that the human had revealed information to the Arachnecs that the Venusians didn’t know. Considering the existence of the Nestmother, it would be impossible for the barely B-grade human to hide anything should she meet him personally, and from the sounds of it, they had indeed met already.
+
+“You do not know, do you?” the Nestmother said, now smiling. “The world beyond the Boundary is quite frightening. Far more than we can even comprehend. What’s more, we’ve already confirmed that a powerful existence is behind him. One that he claims far surpasses even the grade beyond A-grade. An existence that’s fully aware of everything going on and can even perceive the human’s surroundings. I do not doubt that his killers would meet quite an unfortunate end. Now, please, ask that Keeper of yours if I spoke the truth or not.”
+
+The Oracle finally understood why the Nestmother had dared expose herself like this. She did it to allow the Keeper to use the skill that allowed him to tell if she was lying or not, and he soon confirmed through their telepathic link... she had spoken the truth. Or at least she genuinely believed all she’d said.
+
+This new revelation muddied the waters a lot. If she were truly telling the truth, simply trying to slay the human was no longer a valid option. Given that the Arachnec’s had no known method of fooling Ancestral Keepers in prior encounters, they were inclined to believe this claim, leaving them truly unsure how to move forward.
+
+“We’re at an impasse, it seems,” the Nestmother spoke again, seemingly insistent on maintaining momentum in this interaction.
+
+“Perhaps it seems so,” the Oracle said, floating forward. “You have the human, yes, but what can you do with him? Extract information? From where we stand, I see no way for him to assist you in leaving for the world beyond the Boundary. You may try, and we will stop you. If the Arachnecs manage to get the first being that surpasses A-grade, the Venusian race will be doomed, so stopping you will be our utmost priority. No matter the case.”
+
+“As one can only expect,” the Nestmother said with a light smile. “So that leaves the question... what now?”
+
+“So, chances they’re just gonna nuke this entire Nest with me within it?” Jake reached out to Villy as he stood beside the Archweaver, genuinely not expecting any response. The Arachnec was clearly there to watch Jake in case he tried something, but he could still see the interaction between the group of Venusians and Nestmother in the sky about a hundred kilometers above the Nest. Assuming all the frogs were A-grade, they had certainly brought quite a group, with the only one among them that Jake recognized being the Oracle.
+
+Surprisingly, after a few seconds, Villy actually said something. “Eh, I don’t see it happening. The Arachnec are quite a smart race and will surely find a way to avoid their Nest being destroyed, even if doing so makes use of your existence within. The Venusians are also not stupid and shouldn’t want to risk making enemies with the outside world before even making contact with it. Not to say I know what they’re gonna agree on, but diplomacy is the first approach for both sides based on what I know.”
+
+“... why do you suddenly seem to know a lot about races you had no idea existed only weeks ago?” Jake asked inquisitively.
+
+“Because you met them, and upon making contact with this Minor World, so have I made contact with it and have been able to absorb Records from it, feeding my Omniscience skill. Basically, I had a few extra pages added to the lexicon, if you will, giving me all the basic knowledge about this world that you surely lack. So, yes, I do know far more about this place than you possibly could,” Villy said in a bragging tone.
+
+However, Jake’s response was definitely not what the snake god expected, as he looked a little sad. “That sounds... horrible. Doesn’t it ruin all sense of exploration and learning new things about an entirely untouched world to suddenly gain knowledge like that? At least to me, that would suck.”
+
+“To me, I’m kind of over exploring places like these, and domains I have an interest in are those that my skill is unable to give me knowledge of. And, in my opinion, people tend to be a lot more interesting to explore than mere places, but I guess to each their own,” Villy answered.
+
+“Still doesn’t sound like the kind of skill I would ever want,” Jake muttered telepathically. “Also, now that I have you... Any advice at all for this kind of situation? Finding myself surrounded by A-grades isn’t that comfortable, especially not when they all want me to lead them directly into the solar system, something I seriously doubt even the galaxy could handle.”
+
+“Nah, you got this,” the truly evil snake god waved him off casually. “One warning, though. You can’t teleport them directly to another universe, even if you want to. They are bound to this Minor World until the time they have passed beyond what is referred to as the Boundary for the first time. This will certainly change in the future, but for now, that appears to be the case.”
+
+“Great. Just great,” Jake muttered, his plan of trying to teleport these A-grades to the Order immediately shut down. At least if he’d done that, they would have appeared in an area surrounded by far more powerful creatures to handle them. Someone like Viridia could easily take on every single living being in this world combined, not to mention the gods of the Order.
+
+Of course, that assumed he would even have gotten the chance to try to put down a teleportation circle in the first place. Current circumstances were still quite precarious to say the least, and while Jake could see the A-grades discuss something far above the Nest, he naturally couldn’t hear them, and unfortunately, Sphere and Myriad Tongues did not interact to allow him lip-reading.
+
+“The Venusians will be hesitant to strike, even if not for your existence,” the Archweaver said, likely trying to be comforting in some way. “While we are undoubtedly enemies, there are still balances to be struck. If their elite went around destroying Nests, we would send our strongest to annihilate the Venusian Villages, ultimately ending in both factions suffering catastrophic damage. The Arachnecs would undoubtedly win in the end, but we would have suffered losses we may never recover from, or others might take advantage of any temporary weakness. Besides, it’s believed there is some value in a constant conflict, allowing both sides to hone themselves.”
+
+The words of the Archweaver were definitely biased, as Jake wasn’t as sure as him that the Arachnecs winning was a given, but he didn’t argue. It all sounded similar to how many factions in the multiverse viewed conflict, which at least did give Jake some hope that it wouldn’t end with the Venusians just going: “Fuck it, if we can’t have him, no one can.”
+
+A bit later, as Jake still stood with the Archweaver, some development finally happened as the B-grade looked down at him. “Your presence has been requested.”

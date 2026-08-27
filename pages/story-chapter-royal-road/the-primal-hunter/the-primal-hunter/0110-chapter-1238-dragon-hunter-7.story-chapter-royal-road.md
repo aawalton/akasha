@@ -1,0 +1,165 @@
+---
+id: d5f5c1c8-c53d-5255-9db9-ce48565015fa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1238 - Dragon Hunter (7)"
+slug: 0110-chapter-1238-dragon-hunter-7
+partOf: the-primal-hunter
+position: 110
+ownLength: 3170
+unit: words
+ownProgress: 3170
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2964807/chapter-1238-dragon-hunter-7"
+royalRoadId: "2964807"
+markedReadAt: "2026-06-29T19:32:45.326Z"
+---
+
+Yrelstromoz’s mind had been focused ever since she had realized the legitimate threat to her life. She had allowed her instincts and training to take over, believing in her innate power as a True Dragon. Old abilities, tactics, and skills she hadn’t used for decades had resurfaced in her mind, including some of the sure-fire strategies that should have allowed her to easily slay even powerful B-grades her own level.
+
+However… nothing worked. No matter what she did, the human refused to fall. When she saw him take her Dragon’s Breath head-on, she was certain the fight was over. That he would be completely annihilated, as even if Yrelstromoz didn’t have the most powerful Dragon’s Breath or had trained the ability a lot, it was still the breath of a True Dragon.
+
+So, seeing him still standing there afterward, his aura barely any weaker, had shaken her to the core. It wasn’t better when the Chosen of the Malefic Viper went on the offensive again despite his broken body. She tried to get him away, tried to kill him as she felt the state of her own body and soul deteriorate, but he just kept coming.
+
+Her resolve had slowly waned, turning to fear. After her second Dragon’s Breath had also failed after the human used some kind of time-affinity survival skill, all doubt in her mind was gone.
+
+This human… this C-grade… wasn’t someone she could beat. All thoughts of pride and arrogance disappeared, and all that remained was a desperate desire to live. Her mindset switched from finishing off the human to just running away.
+
+At once, she did two things. Firstly, she tried to reach out to her aunt through the token she’d given Yrelstromoz. Secondly, she released magic to push the Chosen away and allow him to escape.
+
+Yrelstromoz knew the state of her own body. It was doubtful whether she would even survive anymore without any external help. Perhaps if she got away fast enough, she could wait out the cooldown on the potion and drink one. However, her best hope was that her aunt would respond quickly. Maybe she would even come and save her… but Yrelstromoz couldn’t assume that and would do everything in her power to escape on her own.
+
+Burning through her resources, she soared skywards, seeking the safety of space. As a dragon from the Lumenflight, she was one of the fastest variants of dragons, and while she fully recognized the power and even speed of the Chosen of the Malefic Viper now, she remained confident that he had no way of keeping up.
+
+Perhaps he had some escape skills or methods to pursue her for a while, but in sustained speed, Yrelstromoz would win. At least that’s what she assumed as she flew upwards, and fortunately, it appeared that her assumption had been entirely correct.
+
+After being pushed away, the human took too long to even begin giving chase, giving Yrelstromoz a massive head start. A vain hope even appeared in her mind that he’d given up, satisfied with the knowledge he’d won. Not that it should matter anymore, as she only got further and further away, the human just stood below, looking up at her.
+
+Reaching the upper atmosphere, her path to the stars was wide open, and Yrelstromoz truly began to believe she could survive this ordeal… but such was not her fate.
+
+Something changed. Shifted. Yrelstromoz looked at the distant stars until, suddenly, they seemed even farther away and began to dim, as a voice echoed from everywhere yet nowhere.
+
+“Event Horizon.”
+
+The stars died, and all light disappeared from her world. Even the brightness of her own dimming body was gone, and the entire world was filled with darkness for a moment before she saw something.
+
+Vaguely, she saw a ring of light surrounding her. It appeared so close, yet impossibly far, and as she kept flapping her wings desperately, Yrelstromoz wasn’t even sure she was moving, anyway. Ahead of her was nothing, as if she’d reached the end of existence itself. She couldn’t feel herself move, and instinctively she turned to watch the planet below.
+
+It too was gone, and all that remained was a single figure in this empty world, though it was impossible to judge the distance between the two of them. She couldn’t even see his actual form, but instead only saw two eyes in the sea of darkness staring back at her, making a shiver run down Yrelstromoz’s spine.
+
+And then… it was gone.
+
+Light returned, the world became normal, and Yrelstromoz felt herself moving forward once more. Everything appeared the same, but she knew something was different. Whatever he’d done instilled an inexplicable fear in her heart, and deep down, at that moment, she knew:
+
+I’ll die.
+
+Yrelstromoz had no way of surviving, and her only hope was that her final desperate call for help to her aunt had reached her in time.
+
+--
+
+Jake had never used Event Horizon before, saving it for a moment like this. He wasn’t even entirely sure what would happen when he used it or what it would look like. When he finally saw, he instantly knew there was far more to this skill than he could imagine, and he was barely scraping the surface of what it could one day become.
+
+The Event Horizon was… beautiful. After he’d spoken those two words, everything else disappeared until only Jake, his prey, and the horizon remained. He saw Yrelstromoz and a single line of light endlessly far away, marking the edge of reality itself. Then, in the very next moment, the horizon changed. I curved, folding in on itself until it formed a perfect circle around the True Dragon that flew hopefully on a perfectly black backdrop.
+
+For a moment, Jake saw and felt everything. Even his Sphere of Perception expanded, encompassing this entire world. Yrelstromoz was already over a thousand kilometers away, yet he saw her clear as day. Nothing escaped his sight, and he almost felt as if the impossible-to-reach horizon was within his grasp…
+
+Right as the glimpse ended.
+
+Yet his Event Horizon remained.
+
+Despite reality returning to normal, Jake still saw it. A ring of light, visible only to him, encircled Yrelstromoz, and he was fully aware of her with every shred of Perception he had. It was second nature as Jake lifted his bow and took out the Protean Arrow he’d prepared.
+
+He’d already very slightly changed the shape of Eternal Hunger to look like an arrowhead, and slotting it into the designed arrow body was effortless. With it easy, Jake drew his bow and took aim, something that was more effortless than ever.
+
+Jake didn’t even truly need to aim. In his mind’s eye, he already saw the perfect path between him and his prey. As his Event Horizon, it was only natural that the end-point of any attack would naturally be Yrelstromoz.
+
+His Arcane Powershot charged as Yrelstromoz kept fleeing, moving with absolute desperation as she kept burning through mana. By the second, she got further and further away, but Jake didn’t care as he kept charging the attack that would finish off the True Dragon.
+
+Only when his body reached its limits did Jake release his shot. At the very last moment, Jake poured in every shred of Hunting Momentum he’d built up before he let go of the string.
+
+Right before he did, Jake felt something else that nearly made him pause. He knew Villy was observing him, but right then, another existence gazed upon him. Something far more powerful than he was. Jake quickly suppressed any thoughts born from this and focused solely on his attack.
+
+An explosion of arcane energy exploded all around him as the Protean Arrow flew skywards. It was faster than any arrow Jake had ever shot before, its speed incomparable even to his wildest imagination. Due to Unblemished Arrows and Jake’s high power, these arrows were normally incredibly fast already, but this was just on another level.
+
+Within less than a second, it reached the True Dragon traveling at top speeds despite her burning through mana and having nearly reached space. She had no space or time to evade it, and the feeble barrier she tried to summon at the very last moment was far too weak to do anything. Not that it helped, as Jake used one final Primal Gaze the moment before his arrow made impact.
+
+The arrow struck Yrelstromoz in the back and penetrated her body, dealing even more damage than Jake’s initial opening attack. She let out a loud roar as the Protean Arrow wrecked her insides entirely, destroying her from within and effectively ending her life. Coupled with an extreme extra dose of Dragonsbane Poison, she didn’t even fully finish her roar before she started falling back towards the planet, and Jake questioned if she would even survive till she finished her fall.
+
+Her scales flickered with light, her consciousness fading. Jake didn’t see a need to shoot a second arrow as he started flying toward where she was falling. On the way, he detonated his Hunter’s Mark with the hope of finishing her off for good to end her suffering, but despite the massive flash of pure destructive arcane energy, the vitality of a True Dragon once more proved itself as she remained alive. In this instance, to Yrelstromoz’s detriment.
+
+Jake knew that her body and soul were both too far gone, and all Yrelstromoz was waiting for was death. She could barely move her energies anymore; the Dragonsbane was too strong at this point. All she could do was fall slowly towards the planet below, and perhaps the only reasons she remained alive were her stubbornness and will to live.
+
+She landed on the ground, causing a small crater, as Jake arrived a moment later. He watched the broken dragon lying there, her stomach rising with labored breathing. Jake didn’t hesitate as he teleported over, seeing no need to extend her suffering needlessly.
+
+With a katar in hand, he approached her neck until her eyes suddenly refocused and stared directly at him, her gaze full of hatred and resentment. It made Jake hesitate for a moment as he felt something weird, the reason for which became clear a moment later.
+
+Yrelstromoz’s body exploded with an aura unlike anything she’d ever released. All the rest of her energy was mobilized as the Dragonsbane tore through her body and soul, but she evidently didn’t care anymore. In fact, the fear and impending death only seemed to make what she was doing stronger.
+
+A black smoke-like aura exited Yrelstromoz’s body as her entire body was overtaken by an aura of death and pure resentment as her final words echoed, dripping with untold hatred.
+
+“Why? You had nothing to do with me. I had nothing to do with you. Why do this?”
+
+She clearly wasn’t looking for an answer as the aura amplified, tendrils of black smoke enveloping Jake’s body as he stood there unmoving. This was the final energy she could muster, and the next words would be her last.
+
+“I hate you… I want you to die… just… die…”
+
+The last remnants of life left her body, which made the black energy fully explode as it rushed towards Jake, seeking to invade his soul. It was a purely emotional kind of energy that could only be born from moments like these. Energy born of intense hatred, often shown by large numbers of people at once or by particularly powerful entities, especially those with a magical nature. Yrelstromoz’s final emotions leading to an effect like this was certainly a possibility, though it hadn’t been one Jake even considered due to how rare it was.
+
+Not that Jake was afraid.
+
+As the energy rushed towards him, Jake took out his mostly arrowhead-shaped katar, and the moment he did, the intense flood of black energy changed target, and it, instead of Jake, went straight for Eternal Hunger.
+
+Not because it wanted to… but because the Sin Curse of Hunger was far more powerful than the curse Yrelstromoz had just tried to place upon Jake upon her death. It took a few seconds before Eternal Hunger absorbed all the curse energy, the weapon humming with satisfaction after the fact.
+
+The True Dragon’s final moment of revenge had just turned into another gift. In some ways, it was lucky she was dead and couldn’t witness it, as that would just have been pouring salt in the wound.
+
+Shaking his head, Jake looked at the dead body of the True Dragon, but despite her death, he didn’t release his boosting skill, even if it was certainly not doing his broken body any favors. Because while she was dead, he still felt another observer besides Villy, making him speak up.
+
+“Come out already,” Jake said, infusing his voice with energy. He’d released a Pulse and confirmed this person was outside its range, but he hoped his willpower-infused voice would still reach whoever it was.
+
+Something it most certainly did, as only a second later, a figure appeared, standing next to the corpse of the dragon. It was a woman, or more accurately, a female dragon. She looked a lot like Yrelstromoz at first glance, though clearly older, and by her aura, far stronger.
+
+She looked at the corpse and let out a loud sigh before turning to Jake. Cupping her hands, she bowed respectfully. “I greet the Chosen of the Malefic Viper.”
+
+Jake was instinctively on guard, seeing as he was evidently dealing with another dragon from the Lumenflight, but he quickly relaxed. Feeling how strong she was, it didn’t matter if Jake was cautious or not. If she wanted to kill him, he would already be dead, and her respectful attitude made him believe she wasn’t there for revenge despite how sad she clearly was over the death of her kin.
+
+“I take it you knew her?” Jake asked, nodding in greeting. Maybe he should be more respectful, but considering he looked like a corpse and wasn’t very happy he had to delay deactivating his boosting kill, Jake reckoned a bit of impoliteness would be fine.
+
+“She was my niece,” the True Dragon sighed. “Not long ago, I gave her a token to reach out. She had never used it before now.”
+
+The dragon let out another sigh. “Don’t worry, I’m not here for revenge. I’m just sad it had to come to this. Yrelstromoz always had problems and was a difficult whelp from birth, but her parents tried to keep her under control. After their death and she became a fully grown True Dragon… I want to say that was when she lost her way, but I fear it only allowed her to express her true nature. In some ways, what happened today was inevitable.”
+
+Jake wasn’t quite sure what to say, and while it felt a bit insensitive, he still let out a sigh himself. “This may sound weird, but I’m sorry for your loss.”
+
+“Don’t be,” the dragon said with a small smile. “She went too far. She killed someone she shouldn’t have, and if it hadn’t been you, it would have been someone else. If she had to die… I’m happy someone like you killed her. At least then her Legacy will be more than just that of another dragon too drunk on arrogance getting themselves killed.”
+
+“If it’s any consolation, I think it was a good fight,” Jake said. He couldn’t quite say if it lived up to the unrealistic expectations he’d built up in his mind, but overall, he did believe it was a good fight. It was just an odd one.
+
+Yrelstromoz had been incredibly weak yet also powerful at the same time. If she had fought seriously right from the beginning, it would have been far harder, but even with her change in demeanor coming a smidge too late, she had still proven why the True Dragons were an apex race in the multiverse.
+
+“I’m glad to hear that,” the dragon said, sounding sincere. She looked at Jake for a few moments before turning from sad to a more severe look. “Now, this may be presumptuous of me, but she is still family. If the Chosen allows it, I would like to put her to rest with her parents… to at least allow her in the ancestral graveyard.”
+
+Jake raised an eyebrow at the request as the dragon continued.
+
+“In return, I’ll make sure you don’t suffer any losses from it. I’m fully aware the body of a True Dragon holds immense value, but if you allow me to take her, I’ll at least help you extract and empower her heart with all the useful Records in the corpse before leaving,” the aunt of Yrelstromoz offered.
+
+“Alright,” Jake said, not needing to think about the matter much. Even if she didn’t offer to empower the heart, Jake would feel weird about telling the aunt he wanted to keep the corpse to peel off the scales, drain it of blood, cut out all useful organs, and finally extract the bones.
+
+“I thank the Chosen for his magnanimity,” the dragon bowed. “The Lumenflight owes you for your kindness.”
+
+She raised her hand towards the corpse and spoke some words Jake couldn’t even hear. Jake saw the entire corpse of Yrelstromoz light up for a second, and a moment later, a heart was phased out of the dead dragon’s chest. It floated out toward the aunt, who quickly directed it toward Jake.
+
+He didn’t take the time to inspect it yet, but merely accepted the heart. Looking at the corpse, he saw that it looked even worse for wear now, and it no longer gave off the same aura as before.
+
+The aunt also looked at it one final time before waving her hand, depositing the corpse in her spatial storage. She closed her eyes for a moment, let out her last sigh, and turned to Jake.
+
+“Once more, thank you. I shall leave you now… Dragonslayer,” she said, and true to her words, she was gone the very next moment, leaving Jake alone.
+
+Feeling she was no longer watching him either, Jake fell back on his ass, also finally letting go of Arcane Awakening, allowing weakness to flood his beaten and battered body.
+
+“Fuck me,” Jake muttered as the pain came back with full force now that he relaxed a little. His body was a royal mess, and even breathing hurt, but he focused his mind and closed his eyes as he entered meditation to recover.
+
+He still felt lingering energy from the Dragon’s Breath in his body, and it would take a bit before he was back to full power, but hey, at least he had a nice stack of system messages to go through and keep him distracted.
+
+But more than that, as he sat there relaxing, full realization kicked in, and he couldn’t help but smile.
+
+Finally killed a True Dragon…

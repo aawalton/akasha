@@ -1,0 +1,29 @@
+---
+id: f267a415-52ad-5642-b447-2f3617f69515
+page-type-slug: story-chapter-royal-road
+title: "Notice"
+slug: 0022-notice
+partOf: the-runesmith
+position: 22
+ownLength: 480
+unit: words
+publishedAt: 2020-05-09
+link: "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/494194/notice"
+royalRoadId: "494194"
+---
+
+Please read!
+
+I want to say thank you to everyone who has been supporting my writing. My followers almost doubled in two days, and I’m near the top of the trending page. I never imagined my first-time writing, that people would enjoy my work this much. Thank you again.
+
+I’m trying to read all the comments that people left me, whether they’re grammar related or not. With the surge of followers, I quickly became overwhelmed. With all these new eyes, people spotted things I missed. It was pointed out to me that I messed up on the XP requirements to level. It works at its current level, but after plotting out the math, Aaliyah or anybody else would need 2,422,513,549,835 experience just to reach LV100. Though longer-lived races might be able to level higher, I don’t think even they could handle a challenge like that. I want to be able to introduce high leveled people when necessary, so I decided to rework the experience requirements. Everything will stay the same with skills, stats, and the experience granted from raising your skills, but a person’s base level requirement will be lowered.
+
+I decided to lower the percentage of XP increase. Every ten levels the percentage drops. LV1-10 is 25%, LV11-20 is 20%, LV21-30 is 15%, LV31-40 is 13%, LV41-50 is 11%, then 9%, then 7%, and finally stops lowering at 5% at LV70. With this new method it takes 68,483,845 experience to reach LV100. I think this is more plausible, so I’m switching to this method. In case you’re wondering I plotted this all out in Excel, I don’t randomly generate experience values.
+
+So where does this leave us? I decided to go back to chapter one and fix any mistakes that were pointed out to me. I’ll work my way through the chapters fixing mistakes and updating both Aaliyah’s and her parents Status pages. I wish I paid attention earlier and noticed this problem sooner, but at least I have you guys to steer me right. I’ll try to balance my editing and writing, so it doesn’t take a week before you get another chapter. I don’t think you have to reread everything, I mostly plan to raise Aaliyah’s parents skills to make it more accurate, that’s the only big change I have planed.
+
+When I finish editing the 20 previous chapters, I’ll remove this notice. The first chapter I’ll fix experience wise will be Ch: 20.5. So, if you’re wondering what her new status page will look like before the time skip, you could just go back a chapter. I also decided to reduce Acting to a tier 1 skill, and Charm to tier 2.
+
+I hope you can forgive me, but I can’t in good conscience leave mistakes in my work, when they’re pointed out to me. Thank you again for all your support.
+
+As always, stay safe.

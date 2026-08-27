@@ -1,0 +1,163 @@
+---
+id: 4311de46-7600-5af8-9c79-8fb147a04f3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1206 - Inflammatory Statement"
+slug: 0078-chapter-1206-inflammatory-statement
+partOf: the-primal-hunter
+position: 78
+ownLength: 2813
+unit: words
+ownProgress: 2813
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2777816/chapter-1206-inflammatory-statement"
+royalRoadId: "2777816"
+markedReadAt: "2026-06-29T19:31:44.248Z"
+---
+
+One had to capitalize on opportunities once given, something Miranda was well aware of. When the Sword Saint had made arrangements to send word that the four were returning to Earth, she knew she had to make use of it.
+
+While she would argue Earth was very stable despite its hectic political environment, its situation wasn’t entirely ideal. As someone carrying the Divine Blessing of the Witches of the Verdant Lagoon, Miranda was offered some respect, but she was still viewed by many as merely an administrator.
+
+In other words, they saw her power as hollow and occasionally snubbed her in front of Draskil and Scarlett, as many of those from the Order of the Malefic Viper simply assumed that these two were of far higher standing than Miranda herself. Sure, they were both stronger than her, even if she was confident in giving Draskil quite a hard time if he dared battle her within her domain, but overall, they were certainly stronger, something those from the Order seemed to care more about than anything else.
+
+It didn’t help that Miranda had never truly been part of the Order of the Malefic Viper, and in some ways didn’t fully view herself as a member either. She’d never spent a prolonged period at the faction but had always been too busy on Earth. Going by the amount of work she had upon returning from Nevermore, she also wasn’t confident that going to the Order would be wise.
+
+However, Miranda had a tried-and-tested method to make people realize the power she held was far from insignificant. All she needed was Jake present to once more personally communicate that she was indeed his representative and was actively carrying out his will. That she had his full trust.
+
+This was the kind of reminder that needed to happen occasionally, especially in instances like this, where skeptical newcomers had arrived. Sure, they still showed respect to her and followed the rules of Earth, but that didn’t mean they truly recognized her position as the Court Witch of the Chosen.
+
+That’s why she had chosen to use this day to show around a number of influential young masters and mistresses from several of the larger internal factions of the Order. The Order had so many damn factions internally that it was sometimes hard to track. There were, of course, the vampire families, but that was just scratching the surface.
+
+Powerful people often had large families due to their exceptionally long lives, to the extent that one individual could establish an entire clan within a generation or two. The Order had thousands of these, often founded by powerful A-grades and S-grades. The competent ones had felt the winds of change and predicted that Earth would be an important place for the Order in the future, making them want to establish a foothold there as soon as possible.
+
+Of course, due to the level restriction, they were limited on who they could send, meaning they didn’t exactly send their best and brightest, but just the ones with the highest status who were eligible. Creating an environment where Miranda had to deal with a slew of arrogant youngsters… who were more often than not older than herself.
+
+Her group also had members of the Dragonflights, demon clans, and even a few from the United Tribes, but at least these young masters and mistresses tended to be a lot more tolerable. They knew they were guests of Earth, while those from the Order walked around with the attitude that they owned the place, as “their” Chosen was the World Leader.
+
+One thing those from the Order all did share, though, was a fanatical level of reverence towards the Malefic Viper, and by extension, his Chosen. So, if she weaponized that, Miranda expected her work to get a lot easier from today onwards; hence, she had gathered all the most influential youngsters for a personal tour and discussion of future plans.
+
+Of course, gathering them alone wouldn’t have been feasible, which was why she had asked the one person on Earth who could make all the sycophants come crawling.
+
+“You’re really insistent on that conservation stuff, huh?” the Malefic Dragonkin asked as Miranda filled the time while walking by, explaining plans to limit allowed construction areas on Earth.
+
+“Of course,” Miranda answered, leading the several dozen influential youngsters toward her destination. “This is also the wish of the Chosen. He doesn’t want to see his homeworld turned fully urban but wishes for nature to still flourish.”
+
+“I guess he is a hunter,” Draskil muttered. “Still, you should get rid of at least one of those oceans of yours. Way too much water and way too little land.”
+
+“Expanding the constructible area available on the planet with artificial islands could be discussed, but only when the World Council is fully assembled,” Miranda said, having indeed considered the matter herself.
+
+Right then, Miranda got a message from Lillian, who was back in the main office in Haven. A certain teleportation circle connecting the Order of the Malefic Viper and Earth had been activated, and Miranda had to suppress a smile. They had returned a bit earlier than Miranda had expected, but their timing was still good.
+
+Earth had expanded its teleportation network a lot in the last couple of years, with the teleportation hub near Haven primarily connecting to another larger hub. Only certain people were allowed to travel directly from the Order to what was effectively the capital of Earth, with one of those people naturally being Jake, who even had a personal teleportation circle back in his home.
+
+“Artificial islands aren’t enough,” Draskil continued to harp on about how Earth had too much water. “Do you even know how much you have hidden beneath the ground? Should at least clean up the surface a little.”
+
+“As I said, we’ll discuss it with the World Council,” Miranda answered politely, mainly to get him off her back. She seriously doubted that a council including the Sky Whale would vote to somehow remove an entire ocean.
+
+Turning to all those following them, Miranda spoke. “I just got word that a few influential individuals have come from the Order of the Malefic One, and I hope you will all join me in greeting them.”
+
+“Any of those World Council people?” Draskil questioned.
+
+“Two,” Miranda answered, also making the somewhat bored youngsters perk up. Even if most of them were horribly incompetent when it came to politics, the majority had at least realized the influence of the World Council. Granted, many theorized it was the result of the Chosen’s experiment or something like that, and didn’t believe that Jake would truly give them any power without it being part of some grander scheme.
+
+It hadn’t helped that the most powerful members of the World Council hadn’t been around, making it appear like a weak group of individuals who were all politics and no actual power.
+
+“Finally,” Draskil said with a toothy grin before he had a realization. “Wait… considering the missing members… wouldn’t that mean he is also here?”
+
+“He is indeed,” Miranda smiled, surprised at Draskil’s ability to stay subtle and build the myste-
+
+“About damn time Jake bothered returning to his own damn planet!” Draskil practically yelled, now really getting the attention of the entire crowd. With a toothy grin, the Dragonkin looked at Miranda. “Let’s go!”
+
+Before Miranda could even say anything, Draskil shot into the air before rapidly changing direction and flying directly towards the teleportation hub in the distance. All she could do was sigh as she looked at the many starry-eyed mega-fans of Jake following her.
+
+“We shouldn’t dally too much either,” Miranda said calmly while mobilizing a bit of her energy to float into the air. “Follow me. Oh, and be on your best behavior; you wouldn’t want the Chosen’s first impression of you all to be negative, now would you?”
+
+With that slightly threatening reminder, Miranda flew to follow Draskil at a relatively slow pace, all the other young masters and mistresses following her closely. She just hoped Draskil wouldn’t make a mess of things before they got there, and that Jake would once more expertly play his role as the mysterious Chosen who was beyond dealing with minor characters, thus vesting his power in Miranda.
+
+Jake instantly recognized the lone figure that broke away from the group and rapidly made his way towards them. Draskil had a big, toothy grin as he arrived at the large gate leading into the chamber with the teleportation circle before proceeding to shamelessly kick the gate open.
+
+The draconic eyes instantly searched the room before Draskil looked confused. “The fuck you four doing?”
+
+“Unpleasant voyage through the void,” Jake answered, reckoning he should do the talking, considering he was feeling the best.
+
+“Don’t tell me you’ve grown so feeble that something like that can cripple you,” the Malefic Dragonkin said in a sharp tone as his eyes also scanned the others. “Even if your little friends are weak, I-“
+
+He didn’t get another word out before Draskil was blasted back, the entire doorway blown apart as rock and dust were sent everywhere.
+
+Back in the chamber, the King stood with his arm raised, energy emanating from his clawed hand as his voice echoed out. “Silence, lizard.”
+
+“Lizard, eh?”
+
+Draskil teleported behind the Forest King in the very next moment, dark green energy shrouding his scales. He struck toward the Unique Lifeform, but his claw stopped just short as he hit an invisible barrier.
+
+“Lizard indeed.”
+
+The Golden Forest King swept his second hand upwards, his ivory claw bathed in gold as the flooring of the entire teleportation chamber was torn up, and Draskil was sent upwards through the roof by the giant golden claw.
+
+Right after breaking through the ceiling, a dark green explosion erupted from Draskil’s body, eroding the golden claw in an instant. This energy quickly regathered into the form of a draconic snake that shot down towards the chamber and the King.
+
+Meeting the challenge, the Unique Lifeform shot upwards alongside a wave of force that battled the mass of energy. The two clashed for a moment, resulting in another explosion that tore even more of the roof apart before the two took their silliness to the sky.
+
+Behind in the teleportation chamber, Jake was still sitting on the floor with the Sword Saint having joined him. During the scuffle, Jake had picked up Sylphie and placed her in his lap in case any of the ceiling fell on her.
+
+Looking at the Sword Saint, Jake raised an eyebrow. “No comment?”
+
+The old man just sighed. “The Malefic Dragonkin truly caught the Forest King in a bad mood. I don’t think he’s very happy about the sense of helplessness he felt during our unfortunate encounter in the void, and the fact that this brief trip back to Earth left him so affected can’t have been a good reminder.”
+
+Jake nodded in understanding. Yeah, that made sense.
+
+“Also, it should serve to buy the three of us some time to get back in better shape,” the Sword Saint chuckled. “So just lean back, relax, and act like we’re lounging while jovially watching the fight between a Unique Lifeform and a Malefic Dragonkin.”
+
+“Sounds like a plan,” Jake said while scratching Sylphie, who gave off the occasional small screech of complaint.
+
+With a Pulse, he saw that the approaching group Miranda was leading had been delayed slightly by the roof of the teleportation hub getting blown open and the two figures emerging while fighting.
+
+They had all stopped and stared as the King and Draskil both showed off their powers, filling the sky with flashes of gold and dark green. It was clear neither of them was actually taking it seriously, as evidenced by the lack of any boosting skills, but they were still sizing each other up.
+
+“The Forest King has certainly grown stronger,” the Sword Saint commented. “Beyond what his gain in levels would suggest.”
+
+“Yeah, for sure,” Jake nodded. “Though it makes sense… he is a Unique Lifeform, after all.”
+
+“True,” the old man nodded slowly as the two of them kept watching while slowly starting to feel better. Jake also felt like he owed the King an apology – though he would never actually give one – for making fun of the Unique Lifeform earlier about recovering last from the encounter with Oras.
+
+Of everyone, the King was clearly in the best shape now, perhaps exactly because he had been unconscious for longer. Additionally, he was far better at controlling his own soul, which meant he should also be able to heal or at least suppress the void nausea more easily.
+
+While continuing to watch, Jake noticed the group led by Miranda had started approaching once more, making Jake have a thought.
+
+“We should use chairs so that our sitting and relaxing looks more deliberate,” Jake quickly said.
+
+“A good suggestion,” the Sword Saint instantly agreed as the two stood up and summoned chairs before sitting down again, Jake still holding Sylphie throughout as the hawk didn’t seem interested in doing anything besides resting and looking at the sky.
+
+Not even ten seconds later, Miranda appeared at the broken doorway to the now-broken chamber, followed by dozens of individuals from all sorts of varying races. Jake knew the role he had to play and didn’t even turn his head to look towards them as he kept looking up, the rest of the roof having already crumbled by now, giving them a great view. He had even made sure to summon his mask again.
+
+“Lord Thayne,” Miranda said as she walked into the chamber, the rest of her little followers staying just outside, staring at Jake with wide eyes.
+
+“Miranda, please, join us,” Jake said as he waved his hand, summoning another chair beside the two of them. He reckoned it was either that or standing up to greet her, and he didn’t want to risk standing, seeing as he feared he was still a little unstable on his feet. It would be very embarrassing to stumble and fall in front of a bunch of starry-eyed admirers.
+
+“Thank you.” Miranda merely nodded as she sat down beside the two. “If I may, why is Draskil fighting the King?”
+
+“He made a rather inflammatory statement,” the Sword Saint explained with a smile.
+
+“Draskil or the King did?” Miranda asked with a raised eyebrow.
+
+“Both,” Jake chuckled, shaking his head. “Let them have their fun. I reckon Draskil hasn’t been allowed to flex his muscles as much as he would have liked to, and the King certainly needed to get in some exercise.”
+
+“I see,” Miranda nodded as she joined them in watching the fight in silence. At least she appeared to be, as she spoke subtly to Jake telepathically.
+
+“Is everything alright?”
+
+“Why are you asking?” Jake questioned in surprise, not thinking he was letting anything slip.
+
+“Just a feeling. You’re not the only one with intuition, you know?” Miranda shot back.
+
+“True. And yeah, we’re feeling a little under the weather. The trip through the void did a number on us all due to some extenuating circumstances I cannot really talk about,” Jake answered, saying as much as he could.
+
+“Fair enough.” Miranda didn’t pry. “Due to that, I take it you want to sit here and rest a little with the King and Draskil serving as a nice explanation and distraction?”
+
+“Precisely,” Jake smiled to himself behind his mask, happy that Miranda understood. He just hoped that all the onlookers wouldn’t catch on and notice he was acting so lazily due to his less-than-ideal state. The best bet was probably to act like they didn’t exist until he was more confident in not wobbling on his feet.
+
+Miranda really had to hand it to Jake. Once more, he had expertly – albeit accidentally – played the role of an aloof Chosen perfectly. It was a great power play by Jake, not even bothering to turn to all the young masters and mistresses, but only addressing Miranda by asking her to join him and the Sword Saint.
+
+In one move, he had communicated that he didn’t care about the political situation of the planet, but was far more interested in the spar between two powerful figures. Additionally, he had shown them that Miranda was someone he invited into his own world, where politics was beneath him, showing that he trusted her.
+
+She could only begin to imagine the kind of messages they were sending between themselves and the actual political experts they had arrived with. There had to be lots of speculation, but Miranda was pretty darn confident her own stock had risen from this brief moment of sitting alongside the Chosen of a Primordial and two carrying Divine Blessings.

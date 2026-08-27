@@ -1,0 +1,127 @@
+---
+id: d504bda8-27c7-598a-8543-8125ba17711c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1297 - How One Would Expect"
+slug: 0170-chapter-1297-how-one-would-expect
+partOf: the-primal-hunter
+position: 170
+ownLength: 2757
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3296843/chapter-1297-how-one-would-expect"
+royalRoadId: "3296843"
+---
+
+Jake had very few creatures that he really didn’t like. Not necessarily due to anything logical, but just because they didn’t vibe with him. His most hated foe was no doubt the evil mushrooms of the multiverse, who all deserved to be exterminated or thrown into alchemy cauldrons and refined into something actually useful.
+
+There were other types of creatures Jake very much didn’t like, though. One of those was mosquitoes. Nobody liked mosquitoes, and Jake feared the day Vesperia invited him to a friendly get-together with a True Royal from whatever cursed Lineage mosquitoes belonged to.
+
+He had a few others, but one type of creature Jake had never been a fan of was spiders. Why? Jake really didn’t know. He wasn’t afraid of them, and he knew that logically, spiders tended to be quite helpful creatures, even assisting in dealing with the aforementioned mosquitoes. However, he still didn’t like them, maybe because of some horror movie he’d seen as a kid or something like that. He really didn’t know and had never really cared to explore his reason. All he knew was that the second he saw the creature pointed out by the Shaman, he instantly felt the desire to burn it with fire... or obliterate it with arcane energy. It also didn’t help this creature’s case that it was ugly as sin.
+
+Using Identify, he also confirmed it was indeed a spider.
+
+[Arachnec Deathstalker – lvl 388]
+
+It was a spider with a name very similar to a race known as Arachne, that Jake already had prior knowledge of, but regular arachne were very much not undead. Instead, they were spider-women of sorts, with half-spider and half-humanoid bodies. They were also fairly powerful monsters, with a fair number of them across the multiverse.
+
+Arachnec were, from the looks of it, very much the same, except they were fully undead and not really as humanoid as the pictures Jake had seen of arachne. Arachne were even known to nearly always take full humanoid forms, and, as a fully female race, often copulated with enlightened races. All in all, Jake had nothing against them as they weren’t really spiders. Spider-like, sure, but not actually spiders.
+
+This Arachnec was a cursed creature that was neither a regular spider nor an arachne. It had a lower body like a spider's and an upper body that was definitely not a spider's, but Jake hesitated to call it humanoid.
+
+Its upper body was a collection of bones stitched together with spiderwebs. There was no visible head, and it had five long, spindly arms that went in odd directions. The rest of its body looked like a spider halfway through decay, leaving more bone than flesh visible. Its eight legs were all spear-like appendages that pierced into the ground as it walked, and a strong miasma was emanating from its body at all times. Jake estimated the creature to be about seven meters long and five meters tall, making it relatively large, but not overly big.
+
+“Is it... sentient?” Jake asked the Shaman as they floated far above the spreading land of death beneath them. The Shaman had summoned a barrier to help hide them a while ago, allowing them to remain undetected, but Jake had also used his own Unseen Hunter while ensuring the frogs could still see him.
+
+“Yes, they were highly intelligent, and while you only see one right now, others are no doubt nearby,” the Shaman said, his eyes darting around as if he wanted to spot another Arachnec to prove his point.
+
+Jake released a Pulse and confirmed that just outside of his Sphere of Perception, two nearly identical-looking Arachnec were moving together, and even further inside the spreading land of death, he saw dozens more. This land of death spread incredibly far into the distance, meaning there were probably more out of his detection range.
+
+“Do they have settlements and such?” Jake questioned.
+
+“They do, but they were hidden underground, and there shouldn’t be a nest here,” the Shaman explained. “If there were one here, or if they tried to make one, the village would have already sent elites to exterminate them. Perhaps the Oracle herself would have moved. No, this is just a small forward group of Arachnec here to gain experience by creating miasma and absorbing it.”
+
+“Sounds classically undead,” Jake muttered, this really being the MO of most undead creatures throughout the multiverse. They often grew by spreading death and absorbing the resulting miasma. An efficient method, but one that made a lot of enemies, which was why the Risen instead created domains that automatically produced death affinity energy for them all to absorb, rather than having to go around destroying life to create it.
+
+“You also have creatures like these outside the Boundary?” the Shaman asked curiously.
+
+“Exactly like this? I’m not sure, but probably,” Jake shrugged. He wouldn’t be surprised if Arachnec were a race that already existed elsewhere in the multiverse, but one could never know. “As for undead creatures in general? Oh yeah, plenty of those.”
+
+“The Arachnec do have the ability to raise the dead and create minions of those they’ve slain, which is another reason we consider them enemies,” the Shaman said, for the first time looking visibly angry. “A sacrilegious act that does not allow the spirit to rest nor return to the Ancestral Spirit Pool.”
+
+Jake nodded, seeing the seriousness of the Shaman. He kind of wanted to ask more about what the Venusians believed happened after death and what this Ancestral Spirit Pool was, but he held back and instead made a gesture he was sure the frog would soon come to appreciate.
+
+Holding out a hand, his bow appeared in it, eliciting a surprised look from the Shaman.
+
+“A space bag?” the frog asked with surprise.
+
+“We call it spatial storage, and they can come in many forms. Mine is a necklace,” Jake answered.
+
+“Such useful tools are incredibly rare here, in large part due to how difficult it is to procure the materials to produce one,” the Shaman shared as he also stared at Jake’s bow. “And what is that? Some form of weapon?”
+
+Jake’s first reaction was to think that the B-grade frog was messing with him, but he quickly realized that it was entirely possible that this frog had never seen a bow before or had any knowledge of what it was. Still, the question took him by surprise, as It wasn’t as if bows had a complex form, and it wouldn’t be surprising if even a random Minor World had developed bows independently of the rest of the multiverse, especially with Records bleeding through.
+
+Then again, the Venusians didn’t exactly have bodies constructed for wielding bows with their webbed hands and whatnot. Sure, they could have made their own modified versions, but they probably had other means of attacking at range. Such as using magic of different sorts.
+
+Thus, after briefly being taken by surprise at the question, Jake nodded.
+
+“Yes, my preferred weapon of choice is a bow. And rather than telling you what it’s used for, allow me to demonstrate,” Jake said as he motioned towards the frogs. “I would retreat a little and stay out of detection range of the Arachnec. Don’t worry, my own stealth skill will keep me hidden.”
+
+“Very well,” the Shaman nodded. “We will move back, but shall remain on alert in case you need our assistance. Also, let me warn you: the Deathstalker variants are quick and deadly, so be extra careful and try to exploit their inferior defensive prowess. Finally, while damaging them is easy, truly slaying one may prove difficult, as you will need to exhaust its energy before it can be slain for good. Due to that, focusing on its limbs to reduce mobility may-”
+
+“Thanks for the warnings, but I’m aware of the traits of the undead,” Jake said, finding it a bit endearing that the Shaman was so nervous for him, but really, he didn’t need these warnings. “Though I will dare venture, the fight is over a lot faster than you can predict. So, please, just sit back and enjoy.”
+
+The Shaman looked at Jake skeptically as he nevertheless gave a reluctant nod before retreating away alongside the four other Venusians. All of them already had their weapons drawn and seemed ready to jump in and help the moment Jake found himself in trouble, which was nice of them.
+
+In their defense, Jake was just a newly evolved B-grade. From their point of view, he was definitely biting off more than he could chew by wanting to fight a being roughly thirty levels higher than himself. They had no way of knowing that Jake was a freak who, based on how powerful the Deathstalker felt, could have perhaps even beaten the B-grade before evolving.
+
+And now that he had evolved? Well... the result would speak for itself.
+
+Under the watchful gaze of three frogs, Jake allowed them to witness everything that went into his opening attack. Rather than do it inside his quiver, Jake designed and created his Protean Arrow right in front of himself, making it a very basic one. He saw no need to put too much thought into it, but just made it an arrow full of destructive arcane energy. As for what poison to use, Jake didn’t really have much choice, and he hadn’t crafted anything useful after evolving, so his best toxin currently was, honestly, just his blood. Which was exactly what he chose to use.
+
+Once the full spear-sized arrow was complete, Jake gave it a final coating of poison before willing it to turn around and point toward the Arachnec below. Grasping the arrow, Jake applied the effects of Penetrating Arrow before he nocked it. With the arrow on the string, Jake took a deep breath before unleashing Arcane Awakening as his body was bathed in destructive arcane energy.
+
+Jake went for the offensive variant, increasing those stats by 50%. He had considered going for the full 60% to all stats right away, but held himself back, which was probably a good choice. The strain from boosting skills, especially one like Jake’s, was a lot more prominent right after an evolution, and he couldn’t use it as liberally as he had towards the end of C-grade.
+
+He did have the advantage of Arcane Supremacy and an already extreme resistance to his own arcane affinity, which was frankly the reason why Jake’s boosting skill worked in the first place. In either case, 50% should be good enough for now, and based on the reactions from the Venusians, they already found it more than impressive.
+
+Channeling Arcane Powershot, yet a second eruption of energy warped the area around Jake, and if not for his Unseen Hunter, the Deathstalker would have definitely seen him by now. Unfortunately for the undead, it remained unaware of the hunter even as he fully charged his Arcane Powershot.
+
+All his other passive skills were already in full effect, and Hunter’s Mark was placed as Jake took final aim. He still had Sight of the Boundless Horizon as well as Event Horizon in store should his opening shot fail. Something he had a hard time seeing happen.
+
+With a final exhale, Jake loosed the arrow as it erupted towards the Arachnec Deathstalker. The B-grade was busy consuming the remnants of life energy from a struggling cactus-like plant as the arrow arrived, hidden by Stealth Attack until the very last moment.
+
+The innate danger sense of the B-grade spider was triggered far too late. In the very final moments, the Deathstalker’s body erupted with miasmic energy, only for all that energy to freeze from a well-timed Primal Gaze, not allowing the B-grade to even attempt to defend itself.
+
+Jake and the five Venusians watched as the Protean Arrow tore through the skeletal “humanoid” portion of the Arachnec Deathstalker first, obliterating the bones as the attack continued down into the decaying spider body. There, it didn’t slow down in the slightest but destroyed everything in its path, sending out a shockwave of destructive arcane energy through the B-grade’s body.
+
+Finally, the arrow exited through the bottom of the Arachnec, exploding the second it hit the ground in an eruption of destructive arcane energy that tore through the spider from below. Jake watched as much of his prey’s body was instantly disintegrated within the newly created crater on the island, destroying the surrounding land as fissures formed for nearly a kilometer in every direction. Something that made Jake click his tongue.
+
+Sloppy control, he noted to himself, finding that too much of the Protean Arrow’s energy was wasted on destroying the environment and not killing his target. Sure, the vast majority still went into his prey, but way too much was still wasted, showing that Jake still lacked control post-evolution. He didn’t even have the excuse of having used Arcane Awakening on full power, which did introduce some instability into his attacks, courtesy of the boosting skill’s unstable nature.
+
+His lack of control also showed him that the terrain in this Minor World was far more durable than on Earth or any other “regular” planet. If he had done the same thing back home, the fissures created would have spread for dozens of kilometers at a minimum, while here, they only extended about a kilometer in every direction. Everything had no doubt been strengthened and refined by the constant exposure to potent toxic energy that was even capable of nurturing the growth of B-grades and perhaps even A-grades.
+
+Oh, yeah, besides comments on the environment, the result of Jake’s attack on the Deathstalker was as expected. For a few moments, its decaying flesh wriggled as it struggled against the destructive arcane energies, finding itself on the losing end. Jake’s poison didn’t really end up doing much, showing that the sheer resistance to toxins of these creatures was quite impressive.
+
+Not that it mattered, as even without the poison, the Protean Arrow, coupled with everything else, had been more than enough for Jake’s very first “fight” in B-grade to end exactly how one would expect, given he hadn’t even faced a mid-tier B-grade or a powerful variant.
+
+You have slain [Arachnec Deathstalker – lvl 388] – Bonus experience earned for killing an enemy above your level
+
+Whatever remained of the B-grade faded away into miasma that seeped into the ground, expanding the domain of death further. Even in death, these Arachnecs were a scourge, it seemed.
+
+Through a Pulse, he also saw several other Arachnec in the distance react to the death of their kin, meaning they had either detected the energy from Jake’s attack or noticed that one of their own had been slain. None of them moved towards Jake and the others, though, so they evidently didn’t care that much that one of them had died for good.
+
+Looking toward the Shaman, Jake shrugged. “You’re right, Deathstalkers are pretty squishy.”
+
+The Shaman just stared back at Jake, and he saw the four other Venusians around him now visibly on guard, all three warriors clenching their weapons tightly. It wasn’t hard to see why.
+
+So far, they had likely operated under the assumption that, as a low-level B-grade, Jake wouldn’t be a threat to the five of them if he decided to do a one-eighty and turn hostile. Now, that assumption had definitely been challenged, as Jake had given them a glimpse of what he was capable of.
+
+Fortunately, the Shaman still seemed somewhat relaxed, looking more impressed than anything as he switched between staring at Jake and the crater with only a few scattered bones of the Deathstalker remaining.
+
+“That... did not proceed as I’d expected,” the Shaman muttered aloud as he focused on Jake. “While the very thought frightens me, do tell: are all humans as powerful as you? Or are you a special variant?”
+
+“Something like the latter,” Jake clarified, finding it a little funny to be referred to as a variant. Then again, enlightened races weren’t a thing in this world, so it wasn’t surprising.
+
+“Truly, I have been enlightened today,” the Shaman slowly nodded as he seemed to consider if he even wanted to before asking another question. “I find myself hesitant to even ask, but did that attack you just unleashed take a huge toll on you, or...?”
+
+Jake smiled as he looked towards the field of death spreading into the horizon. “How about we look for another Arachnec and find out?”

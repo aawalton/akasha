@@ -1,0 +1,257 @@
+---
+id: 03610bea-b8f8-5df3-b351-777874243585
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 508"
+slug: 0208-the-path-of-ascension-chapter-508
+partOf: the-path-of-ascension
+position: 208
+ownLength: 5580
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3783680/the-path-of-ascension-chapter-508"
+royalRoadId: "3783680"
+---
+
+Chapter 508
+
+“What about murder instead?”
+
+Liz’s flat look told Matt his not quite joke hadn't landed as well as he’d hoped. He was very much over the Cabal and their endless nipping at their heels. It felt like every time he tried to look away from something he cared about, they were there and ready to throw a wrench into it.
+
+Most of the time their people caught them before the plans could come to fruition, but that didn’t reduce his irritation at the instances that succeeded. Nor did it help that the Cabal’s latest initiative had hit so close to home.
+
+Their newest attack had been as simple as it was devious. They’d infiltrated the numerous aura farms in their duchy and replaced the rifts with ones they didn’t have authorization to use. One of their counter espionage people had noticed a discrepancy, revealing and unraveling the plot, but the Cabal had caught wind and gone public with the scandal halfway through, rather than let their hard work go to waste.
+
+Ascender Titan, champion of aura, had been caught stealing from other aperologists with clear and decisive proof.
+
+It hadn’t just been a slap in the face, it had been a full on punch. He’d been furious enough to go and slaughter a few of the bases they knew about but hadn’t attacked. It was Liz who’d talked him down by pointing out that the Cabal were probably counting on that, with another pitfall waiting for him to jump into.
+
+While she’d raced to the Capital to deal with and mitigate the political fallout, he’d stayed behind to take care of the duchy itself. Their nobles had needed more coxing and coddling than he’d expected, with all of them professing their innocence and support.
+
+Matt wished he could say that he believed them, but that was impossible. The Cabal had inside help; they never could have pulled off converting so many rifts without it, but that wasn’t surprising. It was a duchy after all, not a single planet that could be constantly monitored.
+
+When he complained to Leon in a private message, the older man’s reply hadn’t been what he wanted to hear. Matt didn’t like being told that such attacks were the cost of doing business, but he couldn’t exactly prove his father-in-law wrong.
+
+His situation wasn’t all that different from the upcoming war. Resources were scarce and those at the bottom were looking to climb their way up, while those already at the top were trying to consolidate their positions.
+
+Matt and his changes were the metaphorical newcomers and the Cabal were the entrenched powers who were desperately trying to keep him from… existing. He knew that wasn’t exactly true, but it felt like no matter what he, Liz, and Aster did, the Cabal was there to run interference.
+
+At the same time, he also had to face a much more uncomfortable truth.
+
+Matt was responsible for far more than the Cabal. He was directly, or at least he felt that way, responsible for the upcoming population wars, and that knowledge weighed on him. Between aura potions removing the final hurdle in the way of immortality and reducing low Tier deaths by releasing Tier 0 skills, he was an easy target to pin blame on.
+
+The worst part wasn’t that he disagreed with the detractors… he actually could understand their perspective. He’d run the numbers and couldn’t deny their claims, even if they were off base with some of the figures they threw around. Yes, he was responsible, but what bothered him was the undeniable fact that he didn’t think he’d change anything if he could go back and do it all again.
+
+If he was willing to shy away from progress, he’d be no better than the Cabal trying to preserve what they had at the expense of everyone else. However, none of that stopped the voice that whispered in his ear that he’d made everything worse.
+
+Nor did it stop the knowledge that the Cabal used the very same facts as recruiting tactics, pulling from those who’d been negatively impacted by the inventions he’d unleashed upon the Realm. The Cabal had been recruiting members heavily from their ever growing noble detractors, as well as finding succor in their lands. But in reality, they were simply exposing the already existing divide between the more flexible nobles and those who wanted to maintain what they had.
+
+The newest generations weren’t as inclined, even among the nobles, but those people would take thousands of years before they were the ones in charge even in the best of cases.
+
+He—
+
+A sharp pain on the top of his head told him phoenix Liz had grown irritated at his self reflection, but he was grateful for her pulling him out of his own head. It was far too easy for him to get lost in there after he’d expanded it so much.
+
+Matt scooped his feathery attacker into a hug before floating next to Liz by the desk instead of ruining the chair he’d been using before Tier 35. The limits of how much a Ton Light Prism let the user shift their weight down were usually an academic curiosity at best, but they become a lot more relevant after he'd woven neutronium through his entire body. To say it struggled was an understatement.
+
+Sadly, a random office chair wasn’t up to the task without outside assistance, and at that point, it was easier for him to just float. There was less chance of him accidentally ending up on the floor, or worse, in their downstairs neighbor’s space if he knew there was nothing underneath of him.
+
+After he’d gone through everything Liz had done, he rubbed his face. “Thank you for handling this. I couldn’t have been this objective in the negotiations.”
+
+Liz grinned in what felt like far too much humor in contrast to his own mood. “I reminded everyone the exact same thing. I made sure everyone knew that they could kick up as much of a storm as they wanted, but once you arrived you’d take over. After that revelation, most were much more amenable to the payouts. The smart ones know they were only brought in as cover and were eager enough to get paid. We offered above the contracted penalties, and most know it's more than they’d get out of an actual court, even before they had to go through the effort of putting together a legal case. Most of the others are falling in line, not wanting to miss out.”
+
+“I’m sure the Cabal’s people weren't dumb enough to stick their heads out and dig their feet in.” Even as he spoke, he’d already brought up the lists and looked for any discrepancies that might show which groups had been in on the plot and be dumb enough to demand more.
+
+“A few are being greedy, but I can’t pin any of them down as conspirators. Most of the ones fighting for every scrap are the dregs of the aperology world. The teams that had one hit and are chasing ghosts. I think a lot of them see this as their second chance. It’s why they were included, I'm sure.”
+
+Matt already suspected he knew what Liz was going to suggest, but asked her anyway. “What do you think we should do? Pay them out?”
+
+Liz nodded once and firmly said. “That would be the easier answer.”
+
+When she didn’t continue, he opened an eye and met her gaze. “And if that’s only the easiest answer, what’s your actual plan?”
+
+“That is my actual plan.” He didn’t like the sound of that, but Liz didn’t make him wait for the answer. “At least partly. Ultimately, this is a blow to both the duchy from the numerous canceled contracts, and our personal reputations due to being seen as trying to double dip instead of paying our fair share. But, thanks to us catching it early, it's a small one that we shouldn’t necessarily escalate. So I say we pay off the majority who aren’t demanding more than, oh say, thirty percent extra. As for the greedy ones? I think we should remind them we aren’t to be trifled with by flipping the script. We shut down communications and let them come at us. So far there haven’t actually been charges levied at us, and while there is enough evidence to enforce the payouts up to triplicate, it won’t be fast or cheap if we dig in our heels. And given who the holdouts are, we know they don’t have the capital to see such a suit through. At that point, they’ll be left in a much worse bargaining position, as they won’t have the numerous other aperology companies in their corner.”
+
+Matt couldn't fault her answer, it was a clean solution to a messy situation. However, he didn’t like her answer. At the same time, he didn’t have a better one. Unless he counted murdering everyone even remotely involved, but he’d stepped back for a reason.
+
+Instead, he turned his attention to Titan’s Torch and its businesses. While the guild itself hadn’t been directly implicated, they’d caught some initial blowback as speculation ran rampant through the news channels.
+
+Elliot… wasn’t doing a bad job. The guild hadn’t been impacted in any material way and according to the latest reports, morale remained high, with few believing the news. It wasn’t like the guild’s business ventures had taken a hit. He was almost irritated to learn they’d seen a bump in sales, but let it go without a fight.
+
+Matt almost hated looking at those numbers at this point. Maybe a few thousand years ago Titan’s Torch might have, at least on the surface, been unprofitable, but the guild now made more than their duchy did.
+
+If Matt hadn’t been reigning in Elliot for the last thousand years, they probably could have doubled that again, but that wasn’t what he wanted the guild to be. Not that having so much liquid capital hadn’t proven beneficial in other ways, but what it represented irked him to no end.
+
+One of Elliot's first moves after replacing Kees had been to try and balance the budget. He hadn’t been read into Matt’s Talent so soon after being promoted, and Matt was happy to let him throw ideas around. The first few hadn’t been all that successful, but he’d managed to rework a few of their trade deals, finding some savings through his efforts.
+
+His next few ideas had centered around funding more aperology teams to work on more personal aura types after they’d seen a series of rapid successes. The aura needed to make Qin Jiang’s Justice aura potions had caused quite the stir, but their science-based approach to the field wasn’t as useful for one-off’s as the Talented aperologist. Even for them, there were few guarantees, but for Knightly Orders, high Tier guilds, and families, such expenses were trivial in the long term benefits of controlling aura types related to their particular styles.
+
+Eventually, they’d pulled back when it became clear the field was still as murky and uncharted as ever, but they’d shown what was possible and that was a good enough reason for Matt.
+
+There had been a few incidents where the employers had tried to silence the Talented aperologist after the fact, but few had been willing to allow such occurrences to continue after a notable incident got a guild killed. Half of the now defunct guild had been assassinated in a week, and the rest had gone into hiding, where an uncountable amount more had been hunted down.
+
+Matt had looked into the situation after finding out about the attacks, but like the official investigation, he hadn’t been able to identify a mastermind. Mackenzie Harrington might not be the only suspect, but she was the primary one. As no more than a few of the assassins had been caught and there hadn’t been any discernible links between the people who hired them, there hadn’t been any charges involved, but he wouldn’t put it past her.
+
+He wouldn't even have blamed her if she hadn’t declared open season up and down the guild’s ranks.
+
+If he wasn't butchering his enemies, his ‘allies’ weren't allowed to either. He could also admit he’d have enjoyed finding an alternative excuse to put screws to her after forgiving her for being a part of the Cabal. It was his duty to take down people who ordered wanton assassinations as an Ascender.
+
+No, Elliot had found success where no one, not Matt and not Elliot himself, had expected. At least not to the degree they’d found it.
+
+The logic had seemed simple and innocuous enough at the time. The guild made a lot of rifts every day. At the time, they had just over fifty aperology teams with full time projects on staff. Matt was more than happy to keep his teams flush with mana and resources. That resulted in a lot of rifts being created and destroyed. Combine that with the often weird seed items, mana aspects, and general parameters the teams could come up with, some of the rifts were weird, interesting, or had other strange or noteworthy characteristics.
+
+The guild had even kept a running list of the weirdest rifts found, with recordings left in the break rooms for the rest of the staff to vote on. It hadn’t been long before a particularly noteworthy rift had simply been too interesting to destroy. Matt had been just as eager as everyone else to set aside a section of the moon to transplant the most unique rifts rather than destroying them.
+
+That area still had some of his favorite rifts, such as the Tier 11 pickled octopus rift. The rift was like most of the early noteworthy ones, a result of the guild trying to crack the code on wave rifts.
+
+It hadn’t taken them long to identify shadow mana as lending itself to puzzle and trap rifts, nor had it taken the guild’s aperologists long to start experimenting. Shadow mana was far from a sure thing, but it did tend to work. Yet for still unidentified reasons, mid-preparation food dishes was the most successful method to create wave rifts they’d discovered when used in conjunction with shadow mana. That made every attempt to create a seed item that much harder, but they’d seen some incredible results.
+
+The resulting rift had nothing to do with octopus or pickling, but it was fun. It put them onto a raft they needed to defend from sea creatures while going down the river. The theming may have been a bit wonky, but the monsters were where the rift shined. Every time the delving team defended the boat from a wave of attacks, the monsters would either gain access to the mana aspect that killed the highest number of them, or grow resistant to it.
+
+That meant what started out as fairly ordinary water based monsters became wholly unique after a few dozen assaults.
+
+Selling copies of such interesting rifts hadn’t seemed like that big of a deal. And it hadn’t been, until it was.
+
+It had started slow with lots of initial interest because of his and the guilds status, but very few people had been interested in vanity rifts. A few sold, but the real success had come when they’d hit on a trifecta of elements.
+
+The rift was interesting, solved a problem, and had a drop table tied to actions performed in the rift that wouldn’t be lost by the randomization when copied.
+
+The first rift in question managed to do so in spades. It was a Tier 7 jungle rift that had been made with a near perfect blend of water, wind, fire, and shadow mana. The rift started out easy enough, with the teams needing to ascend pyramids of bone built into the landscape. There, they needed to light the beacons, but that was where the rift became unique.
+
+With each beacon lit the rift became harder, with the monsters increasing in strength and number of skills. After five beacons lit, the monster’s strength would cap out, but the rift lived up to its category as a wave rift and would simply create more and more monsters. Like all wave rifts, delvers wouldn't receive any Essence until they dispelled the reward distortion, but the amount of Essence they received was only limited by how many waves they could endure without skills like [Lesser Sacrifice].
+
+Strong teams would receive so much Essence from the reward distortion their spirits would overflow; it was something Matt would have loved at that Tier. Luna wouldn't have let him blitz through Tiers delving rifts like that, but the dream was nice.
+
+Additionally, its alternative loot table was excellent, being tied to how many monsters were slain. Kill enough and it dropped a club made out of one overly large monster fang that got stronger with consecutive attacks on the same target. Best of all, it had excellent scaling, letting the weapon last for several Tiers for most delvers before its durability started to limit its usefulness.
+
+While the skills it dropped were randomized when copied, the original had one of its three skills as [Water Manipulation], and several copies had retained that. Even if rare, that was more than enough to attract buyers. A skill like that was always in demand, which was its third success.
+
+It solved a problem.
+
+They didn’t know why or how the rift landed back on that skill, despite numerous investigations by basically every aperologist in the guild and beyond, but it did statistically more often than it ever should have, which only cemented its popularity.
+
+From there, it had only been a matter of time as the rifts accumulated and the money came back in to fuel more tests. While the guild hadn’t cracked the code of aperology, they’d gotten good at making rifts.
+
+However, all of that paled to the final piece of the puzzle.
+
+If anyone was asked what Titan’s Torch was good at, Matt was confident they’d answer one thing: making aura rifts. He knew that, yet like everyone else he’d overlooked the obvious implications.
+
+While most any half decent Tier 15 formation specialist could become a half decent amateur aperologist, every additional Tier represented another chance of the rift deaspecting and failure. Having already become accustomed to people buying copies of rifts, it hadn’t taken long for the guild to start preserving their high Tier aura rifts rather than destroy them.
+
+Aura rifts were notoriously difficult to copy, their already unstable nature seemed prone to collapse when a copy was made. That risked both the initial rift and the copy, but they’d found a simpler solution. Selling the original.
+
+While a Tier 4 wind aura rift was commonplace, at Tier 10 and above, any aura rift of any type was an anomaly to be fought over. Yet on Titan Torch’s moon, a dozen such rifts might get created and destroyed in a week if a research team was working towards a high Tier goal.
+
+He’d often been told how much of a waste it was, but they’d only had so much space at the time. That changed once Elliot headhunted Satou. While he still rankled a bit at how aggressively Elliot badgered Satou’s employer to get him out of his contract, Matt couldn't deny it was a brilliant move. Satou had the ability to, quite literally, grab a rift and put it in his pocket.
+
+Taking it out was just as easy. No instability. No chances to deaspect. No downsides. There wasn't even a cost besides Satou’s time and personal effort. With that, what were once cast offs were now a reliable source of higher Tier Aura rifts so long as the buyer wasn’t too picky about the details.
+
+For the groups that could both afford and utilize a Tier 7 or higher aura, they were more than willing to pay for a single high Tier aura rift. They’d learned the hard way that gambling on deaspecting was better left to the professionals rather than their formation specialist.
+
+Given just how many rifts Titan Torch made they now had a laundry list of rifts of various types for prospective purchasers as the aperology teams no longer dissipated their bespoke aura rifts failures that retained their aura. Even the guild struggled to keep the rifts from deaspecting, they were simply better than the rest of the field.
+
+Some of the simpler best sellers were even deliberately recreated but Matt had put a firm stop to that. If a recipe was reliable enough for that, it got published for free like all the others.
+
+They were a research center, not a business. Sadly the issue of the rifts deaspecting with each additional Tier ensured they had a steady stream of potential buyers eagerly trying to get him to change his stance.
+
+It was why Palustris now had three additional Tier 1 planets following its orbit around the system's star. Worse yet, each of those planets had five moons, and he knew they were looking to double both in the next thousand years in a vain attempt to get ahead of the problem of their ever expanding catalog.
+
+Others had entered the market as well, but they weren't all that successful compared to Titan’s Torch, who had economies of scale, reach, and popularity. Not to mention Matt’s outlook of the rifts being an unwanted side effect of scientific discovery rather than a primary product.
+
+He was already allocating funds to make the rifts in their primary pursuits whether that be pure research or trying to create a bespoke aura type for a client. Selling rifts that would have been dissipated as part of that process was fine but he refused to allow the guild to become a rift producing business as their primary goal.
+
+Matt tapped his finger on the desk a little too hard, earning himself a poke from Liz who glared at the dent he’d made.
+
+“Sorry. I’m distracted.”
+
+“Clearly.”
+
+Matt put on his best smile as he offered, “I’ll make it up to you.”
+
+“Oh, will you now? How is that?”
+
+He had her interest at least. “Could I interest you in a spar? I happen to have a new weapon I need to try out.”
+
+Liz’s lingering irritation vanished as she tossed a phoenix over her shoulder. “You should have led with that before the busy work! That's wayyyy more exciting than dealing with the Cabal stuff. Lead on. Should we grab Aster or is she flagging herself as mid-project?”
+
+That was an easy question to answer, and one check later, Matt opened the [Portal] to her workshop. Before he stepped inside he cast [Cracked Phantom Armor], having seen they were nearly done an experiment.
+
+The wind buffeted him hard enough to make him sway slightly within his field of lowered gravity, and it was only a quick touch of [Wind Manipulation] that managed to keep the gusts from disturbing the rest of the building.
+
+Matt stepped inside with Liz right on his heel, but both of them struggled to see through the horrendous conditions.
+
+Using his spiritual sense, Matt fluctuated, “Her tracker said she was almost done. Think we came at a bad time?”
+
+Liz shrugged back, glowing golden as she burned hotter to keep her from feeling the bitter cold that had filled the lab. “Maybe she’s being successful and we are just in time for her celebration hurricane. An ice hurricane. Is there a word for that?”
+
+Matt could only shrug as they made their way deeper into the center of the room.
+
+It wasn’t the short walk it should have been, but given the fact Aster had deployed her spirit space, he wasn’t all that surprised.
+
+She’d spent the last three thousand years trying to find a stable Level 5 ice mana type, and her spirit space had been a large part of the effort in recent years.
+
+At the center a lab started to appear, where they found Aster and Zack trying to stabilize the mana sample. Matt immediately identified how the mana type would unravel, but the duo did their best to prevent the inevitable. They threw caution to the wind, literally in this case, trying to find anything cohesive as the various mana types disintegrated into their stable component parts.
+
+Weirdly enough, Zack had been the one to benefit from their testing, having had his second inspiration which pushed him to Tier 34 through watching mana types unravel day after day in test after test. They’d been using the arcane spiral they’d found in the Rasdale breach as a sort of periodic table when he’d figured out how to ‘twist’ mana types together, rather than solely making up the difference through his own mana pool and Talent.
+
+Matt had helped him play around by combining that with Spontaneous Aspect Cascades to create nightmarishly unpredictable explosions, but they hadn’t put that much work into the new move. It wasn’t like they’d get the chance to use it on anything but rift monsters, and they all had easier skills to improve.
+
+While it had been an interesting find, it hadn’t been what Aster needed for her new bloodline. She wanted ‘space ice’. Ice so cold it could freeze space itself, let alone the things that tried to inhabit it. Or something along those lines. While she hadn’t seemed to notice, he’d picked up on the fact she’d been growing vaguer and vaguer in her desires the longer she spent searching. Whatever her goal, his bond hadn’t found it yet.
+
+When the mana sample fully disintegrated the wind died down immediately, Matt grabbed everyone's hands together to inform them about what he and Allie had found.
+
+Zack’s immediate interest didn’t surprise any of them. Raising a shoulder the smallest fraction, he shrugged at Aster. “The war is set to start any time now, and Allie and I are going to be forced to sit on our hands. It’s not exactly pleasant. So while I will keep running tests as I get new ideas, this offers a pleasant distraction I can be active with.”
+
+Aster rolled her eyes, hip bumping him as she moved to side hug Matt. “I’ve told you that while your help is appreciated, you aren’t required. Go have fun with this. If I'm being honest, I’ll be over there after this just to check in and see what I can learn. It will let me think things over during the war. Without Allie, we'll be schlepping around in real space most of the time, and that means lots of time in a ship. It can be like a brain teaser.”
+
+“Then I’ll wait for you. Was there anything else, Matt?” Zack’s question was in sync with Liz splitting a clone off and stepping next to the other two with a cheeky whistle.
+
+Withdrawing his sword from its purpose made weight reduction ring, he showed off its new coloration and weight.
+
+The winter wonderland around them vanished as Aster retracted her spirit space, returning the room to its normal size. “A little warning next time might be nice. Damn, that thing is heavy enough I could feel it.”
+
+Matt’s arms strained as he waggled his longsword back and forth. “Want to spar? Come on. It will be fun. We can get Allie and all go to the sparring yards where we can beat on the Capital’s elites. We haven't done that for over a year now.”
+
+Now that they were Tier 35, they could finally attempt to form their Aspects, but none of them were confident enough yet to go ahead with it. While the army had ways to prevent a failure from being lethal, they were expensive and in high demand. As Ascenders, they were at the top of the list, but they weren’t wasteful enough to make an attempt without a firm idea for every potential part, and all of them were still unsure on at least one.
+
+Matt still needed to find his Phrase, but he’d finalised claiming his augment as his Anchor when he reached Tier 35, no thanks to JR. He was fairly confident in his Image, but not so much that he’d be willing to try solidifying it outside of the army’s safe arms.
+
+After a lot of deliberation and planning, he returned to one of his earliest ideas and created a dyson sphere. He liked his possible Image, but he’d made several modifications since his low Tier ideas of powering a Minkalla-like system that could change at will.
+
+His current Image was more static. He didn’t need to empower a dozen things, he needed to empower one core thing. His augment.
+
+If he was correct, such an Image would hopefully let him strengthen his augment in a similar fashion to his Power, and double up on the effect at the very least. If he was lucky, the buffs would stack multiplicatively, but he wasn’t counting on it. He’d be quite happy with the boost interacting at all.
+
+Or he would be, if he wasn’t still tweaking the Image on a near daily basis. He liked the general idea, but despite telling himself he was okay with removing the modularity from the Image, he couldn’t help but feel like he was missing some obvious solution to his dilemma. One that, if he could solve, would cascade other changes until he had a perfect Image like his Concept and Intent.
+
+That left it and him in the same spot as everyone else. He could only tinker and try new variations until he slowly morphed the idea into something he perfectly resonated with one adjustment at a time.
+
+Maybe he needed to rework the dyson sphere's transfer conduits to match his augment’s mana channels better? He’d already done so once, but it had been early in the development. Perhaps the star the sphere surrounded needed to be changed again?
+
+May—
+
+Matt pushed the thoughts down after noting them for later work. Unlike most cultivators, even combat types, he had a second option to refine his Aspect. Fighting someone who already had their next Domain stage.
+
+It wasn’t foolproof advice for anyone except Ascenders, but for those of their ilk that didn’t already know their Aspect by the time they reached Tier 35, every one found assistance fighting those who had it.
+
+So far they’d sparred with the elites, but they were in an awkward position. Even without Aspects of their own, any Elite under the High designation, Aspect or not, still wasn’t a match for them. High elites and above were a different story. At that level, they had enough skill and combat experience that the fights were actual fights, even for the Ascenders.
+
+That would change as they advanced through the Tier and filled their cores, but until they created their own Aspect’s, they’d be the ones fighting up.
+
+It was why Matt wanted to spar. It wasn’t only to use his new weapon. He wanted to see if fighting through the pressure of another's Aspect could give him some inspiration.
+
+An actual inspiration would be nice, ignoring how it’d kick him right out of the war tiers, but they all couldn't be the power couple that was Zack and Susanne.
+
+Thinking of the woman, Matt turned to Zack and asked, “Have you gotten word from Susanne recently? Surely she should be coming out of the training camp sooner than later, given the imminent war?”
+
+Aster glared at Matt, who only realized his mistake when Zack looked even more glum. “Nothing from her for the last century. She sounded excited about the training, but at this point, I’m half expecting her to miss the initial fighting if the war starts too soon. I know it shouldn’t bother me, given I’m already out of the war, but I know she’ll be upset if she misses this one too.”
+
+Matt swallowed back his next words and shifted into commiseration, before refocusing the group on the possibility of sparring. In the end, the others agreed to join him, but collectively decided they wanted to visit the archives and learn about their previous dynasty, and so he tagged along with them.
+
+It took them a few days to make their way though the top level records, but they learned both a lot and very little. The previous dynasty had the backing of at least one Great Power and practice at hiding and infiltrating the Empire.
+
+What did become clear was that the previous dynasty’s people couldn’t be over Tier 46, or they wouldn’t be able to blend into the populace of the other Great Powers, which was a relief to all of them. Their enemies following that rule put them within theoretical reach, but there was also a faster answer. If they found a base, they didn’t necessarily need to be the ones to kill her; they were part of the Empire and had access to Tier 46’s of their own.
+
+Matt’s plans to spar were momentarily interrupted again when news spread that Manny had left the palace and exited into chaotic space, causing the Capital to hold their collective breath. He returned only a few hours later without a declaration of war, but everyone knew the truth.
+
+That song would eventually be sung and they needed to be ready at any moment.

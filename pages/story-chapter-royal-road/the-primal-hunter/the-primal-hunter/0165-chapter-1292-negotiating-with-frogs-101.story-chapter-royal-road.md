@@ -1,0 +1,141 @@
+---
+id: 03a7420a-29a4-5cdd-a4d3-0dc5ccf15fbd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1292 - Negotiating With Frogs 101"
+slug: 0165-chapter-1292-negotiating-with-frogs-101
+partOf: the-primal-hunter
+position: 165
+ownLength: 2790
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3268417/chapter-1292-negotiating-with-frogs-101"
+royalRoadId: "3268417"
+---
+
+Sitting back and enjoying the show, Jake stuck to his usual ethos of not interfering in the fights of others. He didn’t pick any sides in this conflict, and while one side did look more open to negotiation and like they could communicate, he wasn’t going to write off the Boglord just because it was a big pile of sludge. That would be very prejudiced.
+
+Thus, he waited as he evaluated the situation, gladly learning more about the kind of beings he was dealing with in the minor world known as Venus. Starting with the frog-like creatures.
+
+With the way they fought, these frogs were showing clear humanoid tactics, though they definitely weren’t enlightened. Instead, they were a race like the Simivita Jake had killed way too many of at the Pantheon of Life, a race that showed many traits of the enlightened, while still very much remaining monsters.
+
+The two slender frogs were casters that each used magic Jake couldn’t quite recognize. Firing off a few more uses of Identify, he confirmed that there were three variants in total part of this group.
+
+[Venusian Virumancer – lvl 390]
+
+[Venusian Warrior – lvl 381]
+
+[Venusian Warrior – lvl 383]
+
+[Venusian Shaman – lvl 395]
+
+The Virumancer released green, translucent spore-like objects that infiltrated the body of the Boglord before rapidly causing whatever part they hit to wither and destroy itself, only really impacting the plant aspects of the Boglord’s body.
+
+Meanwhile, the Shaman primarily dedicated itself to healing while also occasionally releasing different elemental skills. Seeing as they were flying over a massive ocean-sized lake, the shaman made liberal use of the environment, causing the water to rise and morph into giant snake-like creatures. Something that made Jake raise an eyebrow.
+
+I guess it would make sense if there are also snakes in this place, Jake thought to himself, upon seeing the way too anatomically correct water snakes summoned by the shaman. Villy had grown up in an area of his planet designated a forbidden domain and managed to survive there despite being a low-grade beast, so it was entirely possible that there was also plenty of wildlife in this place that was innately adapted to the environment.
+
+Jake was actually a bit surprised he hadn’t come across any elementals, as this seemed like a prime spawning ground for them. Then again, maybe the Boglord counted as half an elemental? It was definitely closer to one than anything else Jake could compare it to.
+
+Just then, as Jake was in thought, the Boglord seemed to have gotten tired of the annoying frogs attacking it, and it released a loud droning roar. It echoed in Jake’s ears, making him cringe back a little at the sound, even from this far away. Needless to say, the frogs who were far closer had a worse time and were all pushed back. Taking this chance, the Boglord unleashed a follow-up as its massive arm swung down with high speed.
+
+Impressively, the shaman immediately shrugged off the attack and summoned a large projection of a bullfrog that encased itself and all the other frogs. The projection was disrupted, exploding into a wave of green light that made the Boglord recoil as its arm flew upward.
+
+As one, the three Venusian Warriors unleashed the same skill as their clubs glowed with green light and conjured projections that made each club appear more than a hundred times larger, while even growing spikes.
+
+All three swung, and right before they impacted the Boglord, the Virumancer also cast some spell that wrapped around the spiked clubs, effectively coating them in some form of virus-based poison.
+
+These three hits landed without the Boglord defending itself at all, actually pushing the gigantic monster back for over a hundred kilometers, and for a moment, it looked like it would fall over into the ocean it called home.
+
+Stabilizing itself, the Boglord slowly turned toward the five frogs in the distance. When it did, Jake saw the Shaman and Virumancer instantly start using some magic, seemingly fully aware of what was about to come.
+
+And good thing they were.
+
+The Boglord’s entire body began emanating with even more power than before as its entire chest wriggled. The plant matter all came to the surface of its body and multiplied as a gigantic flower bloomed from its chest. In the center of the flower, energy gathered for a mere moment before it exploded outwards, making Jake’s eyes open wide.
+
+A beam of pure destructive energy consumed the entire landscape, its diameter even larger than the Boglord itself. It reached the five frogs nearly instantly, but right before it could, space magic wrapped around all five as they were teleported a couple of thousand kilometers away and out of the range of the beam.
+
+The beam in question continued to ravage the land further than Jake could see, creating a massive circular scar far into the horizon. This attack continued for a couple of seconds before it subsided, and the flower on the Boglord slowly closed itself and merged back into the gigantic B-grade’s body.
+
+Far stronger than that Dragon’s Breath, Jake noted, entirely clear that even after his evolution, he didn’t want to be in the path of that attack. If he used everything, there was a chance he could maybe block it and come out alive the other end, but he saw no reason to risk something like that, considering how damn telegraphed the beam had been.
+
+Looking at the Boglord, this had clearly also taken a lot out of it. After the flower returned to its body, it only turned toward the five frogs for a moment before its body started sinking into the ocean-sized lake.
+
+Jake fully expected the five frogs to press their offensive, but instead, they struck Jake as relieved. They simply watched the Boglord enter the massive lake fully before they seemed to let down their guard.
+
+Weren’t they hunting it? Jake questioned in confusion. They had clearly been the attackers, yet they had given up so easily once the Boglord decided to retreat. Granted, based on the aura and power displayed by the Boglord, these frogs probably weren’t going to win, but facing an uphill challenge had never been a good argument not to try.
+
+Watching as the fighting had come to an end, Jake decided to approach the five frogs. At this point, he was way too curious to simply attack and much more interested in what was going on within this minor world. Plus, Jake wouldn’t want to attack five clearly sapient creatures who were already tired from a prior fight. That just didn’t fit his vibe.
+
+Jake purposefully stopped hiding himself as he flew towards the five frogs in a very obvious manner, keeping a steady and – at least in his opinion – unintimidating level of speed. Without Unseen Hunter, the frogs immediately spotted his approach, and instantly, they were back to being on guard.
+
+They seemed to communicate amongst themselves briefly as the three warriors went to the front, and two casters prepared in the back. Seeing this, Jake stopped approaching and held up his hands in front of his chest in what he hoped was a universal sign of non-aggression.
+
+“I’m not here to fight, just talk,” Jake said, infusing his voice with power to make sure it reached them, even through the less-than-friendly environment that seemed to even corrode sound. He was also betting on his Myriad Tongues skill doing its job, as he seriously doubted frogs from a sealed world that had likely never interacted with the rest of the multiverse spoke a language Jake was familiar with.
+
+The frogs turned to each other for a moment before the Shaman in the group spoke up... and did not at all sound like Jake had expected them to.
+
+“Excuse us for our suspicious disposition, stranger, but we find ourselves wholly unfamiliar with your visage and kin, and in such a scenario, we find prioritizing safety most wise,” the Shaman said in a voice that Jake could neither call male nor female, though if he had to guess, he would say it was a female. That wasn’t the surprising thing, though. It was the accent, which sounded so damn formal, that Jake almost expected the frog to pull out a cup of tea midway through talking.
+
+“That’s fair,” Jake responded, not even going to try mimicking their speech pattern to seem more approachable. “Allow me to introduce myself. I’m a hunter from the human race, in case you’ve heard about it, and I stumbled upon this scene of you fighting the Boglord. I’m new here, and seeing as the large fellow retreated, I decided to approach you five to hopefully gain some information about this world.”
+
+Jake saw no reason to hide much if he wanted to form a good relationship with these frog people. He also hoped he could elicit some involuntary information from them with his words, which he did immediately. They clearly had no idea what a human was, and seemed wholly confused when he said he was new and wanted information about this world.
+
+“If you desire information, I do believe we can reach a mutually beneficial agreement. I must readily admit that we find ourselves unfamiliar with your kind and the meaning of your words when you claim you are new to the world. Could you elaborate?” the Shaman asked.
+
+“I came from somewhere very different to here, somewhere incredibly far away,” Jake answered, not wanting to outright disclose they were inside a minor world, which had its entrance replace what was once Venus. “As for humans, we are many where I come from. However, in the same vein that you are unfamiliar with my kind, I have never encountered a Venusian before today, and would love to hear more about your race.”
+
+The frogs turned to consult with one another for a few moments before the Shaman turned back towards Jake and spoke.
+
+“Could you tell me how many companions you have ventured here with?”
+
+Clearly, they were scared Jake was hiding an army of something, a fear he would gladly put to rest.
+
+“I came alone,” he quickly answered.
+
+“Truly? No entourage?” the Shaman asked, almost with disbelief. “Traveling between islands isn’t safe in the best of circumstances. Are we perhaps mistaken to assume you have come here in a diplomatic capacity?”
+
+Yeah, okay, they had somehow ended up thinking Jake was some kind of diplomat. That did make Jake question how exactly diplomacy operated in this Venus world, but it also raised some very interesting points. First, the concept of diplomats existed in the first place, which had to mean that there were different factions or groups of sapient creatures capable of engaging in diplomacy. Which really begged another question... exactly how big was this Minor World?
+
+Jake knew there weren’t any set rules for just how large these Minor Worlds could be, and they were only really minor compared to real universes. In other words, they could easily be utterly massive, especially from a mortal’s perspective. Admittedly, Jake had assumed this place wouldn’t be that large, seeing as it had replaced a planet in his solar system, but now he was beginning to doubt that.
+
+After briefly collecting his thoughts, Jake answered the frog’s question.
+
+“No, I’m a lone wanderer out on adventure,” he said, knowing it would likely lead to one of two results.
+
+The best result would be that the frog people calmed down, knowing that he hadn’t come with some hidden army. Assuming they believed him, that is. As an individual, they also shouldn’t see him as that big of a threat, with Jake purposefully not hiding his level. From many prior interactions, he had learned that hiding his level was a top-tier way to put people on high alert.
+
+With the frogs calm, they would hopefully be open to a diplomatic conversation, allowing Jake to learn more about this world. Of course, it was also entirely possible the opposite would happen.
+
+Believing he was a lone, low-level person, it wasn’t out of the question that they would decide to simply get rid of him, not wishing to deal with the unknown. Or maybe they were just assholes who, despite their currently polite demeanor, really liked bullying people. Could be, seeing as they seemingly just wanted to try to beat up the Boglord a little before casually leaving.
+
+Time would tell what their response would be as the frogs talked amongst themselves, definitely giving off a confused vibe. After a few seconds, they turned back towards him, the Shaman remaining the speaker of their group.
+
+“Excuse our skepticism, but we find it highly improbable that a singular individual who is still in the very early stages of B-grade is traveling alone, especially seeing as you even dared venture between islands.”
+
+Okay, yeah, that was a fair point. It also told Jake that the empty space between these islands, wherein Jake hadn’t encountered a single thing, wasn’t actually devoid of dangers, but was perhaps worse than an island like this.
+
+“As I said, I’m entirely new to this place, and I’m unaware of the dangers that lurk here,” Jake said, really not sure how to convincingly get through to them that he was just a guy who liked to explore dangerous places.
+
+The frogs definitely weren’t buying it, and Jake reckoned he would have to display something to convince the frog people. For a moment, he considered unleashing his aura, but decided against that, as his goal wasn’t to scare them, but make it clear he wasn’t a threat... without actually making them realize that should they decide to kill him, he was very much a threat.
+
+“While I am indeed only in the very early stage of B-grade, I am rather proficient in staying safe when exploring unknown places. Do recall that despite me observing your battle with the Boglord, I only allowed you to be aware of my presence once the fight was done. When it comes to stealth and escape, I dare say that few can catch me,” Jake explained, not actually lying. If he wanted to, he was indeed very good at escaping, even if fighting was also totally an option.
+
+His words seemed to make the frogs think as they conversed a little longer, throwing glances at him here and there. Not too long after, the Shaman once more addressed Jake.
+
+“Okay, we have chosen to temporarily believe you are not here with any nefarious motives, but that does beg the question: what is your motive for coming here? Is it truly simple exploration, or do you have some grander objective in mind?” the Shaman asked another very valid question.
+
+“It’s truly just exploration; however, I will not hide from you that there is a good chance others like me will also come to this place, with my experience setting a strong precedent for how they may act here in the future,” Jake said, aware that what he said could definitely be viewed as a veiled threat.
+
+“I see, that makes me conclude that while your presence here is as an individual explorer, you may ultimately end up representing a greater force,” the Shaman nodded, thinking for a few moments before addressing him again. “With that in consideration, we would like to courteously extend an invitation to visit our home. I believe conversing there will be not only a lot more comfortable but also significantly safer.”
+
+Jake smiled beneath his mask, a little proud of himself for having successfully maneuvered this interaction into an outcome that wasn’t a fight. Granted, he had been lucky that the frog people were incredibly polite and friendly, while definitely also on the smarter side. A lot of these humanoid monsters who acted civilized turned out not to be, but these frog people definitely seemed well-developed socially.
+
+“I’ll gladly accept that invitation,” Jake said with a nod.
+
+“Excellent, now please, let us not speak with such space between one another anymore,” the Shaman said.
+
+Jake nodded and proved his words about being elusive true a second later, stepping down three times in quick succession, appearing right in front of the frogs, who seemed a little taken aback by his speed.
+
+“You certainly didn’t oversell your prowess in the movement arts,” the Shaman said in a friendly tone, bowing its head slightly. “I would speak more, but let us return first. I am certain the Oracle would be more than happy to personally meet you.”
+
+“Lead the way,” Jake said, definitely looking forward to seeing how these frogs lived. Oh, and if they had tea. Definitely sounded like they had tea.

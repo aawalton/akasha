@@ -1,0 +1,147 @@
+---
+id: fa015877-0fef-54e6-895b-3de0d62a0ed9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1329 - A Very Exciting Vote"
+slug: 0203-chapter-1329-a-very-exciting-vote
+partOf: the-primal-hunter
+position: 203
+ownLength: 2591
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3509827/chapter-1329-a-very-exciting-vote"
+royalRoadId: "3509827"
+---
+
+Initiating Challenge 2: Insight.
+
+Starting simulation. Your true body will be safeguarded within the Administrator’s Terrace during the challenge.
+
+The setting for the challenge has been randomly generated.
+
+Objective: Comprehend the nature of the object within the simulation. Duration: 1 day (24 hours).
+
+“Well, this is rather novel, if nothing else,” Miranda said as she stood beside Jake within the simulated world of the Insight challenge.
+
+The two of them were standing on a floating platform with furniture on it, floating in the middle of space. It was an entirely empty world, save for a single star-like object in the distance that radiated energy and concepts toward them, bathing the atmosphere in its mana.
+
+“Seems simple enough,” Jake nodded. “Just gotta test who can glean the most insights from that big glop of magic.”
+
+“Doesn’t appear very balanced to me. What if one party has existing insight into whatever concepts are chosen?” Miranda questioned.
+
+“Do you have any existing insight into whatever that thing is? Because I don’t, and I wouldn’t be surprised if the system purposefully selected something neither party had encountered before,” Jake shrugged. “In my opinion, this is by far the best kind of challenge.”
+
+“Because it massively favors having a high Perception stat?” Miranda asked with a deadpan expression.
+
+“It does? Damn, hadn’t realized,” Jake answered with a chuckle. “Oh well, may as well enjoy ourselves and figure out what this thing is all about.”
+
+“Sure, maybe there are benefits to be gained,” Miranda agreed as the two of them sat down on the provided furniture and got to work.
+
+Jake did take a moment to reflect on the nature of these simulations before he got started, though. He found it incredibly odd that he was acutely aware he was in a simulation, yet felt absolutely no tangible connection to his real body. Usually, when Jake found his consciousness transported elsewhere, he could still feel the immediate surroundings of his physical body, courtesy of Sphere, but within this simulation, he couldn’t at all.
+
+In some ways, it reminded him of the time he wandered to the Gate of Enlightenment for the first time. There was a far greater degree of separation, and Jake believed that the reason he “lost” his connection with his body was that even his Truesoul was coming along on the journey of consciousness.
+
+This raised whether these simulations transported his Truesoul into them, but he ultimately concluded that he had no way to know or find out. For all he knew, his current self within the simulated world was just a fully “real” clone that would replace his actual self once he returned to his physical body once more. Something he also wasn’t sure would make sense, as Jake felt like he would be able to detect that somehow with his Bloodline. Not that the system couldn’t also block him from realizing with his Bloodline, being omnipotent and all. Really, the more Jake thought about the nature of these simulations, the more Jake got a headache and resolved himself to not try to uncover any deeper secrets for now.
+
+Instead, he shifted his focus to comprehending the concepts of the massive floating orb of energy. Miranda also seemed hard at work, but, truthfully, Jake saw no world in which he could lose a competition like this as he closed his eyes and reached out with his senses towards the environment.
+
+Time passed quickly as Jake slowly gained a pretty solid understanding of the concepts, including the fact that this was truly just an artificial test. It was difficult to explain, but these concepts didn’t feel real at all. As if they relied on fundamental laws that didn’t exist in the actual multiverse, but could only exist in a test environment like this.
+
+That sadly also meant that there was nothing to be gained from this challenge. Not besides improving one’s ability to comprehend concepts, that is, but if Jake wanted to practice that, the Gate of Enlightenment was infinitely superior.
+
+When the day of the Challenge was up, the massive orb disappeared from the simulated realm, and a second later, a system notification popped up in front of Jake and Miranda.
+
+Evaluating the insights of participants.
+
+Congratulations on winning the Challenge. You have gained 1 vote.
+
+Votes available: 3
+
+In the next moment, they were back at the Seat of the Exalted Prima, where Miranda let out a sigh. “Really, not a fair competition. I actually tried, you know?”
+
+“So did I. For the most part, anyway,” Jake smiled. “Not that you missed anything.”
+
+“Yeah, the concepts displayed weren’t anything that could ever lead to real-world applications,” Miranda sighed. “Now go find your next victim for the other Challenges.”
+
+“Nah, I’m good,” Jake said, surprising the witch a little.
+
+“You don’t wanna try the others?” she asked skeptically.
+
+“Honestly? Not really,” Jake shook his head. “The simulations are all very simplistic, and I don’t see anything to be gained from them. Besides votes, but I don’t care to gather more of those either.”
+
+“Yet you had to challenge me so I’m out of votes?” Miranda looked at him admonishingly.
+
+“It’s fine, here, take it back,” Jake said as he mentally attempted to transfer a vote back to Miranda. It ended up being effortless as a system message popped up telling him he’d given her a single vote.
+
+“I wouldn’t recommend giving out votes... but thanks,” Miranda said with a smile before turning to Kindroth, who had been following their conversation with interest. “How about the two of us do a little Challenge? Of the Social variety.”
+
+“I could be convinced,” Kindroth smiled and nodded.
+
+Throughout the room, Jake also saw several other Challenges taking place. It wasn’t hard to see who was doing a Challenge, as they just stared blankly into thin air or had their eyes closed, even if the Challenges only lasted a few minutes at most. Even Miranda and Jake’s, which had taken a day within the simulation, had only been around a minute in the real world.
+
+Jake didn’t bother doing any more Challenges as he really didn’t see the benefit of doing so. He already believed he had an acceptable grasp of the nature of these simulations, and while it could be fun to fight a few of the people present, there weren’t really any he found worth fighting. William was the second-strongest person in the room, with the only close competitor being Miranda, but that was only when she had time to set up and do her weird witch magic.
+
+There technically was also Kindroth, but that guy was specialized in running away and not actually fighting, so Jake had no desire to waste his time with the elf. Instead, Jake decided to spend the day meditating, leaving all the social work to Miranda. All he had to do was sit there and look a bit menacing so no one would get any funny ideas.
+
+It was a bit unfortunate that Jake was surrounded by other people, as that made doing proper alchemy annoying, seeing as others didn’t tend to appreciate being poisoned by toxic fumes. That didn’t mean he couldn’t do any alchemy, though, as Jake decided to show off a little in front of the crowd while also stocking up on potions a little.
+
+Moving a bit away from the crowd, Jake caught a lot of attention as everyone was keeping an eye on what the terrifying Chosen of the Malefic Viper was doing. Not that he minded, as the more people saw his little alchemy session, the better.
+
+Once isolated, Jake held up his hand as he called forth his Supreme Alchemical Flame, not trying to hide what it was in the slightest. Through his sphere, he took in all the reactions, and it was instantly easy to spot the two other alchemists in the crowd as they immediately recognized the Supreme Soulflame for what it was.
+
+Others also slowly began to realize that the flame wasn’t simple, and fortunately, the few alchemists seemed glad to share their insights, meaning that, shortly, most people present knew what Jake was doing.
+
+That should hopefully only make it more impressive, as Jake used the Arcane Soulflame as a cauldron to start crafting some potions for his own use. He didn’t make a large cauldron, but purposefully kept it at a medium level that still produced roughly five times more potions than a regular cauldron, still making it an impressive feat. He could have gone bigger, but he still only had a day to craft, and the bigger the cauldron, the longer the brewing process, so he held back.
+
+Miranda was also done with her Challenge against Kindroth and gave Jake an approving look, making Jake feel more reassured as he started his crafting session. A few people looked on while others continued experimenting with Challenges, but the two alchemists present seemed glued to Jake, enthusiastically observing his crafting, despite likely not being able to get anything out of it.
+
+Like so, hours quickly passed as this system event definitely didn’t proceed as the system had probably intended. After only a couple of hours, most had also stopped bothering with Challenges, and those who wanted to do Challenges but ran out of votes simply had one transferred to them by those with excess.
+
+Towards the end, everyone ended up with one vote besides Jake and William, with Jake having two and William having zero. Jake did offer to give William back his vote, but the metal mage didn’t want it, and Jake wasn’t about to argue about giving someone back their own vote.
+
+A day was a relatively short time, and soon enough, one had passed, and it was time to finally stop sitting around doing nothing as the system popped up in front of them all.
+
+The first voting round of the Chief Administrator Selection will now begin. A Chief Administrator of the Milky Way Galaxy Seat of the Exalted Prima is successfully selected if a single Administrator gets more than 50% of the total votes. Voting is anonymous.
+
+Voting will last thirty (30) minutes. All votes not designated during this time will be considered abstains and still count toward the total number of votes.
+
+Votes remaining: 1
+
+Chief Administrator Candidates:
+
+Jake saw the long list of names under Chief Administrator Candidates, which surprisingly didn’t include all of them. William’s name was missing, but so were about a hundred others compared to what Jake would have expected. Were these perhaps the people who genuinely had no interest in this promotion?
+
+Most – hopefully all – those present knew they wouldn’t be selected and didn’t dare compete either, but if everyone else suddenly reneged on their claim, the majority were still willing to “step up” and take the position. He couldn’t be sure, but he assumed the missing names were those who wouldn’t step up even if they were forced to.
+
+Jake didn’t spend long selecting himself and noting, and from the looks of it, most people were quick on the trigger. A couple of minutes passed, which should really have been enough for everyone to finish voting, yet nothing happened.
+
+Well, I guess it doesn’t say voting will end once everyone has voted, Jake noted as he re-read the system message. So it was entirely possible they simply had to wait half an hour before getting the result. That, or someone refused to vote, which wouldn’t be that surprising either.
+
+There were bound to be people who didn’t like Jake yet didn’t dare speak up about it. He couldn’t blame them either, as Jake hadn’t done much to endear himself to the World Leaders of the galaxy, nor did he care to. Honestly, if a few wanted to protest by abstaining from voting for him, so be it. As long as it wasn’t more than half of those present who did so, things should work out fine.
+
+After his alchemy, Jake had joined Miranda and the others towards the middle of the crowd, and seeing as they were all just waiting anyway, Jake turned toward Kindroth.
+
+“Now, is this where you drop the mask and reveal your grand plan to take over the Seat of the Exalted Prima by accumulating votes in secret?” Jake asked in a joking manner, though he made sure his gaze wasn’t purely jest. Never could be too careful with these Holy Church-adjacent people.
+
+Kindroth was definitely taken by surprise as he threw a frightened look Jake’s way. “I’m not bold enough to try anything like that.”
+
+“You never know,” Jake shrugged. “I would have respected the attempt. Killed you, sure, but I’d have shown at least a tiny bit of respect.”
+
+“If I may speak frankly,” Kindroth said, definitely taking this a lot more seriously than Jake. “There is no evidence that any singular galaxy’s Seat of the Exalted Prima is superior to another, and there are many galaxies and many Seats. Throwing away my own life and entirely severing ties with you, the Order, and all those who support you, couldn’t possibly be worth a single galaxy’s Seat of the Exalted Prima.”
+
+“Even if claiming that Seat also entails excluding me from any future competitions amongst Chief Administrators?” Jake asked, leaning forward
+
+“Even then, it wouldn’t be worth it,” Kindroth sighed and shook his head. “Not like excluding you would in any way guarantee success for any other faction. All it would do is remove one of many favorites, and to remain candid, I’m not sure you’re the biggest favorite in this event. We don’t know if everything will be decided through combat, and even if it is, no one can ever guarantee success.”
+
+Jake met the elf’s gaze as he slowly nodded. “We’ll see. Though I can say that I’m starting to look forward to the next stage of this event.”
+
+Hopefully, it wouldn’t be as relaxed as this one, though, because it really wasn’t fun doing a system event where the conclusion was already known before it began. Actually, no, worse than that. There weren’t even any funny surprises or an interesting journey to reach the conclusion. Just a lot of waiting around and system mechanics that no one really had to interact with.
+
+He’d nearly hoped that Kindroth would try something just to make the event more interesting, but Jake was also happy the elf didn’t seem to have any plans like that. He had proven a valuable asset so far, and Miranda spoke of competency, so it would suck having to kill the guy for his betrayal.
+
+“If I may add something,” Miranda joined the conversation. “I feel like I would have to quit my current position if I had allowed Kindroth to influence more than half of the people present, not only to vote for him but also to perfectly hide their intentions to do so. It would be impressive, sure, but also a massive failure on my end.”
+
+“Guess we’ll find out if I’m truly a mastermind schemer or not shortly,” Kindroth chuckled, trying to lighten the mood a little. Jake also flashed him another smile that no one could see due to him wearing a mask, but hey, it was the thought that counted.
+
+The timer soon came to an end, and as the votes were counted, a single person had indeed gained more than half of the total votes to become the Chief Administrator of the Milky Way Galaxy.
+
+In an utterly shocking turn of events, the winner turned out to be...

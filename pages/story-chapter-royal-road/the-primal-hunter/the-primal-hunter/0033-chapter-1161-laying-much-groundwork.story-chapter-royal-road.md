@@ -1,0 +1,119 @@
+---
+id: 3da15847-db07-5713-8359-9805666ef343
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1161 - Laying Much Groundwork"
+slug: 0033-chapter-1161-laying-much-groundwork
+partOf: the-primal-hunter
+position: 33
+ownLength: 2513
+unit: words
+ownProgress: 2513
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2610242/chapter-1161-laying-much-groundwork"
+royalRoadId: "2610242"
+markedReadAt: "2026-06-29T19:30:18.461Z"
+---
+
+The pile of gemstones was perfectly balanced on top of the intricate magic circle that had been painstakingly carved beneath it. This was but one of over fifty piles that served as focal points for the massive formation that had been constructed in a vast cavern beneath a certain palace within the territory of the Pantheon of Life.
+
+It had been about a year and a half since Jake had agreed with Jasper that he would help the little fella evolve, and after spending the first three months researching, Jake had begun constructing the ritual circle.
+
+As for the cavern, well, Jasper preferred to be underground, and seeing as the cellar wasn’t big enough for what Jake was planning, he decided to do a minor home makeover by adding a cellar to the cellar.
+
+With permission, of course... though in truth, Artemis sounded like she didn’t give a shit even if Jake blew up the entire palace and constructed a magic circle on the bare mountaintop.
+
+The ritual was still not done yet, but Jake had made great progress and was quite confident in the design he’d gone for. The entire thing was a lot more personalized than when Jake had helped birth Vesperia or even helped the Demon Prince. He even had Jasper deciding where to play his piles of loot, and Jake then carving the focal points of the ritual circle beneath them.
+
+Was he confident it would work? Kind of. The thing is, there didn’t exist any ritual to do exactly what Jake was planning, as nobody else had his Primeval Origin Energy. He was limited in the wisdom he could borrow from the previous generations, but that didn’t mean he was entirely empty-handed. In fact, he’d based this entire ritual circle around two existing ones he’d haphazardly merged through the guidance of his gut feelings.
+
+The first one was a ritual circle used by Shimmerfur Warpsnatchers and the other variants of the species. More accurately, it was the ritual circle of a slightly weaker variant than Jasper that wasn’t able to absorb the Records and energy from the collected loot as easily, requiring them to construct an actual magic circle to assist.
+
+Second was a magic circle used by the Order of the Malefic Viper to try to pour Records into others. It was, to be perfectly honest, a really fucked up ritual. Its most common use case was to try to force Records into slaves or prisoners just to see the results. Forceful Record infusion wasn’t really a thing in the multiverse, as it always led to horrible results and ruined people’s Paths when it was done. A bit similar to when Jake had the “opportunity” to turn into a Malefic Dragonkin back in the day, or even the Demon Prince.
+
+In those instances, it had worked out, but that was the exception, not the rule. Of course, Jake wouldn’t try to force a bunch of Records into Jasper, but just needed aspects of this ritual to allow himself to infuse the loot piles spread out in the place.
+
+That’s right, Jake wasn’t actually planning on injecting Jasper with the Primeval Origin Energy directly. Instead, he wanted to funnel it through the loot piles, absorb the energies and Records from those, and then allow Jasper to absorb it.
+
+He’d even talked with the little bugger about this after the Warpsnatcher reached peak C-grade and finally got his evolution quest. The quest had been exactly as expected, and honestly... it was a slam dunk for what Jake was trying to do.
+
+Jasper’s evolution quest required him to gather a sufficient treasure hoard and absorb all the energy and Records from what was gathered. Apparently, this kind of evolution quest wasn’t all that uncommon, especially not for monsters walking a Path like Jasper or Sandy, who were all about natural treasures rather than fighting.
+
+This being the evolution quest meant Jake would effectively just be adding his own flavor to the entire process. It truly was lucky, seeing as this was Jake’s first attempt at trying to infuse energy into a monster semi-directly.
+
+It was kind of a middle step between infusing a core with Primeval Origin Energy and having the monster absorb it and infusing the energy directly into their bodies. If this ritual went well, an even more direct infusion would be next.
+
+However, there was one problem... Jasper wasn’t ready to evolve yet. Due to the Warpsnatcher mainly chilling after getting to Jake’s place and being from a less-than-ideal Hunting Ground before that, the accumulated hoard wasn’t good enough yet. At least Jasper wasn’t satisfied.
+
+That’s why the Warpsnatcher had spent nearly a year coming and going with new treasures. Artemis had kindly provided Jake with a token for the little guy, and once more, Jasper had shown that while he still wasn’t super good at talking, he wasn’t stupid.
+
+He instantly understood how the teleportation gateways worked and, with an information crystal outlining the general geography and power levels of the Great Planet, began to actively use them to jump around it to find suitable loot-gathering spots.
+
+Needless the say, the resources on a Great Planet were vastly superior to a Hunting Ground, and while it was certainly also more dangerous, Warpsnatchers were notoriously elusive and good at running away. Every time Jasper returned, Jake would hear stories from the little thief, the most impressive ones being when Jasper managed to steal a treasure from under the nose of two mid-tier B-grades fighting.
+
+Also, no, Jake or others couldn’t help Jasper by donating to the loot piles. In the same vein that Jake would get nothing out of Villy or Artemis bringing him a half-dead B-grade for him to kill, Jasper would get nothing out of having loot handed to him.
+
+Anyhow, that was the state of Jake’s ritual circle project, and he was confident about being done with it before Jasper was ready. As for his other projects, things were also steadily progressing there.
+
+The bow was growing with every passing day, and Jake was working hard on creating his first epic rarity poison... well, his first one that didn’t appear only due to Malefic Viper’s Poison, anyway.
+
+Jake also already knew what kind of poison he wanted to make, and it was one unlike anything he’d made before. Actually, that wasn’t entirely accurate. Jake had made something similar once, though it had been with the help of Malefic Viper’s Poison and had happened during his fight with Minaga in Nevermore.
+
+There, he’d impromptu created the kind of poison he now wanted to purposefully make. As for the one he’d made back then?
+
+[Volatile Malefic Soulbane Poison (Ancient)]
+
+Nothing in the name mattered besides the “bane” portion, because it was that kind of poison Jake wanted to create. To clarify, bane poisons were an entire classification of poison, and the name bane was always paired with something else. Back in Nevermore, he had made a Soulbane poison, which was admittedly one as broad as could possibly be made.
+
+Bane poisons were toxins aimed at very specific things, or more accurately, at very specific Records. A bane poison would be far more effective than a regular toxin on its specified target, while it would have zero effect on anything else. In simpler terms, it was a way to focus all the energy of the poison.
+
+In some ways, it was a bit akin to the entire concept of scale and intensity. Rather than have the poison work on every target, one could empower it by having it only work on very specific ones.
+
+It wasn’t hard to guess, but Jake’s ultimate goal with working on this type of toxin was to create something he’d dreamed of making ever since he learned what bane poisons even were:
+
+Dragonbane.
+
+If Jake, being a poison archer, wanted to hunt down a dragon, he would naturally need his very own Dragonbane poison to go along with it. Of course, the process of actually making a bane poison wasn’t easy at all.
+
+First of all, it required materials from the monster in question. To put it another way, Jake needed parts of a dragon. Luckily, all of that could be purchased, much of it even from the Dragonflights themselves.
+
+Dragons were fully aware of just how overpowered they were as a species and actively capitalized on it by selling their bodies. They would purposefully infuse scales, blood, and even bones with their own Records and sell them off. Especially the Wildflight, which fortunately had a significant presence on the Great Planet, was well known for this.
+
+Sadly, there was one other minor issue with Jake’s plan… the difficulty of a bane poison tended to correspond to the power of the target. This is to say, if Jake wanted to make a Dragonbane poison, he would need to be quite decent at making bane poisons in the first place, and there was no shot his first bane ever could be Dragonbane.
+
+On the lucky side, Jake didn’t need to make a Dragonbane poison to upgrade his Concoct Poison skill to epic rarity. All bane poisons were epic rarity by default, so as long as he could make any version of it, he would be good.
+
+As for what bane poison Jake would make first, he’d already decided. All the books made two things clear, which both played into why he’d chosen this kind of bane. The first one was that the more familiar one was with the set of Records one wanted to target, the easier it was to make a bane poison for it.
+
+The second one was that it was universally agreed there was one bane poison easier to make than any others throughout the whole multiverse… Humanbane.
+
+Did learning that suck? Yes. Did it make sense that it was the easiest? Also yes. Oh, and to Jake’s relief, humanbane poison tended to kinda suck in its raw form, as it was still considered a very broad kind of toxin. Beastbane and Elementalbane were also both super easy, but even less effective than Humanbane poison. Oh yeah, Elfbane, Dwarfbane, and such were also considered on the easier side, but seeing as humans remained the most numerous of all the enlightened species, it was the easiest.
+
+This, combined with Jake being a, well, human, this option made the most sense for him to start out by making a Humanbane poison. Now, as for how it was going to actually make one… work in progress. Jake still had a lot of groundwork he had to get done before he could even begin his crafting attempts.
+
+Besides, he also had to dedicate a lot of time to meditating and reading the tome left by the First Sage, with the goal of upgrading his meditation skill while hopefully killing two birds with one stone by also fixing his Palate.
+
+On that front, Jake had a hard time saying how close he was to upgrading the skill. If he wanted to, upgrading Meditate to legendary rarity would be a breeze, but he was still reluctant to go ahead and just do it. He wanted it to at least be mythical right off the bat and to ensure that the version he created was future-proof. Also, there was a good chance that he would need it to be at least mythical if he wanted to use it to fix his Palate of the Malefic Viper.
+
+In all honesty, Jake kind of hoped he would just one day know he was ready to finally synthesize and combine all the knowledge he’d gained from the First Sage’s tome into a singular skill upgrade. Trusting his gut and doing things when it felt right to do so had rarely turned out badly, so the hope was he could just do that again.
+
+Now, if it wasn’t already clear, Jake was right now in a state of studying and not really creating. He did craft a little here and there when he wanted to test something for his poison research, but it was very little. That’s also why it had taken him more than one and a half years to get a single level in his profession.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 319 - Stat points allocated, +35 Free Points
+
+Compared to setting up and blasting a B-grade or two from orbit, leveling his profession was a lot harder and took a lot more time. There were bursts of experience here and there, but the most reliable and best way to level was still the slow and steady approach.
+
+Besides, Jake wasn’t actually annoyed at not having gained more levels. One more and he would reach level 320, which would grant him another skill selection. The more research and the more Records Jake gathered before then, the better the options would be.
+
+Additionally, while experience points were low now, Jake was planting the seeds for a lot of levels once it was time to reap. Upon executing the Jasper ritual, he would definitely gain a lot. When he finally succeeded in creating his first bane poison and subsequently mass-produced it, he would more easily learn to make the other easy bane poisons, resulting in a significant increase in levels.
+
+Finally, there was one other thing Jake had wanted to do during this year and a half that he sadly didn’t get the opportunity to do… and that was actually to spend some quality time with Artemis.
+
+Seeing her was half the reason Jake had gone to the Pantheon of Life in the first place, so it sucked a bit that she only occasionally sent an avatar to talk or bring Jake somewhere. Even when she did that, it was clear she was distracted and her mind was somewhere entirely different when she was with Jake.
+
+Ultimately, Jake hadn’t addressed it, though. He respected that Artemis was busy dealing with her own stuff, and he even had a pretty good idea of what she was doing. Nature’s Attendant had also given a few scarce context clues here and there that made Jake more confident in his guess.
+
+If Jake was right, Artemis was currently preparing for a breakthrough of some kind. Likely to Godqueen. He already knew that whatever Villy had given him as a gift for Artemis was far from simple, and it wouldn’t be a surprise if that item was what she was currently busy assimilating with her true body. If that was indeed the case, it would make a lot of sense why she couldn’t dedicate a lot of mental energy to anything else.
+
+She was still around now and then, though, and she remained insistent on wanting some level of involvement with Jasper’s ritual. Her level of involvement likely wouldn’t go beyond being present for it, but she seemed happy enough with that.
+
+So… yeah, Jake had a generally calm time studying, only occasionally interrupted by Miranda telling him about what sounded like a much more stressful situation back on Earth.

@@ -1,0 +1,143 @@
+---
+id: 7f19c41f-e41e-53ea-b4ea-e66345b82f40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1151 - A Life of Two Masks"
+slug: 0023-chapter-1151-a-life-of-two-masks
+partOf: the-primal-hunter
+position: 23
+ownLength: 2813
+unit: words
+ownProgress: 2813
+publishedAt: 2025-08-14
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2517869/chapter-1151-a-life-of-two-masks"
+royalRoadId: "2517869"
+markedReadAt: "2026-06-29T19:29:59.090Z"
+---
+
+Jake kept watching as the newly renamed Golden Forest King slowly lowered himself to the ground, the control of his own energy a bit wobbly. Energy was still pulsing throughout the Unique Lifeform’s recently formed body, as it seemingly took a few moments for it and the mask to fully become one.
+
+Only a moment, though, as soon the King landed on the grassy ground softly. Artemis and Yggdrasil had both taken a step back, allowing just Jake and the Unique Lifeform to have their little reunion.
+
+The wisps of consciousness settled on Jake as he felt the Unique Lifeform still adapting to everything, but once he was confident his former Nevermore teammate could hear and understand him, he really couldn’t help himself.
+
+“Man, are you lazy or what? You’re hopelessly behind in levels. What have you even been doing while dead?” Jake said, crossing his arms and shaking his head.
+
+“I’m more surprised seeing you’ve managed to get any levels at all as the last time we met, you were still lazing around, wallowing in your own stupidity after severely injuring your soul,” the familiar voice of the King echoed in Jake’s head, making him smile.
+
+A part of him had still been afraid that the creature brought back wouldn’t truly be the arrogant asshole he knew. However, seeing as the King’s massive ego couldn’t even give Jake one joke after literally having a god help get him revived, it was definitely the same King as before, despite the changed name.
+
+Speaking of...
+
+“What’s up with the name change? Look, I’m not saying you can’t change your name, but you’ve already had three in the brief period I’ve known you, and if you keep up this pattern, you’ll have hundreds if not thousands by the time you fail your ascension to godhood,” Jake fired back with a smile.
+
+“I only change my name as a result of very important events. Dying to you and subsequently finding myself bound to you like a slave was certainly worth changing it to remind myself of my own stupidity,” the former Fallen King said. “In the same vein, it’s certainly an equally massive event when I finally manage to rid myself of the chain around my soul.”
+
+“Doesn’t really explain the name,” Jake shrugged, not offended at all that the King was happy to be free of him. In fact, it was a sentiment he very much reciprocated.
+
+Even if the connection had been somewhat useful at times, it was still an overall negative, in Jake’s opinion. He fundamentally opposed what it presented, and while Jake never took advantage of it, the mere fact that he could was enough for him to hate its existence.
+
+He also knew that the King despised it even more than Jake did, and for good reason. Jake also knew that the King would have done borderline anything to get rid of the chain holding him back, and that he’d spent much of his free time researching a solution.
+
+“I considered a few different names, but more important than my new name was to get rid of the old one. Forest was chosen because I’ve always felt a deep connection to the forest from a conceptual standpoint. A forest represents a domain of life for monsters of all kinds. It’s a facilitator of existence. This is the domain I proclaim myself king over. As for the Golden... well, the first thing I noticed after awakening in this new form was that my power of gold had increased in potency substantially, so it came naturally,” the King actually answered Jake’s question seriously.
+
+“Could have just gone with Golden King of the Forest, then,” Jake shrugged. “Would be a good callback to your original name.”
+
+“It wasn’t my original name and far from my first one. I also consciously wanted to avoid a name like that. Calling myself the King of the Forest signifies there’s only one forest for me to rule over,” the Golden Forest King said seriously. “Additionally... in the event of my ascension to godhood, my legacy skills would sound dumb. Something like Force Blast of the King of the Forest simply sounds far too silly and repetitive.”
+
+“Huh, never even fought about that,” Jake muttered. “But actually a pretty good point.”
+
+“Naturally. I plan on sticking with this name permanently,” the King said.
+
+“To be clear, I won’t think of you or refer to you as the Golden Forest King. Ever. Forest King you can have, but definitely gonna mentally ditch the Golden part,” Jake said, being his usual honest self.
+
+“I do not find myself surprised at learning that three words are too difficult for your mind to consistently put together. You’re truly lucky to find yourself the Chosen of the Malefic Viper and not a god with a longer name.”
+
+“Thinking about it more, it’s actually hard to find a peak-level god with a long name...” Jake muttered. All the Primordials had short official names, a lot of them even just one word.
+
+Turning to Artemis, whom both Jake and the King had expertly been ignoring until now, Jake asked a very serious question:
+
+“Is making your Legacy skills sound good part of the considerations gods make when deciding on a name?”
+
+Artemis threw Jake quite a glance as she sighed. “In my case, I’m just using my name. It’s also quite rare for gods to have chosen their own name, as they more often than not simply get assigned one, and the Records around that name eventually crystallize and give it actual power.”
+
+“Fair enough, but surely there have been gods who didn’t like their assigned titles and forced through something else?” Jake said, having a very hard time believing no god had been pissed off about what others called them.
+
+“There likely have been, but those forsaken names tend to be forgotten,” Artemis shrugged.
+
+“I do apologize for the hunter’s incessant need to sate his own curiosity,” the Forest King butted in as he bowed toward her. “This one greets Goddess Artemis, and I believe I also have you to thank for my revival.”
+
+“I was barely involved,” Artemis shook her head. “The Mother Tree and Jake were the ones behind everything.”
+
+“Your modesty is admirable. I know from personal experience that no task which involves interacting with the hunter for prolonged periods can possibly be described as easy,” the King said offensively before turning toward the dryad made by Yggdrasil. “I believe it is only proper to thank you once more. As I stand here, I feel your power echoing throughout my body, and I can only display gratitude for the vessel you created. It surpasses all expectations I could possibly have.”
+
+Yggdrasil looked at the King for a few moments before nodding. Jake didn’t know exactly what had just happened, but he got a strong feeling that the two had briefly spoken telepathically with one another, having a small private conversation that Yggdrasil seemed satisfied with the result of.
+
+Turning her attention toward Jake, the dryad lifted a hand as a mask appeared floating above it. “One soul, one identity, but two masks of roughly equal power. The one you’ve worn until now has returned to where it belongs on the vessel of the Unique Lifeform. This leaves the other mask. The mirror. While the connection between yourself and the Unique Lifeform has been severed, one between the masks still persists, and your ownership of this mask also cannot be called into question.”
+
+The mask, which looked just like the one Jake had before, slowly floated toward him as Yggdrasil kept speaking.
+
+“The original mirror mask was destroyed when the Unique Lifeform fell, but I reformed it and transferred many of the Records from the true mask into the mirror, and alongside that, the Soulbound connection you had to it. As the masks remained connected eternally, it shall grow in tandem with the Unique Lifeform, but in the event of your demise, rather than the Unique Lifeform suffering a disastrous injury to his soul, the mask will simply return to his possession.”
+
+Jake nodded, as he had a follow-up question.
+
+“What happens if the King decides to go and get himself killed again? Seeing as I’m walking around with the mirrored Truesoul and all.”
+
+“The mirrored Truesoul is made to be a conduit of power, and the Unique Lifeform can draw from it to regenerate himself once more. It stores a copy of the true him. However, dependent on the nature of the damage he takes that leads to his demise, you may find yourself in a situation where recovery will require powerful assistance from an outside force, not dissimilar to the way he was reconstituted the first time around.”
+
+“Alright,” Jake said, more or less having just wanted to have it be confirmed that the Forest King was still very much a cockroach that was hard to get rid of for good. He still wasn’t entirely sure about all the stuff about the Truesoul being mirrored and the two masks allowing the Unique Lifeform to technically have two souls and bodies at the same time, but he wasn’t going to question it too much. With the existence of creatures like Minaga out there, questioning anything related to Unique Lifeforms was a fool’s errand.
+
+Instead, he turned his attention toward the mask, which had floated over to him. Even up close, it looked exactly the same, but when he used Identify on it, he saw that the description had changed a fair bit.
+
+[Mask of the Golden Forest King (Unique)] – A mask containing the mirrored Truesoul of the Golden Forest King, a mighty Unique Lifeform. The mask is made from the wood of Yggdrasil using the Records of the Unique Lifeform. Due to its nature, the mask does not obstruct vision when worn, is near-indestructible, and regenerates from any damage it may take. The mirrored Truesoul and final intent of the Unique Lifeform reside within, drawing power from the true body of the Unique Lifeform, allowing this item to continue to grow in tandem with the Golden Forest King. When wearing this mask, all nobility-related abilities are significantly empowered. Enchantments: Mirrored Truesoul of the Golden Forest King. Passively absorbs mana in the atmosphere, increasing mana recovery rate by a large amount. Increases maximum mana by 25%. Requirements: Soulbound
+
+As Jake’s knowledge of what the mask contained had grown, so had the description seemingly changed. From Jake’s understanding, this was a trait of unique items and even skills. As there would only ever be one Mask of the Golden Forest King – at least only one that was wearable by anyone, not the Unique Lifeform – the description could be fluid. Not too dissimilar from Jake’s own Bloodline description.
+
+When it came to actual changes in the item’s effects, the only new thing was an effect empowering all of Jake’s nobility-based abilities. In other words, a completely useless bonus that Jake had no way to use. However, he wasn’t going to complain.
+
+He already knew that this mask remained his most overpowered piece of equipment by far. Having a mask capable of increasing his maximum mana by 25% was just an absolutely insane bonus that was impossible to find under any usual circumstances.
+
+What made it even better was that it came without any drawbacks. A skill like Anomalous Soul had also increased Jake’s maximum mana by 25%, but that had come at a cost. Having it meant Jake needed more experience points for every level, required better Records to get levels and evolve in the first place, and getting it hadn’t exactly been easy. Especially not the subsequent upgrades.
+
+Meanwhile, the mask had no downsides whatsoever. Instead, it even increased his mana regeneration by a notable degree when he wore it. It was an absolutely broken item that could only exist because of the Unique nature of the Unique Lifeform.
+
+Creating an arrow capable of giving a percentage increase in stats wasn’t very feasible. The amount of Records contained within an item tended to be limited by what the crafter was capable of during the time of crafting. Even if some weapons or other items could grow a little, this growth tended to be limited.
+
+Shit, Jake’s own Eternal Hunger was a bit the same. Right now, it could grow with him, but that was only because the original Records contained within had been enough to create a weapon fit for an A-grade. If Jake wanted to keep using Eternal Hunger all the way to S-grade and beyond, there was a good chance he would have to re-craft or improve it in some other qualitative way.
+
+The mask, on the other hand, would keep growing as long as the Forest King did. Sure, there was a possibility that the King would fail to evolve and the mask would eventually weaken, but Jake had a hard time seeing that happen. Especially not now.
+
+Usually, dying and being resurrected was a great way to fuck up one’s Path and corrupt one’s Records beyond recognition, making progress incredibly difficult. However, the King hadn’t truly died, and his resurrection had been quite the endeavour, involving several gods and even a Primordial. Overall, it was definitely something that could well and truly be called a fortunate encounter for the King.
+
+Reaching out and taking hold of the mask, Jake felt how even the wooden grooves were exactly the same as before. Without much hesitation, Jake took on the mask and fully bound it to himself once more.
+
+Instantly he felt the rush of energy as his mana pool expanded, and the mana in the environment began being subtly sucked towards him. The feeling was wonderful, and having the mask back on his face just felt right.
+
+Looking toward the Forest King, their gazes momentarily met, and the Unique Lifeform gave him a quick nod of approval, which was all Jake needed.
+
+“With this, I’ve done as was forepromised. My role here is done, and I shall trust Artemis to show you both out,” Yggdrasil said before turning to Jake. “Alongside the bow, I believe favors have been repaid.”
+
+“For sure,” Jake nodded, having never really felt like Yggdrasil owed him much in the first place. He had just been a courier who brought her some good stuff from Villy, and if she truly owed anyone, it had to be the snake god.
+
+With a final nod, Yggdrasil dispelled her dryad body as it turned into pure nature mana and became one with the environment once more. This left just Jake, Artemis, and the Forest King back still inside Yggdrasil’s Divine Realm... which technically meant Yggdrasil was still there, just not actively.
+
+“I will require some time to fully acclimate to my new body and ensure everything is as it should be,” the Forest King said as he moved his clawed hand up in front of his mask, opening and closing it a few times.
+
+“You do that at my place,” Jake said. “The Pantheon of Life gave me an entire palace with way too many rooms.”
+
+“Pantheon of Life... so that’s where we are,” the King nodded. “You’ve gone through quite the efforts to facilitate my resurrection.”
+
+“Would have felt like a dick if I hadn’t,” Jake shrugged.
+
+The King was silent for a moment before he spoke again. “I do have to make a confession. While the time and place it happened hadn’t been planned, and my demise had occurred earlier than I would have preferred, I had already intended to-“
+
+“I get it,” Jake held up a hand and interrupted him. “No fucking way all the puzzle pieces required for your return would have appeared that conveniently out of pure luck.”
+
+“Perhaps I had underestimated your intellect. Then again, I should not consider a statistical outlier a new standard,” the King said, sounding almost impressed. “But yes, my demise could have been considered halfway planned. Poorly planned, I came to learn from the Primordial. If I’d had more time, I would have likely seen the flaws... alas, I have no cause for complaint seeing the final result.”
+
+“Hey, glad it all worked out, though I would recommend avoiding dying again any time soon, as I don’t have any other Primordials owing me favors right now,” Jake said with a smile.
+
+“I’ll attempt to,” the King said, actually taking the well-deserved flak.
+
+Jake didn’t say anything more but just felt glad that the Unique Lifeform was back. It made him feel that at least some of the damage Ell’Hakan had done was now remedied, and made him feel slightly better about his failures in the past.
+
+He also knew that he wouldn’t be the only one happy to hear that the King had been revived, as it was definitely time for a proper Nevermore Party Reunion.

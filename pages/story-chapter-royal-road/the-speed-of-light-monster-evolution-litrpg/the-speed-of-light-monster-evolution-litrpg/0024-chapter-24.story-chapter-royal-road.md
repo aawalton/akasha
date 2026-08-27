@@ -1,0 +1,241 @@
+---
+id: 7fe5b9e7-f786-5eee-82f9-48b06a2ef59b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24"
+slug: 0024-chapter-24
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 24
+ownLength: 2640
+unit: words
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2606956/chapter-24"
+royalRoadId: "2606956"
+---
+
+Secretariat smiled back at Tachyon. He had finally checkmated her into showing him the respect he deserved as a Bestial God of the 1st Era. Known as the Eternal Wind, the Divine Stag, Pinnacle of the Era. His name was both feared and respected.
+
+Normally, he would have just turned this small young foal into a million pieces and scattered them to the wind without a second thought.
+
+However, he, like others, was in a predicament.
+
+The system was quicker to expand and introduce new Eras. This meant that new powers and anomalies were being brought into the system.
+
+And because of this, he needed to continue to improve. But this was where the problem lay.
+
+The gods of the 1st Era were strong, unimaginably so. The difference between a god from the 1st Era and one of the 2nd was night and day. To say every god of the 2nd Era would win against one of the 1st was a deceptively simple way of putting the fight that it would describe.
+
+Would those gods of the 2nd Era emerge victorious? Yes. Not even a 1st Era god could stand against over two hundred gods of the 2nd Era. But the casualties of the 2nd Era in such a fight would leave the 2nd Era in ruin. They would lose more than 90% of their Gods in such a fight.
+
+Looking down at the young foal, Secretariat’s smile cracked wider.
+
+His thoughts turned to the comparison. It was not the entire truth. Those who made that comparison only included the Human gods of the multiverse. Should one include the Bestial Gods into the equation, even if they added the 3rd and 4th Eras. Well, let us just conclude that it would still not be possible.
+
+And that was why he needed this young foal.
+
+Her power could not compare to even the E-Ranks he had seen as potential candidates. She had not gained many skills, relying on a single legendary skill to propel her forward. The number of titles she held was beyond small in comparison to a prodigy of her same level.
+
+Even still. Secretariat felt himself drawn to her. He had the faintest of thoughts that it could be her whimsical nature and desire for freedom. His own ambitions had started much the same, however, now, his path had gone in a different direction.
+
+But she, should she be nurtured properly, could help his own growth.
+
+By design, the Bestial Gods had become solitary creatures. Most, if not all, only respected strength and looked down on any weaker than them. Even with some being more peculiar than others, none had named someone as their chosen, like many of their human god counterparts.
+
+Every god of the 1st Era had worshipers across the multiverse and Secretariat was no exception. But now was the time for them to bring even further change to the already shifting winds. It was time for them to take a step further and name a chosen.
+
+This foal would act as that, or she would fall in this tutorial and allow for the other candidate to take her place. The only E-Rank in her tutorial, a hawk of little words but an extremely deadly personality that would, if chosen, at least be a challenge, should it make it to godhood.
+
+“So, then shall we proceed, young foal?” he asked, breaking from his long-winded thoughts.
+
+Tachyon nodded furiously, making sure to put the remaining food into her pink holding bag in fear of them being taken away.
+
+“Your challenge is to conquer the tutorial you are in. Defeat the one who holds the large Controlling Stone at the top of the mountain and hold it to the end. Do not impede the participants to the detriment of the sponsor. I may have the ability to intervene. However, should that child decide you are doing too much, he can and will remove you.”
+
+He looked into the distance for a moment, an amusing thought passing by, “Though… I do suppose you are a potential chosen of mine. Should you wish to stir up some trouble for that human, I would not be against it.”
+
+“A human sponsored the tutorial?” Tachyon asked, surprised.
+
+“Yes. He is quite the annoying one, but he should see that you are marked by me and know not to cause too much of a fuss directly.”
+
+Secretariat saw Tachyon snort and curl her lips.
+
+“What could he do that hasn’t already been done to me?” she laughed.
+
+“Yes, well, do be aware that I can not do much while you are inside the tutorial. But should you succeed in my challenge, I will receive you here once more.”
+
+His eyes went distant once more, returning the next moment with a difficult expression.
+
+“Gabriel awaits you on your home planet. Interesting…” he hummed before clicking his tongue, “It seems we are out of time. I will return you to the tutorial. Remember our discussion. I will be watching your progress with great interest.”
+
+“Wait, what about more snacks-”
+
+But Tachyon vanished before her complaint could be heard.
+
+Secretariat couldn’t help but smile. The foal had been disrespectful, but treated him as an equa,l even knowing he could quash her like a bug. He had experienced it many times and killed many because of it. But something was different this time. Had he had fun?
+
+Twenty-seven seconds… Truly, interesting. He thought before waving for the person hiding to come out.
+
+“Come out, Vira, there is no need for you to eavesdrop.”
+
+A woman in a white dress, green emerald eyes, and two horns spiraled backward of white ivory stepped out from behind a tree. Flowing white hair fluttered as she walked, as if the wind danced around her.
+
+“My lord. It never ceases to amaze that you can even see past my concealment.”
+
+“Ask what you are here for. I have had enough conversation for today,” he snapped.
+
+She bowed, “Yes, I just do not see the purpose of allowing a.. F-Rank into your realm and-”
+
+Her words were cut short by a vortex that raised her into the air. Despite her being an A-Rank Wind Drake, only one step away from S-Rank, and evolving into the prestigious Dragon race. She could not compete with Secretariat’s control over the element of wind.
+
+Should he choose, killing her would be child’s play, and he would hardly lift a finger.
+
+She was the eleventh-thousandth iteration of the head of the order of the Never Ending Wind. All of the ones before her succumbed to the same mistake.
+
+Questioning their god on his odd decisions. Every single one had become confident in their own powers, reaching to their own peaks as they approached S-Rank. And by the stag’s nature, he had rarely entered the order or dealt with their matters hands-on. The hundreds of years he was absent allowed their own egos to grow.
+
+And each one was removed from their position after questioning him, right before they passed into S-Rank.
+
+Secretariat looked into Vira’s eyes.
+
+“Prepare your little community. I feel the winds changing. So I will allow you this one time to escape my base nature as I can not replace you on such short notice. Is that clear?”
+
+She coughed as she fell to the floor, bowing her head deeply, “Y-Yes, my lord. At once.”
+
+“Guardsman Gabriel.”
+
+Gabriel yawned, tilting back in his chair as his head turned in the direction of the voice.
+
+“Yes Luka? What is it now?” he asked.
+
+Walking with sharp clicks of her heels on the concrete, clipboard in hand, Luka turned it to him and pressed it to his face.
+
+“There is another incident that requires your attention. One city over is requesting aid in a recent monster evolution. They believe it is a D-Rank Horde type monster, undead, possibly blessed by the Grave Mother,” Luka explained, still rubbing the report into Gabriel’s face.
+
+“Alright, alright… I SAID ALRIGHT! Stop pushing that stupid thing in my face, will ya? Why are you still using this anyway? We have filing crystals now to communicate.”
+
+“Because there is nothing better than the feeling of writing on paper. The smell of the old world, not only on the reports, but books and maps. Everything! We must retain our roots. Not to mention I did not practice writing for so many years just to have it replaced by this system and its convenience!”
+
+“Okay! No more yelling, please. I have a hangover.”
+
+“You can’t get a hangover! You have a detoxification skill!”
+
+“How would you know that? Have you been stalking me?”
+
+“It is in your Guardsman profile! General-purpose skills are all listed for the convenience of first responders. They have to know what medication and spells will work on who and what will not. Have you not read the required classes for the year? It was clearly in the last folder given to us-”
+
+Gabriel raised his hand, completely done with the conversation. Righting himself on his chair, he got up and began walking toward the nearest teleportation crystal.
+
+“Don’t move my chair, got it. I’ve gotten sentimental,” he said, pointing to the white plastic chair.
+
+“You heard the Guardsman. While I think it is a waste of resources, maintain the perimeter here until we return,” Luka ordered, pointing to two men.
+
+“We..?” Gabriel sighed.
+
+“Yes, I am of course, accompanying you. I can’t have you slacking off out of sight now, can I?” she beamed.
+
+Gabriel replaced his cigarette, grabbed another from his pocket, and lit it. Continuing on and ignoring the woman following close behind.
+
+They moved through the city at a brisk but not abnormal pace. While Gabriel was C-Rank, Luka was still an F-Rank and would be left behind if he even attempted to speed ahead.
+
+“So,” he finally said as the teleporting building came into view, “Where exactly are we going again?”
+
+Luka pulled up her clipboard, flipping through some papers before replying.
+
+“We are headed to the city of Hawthorn, it is in the center of the continent. The city is known for-”
+
+“No, no, none of that. Just the name is all I needed…”
+
+Luka’s face turned into a pout but she flipped the papers back into place, continuing to follow Gabriel into the building.
+
+Once they arrived, a quick exchange with the receptionist allowed them to skip the waiting line and teleport to their destination.
+
+The travel time was less than five minutes in total, and when they arrived at their new location in Hawthorn, Gabriel immediately was on guard.
+
+The city was still standing, however, the air was rancid and heavy.
+
+“Definitely at least D-Rank. The putrid stink is enough to- Ah, don’t pass out on me, Luka. I don’t want to have to carry you,” he grumbled, passing her a necklace, “Put it on, it will help with the putrid miasma this thing is giving off. A rotting Aura is something I haven’t dealt with in quite some time.”
+
+Luka struggled somewhat to take the item from him, her hand wavering. So Gabriel pulled her close, putting the item on her neck himself to save time.
+
+Once it was there, Gabriel saw her perk up instantly and began walking out of the building.
+
+Outside the building, a group of local adventurers and guardsmen met them.
+
+“Are you the reinforcements?” one of the men asked desperately.
+
+“I might be? Who are you?” Gabriel asked.
+
+“Pancho, the head guardsman here. From your attitude, I suspect you are Gabriel? Thank god they sent a C-Rank! It has been a mess. The monster was originally an E-Rank, but the adventurers were unable to kill it because of mixed information.”
+
+Gabriel frowned as he heard Pancho’s explanation. One, because he didn’t really care. And two, because he had seen this happen many times over the years. People hunting monsters above their level was the norm. It was a good way to obtain items, materials, and experience. But in doing so, some became too complacent and ended up becoming that for the monsters.
+
+“Right, so where is the thing?” he asked in an annoyed tone.
+
+Pancho pointed to indicate the direction.
+
+“About ten miles that way. It’s holding up outside a dungeon entrance.”
+
+“Okay,” Gabriel affirmed, nodding his head and scooping up Luka in one arm like he was carrying laundry.
+
+“W-What are you doing?!” she yelped.
+
+“No time to wait for you if you want to come. If it’s smart enough to wait outside a dungeon for people to come out, it’s already getting out of hand. Hold on tight, don’t bite your tongue.”
+
+Gabriel’s feet gripped the earth as she pushed forward, he and Luka rocketing forward as the ground cratered below them.
+
+He shot out from the city, putting it behind them in an instant and clearing a significant distance before they landed on the ground with a crash. Luka’s clothes and hair became disheveled, however, as soon as they touched down, Gabriel took another stride.
+
+His steps propelled them forward with a bang as he broke through the sound barrier, the trees and foliage around him bending backward from the force.
+
+Luka was forced to keep her mouth and eyes closed, unable to even scream, before they came to an abrupt stop and she dared to crack them open.
+
+When she did, she wished she hadn’t.
+
+Standing in front of them amidst purple, low-hanging mist was an army of the dead.
+
+“L-L-Lich?!” she cried.
+
+Gabriel released her as she plopped on the ground before scrambling backward.
+
+Raising his hand and pointing it in her direction, she was suddenly surrounded by a white sphere of mana. The air inside the sphere was pristine, and instantly, the surroundings became calming.
+
+“Stay there, so long as the Lich doesn’t attack you, the barrier will hold up against the small fry.”
+
+Gabriel walked toward the horde of undead. A mix of skeletons, zombies, risen monsters, and the like.
+
+Drawing his sword and tapping it against his shoulder, he spread out his Aura to find the Lich quickly. As he expected, the monster waded in the middle of the pack. For protection and to obscure itself from Aura attacks.
+
+Unfortunately for it, Gabriel was specialized for things like large-scale battle.
+
+He zoned in on the Lich, identifying it.
+
+Moon Touched Lich Level 130
+
+“It’s been busy. You’re a good ways into D-Rank,” Gabriel sighed, “Must have killed quite a few people to get there.”
+
+Gabriel spread out his Sword Singer’s Aura to the fullest, blanketing the area in a peak C-Rank’s power.
+
+Instantly, the purple miasma vanished. Every undead besides the Lich fell to the ground in a heap as kill notifications filled Gabriel's vision and ears.
+
+He took his free hand, digging into his ear.
+
+“Noisy thing for such weak monsters.”
+
+With the pack of undead gone, the Lich zeroed in on Gabriel, its eyes turning to panic. Of course it would. Gabriel had just wiped out years of it gathering undead in a single moment, with nothing but his sheer will.
+
+“I am the Guardsman Gabriel,” he said, pointing his blade at the Lich, “I am here to kill you. Any last words? I assume you can speak, so no sense in hiding it.”
+
+The Lich’s mouth cracked open, “Allow me to leave.”
+
+It raised its hand, a mountain of jewels and trinkets bathing the ground in gold, silver, and other valuables.
+
+However, Gabriel smirked.
+
+“Getting loot from monsters is standard. No deal.”
+
+Gabriel’s sword hand raised, a smoke-like white light suddenly enveloping the blade.
+
+“Arch Angel’s Retribution.”
+
+Gabriel vanished, appearing a split second later behind the Lich, his blade already sheathed.
+
+“Nothing personal, you just got unlucky, you interrupted my leisure time. Tell the Grave Mother when you see her. The Fallen Angel is still here.”

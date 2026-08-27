@@ -1,0 +1,133 @@
+---
+id: 47560165-7371-5ef2-b138-851bd3dae83c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1162 - Change"
+slug: 0034-chapter-1162-change
+partOf: the-primal-hunter
+position: 34
+ownLength: 2634
+unit: words
+ownProgress: 2634
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2612920/chapter-1162-change"
+royalRoadId: "2612920"
+markedReadAt: "2026-06-29T19:30:20.376Z"
+---
+
+Change was the greatest impetus for gaining new Records.
+
+Meanwhile, routine and habits were the enemy of progress. Regardless, everyone had to consistently challenge themselves and be willing to undergo some level of change.
+
+But... it was simply too easy to fall into a routine. Even unknowingly. For mortals, this was one of their biggest killers when someone finally found a chance to settle down and got complacent with their lives, and by the time they realized they needed to change something if they wanted to continue on their Path, it was too late.
+
+Gods were the same, except they didn’t have the cruel march of time chasing them to their deaths. This was both a boon and a curse in some ways, as it was very common for gods to live a life of habits simply as a result of their unlimited lifespans.
+
+A god could choose to sit down and meditate in the emptiness of space for ten eras in a row if they wanted to. Some even did things similar to that, especially those from the Dao Sect, all with the excuse of tempering their minds and wills.
+
+Not to speak badly about it, as it clearly worked for them. Especially when they returned to the world after their pilgrimage with a new perspective, and perhaps more importantly, even if they didn’t change much, the world would have.
+
+Additionally, the more entrenched in habit and everyday life one became, the more any form of change could lead to growth.
+
+That’s also why every integration was a massive opportunity for the gods to progress, as it was a wake-up call for nearly every god to get moving and do something. An integration was the biggest change the multiverse could undergo, and it introduced an entirely new universe of Records and experiences for the gods to participate in.
+
+Of course, the gods had to engage with the new universe actively to reap the greatest rewards. If they didn’t, they would still benefit a little, but far from as much as the gods actively taking part in the happenings of the newly integrated universe.
+
+This was also another argument for joining large factions, as a god would benefit and have an easy way to engage with the new universe through their faction. One of these ways was naturally through the mortals, with the most popular and effective way being to bless people and harvest Records from the exploits of the blessed.
+
+In fact, Blessings were a great way to get all new Records. The only problem was that these Records tended to be low in both quality and quantity compared to what a god needed. Even then, merely engaging with those one blessed on a regular basis allowed a god always to experience at least a bit of change here and there.
+
+There were many other ways to experience change and try new things, though most of them had negligible effects at best. The benefits tended to be barely worth the time invested, and it was likely just done as a favor for someone.
+
+One of the examples of a minor thing a god could do to potentially give a bit of Records was helping out with a project of another god. This could take many forms, but one example that rarely yielded benefits was donating an image to a certain World Wonder.
+
+At least Artemis had never expected much from it. In fact, she’d only agreed as a favor to the Wyrmgod and due to how stuck she felt in her Path.
+
+Throughout the years, she’d gradually grown in power, passing through the Circles of Divinity and gaining more influence within the Pantheon of Life. However, she had been one step away from Godqueen for more than four eras now.
+
+Becoming a Godqueen wasn’t simply a question of getting another level, but of fully realizing one’s journey through the Circles of Divinity. It was a step many gods ended up struggling with, with Artemis being just one of them, even within the Pantheon of Life.
+
+For reference, the Pantheon of Life had under a hundred at the Godqueen level or above. Meanwhile, it had just about three thousand in the same situation as Artemis, sitting just a step below.
+
+Moreover, Artemis knew the difference was even worse in places like the Holy Church or among the Risen. Their rarity was one of the reasons why a Godqueen or Godking was a valuable asset of any top faction, but it was also proof that the god had the potential to go beyond the Circles of Divinity and become an Empyrean God.
+
+Artemis would be lying if she said she hadn’t been anxious about whether her Path would truly allow her to become a Godqueen, especially after it had been so long without any tangible progress.
+
+Sure, she’d improved, but there was no feedback on whether her improvement was taking her in the right direction or not, much less when it was enough. The way to become a Godqueen was to condense one’s Path, and one could continue improving while at the peak of the Circles of Divinity; however, based on the quality of the foundation, it became increasingly difficult.
+
+For at least the last two eras, she had felt in a limbo, treading water with barely any progress while just stuck in the same routines. Even with the new integration, she felt little change despite actively engaging with the new universe.
+
+It had seemed like yet another integration that wouldn’t do much for her... and then Jake happened.
+
+The actions of her image within Nevermore had set in motion something no version of Artemis could have predicted. However, a part of her wanted to believe that her image had sensed something back then. In a state where both of them were roughly equal in power, Artemis’ image had a perspective that the god version simply couldn’t have.
+
+Going to Nevermore right after getting the recording had been an impulsive —and perhaps even a little reckless —decision. Yet what happened there had been the first true sign of progress she’d felt in a long time. In a short span of time, she went from barely meeting her former Patron and Primordial of Life to sitting in a room with half of the Primordials in the multiverse present.
+
+There, she’d witnessed things she really shouldn’t have, including her first real encounter with Jake. Initially, she had a hard time understanding why the image had acted as it did... until the clash between Valdemar and Jake, that is.
+
+That was the first time Artemis began to understand. Feeling his aura, she felt her heart skip a beat, the same way she was certain her image had.
+
+At least in her eyes, and the eyes of many who had lived long lives and reached high grades, outward physical appearances didn’t matter. Monsters could change their own physical shapes to look however they wanted, for the most part, and the enlightened races strived toward forging their body in their most ideal selves. Someone looking good wasn’t even a factor in Artemis’ eyes when it came to attractiveness.
+
+One’s presence was what mattered instead. Everyone had their own unique presence and energy signature, and they all carried traces of the person’s Path and who they were as individuals. There wasn’t a type of presence and aura that everyone universally agreed was attractive, but what people liked varied heavily from person to person.
+
+Artemis liked Jake’s presence. She found it attractive, which was the first important step in wanting to get closer to someone. Luckily for her, he seemed to reciprocate that attraction, allowing them to move forward slowly.
+
+Attraction wasn’t enough to build anything meaningful, though, and Artemis knew that, which was why she’d wanted to take things slow in the first place. She wanted to get to know Jake while allowing him to know her, too. The fact that it had quickly turned into archery training was only a green flag in her eyes, and battle truly was a good way to get to know one another.
+
+The gift from the Malefic Viper also carried with it a heavy meaning. The mere fact that a Primordial had given him a gift specifically for her clearly communicated that he didn’t disapprove, but it also meant something else. In many ways, it was an equalizer.
+
+As a god, it was only natural that the relationship would be inherently one-sided. There were a myriad of ways she could help Jake, while he wouldn’t be able to do anything for her in return. At least not yet.
+
+Usually, the mere prospect of a relationship between a god and a mortal being equal was preposterous, as the mortal would never even be able to view himself as equal to the god. Jake was the opposite and couldn’t ever view himself as anything less than equal to someone else.
+
+Another green flag, by the way.
+
+The gift from the Malefic Viper had made clear this equality wasn’t only in feeling but in actions and what he could help her with. While it appeared accurate on the surface that Jake himself couldn’t do much for her, he had connections that could. Again, this notion seemed to be preposterous, as why would the Malefic Viper do something as silly as helping Jake help her? However, Jake had made it clear many times that he and the Malefic One weren’t merely Patron and Chosen, but genuine friends of equal standing.
+
+If any other mortal had said this, she would have expected to see them struck dead by divine punishment, but knowing Jake, she couldn’t even imagine it any other way. Granted, Artemis still had a hard time understanding why the Malefic One, a Primordial of immense power that she knew even the Mother Tree was wary of, would simply accept his friendship.
+
+Alas, it wasn’t something she wanted to question, and she definitely saw the appeal of being Jake’s friend.
+
+One of the things she’d learned about him was that while Jake usually seemed apathetic towards many things and didn’t want to get involved in annoying matters, that wasn’t the case if it involved his friends. Quite the opposite.
+
+Jake was frighteningly loyal to those he cared about, and he always paid back his debts. He’d invested a lot of time and opportunity cost by asking Yggdrasil to revive the Unique Lifeform, now known as the Golden Forest King, and in the process, had even given up control over a valuable asset. To others, it likely seemed silly, but Artemis wholeheartedly approved.
+
+The Warpsnatcher was another example. According to Jake, the little critter had helped him out once by allowing him to stay within his little underground cave while he was injured. While that was certainly something to be grateful for, it already felt like overkill to use his authority to pay the little guy back. What he was currently doing with the ritual was just downright disproportionate...
+
+But also another massive green flag.
+
+To Artemis, the concept of protecting one’s pack was incredibly important and a trait she valued a lot in others. From the brief conversations she had with Dina, he’d also been a pretty good Nevermore teammate and was skilled at watching out for others, even in combat.
+
+All of this is to say he had more than just an aura that she found attractive. He had some very good traits, which only made her curious to learn more about his personality. She’d expected this to take a long time, but it turned out to be quite the opposite, as understanding Jake’s personality wasn’t very complex.
+
+It nearly felt a bit mean to say, but from the time she’d spent with him, she learned that Jake was a very simple person. Not stupid, mind you, he just overcomplicated nothing and always preferred the simplest solution to any problem. Yet, despite this simplistic approach, his ability to comprehend complexity was quite frankly frightening.
+
+Alchemy was not an easy profession and was notorious for its complexity. Formations were also stupidly difficult and usually required long years of studying, and that was for mages who already specialized in creating their own magic, giving them an advantage.
+
+Yet, she’d seen that seemingly simple man combine two incredibly complex formations into one within less than two years. He wasn’t entirely done yet, but it was getting close. When he’d first mentioned his plan of doing so, Artemis had expected it to take at least a few decades, but instead, he’d started work on the actual formation only three months later.
+
+From that alone, Artemis couldn’t even begin to imagine what kind of mage he could become if that had been the Path he’d walked... actually, she could imagine just going by his skills as an alchemist, which were already at the apex of his generation.
+
+Artemis truly believed Jake had a good chance of making it to godhood, and he had all the traits required. She also genuinely hoped he would for her own selfish reasons.
+
+People spoke a lot about getting fortuitous encounters that allowed one to break through, and Artemis could only call meeting Jake one such encounter, if not the most serendipitous of her life so far.
+
+Now, she did feel bad about not being around as much in the last couple of years, but Jake’s impact on her life had simply been too big for her to delay matters. She also knew that Jake understood that at crucial times like this, one had to take full advantage or lose the opportunity.
+
+For so many years, Artemis never experienced proper change. Even when she tried not to, her mindset remained stuck in routine mode, and she’d been unable to break her habits.
+
+Jake had entered her life by kicking down the door and throwing everything into disarray, all while coming in carrying a massive basket of Records in one hand and a treasure from the Malefic Viper in the other. He had not only broken her out of the state of stagnation she’d found herself in but given her the tools to not merely start moving forward but start sprinting toward her next breakthrough.
+
+It was almost funny to consider that any kind of relationship between the two would be one-sided and only benefit Jake, because right now, Artemis felt it was quite the opposite, and that was without even factoring in the gift given by the Malefic Viper.
+
+He had given her the momentum she’d lost and brought about the change she’d needed, and on that particular day, roughly two years after Jake began working on the ritual for the Warpsnatcher, she felt it was time.
+
+Sitting within her Divine Realm, she had already recalled all avatars to focus every shred of her attention on what was to come. Artemis had thought she would find herself nervous in such a crucial moment, but instead, she was surprisingly calm and confident.
+
+Admittedly, her confidence was helped along by the item she summoned next.
+
+A small bottle appeared in her hand, filled with a liquid Artemis could not see through. It was an item that surpassed the confines of regular rarities. A genuine Transcendent rarity item. Artemis had never even imagined holding an item of such power before meeting Jake, much less being given one specifically made for her.
+
+Without any further hesitation, Artemis opened it and consumed the liquid within. It had no taste, but as it entered her body, she felt it merge directly with her soul. Her entire Divine Realm began shaking next as Artemis was flooded with power and an odd sense of absolute calmness.
+
+There was no doubt left as Artemis fully intended to grant the Pantheon of Life another Godqueen that day.

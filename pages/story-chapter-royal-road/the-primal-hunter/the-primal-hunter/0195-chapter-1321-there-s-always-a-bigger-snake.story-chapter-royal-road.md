@@ -1,0 +1,139 @@
+---
+id: 0bef7463-286d-58e4-b63c-42d82203e38f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1321 - There's Always A Bigger Snake"
+slug: 0195-chapter-1321-there-s-always-a-bigger-snake
+partOf: the-primal-hunter
+position: 195
+ownLength: 2614
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3453694/chapter-1321-theres-always-a-bigger-snake"
+royalRoadId: "3453694"
+---
+
+The feeling was utterly unsettling as the Great Sea Serpent felt his consciousness shift. He knew he could resist, and perhaps he logically should have, but his instincts screamed at him that it wasn’t truly an option. That if he did so, it would irrevocably damage his future.
+
+When awareness returned, the peak A-grade found himself floating in a gray, empty world of nothingness. His body had not physically moved, but felt as if parts of his soul certainly had, making this trip not entirely safe. Not that he was confident it would have been safe even if he’d merely projected an image, as the Great Sea Serpent truthfully had no idea what he was dealing with.
+
+All he knew was that it was beyond his comprehension.
+
+As his senses adapted to his newfound environment, he immediately detected how foreign it was. Concepts he’d never encountered before dominated the atmosphere, but what surprised him the most was that all of it seemed to hold some kind of innate intent. There was no environmental energy anywhere, at least not as the Great Sea Serpent knew it. Instead, he knew this world was created. Manifested by some greater entity.
+
+The Great Sea Serpent also felt thankful he was not truly there, for if he had been, his entire form would already have been consumed and turned to dust. The level of toxicity all around him exceeded even the deepest depths of the ocean and was something not a single creature in his origin world, past or present, could resist for even a breath.
+
+Looking around, the world itself appeared barren, an endless field of stone and dust extending in all directions. All colors appeared partly muted, as if the concept itself were being corroded away, and looking up, the sky appeared to be an endless, faintly dark-green mass.
+
+Just then, as the Great Sea Serpent was still trying to understand this world as best he could, three words seemed to echo throughout all of existence.
+
+“You did well.”
+
+Three words, but they reverberated throughout his entire soul, shaking the Great Sea Serpent down to what felt like the core of his existence. An inexplicable sense of happiness and pride from being recognized by this being welled up from within, and the Great Sea Serpent lowered his head in reverence before even realizing he had done so.
+
+The words had such an impact that the serpent didn’t even realize the green radiance that filled the world as the words were spoken. Fortunately, the presence did not speak again immediately, but let the Great Sea Serpent regain his bearings as he finally managed to raise his gaze upwards towards the source of the light.
+
+When he saw the green-glowing sky, he immediately realized what he was looking at. In a scene reminiscent of his own appearance at the Boundary with the Arachnecs and Venusians, the A-grade was looking up at an eye infinitely larger than even his body at full size.
+
+What’s more, these eyes radiated a power and a presence that made a word appear in the Great Sea Serpent’s mind. A word with a meaning he had not been familiar with mere moments ago.
+
+Forefather.
+
+It was his instincts that let the Great Sea Serpent know who or what he was faced with. He felt like a small snake before this being, as if he were back in his early days, living in the relatively safe underground caves on the islands towards the peak of his world, where the toxins were less intense. Back to the days when everything was a threat, and the world felt like a dangerous place.
+
+For the last two hundred thousand years, the Great Sea Serpent had been near or at the apex of existence. While there were other entities within his world that could battle him, none could truly threaten him. Their clashes would end in ties or with one side suffering minor losses, making them retreat. All three creatures considered at the apex of the world used toxins as their primary weapon, meaning their attacks tended to be rather ineffective on one another, making fighting mostly a waste of time. Fear was thus a very foreign emotion that he’d nearly forgotten the feeling of.
+
+Yet at this moment, he felt a fear unlike anything he’d experienced. At the same time, he also felt reverence, anticipation, kinship, and so many other emotions he failed to fully comprehend. It was an utterly overwhelming experience, and the Great Sea Serpent lowered his head once more, not daring to raise it in the presence of this world’s creator.
+
+At the same time, he felt as if some kind of response to the earlier words was expected. Even so, he had no idea what to say for several seconds before finally mustering some kind of response he didn’t even know he was still capable of formulating after being considered a ruler of his world for so many years.
+
+“I... I’m unworthy.”
+
+What little intent and power the Great Sea Serpent usually infused into his voice were gone, washed away by the overwhelming presence that passively dominated everything. His only hope was that his words didn’t offend the entity that had granted him this audience.
+
+“You are, but that doesn’t change the fact that you did well. Did as I intended you to. For the most part, anyway, but I’m not one to expect perfection.”
+
+Once more, the Great Sea Serpent felt a rush of gratitude after being recognized for his contribution. But at the same time, he was perplexed. After some of the shock from this encounter had lessened, the A-grade had time to consider the situation more closely, and some things just didn’t make much sense.
+
+Why would an entity like this have even a fraction of care for whatever was going on within the Great Sea Serpent’s world? It was so far beneath such a being. It would be like the Great Sea Serpent caring about the happenings within a small cave on an island. Inconsequential and irrelevant.
+
+Yet this entity had cared. Something he wanted to question, but didn’t dare to, as who was he to even ask a being like this anything?
+
+“I don’t care about your world,” the entity answered, having seemingly read the Great Sea Serpent’s mind. “I don’t usually care about the dealings of mortals. However, I do happen to care about this particular mortal.”
+
+The Great Sea Serpent had known that the human had been the reason why this being had gotten involved in the first place, but that didn’t mean he understood why. In fact, having it confirmed only confused him further. The human was just a B-grade, someone considered weak even within the serpent’s world. Meanwhile, this being was incomprehensibly powerful.
+
+“Your understanding is not required. All that matters is that you can prove useful to me.”
+
+His eyes opened wide when the Great Sea Serpent heard those words. Prove useful. Future tense. The mighty being was offering the possibility of allowing the serpent to continue serving someone he now recognized as his Forefather. A being that he instinctively felt as if he owed at least part of his existence to.
+
+“How may I serve?” the Great Sea Serpent asked without any hesitation, wanting to grasp at this opportunity as hard as he could.
+
+“Protect my Chosen. Do his bidding, for he speaks with my authority. In return, I shall grant you my Blessing to help you conquer this world and prepare it for what my Chosen intends to do with it.”
+
+The Great Sea Serpent remained flummoxed about why the human was so important, but as the great being said, did the serpent truly need to understand? Could he understand the mind of someone unquestionably his superior in every way imaginable? Even thinking it was possible seemed arrogant to the extreme, if not downright... blasphemous.
+
+Another word that the Great Sea Serpent only scarcely knew the meaning of, yet now it seemed oddly fitting.
+
+“I swear I will do my utmost,” the Great Sea Serpent agreed, having never even considered rejection as an option.
+
+“Good. Then go with my Blessing. Prove yourself worthy of it.”
+
+As the words echoed through the emptiness, a profound sensation descended upon the A-grade. The Great Sea Serpent felt a subtle shift within himself, as an unseen current of power surged through his ancient veins. He could sense the Blessing, not as a tangible force but as an instinctive certainty that he was now more than he had been a moment before.
+
+However, a quick check of his status menu confirmed it was indeed more than just a sensation. The Blessing had an actual slot in the status menu, showing clear proof and recognition by the system regarding the existence of gods. The description of the Blessing itself also told the serpent much.
+
+With the Blessing came certain knowledge and even a skill. The knowledge allowed the serpent to far better understand the being that had just blessed him, the existence of the Order, of Records, Paths, and much of what the human would refer to as common knowledge of the multiverse. All granted by the Malefic One, no doubt in an attempt to make the peak A-grade more useful and to fully understand the importance of this day.
+
+To understand how this very moment was a monumental shift in the Great Serpent’s Path.
+
+For a brief instant, the Great Sea Serpent considered the enormity of his new purpose. To protect the Chosen, to carry out his will, and to prepare the world for what was to come. The weight of responsibility pressed upon him, but it was tempered by the exhilarating promise of what was to come. Of the future that was now possible.
+
+Gathering himself, the Great Sea Serpent bowed his head in reverence, feeling the gaze of the entity linger upon him. He knew that from this moment onward, every action would be watched, every decision measured. Should he fail, punishment or perhaps retraction of the Blessing would follow, while should he do well, his new Patron could help him reach heights the serpent hadn’t even known existed mere days ago.
+
+It was all a lot to handle, and quite frankly, overwhelming. Yet, for the first time in memory, he welcomed the scrutiny of another being judging his every action. With renewed determination, he felt revitalized and almost young again as he looked to the future, now illuminated by purpose and the promise of an even greater Path.
+
+“I obey the will of the Malefic One.”
+
+“And I allow you to. Now go, you’ve had your promised reward, and if you perform as expected, may we meet again. You are rather talented to have reached your level of power within an isolated Minor World, so don’t disappoint by proving yourself unworthy of my recognition.”
+
+The Great Sea Serpent felt exhilarated at hearing the Malefic One recognizing his meager talents and was especially excited that it was even a possibility to have the honor of meeting his Patron once more.
+
+With determination, the Great Sea Serpent felt his mind slip away from the realm of the Malefic Viper, a changed snake from this brief, yet massively impactful, encounter.
+
+--
+
+Jake stood awkwardly with his hand still on the large snake’s body as he waited for something – anything – to happen. He could actively feel the Viper channeling himself using Jake as a medium to communicate with the Great Sea Serpent, but he had no way of knowing what was going on between the two of them.
+
+He assumed they were having a chat of some kind. Maybe sharing a beer? Eh, probably not. The serpent didn’t have any arms, and Villy wouldn’t possibly drink beer with a snake who couldn’t even hold a bottle properly.
+
+Knowing what was going on would be really nice, though, as Jake felt very weird just standing there as the seconds ticked by. After a minute, he felt tempted to reach out to Villy or just take his hand back, but he didn’t want to disturb the two of them either, making him wait patiently for them to finish.
+
+Finally, after what felt like an eternity, Jake felt Villy stop channeling himself through him, and on cue, the Great Sea Serpent slowly opened his eyes.
+
+The peak A-grade took a moment to fully orient himself, probably needing a bit after meeting Villy. Jake had been told it could be quite an overwhelming experience encountering a god for the first time, especially a Primordial. He couldn’t quite relate, but he understood that it was a thing. Oh, and he did take a second to use Identify on the snake again, finding himself a bit surprised at the result.
+
+[Great Sea Serpent – lvl ??? – Divine Blessing of the Malefic Viper]
+
+Jake had not expected to see a Divine Blessing, knowing those weren’t exactly cheap for Villy to hand out. It was just one step below a True Blessing, and while the step was the size of a mountain, it was still the second-highest Blessing a god could hand out. This signified that Villy either really recognized the talents of the Great Sea Serpent, or the serpent was a damn excellent negotiator, getting a proper reward for having helped Jake. Either way, good for the serpent, and hopefully, it would mean they were now more closely aligned.
+
+After about two seconds, the massive serpent finally lowered its gaze towards Jake, who was unsure what would happen next. Ideally, the snake would now have a friendlier demeanor, and it wouldn’t be a battle of wits anymore, as, quite frankly, there was no way Jake was ever going to win one of those.
+
+However, that didn’t mean Jake could let his guard down, and in the worst-case scenario, he just had to stall until he could leave for the Seat of the Exalted Prima. Hopefully, Villy’s interaction with the serpent had at least allowed that to be a possibility.
+
+Jake steeled himself and was ready... yet he didn’t at all expect the serpent’s first action.
+
+The Great Sea Serpent, peak A-grade and one of the most powerful beings in the Minor World, lowered its head to the ground as he spoke in a voice that seemed far less powerful than before.
+
+“I humbly apologize for not recognizing the importance of the Chosen of the Malefic One before, and ask that you forgive my transgressions and disrespect,” the serpent said in a voice that sounded genuinely apologetic, making Jake momentarily question if this was some kind of trick.
+
+“It’s fine, you didn’t truly know,” Jake said, not sure how to respond, but with the way the A-grade looked at him, the situation would definitely have been awkward if he didn’t say anything.
+
+“If the Chosen allows it, I shall do my utmost to make up for my shortcomings,” the Great Sea Serpent said, slightly raising its head. “As per the will of the Malefic One, I shall be under your charge as long as that honor befalls me.”
+
+Jake stared at the snake for a few seconds as he questioned what the fuck kind of experience the poor A-grade had gone through to change this much in such a short time.
+
+He still wasn’t sure what exactly to say or do as the Great Sea Serpent followed up, sounding almost excited.
+
+“I know I’m inadequate, but I shall make it possible, and by your will, conquer this world and bring all its inhabitants under your dominion.”
+
+Jake stared even harder as he screamed internally. Since when the fuck was I planning to do that?!

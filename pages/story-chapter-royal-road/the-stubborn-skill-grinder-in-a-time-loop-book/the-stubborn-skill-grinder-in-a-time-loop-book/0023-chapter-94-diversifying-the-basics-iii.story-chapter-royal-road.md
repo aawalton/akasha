@@ -1,0 +1,1053 @@
+---
+id: f7aa8a6c-bf24-5d87-936c-1282925f5341
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94 - Diversifying the Basics III"
+slug: 0023-chapter-94-diversifying-the-basics-iii
+partOf: the-stubborn-skill-grinder-in-a-time-loop-book
+position: 23
+ownLength: 17178
+unit: words
+ownProgress: 17178
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2579689/chapter-94-diversifying-the-basics-iii"
+royalRoadId: "2579689"
+markedReadAt: "2026-06-29T20:04:48.482Z"
+---
+
+More than just the mortal races coveted energy wells. Monsters, flora and fauna did so as well. Which meant that Anthus, a city built around one, was subject to round-the-clock assault by all manner of creature seeking a spot of residence within such a prized habitat. By all accounts, it was a noisy affair.
+
+Or… it should have been a noisy affair. The current lack of monsters near the city’s west wall and the shocked silence which followed Orodan’s very straightforward proclamation were entirely abnormal.
+
+And it didn’t take long for the shocked mutters to start popping up.
+
+“A… a time loop?”
+
+“Overthrowing the Republic? Is master Destartes a traitor?”
+
+“H-how does this man know?”
+
+Needless to say, operational secrecy was paramount for the conspirators. And not every rank-and-file soldier upon the walls who’d heard his booming voice knew of the hidden plot. But among those that had… some were privy to what Lieutenant-General Tegin Carrotfoot of Anthus was planning, and their faces were paler than chalk.
+
+“Order! We are soldiers of the Republic and defenders of Anthus! Back to your posts!” the wall commander—an angry-looking woman—roared. She then “And you, identify yourself stranger! All who approach the walls of this city must make themselves and their intentions known. Your Status lists you as Orodan Wainwright. And you are a… Wainwrighting Apprentice? Is this some manner of joke? I have never seen such a title and your combat prowess does not match such a glib title.”
+
+“It’s no glib title, but the product of hard work put towards mending and building carts,” Orodan clarified. “But that is besides the point. My students and I have come to seek tutelage from the mage, Destartes. And we’re willing to help overthrow the Gods of the Republic as compensation.”
+
+“W-we are?” Edrosic squeaked in a terrified voice. “O-orodan…! What heretical battles have you signed me up for?!”
+
+“Have heart Parthus, fighting an Avatar or two will be good training.”
+
+“…!”
+
+Edrosic could only remain shocked in place. Aliya seemed confused and bewildered while Zukelmux and Wainroach seemed giddy with excitement.
+
+In his opinion the offer was a straightforward and generous one, although the wall commander who looked as though she was on the verge of having a conniption didn’t think so. Perhaps Orodan had come across too strong?
+
+To no one’s surprise, the woman’s communication amulet flared and an alarm was sent out.
+
+And almost immediately, the space before Orodan roiled as someone teleported before him. A familiar white flowing beard, a wizard’s staff and the tell-tale robes of a mage. This was Destartes.
+
+“There you are. Did you have a chance to hear my offer?”
+
+“Who are you?” the triple-Grandmaster wizard asked, his tone deathly serious as his hands were thrumming with magic.
+
+One wrong answer, and this entire situation was likely to go sideways as Orodan and his students would be stuck outside the city and fighting all of its defenders in an entrenched position.
+
+Which, coincidentally, was exactly what he wanted.
+
+“I see your hands remain ready to cast magic at the twitch of a finger. Good,” Orodan said with a grin as his own hands lit up. “I find that people understand one another best after they’ve had a good fight. Your spellfire against mine, let’s spar. Watch closely Wainroach, I’ll be casting plenty of fire magic.”
+
+His cockroach student could only wiggle her antennae in excitement.
+
+And Destartes? The deluge of responding elemental spellfire was the only answer Orodan received from the old spellcaster.
+
+The battle was on, and a volley of ranged and artillery magic immediately sailed towards Orodan at the same time as Destartes’ spells did. But he wasn’t the only target, his students off to the side, were too.
+
+“Focus Zukelmux. A shield can block artillery and spellfire just as easily as it can blades and arrows,” Orodan instructed. “A true bulwark of the shield should be capable of defending not just himself, but those who require his protection behind. Stand, and take not a single step back!”
+
+[Teaching 88 → Teaching 89]
+
+And the goblin did not. A volley of horrid spellfire and amplified artillery came his students’ way, and Edrosic was already praying to the Gods when Zukelmux’s shield whirred out with power.
+
+The strongest of the attacks, Master-level, nearly buckled the goblin’s arm. In fact, Orodan was certain he heard the sound of a shoulder breaking. But against all odds… the spear-and-shield wielding warrior held his ground. Defiant and death-sworn to defend Aliya, Edrosic and Wainroach.
+
+Orodan felt pride surge within him at the sight as he barked out a laugh.
+
+“Excellent! Now that’s some real spirit,” Orodan praised. “Hold strong and heal yourself quickly Zukelmux! They fire again!”
+
+Any further instruction for his students was put on hold for a moment as Orodan’s own magic surged forth to meet the barrage coming for him.
+
+Destartes’ spells reached first.
+
+During the last loop in which he’d trained under the old mage, Orodan had granted the man his Blessing. And while this might have led to the assumption that his natural mana pool was weak, that couldn’t be further from the truth. Destartes had as monstrous of a mana pool that a human could possess. In fact, Orodan had never seen a mortal mage with more raw mana upon Alastaia, even among the elves.
+
+This was felt in the form of spells of every sort of element, coming in from all angles. A deluge meant to overwhelm even the most nimble rogue and prevent evasion, and a variety meant to find a weakness in the defenses and equipment of even the hardiest warrior.
+
+And while Orodan’s current might was more than enough to disregard all of it, that wasn’t the aim.
+
+Training was. He fully intended to match the mage spell-for-spell.
+
+[Galewind 33 → Galewind 34]
+
+The closest spells were three inbound walls of fire, and they met three swift casts of an explosive Galewind spell which ignited and blew them backwards.
+
+The many miniature but volatile fireballs following that?
+
+[Waterstream 26 → Waterstream 28]
+
+Ten waterstream spells shot forth from Orodan’s fingers, each one colliding with multiple fireballs in its path.
+
+[Earthen Construct 29 → Earthen Construct 30]
+
+[Draconic Fireball 80 → Draconic Fireball 81]
+
+And numerous Earthen Constructs rose from the ground to meet the lances of lightning aimed at his head, and a mighty Draconic Fireball shattered the magically formed glacier above him into steam.
+
+And at last…
+
+…a tornado charging at him met the fury of lightning from his hands.
+
+[Lightning Bolt 24 → Lightning Bolt 26]
+
+[Lightning Magic Mastery 3 → Lightning Magic Mastery 4]
+
+In less than a second, every single elemental spell Destartes sent towards him in that exchange had been dealt with and nullified.
+
+And the barrage of attacks from Anthus’s defenders? Orodan’s shield lashed out and shattered all the attacks before they could so much as kick up the dust beneath his feet.
+
+“Tch! Whoever taught you magic did well, warrior,” Destartes grudgingly praised, his demeanor now exceedingly wary. “You have a counterspell ready for every one of mine.”
+
+“The mage I face right now is the one who taught me.”
+
+Destartes’ brows furrowed in confusion.
+
+“Your words do not add up. The only one you face is I, yet I’ve never met you.”
+
+“You haven’t met me… in this loop,” Orodan said as his hands roiled with magical prowess. “Now come. Elemental magic isn’t even your strongest specialty. You’re still holding back, and I want to see the greatest spatiomancer of Inuan ply his trade.”
+
+[Flash Freeze 40 → Flash Freeze 41]
+
+[Light Beam 37 → Light Beam 38]
+
+The spells he cast weren’t grossly overcharged with his typical power, but they were strong enough to give Destartes pause. The wizard was forced to get truly serious as the Light Beam the width of a house and the mana of a Flash Freeze capable of icing a castle reached him.
+
+The Light Beam was stopped by an oddly absorptive orb of darkness which soaked the light up like a sponge—though it quivered as though on the verge of shattering. And a shimmering film of spatiomancy covered Destartes, causing the mana of the Flash Freeze to be sent right back towards Orodan himself.
+
+His existing Ice Resistance nullified the returned spell, and he got the feeling that those countermeasures could have been overpowered with brute force… but that wasn’t the purpose of this duel.
+
+Measuring how far his creative problem solving had come was.
+
+To the side, Zukelmux was still holding on, with Wainroach of all people helping the goblin weather the storm by pulling copious amounts of power from Orodan’s Blessing in order to launch mighty gouts of flame towards incoming attacks.
+
+And Destartes, while looking as though he’d expended a decent amount of mana, was no worse for the wear.
+
+“Spatiomantic armor? That’s a new one… never knew you had that trick up your sleeve,” Orodan muttered.
+
+“I have not needed to use that particular skill in centuries. Typically, even a dragon cannot overpower my mana pool to Flash Freeze me directly. But you… what are you? And my previous question of who you are still remains,” the old wizard spoke, although the magic in his hands had dimmed a bit. “I get the feeling that if you wanted me dead, I would be dead. You aren’t here to kill me, which means you want something.”
+
+“Correct. I wish for you to take me under your tutelage once more,” Orodan said with a happy grin.
+
+“Once more? This does not add up. We have never met before,” the old wizard spoke. “Are you a reincarnator who I’ve taught in the past? With your current level of raw power and spell variety I may not have much to even impart.”
+
+“Given that space magic trick you pulled, I suspect I’ll be learning from you for a long time, old Destartes. The variety of magic I possess? I honed under you,” Orodan spoke. “And you call me a reincarnator? That couldn’t be farther from the truth in fact I… am in-”
+
+“A time loop,” the voice of a familiar halberdier called out as the old man walked onto the field of battle. “We get it. With how often you say it, half the Republic might as well know.”
+
+It was Adeltaj Simarji. And the man had a far deadlier aura about him than usual.
+
+“Old man, I thought I told you to get some rest,” Orodan chided. “That Mythical skill of yours took a lot out of you. As did the spar.”
+
+And it had been a truly brutal one in which Orodan he reversed time over and over until Adeltaj hit the right insights and mindset to acquire the correct skill. It was similar to when the old man had driven him into the ground long ago and caused him to acquire Eternal Soul Reactor.
+
+“And miss the fun? Given how these four are getting bombarded by artillery fire, it seems you’ve caused quite the stir.”
+
+That was certainly an understatement. And Destartes recognized the old Simarji and lowered his hands.
+
+“Adeltaj? You know of this madness?”
+
+“I do. Now, if you would be so kind as to tell the defenders to stop firing upon those hapless students of his, we might go inside and speak?”
+
+#
+
+“This is absurd…”
+
+“I am inclined to agree with that assessment, Tegin,” Destartes affirmed, though he didn’t seem unbelieving of the tale.
+
+“It is only absurd if you hear it at face value Lieutenant-General,” Adeltaj countered. “But with the ability to transfer your memories from one loop to the next… it will be as though you are part of the time loops yourself.”
+
+“Grandmaster Adeltaj, while your words are sensible, for myself and my master Destartes, we have not experienced any time loops, nor have we had our memories from another time transferred to us like your group has,” the halfling spoke. “These time loops, your journeys across the wider cosmos… they sound fantastical and well-beyond anything we have had to deal with in our day-to-day lives. But it does not change our course of action.”
+
+Tegin Carrotfoot, the Lieutenant-General of Anthus, war hero of the Republic of Aden, and co-leader of the conspiracy to overthrow the Prime Five and restore the Republic to secular rule… was in disbelief.
+
+Orodan, Adeltaj, Destartes and Tegin Carrotfoot were sat within the war room of Anthus and the explanation for the loops was naturally causing some level of shock. Were they refusing to believe them? Not at all. In fact, discounting his personal prowess, it had simply taken Orodan pointing out which military commanders and noble houses were in league with the conspiracy in order to get the halfling to take him seriously.
+
+The Lieutenant-General of Anthus was no fool who would stubbornly mire himself in disbelief. Once Orodan had proven his knowledge, the halfling had certainly believed him and was now eyeing him as though he were a tactical asset who could change everything.
+
+The current disagreement was with how things would be carried out.
+
+“We cannot just assail Karilsgard and eradicate the Gods,” Tegin Carrotfoot denied. “Not only would the lives of my soldiers be at great risk, but the Cathedral’s tendrils reach deep… very deep. They have many Blessed in all echelons of our society and any assault we make would have to be a cautious and multi-layered one. For as long as the Gods have faithful, we cannot just… er… Mister Wainwright? Why are you pulling out a broom?”
+
+To the side, Adeltaj could only sigh and shake his head. The old halberdier knew what was coming.
+
+“Try not to have me erased from existence this time, yes?”
+
+“I have it under control now,” Orodan promised. “And if you say the Gods’ Blessed are the problem… then it’s just one I shall eliminate.”
+
+Destartes shielded Tegin and Adeltaj brought his halberd out to protect himself. It wasn’t necessary, but he couldn’t fault them for it when the waves of reality-bending power were emanating off of his broom like a tornado.
+
+Orodan’s eyes blazed white as Cleanliness moved to see his vision brought to reality.
+
+He had done this feat once before, purging the influence of certain Gods from Alastaia entirely. But the difference between then and now was that he had a concept which bent to his will complicating matters. Perhaps the regular Embodier wouldn’t have faced this issue; hells even the Custodian would not have. But for Orodan whose raw power outstripped all of them?
+
+For other Embodiments, their grand visions to alter reality were limited by power. For him, who had too much of it, the concept could do some terrible damage if his mind wasn’t focused and careful.
+
+Like the dense stuff at the heart of a star, Orodan’s mind was unyielding. He was exceedingly careful to prevent his grudge against certain divinities from coloring his intentions.
+
+And even then Cleanliness tried deviating just a slight bit. Why not purge the wicked Gods themselves if he was already wiping out all of their Blessings across Alastaia?
+
+To that, Orodan simply responded with a fierce uppercut which buried itself in Cleanliness’s gut and knocked the air right out of it. His mind turned violent, brutal. The desire to utterly ravage this silly concept until it obeyed and ceased causing him issues.
+
+How he could punch a concept, Orodan still didn’t know. And by the absurd and utterly horrified looks Adeltaj and Destartes were giving him, they didn’t either. But it worked.
+
+The gut punch knocked some sense into the concept and it bowed to his will.
+
+The broom touched the ground… and a wave of power went out.
+
+Starting at Anthus, it swept farther and farther outwards until it carried across all Alastaia before making the round trip across the world and coming back to him.
+
+And with it…
+
+…the foul taint of Agorhiku, Agathor, Eximus and Ilyatana were purged from all corners of the earth.
+
+[Domain of Perfect Cleaning 172 → Domain of Perfect Cleaning 173]
+
+[Combat Mastery 140 → Combat Mastery 141]
+
+[Reality Alteration 85 → Reality Alteration 86]
+
+“A light beating, but it’s done,” Orodan spoke.
+
+Frankly, he longed for the day where he could just sidestep the hassle of these concepts and become the sole guide of his own skills. He didn’t understand why Embodiers fought so hard over these damned things when all they did was cause problems.
+
+But Adeltaj and Destartes were both pale-faced, staring at him as though he was something very wrong.
+
+“What in the hells was that?” Adeltaj asked sharply. “You… you just punched…”
+
+“I just punched a concept, that was all,” Orodan answered, a little confused himself. “I’ve explained this to you before old man. Why are you so surprised?”
+
+“Because Mister Wainwright…” Destartes said, calming himself by taking a deep breath. “That looked entirely unnatural. And I don’t mean in the sense that you bent reality, but in the sense that you became something else. Something very… terrifying.”
+
+Orodan’s brow furrowed as he looked himself up and down. He used Vision of Purity, he even walked towards a nearby dressing mirror and closely inspected himself from head to toe.
+
+“I see absolutely no difference… what did you see?”
+
+“I… I cannot put it into words. You just… you…”
+
+Destartes’s mutters were cut off as the Lieutenant-General of Anthus collapsed to the ground, shaking like a leaf in the wind. That wasn’t right. The halfling was a battle-hardened warrior who had seen plenty of bloodshed during the Liberation War. Why had he just collapsed?
+
+“Lieutenant-General…” Orodan said as he slowly approached. “What’s the matt-”
+
+“Away! Do not approach me!”
+
+Destartes who was protective of the halfling seemed most hesitant to step between him and Orodan. It wasn’t respect, it wasn’t the knowledge that Orodan meant no harm. No… it was fear.
+
+Even Adeltaj who had memories of a loop and implicitly trusted him looked afraid.
+
+“I… what in the hells did you all see? What did I do? I simply punched the concept until it obeyed me,” Orodan tried to explain as he backed away from the terrified halfling.
+
+“Orodan… logically, reasonably… I understand that it is still you. But please do not do that in anyone’s presence again if you can help it,” Adeltaj spoke up. “It was as though you were something brutal and horrible in the shape of… of you. My eyes told me it was you, certainly you didn’t change visually at all. But… that feeling… it was as though the savagery of thousands of battlefields was pressing down upon my mind, body and soul.”
+
+Had it truly?
+
+Orodan hadn’t even known that tapping into that strange ability related to Combat Mastery could do such a thing. He certainly didn’t feel any different when doing so. All he felt was the overwhelming violence from within that he’d always possessed even before the loops.
+
+What was wrong with that?
+
+“I don’t think I’m feeling it from my position either, Orodan. Your soul must shield me from it somehow,” Zaessythra spoke up. “But… I don’t think Combat Mastery at the level you have it should be capable of doing what you do.”
+
+Then again, many things he routinely did he shouldn’t have been capable of doing. Nobody should have been.
+
+Just what the hells was he stepping into with this notion of violence that he was embracing?
+
+#
+
+It had taken some time and coaxing, but the Lieutenant-General had been most mortified and apologetic about his reaction. It helped ease Orodan’s guilt about terrifying the halfling and assured him that the mental side effects upon bystanders weren’t permanent.
+
+In the last loop where he’d brought the notion of violence to bear, nobody besides the Eldritch Boundless One had been around. And following his success, that foreign sadistic Boundless One had breached System space and ended his life shortly after.
+
+Still, while Adeltaj had gone back to normal and as had Destartes, the Lieutenant-General remained just slightly wary. And if their descriptors of his presence were true, then Orodan couldn’t exactly blame the halfling.
+
+In any case, the event had been revelatory.
+
+Was Orodan touching upon something more when he tapped into the notion of violence? Was it a concept? It wasn’t unprecedented for someone incredibly talented to touch a concept prior to Embodiment. He had done so himself when empowering the time loops; the concept of Infinity had nearly overwhelmed him and he was still a Transcendent then.
+
+He was all but certain then that this thing he was tapping into was also a concept. But the question remained: why hadn’t he been overwhelmed or faced any loss of control with it? Yes, Orodan was by now used to dealing with concepts, but he wasn’t arrogant enough to think he would face no struggle whatsoever when tapping into one for the first time.
+
+It was a matter which merited further investigation. Although whether he sought answers or not, with the pace at which he was gaining skill levels and attaining insights, the truth of it would become revealed to him regardless. Combat Mastery was approaching the Embodiment-level, as was Incipience of Infinity.
+
+Orodan hadn’t been around any Embodiers long enough to ask questions about how multiple Embodiment-level skills looked. Based off of the relative power of certain Embodiment-level beings versus others he was almost certain that they had more than one. The dwarf who had fought the Prophet for a while, as well as Talasgan the Warrior himself, Orodan felt were Embodiers in more than one skill.
+
+But did any of them have three or more? If Orodan continued course, that was where he was headed.
+
+In any case, for now avoiding the usage of the concept of violence while around any hapless bystanders was done easily enough. Much like cleaning, the concept didn’t seem to manifest when doing low-level feats. But something absurd like punching Cleanliness or wrestling with Infinity? That would cause problems.
+
+“Causing problems and dealing with them is practically your way of life at this point,” Zaessythra joked. “Where would you be without constant conflict shaping you?”
+
+Not wrong.
+
+And even if he was constrained from using the concept of violence freely while in the presence of others,, there were still numerous other methods of training. Such as slinging spells from atop the walls of Anthus.
+
+Destartes and Tegin Carrotfoot were understandably busy making moves and consolidating power after Orodan’s feat of purging the influence and Blessings of three of the Prime Five from Alastaia. Guzuhar, while he hadn’t checked in on them, was likely experiencing much reprieve since Agorhiku’s exorcism from the world. Which meant that Orodan and his students were now within Anthus, getting in some good training.
+
+“Focus, Wainroach,” Orodan instructed as his student was sat upon his shoulder. “When casting a spell do not simply hurl it like a cheap brick at a window. Your body’s movements matter as much as the casting of the spell does. You also take a while to fully gather the Fireball, which is understandable given how much proportionally larger it is in comparison to you, but we shall train you until you can form and cast it just as fast as any pyromancer can theirs.”
+
+Orodan wasn’t sure when she’d done it, but the cockroach had learned how to cast the Fireball spell too. Perhaps she’d seen one of the mages upon the wall doing so and had mimicked them? In any case, if she utilized four-fifths of her mana pool, she was capable of casting a Fireball which could kill even an Apprentice-level monster in a single direct hit.
+
+It was a serious jump in her combat power, but the mana cost for the proportionally tiny cockroach was tremendous. And Orodan had no intentions of allowing her to rely upon the crutch that was his Blessing. Whenever she would run out of mana he would stringently demand she meditate, hasten the pace of her breathing and attempt to consciously increase her mana generation.
+
+Furthermore, Orodan had gone a step further and even used Domain of Perfect Cleaning to scrub the world energy away from her and Zukelmux. There would be no relying on the abundance of the energy well. They would train to recover under their own power and determination.
+
+Needless to say, it was an exceptionally difficult ordeal for her. Her soul wasn’t as complex as that of a human. And consequently, the amount of mana she generated was a lot less than someone like Zukelmux, Aliya or even Edrosic could naturally produce. But this too, Orodan felt could be rectified through study, exposure to life experiences, good food and art.
+
+Wainroach’s current problem however, was that her aim was quite shoddy. Not that good aim mattered much when hurling a volatile sphere of flame into a horde assailing the walls. But it was the principle of the matter. Orodan’s eyesight was good enough to track where her eyes went and his combat instincts refined enough to tell what her intent was.
+
+Yet the Fireball often went many feet wide, and for each of these casts Orodan pronounced the result inadequate and forced her to go again. Certainly, his student was fighting an uphill battle, being a cockroach who was unused to aiming when using projectile magic. Furthermore, the Fireballs she produced were the size of a grown man’s torso, which meant they completely obscured her vision when casting them from her forelegs. But this was something she needed to overcome and hone through rigorous training.
+
+It was now the third failure in a row, and it was better to show her what he meant than simply spout words.
+
+Orodan’s eyes closed as he carefully primed his mana pool. Instead of casting right away, he forced the mana within him to remain as still as possible. Orodan wasn’t a magical prodigy, but he was a physical one. And if his familiarity with the physical pursuits and martial arts had taught him anything it was that muscles exploded far faster when primed from a position of stillness and rest.
+
+It wasn’t easy when one had as much mana and a soul constantly producing power like his did, but he was able to briefly force his mana pool to be perfectly still. And in that moment where his energy pool was in utter stasis… he let loose.
+
+[Draconic Fireball 81 → Draconic Fireball 82]
+
+[Draconic Mana Channeling 68 → Draconic Mana Channeling 69]
+
+The Draconic Fireball formed incredibly fast. Quick enough that a normal mage would have lost control and had the spell explode in their own face. Thankfully he had quick reflexes, but even for him it was a close thing as it was his own sudden flexion of mana that he had to react to.
+
+The fireball the size of a castle soared forth, formed quicker than he’d ever managed before. And with no loss of power either. It struck the braying hordes outside the west wall of Anthus with a titanic boom.
+
+Wainroach rubbed her legs in glee as she understood what he meant now. And to the side, many of the city’s battlemages were looking at him agape, having perhaps assumed him the martial sort until now.
+
+“A speed caster… like the mages of the Eastern Kingdoms…” one of them muttered.
+
+Orodan looked at the woman and shook his head.
+
+“I don’t have the speed casting skill. This was just me utilizing my mana pool as explosively as possible so that I could impart to my student here how to quickly form a high-power spell.”
+
+His explanation left her even more agape. But it did give him the idea that perhaps speed casting was something he could look into. After all, the faster he could cast a spell, the more he could cast overall. It also gave him some ideas for potential improvements. Elemental Living Enchantment—which was his current best method of punching well above his weight—had the side effect of destroying large portions of his body whenever he used it in tandem with an exceptionally powerful skill such as Smite of Abrupt Deliverance. And the problem with that was that he needed to reform the enchantment within himself after each use.
+
+But if he had speed casting… couldn’t he reform the enchantment at a far faster rate? What if he not only acquired the skill, but then also trained it to the point where he could re-weave elemental enchantments within his limbs in-between each blow? Hells… what if if he could even weave defensive enchantments into his own flesh which helped maintain the durability of his body?
+
+Although the zealot had been weakened, even as a Transcendent Orodan had fought above his level and slain the Prophet. Almyra couldn’t have managed it, no other looper could have. It was a victory earned through the sweat and blood of hard work combined with the sheer utility of Elemental Living Enchantment.
+
+Certainly, Orodan was no shirker of hard work. He would not neglect the physical training of his body and martial abilities at base. But if he honed the basics and then developed speed casting and Elemental Living Enchanting on top? Perhaps he could even hope to beat an Administrator in a straight fight when they had their Mantle.
+
+And so it began.
+
+Just as Wainroach was furiously meditating and then casting Fireballs whenever her mana pool was full, so too did Orodan join her in forcing his mana reserve into absolute stillness and then utterly exploding with speed.
+
+Zukelmux was just outside the walls contending with the horde itself and doing his best to survive, and Edrosic and Aliya were atop the walls engaging in combat against certain monsters that were allowed up for the recruits to fight. With the caveat that Orodan would from time to time randomly throw either or both of them down to where Zukelmux was, and they would then have to fight their way back up to the walls and safety.
+
+Parthus didn’t like that at all, but it was good training and his fellow militia man was visibly getting stronger by the day. In truth, it was no secret that the militia man from Ogdenborough was struggling. The looks of inferiority and insecurity were apparent whenever the man looked at Zukelmux or even Aliya who was a prodigious Staff-wielder who enjoyed combat and adventure. Atop the walls he’d heard mutters from the soldiers and mages as to why Edrosic was even chosen for such tutelage. These mutters had been immediately silenced via a glare from Orodan himself, but not before the easygoing man had heard them.
+
+Orodan continued his own training while supervising the progress of his students, and time went on. His mana pool was explosively brought forth over and over, and Wainroach, Edrosic, Aliya and Zukelmux were pushed to their limits repeatedly, over and over. For the first hour things were normal, and then, Orodan began demanding they work other skills during their rest periods too.
+
+The training was rightfully intense.
+
+Academies might encourage students to train hard, and in class they certainly did. But few academies truly drove their students into the ground over and over like he was doing to them. Rest? There was no true rest. Much like Adeltaj had worked him to the bone once upon a time, so too were these four utterly oppressed by his demands.
+
+Whenever Wainroach meditated, Orodan now also forced her to bear small but dense rocks upon her back. He had also borrowed paintings from the libraries and vaults of Anthus and made her watch these and give him an explanation on what her thoughts were. Zaessythra still couldn’t understand how he spoke to the cockroach, but Orodan assured her that warriors just knew how to speak to one another without words.
+
+Aliya? Forced to perform the basic exercises which aspiring mages did upon admission to a magic academy, all while reading up on her books for early school. Edrosic? Given yarn and sewing needle to work upon. And Zukelmux? That goblin hadn’t even needed a break yet so Orodan was happy to let that combat-happy student of his fight for as long as he desired.
+
+Aliya was frowning at being forced to slow down and study. But Edrosic? The man was humming to himself as the stress from his face had all but faded. Not only that, but he was weaving the yarn in a way Orodan hadn’t seen before.
+
+“You’re a lot better at that than I thought…” Orodan muttered while still casting Draconic Fireballs out into the horde.
+
+The horde had practically evaporated by now, and even the Master-level leaders had run for the hills or moved to assaulting the other walls of Anthus. The west wall, was the quietest it had ever been. And the landscape in front of it was a charred canvas of craters and devastation. And that was despite Orodan keeping the power of the Draconic Fireball low.
+
+“And I always thought you hated mages,” Edrosic replied, letting out deep breaths as he recovered from all the fighting, but not at all distressed now that he had something to focus on. “But I suppose you don’t really know everything about someone unless you get to know them, eh?”
+
+“Well… I did hate mages for a long time,” Orodan admitted, exploding out with another Draconic Fireball down at the far edges where a few monsters were still murderously looking at Anthus. “But time and education tend to instil a certain respect for the magical arts into someone. Plus… chronomancy is useful.”
+
+And as he spoke, he channeled a bit of soul energy towards Time Reversal, and Edrosic gaped like a fish as the charred landscape outside the west wall of Anthus slowly rewound in time, and was soon back to a pristine state before his calamitious spellfire had touched it.
+
+“You really were made for this Orodan. Right from when I saw you fight for the first time in basic I knew you were getting somewhere in life. These time loops are for you, not someone like me. Don’t know why you pulled lazy Parthus Edrosic along for the ride,” the man said, avoiding his gaze as he simply wove the yarn into a sublime pattern which was quite pleasing to the eye.
+
+“Why not? Did I perhaps interrupt you from a very important life goal you were in the midst of achieving?” Orodan jested. “Did Parthus Edrosic have anything better to do?”
+
+“Damn it, you know that’s not what I meant Orodan,” his fellow private asked. “All of… this. Even with the memories of this other time where my mother and father died, I don’t think I’m cut out for it. I’ll never be cut out for it. Not like Aliya, definitely not like Zukelmux or hells, even like Wainroach has been managing. And I’ll certainly never be like you. I’m just a militia man who signed on to avoid joining my father’s carpentry business. Why me? What the hells did you see in me that made you decide to drag some hapless middle of the pack private along? Who am I to you?”
+
+“A friend, Edrosic. A friend,” Orodan replied shutting him up. “You called yourself that when I was about to leave for somewhere in a loop of mine. Of course, add the guilt from me screwing up and creating an alternate timeline where your parents were slain… and it’s a rather obvious choice isn’t it?”
+
+“You…! You took pity on me! That’s all this is?!”
+
+“Pity? Far from it. If anything, the determination I saw in the eyes of that broken man whose parents were slain made me think there was something worth cultivating. Plus… if I’m being entirely honest… it’s nice to have a student who’s average,” Orodan admitted.
+
+“So you admit it! That I’m nothing compared to the others!” Parthus shouted, looking more than a little hurt. “What use am I-”
+
+“Parthus,” Orodan uttered, his voice putting an end to the tirade. “I don’t teach anyone because they’re useful to me. I teach them because I want to and because it improves my Teaching skill. In that regard, teaching you is a lot better for the skill than teaching those two.”
+
+“In other words… I’m the only non-fighter among a group of battle maniacs, how reassuring,” Parthus replied, though the earlier accusation in his tone was noticeable absent. “So I suppose I am useful to you then.”
+
+“Not that I go around evaluating my friends and those close to me for their usefulness, but if that’s how you wish to see it, I won’t stop you,” Orodan allowed. “Besides, you have yet to meet Fenton Penny. Once I go around to getting him back, you won’t be the only one of my students who’s not too keen on fighting. Not that he couldn’t, but without preparation, he’d likely lose to Zukelmux quite handily in a straight battle.”
+
+“He’s that enchanter you spoke about, right? Hard to imagine someone so good at Enchanting that he made an orb capable of transferring memories…” Edrosic muttered, already looking far less troubled by his place among Orodan’s students.
+
+“Don’t get me wrong, the orb is impressive, but Fenton’s made far more impressive things than that.”
+
+In particular, the pillars of purification which outright drained Eldritch-infected world cores and even severely weakened the Prophet. Without Fenton, Orodan wouldn’t have won that fight in the end. Not in that loop.
+
+“But you’re talking too much. Seems you’ve had enough rest, back to the fight with you, Edrosic.”
+
+The man laughed and moved to get up, but not before handing Orodan a few pages of paper. What were these?
+
+“Alright, alright. But here, maybe replace those atrocious paintings you have Wainroach looking at with these… those are giving me an eyesore,” the man said, getting up, suddenly not looking troubled at the prospect of whatever had been bothering him before.
+
+He visibly felt Wainroach’s soul glow brighter. These drawings… they were…
+
+“Beautiful…” Orodan muttered as he looked through the pages.
+
+And on the last one, a picture of him casting a Draconic Fireball. It was no common picture either. Orodan was drawn like a true brute. Not that his proportions were off or he was exaggerated, but he could almost feel the sheer aura of violence roiling off of him in waves.
+
+Then… had Edrosic seen this side of him already and just… accepted it?
+
+And what was this part of the drawing? It perfectly encapsulated the stillness of Orodan’s mana pool moments before the explosion of Draconic Fireball. A stillness that was almost like a coiled spring. An exceedingly violent one.
+
+Something in his head clicked. He clamped down upon his mana pool with extreme force. Not just to make it still, but to tighten and load it up… like a beast coiled and ready to surge forth.
+
+[Draconic Fireball 82 → Draconic Fireball 83]
+
+[Draconic Mana Channeling 69 → Draconic Mana Channeling 70]
+
+[New Skill → Burst Casting 6 (Exquisite)]
+
+The Draconic Fireball formed and flew out with such furious suddenness that even Orodan nearly failed to react. It was only a sudden upward twitch of his casting arm that saved the wall they were upon from suffering severe damage.
+
+The magic projectile carried on, blasting right through the cloud layer before he willed it explode high in the sky. The dazzling explosion caused many of the mages present to gasp and mutter in awed whispers, and the shockwave could be felt even here far below on the ground many miles away.
+
+Powerful. He hadn’t even overcharged it, but it was as though the extra explosive momentum within his mana pool allowed each spell to hit harder and do more for the same amount of mana.
+
+He had studied at Bluefire and knew that Speed Casting, a skill typically trained and honed in the Eastern Kingdoms, was a Rare-rarity skill. So for this Burst Casting to be a step above that? He must’ve done something right.
+
+And by him, he really meant Edrosic.
+
+That sneaky little… he had already jumped off the walls to fight back-to-back with Zukelmux too.
+
+#
+
+“Orodan, why are you sulking at me like that?”
+
+Could Orodan truly be blamed for his foul mood? For once, he thought he’d truly found an average and untalented student to teach. But no. Edrosic had to go and upend his expectations by being some freak savant at drawing.
+
+What sort of silly skill was that to be talented in? Almost as rubbish as Orodan being unfathomably good at cleaning.
+
+“You rascal… you somehow conned me this entire time into not realizing you were some prodigious artist!”
+
+“How am I to blame for that? And I’m not even prodigious! I just started drawing a year ago!”
+
+This monster… it was some cruel joke by the System, or fate… or something. It had to be.
+
+Aliya and Zukelmux? Talented at fighting. Fenton? Talented at Enchanting. And now Parthus was quite prodigious at drawing. It was all one big joke.
+
+“Parthus… you started drawing a few months ago and are already an Apprentice. Do you understand how improbable that is?” Orodan asked.
+
+“No? I suppose I have a knack for sketching some doodles but that’s no different from you being good at fighting, right? That nobleman’s son was the only one who even came close to matching you in spars during basic. and even he ate dirt.”
+
+“And probably ensured I remain posted in Ogdenborough after that,” Orodan replied, recalling the blue-blooded bastard who’d had an all too smug look upon his face despite losing regularly to him. “Anyhow, the question remains as to where you shall remain posted.”
+
+“You mean I can finally leave Oxhead and maybe join Elmswith?!” Edrosic asked, excited.
+
+Truthfully, the man was underselling himself. Having a Drawing skill good enough that it steered Orodan towards an insight was just ridiculous. Edrosic’s confidence had already been low—the man content to accept his lot in life as a squarely middle-of-the-pack fighter—but training alongside the other three had really done a number on it. Seeing Zukelmux utterly squash all the students and instructors at Oxhead was one thing, but to then see Aliya actually win against some of the weaker first years at her young age?
+
+The man had consigned himself to being low-level and mundane. Yet this was far from the case when that Drawing skill was taken into account. Based off of that alone, Edrosic was an easy candidate for Bluefire. Potentially even worthy of a scholarship, though the man was a little older than Orodan himself and might have to enter through different channels.
+
+In any case, Parthus’s worries about not being useful, in hindsight, were now utterly stupid. Allowing him to acquire insights just by looking at a well-drawn picture of himself? While Orodan did not take on students so that they could be useful, in a way the diffident militia man was shaping up to be just as valuable as Fenton had been.
+
+But as for Edrosic’s earlier question…
+
+“No.”
+
+“W-what?” the man asked, looking utterly deflated “But I’m not even good at-”
+
+“Good at fighting? So what?” Orodan asked. “You will not be shirking your education at Oxhead.”
+
+“Now hold on a moment. Didn’t you recount to me that you didn’t mind the God of Death being a non-combatant who avoided fighting? Why am I being forced into this?” the man asked.
+
+“Because you’re my student, Parthus. And good at Drawing as you are, it would be a stain upon my honor if any student of Orodan Wainwright’s did not know how to fight properly,” he replied. “Besides, I don’t mind if you refuse to enter battle or don’t care for the martial ways. But fighting and violence are the most base form of communication anywhere you go. Even if you choose to become a pacifist, as your teacher it’s my duty to inculcate within you an adequate level of skill.”
+
+“But Oxhead is so… demoralizing. I barely passed the physical portion of the qualification exam. I’d do far better at a crafting academy.”
+
+“Indeed. And you will,” Orodan said, and then raised his hand at Edrosic’s confused face. “What? Did you think I would have you attend Oxhead forever? I admit, the short time frame we’re on is quite inefficient, and having to continue your education from where you left off each loop can be a bit irritating. But it’s important that you take a few loops to actually finish your education there. And once that’s done? You’re free to enter whatever other academy you wish.”
+
+“Hmm… I suppose that doesn’t sound so bad…” the man muttered.
+
+With Edrosic visibly looking cheerier now, the two of them caught up with the other three students who had gone further up. Frankly, with the gains Parthus had made during his training at Anthus, Orodan had no doubt that the militia man could now give a far better showing at Oxhead.
+
+“Teacher!” Zukelmux greeted, Wainroach upon the goblin’s shoulder also wriggling her forelegs in a wave. “Have you imparted hidden wisdom upon Parthus?”
+
+“It’s hardly a secret…” Edrosic muttered as the man began recounting what the conversation was about.
+
+Aliya, beside him, was looking as jubilant as always at the prospect of getting to visit new places. Ahead of them, a town he’d visited a few loops ago. A bastion of civilization in the wilds of an otherwise untamed county.
+
+“Greenvale! I’ve always wanted to visit, but mother and father kept telling me how dangerous Exerston County is,” the girl spoke. “The wilds aren’t even that bad!”
+
+“Easy to say when traveling in a party of combat-capable individuals. That Adept-level bear you fought earlier wouldn’t have been so easily dealt with alone,” Orodan replied. “Until you learn some manner of self-healing or basic healing, it can be dangerous to venture into the wilds alone and without support.”
+
+A lesson Orodan had learned early in his street rat days when trying to venture out of town and running into a wolf. He’d thankfully fought hard enough and gouged its eye, causing the opportunistic beast to retreat rather than risk more injury. But he’d also gotten a chunk torn out of his arm and had barely managed to make it to the orphanage before collapsing. Prior to acquiring all the self-healing skills that he had, fighting was a dirty affair and one needed to account for the injuries acquired even in victory.
+
+If he’d gone just a bit deeper into the woods, he would’ve died. Though who knew if that might’ve started the loops then and there? Orodan the street rat starting each loop in the shoddy orphanage would have had quite the different life compared to the seventeen-year-old militia man who’d entered them.
+
+In any case, Aliya seemed to take the warning seriously and the group strode into Greenvale. The Exerston County militia openly gawked at Zukelmux’s presence and even at the cockroach riding upon the goblin’s shoulder, but did nothing to stop them. It was either Old Man Hannegan’s work, or that of Adeltaj Simarji. It had been a few days since the goblin had started attendng Oxhead and he was the talk of the county and likely farther beyond.
+
+Any attempts to discriminate against him either failed due to Zukelmux’s personal prowess, or Adeltaj and his house simply reminded people to shut their mouths. In theory, a friendly monster species wasn’t unheard of; dragons being the prime example. In practice, any noble house of the Republic harboring them would be seen with suspicion, though House Simarji’s roots in the Eastern Kingdom gave them slightly more leeway to claim it as a cultural practice.
+
+Still, the gate guards of the militia gave them no issues as they walked into town. Although the citizenry and all passersby were gawking as though Zukelmux was an alien.
+
+“Can you swing an axe? These trees need a good… a good… by the Gods, a goblin!” one recruiter exclaimed.
+
+“Need gold? References? New skills? Join the… hey! It’s a monster!” a nearby adventurer recruiting for his company declared, raising his fists which bore spiked gauntlets. “Worry not good folk! We of the Unyielding Shield Adventurer’s Company will put down the menace here and now!”
+
+Orodan remembered this arrogant fop. Even in the alternate timeline this man had been brash. It was heartening to know that some things never changed.
+
+Zukelmux was about to step forward but Orodan held him back, instead surging forth to meet the adventurer himself.
+
+The spiked gauntlet which was meant for Zukelmux’s head instead met Orodan’s fist.
+
+He held his strength back, in fact, he carefully moderated his power so that the force of his blow was weaker. The adventurer was an Adept, and Orodan limited his strength to the Apprentice-level.
+
+Just like before, as he’d tried in the alternate timeline, as he’d attempted with Adeltaj, he was endeavoring the madness of overpowering a stronger blow with a weaker one. Logically, it made no sense.
+
+And just as before, Orodan’s blow was overpowered but the adventurer flew into a wall from the backlash of striking his durable fist.
+
+“Disappointing…” he muttered while looking down at his fist. There was something to be found there, he knew this.
+
+Even Zaessythra, who thought him a bit mad, agreed that she was beginning to see a certain deranged logic to the repeated attempts at pitting a weaker blow against a stronger one and expecting results.
+
+Zukelmux, Aliya and Wainroach simply cheered, laughed or wriggled with amusement at the beating he dispensed. But Edrosic? He was looking at the scene with intense focus. What was that about?
+
+“Nothing else to see here. Let’s move on before the guards think to harass you too Zukelmux. Don’t want to keep the old man waiting.”
+
+Although he’d technically failed in what he’d intended, Orodan’s feat of sending an Adept flying into a wall had shocked and awed most of the bystanders and militia. A fight between two martials was a violent and sudden thing and most people weren’t ready for that level of brutality. Even the militia didn’t look like they wanted to intervene.
+
+Which meant Orodan and his group were free to leave the scene and head for the Greenvale calligraphers’ association.
+
+A brief walk along the streets where even more people gaped at Zukelmux finally brought them to the Greenvale Calligraphers’ Association, a building and organization owned primarily by House Stenguard. The building looked busy, which wasn’t normally the case, but that was understandable when the lord of the house was present.
+
+Gerace Stenguard, lord of House Stenguard, a merchant house elevated to nobility and holding a seat on the council. From what he’d seen and heard, the man was no noble by birthright, but instead one who had worked hard, acquired much wealth through hard work and done the Republic many boons by negotiating favorable trade deals. And while Orodan wasn’t all too familiar with trade practices and the economics of Inuan, he did know that Gerace was responsible for many of the current agreements between the Republic and the Eastern Kingdoms. The only reason the man’s house wasn’t of greater note was because it wasn’t a military one with high-level elders in it like Houses Firesword and Simarji.
+
+He was the sort of noble Orodan could truly respect. A humble and self-made man. And it showed in the close friendship he had with Old Man Hannegan who was waving their group over.
+
+“Took you long enough!” the old foreman barked. “Has this rockhead tortured you too much?”
+
+Edrosic looked as though he wanted to whine about the injustices he’d suffered, but a swift kick to the shin from Aliya kept him quiet.
+
+“Hardly. I simply put them through some good training,” Orodan said and then took the proffered hand of Gerace Stenguard. “I hope the old man hasn’t been imposing on you too much.”
+
+“Imposing on me? After what you did at the quarry owned by my house in Scarmorrow I owe you a great debt. A monetary one worth a few thousand gold coins to be exact,” the man spoke. “Orodan Wainwright, I am Gerace Stenguard. It’s a pleasure to meet you at last. This old codger here couldn’t stop singing your praises. Which, coming from Gregory, is like pulling teeth.”
+
+“Quit spouting nonsense Gerace! I did no such thing!” Old Man Hannegan denied, though the lie was obvious. Orodan remained quiet and decided not to poke at how soft the old graybeard had gotten.
+
+“Regardless of how much gold I’ve made you, I’ll be imposing upon your calligraphers to learn Calligraphy,” Orodan said, clapping Parthus on the shoulder. “And to help train my student here.”
+
+Orodan was good at fighting. and it wouldn’t have been arrogant to say that nobody on Alastaia was better suited to teaching Edrosic about martial combat than he was. But when it came to helping hone the man’s Drawing skill? He was self-aware enough to admit that the formal instruction needed to come from elsewhere. Oxhead, a martial academy, wouldn’t do. Which necessitated coming here, to the calligrapher’s association where a number of the instructors on-hand knew not just Calligraphy, but drawing too.
+
+“Whatever you need, my house will provide Mister Wainwright. Hopefully in time we can convince you that working exclusively with us is in your best interests rather than seeking out… third parties,” the man said, though his smile turned forced near the end.
+
+“What Gerace here means to say is that he hates Esgarius’s guts,” Old Man Hannegan helpfully supplied, causing Gerace Stenguard to choke on his spit and deny it. “Oh don’t try to hide it. He’s swooped in and stolen how many deals out from under you now?”
+
+“Tch! That is a matter for another time and I would not wish to throw my woes upon my most gracious benefactor,” the merchant lord said. “But to keep it short, Esgarius is a shrewd and cunning businessman. Despite my wish to call him conniving, I cannot, but that does not change the fact that he is a rival merchant and the source of a great deal of my troubles.”
+
+“Well you need not worry. I’m only working with him as an enchanter while he funds the tuition of this lot.”
+
+“Tuition? Why I can arrange for that as easily as-”
+
+“Thank you. But Esgarius will suffice. Greedy as he may be, he has kept his word without fail in every dealing I have had with him,” Orodan clarified. “And while I have no intentions of helping him harm your business interests, my partnership with him will not change.”
+
+Esgarius of Trumbetton was exceedingly greedy, perhaps even beyond certain moral lines. But Orodan had never once seen the treasure-dealer of Trumbetton scam, con or swindle anyone. He also paid his employees well and looked after the families of any fallen workers of his. Unless the merchant began committing evil deeds… Orodan didn’t see any issue with him being excessively covetous of gold. The business between Gerace and Esgarius was their own; fair competition on the battlefield of markets.
+
+“That is all I could ask anyhow. Esgarius is not so bad as long as he remains squarely in the domain of dealing in adventurer’s gear. A high-value market, but I suppose I should be grateful he has not thought to expand into resource extraction and more like my house has,” Gerace replied. “Now then, shall we head inside? I’m told you not only wished to practice your Calligraphy, but also participate in other aspects of the production pipeline? An odd request… but I suppose we can help.”
+
+“Thank you, might we start now?”
+
+“Of course, and ah… I suppose it bears mentioning that posters bearing your likeness have been sighted across Volarbury County. The county militia for there have asked Exerston County to keep a look out as well,” Gerace informed. “For what? I do not know. But I did have them ignore that instruction once Gregory here came to me and revealed t’was you who came by my quarry.”
+
+Why would the militia of Volarbury County be looking for him?
+
+Orodan needed to think for only a moment before he recalled that he’d absently used the observer orb in Sergeant Woodgard’s office.
+
+#
+
+[Recycling 21 → Recycling 22]
+
+[Maintenance 35 → Maintenance 36]
+
+The used and worn out ink inscription had been cleaned off with a cloth soaked in special solution and Orodan had then smoothed the parchment out, rolled it back up carefully and then tucked it into a scroll case. That was the thirtieth one he’d successfully recycled and maintained too.
+
+Not bad. Perhaps the Calligrapher’s Association was good for more sources of training than just Calligraphy.
+
+The message he’d received an hour ago was a welcome one too, as Orodan recalled it.
+
+[New Skill → Calligraphy 11]
+
+The instructor had been utterly frightened at the savage and violent writing he’d displayed. Hells, even Aliya, Zukelmux and Wainroach seemed uneasy when looking at the art. Edrosic however, had simply looked at it assessingly and then nodded in approval. Orodan thought the man’s natural knack for drawing had let him see something in it.
+
+Parthus had swiftly been taken elsewhere after impressing the calligraphers. Apparently his fellow militia man’s smooth ability to draw also extended to Calligraphy as well. If anything, it was Orodan who wasn’t as talented. They’d offered him special training too—out of respect no doubt—but he refused, insisting that he would only go along with Edrosic once he’d earned the privilege of it with his own work.
+
+Calligraphy was a trickier art than he’d expected. The intent behind the quill or the brush mattered just as much as technique did. In fact, Orodan wasn’t bad at all: he had acquired eleven levels in the skill right off the bat, with it currently sitting at level 13 after some additional practice. But he had only gained such levels due to the fact that his Sword Mastery was at the Master-level. The usage of a sword, it seemed, had some strange transference with Calligraphy. As did his usage of the club, but to a vastly lesser degree. Unarmed Combat Mastery and oddly enough… Wrestling, provided some insights too. But the sword in particular was what helped him secure the initial eleven levels.
+
+And for someone who was quite decent with a sword, it was embarrassing that he’d only gotten eleven levels.
+
+He had a hunch that it was due to his brutish swordfighting style. While he’d received formal insruction in swordsmanship during militia basic training, it was nothing elegant or fanciful. He’d seen dexterous and refined sword users, and Orodan was certainly not one of them. Extremely aggressive and brutally swift, he’d moved upwards from the basics but never gone to any formal swordsmanship class. Hells, even in Bluefire his sparring with Arvayne Firesword was more focused on elevating him as a warrior.
+
+And Orodan was alright with that. His style would always be that of a berserker, lacking the soft grace and elegance of a more calculated fighter. But what he needed was to synergize these combat insights of his and apply them to Calligraphy, which was easier said than done.
+
+“You seem dissatisfied sire,” the supply clerk, an Adept-level calligrapher, noted as Orodan dropped off the recycled scrolls. “We can have you working purely on calligraphy if you’d like! Lord Gerace was adamant that we cater to your needs on demand.”
+
+“That will not be necessary. This sort of work is what I need,” Orodan said, picking up a scroll, brush and ink and sitting down to work.
+
+This was the standard arrangement for students of the craft. If they put in the work in helping with scroll recycling, maintenance and other chores, they could use supplies and inscribe scrolls at no cost. It wasn’t only that Orodan disliked taking advantage of the association, but also that the manual labor of recycling scrolls was excellent training. Furthermore, recycling spell scrolls meant he had to clean the worn out ink off of them, which meant he got to take a good look at them and study the designs and mistakes to see where things had failed.
+
+Regular ink was for practice, drawing and beautiful aesthetic calligraphy. But spell scrolls used magical ink, an alchemical product which saw crushed mana crystals added into the ink mixture. The lower grades of magical ink weren’t really costly, and instead of mana crystals, cheaper natural gemstones could be pulverized and added to the ink-making process. But the higher grades? Costly. The expenditure made the crafting of high-level spell scrolls not worth the cost.
+
+And throughout recycling all these spell scrolls Orodan often saw that the parchment wasn’t the point of failure, but the ink was. Specifically, the brushing of the ink. Sometimes the ink was too light in certain spots yet too dense in others. Other times the stroke wasn’t smooth at all and the edges jagged, which caused an energy overload at certain points and caused the inscription to burn out. All in all, it really emphasized how important the basics of Calligraphy were when it came to inscribing spell scrolls.
+
+And the very method of making spell scrolls was quite interesting. It was essentially a form of Enchanting, but not using a script. Instead the pathways were clearly demarcated for specific functions. Akin to a very simplified and two-dimensional version of dwarven runic script. Orodan decided then and there that no matter what these people told themselves, this was definitely a different yet very esoteric method of enchanting. One which used quills and brushes instead of chisels and the crystalline enchanting quills he was ordinarily used to.
+
+Certainly, there was no such skill called spell-scribing. Instead, these folk used the Calligraphy skill to great effect. And Orodan had to wonder which skill was intruding upon the domain of which.
+
+Were these Calligraphers Enchanting? Or was it that all Enchanters were in fact Calligraphing?
+
+He didn’t know. But what he did know was that the medium of spell-scroll scribing wasn’t too dissimilar to what a regular two-dimensional enchanter might do. Indeed, his hand was steady and the ink flowed well.
+
+Which made it a surprise when the completed scroll of Fireball blew right up in his face.
+
+How? He’d done everything right…
+
+“I see you are an enchanter Mister Wainwright,” the master of the association called out as he walked into the room, Edrosic accompanying him. “We have a number of enchanters who also cross-train with us during slow periods of the season. But you are making the same mistake they all do by trying to make the enchantment as sound as possible.”
+
+“Should I not?”
+
+“Look upon the material you’re using. That’s not wood, metal or stone. That’s parchment. Common cowskin treated and processed to make parchment. The inscription you wrote was excellent in its technical workings, but utterly atrocious for the limitations of material we work with,” the master spoke. “You must pour your intent into the writing. Less rigid technicality, more… meaning. More spirit.”
+
+It sounded utterly flowery and nonsensical on the surface, but Orodan had done something like this before. Immediately, he pulled out one more scroll and brought his brush to the parchment.
+
+Instead of fanciful inscriptions, instead of a technically sound diagram… he instead brought his mind and soul to bear upon the canvas with one goal.
+
+To scrawl… chicken scratch.
+
+The master of the association looked on agape, but Edrosic hummed in approval and consideration as he watched Orodan work. His brush strokes weren’t exactly good, and his technique subpar… but the intent? The intent practically rolled off him in waves.
+
+And he demanded the chicken scratch produce a scroll of Fireball.
+
+[Calligraphy 13 → Calligraphy 15]
+
+And it did. His force of will pressed down upon the parchment, and the end product was magnificent despite its apparent flaws. Edrosic was also looking at it quite approvingly.
+
+Of course, it then exploded.
+
+Orodan’s palm contained the blast of fire even as Edrosic leapt for cover and the calligraphy master stumbled backwards.
+
+“Hmm… not quite…” he muttered.
+
+“Damn it Orodan! Be careful when you’re drawing like that!” Parthus scolded.
+
+“Apologies… still, I gained two levels in Calligraphy just from that. Adequate progress for a singular day of work,” Orodan spoke.
+
+“Indeed. Then you’ll be quite proud to hear that your student hear is nearing the Apprentice-level as a calligrapher.”
+
+“H-hey! You weren’t supposed to tell him that…!” Edrosic protested.
+
+And Orodan realized despite his advances, he had plenty of work to do. And a student whose progress would be a good motivator.
+
+Magical training with Destartes, training in the crafts, and his regular martial training with Adeltaj and his students. He had perhaps a week left before his rival Embodiers and the Custodian came for him, and Orodan fully intended to get as much training in as possible until the time came for the loop to end.
+
+#
+
+“Did you know that they had an emergency council meeting at the High Spire of Karilsgard today?”
+
+“I imagine they should have many such meetings since three of the Prime Five have all but vanished from Alastaia.”
+
+“Well yes… but this emergency meeting was about an odd set of observer orb readings. Your readings,” Adeltaj spoke, a wry grin on his face.
+
+Right, he’d nearly forgotten about that.
+
+“Ugh… my apologies for causing you a headache old man. I’ll remember not to use the observer orb again moving forward.”
+
+“Do you jest? I haven’t been so amused in ages. I Particularly enjoyed it when the Aeronsul representative’s face got progressively paler and paler as your Status kept going on and on,” Adeltaj revealed with a happy smile. “You should have seen Houses Altamari and Aeronsul frothing at the mouth trying to understand what a Celestial-rarity skill was. Some argued you were a God walking among them, and others correctly pointed the finger at you as being the one responsible for the Republic’s current state of affairs. Most entertaining.”
+
+What was this state of affairs? The peaceful transfer of power from the Cathedral-aligned houses of the Republic to the people of course.
+
+Unlike last time where he’d besieged Karilsgard and dramatically purged the influence of all the tyrant three, this time there was no such spectacle. No siege, no grand military mobilization and no need for overt threats from the Time Wind dragon flight. Without any Blessings from the tyrant three, Halor had quickly realized his weakened position and agreed to take a backstep into a more supportive position. The forces loyal to the Cathedral had a severe decrease in battle power with the loss of most of their Blessings, Favored, Chosen and Avatars, and the Lieutenant-General of Anthus needed to only tour the major towns and cities alongside dedicated propaganda unit to reassure people that nothing had changed.
+
+It was as smooth a transition as anyone could have hoped for, helped by the fact that the dissidents who were still on the Republic’s council had seen his observer orb readings. They might not have known what a Celestial skill or Embodiment was, but they certainly knew what it meant when someone had as many Mythical and Legendary skills as he did. They feared him intervening against any attempted uprising attempts, which was true. He was all too happy to execute any diehard lackeys of Agathor, Eximus and Ilyatana.
+
+The Cathedral of the Prime Five had three of its statues torn down and life in the Republic had measurably improved with Halor and Malzim stepping in to provide Blessings of their own. At some point Orodan intended on adding his own Blessings to that mix, but in a more selective manner and only to those whose character wasn’t in question.
+
+It had been a week, and Orodan felt that his pursuers drew nearer. The concept of Cleanliness rippled, challenges who contested him drawing closer and closer.
+
+Still, the loop had gone well and his constant training of himself and his students had borne fruit, with his Teaching being one level away from the Master-level. On the martial side, his skill levels with spears, clubs, halberds and oddly enough the sword, had increased. That last one he chalked up to the transference from Calligraphy, which had also gained levels.
+
+Stonecutting and Mining had made excellent gains as well, although Orodan had been so focused on those that he’d put acquiring Masonry to the wayside. But that could be done next loop.
+
+His magic however, specifically Burst Casting, was really powerful. And he did mean really. As evidenced by the roaring Lightning Bolt which shot out towards Destartes, even while Orodan spoke to Adeltaj on the side.
+
+[Burst Casting 17 → Burst Casting 18]
+
+[Lightning Bolt 30 → Lightning Bolt 31]
+
+[Lightning Magic Mastery 8 → Lightning Magic Mastery 9]
+
+Destartes had a shimmering suit of spatial armor across his form already. If the wizard didn’t… Orodan didn’t think it would have been a pretty aftermath. Especially with how the lightning practically zoomed out quicker than his own reflexes could follow.
+
+“Careful! What have I told you about keeping the power down? You’re practicing how to bring your mana pool to bear faster, keeping control over it even as you cast explosively is important,” the mage chided. He was right of course. “Do not allow more than the intended amount of mana for the spell to explode forth.”
+
+Burst Casting was… exhilarating. The only physical equivalent he could compare it to would be remaining at rest and then, with extreme suddenness and violence, jabbing one’s hand out. The combination of Combat Mastery, Physical Fitness and Body Tempering meant that Orodan’s reaction time was astounding. Yet with Burst Casting, he was casting the individual spell at a speed and with such instinctive explosiveness that he couldn’t react to stop his own magic.
+
+Which meant that practicing it was quite hazardous for anyone around him. Anyone besides Destartes that was. The triple-Grandmaster mage had agreed to train with him until he could master the skill. It was particularly volatile however, and would take time to perfect.
+
+The problem, was that Orodan was naturally a very violent and explosive individual in combat. Naturally, this in tandem with how energetic his soul was meant that any sudden burst of the mana pool portion of his soul was cataclysmically fast. And with just how much mana he had, it was akin to a mountain suddenly moving at the speed of sound. Lightning Bolt had a set amount of mana which it used by default, but when Burst Casting Orodan sometimes used over a third of his mana pool due to the sheer momentum of energy as he violently cast.
+
+Destartes had immediately banned the usage of any spell besides Lightning Bolt. The wizard had outright said that Orodan was likely to kill him if Draconic Fireball went awry when used with Burst Casting. And even with these lightning bolts the danger was increasing as Orodan’s skills improved.
+
+“Right… I apologize. Shall we go again?”
+
+“Ugh… a dozen more times and no more beyond that. I’ll need to bring enchanted items and additional safeguards if I’m to keep training you like this,” Destartes said with a groan. “Yes, you’re in a time loop, but I don’t quite feel like getting turned to ash alongside half the county.”
+
+He would have liked to say that he would do no such thing. But with Burst Casting being as volatile and beyond his speed of reaction as it was, Orodan could make no such guarantees.
+
+He practiced the Lightning Bolt in tandem with Burst Casting a dozen more times as promised, and then they ceased as Destartes grew tired of funneling such large amounts of energy elsewhere via spatiomancy. It was good practice for the old wizard, and given how the triple-Grandmaster looked determined and excited, he must have thought so too.
+
+Still, this session was the final one of many that they’d engaged in during this loop.
+
+And by the looks of it, it was time for everyone to begin filing into the chamber they were in. The one beneath Mount Castarian.
+
+The first to arrive were his students. Aliya and Zukelmux looked more than a little nervous. Edrosic looked quite calm, as did Wainroach. Understandable since the latter two had been through the process of the orb’s memory transference and ‘reawakening’ in the next loop already.
+
+Following them, Old Man Hannegan came in, accompanied by the Lieutenant-General of Anthus and Adeltaj Simarji.
+
+Here, beneath Mount Castarian, within the main control chamber for the ancient machine, everyone of note was assembled.
+
+“Quite the gathering you’ve arranged here Mister Wainwright,” Tegin Carrotfoot spoke. “I believe that is everyone who is in the loop. And no, I shall not apologize for that miserable play on words.”
+
+“Tegin, you’ll be joining then?” Destartes asked.
+
+“Oh heavens no. Knowing that everything will be reset despite my efforts would swiftly crush my morale,” the halfling immediately answered, self-removing himself from being a target of Fenton’s orb. “To that end, Master, I shall leave it to you.”
+
+“I’ve not known you to shirk responsibility before my dear student,” Destartes said, raising his brow, but his tone non-judgemental.
+
+“Indeed. But here the responsibility for the Republic’s liberation from the divine and the protection of our fair world can be left to Mister Wainwright. In you, I see the hope for a better future,” the halfling commander explained. “Seeking greater power or station has never been my desire in life. Even my accolades during the Liberation War were borne of a sense of duty and necessity rather than personal ambition. One day when you complete your final loop, find me a nice house in Anthus where I can retire. Perhaps with one of those fancy immortality pills from this other world you spoke of. I should quite like to spend my ageless days reading all sorts of indulgent fiction from across the cosmos.”
+
+“Hah! Granted,” Orodan agreed with a smile. He had always thought this halfling was a truly honest person. Even in the last loop where they’d worked together to overthrow the divine, Tegin Carrotfoot had simply resumed his position at Anthus instead of chasing any further political appointment or power. “If that’s all you want, I’m more than happy to see that made reality.”
+
+“I suppose ferrying critical information and developments back to you will not be a problem,” Destartes agreed, smiling at the halfling. “Now, before we get to work in putting this machine together, Adeltaj… what has the council said?”
+
+“What else can they say? The Cathedral’s holdouts were not about to refuse us access to the machine. Not when the council seats of your faction were more than happy to agree,” Adeltaj spoke, relaying what he’d seen in the High Spire. “We’re as free as we’ll be to tamper with this giant hunk of metal. Especially if the loop will end soon as you say, Orodan.”
+
+“It will. I sense them… they’re getting closer and closer. Less than a day until they properly narrow down my position.”
+
+“Which just means we’ll have to make this a decent attempt at fixing this thing up,” Old Man Hannegan spoke.
+
+With that said, the work began in earnest.
+
+The ancient machine. It was a device created by the Custodian himself, left within the roots of Mount Castarian so that Orodan could potentially fix it up and gain passage to the very bowels of the System itself. To that strange place where the Eldritch Boundless One fueling the entire System resided. Where the time loop mechanism was.
+
+He had grown up in Ogdenborough, and consequently the machine was located under the mountain nearest to him. It was all ordained; as he knew from when the Custodian had outright said it was he who chose Orodan Wainwright for the time loops as a last ditch measure.
+
+Needless to say, the construct was important. For while Orodan had been in the bowels of System space, this machine, he suspected, could take him directly into the cage where the Boundless One itself resided. All it would need was a slight alteration of its targeting and enough raw power.
+
+Power which he had plenty of.
+
+Destartes was a big help, his magic smoothing out various parts of the re-enchanting and artificing process. And oddly enough, so was Edrosic, whose diagram of the current state of the machine was incredibly detailed and helped Orodan consider the thing from an angle he hadn’t before. And the Lieutenant-General of Anthus worked some sort of social skill which had Edrosic and Destartes working at peak capacity the entire time. Doubtlessly one related to military command.
+
+But most important of all… was Old Man Hannegan.
+
+“No! You’re doing it wrong! Start enchanting from that pauldron and then end at the slope of the elbow!” the old foreman barked. “Can’t you see that if you do it your way the workflow will be askew?!”
+
+It wasn’t that the old supervisor knew the intricacies of Enchanting, Engineering or Artificing, all three of which were critical to rebuilding this thing. But rather, the man’s ability to direct the workflow and see the bigger picture was practically supernatural. Under Old Man Hannegan’s guidance, the team’s productivity soared and certain minor errors and imperfections which would have come from an erroneous workflow were avoided entirely.
+
+Who knew that doing things in a particular order could make such a difference? Why, he’d never worked on the ancient machine so fast in all his loops! The construction supervisor of Ogdenborough was worth far more than his weight in gold.
+
+Still, it was a laborious effort. One which took more than twelve hours. And by the end of it Destartes was exhausted, Old Man Hannegan’s hair was dishevelled from having to constantly redirect them to more efficient work sequences, Tegin Carrotfoot’s voice was hoarse and Edrosic’s hand was sore from drawing and re-drawing sketches of the machine’s current state as they worked.
+
+Yes, Destartes could have used illusory spells, but Edrosic had volunteered to draw in order to improve his skill, and the militia man’s sketches were incredibly intricate in a way even a life-like projection of magic could not achieve. Furthermore, before they made a change or moved onto a critical step, a corresponding drawing of the possible result really did wonders in helping the crew avoid mistakes.
+
+“Damn… I think that should be it. I don’t think I’ve ever drawn so many variations and alterations of a single thing in my life…” Parthus muttered, clenching and unclenching his right hand.
+
+“I will not lie Parthus… I am impressed. I thought Drawing a mere hobby for you, but for it to go so far? Profound,” Orodan genuinely praised. “Thank you for all your help.”
+
+“What are you thanking me for? Aren’t we going to be doing this in every loop from now on? I doubt you’re strong enough to deal with whatever’s on the other side. And these Embodiers you talk about sound really tough,” Parthus spoke. “So my work’s far from over.”
+
+The man didn’t sound annoyed by that fact though.
+
+But the labor had been a gainful one. He had gained levels in Artificing, Engineering, Laboring and even one more in Enchanting. This was all a welcome boon, but Orodan still felt he had a long way to go. Particularly since he felt his work on the machine wasn’t as good as that of some other people he knew.
+
+“I’m not sure it’ll work this time,” Orodan honestly admitted. “I’m but an Adept Engineer and merely a Master-level Enchanter. This still doesn’t match up to my memories of the completed version made by the Custodian.”
+
+“Expecting to succeed in such a monumental undertaking on the first try is a bit much Mister Wainwright,” Tegin Carrotfoot spoke up. “Even then, these are some of the most profound enchantments I have ever seen in my life. I did not know three-dimensional enchanting could look like that.”
+
+“Four dimensional in fact. The etchings also bear the dimension of time to them. Much like System glyphs do,” Orodan explained. “But I’m no prodigy of Enchanting, that would be Fenton. And I’m not about to drag him from his world and into one where he’ll be on the brink of war at the end of every two week period.”
+
+Clyburn Anderthorn too. That man’s acumen for Engineering and Artificing was top notch.
+
+While Orodan intended to become capable of rebuilding this machine the right way with his own hand, he needed expert consultation in order to learn how to go about that.
+
+“Then, it should be a goal of yours to create that world of peace which he can come to, no?” Tegin suggested, and Orodan agreed. Until he was capable of protecting his world from the oncoming threat, he felt it poor manners to just drag Fenton over. “Well, before we evacuate the chamber and possibly the county so that you can activate the machine, perhaps we should have the final debrief. Mister Edrosic, if you would?”
+
+Parthus nodded, pulling out a very large war map sized scroll of paper and unfurling it upon an Earthen Construct raised by Destartes. On the canvas was an intricately detailed chart of names, associated portraits of people, and lines going from one to another. It also had detailed Statuses of everyone. Even Orodan’s, from when he’d used the observer orb in the barracks.
+
+“You drew all this Parthus?” Orodan asked, bewildered at the intricacy.
+
+“Just a side project which took no more than an hour and a bit of nudging from the General,” the man replied, pride in his voice.
+
+“Quite. With Mister Edrosic’s profound knack for detail I’ve put together a chart detailing the current goals of your group and how to best go about achieving things,” the halfling explained. “For starters, Misters Zukelmux and Edrosic and Miss Aliya. How goes the academy?”
+
+“Unchallenging…” the goblin muttered.
+
+“Better nowadays,” Edrosic said.
+
+“Fun!” Aliya exclaimed.
+
+“Well, that’s good to hear,” Orodan responded. “Zukelmux. Next loop, you’re going to Bluefire. No sense in having you waste your time at Oxhead any longer. Edrosic, you’ll continue at Oxhead until you can best the strongest student there. And Aliya, the same goes for you.”
+
+“Ugh… must I Orodan? The woman’s a high-Adept and put me in the dirt until Zukelmux stepped in and beat her black and blue in recompense,” Edrosic groaned.
+
+Aliya didn’t look too happy about having to redo school each time either.
+
+“Don’t give me those faces. Until you can fairly prove yourselves the top of the academy like Zukelmux has, there’s no point to advancing elsewhere. Earn your way out of the drudgery if you dislike it so much,” Orodan lectured. “Shortcuts and slacking will not get you anywhere.”
+
+They discussed a few things further where the faces of those two lifted at the prospect of additional Calligraphy and drawing training for Edrosic and magical training for Aliya. And of course, Orodan intended to drag them to the depths starting from next loop.
+
+“Now as for you… Wainroach,” Orodan said, focusing on her.
+
+“Her abilities in pyromancy have truly soared under your and Destartes’s tutelage,” Tegin remarked, pointing to the canvas. “Perhaps futher focus on that is warranted? I’ve never seen a cockroach cast Fireballs the way she does.”
+
+“Indeed. You shall continue your Fire Resistance training alongside your pyromancy. But we shall also strengthen your physical form. I will have you contending against Death Roaches in melee soon enough,” Orodan solemnly declared, causing even the normally eager Wainroach to shrink a bit at the prospect of it. “We will also begin putting you in early school to learn your letters and numbers like Aliya is. No, do not give me that look. You will learn, and you will be giving me essays on your progress once you can read and write. An enhanced intellect and exposure to culture, art and life experiences will make your soul stronger, which is currently one of your biggest limitations. A stronger soul means a larger mana pool and more regeneration of it.”
+
+That certainly helped sell the cockroach on the idea.
+
+“And now… for you you two,” Orodan said looking at Adeltaj Simarji and Destartes.
+
+“Us? You mean to teach us as well?” Destartes asked. “I admit, it will be quite nice to expand my understanding of magic even further.”
+
+“Quite. Alastaia has no native-born Transcendents, and the one who is closest to achieving that is on Eldiron,” Orodan explained. “You of all people should be more than capable of matching that. Next loop, I will be taking you and Adeltaj along for some training in the void. Perhaps we will even explore the moon.”
+
+There was also a certain dimensional phase spider he needed to make contact with next loop, and perhaps even draw into the fold. Talricto would be an excellent tutor for not just Orodan, but Destartes as well. It was something that had fallen to the wayside on this loop, but he fully intended to bring that haughty eight-legged fool along.
+
+“I profess… ever have I dreamed of exploring the void in my youth. I thought I might die a natural death as my lifespan ended before seeing it realized,” Destartes spoke. “I shall look forward to this. Or, the me of the next loop certainly will at least.”
+
+“Testing this new Mythical skill of mine in proper combat shall be exciting,” Adeltaj added. “Perhaps my first opponent can be a True Vampire?”
+
+A vein on Orodan’s head throbbed at the old halberdier’s joke, but he ignored it and swept his gaze across everyone.
+
+“Then that resolves almost everything. That is… besides the remaining matter.”
+
+And as he spoke, he gingerly placed a tome upon the canvas. It was precious to him, exceedingly so. For although Orodan had memorized the entirety of its contents, he still did not wish to lose it.
+
+It was the tome Almyra had given him. A sort of journal which contained her thoughts, theories and conjectures on many topics. Chief among them being true soul genesis.
+
+“I have asked headmaster Arlin Colton at Bluefire, but he was quite clear that he’d never seen such concepts during his life and tenure,” Destartes commented. “If even the head of the department of soul magic at Bluefire does not know… then perhaps Eldiron might be of better help?”
+
+“That or Guzuhar… those are the two places that extensively use spirit magic,” Adeltaj added.
+
+One of the theories Almyra had regarding true soul genesis, was studying the birth and formation of elementals. Spirit mages called upon them from the elemental planes, but these were still living beings. They had souls, they had access to the System. And unless Orodan wanted to carefully study the intimate affairs of random couples in town—an act which would be as honorless as it would be unreliable—his best bet was to study the emergence of elementals.
+
+In studying how a soul formed, he would be better positioned to help rebuild Zaessythra’s soul from the ground up.
+
+The tome also had another secret, the prospect of replicating clones like Almyra had. But for that, he would need to still study elementals and perhaps learn under the drow for a while as their methods of enchanting were a solid contender for what he wanted to do.
+
+Almyra had her own methods for making clones, but Orodan found the technique of mirroring the soul to be inefficient. Each clone simply wouldn’t have the same power that he normally did, and for him that was unacceptable.
+
+But with all that out of the way… the only thing left to do was activate the machine.
+
+Although Edrosic looked as though he wanted to give him something.
+
+A drawing?
+
+#
+
+It was quite near to the time now.
+
+Orodan’s mind was steady and his sight set upon the machine. He had extensively studied the series of enchantments he would need in order to re-direct where the ancient machine’s dimensional pathway led to. The Custodian had built the machine to reach into the bowels of the System, but during his time with Fenton upon Lonvoron, Orodan had studied, theorized and brainstormed alongside his student in order to come up with a minor re-direction.
+
+And in the interest of not getting Alastaia caught up in the crossfire of his battles against these incoming cosmic foes, Orodan knew that he needed to move the ancient machine elsewhere. Especially if he intended on testing himself against the rival Embodiers who came for him.
+
+But the machine was gigantic. Its pipes and limbs ran through the entire mountain itself! A Spatial Fold would cause more than a bit of damage, either to the machine or to Ogdenborough. Certainly, Orodan had the raw power for Teleportation, which could work. But sometimes it was better to practice skills he hadn’t used in a while.
+
+[Spatial Shift 27 → Spatial Shift 30]
+
+What would have been a difficult endeavor in the past was now quite casual. Yes, he was shifting something hundreds of thousands of miles away, but it wasn’t an entire city full of complex beings and items like Novar’s Peak had been. And there was far less need for finesse and concentration when he was dealing with just rock and metal. But chiefly, his Space Mastery was higher now than it had been then.
+
+With a flexion of power, not the machine, but Mount Castarian itself… shifted.
+
+In but a moment, the entire mountain vanished, leaving an gigantic hollow in the ground which suddenly dropped into the wild depths. It was exceedingly odd, and any bystanders would consider it a divine event no doubt.
+
+Orodan stepped along with the spatial shift and found himself and the entire mountain deep in the void of space, many star systems away from Alastaia. He stepped out of one of the tunnels, and instead of it leading deep into the depths, it now directly led to the desolate void between stars. A feeling most odd as the entire mountain floated through the expanse.
+
+And as expected, the moment he stepped out, something noticed him. Or rather, the things which had been after him all this time were now able to locate him far easier, near enough as they were.
+
+Space tore, gravity condensed inwards yanking Orodan towards a singularity, and the first thing to emerge from it was a humanoid being. Some sort of animal-woman hybrid with goat legs, furry arms and wielding a staff. Around her, vines, insects and animals thrived. The lifeless rocks of space? They began suddenly growing an ecosystem. The very void around them? It began sprouting odd but tough creatures which seemed well-adapted to the resource-starved and airless environment.
+
+An aura of… life. No… it was purity. The purity of life itself as natural living things began sprouting up. The cleanliness… of nature.
+
+Orodan had encountered this goat-woman. Not directly, but when she had tried competing against him for control of the concept of Cleanliness. And she was not happy.
+
+“You stole my power. GIve it back. Now.”
+
+“Make me,” Orodan replied, defiance in his voice.
+
+If she thought he was the type to roll over, then she had another thing coming. But the problem remained that this foe seemed quite out of Orodan’s reach. The shift in gravity that he felt wasn’t her, not directly.
+
+It was the procession of planets following behind her through the spatial tunnel she’d entered through. Planets which were teeming with life and a diverse array of flora and fauna. Life which bent to her every whim.
+
+“You will not defeat me in open battle thief. Where you have come from and who you are, I do not know. But you shall return my power lest I end your life here and now,” she threatened, throwing an entire planet at him.
+
+It was a probing strike. It had to be.
+
+Orodan would have loved to smash the planet to smithereens, but with how much innocent life and the number of fledgling civilizations he sensed upon its surface, that was out of the question. This wicked Embodier didn’t seem to care for them at all.
+
+[Dimensional Step 38 → Dimensional Step 39]
+
+Orodan tore through the dimensional boundary to reappear right in front of this annoying goat, only to receive something quite new and unexpected.
+
+Disease and plague.
+
+Still, the effectiveness of it wasn’t as bad as he thought it would be.
+
+“Irksome. Your body is structured most strangely and only the flesh eating bacterium has any effect,” she spoke, annoyed by his resilience.
+
+“Do you not care for the people on these worlds you’re dragging along? What if I had smashed them apart?” Orodan pointedly asked attempting to close the distance while she nimbly kept moving away.
+
+Swarms of insects, giant mushrooms with arms, and moon-sized masses of vines and plant matter. She put all of these between her and him in an attempt to prevent him closing the distance in melee.
+
+“Life and death. Destruction and rebirth. Such is the natural cycle of the universe. The purest expression of existence,” she lectured.
+
+“Given that your stupid outlook didn’t avail you much against me in our conceptual duel, perhaps you ought to reevaluate that,” Orodan spat, beginning a very violent and brutal massacre of the legions of chaff she was sending against him.
+
+The bugs tried swarming his mouth, he simply bit down and made them a meal. They tried piercing his eyes and he simply blinked hard enough to smash them between his eyelids. They tried entering his nose and he simply snorted to murder them all. The mushrooms attempted to slug it out with him and he splattered them across the void. And he simply began squashing the gigantic masses of plant life down to an impossibly compressed ball between his palms
+
+“Ruthless and brutal. Are you sure you’re an Embodiment of Cleaning?” the goat-woman asked and then raised her staff. “I had thought to take you alive to study what makes you tick. But dead and my power returned is acceptable as well.”
+
+Embodiers were strong. The Living Crystal he’d fought a while ago was proof of that, as was Alagameth.
+
+Orodan was reminded of this fact via a titanic staff strike to his skull. The nearest star system in the direction of that attack was utterly vaporized, and the nearest four were shattered. He himself was reduced to a handful of cells.
+
+Frankly, he’d been entirely lucky to have not died instantly.
+
+His opponent, blazing with life energy, followed after his remains, possessing some method of sensing even the smallest cell. And he then realized he would need to give his all as this foe was stronger than even the de-powered Prophet had been.
+
+He reformed immediately, and her next attack, poised to end his life, was met with a Smite of Abrupt Deliverance. One for which he’d hastily empowered his arm with a Draconic Fireball fueled Elemental Living Enchantment.
+
+[Smite of Abrupt Deliverance 91 → Smite of Abrupt Deliverance 92]
+
+[Burst Casting 18 → Burst Casting 21]
+
+[Draconic Fireball 83 → Draconic Fireball 84]
+
+[Elemental Living Enchanting 17 → Elemental Living Enchanting 19]
+
+It was pure apocalypse. Orodan had used this combination before in order to finish the vastly weakened Prophet off, but the difference between then and now was absurd. Before, his mana pool had been entirely emptied, but via a normal cast. But now?
+
+He was forced to throw the Smite of Abrupt Deliverance almost immediately lest he die on the spot. It was as though the effective power of his mana pool had been multiplied due to the burst of momentum within the energy. Frankly, if his soul wasn’t strong, Orodan suspected he’d suffer soul damage using this skill the way he did.
+
+And even then… it wasn’t enough.
+
+His opponent’s staff had won the clash of power yet again, but not by a terribly wide margin either. The goat woman looked astonished that he could bridge so much of the gap. Frankly, he was astounded by the power output as well.
+
+It was only the backlash and impact of his own strike which saved him by hurling him away from his foe. And he found himself near the floating Mount Castarian once more.
+
+“Incredible… so weak in combat yet capable of hitting so far above your weight. And you do not even use the full extent of the power of Cleaning,” the goat-woman spoke. “I freely admit, you are a true prodigy. If anyone deserves to wield the concept of Purity, it is you. But I will not underestimate you again.”
+
+From the looks of it, she was winding up for her strongest possible attack. And if he’d already lost the direct clash against the previous blow… what hope did he have now?
+
+Orodan was on the verge of considering this loop ended when realization hit him.
+
+This was a familiar situation.
+
+The clash against the adventurer in Greenvale. The matching of blows against Adeltaj Simarji. All his loops thus far where he’d fought uphill battles against stronger foes.
+
+He was made for this. Fighting against the impossible was all he did, even from as far back as his street rat days.
+
+And what finally clicked… was that drawing Edrosic had given him just before everyone else had evacuated from Mount Castarian.
+
+A picture of Orodan’s fist meeting the spiked gauntlet of that adventurer from Greenvale. A simple picture, yet so intricately detailed. And in it, unlike in the real world, it was a picture where Orodan was the weaker force meeting a stronger foe. His attack pitiful. Logically, it should have failed.
+
+Yet Parthus’s drawing had captured the essence perfectly. Of the impossible notion of something weaker meeting something stronger and making… balance.
+
+[Burst Casting 21 → Burst Casting 22]
+
+[Elemental Living Enchanting 19 → Elemental Living Enchanting 20]
+
+[New Skill → Balance Maker 15 (Mythical)]
+
+It was utter impossibility. His Smite of Abrupt Deliverance, empowered by a Living Elemental Enchantment of Draconic Fireball in his right arm, via a Burst Cast, met her staff. By all logic his strike was weaker, it should have lost. There was no way he could have won.
+
+And he certainly didn’t win.
+
+But what he did do, was stalemate the attack.
+
+It was as though the goat-woman Embodier had run into an unshakeable and unmoveable brick wall. She hadn’t lost, but the sheer backlash of the collision caused decent damage to her far frailer body.
+
+Unfortunately for Orodan, he too suffered. Greatly.
+
+There was a price to be paid for forcing a balance in a lopsided exchange. A severe one for his body, and an even greater one for his soul.
+
+He felt his soul violently tremble and shake under the raw power of the backlash. The price paid in full at his expense.
+
+“H-how?!” the animal-hybrid alien demanded, blood leaking from her mouth. “You are weaker! Not a high-level Embodier like I! How can you match me?!”
+
+“By forcing a balance. No matter the gap.”
+
+That was the truth of how this new skill operated. Certainly, the odds of him outright dying if he forced a balance between attacks too far in power were high. But since when did Orodan care about death?
+
+While the machine had survived, the surrounding rock of the mountain had not. And it had all been blown away exposing the metallic skeleton of the ancient machine. A construct which Orodan was now standing very near.
+
+“I apologize… and it stings me at core to do so… but I must depart. Any more fighting and all the work my comrades and I have put into this machine will be for nil. While I’d love to die fighting you, I do also need to see whether this machine works as intended. I’ll definitely resume this battle next time.”
+
+And with those final words, Orodan’s hand laid upon the control orb of the ancient machine and he poured power into the control sequence.
+
+As expected, the refurbished machine—with its target altered to aim for the depths of System space itself—cost a lot more power than usual. But such energy constraints did not even faze him by this point. The machine whirred to life, a dimensional opening tore wide in the void of space, and immediately a deluge of Eldritch energy began pouring out.
+
+An incredibly dense and concentrated form of it. As though it was coming right from the source of it all itself.
+
+“Y-you fool! You have doomed us all by breaching the cage!” his former opponent shrieked as she began fleeing.
+
+Orodan didn’t see the big deal. This had been his target all along. Instead of the bowels of the System, he intended to directly enter the cage containing the Boundless One itself. This would be needed if he was to eventually enact his grand ambition of purifying the System and offering his own in its stead.
+
+And as he stepped through the dimensional opening and out to the other side, he realized that it had only been a partial success.
+
+The cage was unfathomably strong, and whatever alterations he made to the ancient machine weren’t enough to fully breach it. Now standing in the bowels of System space he saw one immediate reaction.
+
+The Custodian.
+
+Who was charging at him, death and fury in the Arch-Devil’s eyes. Breaching the cage had not earned him its goodwill.
+
+But the real problem was the Boundless One within the cage. And it was more than a little displeased at the prospect of its liberation given the colossal beam of boundless Eldritch power rushing towards him.
+
+And in the final moments of the loop Orodan had a singular mad idea.
+
+What if he tried using Balance Maker against a Boundless One?
+
+[Balance Maker 15 → Balance Maker 49]
+
+#
+
+A sharp sensation roused the being to alertness.
+
+What was the being? What were these odd sounds?
+
+These strange scenes it beheld? The two long and sturdy appendages it could move around… what were they? What was it?
+
+It took many, many units of a measure of time some small voice told him were hours, before it began to recollect the basics of what it was.
+
+And from there, he needed many more hours of introspection and soul repair before Orodan finally remembered who he was.
+
+[Incipience of Infinity 148 → Incipience of Infinity 149]
+
+As Orodan finally finished healing his soul, his System and bringing the shattered parts of himself together, he admitted that using Balance Maker against the full force of a Boundless One was perhaps a bad idea.
+
+Although…
+
+…it was some excellent training.
+
+And he had many more loops of this to get through alongside much training of his students before he could surmount the difference.

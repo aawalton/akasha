@@ -1,0 +1,165 @@
+---
+id: 95ac8c7a-627c-5e69-9e06-6d23b13173b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1177 - Just Dessert"
+slug: 0049-chapter-1177-just-dessert
+partOf: the-primal-hunter
+position: 49
+ownLength: 2781
+unit: words
+ownProgress: 2781
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2666021/chapter-1177-just-dessert"
+royalRoadId: "2666021"
+markedReadAt: "2026-06-29T19:30:48.893Z"
+---
+
+Jake truly understood why Palate of the Malefic Viper increased endurance after finishing the main course, because keeping up a happy face while enduring the emptying of Solana’s entire pot of poisonous mushrooms was no easy feat.
+
+Luckily, he got a little help from Artemis, whom he dragged along into the gates of hell by his side. Solana and Keerla were both done with the mushroom soup after only one bowl, with Keerla needing to down the antitoxin toward the end of hers as she was not feeling super well, so both of them were definitely happy to see Jake and Artemis eat with such gusto.
+
+Unfortunately, Jake still ended up taking the brunt of it, but in the end, the entire bowl of mushroom soup was finished. Seeing how happy Solana was as she went to fill that last bowl of soup nearly made it worth the suffering.
+
+Nearly.
+
+Annoyingly, Artemis didn’t raise a fuss at all but acted like a perfect dinner guest who loved the menu. It was almost infuriating, but Jake couldn’t even tell if she genuinely liked the soup or not. If he didn’t have his own inherent bias that it was a meal from the depths of hell, he would have perhaps even guessed she actually liked it.
+
+Putting down the spoon after the final mouthful, Jake kept up his smile of lies as he spoke more words filled with twisted truths.
+
+“Yep, I can definitely confirm that’s the best mushroom soup I’ve had. Thanks for making it,” Jake said, once more not technically lying. He was grateful that Solana and Keerla had subjected themselves to eating mushroom soup in an attempt to make Jake happy, even if they had done so under false pretenses.
+
+“Yes, it was certainly a dish to remember,” Artemis, the architect of this culinary act of terrorism, added with an innocent smile.
+
+“I’m glad you two liked it so much,” Solana said, seeming a lot calmer now than when they’d eaten the mushroom soup. Jake could only begin to imagine how devastated she would have been if Jake had rejected her hard work, once more confirming to him that his suffering had been worth it.
+
+“I repeat, never doubt the Mistress of the Hunt!” Keerla added happily as she began to clean up the bowls.
+
+Artemis nodded to that statement, making Jake throw her a glance. She looked back at him, all smiles, fully aware of what he’d done. Perhaps this little prank was her way of getting back at Jake for convincing her to do this in the first place, or maybe it was just her being playful. Either way, Jake would get his payback, one way or another.
+
+“I hope it’s fine if we take a little break before the desserts,” Solana said as she walked back into the room and motioned toward the room next to them. “It would be an honor if you would join us in the living room for some snacks and relaxation.”
+
+Again, it seemed a bit rehearsed, but it had definitely gotten more casual than when they’d first gotten there, so that was progress.
+
+“We would be glad to,” Jake said, as he and Artemis followed Keerla to the next room as Solana brought in snacks and different beverages. Sitting down on the comfy sofa, joined by Artemis beside him, all four soon found themselves sitting.
+
+“Lord Thayne, do you know how much longer you plan on staying in the Pantheon of Life?” Solana asked, getting the conversation started, though she quickly seemed to realize her words could be interpreted in a negative way. “Not to say I wish you’d leave! I’m merely curious.”
+
+“I have a few projects here I plan on finishing up, but once that’s done, I’ll return to the Order of the Malefic Viper for a while,” Jake answered, ignoring the panicked apology. “After that, I should really return to my own universe and check on my home galaxy. While I do believe in the people I entrusted running things to, showing up once in a while would probably still be best.”
+
+“Did you really conquer an entire galaxy while only in C-grade?” Keerla asked, looking a little skeptical.
+
+“Eh, just the planets with enlightened species on them,” Jake clarified. “However, it’s pretty understood that of the major multiversal factions, I’m the one who won the battle. I’m fully aware that there definitely still live beings, especially close to the center, that are far too powerful for me and every other native.”
+
+At the center of every galaxy was a massive black hole that all the solar systems revolved around, and the closer one got to this black hole, the greater the mana density tended to grow. It wouldn’t be surprising if A and perhaps even an S-grade or two could be found close to the galaxy’s center, though Jake wasn’t sure if the Milky Way Galaxy was large enough to spawn S-grades.
+
+“I see... yeah, that makes a lot more sense,” Keerla nodded. “I wonder how the new declaration of friendship will impact your galaxy and planet. Seeing as it’s ruled by the Order of the Malefic Viper, it wouldn’t be weird if a lot more people from the Pantheon of Life would start going there.”
+
+“Small clarification,” Jake added. “I’m the one who officially rules it. Not the Order of the Malefic Viper. Sure, they are involved, but it’s them helping me and not me conquering the galaxy for them.”
+
+“And before you ask, no, that’s not mere semantics,” Artemis said, having seen through their two hosts’ thoughts. “The Order of the Malefic Viper is not the only faction with ruling power over the galaxy. Instead, from my understanding, it’s more a council of sorts, involving several influential World Leaders and powerful individuals. The Order’s true role is the powerful backing that ensures no other faction dares to try to take control.”
+
+Solana listened and slowly nodded. “I have a hard time wrapping my mind around how such an arrangement truly works, but I guess things are a lot different with the restrictions still placed upon the universe.”
+
+“Oh, yeah, for sure,” Jake nodded. “It is opening up slowly, though. Speaking of, once it’s opened up to those at your level, you two are free to come for a visit. I would be remissnot to return the hospitality.”
+
+“It would be an honor,” Solana said, slightly bowing her head.
+
+“No expectations or pressure, just an open invitation,” Jake clarified.
+
+“Not going would be silly,” Keerla chuckled. “Especially to your galaxy. The mere fact that we even know so much about your galaxy shows how it’s become a maelstrom of Records.”
+
+“Oh, definitely, which is likely also why so many other factions have been annoying,” Jake chuckled, shaking his head as he ate a small biscuit from the snack table, which immensely helped get the taste of mushroom out of his mouth.
+
+The two looked a little uncomfortable shit-talking other major multiversal factions, which was likely why Solana tried changing the topic a little.
+
+“If it’s not too much to ask, what kind of projects have you been up to during your visit to the Pantheon of Life? Besides hunting, of course,” the dryad asked curiously.
+
+“No, it’s totally fine,” Jake put her worries to rest. “I’ve delved into some of the resources provided by the Pantheon of Life to upgrade some skills, and recently I’ve been working on a big ritual I won’t share the details of. Besides that, these projects are pretty much just all training in preparation for my B-grade evolution.”
+
+“I see,” Solana nodded, seemingly thinking about his answer a lot more than Jake saw any need to.
+
+“Do you have any big goals you want to achieve before evolving?” Keerla asked, leaning forward. “To you, it may sound a little silly, but I want to successfully hunt a B-grade before I evolve. With just Solana and me.”
+
+“That’s a good goal,” Jake said, not joking around at all. Based on what he’d seen from the two, they should be able to do it, even if it would be hard, making it a worthwhile goal.
+
+“And now you’re about to tell me your way loftier one,” Keerla chuckled.
+
+“I want to solo hunt a True Dragon,” Jake said, a confident smile on his lips.
+
+Solana and Keerla both stared at him for a solid two seconds before Keerla started full-on laughing. Solana looked a bit panicked and motioned for Keerla to stop, but the elf was too amused as she kept shaking her head.
+
+“If any other C-grade had told me that with a straight face, I would be sure they were just yanking my chain, but if it’s you... Yeah, that’s definitely a goal worthy of someone like you,” Keerla said encouragingly.
+
+“But it won’t be easy and not a task to be taken lightly,” Artemis added, speaking as both her genuine self and her current role.
+
+“Definitely not,” Jake shook his head. “Which is why a fair number of my preparations are in part to achieve this goal. I’m working on making a Dragonbane poison, and just recently, I even got a sweet upgrade to my weapon that’ll surely help with the hunt.”
+
+Mentioning the bow, Jake subtly threw Artemis a glance to see if talking about it was perhaps a bad idea, but based on her look, it wasn’t a big deal if Jake wanted to flex his World Tree bow.
+
+“Oh? A new bow?” Keerla asked with interest. “Can... can I see it? I would also show you my epic rarity bow, but I’m afraid I would only be embarrassing myself.”
+
+“I’m not a snob when it comes to having good gear,” Jake said with a shrug. In most cases, for someone like Keerla, the difference was negligible in the first place, especially when it came to armor. They wouldn’t be able to as easily “cap out” the capabilities of their equipment, while Jake far more often found himself bottlenecked by his gear.
+
+“But if you want to see it, sure,” Jake said as he waved his hand and summoned his Apex Hunter’s bow. Keerla’s gaze was laser-focused on it from the moment it was summoned, her eyes wide.
+
+“Can... can I touch it?” she asked nervously.
+
+“Sure, but don’t try to infuse energy or anything. It can get a bit fussy if people do that,” Jake warned her.
+
+Keerla nodded as she touched the bow with a single finger. She dragged it along the body of the bow and even leaned forward to smell the wood. With shaky hands, she picked it up and tried to hold it, but she seemed intimidated just from having it in her hands, making her quickly put it down.
+
+The high elf took a deep breath as she kept looking at the bow. “That... isn’t a normal weapon. Not in the slightest.”
+
+“I would hope not,” Jake chuckled, delighted to see his new weapon praised that much. “If it were, it would be an insult to Yggdrasil, Nature’s Attendant, and myself.”
+
+His comment earned him a few more stares as Jake elaborated. “Due to certain circumstances, both of them wanted to do me a favor, which ended up being them helping me with creating this bow. The wood comes half from a bow I already had, granted directly by the system, and the other from Yggdrasil. As for the string, I had the help of Artemis.”
+
+This elaboration only made them stare even more, and Solana even lowered her head a little, seemingly unsure if she should be bowing toward an item that could be categorized as divine in nature. Keerla was a bit of the same as she stared down at her hands that had touched the bow earlier.
+
+After a little while, Solana was the first to get herself together as she lowered her head and bowed. “Thank you for allowing us to see this marvel of creation.”
+
+“You’re overdoing that politeness thing again,” Jake pointed out. Things had just been going so well before, and everyone had really lightened up.
+
+“Cut them some slack,” Artemis said, shaking her head. “It’s your fault for bringing out something like that. How about you show off your Sin weapon next?”
+
+More stares, but at least her interjection had managed to lighten the mood a little bit while giving Jake the chance to put the bow back in his spatial storage. Once it was gone, the two seemed to visibly relax, making Jake realize that perhaps a bit of that divine aura still lingered on the bow, based on how nervous it had made the two.
+
+“Seriously, thanks for letting me see it,” Keerla smiled after a few seconds. “I’m a bowyer by trade, and just seeing something like that made me feel as if I’ve improved my level of craftsmanship. I can almost feel the Records coursing through my Truesoul. Okay, not really, but I like to imagine the thought.”
+
+“No problem,” Jake said, returning her smile as he ate another cookie, giving Solana a look. “These are damn good. Did you bake them yourself?”
+
+He already knew she had been the one to bake them, but he still asked to nicely bring her back into the conversation. It worked wonderfully.
+
+“Huh? Yes, yes I did, and I’m glad Lord Thayne likes them,” the dryad said, having been given the chance to clear her head a little.
+
+“Not as good as the soup, though,” Artemis said with a bright smile.
+
+Jake just smiled in return as he ate another cookie. He would get his revenge someday; he just had to figure out how and when.
+
+Having switched to lighter subjects, the four of them stayed in the living room and talked a while longer. Jake primarily asked questions about how it was living in the Pantheon of Life and about the territory as a whole, while their two dinner hosts asked Jake about some of his exploits and also finally got the whole story about what had happened back in the Hunting Ground.
+
+They were quite surprised, and Keerla even chuckled when Jake mentioned the Rainbowfeather Sovereign refusing to fight Jake. The two were even more surprised when he spoke about the Chimera and how it had been an assassin from the Court of Shadows that tried to take Jake down and even dragged him into the Shadow Realm.
+
+No, Jake did not mention his brief encounter with Umbra or how he’d gotten his cool new cloak.
+
+Artemis didn’t talk a lot but only asked some basic questions here and there. Jake did find some pleasure when Keerla began to ask her about how she’d ended up getting blessed by Artemis and if she’d ever seen the Chosen of their “shared faith.”
+
+Did Jake encourage Keerla a little bit to keep asking? Yes, but sadly Artemis was pretty damn good at the entire roleplay thing, having perfect answers at every turn. She was so good at telling half-truths that technically weren’t lies that it was a little scary.
+
+After Jake had eaten just enough cookies for it not to be considered too impolite, Solana went back to host mode.
+
+“Oh, look at the time! We shouldn’t forget about the desserts,” she said, acting all surprised, even if Jake was fairly confident she’d been hyperaware of everything and had just been waiting for a natural lull in the conversation to bring up the dessert.
+
+“I wouldn’t miss it,” Jake smiled, even if he felt a faint tinge of fear. If Artemis had also given divine guidance regarding the dessert, he was already dreading what was to come.
+
+Solana motioned for them all to stay sitting as she went to the kitchen. Jake forced himself not to look at his sphere and instead dedicated all his energy to hoping that he wasn’t going to be receiving another mushroom dish.
+
+The dryad returned to the living soon after, carrying a large plate. Jake looked over, and to his horror, saw that she had brought a large blue mushroom sticking out of a base made of green moss.
+
+Terror was about to invade Jake’s mind as he realized... Sense hadn’t reacted. Upon a closer look, he also saw that the moss looked slightly off. It was glistening. Moreover, toward the bottom of the base, there were slight signs of the moss... melting.
+
+That’s when Jake realized. It wasn’t actually a blue mushroom sticking out of moss.
+
+It was a goddamn ice cream cake shaped like that.
+
+And it was the best damn dessert he’d ever eaten, with not a trace of actual mushroom anywhere in sight.

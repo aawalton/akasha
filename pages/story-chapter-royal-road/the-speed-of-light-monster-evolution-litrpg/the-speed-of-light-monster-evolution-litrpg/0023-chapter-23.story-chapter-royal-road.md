@@ -1,0 +1,191 @@
+---
+id: 8ef9299d-d095-58eb-b264-486b2d1572db
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23"
+slug: 0023-chapter-23
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 23
+ownLength: 2293
+unit: words
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2601550/chapter-23"
+royalRoadId: "2601550"
+---
+
+Tachyon’s vision faded for a moment, and when she reclaimed it, her surroundings were entirely new.
+
+A weird power and mana she had never experienced before were exuded in every molecule of space. Large, thick trees that reached towards an iridescent sky were draped in shining vines. And to top it all off, from the grass-covered ground bubbles of yellow golden light floated toward the sky.
+
+It was unlike anything she had ever seen. It felt.
+
+“Free,” she said, as the word slipped out from her mouth.
+
+“Hello.”
+
+A voice came from behind Tachyon as she jumped forward, suddenly trying her best to summon her magic and other skills, but felt them suppressed.
+
+“No need to be so jumpy, young foal… And I would suggest you do not try to fight in this place. It would not go well for one so young as yourself.”
+
+Tachyon’s eyes tried to focus on the voice, only to find that somehow she was unable. She could make out a blurry figure on four legs, horns adorning its head in a vague feeling of majesty that she felt in her soul despite being unable to focus.
+
+The voice hit her ears like a pleasant light breeze, neither male nor female. And with an eerie power unlike anything she had encountered before.
+
+“Are you who invited me here?” Tachyon asked.
+
+“I am,” the voice answered, “My name is Secretariat.”
+
+Secretariat paused, waiting for something. But Tachyon had no idea what. Did this person or monster bring Tachyon here to fight? She thought it was for a talk over sweets. It was the whole reason for her coming. In fact, she was beginning to become angry at the thought of being tricked, and even more so at the thought of not being fed.
+
+“Where are the sweets?”
+
+“Pardon?” Secretariat asked in confusion.
+
+“I was told there would be food. Where is the food?” Tachyon asked again.
+
+Tachyon couldn’t see Secretariat’s face, but somehow she imagined that their eyes had blinked several times before answering.
+
+“I suppose my invitation did say such a thing. However, do you not think it rude to not offer your name and introduce yourself first?”
+
+Tachyon frowned, pawing at the ground, “I think it is rude that you have not given me the rewards you have already promised me. I was invited to talk, we are talking, and now I wish to have my food and be on my way.”
+
+“That is not how-”
+
+“Fine, then I will be leaving. I have many people waiting for me.”
+
+“A moment just a moment!” Secretariat grumbled, “I will allow you to eat. But do you not even know who it is you are in the presence of?”
+
+Tachyon squinted her eyes, trying again to focus, “A horse? Perhaps a large dog?”
+
+Her answer must not have been far off as the reaction of Secretariat nearly falling over was clearly a good sign.
+
+“Fine! This is not working!” they shouted.
+
+A moment later, the veil faded away, leaving Tachyon stunned. Not by what she saw, but what she felt. Not only did this blurry veil remove her obscured vision of Secretariat, but also unmasked their dense mana and everything else.
+
+Tachyon felt herself become nauseous as her legs shook and she struggled to keep her upright.
+
+“Impressive to stay upright, foal. Most would fall unconscious by now, even with how suppressed I am keeping my aura. It is a shame I do not care for system events or you may have come here through the system. But unfortunately for you, I must invite you myself,” Secretariat chuckled lightly.
+
+“W-What is g-going on..?”
+
+“You are feeling Rank sickness. Should you stand it for long, you may gain a skill. Rejoice if that is the case, but I must refrain from speaking too much. Even if I am the one to invite you, the system is not so unaware as to forgive me for telling you more than you should know. Now, shall we get to the point of this conversation?”
+
+Tachyon could barely focus. She had not felt this weak since the early days in the arena. It was as if she had gone back to being a newborn, her legs so unsteady that she could fall at any moment.
+
+“Now, you have thirty seconds to reach the spring in the middle of my realm and return. Should you achieve this feat, I will not kill you.”
+
+What..? What did they say? Tachyon thought, barely coherent.
+
+That was when Tachyon was blinded by a flash of green light, a hand touching her face with considerable force. Enough to wake her from her stupor as well as fill her mouth with the taste of blood.
+
+Her eyes focused, and in front of her was a human draped in fitted green robes and verdant hair that reached their feet, small strands hanging on the magnificent antlers protruding from above their ears. Severe yellow eyes followed her, demanding her to obey, but her question was too powerful to not ask.
+
+“Are you a human or a horse?”
+
+“I am a great stag!” Secretariat snapped, then breathed in, “And before you come up with another ignorant and rude question. I will feed you should I not kill you.”
+
+Tachyon suddenly felt her legs well with power, “Say no more.”
+
+Easing into her steps at first in the direction Secretariat directed, she began to run, her strides turning into a gallop as she reached her rhythm. Her legendary skill began to ramp up and store more speed as she whipped past the large trees, kicking up grass with each step.
+
+It wasn’t long before Tachyon reached the speed at which she fought Gregor without her Platform skill, however, there was a problem.
+
+“Where the hell is this lake?!”
+
+She had been running for at least 10 seconds, and all she had seen was grass, trees, and more confounded trees. There was no body of water in any form within sight.
+
+Another 5 seconds passed and Tachyon was beginning to worry. Half the time used and she hadn’t reached her goal yet. She needed to speed up, she needed to speed up considerably.
+
+Summoning light fire carrots and her Mana Motion Platform, she angled the first one just enough to propel her forward without sending her off into the sky. And just as she touched the platform, she released a small burst of her momentum to further her stride.
+
+The result was that every time she touched down, Tachyon would take two lengths to regain the used momentum from the burst and then repeat. And for good measure, she placed everything she had in free points into her Agility. 15 points added to the stat was essentially a small level up, and she noticed the difference immediately.
+
+One platform after another her speed once again accelerated, and no more than 5 seconds later, she saw a pristine blue pool of water come into the distance.
+
+Moving her platforms, Tachyon placed one right over the edge of the water, going full force into it as she jumped, spinning in mid air to deftly land on it. Pushing off with all her might, she ricocheted right back into the direction she had come, the cut-up ground marking her path.
+
+She had less than 10 seconds.
+
+Tachyon’s breath was already becoming ragged, and with a push of everything she had, it became haggard. Bringing her body to the limit, she felt her legs begin to shake with each step and release of her skill. She had been at her limit, no, exceeding her limit of the skill for too long.
+
+A familiar feeling of her speed outpacing her ability to withstand it took over, but she was unwilling to stop. This feeling. This insight into the breaking of her limits, the extending of her potential.
+
+It’s so exhilarating! She laughed inwardly.
+
+Each step felt as if her muscles and bones would snap and tear in the next. But she pressed on. She pushed herself into a new domain, a new zone where she ruled over her skills like she had in the arena.
+
+Every stride took in momentum and expelled just enough to push her forward while reserving more than she spent. She became so in tune with her running that she summoned and resummoned her platforms in tandem with her steps.
+
+Each hoof slammed into a platform as she thundered forward, sparks of mana cascading outward from the point of contact with the platform.
+
+Before she knew it she had gone into a trance, pushing forward, unaware of the time or place she was.
+
+Then a voice spoke.
+
+“Are you quite done, young foal?”
+
+Tachyon blinked, seeing Secretariat with a raised arm, a vortex of wind holding her in place while she still absentmindedly ran forward with all her might.
+
+She looked down to see her feet no longer touched the floor, instantly she began to flail in confusion.
+
+Secretariat sighed and released her. Tachyon fell with an unceremonious thud on her side.
+
+She grunted as she got up, a massive frown on her face.
+
+“Do not be so angry. If I had let you continue on, you would have killed yourself in the state you were in. Not to mention,” he turned a small table with sweet-smelling food coming into view, “You would have destroyed your reward.”
+
+Tachyon’s mood instantly changed as she trotted over to the table, her mouth already watering and her stomach growling to the tone of a hungry beast.
+
+She instantly removed every treat from the table, stuffing it into her bag of holding, before turning around as if to say, ‘You have more right?’
+
+Secretariat raised a hand to his head and nodded. A moment later, a bright door-like crack opened next to the table, and several men and women walked through it with large trays of not only sweets but numerous foods Tachyon had never seen.
+
+Her eyes went wide as she shook her head in delight, nearly rocking on her feet back and forth, waiting for them to place the food down.
+
+The men and women bowed to Secretariat and left through the door once more. Tachyon, however, didn’t care one bit for anything other than the food and began digging in.
+
+Flavors and smells she hadn’t the foggiest clue of, or what to compare them to were devoured faster than she could gallop. The sweetest of tastes exuded with every bite, she was in heaven.
+
+And then it was interrupted.
+
+“If you are quite enjoying yourself, shall we discuss the rest of why I invited you here?” Secretariat said flatly.
+
+Tachyon tried to ignore him, still enjoying her food, but it seemed that he was going to be annoyingly persistent.
+
+“Having a real discussion on this would be in your best interest as well, foal.”
+
+Tachyon raised an eyebrow at him.
+
+“Good,” Secretariat nodded, “You have passed this test of mine, so I will share with you some information as well as a challenge.”
+
+“Challenge?” Tachyon asked, a little miffed. She had been getting one too many quests and notifications lately.
+
+“Yes, a challenge. There is one other within your tutorial that has caught my eye. And should you come out on top, I will bestow on you a blessing as my chosen.”
+
+Tachyon’s first impression led her to remember the skill and race offering from Hermes. She wasn’t interested in becoming someone’s pet.
+
+“No thanks,” she replied.
+
+“No?” Secretariat parroted, confused, “Do you not understand what a great honor it is to be given a blessing from a Bestial God as a chosen?”
+
+“I’m not some pet. I’ll never be held down again by someone else for any reason. I will do and go where I please.”
+
+Tachyon lowered her head, taking a disgruntled bite of something made with red liquid that was also a solid. She had no idea what it was called, but she recognized the strawberry bits mixed into the treat.
+
+“I do not wish to have some useless pet,” Secretariat sneered, “I have grown bored, and boredom leads to stagnation. In my position, such things are a death sentence, well, for most in my position, I suppose. Even if I sat and did nothing for centuries, it would be hard to match me.”
+
+“So you’re strong?” Tachyon asked, remembering him unleashing some sort of power that made her nauseous. But looking at him, she would never have guessed he was strong.
+
+Secretariat wasn't intimidating in the least by his stature. He held no weapons that Tachyon could see, nor any armour. Only colorful robes, to be honest, he was much more imposing while in his other form, when he was a blurry blob.
+
+“Do you wish to find out?” Secretariat asked casually.
+
+“Not really, is there more food to eat before I leave? The tutorial has nothing like this.”
+
+Secretariat looked taken aback, obviously expecting to be asked to test his might against her. But Tachyon knew she was no match for him. However, she also knew that at this point, he hadn’t gotten offended, well, not too offended by her. And also hadn’t just outright killed her.
+
+To her, that meant that he wanted something from her and couldn’t kill her. She didn’t wish to push her luck too much, but she knew she had at least the upper hand in the conversation for now. Thankfully, she had gotten some good practice with Sandor just before this. So her hautiness was at max levels for now.
+
+“I see… In that case, I will send you back now. You seem quite disinterested in my offer, so I should save myself the expenditure of food.”
+
+“Nuuuuu! I’m sorry!” Tachyon wailed, “I’ll listen, I promise!”

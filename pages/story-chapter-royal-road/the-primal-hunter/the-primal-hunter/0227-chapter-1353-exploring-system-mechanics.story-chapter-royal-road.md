@@ -1,0 +1,117 @@
+---
+id: 1202b652-83db-5c35-baae-f52faa2cc261
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1353 - Exploring System Mechanics"
+slug: 0227-chapter-1353-exploring-system-mechanics
+partOf: the-primal-hunter
+position: 227
+ownLength: 2736
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3676175/chapter-1353-exploring-system-mechanics"
+royalRoadId: "3676175"
+---
+
+So, sometimes the reward matched the effort one put in to achieve it, and unfortunately for Jake, this was one of those times. After the knight faded away, turning into blue energy without leaving even a sword behind, Jake went to claim the big magical boulder, hoping to get a nice chunk of Prima Credits.
+
+Jake wasn’t sure he would call what he gained a “nice chunk.” He wasn’t even sure it qualified as a chunk at all. Upon placing his hand on the boulder, it glowed, turning into blue wisps of energy as a notification appeared.
+
+You have successfully harvested 300 Prima Credits for your Territory.
+
+Three hundred measly Prima Credits, not even enough to pay for the daily upkeep. It was so little that he almost found it insulting, but he also couldn’t argue that he deserved more. The human knight NPC had been an absolute bottom-feeder of B-grades, barely even worth being called a B-grade. It was the type of opponent Jake could have killed in a single shot before even evolving.
+
+Shaking his head, not wanting to dwell on the boring first NPC he encountered in the Central Domain, Jake instead focused on what other mechanics about this place he could learn. After claiming the boulder, Jake felt that the odd change to the area disappeared as a wave of energy pulsed through his surroundings.
+
+As it passed, the broken ground was repaired, the fallen trees were back in a vertical position, and all the damage his brief interaction with the knight had caused was entirely gone, as if nothing had ever happened. The only change to the terrain was the disappearance of the boulder.
+
+“Now that’s a bit weird,” Jake muttered, releasing another Pulse to see if anything else had changed. While he couldn’t be sure, Jake suspected he had essentially been within a Void Marble or something akin to that. The weird shimmering wave he’d passed through while approaching the boulder had created the small pocket world, and with its disappearance, he’d returned to reality once more.
+
+A rather odd choice for an event like this. Was it to create proper encounters between people and the guardians of the treasures? Did it force one-on-ones, perhaps? Or could full parties or bigger groups enter? Maybe it was done to stop other Administrators from interfering with fights?
+
+In either case, Jake found the design choice surprising. He wasn’t sure if he liked it or not, but he reckoned he would find out over the next few days, as he still didn’t know the details of how it worked at all.
+
+Seeing no need to dally, Jake headed off towards the exit of the jungle, hoping to see if he could find better challenges and more valuable loot there. Granted, maybe heading further into the jungle would be a wiser choice, but he also wanted to see if he could find a more open area to get a better look at what this Central Domain had to offer.
+
+After flying for a few minutes while continually using Pulse of Perception to scan a massive area, Jake started to question if there were even other people around. He also spotted a few places with similar odd shimmering energy, indicating a treasure, but he ignored them all for now as he kept going, wanting to find either another person or get out of the jungle.
+
+Finally, after about five minutes of travel, he spotted a welcome sight. Three beasts were moving together through the jungle, and from their movements, they clearly weren’t NPCs as they approached one of the shimmering walls of energy. Jake briefly stopped, using his senses to observe them from afar, curious to see what would happen.
+
+The three of them soon reached the shimmering wall and passed through it, and as they did, they disappeared... kind of. Their bodies faded away, as if in another world or layer of space, but Jake could still tell where they were, even if they weren’t in the same dimension.
+
+He wondered what would happen if he also entered the same shimmering wall after they’d gone in, and rather than waste time thinking about something that he could just test out, Jake quickly flew over. As he got closer, he saw the three also approach what appeared to be a special tree, guarded by a large, six-legged mammal of sorts.
+
+Before they had time to finish off the mammal, Jake reached the shimmering wall and passed through it. As he did, his Sphere of Perception confirmed that he had entered his own dimension separate from the three beasts, making Jake conclude that this odd space wasn’t set up to provide privacy, but just to protect the environment from destruction.
+
+Seeing as he was already there, Jake went and managed to kill the guardian beast faster than the three he’d followed into the odd space. This guardian NPC was only slightly stronger than the knight, but still not at a level that didn’t bore Jake out of his mind as he quickly finished it off before claiming the small tree that wasn’t even taller than him.
+
+You have successfully harvested 450 Prima Credits for your Territory.
+
+As before, the reward fit the challenge, and Jake quickly headed off again and entered stealth before the beasts behind him could finish their fight and claim the reward. In fairness to them, only one was fighting and utterly dominating the six-legged mammal, so it wasn’t like they were struggling either.
+
+Continuing his trek towards the outside of the jungle, picking up a few treasures on the way if it was convenient, Jake only ended up having the belief that these shimmering bubbles around treasures were there to defend the terrain for less than half an hour after reaching his faulty conclusion.
+
+He started encountering more people, and for the first time, he came across an instance of two people fighting. Jake saw no need to interfere or get involved, but merely watched them while continuing to travel. One person was clearly chasing the other, and they soon reached a shimmering wall that the person being chased naturally passed through.
+
+Jake had expected this to mean his escape, but surprisingly enough, his pursuer managed to follow him inside. This made Jake halt as he quickly decided to head over to figure out why that was the case. It didn’t take him long to also reach the shimmering wall, and with the intent to chase after the two people who were currently back to fighting, Jake passed through it.
+
+He once more found himself surprised, as rather than entering his own dimension, he found himself in the same space as the two fighting people. This made Jake wonder if this was perhaps a special version of the shimmering wall, but as if to help dispel Jake’s thoughts, two people entered the shimmering wall from the opposite end of the bubble, these two finding themselves in their own dimension, separate from Jake and the two people fighting.
+
+“Okay... how does this work?” Jake muttered to himself as more theories sprang up in his mind. As he was thinking, the two people fighting also finished up, and in a surprising twist, the one being chased ended up coming out on top with his pursuer dead. Well, not dead. Kicked from the simulation.
+
+The winner of the fight was heavily injured, though, and sat down to recover, which was actually a perfect chance for Jake. He quickly headed for the treasure and its guardian, which wasn’t even worth describing, as it was dead seconds after realizing it was under attack. Jake had felt like pulling out a Protean Arrow, and the poor thing couldn’t handle that.
+
+With the guardian dead, Jake claimed another pittance of Prima Credits.
+
+You have successfully harvested 400 Prima Credits for your Territory.
+
+The amount was still too low for Jake to care much, but he hadn’t done this for the PC. Instead, he kept an eye on the guy he’d shared the space with, who was recovering. The second Jake claimed the treasure, the area was restored to its former state, including the broken terrain around the B-grade.
+
+The guy actually jumped in fright when the ground beneath him suddenly fixed itself, and the trees were restored, as he looked frantically around, unable to figure out what had just happened. He soon stared towards where Jake was, too far away and with too much foliage in the way to see anything, but the guy definitely realized someone had claimed the treasure.
+
+It didn’t take the guy much longer to start running, Jake smiling a little as he watched the frightened man flee. Shaking his head, Jake also continued towards the outer edge of the jungle, nearly there already.
+
+While it wasn’t confirmed, Jake believed that one could enter the treasure bubble of another person or group if they expressly intended to. With the three beasts initially, Jake hadn’t gone through the shimmering wall with any set intent, resulting in him getting his own little dimension, while with the two fighting, he’d expressly wanted to be in the same space as them.
+
+In retrospect, this was probably a good design choice. Otherwise, one could use these areas to easily hide when in a fight. It would seriously suck fighting in the Central Domain if the premiere tactic was to flee to the nearest treasure bubble if in any kind of danger, and seeing as one could just use the return token to teleport back to one’s Territory, camping out and waiting for one’s opponent to exit the bubble wasn’t even an option.
+
+As Jake was thinking this, he finally reached the outskirts of the jungle, and with his Pulse, he’d already confirmed that on the other side of it was a grand lot of nothing. What he saw was an empty desert bordering the jungle, something that really made little sense logically, but hey, they were in a simulated world and were all supernatural beings capable of teleporting and getting more powerful through comprehending vague concepts and upgrading skills with an omnipotent system facilitating everything, so who really cared about logic?
+
+With stealth active, as Jake had no intention of being social, he reached the edge of the jungle and finally set foot in the desert beyond it. Passing through the dense foliage of the trees, Jake was nearly blinded by the harsh sunlight, as just a step beyond the greenery onto where the sand began, the temperature suddenly spiked several times over.
+
+For a moment, Jake had a bad flashback to fighting Ell’Hakan and suffering under the harsh sunlight of his domain-like skill, but he quickly shook off the notion. This was merely the environment and not an actively antagonistic force, and probably for the best, as truthfully, this desert was far more dangerous than that dead bastard’s skill.
+
+Through his Sphere of Perception, he saw a party of five about fifty kilometers to his left also exit the jungle and reach the desert, only to quickly turn back around as they realized the dangers. Jake couldn’t blame them, as even he felt it standing there under the sun.
+
+He’d summoned a small layer of stable arcane energy to defend himself, and his Primal Spirit of Man was also doing work to help deal with the environment, allowing him to handle standing there. Taking a few deep breaths, Jake acclimated as much as he could before taking to the air, flying straight up to finally fulfill his goal of getting a better look at the Central Domain.
+
+Jake flew upwards, fully expecting some restrictive force to try to halt his ascent, but to his surprise, nothing tried to stop him as he soared skywards at high speeds, the world lying bare before him.
+
+Behind him, the jungle stretched as far as the eye could see, hundreds of thousands of kilometers long. It truly did look as if it would go on infinitely, making Jake question whether he could even trust his eyes. He already knew that the jungle could stretch to expand if one tried to fly out of it, so who’s to say it couldn’t also look like it continued endlessly horizontally?
+
+Looking toward the desert, it, too, continued as far as Jake could see, not necessarily because it was endlessly large, but due to restrictions on Jake’s view distance. The air was shimmering throughout the entire desert in a different way than what Jake had encountered inside the jungle. This shimmering distorted everything, making it impossible for Jake to see very far before everything just became a messy blur.
+
+Continuing his testing, Jake tried to fly over the jungle to see if he could see anything through its thick foliage, but quickly realized that it was impossible to spot anything on the other side. With his eyes, anyway.
+
+With his sphere, he could still see the jungle below, though he did start to notice something seemed off towards the edges of his sphere, and a Pulse confirmed it. Space seemed to stretch inside the jungle, this stretching getting more extreme the further one went in.
+
+While inside, it was entirely unnoticeable, but from out here, it was very evident. Not that others would even be able to observe this spatial distortion, as the jungle blocked any and all senses, not just sight, and Jake only knew due to his Bloodline.
+
+To test one last thing, Jake tried to enter the jungle from above, and as could only be expected, that wasn’t possible at all. He could land on the dense leaves of the trees covering the entire jungle, walk on them, and when he tried to stab it with his katar, his weapon just sank into the leaves without doing any actual damage.
+
+A few destructive arcane mana explosions also confirmed that the canopy was impenetrable, making Jake decide to head further into the desert. The heat was also a good motivator, as even above the jungle it didn’t decrease in the slightest, which further confirmed that the jungle was effectively its own world, separate from the desert, since there was no way the trees’ shade would lower the temperature that much.
+
+Turning toward the desert, Jake set off at full speed, seeking to discover what was hidden within that goddamn hellscape of heat. He saw a few more people reach the desert, and all but a few quickly decided to head back into the jungle again. This did make Jake question whether there was a way to better endure the sunlight. Perhaps there were treasures or tools within the jungle that would help one endure the heat?
+
+That would make sense. Jake didn’t feel like he necessarily needed it, though, and would gladly take advantage of getting a head start to explore what treasures the desert might hold.
+
+It didn’t take long before Jake encountered his next shimmering wall and spotted what looked like a small platform of limestone in the desert. On this platform stood a pedestal holding a glowing red crystal with a glowing rune on it, something all these special Prima Credit treasures seemed to have.
+
+However, Jake was a bit confused as he couldn’t spot any guardian anywhere. Maybe there wasn’t one, and this was just a reward for daring to venture into the desert? That seemed unlikely, but there was only one way to find out as Jake flew down and landed on the platform in front of the gemstone.
+
+His senses were on high alert, expecting some kind of foe or other challenge to pop out. Jake even checked if perhaps the platform was actually some kind of elemental hiding itself, but nope, nothing seemed off, which in itself felt off.
+
+Shaking his head, he reckoned he was just being overly cautious as he reached out to claim the crystal... and the moment he did, his expected reward exploded, releasing a wave of shimmering energy that pushed Jake back and created a barrier around the crystal.
+
+At the same time, the sun was snuffed out, the intense heat replaced by an equally intense cold. Surrounding him, the sand began to rumble as he picked up hundreds of presences that had appeared, hidden beneath the sand, but now crawling towards the surface.
+
+“So it was a trap!” Jake said with a big smile, feeling deeply vindicated that he’d felt cautious before.

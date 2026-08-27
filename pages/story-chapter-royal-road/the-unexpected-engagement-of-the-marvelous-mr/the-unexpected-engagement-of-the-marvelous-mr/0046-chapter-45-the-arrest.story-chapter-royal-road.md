@@ -1,0 +1,173 @@
+---
+id: dc810663-e2e3-5ecc-91b4-e7a49ad3f82f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45 - The Arrest"
+slug: 0046-chapter-45-the-arrest
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 46
+ownLength: 1604
+unit: words
+publishedAt: 2022-07-06
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943036/chapter-45-the-arrest"
+royalRoadId: "943036"
+---
+
+Edward was sitting in the drawing room, perusing the evening edition of the newspaper. As he folded it to get access to a different article, he caught sight of Eleanor standing in the doorway.
+
+“Ellie! Good news for your wedding! The groom has escaped police custody.” The baron clicked his tongue. “That didn’t take long. Honestly, I feel bad for Haley—”
+
+The inspector came to stand beside Eleanor in the doorway.
+
+“Oh, Haley, I was saying to Eleanor—that was a rough bit with Penn escaping. Were you there for the transfer?”
+
+“No,” Haley said. “I was busy elsewhere.”
+
+“Ha! That’s probably why he got away. But don’t worry! The chase goes on. I’m sure you’ll get him again.”
+
+It dawned on the baron that his encouragement had done nothing to lighten the dark mood of his observers. He put the paper down on the table beside him. “Come on. It’s not the end of the world, is it?”
+
+Eleanor came into the room. “Eddie, I have to talk to you.”
+
+The baron opened both his arms. “I’m at your disposal. At least for a few hours. I do have plans after…”
+
+His sentence trailed away when he saw her shake her head.
+
+“I’m the one who took your jacket.”
+
+There was a brief silence, then Edward said in a quiet voice, “I’ll have to apologize to Mrs. Park. I must say, I never figured you would be the kind to pull a prank.”
+
+“Your pocket.” Eleanor took a deep breath. “You forgot to clean the inside of the pocket.”
+
+The baron’s eyes went from her, to Haley, then back again. “The pocket?”
+
+“You put the egg in your pocket. It still had blood on it. You remembered to clean everything else…but not that.”
+
+“I see.”
+
+Haley stepped forward. “Edward Archibald Comtess, I have a warrant for your arrest.”
+
+Edward laughed. It sounded rough and hopeless. “That damn diamond mine.” He turned to his cousin. “Eleanor, someday you’re going to be a rich woman. Let me warn you now—no speculative investing.”
+
+“How much did you lose?” she asked.
+
+“I got carried away by Massey’s enthusiasm. I took out loans. It was almost as much as my entire fortune. When the project sank, Ryder went to his father—”
+
+“But you had Mr. Altis buy up your debt.”
+
+“He was happy to do it,” Edward muttered. “He even deferred the payments since I was expecting to inherit the second half of my parent’s estate.” Edward couldn’t bring himself to look at Eleanor, but he brought his eyes to the floor in front of her feet. “You know that you inherit Mother’s money if you’re not married before she dies?”
+
+“Eddie…”
+
+Comtess stood up and took her gently by the shoulders. “No. Don’t apologize. It’s not your fault. I knew, Eleanor. I knew the terms of the will. I wasn’t worried.” His voice choked up. “Look at you! You’re wonderful! I knew it was only a matter of time before some lucky fellow claimed you. I could wait.”
+
+“And then you couldn’t.”
+
+“Mama told you?”
+
+“Two days ago.”
+
+“We wanted to tell you earlier, but with everything else going on, she decided you had enough to worry about.”
+
+“Why did you kill Dominic?”
+
+All the levity the baron had been using as a shield for the past week dissolved. He let go of Eleanor’s shoulders and, instead, took her hand.
+
+“I’m the one that talked him into sending the invitations.”
+
+“I know, Eddie.” Eleanor’s voice was strong, in spite of the tears. “It was a stupid joke. It was a stupid joke, you stupid little boy.” With her free hand, she pulled his head down until his forehead met hers. “Of course it was you. You talked Dominic into it, but you needed him to pay for them. How did you even learn about the idea?”
+
+“Dominic told me about it when it first came up. When I heard that Mama only had a few months to live, I thought it was worth a try.”
+
+“Which of you thought of using Penn?”
+
+“I did.”
+
+“That was clever.”
+
+“I never meant for this to happen, Eleanor. I knew that Penn’s name would be enough to scare Uncle Erravold—I never thought he would write back!”
+
+“But why did you kill Dominic?”
+
+Edward pulled his head away, but he kept her hand. “The day you were kidnapped, Dominic called around until he found me at the club. He was upset, but he agreed to let me come and talk to him. I couldn’t calm him down. I tried to explain to him that Haley didn’t think Penn had done it—that Haley didn’t even think we were connected to Penn!—but he didn’t believe me. He insisted on going to the police and telling them what we’d done.”
+
+“Why didn’t you go, Edward?”
+
+“Mother would have disinherited me the moment she learned I had sent those invitations.”
+
+“So you killed him?”
+
+“It wasn’t like that. We were arguing. Dominic was getting more and more frantic. He told me he would go without me. I stood up and grabbed his arm—I only wanted him to listen! He swung around and hit my face.” The baron gestured to his still healing injuries. “It hurt so bad, I saw red. I took the egg off the mantle and hit him.”
+
+“One hit. To the side of the head.”
+
+“I hit him too hard.” Edward squeezed his eyes shut as tight as possible. “And I’ll never forgive myself.”
+
+He took a shaky breath and swallowed back a sob. Then he cleared his throat, opened his eyes and took his cousin by the shoulders again. His voice became more business-like, despite how it trembled. “All right, Eleanor. This nice inspector is going to have to drag me away soon, but I want to tell you a few things. First, don’t apologize for this. None of it was your fault. None of it. And I don’t want you to feel guilty for figuring it out. I don’t blame you, and I’m not mad. Do you understand?”
+
+Eleanor bit her lip.
+
+“Ellie, please understand.”
+
+She nodded.
+
+“Good girl. Secondly, I’m sorry for what I did. I never meant to hurt you. I never meant for all this to happen. I’m exactly that stupid little boy you said, and I’ve never been more sorry in my life.”
+
+She nodded again.
+
+Edward pulled her close and held her tight for a long time. Then he kissed her hair and whispered in her ear, “Take care of Mother for me.”
+
+“I will,” Eleanor said.
+
+Edward finally let go. Haley touched his arm and motioned to the door.
+
+Duke Aubrey-Serrs was standing outside in the hall. His face was red. “You used me, Edward.”
+
+That red face. That angry, disapproving voice. The bull of his childhood. Edward was seized with a mad recklessness—after all, what more could be done to him?
+
+“I did, sir,” he said. “It was easy. Four different men knew exactly what you would do if you saw those invitations, and we were right. A man who makes himself a tool should expect to be used.”
+
+The duke started trembling.
+
+Haley grabbed Edward’s arm and pulled him toward the door.
+
+The baron called over his shoulder, “A riddle for you, Uncle! Who was trying to force her to marry, you or me? And which of us was worse?”
+
+Eleanor stepped out of the drawing room and took her father’s arm. One look at her tear-stained face and the crimson in the duke’s cheeks receded.
+
+By then Haley and Edward had made it to the front door, where Helena stood waiting. Her pale face was sunken with grief, but she stood as upright as she could.
+
+“But to you, Mama, I’m sorry.” Edward kissed her cheek.
+
+Lady Helena couldn’t speak. It was all she could do to stand there.
+
+The walk to the police carriage felt like the longest walk of Edward’s life. The June sun warmed his face. A light breeze shook the trees around them. Edward breathed in and wondered if he would ever see such a beautiful day again.
+
+By the next morning, his arrest would be in all the papers, but he would never read them. He would never have to deal with it. Even his anxiety at the thought of being discovered was gone. He felt peaceful, despite the pain.
+
+Haley put him in the carriage, then took the seat beside him.
+
+“Your Lordship,” Haley said.
+
+Edward realized the inspector was holding out a set of handcuffs. The baron almost laughed.
+
+“Of course.”
+
+Edward put his hands inside the metal rings and watched as Haley secured them. They sat back.
+
+“Thank you, Haley.”
+
+“For what?”
+
+“For letting me talk to Eleanor. I don’t think you had to.”
+
+Haley stared out the window of the carriage. “That was her doing. She said that she needed to talk to you—to tell you what she’d done. Since she’d helped to close the case, I didn’t feel like I could refuse her.”
+
+The cuffs rattled as Edward leaned forward and put his face in his hands. His shoulders jerked in a silent laugh. “Oh, Ellie. She was always like that. My friends and I never had to guess who’d told Mother when we’d done something wrong. Eleanor would always come to us and apologize—usually in tears.” He sat back. “Gods, what have I done to her?”
+
+Haley had no answer.
+
+“You know, I don’t even care if Eleanor forgives me,” Edward said. “I only want her to be happy.”
+
+“Your mother says she’s strong.”
+
+“Yes. But strong doesn’t always mean happy.”

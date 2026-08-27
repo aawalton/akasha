@@ -1,0 +1,153 @@
+---
+id: 5f2f02b4-ad88-5d65-b8c9-3ffa5649ce6f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1266 - Peak C-grade"
+slug: 0139-chapter-1266-peak-c-grade
+partOf: the-primal-hunter
+position: 139
+ownLength: 2787
+unit: words
+ownProgress: 2787
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3108568/chapter-1266-peak-c-grade"
+royalRoadId: "3108568"
+markedReadAt: "2026-06-29T19:34:42.230Z"
+---
+
+After Jake deployed his Mega Soulflame Cauldron Secret Stratagem, he was truly swimming in it. No, not only potions but also something else Jake had hoped to get out of this mass production:
+
+Experience points.
+
+Jake hadn’t just wanted to have fun with his Soulflame and find ways to use it, but actually had a real reason to do alchemy in this way. While he hadn’t been sure it actually worked that way, a quick check-in with Villy confirmed that doing bigger batches of poisons did result in more experience points gained.
+
+Moreover, this method of making potions was far harder and more time-consuming than simply using a small cauldron, further increasing experience gain. It did take Jake several hours per batch using this crafting strategy, but compared to the gains, it was more than worth it.
+
+With this crafting spree, time slowly passed as Jake flooded the market with potions. He primarily focused on health potions, but also threw in some mana and stamina ones here and there.
+
+Mana and stamina potions were often viewed as a luxury, as it was rare to run out of resources during a fight without a winner being decided. Plus, with the shared potion cooldown, it was risky not to keep the ability to consume a health potion. Even for people doing relatively “safe” hunts, the idea of popping potions to increase hunting speed rather than just taking an extra few hours to meditate seemed ludicrous.
+
+That’s why most stamina and mana potions actually ended up being consumed by crafters. Blacksmiths and other crafters who needed to perform physical tasks during the creation process could risk running out of stamina partway through, resulting in the failure of their current project. That’s where a quick stamina potion could come in and ensure success.
+
+In the same vein, a mana potion, while working on a formation or even doing alchemy, could do wonders to keep one going. Jake himself also constantly popped potions to reduce the breaks he had to take, though he was definitely still far more liberal than pretty much all other crafters in existence.
+
+Meanwhile, health potions were considered essential for anyone entering a fight. A health potion could easily be the difference between life and death, even if they didn’t work as well on others as they did on someone like Jake, who had Malefic Viper Legacy skills that empowered his use of potions.
+
+Many also took health potions simply to recover faster, as being injured wasn’t a pleasant experience. Understandable from a layman’s point of view, as most people could handle being tired, but far fewer were fine with a large gash or missing a limb.
+
+Jake just hoped that Miranda appreciated all the potions he sent her way with the help of Lillian. He also dumped his old stock of potions, seeing no need to keep them around with B-grade this close. Besides, his new potions were better than the old ones, so he just kept a few in stock in case he ever needed them. He knew he would likely use at least a couple when he pushed for the actual evolution.
+
+As a reminder, even after getting to level 349 in both class and profession, he would still need to farm that one last level, pushing him to 350. Of course, it was also entirely possible he would end up getting that level using alchemy, dependent on what Profession Evolution Quest he ended up getting. Jake would definitely prefer getting his last experience through a quick hunt, though.
+
+Speaking of the Profession Evolution Quest... with Jake’s rapid production of potions using his new and more difficult method, it ended up coming a lot faster than he’d first assumed. He’d already known that just pumping out successful crafts was the fastest way of leveling his profession... well, outside of upgrading Legacy skills or doing weird feats often involving gods or enemy Chosen. Anyway, the point was: Big pot with many potions equals many levels.
+
+It still took over a year of crafting, but in the end, Jake got those two last profession levels and reached the absolute peak of C-grade in both his class and his profession.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 349 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 349 - Stat points allocated, +45 Free Points
+
+When Jake heard that double-ding from getting both his race and profession maxed out, he couldn’t help but grin before promptly turning his Soulflame into a flame once more and absorbing it into his body. He still had a few thousand potions for Miranda, but that would wait as Jake had something far more important to do.
+
+After going up from his underground alchemy lab, Jake took a seat inside his lodge and finally checked out the first of two new system notifications he’d gotten. He was a little nervous as he opened up the first one and saw his second Evolution Quest for C-grade, this one for alchemy.
+
+Profession Evolution Quest
+
+Steadfast in your Path, you continue onwards as a Heretic-Chosen, claiming the power of your Patron on your own terms, yet with his complete acceptance and knowledge. Your Records remain supreme, your Path your own to define, with nothing off limits in your pursuit of power, no matter how heretical some might call your actions. Continue to invoke the power of the Malefic One, make his Legacy your own, and prove your Path.
+
+Objective: Upgrade all nine skills related to the Legacy of the Malefic Viper (9/9). Upgrade at least one skill related to Legacy of the Malefic Viper to mythical rarity (2/1). Perform an alchemical feat worthy of calling yourself a Primordial’s Chosen (1/1). Perform a feat worthy of calling yourself a Primordial’s Heretic (1/1). Perform a feat worthy of calling yourself a Primordial’s Heretic-Chosen (1/1).
+
+So... a bit to unpack there. Jake once more appreciated the glazing from the system in the flavor text, as who didn’t like being complimented by an omnipotent and omniscient system? Alright, practically, it also confirmed to him that he was on the right path with all he’d been doing in C-grade.
+
+When Jake looked at the objectives for his evolution quest, he first noticed there were more than for his class. Upon reading them through, he also understood why the system had been so nice to him in the flavor text. Despite there being five objectives, Jake had already completed every single one of them. As for how he had completed them... he had some ideas.
+
+For the first two, the answer was simple enough. He had indeed successfully upgraded all his Malefic Viper Legacy skills during C-grade and even made two of them mythical rarity, so all was well and good there. The only interesting objectives were the final three, which also seemed closely related to one another, aside from maybe the first.
+
+“Perform an alchemical feat” wasn’t something Jake knew the meaning of, but based on him having completed it already, it couldn’t have been that hard. Or maybe it had been incredibly hard, but Jake had cheesed it with one of his Primeval Origins rituals.
+
+When it came to these vague objectives, Jake truly had no clue, and he could only imagine the frustration he would have felt if he hadn’t managed to complete them already. The same was true for the next two objectives, as they were equally vague, telling him to perform feats worthy of a Primordial’s Heretic and Heretic-Chosen both.
+
+Again, what did this even mean? What made a feat “worthy” in the first place? What even constituted a feat? Was Jake calling Villy an ass enough to prove himself a heretic? Or did he have to do more, like the little play he put on to fool Yip of Yore by acting like he was joining Valhal while actively insulting Villy? Or, seeing as that had all been part of the Viper’s plan, would something like that instead count as a feat for a Heretic-Chosen?
+
+Man, Jake didn’t envy those who actually had to figure out how to complete these non-specific quests. It sounded like nightmare-fuel having to just try different shit until the system finally decided something qualified. He also understood more why evolving to B-grade became a barrier to many, if objectives could be this weird.
+
+Shaking his head, Jake dispelled any thoughts related to these objectives he had completed anyway. Rather than think about what he’d already done, he thought about what the objectives hadn’t included.
+
+A part of Jake had almost expected to see something related to the First Sage. If not anything directly related to the Viper’s Master, then at least something tangentially related. Of course, it was entirely possible that the Heretic-Chosen feat he’d accomplished was actually something like meeting the First Sage, but Jake seriously doubted that was the case. In fact, giving those objectives one last thought, he was pretty sure that the entire Ell’Hakan and Yip of Yore debacle completed all three of the vague ones.
+
+He also couldn’t help but think about what kind of objectives he would get at the peak of B-grade... but there was a long time before he would have to worry about any of that. For now, he still had one more system notification he had to check out pertaining to another quite important matter:
+
+Jake’s Race Evolution Quest.
+
+Out of all three quests he would receive for his B-grade evolution, Jake was definitely the most curious about this one. There was something weird going on with Jake’s race, seeing as he was the first person Villy had ever heard about who didn’t get an evolution quest while evolving to C-grade. Back when he hadn’t gotten the quest, the two of them had a lot of theories, but they had no way of knowing the true explanation. One thing they had also questioned was whether Jake would get an evolution quest when evolving to B-grade... and now it was time to get the answer.
+
+With a deep breath, Jake opened the system menu and right away... something felt off.
+
+Race Evolution Quest
+
+Humanity. The enlightened race with the largest population in the multiverse, a race that can walk myriad paths, be found in all grades, and at all levels of power. Be it the Path of a creator, a destroyer, or anything in between, a human can be found who has walked it. Yet you have managed to create your own Path, claiming what you desire from the Legacies of others as your own while using your unique Origin as the foundation. An unshakeable will, an indomitable mind, an immutable desire, and an unrivaled Origin. Continue on your Path to supremacy, Primal Hunter.
+
+Jake read the system message twice, doing a double-take as he got a strong sense of déjà vu. It took him a moment, but he soon realized why.
+
+It’s the exact same flavor text from my evolution to C-grade.
+
+This... was fucking weird to say the least. Jake joked a lot about these flavor texts and how he liked them, praising him and calling him a good boy and all that, but they also represented one’s journey through a grade. Seeing that he didn’t even get any real flavor text but just had the old one recycled felt seriously off.
+
+He was almost nervous to check if he had any actual objectives to complete before his evolution, and when he saw the answer, he wasn’t even surprised.
+
+Objective: N/A
+
+Once more, Jake found himself without a real Race Evolution Quest. Even less of a real quest than last time around, seeing as he hadn’t even received the honor of getting new flavor text.
+
+Jake sat silently for a little while, just contemplating what all this could mean. Again, he had some theories, but rather than sit there and think alone, he reached out to someone he knew definitely wanted an update on Jake’s evolution quests.
+
+With a mental probe, he established contact as his dear Patron’s voice echoed in his head.
+
+“What do my eyes spy? A truly peak C-grade Chosen of mine? Well, isn’t that exciting?” Villy said in a half-joking manner.
+
+“I would hope you find it exciting,” Jake spoke out loud, knowing the snake god could hear him. “Last time, you were very curious.”
+
+“And so am I this time. First of all, I’ll venture a guess you’re already done with the class quest?”
+
+“Of course,” Jake confirmed.
+
+“Great. Now for the profession quest. Seeing as these can be a bit more tricky and irritating to get done, I could imagine you in a situation where you didn’t finish all the objectives yet... but seeing as you did manage to craft a Bane Poison and all the jazz with Yip and his little Chosen, I’m going to guess you’ve also successfully completed all objectives for that one,” the Viper theorized.
+
+“Wow, right again,” Jake said, shaking his head with a smile. “Now for the big one. Thoughts on my Race Evolution Quest?”
+
+“Now that’s just unfair,” the Viper said, acting all offended. “But if you absolutely want me to make a guess, fine. Though it’ll honestly be more what I hope to hear than anything else. Seeing as you didn’t have an objective when you evolved to C-grade, you’re outside regular norms for human evolution, so if you can skip the C-grade quest, why not also the B-grade one? So, my guess is that you have no objective.”
+
+“Damn, he’s right on the money today,” Jake chuckled. “But you missed something else weird about this Race Evolution Quest.”
+
+“Firstly, it’s already quite a bomb to drop that you, as a human, still didn’t have an evolution quest to reach B-grade. Even though I somewhat predicted it, it’s still not normal in the slightest. Do you know that effectively means your race is at the same tier as a True Dragon? Or I guess Starborn is the better comparison, seeing as they’re the naturally highest grade well-known enlightened race.”
+
+“I do know I’m awesome, yes, and also I’m a little offended that you assume my race is only comparable to those two. Who’s to say I’ll have a race evolution quest when evolving to A-grade? Or S-grade? Perhaps I’ll even make it all the way to godhood without seeing one!” Jake said playfully.
+
+“We’ll cross that bridge when we get there. For now, let’s marvel at how great you already are,” Villy returned the same joking energy. “As for what else was weird about your Race Evolution quest... it must be related to the system message itself, which means it must be something with the flavor text.”
+
+Jake didn’t say anything but just motioned for the Viper to continue, as he would not let the snake god get away with just stating the obvious.
+
+“Okay, okay, let me think for a moment... alright, I’ll guess that the flavor text referred to other powerful humans you had encountered during C-grade, including your meeting and battle with Valdemar in Nevermore. Both of them,” Villy ventured what Jake had to admit was actually a pretty good guess.
+
+“I like your thinking, but no,” Jake shook his head. “It’s a lot weirder than that.”
+
+“The First Sage?” the Viper asked, his tone suddenly more serious.
+
+Jake shook his head. “Nothing related to anyone.”
+
+“Alright, this is actually hard. It’s only to be expected that your Bloodline is referred to, so that one’s out. Your arcane affinity, maybe? Nah. Wait... seeing as you didn’t get any objective... didn’t you receive any flavor text with your Race Evolution Quest?”
+
+“Close enough that I’ll give you the answer,” Jake finished joking around. “I got the exact same flavor text as when I evolved to C-grade.”
+
+The Viper was silent for a while before speaking.
+
+“Huh. Yeah, that is weird.”
+
+“Ever heard of that happening before?” Jake asked curiously.
+
+“Nope, but I can’t rule out that it has happened before. People rarely share the contents of those flavor messages. Though I will guess that if it happened often, others would be talking about it, so for now, I think it’s a safe assumption that this is another quirk of your weird race,” the Viper answered.
+
+Jake nodded slowly. “Speaking of my weird human race... any new interesting theories?”
+
+“I do have one. One I even believe we have alluded to before,” the Viper said. “How about you?”
+
+“I also have a pretty strong theory on the matter, so hey, let’s compare notes,” Jake said with a smile, knowing that while they couldn’t get any definite answers, it was still fun to make theories and guesses.

@@ -1,0 +1,239 @@
+---
+id: 92ced7ed-daab-54d1-83b3-da0beeb53966
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19 - What the Thief Learned"
+slug: 0020-chapter-19-what-the-thief-learned
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 20
+ownLength: 1925
+unit: words
+publishedAt: 2022-06-10
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/924656/chapter-19-what-the-thief-learned"
+royalRoadId: "924656"
+---
+
+Lucas Haley was walking through Aubrey Park. The weather that evening was gentle. Dark gray clouds moved through the sky, but they were high and sparse. It would probably rain that night, but until then, all the clouds could do was diffuse the last light of the sun.
+
+It was lovely.
+
+The inspector’s steps slowed when he glimpsed the roof of Second Aubrey Park Lane through the leaves of the trees. The sight of the familiar peaks and gables made him feel as if his feet were being filled with lead.
+
+He stopped and stood there, staring at the house, willing himself to move, but then, all at once, he gave in to his exhaustion and crashed down on a nearby bench.
+
+A minute later, someone sat down beside him.
+
+“Good evening, Chief Inspector.”
+
+Haley glared. The man beside him was wearing an old navy coat, he had long coarse whiskers, and if you could count years by wrinkles, he was very old indeed.
+
+“I hate you,” Haley said.
+
+One of the man’s bushy eyebrows rose. “Do you even know me?”
+
+“What on earth did you do to those men?”
+
+The gray mustache twitched. “Oh, you must be talking about my new friends! We shared a bottle of wine and joked around a little. I didn’t think they would come to you.”
+
+“They didn’t. My superintendent got a call this morning. Apparently, the marquess works alongside Duke Aubrey-Serrs, and neither they, nor their lawyer, are impressed with the direction my investigation is going. My highest priority is catching you before you cause any more trouble. When I asked if something had happened, the answer was a resounding no. I think my ears are still ringing.”
+
+“Ah. Should I start running?”
+
+“Why would you, sir? I don’t know you.”
+
+“I see. So we’re two strangers—”
+
+“Hostile strangers.”
+
+“—sitting on a park bench and thinking out loud. Shame on us for picking a public location where we might be overheard by the man sitting five inches away.”
+
+“That sounds about right.”
+
+“It’s probably for the best. Right now I don’t think you could catch a snail if it was surrounded by salt.”
+
+The inspector’s eyes narrowed. It looked as if he was reconsidering his ignorance.
+
+Penn rushed to add, “Did you know they’ve been meeting together ever since Lady Serrs rejected them?”
+
+Silence.
+
+“I did not,” Haley said.
+
+“Always talk to the staff. They know everything. It’s the three of them, every week, sometimes with another friend, but mostly by themselves.”
+
+“Are they friendly with each other?”
+
+Penn considered the question. “It’s more like they’re comrades by fate. I doubt Fitzmon would tolerate Massey otherwise.” The thief glanced at the policeman out of the corner of his eye. “You do know that a lot of this will be nothing but my impression of things. We weren’t exactly having a candid conversation.”
+
+“Never mind. I can look up facts. What I need are impressions, and I trust your instincts more than most.”
+
+“I’m touched.”
+
+“You wouldn’t be as successful as you are if you didn’t know how to observe people.”
+
+Penn really did feel touched. In order to hide his embarrassment, he went on.
+
+“The idea of sending out the invitations was known to all of them.”
+
+“You know that for certain?”
+
+Penn quoted, “‘Now at least we’ll find out if this fool plan will work’—Massey said that. They all knew. But even when they thought they were alone, they all denied having done it.”
+
+Haley put his elbows on his knees and leaned forward. “So they weren’t working together.”
+
+“It’s possible that Fitzmon and Winfield were working together and hid it from Massey.”
+
+“You think they’d do that?”
+
+“The earl is a prizewinning ass and both of them know it.”
+
+Sounding slightly irritated, Haley said, “I meant, do you think they’d be working together?”
+
+Penn hesitated. Haley could see him deliberating, despite the false face.
+
+“I think,” Penn said slowly, “that Winfield might be in love with Eleanor, and I think the fact Fitzmon was still willing to marry her came as an unpleasant surprise. Would a man engage in a plot like that without knowing the motivation of the person he was working with? Only a fool. And Mr. Winfield didn’t talk like a fool.”
+
+“You think he loves her?”
+
+“I think it’s possible. At least, I got the impression that he still hoped to marry her, while the other two gentlemen…weren’t invested in the same way.”
+
+“Explain.”
+
+Penn went to rub his forehead. When he felt the putty, he stopped and let out a quiet sigh instead. “I wish I could, Haley. I don’t exactly understand it myself. Massey talked like all three of them were trapped.”
+
+“Trapped?”
+
+The thief nodded. “He said something about being free if Lady Serrs finally married, and it was obvious that he wanted that to happen sooner rather than later. If Winfield is in love with her, it makes sense that he would wait faithfully to see if she changed her mind. But what about the other two?”
+
+“You don’t think they felt the same.”
+
+Penn let out a rough laugh. “No. Massey didn’t care who she married. There’s a small chance he liked her at one point—a wounded heart might explain his spectacular indifference now—but I think it’s possible he was always indifferent. As for Fitzmon…”
+
+“What about him?” Haley prompted.
+
+Penn looked the inspector in the eye. “Let me put it this way—if someone sent out those invitations for the sole purpose of humiliating Lady Serrs, it was the marquess.”
+
+“Do you think that’s what happened?”
+
+“I don’t. I think there’s more to it than that, but if Fitzmon was tempted to send them out for another reason, the idea that it might hurt her would not deter him.”
+
+“He was that angry?”
+
+“You didn’t see it?”
+
+“He was brusque. But he was also polite, and he showed the perfect amount of detached concern. Handsome. Charming. Well-spoken.” Haley leaned back on the bench. “He’s almost as good of an actor as you.” The inspector turned. “But you said he’d be willing to marry her.”
+
+Penn gazed up at the quivering leaves. “It’s possible he realizes Eleanor would make a good wife, even if he’s offended that she rejected him.”
+
+“The man has good reason to be offended,” Haley grumbled. “Duke Aubrey-Serrs as good as promised him Eleanor would say yes, but he was not only refused, he later found out that the duke had encouraged two other men to try to court her.”
+
+There was a short silence.
+
+Penn said, “You called her Eleanor—”
+
+“You called her Eleanor,” Haley rejoined.
+
+More silence.
+
+“Is your gun still loaded?”
+
+“Yes.”
+
+There was the sound of a bird call, and a stiff breeze rolled through the branches of the trees.
+
+Haley said, “Can you think of any reason why Miss Serrs would have refused them?”
+
+“She has excellent taste.”
+
+The inspector gave Penn a look. “I doubt that she has the same opinion of them that you do. Remember what she said about them?”
+
+“Oh, yes. Good men. Polite and considerate.”
+
+“A man isn’t going to behave the same way around the woman he’s courting as he does around his friends.”
+
+“Well, if I ripped out half my brains through my nose so I could pretend not to know what complete heaps of garbage they all are, then no, I can’t think why she wouldn’t want to marry them.”
+
+“According to you, Winfield’s only crime is being in love with Miss Serrs. You don’t even think he’s a fool.”
+
+“He’s the most tolerable of the lot, but”—Penn made a noise of disgust—“he’s an American.”
+
+“And you’re a bigot, but the women still seem to like you.”
+
+“That’s because I’m a scoundrel. Mr. Winfield’s only rich.”
+
+“And we both know that wouldn’t appeal to anyone.”
+
+“That reminds me, Lord Massey is broke.”
+
+Penn felt Haley’s eyes on him and glanced over.
+
+The inspector’s voice was quiet. “What do you mean, he’s broke?”
+
+“Broke. No money. In a difficult place. Has an embarrassing financial position—”
+
+Haley raised his voice: “For how long?”
+
+Penn scoffed. “I have no idea.”
+
+“Could it have been recently?”
+
+“It could have been two days ago. It could have been a hundred years ago—though, I somehow doubt that. I can’t imagine Duke Aubrey-Serrs encouraging Lady Serrs to marry a man with no money. Even if he is an earl.”
+
+“It’s more complicated than that.”
+
+“Oh?”
+
+“I’ve already looked into their finances. The earl is going to inherit his family’s fortune, but for now he gets an allowance from his father every quarter. It should be enough to live on, even if you consider his luxurious standard of living.”
+
+“Why an allowance?”
+
+“Some friends talked him into joining them in a disastrous investment. Everyone took a bad hit, but Massey had risked more than he could afford to lose. His father offered to save him on the condition that he live on nothing but the allowance until he finished training with his father.”
+
+“He’s a gambler.”
+
+“Investing is not the same as gambling.”
+
+“Is that what you think?”
+
+Haley looked at the thief. Penn’s smirk was so large, one end of his mustache looked like a furry gray hill stuck on his lip.
+
+Penn turned away. “Check the halls and parlors. I’ll bet you’ll find that His Lordship, the ass, is still risking more than he can afford to lose. Investing or gambling—the real question is what kind of soul the man has.”
+
+“If he is in debt,” Haley said, “that dowry could be a powerful motivator.”
+
+“Except that, of all of them, Massey was the most cynical about his ability to win Lady Serrs’ heart.”
+
+The thief watched Haley pinch the bridge of his nose.
+
+“Why do you care so much if it was recently?” Penn asked.
+
+The inspector lowered his hand. “It’s something that’s been bothering me. Their courtships all failed, and everyone involved seemed to drift into a kind of stalemate. For two years, nothing happened. Why would they choose to act now? What changed?”
+
+The two men shifted positions. Hand to face. Arms folded. Legs crossed, then uncrossed. One sat up straight. The other leaned his head to the side. The only similarity between them was their thoughtful expressions.
+
+“Maybe they only had the idea recently,” Penn said.
+
+“That’s entirely possible,” Haley admitted.
+
+They went back to looking thoughtful.
+
+Five streets away, the great bell of the Redberg Church chimed the hour. The long brass echoes carried all the way to the edge of Aubrey Park.
+
+Haley stood up. “I have to go. Duke Aubrey-Serrs has asked to see me. He probably wants to talk to me about how I’m going to catch you.”
+
+The false facial hair was thick enough, it hid Penn’s more subtle expressions, but Haley could sense his sly delight the way an old sailor could sense the mood of the sea.
+
+The thief got to his feet. “May I join you?”
+
+“No.”
+
+“But I might have a good idea or two!”
+
+“If you’re not gone by the time I come out, I’m going to recognize you.”
+
+“You just don’t want me seeing Lady Serrs again.”
+
+“Penn—”
+
+“Huh! Would you look at that!” The thief shaded his eyes and stared in the opposite direction from the Aubrey-Serrs residence. “I spy something distracting and must rush off to see what it is.” He tipped his soft hat. “Good evening, Inspector.”
+
+Haley watched him go, then he turned and headed toward the mansion.

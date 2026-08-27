@@ -1,0 +1,97 @@
+---
+id: 39385c97-313e-51f8-afe6-aced170ad287
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44 - Penn in Jail"
+slug: 0045-chapter-44-penn-in-jail
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 45
+ownLength: 592
+unit: words
+publishedAt: 2022-07-05
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/942357/chapter-44-penn-in-jail"
+royalRoadId: "942357"
+---
+
+It was the dead of night. Eerie rays of white moonlight reached in through the cell’s window.
+
+A window? Don’t call it a window, Penn thought.  It’s an air hole no bigger than a brick.
+
+He was lying on his cot with his hands behind his head, staring up at the light and listening to the faint sounds of the city falling asleep.
+
+Even if the air hole was only as big as a brick, he was glad it was there. During the day, the cell had become unbearably stuffy. The guards had ignored all his complaints, as well as his suggestion that the fastest way to solve the problem would be to let him go.
+
+When night fell, the wind picked up, carrying some cool air in through the gap. That tiny hollow was his entire connection to the outside world. A little air, a little light, a little sound.
+
+Penn heard the scrape of footsteps coming toward him, and a shadow blocked the moonlight. He sat up.
+
+A gruff voice said, “You know, Jeremy’s worried about you.”
+
+Penn smiled. “Oh, Stewart, you should have told him!”
+
+“Told him what?”
+
+“Never being caught—that’s impressive. But a grand escape?” Penn wagged his finger at the empty cell. “That will do wonders for my reputation.”
+
+“You can feed that line to him yourself. I’d gag on it.”
+
+“How long do we have before the guards are a problem?”
+
+“Long enough. You?”
+
+Penn glared at the door to his cell. “Probably until dawn. So! Do you need my help with something?”
+
+Stewart grunted. “Sure. That’s why I’m here. To ask for your help.”
+
+“How can I be of service?”
+
+“Why’d you let Haley live, Mr. Penn?”
+
+Ryce’s smile faded. “I don’t kill people.”
+
+“But you didn’t have to save him. He wasn’t even for-sure dead.”
+
+“You’re saying I should have trusted the police to know what to do?”
+
+“It’s better than getting thrown in here because you came down with a nasty case of conscience.”
+
+“I couldn’t let him die.”
+
+“Why?”
+
+“If Haley had died chasing me while I was out doing a job for her, it would have destroyed her.”
+
+Penn strained his ears, but all he could hear was a few hushed night noises.
+
+“Stewart?”
+
+“What?”
+
+“You went quiet.”
+
+“I was wondering how I ever got stuck with you.”
+
+Penn grinned. “Did you give her my letter?”
+
+“Yeah.”
+
+“Was she worried about me?”
+
+“Yeah, but she seemed like a girl with a lot to worry about.”
+
+Penn got to his feet. “Then I’ll have to do my humble best to ease the burden of her concern.” He stood directly under the hole in his wall. “I’m getting transferred tomorrow, sometime in the early afternoon. They want to take me somewhere more secure.”
+
+“Oh, lah-dee-dah.”
+
+“That means I won’t be able to enjoy our little talks anymore!”
+
+“Stop. You’re breaking my heart.” Stewart paused. “But since you’re going away, I guess I could get you a present. Is there anything you want?”
+
+“You’re a generous soul. It’s one of the many reasons I love you. If it isn’t too much of a bother, do you think you could rustle up a car? I’m going to need a getaway after my marvelous escape.”
+
+There was a quiet pfft sound. “A car? Is that all? I thought I was going to have to plan the whole thing.”
+
+“Steal something nice and fast.”
+
+There was a scrunching sound as Stewart stood up. His voice faded as he walked away.
+
+“Yeah, yeah. I know what you like.”

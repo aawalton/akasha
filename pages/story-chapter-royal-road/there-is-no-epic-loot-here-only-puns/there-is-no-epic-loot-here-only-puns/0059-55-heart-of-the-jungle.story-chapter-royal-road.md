@@ -1,0 +1,95 @@
+---
+id: a20e85ad-c9a9-5a91-9704-87e19a13e84a
+page-type-slug: story-chapter-royal-road
+title: "55: Heart of the Jungle"
+slug: 0059-55-heart-of-the-jungle
+partOf: there-is-no-epic-loot-here-only-puns
+position: 59
+ownLength: 3170
+unit: words
+publishedAt: 2018-04-29
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/211880/55-heart-of-the-jungle"
+royalRoadId: "211880"
+---
+
+Delta looked up from the bottom of the pond at Nu’s box, hanging just below the water’s surface like a moon. She took a long moment to think about the question.“Nu? I’m a crappy dungeon core?” Delta asked with a hint of a insecurity creeping into her voice. The fish around seemed to crash into each other in shock and there was a flurry of bubbles and splashing.The Golden Scaled fish in particular almost leapt out of the pond, it’s brilliant scales gleaming as water dripped off it.
+
+Delta stared, her mouth hanging open. She felt her dark mood spilling over her rational thoughts.
+
+All around the pond, the fish danced happily as they seemed to agree with Nu. Delta looked around, a bright smile breaking out across her face.“Nu... thank you! I... well, thank you,” she said, standing with a sudden burst of energy.
+
+Delta deflated as the words stabbed into her but Nu merely floated upwards, making Delta follow to read his next words.
+
+“So what exactly happened there? He just couldn’t handle my mana or was mine just that bad?” Delta touched down on the pond room floor with a perplexed expression.
+
+“So Grim couldn’t hold his mana..tinis” she smiled weakly at Nu.
+
+Delta slapped her thigh as she broke out in wheezing laughter.
+
+Delta was wiping at her eyes as she struggled to breathe.Nu’s box was blank for several seconds before he shuddered.
+
+Nu seemed to talk to the wall, his words flashing. There was no response but the upbeat music that had been on repeat suddenly turned to a slow piano and a long relaxed saxophone.“I liked that song...” Delta grumbled.
+
+Delta had to admit, the jazz music was making her feel rather smooth. She did a little slow turn as Nu began to pull up notification windows.
+
+Delta remembered Grim drank something in the spideroom, she hadn't known he had thrown the vial away. Not that she would think her own spiders would rebel but knowing out somewhere in the forest was a bunch of giant spiders... it was good to have options.“So, it’s like a spider antidote or...?” Delta asked and Nu paused.
+
+Delta gave him a long look.“Nu, does this thing cure the common cold?” she asked bluntly and the box paused to think about it.
+
+Delta was impressed.
+
+“This world is hell. But at least it has nice people in it...” Delta muttered to herself.
+
+“Oh yeah, he was going use that on Merry before he dropped it. Looks pretty handy, I mean putting people to sleep and chucking them out the dungeon sounds great if they’re troublemakers!” Delta exclaimed excitedly.
+
+Delta perked up and looked back at her fish pond.
+
+“Since we’re dungeons and cheat, we can just repair the crystal casually over time and only need a few which means that dungeons rule,” Delta beamed.
+
+“Nu. I am not that bad!” Delta protested as the music suddenly became a dramatic piano as if to contest her words.
+
+Delta felt this was very unfair. She had no control over anything. Except for Mr Mushy... and maybe giving Maestro music...and allowing the spiders to develop a medieval society. Giving Cois fire... Buying Bob... Contracting Renny...“...what’s the next item?” she said grumpily.
+
+Delta, walking over the pond’s surface as she listened, paused to look back at Nu. Waddles ruffled his feathers as he watched the scene.“Abstracted in what way? Some elemental thing? Did he drop some magical one-time use thing?” she prodded with interest. Nu took a moment to answer.
+
+Delta reread it about a dozen times but the meaning of what Nu was trying to say was still not really becoming any clearer.“How did we gain an ability? Did Grim drop some orb or a skill book or what?” Delta scratched at her nose. Below her feet, a school of fish swam happily around to the sound of her voice.
+
+The box vanished as Nu went wherever the inner-system was. Delta frowned and sat down next to Waddles.“Waddles, why do things keep becoming complicated? I barely get the hang of the number-vision and now I can copy abilities? If my eyes turn red, you’ll keep me in line, right?” she joked and the duck simply eyed her.“Well, you’re usually confident, what would you do now?” she inquired. Waddles stood, tapping each foot once before he swam casually into the pond, he stopped near the middle.Delta looked down at the secret entrance to the second floor, hidden to those that had not caught a silver or golden fish. Waddles dived and nudged a tiny rock slightly above the entrance.He resurfaced and looked at her.Delta stared back.Waddle’s eyes seemed to glow with annoyance and Delta looked down at the rock with confusion.Closing her eyes, she pushed her initial reaction of sighing and walking away confused, to gather herself.Delta slowly pulled on the numbers but as they rushed towards her eyes, she shut them. The flow seemed to stop in confusion. Delta mentally imagined on tugging on lava lamp-like balls of light. She pulled and felt it slid around her face and into her ears.Waddles wasn’t dungeon-born. He was dungeon-enhanced.Delta frowned as the terms popped into her head. Dungeon-born? Enhanced?“Waddles, Dark Drake, what are you trying to tell me?” she asked slowly, keeping her eyes shut as the energy still tried to bypass her eyelids.“The crystal. Put the crystal there.” The voice deep and princely. Delta snapped her eyes open in shock and the number power dispersed like dandelions in the wind.Delta winced as her ears began to ring with a high-pitched and shrill noise. It felt like she was getting bad feedback noise.Waddles just looked at her.“Right, good idea. Something to do while I wait!” Delta perked up, rubbing her ears. She opened the menu to look through the list.
+
+Delta had a sudden thought.“What if I put a fire crystal in a forge or something?” she muttered but no one answered for once so, with some excitement, she dove into the water. The little stone was one of many but it was almost flat so she put a hand on the surface and purchased the water crystal.Like a seedling, the crystal, the size of a screw, poked out of the rock with a little crack and Delta stared at it.“Aww... it's cute!” she declared and then there was an ominous crack and the entire stone spit in half as the rest of the crystal pushed itself out like growing coral. The entire bottom of the pond began to glow like a star had fallen into its waters.The coral crystal seemed to curve up and over itself forming some umbrella style top. It almost looked like a...Delta took three steps back.“Just... it’s just a coincidence. Just because it looks like a... I mean...” Delta nervously stepped out of the pond.
+
+Delta turned and glared.“It wasn’t my fault!” she declared. Nu simply shook his box and ignored her protests.
+
+If you come across this story on Amazon, be aware that it has been stolen from Royal Road. Please report it.Nu looked down at the crystal in the water.
+
+Delta clenched her fist.“I almost killed him. He didn’t look fixed in any way,” she argued. Nu nodded.
+
+Nu sounded happy but Delta felt like his words had a double meaning. She opened her mouth but shut it as Nu suddenly shifted.
+
+The school of fish all bubbled with understanding.Delta looked between them and sighed.“Maybe it’ll make the water tasty or something. It doesn’t have to do anything too weird...” she muttered.----Grim opened his eyes and licked his lips.He tasted metal. He frowned, wondering if he bit his tongue or lips. This looked like his... room?“Hey son, don’t move too much. You’re okay now.” Grim looked over and saw his Dad, big and burly with half a chewed spoon in his mouth.“Mum is going to wack you for eating the spoons again,” he croaked. His Dad cracked a smile.“Your Mum will do worse when she sees what I did to her cooking pots. You know I stress eat...” he chuckled.The easy tone set Grim’s nerves at ease. He expected, and still sort of did, a punishment. Once he was better maybe...A hot scorching sensation suddenly seared his tongue and he winced.“Hey boy, how are you feeling?” came the voice of his grandfather. Grim stared at him with wide-eyes. His grandfather came closer and the hot sensation grew. Grim winced but then suddenly his was held by someone, warm and soothing.His tongue cooled and he tasted... not blandness but a softness. It relaxed Grim but it also alarmed him as his mother pulled back.“Grim...oh my boy,” she whispered and stroked his hair back into place.“Mum? My tongue! Something is wrong,” he blurted out as he ran a finger over his tongue a second later and all the adults shared a look.“Grim. Do you remember what happened?” His grandfather asked and Grim closed his mouth with a guilty look.“I... went to the dungeon,” he put it simply, not adding any details incase they didn’t know the whole story. His father raised one brow.“The dungeon you knew you weren’t allowed to go?” he pushed and Grim shifted.“My boy, it’s fine- well, not really, it was a bloody stupid thing to do but we’re glad you’re home. The dungeon saved your life. Carried you out when you were about to bite it,” the old man said and his mother shot him a look.“Pic, you know I kicked you out for those annoying-” she began but something bubbled over Grim. An urge he couldn’t stop, like a building sneeze.“It was more than I could swallow,” he blurted out.There was absolute silence in the room.“D-did... you just make a joke?” his Dad asked with surprise and Grim honestly couldn’t answer him.He was too worried that something else might slip out instead.---Delta had a plan.It was a good plan and she even had Nu go over it with a fine comb. After making the water crystal, the urge, the itch, to build and create rose up in her.Flaws and issues plagued her dungeon, her home. Grim had been key in solving those.She watched as Mr Mushy tried to conduct for his brother. Maestro patiently allowing him to wave the little thorny baton around and letting his brother create a small peppy melody. The giant, mind-breakingly, the soul-scarringly horrible looking mushroom was actually a lot sweeter with his brother now that he fully developed his musical persona.He even let Mr put a few pots around the pyramid like room.Delta shivered near the door but felt better at the sight.“Next time one of those punks swings a knife at you, come let me know and I’ll show them how to use human skulls as bongo drums,” Maestro winked at his brother and Delta fled as the image was just too much.Cute but it took its toll.She could upgrade the first floor more but it was decent enough to slow and challenge people. Now the boss door was locked, Delta felt like she could focus on the second flow before adding more perfection to the first.So she flew down the stairs after waving to her monsters. Cois and Numb snoozing away in the camp, refilling themselves on the first-floor mana. Delta noticed it was lighter, almost drafty in feel when compared to the hot and moist mana of the second floor.Before long she stood high in the air, looking down at her almost alive jungle.“Nu, fetch me the list of any critters we have and phase out what we have on the first floor for now,” she requested and the box besides her shifted.
+
+“We didn’t get any monster unlocks from these?” Delta blinked with surprise.
+
+“Hm, well, I think we have the power aspect covered for the most part but it’s time for this jungle to get some ambience that isn’t pumped over the speakers,” she grinned and flexed her fingers.She floated down and began to make life.Mice scurried off into bushes and through plants. A few snakes curled up in the Wylin tree. A few owls flew into the circus cave. Two lizards went very still on a tree together.A box appeared.
+
+Delta eyed her 90 DP remaining, not sure how much she go crazy and fill her jungle with. She purchased a few sparrows and a Delbired.The Durence Jays were small and brown with red beaks. They scattered with a flutter of excitement but the Delbird looked up at her.It slowly spread its plumage and its orange chest puffed out.“Aww, you’re going to make this jungle so cool, plus you’re good at singing or distracting people!” Delta told it as if it wasn’t already away.“Like two birds with one stone!” it squawked and Delta froze.“Did you just make a pun?” she asked slowly.“Bit of a bird-brain!” it agreed. Delta couldn’t hold back the smile that formed as Nu’s box glitched.“I love you,” she whispered.“Birds of a feather!” it sang and flew off, its wonderful orangeness barely visible like a tiger in the woods.Delta danced on the spot.“I love this. Making everything and the results!” she said to Nu. The box sighed.Yes, it does leave a good feeling. Shame it comes with so many painful puns attached.
+
+He grumbled and Delta flew to the tunnel, eyeing it. She focused on it and her DP dipped slightly as the tunnel stretched wider and wider. It looked less like a cave and more like a highway tunnel. After a moment, Wilhelm slowly walked out and looked around the lush jungle.
+
+“Sorry for the wait!” Delta called and Wilhelm inhaled and grunted softly. One of the new Black owls was nesting in the shaggy hair on his head. It glared at the noise and flew back into the tunnel.Wilhelm took off, eager to stretch his legs. His silver fur gleaming in the darkness of the trees.Delta looked into the tunnel and felt a rising urge to do more with the circus but she had a plan, dammit!She took off again and headed to a secluded spot that didn’t have anything in it. It was a bit far from the entrance but... the water crystal had given her an idea. Just because she had a fire crystal option, didn’t mean she had to wait for a fiery place to use it.
+
+Delta stubbornly ignored the cheerful box. There would be no lava level here.She hadn’t even done a proper water level yet. Everyone loved those! Delta felt the sarcasm grow thick in her own mind and shook it clear.If she had to have a water level, she would break the mold and make it bearable. It would be pacific and the design would not be made by someone who might be a little... cra-sea.Delta giggled and wondered where her new Delbird was...---“Begone!” Devina commanded, her greenish skin going blue with anger. The bird tilted its head at her.“Okay... witch way?” it fired back and Devina held back a scream.---Delta sure it was fine.She focused on the earth, the fresh green weeds, grass and empty soil. A second later, it was all gone. They didn’t count as objects but terrain so it was easy to disperse.She whistled as a soil was slowly covered by a smooth rock. It was a slow process because she was shaping the rock as it spread. The idea at first was a perfect bowl but Nu had pointed out that there was no way to get out if one was too slippery or wet. So, Delta made little ‘seats’ and ledges for people to sit on, curved for maximum comfort.Then once it looked good, she ringed the entire thing with a flat rock that spread out so if someone got out they wouldn’t immediate stand on wet soil. With that done, she filled the entire thing with clean pure water.It filled up perfectly, no signs of a leak or such. Nu was too busy examining the piece to actually comment on anything. Then she placed a fire crystal and water crystal at the bottom of the water, covering them in a tiny wooden box with a open criss-cross fence.The crystals again curved upwards but Delta ignored that.She waited for a moment.“Come on... come on...” she prayed and then as she was about to go check on the crystals, the water surface began to steam.She could see the water level rising up as the water crystal began to output more water than the hole could handle.“Nu, any luck?” she called, hoping that her friend could tell her good news.
+
+Nu sounded excited and Delta hurried to open her menu.A box was waiting for her.
+
+Delta hit the yes button and the area flashed and went calm again. The water was now beginning to spread out now. Unlike the pond, the excess water had no fancy dungeon space tunnel to be flushed into where it went somewhere that made no sense.In the menu, she found her answer.
+
+Delta purchased the first one and the water slowed and then began to drain back into the spa.
+
+Delta spent some mana and an offering table appeared next to both the hits used for changing.“Trust me. After fighting their way down here, they’ll be grateful and getting something for letting them bath when who knows what they might leave behind or bath off for us to use for ourselves? To’s a win-win!” Delta grinned and Nu was silent for a moment.
+
+Delta suddenly looked sheepish.“I just thought of it,” she admitted. Delta suddenly focused on what Nu had said before.Boss room.The second floor still had no Boss. She remembered she had to choose a monster to become the boss. Fran had a special option because of Bacon.So, if she made a boss room here, every monster on this floor might suddenly have wildly different requirements and Delta would have to choose one of her monsters to become a boss or make a brand new monster that she might not have such a good understanding of...Devina was a wild card but too newly evolved. Rale was happy with Bob. Bob was... well, not something she thought of when it came to jungle bosses. Wilhelm guarded the circus and Renny was a contract.The Queen ran her kingdom and the rest where critters. The boss room was important but Delta had not created enough variety or forces to really give a boss monster proper thought.“Better start now then,” she mused and went to the far end of the Jungle room and with some nervousness, created a tunnel into a wide room.Nothing stopped her and she didn’t run into anything but empty soil.Delta breathed out with relief.The option came up before she could even open a menu.
+
+“Sis... let’s do it.”
+
+“I wonder if Delbird wants the job...” Delta wondered aloud and Nu’s box nearby fizzled with a loud protest.Delta would just do what she always did when it came to making important choices. Jab random buttons and ask if anyone wanted the job with a polite tone.It hadn’t failed her so far.

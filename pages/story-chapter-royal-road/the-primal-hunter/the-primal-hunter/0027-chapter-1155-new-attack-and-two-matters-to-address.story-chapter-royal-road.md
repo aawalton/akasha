@@ -1,0 +1,173 @@
+---
+id: bfb9ee06-6abb-5ae5-9255-d464a5fd2df1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1155 - New Attack & Two Matters To Address"
+slug: 0027-chapter-1155-new-attack-and-two-matters-to-address
+partOf: the-primal-hunter
+position: 27
+ownLength: 2840
+unit: words
+ownProgress: 2840
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2533603/chapter-1155-new-attack-two-matters-to-address"
+royalRoadId: "2533603"
+markedReadAt: "2026-06-29T19:30:06.787Z"
+---
+
+Sylphie and the Forest King seemed to only intensify their “battle” as Jake and company chatted throughout, commenting on what both sides were doing. The others had also noticed the King’s instability with his attacks, and couldn’t help but comment on it.
+
+“He’s trying something,” the Sword Saint said with a sense of certainty.
+
+“Definitely,” Jake concurred. It reminded him of himself when Jake tried to upgrade a skill or get something down that he’d practiced. Every blow had minor variations, as if exploring every aspect of it, hoping to find that final missing piece.
+
+“More than his attacks... his aura is changing slightly,” Dina added. “The way the energy flows with every attack. It’s like pathways of the new vessel are opening with every blow as the mask is allowing its energy and Records to bleed through."
+
+“Could be something like that,” Jake nodded. “But I also feel like it's something within the mask itself. Within the soul of the Forest King.”
+
+“He’s learning to move again,” the Sword Saint said with a deep breath. "It's similar to someone who lost the use of a leg for a long time. He needs to relearn proper walking. No... rather than that, it’s as if he had been walking around with only one leg for too long and has now grown a second one.”
+
+Jake slowly nodded, finding himself in agreement with that assessment. He and the others were quiet as the fight between bird and Unique Lifeform continued, the pace getting faster and the power of every exchanged blow growing.
+
+Both were improving as they practiced, but one more than the other. The King attacked a few more times, switching between golden beams and blasts of force before he finally calmed his barrage of blows and lowered his hands.
+
+“Something clicked into place,” Jake commented.
+
+“Indeed,” the Sword Saint agreed.
+
+“Do you two also feel it?” Dina asked them.
+
+“Yeah,” Jake nodded. He felt an odd sense of pressure from the Forest King in that moment. One that was different from the Unique Lifeform’s usual aura, yet still slightly familiar.
+
+Sylphie watched on as the Forest King seemed in thought before he raised his claw again.
+
+“During the time when my life was never truly my own, something always felt off. Not just because of my state of being, but how my soul felt. My Path. It’s taking time to reforge that connection now... but as I feel it being realized, I also feel something else. Something I believe I should have felt all along.”
+
+His claw began to glow golden again, Sylphie ready to react as the King spoke a final time.
+
+“I would dare you to block this blow, but doing so would be unfair.”
+
+A blast of golden light erupted from the King’s claw, this one different from any attack before. It didn’t even make the grass rustle, possessing no physical presence at all... yet Jake saw Sylphie’s eyes open wide as she didn’t hesitate to flap her wings, dashing to the side as the odd golden wave passed where she’d just been sitting. Even as it passed, it left no traces of having done anything, yet Jake couldn’t help but frown as he had felt something.
+
+Something that reminded him a lot of the unique attack the King could unleash whenever he dropped the mask. The two others–no, Jake didn’t count Minaga as he was cheating by being a god–also seemed to reach the same conclusion.
+
+“A soul attack,” Dina frowned.
+
+“Not one akin to anything I’ve seen before,” the Sword Saint shook his head.
+
+“Presence,” Jake said, having realized what the attack had been. “He attacked using his presence.”
+
+The reason Jake had seen through it was because he had Pride of the Malefic Viper, which could do something slightly similar. Using Pride of the Malefic Viper, Jake could unleash mental attacks on anyone within his presence, and while such attacks hadn’t proven overly useful for Jake as he tended to fight powerful opponents with equally powerful mental states, it still had its advantages.
+
+One of them was that it completely ignored defenses. One’s presence was a bit akin to the radiation given off by the soul, except the only thing that could counter this radiation was more radiation. Usually, this radiation wasn’t directly harmful to others, but only resulted in feeling pressured while near someone too powerful. It was a bit more complicated than that, but that was the gist of it.
+
+The only way to attack using one’s presence was by infusing Willpower into it. That’s how gods could still crush a puny mortal like that, with their presence alone. However, Pride did somewhat disprove that as he could unleash a mental attack that, while it still relied on Willpower, wasn’t just him infusing harmful intent into it.
+
+Now, Jake had seen another way to use one’s presence to attack. Jake also noticed something else as he felt for the aura of the King. He frowned and looked over at Minaga, looking for an explanation with the assumption that only the god could feel what he felt.
+
+“The area his presence affects...” Jake muttered questioning tone.
+
+“Truly the presence of a king, eh?” Minaga just smiled, not indicating he had any plans of elaborating. Not that Jake needed him to, as he already confirmed what Jake expected.
+
+The presence around people varied based on their power and how much they consciously tried to spread it out... but even Jake had no confidence in making his presence cover as large an area as the King currently was. It spread out for several kilometers in all directions, covering them all, and from the looks of it, allowed the kind of attack the King had just unleashed.
+
+What the King had done was launch an attack of pure soul force, using his presence as a medium to attack through. Rather than infusing some feeble mental attack into the presence or something akin to that, it was pure force.
+
+Jake was genuinely interested in knowing what the effect would even be if struck by something like that, and he felt like he wasn’t the only one. Luckily for them all, Sylphie was also curious, and after dodging another two such blasts, decided to try to take one head-on.
+
+Sylphie summoned plenty of defenses as a whirlwind of green appeared around her body, including her usually overpowered Green Shield, as she called it. It was enough for Jake to not feel confident in having his Arcane Powershot penetrate, and they all watched with bated breath as the odd golden wave struck her.
+
+It phased straight through all the wind and even the Green Shield, blasting the Sylphian Hawk away as if she’d just been hit by a cannon. She spun several times before stabilizing herself, showing that the damage hadn’t been substantial, but the mere fact she’d been hit made the attack impressive in its own right.
+
+“The shockwave struck her Soulshape directly, ignoring everything else,” Dina commented with a frown. “Usually, in order to strike the soul of another, you need energy to carry the attack and make contact in the first place. However, what the Forest King did was instead use his presence, bypassing the use of energy entirely, thus making the attack not interact with regular defenses.”
+
+Jake was about to comment as the dryad instead flew forward, speaking to the Unique Lifeform and Sylphie. “If I may, would it be possible to strike me with that attack?”
+
+Sylphie, who seemed to be preparing to go on the offensive and actually fight back, stopped herself after Dina appeared. The King looked over at her with surprise before he looked back at Sylphie.
+
+“If the Sylphian Hawk permits it, I would accept having this brief bout end here. I have insights I need to solidify as they remain fresh in my mind, so protracting the battle would prove counterproductive,” the Forest King answered.
+
+“Ree!” Sylphie answered, making it clear she wasn’t happy about it, but agreeing nonetheless as she quickly flew over to Jake. The poor hawk landed straight in his arms while giving off low, complaining screeches at getting hit before, clearly just fishing for Jake to scratch and care for her. Which he naturally did.
+
+“Then please,” Dina said as she summoned her staff and landed opposite the King.
+
+The Unique Lifeform nodded and raised his golden claw, releasing another blast a moment later. Dina responded by pointing her staff forward and summoning a thin green barrier right in front of it.
+
+When the attack made contact, it phased straight through the green barrier, but Jake did see it shimmer for a moment right as Dina was struck and sent sliding backwards. She had taken the blow like a champ, though to be fair, Jake was pretty sure Bobo had been the one to actually tank the attack.
+
+“Again,” Dina said, raising her staff and taking a defensive posture.
+
+Once more, the King obliged and released another wave. This time around, Dina didn’t summon a barrier in front of herself, but instead covered her body with a faint green sheen. On impact, the green dimmed, and Dina was once more sent sliding back, but Jake had seen what she’d done.
+
+He couldn’t help but smile as Jake quickly handed a complaining Sylphie to the Sword Saint and took a step forward, teleporting down below and into range of the King. “Hey, throw one of those my way, too.”
+
+“I don’t want to,” the King simply responded.
+
+“Come on,” Jake cheered him on.
+
+“... fine,” the Unique Lifeform agreed reluctantly as he threw a golden blast Jake’s way.
+
+Jake responded by activating Pride and infusing the concept of stability into his own surroundings and presence. When the blast hit the area affected by Pride, it found itself weakening and slowly whittling away, resulting in the blast barely being able to push Jake back. And even then it was only because the grass was slightly slippy.
+
+“Your new attack sucks,” Jake said with a grin, having already found a good counter.
+
+“Ignoring the fact you just spent what I assume to be ten times more resources to block that than I poured into it, this is not an attack. I barely consider it as such. It’s merely the first building block of what’s coming. In isolation, I agree it’s weak, but when merged with every other blow, my every attack shall echo onto the souls of my foes, rending them in the process,” the Forest King said.
+
+“Still sucks for now, but hey, looking forward to seeing the improved version. Or versions? Sorry, I kind of stopped listening about halfway through,” Jake responded with a grin.
+
+“It’s alright,” the King said. “I’ll be sure to allow you firsthand experience once I deem it ready.”
+
+“I would be a little concerned, Jake,” Dina said, having floated over.
+
+“If I didn’t have any cause for concern, it wouldn’t be fun in the first place, now would it?” Jake shrugged.
+
+“I guess,” Dina sighed.
+
+“What you’re working on is related to the Ruler part of your Path, right?” Minaga decided to join in as he teleported over and asked the King directly.
+
+“Correct,” the King confirmed.
+
+Minaga nodded a few times. “I get the feeling the ‘King’ part of your name will begin to make a lot more sense going forward.”
+
+“As it rightfully should,” the Golden Forest King said as he turned to the others. “It was a pleasure to meet you all again, and I shall also affirm my desire for us to hunt together once more, at least once before we all evolve. However, for now, I still have much to address regarding my new form, as well as aspects of my Path to rediscover and confirm.”
+
+“You focus on what’s important,” the Sword Saint nodded. “I also believe a period of respite would be good for Dina and I. If possible, perhaps I can even take this chance to explore the martial teachings of the Pantheon of Life.”
+
+“I can reach out to the tribe,” Dina offered, Jake getting the feeling that the two had discussed this matter already.
+
+“That would be nice,” the Sword Saint smiled. Jake wasn’t sure if he should feel sorry for this tribe or not, but he did look forward to hearing if the old man ended up learning anything useful or just spent all his time breaking the spirits of young swordsmen who believed themselves geniuses.
+
+“Ree!” Sylphie screeched, having already flown back to land on top of Jake’s head.
+
+“Yeah, that makes sense,” Jake nodded upon hearing Sylphie’s plan to return and play with the other wind elementals. He was genuinely happy to hear that she’d made some new friends independent of those Jake knew, as it was only healthy for a young, growing bird like her to have her own social life.
+
+“I should return to grandpa,” Dina said after a while, before she suddenly remembered something. “Oh yeah, I heard things are going well with growing the bow?”
+
+“Everything was as it should be the last time I checked,” Jake confirmed. “Then again, maybe it’s actually fucked? I just pour energy into the thing and hope everything works out.”
+
+“Unless grandpa told you there are problems, I would also assume things are going well,” Dina nodded. “Trusting him is the best option.”
+
+“For sure,” Jake nodded, not going to argue with that one.
+
+That’s also why Jake wasn’t going to fuck around and use any Jake Juice in the bow creation. It was a matter he’d considered a lot, but in the end, he concluded that doing so was simply too risky.
+
+Jake had already learned his lesson not to fuck around with the Records of gods. Moreover, the entire purpose of using Jake Juice was to alter the Records contained within an item. To make them closer to their Primeval Origins.
+
+With the bow, Jake already knew what Records were going in there. One part was created from Yggdrasil’s Records, while the other was from the Apex Hunter bow, which had just the Records Jake wanted his new bow to have. All of this was then supervised and controlled by Nature’s Attendant, also adding in his Records. Along with Jake’s own, of course.
+
+In summary, the bow had Records of two absolute pinnacle gods, a bow with perfect system-granted Records, and finally, Jake also added his own energy and thus Records. What part of that would Jake even want to see altered?
+
+Was it theoretically possible that introducing Jake Juice into the mix could create something better? Yes. Was it equally, if not more likely, that Jake would end up just ruining the entire thing or end up with something worse? Also yes.
+
+Hence why the best approach was indeed to trust that the ancient god knew what he was doing.
+
+Besides, he still had to save a bit of his Jake Juice for a special little someone who was still hiding down in the cellar of the palace, hidden under the biggest pile of loot he had assembled. The poor Warpsnatcher hadn’t been a fan of the King returning as the aura of a Unique Lifeform, especially that of the King’s, was quite scary to other monsters. When everyone else had also arrived, it hadn’t made things better, especially not Minaga with his god clone.
+
+Luckily for the Warpsnatcher, the reunion party ended up being a relatively short one, as everyone soon left once more. Dina and the Sword Saint would remain on the Great Planet, though, so they did sound like visiting again soonish was an option. Sylphie was as flighty as ever, so maybe she would also stop by.
+
+Seeing as Minaga took the job of teleporting everyone where they wanted to go, only the King would stay back at Jake’s residence, as he’d started meditating right there in the garden area.
+
+With everyone else gone or too busy focusing on their own self-improvement, Jake headed down to the cellar to where the Warpsnatcher was hiding. So far, Jake had considered whether he wanted to help the little fella out and ultimately decided to do so, partly for personal reasons, as he wanted to see if he could have a more purposeful, positive effect on the evolution of another creature.
+
+However, before he would even begin setting up the ritual, there were still two more important matters to discuss with the Warpsnatcher. One was if this was even what he wanted. Jake didn’t want to force his own experiment on an unwilling subject and wanted the Warpsnatcher to participate fully aware of the risks... or at least as aware as Jake was.
+
+The second matter, which was only truly relevant should the Warpsnatcher agree, was of equal importance. Because if Jake were to actually go forward with the ritual, it would be nice to no longer have to refer to the Warpsnatcher as the Warpsnatcher, but instead give the Warpsnatcher a name.

@@ -1,0 +1,337 @@
+---
+id: d298e2f2-76ab-5de9-9095-b9bc2b18d8ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 - The Favor"
+slug: 0043-chapter-42-the-favor
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 43
+ownLength: 3637
+unit: words
+publishedAt: 2022-07-04
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/941599/chapter-42-the-favor"
+royalRoadId: "941599"
+---
+
+As Penn scaled the brick wall, he had a lot of time to think. Rather than concentrating on how likely he was to die if he fell, he decided to focus on his amazing luck.
+
+Here he was, a man now closer to thirty than twenty, in enviable health, capable of performing astounding feats of athleticism that were the wonder of most of the city’s police force. He had a career that suited him, and he was engaged to be married! Truly, he had to be the envy of every man alive.
+
+“Women!” he growled under his breath.
+
+He knew that once the climbing was done, his resentment for his current predicament would fade, and if he was being honest, it wasn’t really Eleanor’s fault. If she had any idea what he was doing, she would probably object in the strongest terms.
+
+He pictured her concerned face and his own carefree response. That afforded him some joy and boosted his climbing speed.
+
+At any other time, he would have used one of his safer methods to gain entry into Altis’s apartment. Sneaking in through the front door of the building would have required a disguise, and those weren’t difficult. However, that was something the Marvelous Mr. Penn would do, and tonight, Penn couldn’t be himself. This was one heist that he would never take credit for.
+
+Dropping down from the roof would have been easier, but the building was just far enough away from its neighbors that he didn’t relish the idea of jumping.
+
+And it’s not that he minded climbing up to windows—but he rarely had to climb so high! Especially without the support of one or two good friends.
+
+When he reached the second level from the top, Penn jammed his metal hook in the corner of the window ledge. The hold was secure enough, he could lean back for a few seconds to relax and assess his situation.
+
+While leaning back, he saw the most glorious sight a thief could ever hope to see: a partially open window. Mr. Altis must have left it like that when he went to his dinner engagement.
+
+Penn added to his list of lucky things “the perfect summer weather.”
+
+He climbed onto the window ledge and lifted the window. There he crouched, listening for any hint of noise in the apartment beyond. Nothing. Everything was dark. He twitched aside the thin white curtain and hopped into the room, eager to learn what kind of a man Mr. Altis was.
+
+Penn was in the main living area, which Altis had turned into some kind of study, library, living room hybrid. There was a desk, two sofas, and an entire wall filled with shelves. At the far side of the room there was a drinks cabinet under a large mirror. All the furniture had been precisely arranged.
+
+Altis was a neat old bachelor. Fastidious. Penn poked around the equally spaced ornaments that decorated the bookshelf. Most of them were worthless knick-knacks that Altis had collected during his travels, but there were one or two pieces Penn might have pocketed in any other circumstance.
+
+But where did the old devil keep his safe?
+
+When Penn turned to peer at the rest of the room, his eyes stopped on the long drinks cabinet. He smiled, went over, and batted at the wood until he heard the hidden door rattle.
+
+A minute later he had the door open and was working on the safe itself. Opening that took scarcely longer, but when he pulled out his flashlight to check the contents, he discovered it was full of money.
+
+That was disappointing.
+
+Penn turned off his light and slapped the metal door shut. He stood up.
+
+“Now,” he said to the empty room, “I’m a picky old man. I keep my money in my safe, but nothing that’s important to me. Where do I keep my real treasures? And why wouldn’t I keep them in my safe?”
+
+Because safes weren’t all that safe—as Penn had already demonstrated. But the hidden door in the drinks cabinet was suggestive.
+
+Altis was discreet. Altis knew the value of secrets and privacy. Altis wouldn’t keep his treasures behind strong metal walls. He would keep them where no one else could find them.
+
+Penn closed his eyes to picture the layout of the apartment he’d memorized from the prints Stewart had grudgingly procured. Penn needed to find Altis’s bedroom.
+
+The bedroom was as carefully arranged as the living room had been. There was an array of bottles set up along his vanity—more toilet potions than Penn thought any man had a right to own—and they were all arranged according to height with the labels facing forward. Altis’s bed was a massive testament to his love of sleep. It was four poster, dark wood, queen sized, with a thick brocade cover and a wall of fluffy pillows.
+
+The thief double-checked the man’s wardrobe, but there was nothing to indicate that he had a wife to share in this luxury. Altis simply knew what he liked.
+
+Since Penn was already at the wardrobe, he started his systematic search there. It didn’t end until he found a simple wooden shelf under the bed, attached to the frame. On it was a book and a thin metal box.
+
+Penn smiled. “How discreet.”
+
+He pulled out the book and retrieved his flashlight from his pocket. Before he could turn it on, he heard a noise outside in the hall.
+
+The thief held the book to his chest and tucked himself in the shadow of the wardrobe.
+
+There was the rattle of a doorknob, then a beam of steady light bled into the room from under the bottom of the door.
+
+“I’m telling you, Chief Inspector, I think your man must have been mistaken!”
+
+“That’s possible, Mr. Altis. I appreciate your patience with our abundance of caution.”
+
+Penn grit his teeth and, in the confines of his head, called Haley every blasphemous and profane name he could think of.
+
+“Then shall we start in the living room? My safe is in there.”
+
+The safe? The still exposed safe that Penn had forced open?
+
+It didn’t take long for the thief to calculate his odds and decide that getting out of the apartment would be a good idea.
+
+Leaving by a window was impossible. It would take too long for him to climb down. That meant his only hope was to exit through the front door. This seemed like an even better idea since Haley and Altis had walked past the bedroom to get to the living room.
+
+Penn crept over to the bedroom door and eased it open.
+
+His stealth proved to be worthless. Haley’s abundance of caution had included leaving a man in the front of the hall. The moment Penn emerged from the bedroom, the policeman called out for his superior.
+
+Penn ran to the officer, swept out his legs, and shoved him into the wall, then he ran through the front door and didn’t bother shutting it behind himself. Penn could hear two men coming after him, and he knew at least one of them was a fast runner.
+
+The thief ran out to the building’s main hall. He turned toward the elevator. There were two policemen. He turned the other way. There were three policemen!
+
+Penn turned to his pursuers. “My god, Haley! Did you bring a whole squad?”
+
+Haley slammed his arm across Penn’s upper chest and threw him to the ground.
+
+Penn saw another policeman leaning over him. The officer’s cuffs were already open. Penn kicked out with both feet. One foot smashed into the policeman’s hand, spraining his wrist and causing him to drop his cuffs. The other crashed into his chest and sent him falling back.
+
+When the thief tried to roll away, Haley grabbed Penn’s arm and twisted it up between his shoulders. Penn jerked his head back, hoping to break Haley’s nose, but Haley had seen that trick before. He dodged out of the way. This loosened his grip enough Penn could break free. The thief snatched up the book and took the only path left to him; he ran up the stairs that led to the roof.
+
+He could hear Haley pounding up the steps behind him. A few seconds later, more policemen started climbing.
+
+“Aren’t you supposed to be catching a murderer?” Penn yelled.
+
+“I told you not to steal anything!” Haley yelled back.
+
+“Maybe I was only visiting!”
+
+“Then don’t come in through a window!”
+
+Penn decided to save his breath. There was no reasoning with some people.
+
+The thief couldn’t risk the door to the roof being locked, so instead of trying the handle, he slammed into it with a brutal kick. Shards of wood fell away as the door burst open.
+
+In front of Penn was the flat of the roof, but he could see the tiny iron fence ahead, signifying the point where the angle of the roof dropped away. It was at least four feet before the edge of the building’s brick face. He needed those four feet! He needed every inch of them! That meant he had to leap from one of the ridges of the three great gables.
+
+There was a slope leading up to a ridge on his right. It was steep enough to be another climb, all by itself.
+
+Well, there was no time like the present!
+
+Penn had made it to the row of chimneys halfway up the slope by the time Haley rushed onto the roof. The inspector showed an unfortunate amount of sense by stopping to look around and locate his quarry. Penn’s feet scuffed down the roof, losing several inches of elevation and giving away his position.
+
+Once upon a time, Penn might have stopped to see what Haley would do, but by now, he thought he could guess.
+
+Sure enough, he heard Haley start to scrabble up the steep incline.
+
+Penn grabbed onto the brick chimney and swung around. “A man should learn his limits, Haley!”
+
+“Don’t worry”—the inspector grunted as his foot slid—“I’ll be there when you do.”
+
+Penn looked behind the inspector. The other policemen had arrived, but they had wisely decided to guard the flat of the roof rather than try to join in the chase. They lined themselves up along the bottom of the slope. There was no other way out now.
+
+Penn continued to climb. When he made it to the ridge, he could see all the way to the edge of the building, and beyond that, the leap of a lifetime! He laughed.
+
+“Don’t do it, Penn.”
+
+Haley was already past the chimneys.
+
+“Please, Inspector. You’ve seen me jump before, and you never tried to talk me out of it.”
+
+“If you failed those jumps you broke a leg. I thought it would make you easier to catch. If you fail this jump, I’ll never get the joy of arresting you.” The inspector curled his fingers over the ridge and hoisted himself up.
+
+“I’m sorry, but I have a job to finish.” Penn saluted him with the book and started running.
+
+Haley ran after him.
+
+Penn had almost made it to the edge—he was readying for the jump—when he heard a grunt and a scraping sound behind him.
+
+No!
+
+Grabbing onto the ridge so he wouldn’t fall, the thief dropped into a squat and turned.
+
+Haley was flat on the roof, and he was skidding down the steep slope.
+
+Penn could see in a second what had happened. Like any sane man, the inspector had kept his weight slightly to the left so that, if he stumbled, he would roll onto the flat of the roof, rather than fall nine stories and hit the street.
+
+But they were too far out. The safety of that little metal fence was a foot behind Haley. The only thing he was going to encounter was another steep slope and a long drop.
+
+Penn threw the book and ran back along the ridge until he was even with the flat roof. Then he turned, put his hands on the shake, and scraped his way down the incline.
+
+Four policemen were there to meet him when his shoe hit the metal rail of the fence.
+
+“Back off if you want him to live,” Penn said.
+
+The thief’s face was so fierce, they all stepped away.
+
+Penn drew a rope from his side, tossed it over the fence, pulled it halfway through, then took both sides in his hands. He let himself out over the slope and walked his hands down the rope as he descended.
+
+Haley had skidded all the way down to the valley between the slopes, where, at last, he stopped sliding. He kept his body as flat as possible, barely daring to breathe. His fingers pressed into the wood shake until he couldn’t tell the difference between the ridges of his fingerprints and the splinters of the wood. He squeezed his eyes shut.
+
+Then he felt someone grab his arm.
+
+“Move slowly,” Penn said.
+
+Haley couldn’t even turn his head, so the thief had to guide his hand over to the rope. When the inspector felt it bump against his fingers, he clutched at it, fastening on with a grip that turned his knuckles white.
+
+“There!” Penn said. “Feel better? I’m telling you, all a man needs to be secure in life is a good rope. Hold on to both sides, Haley. I mean that. There’s no knot.”
+
+“I understand,” Haley said.
+
+“You’re going up first. I wouldn’t trust anything as fancy as that iron fence to hold any real weight.”
+
+“What are you going to do?”
+
+“Well, if you’ll move—” Penn scraped and scooted along the roof while Haley leaned on the rope and stepped around him so the thief could move to where the inspector had been. “This spot looks cozy.”
+
+Penn laid with his back in the valley and slammed the heel of his shoe into the shake until he’d bashed out enough of a foothold he didn’t think he would slip. Then he let go of the rope and folded his arms.
+
+He was still almost vertical.
+
+Haley stared at him.
+
+“Penn, what are you doing?”
+
+“Waiting for you to get up there and whistle so I can join you.”
+
+“You know I have to arrest you.”
+
+“We’ve played this game a long time. Don’t you think I know the rules?”
+
+“What are you planning?”
+
+Penn laughed. “That’s quite the compliment from a man who says that we’re not friends. Look around you! No windows. No doors. That rope couldn’t get me to the ground, even before I halved its length. I can’t even move without risking my life. Not even the Marvelous Mr. Penn has a way out of this one, Chief Inspector.”
+
+The thief leaned his head back and closed his eyes. “I’m sure this isn’t the way you would have wanted to win, but I couldn’t let you die—not on this job—so you’ll have to take what you can get.”
+
+Haley smiled. “And if I told you this would look good at your trial?”
+
+A smirk appeared on the thief’s face. “You think you’ll hold me long enough to get me to trial?”
+
+The inspector nodded. “That’s what I thought.”
+
+Haley used the rope to climb back up. His hands were in agony by the time he reached the edge of the flat roof, but the four policemen were there to help pull him over the fence. He gave them a few seconds of instruction, then whistled down to Penn.
+
+When the thief reached the flat roof, four men held him down while Haley secured him.
+
+Penn was still surrounded by four policemen. He was sitting in a chair in the apartment lobby, waiting for the cars and carriages that Haley had called to arrive. The inspector was standing in the middle of the room talking to Mr. Altis.
+
+“But it’s all there!” the man said.
+
+Altis was trying to keep his voice subdued, but it carried all the way to the edges of the room.
+
+Mr. Altis looked about the way Penn had expected him to. He was short, a little fat, and had immaculate evening clothes that were ruined by the unsuitable hat he’d picked up in Turkey.
+
+“You’re certain?” Haley said. “He was carrying something, Mr. Altis. My men and I all saw it.”
+
+“As I’ve been telling you, Inspector, I don’t know what he could have been after. I’m a man of simple tastes—”
+
+“Ha!”
+
+Haley and Altis both looked at Penn.
+
+“You?” Penn said. “Simple tastes? That bed upstairs does not belong to a man of simple tastes, Mr. Altis.”
+
+Altis smiled sheepishly, but then he paled. In a man with such a dark skin tone, it was very noticeable.
+
+“Uh-uh…Inspector, sir…” Altis stammered under his breath.
+
+Constable Braddock came through the front door.
+
+“Our rides are here, Chief Inspector.” He held up a battered book. “And we found this outside.”
+
+Penn leaned forward while Mr. Altis visibly sagged with relief. Altis reached for the book with begging hands, but the constable passed it to Haley.
+
+Haley turned to the four men surrounding Penn. “Take him out to the carriage. He gets the floor. You four are in the seats. I want two men on the outside.”
+
+“Understood, sir.”
+
+“Is this yours, Mr. Altis?” Haley raised the book.
+
+“You know, it does look familiar. I believe it’s mine.”
+
+Penn’s mind whirred, creating a stasis of thought where he saw and felt everything, but nothing got through to him. He felt the policemen grab his arms and haul him to his feet. Haley and Altis grew larger as Penn was pulled toward the door. As he passed them, Penn craned his neck around to watch as the inspector held the book out. Mr. Altis lifted his hands to take it—
+
+But stopped when he heard the thief laugh.
+
+The loud, wild sound rang through the whole room. Everyone stared. Penn’s guards gripped him harder.
+
+“What’s so funny, Mr. Penn?” Haley asked.
+
+“You.” Penn struggled against the men holding him until he was almost facing the inspector. “You’re about to give him that book.”
+
+“Is there a reason I shouldn’t?”
+
+Penn grinned at the fat little dandy. “Because it’s not his.”
+
+Behind the chief inspector, Altis’s face went red.
+
+Penn looked at his rival. “Oh, some champion of justice you are, Inspector Haley.”
+
+“This isn’t what you came for?”
+
+“Not at all! That’s what I brought.”
+
+Most of the policemen tried to catch each other’s eyes to see if anyone knew what was going on. Altis gaped at the thief in silent outrage. Haley kept his eyes locked on Penn.
+
+“Are you saying that you brought this book to Mr. Altis?”
+
+Penn scoffed. “Hardly. I already told you, I was merely visiting, but I thought that Mr. Altis might not be home when I arrived, so I brought along some light reading I had picked up somewhere else.”
+
+Altis tugged on Haley’s sleeve. “Chief Inspector, that man is lying. I would never invite him into my home, and that book is most definitely mine.”
+
+Haley turned his eyes to the unfortunate little man. “That’s funny, Mr. Altis. You didn’t sound so certain a minute ago.” Haley called to Penn, “And where do you claim you got this book from? The library? A bookstore?”
+
+“I stole it from Eleanor Louise Serrs.”
+
+For a split second, Penn saw Haley’s shock, but then the inspector’s face became a mask.
+
+An arm shot out from behind Haley to advance an accusatory finger. “You climbed in through my window and stole my book!”
+
+“Oh,” Haley said, “so it must be valuable. It’s a wonder you didn’t recognize it earlier.”
+
+He went to open it, but Altis’s hand clamped down on the cover.
+
+Without any sign of perturbation, Haley said, “This doesn’t appear to be traditionally published.”
+
+“No. It’s a journal of mine. A very private journal.”
+
+“Liar,” Penn said.
+
+“You shut up!” Altis shouted.
+
+Haley looked at Braddock. “If you could please take Mr. Penn away.”
+
+Still grinning, Penn called out, “Good night, Mr. Altis! Good night, Chief Inspector!”
+
+Once the lobby was cleared, Haley returned his attention to the fuming man beside him.
+
+“Mr. Altis, we have a problem—”
+
+“Chief Inspector, do I have to remind you that I welcomed you in without a warrant? You have no right to search through my things without my permission. I’ve assured you that book is mine—”
+
+“And Penn claims it isn’t. I can’t return property to you without knowing that it’s yours. I understand this is upsetting, but if you let me look at the book—”
+
+“No!”
+
+Altis cowered when he saw Haley’s face harden.
+
+“Mr. Altis, we’re running out of options. If you don’t want me to look at this book, then I will take it into custody until we can determine who owns it. We’ll need handwriting samples, a testimony from you, and a complete statement from Penn.”
+
+The man raised his hands and tapped his fingertips together as he spoke in a simpering voice: “I’m sorry, Chief Inspector, that was rude of me. Isn’t there any other way? I can’t afford to be without it for so long.”
+
+There was a short silence.
+
+“There might be one.”
+
+“Please.”
+
+“Penn claims he stole it from Lady Serrs. We can take it to her right now and see if she recognizes it.”
+
+It was obvious Altis was no more pleased with this idea than the others. He frowned and wagged his head from side to side. After a second of this, he opened his mouth, but Haley was already speaking.
+
+“I take this book into custody, or we go see Lady Serrs—those are your choices. Whichever you prefer, Mr. Altis.”

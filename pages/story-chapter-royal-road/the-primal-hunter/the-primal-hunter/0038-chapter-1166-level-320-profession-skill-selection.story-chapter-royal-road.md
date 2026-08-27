@@ -1,0 +1,127 @@
+---
+id: 8e9e5f44-e71a-5b4b-bf79-d5285b09c34c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1166 - Level 320 Profession Skill Selection"
+slug: 0038-chapter-1166-level-320-profession-skill-selection
+partOf: the-primal-hunter
+position: 38
+ownLength: 3068
+unit: words
+ownProgress: 3068
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2628187/chapter-1166-level-320-profession-skill-selection"
+royalRoadId: "2628187"
+markedReadAt: "2026-06-29T19:30:27.998Z"
+---
+
+Jake had seriously considered making this the first skill selection he’d purposefully delay for a relatively long time. Delaying a skill selection carried certain risks, but it could also allow one to benefit greatly if one really wanted to develop a particular kind of skill.
+
+Ultimately, Jake had decided not to delay it for a few reasons. First of all, Jake didn’t have a specific skill he was looking to acquire from the selection. In fact, he nearly felt like he had too many alchemy skills already with all the projects he had going on.
+
+Secondly, the only skills Jake had wanted to upgrade were the Malefic Viper Legacy skills, and all of those had now been done. Sure, Palate remained broken, but he could only hope that wouldn’t negatively impact the selection.
+
+Finally, this was his last skill selection of C-grade and the final one for his profession in this grade. As with his class, the previous selection usually included a signature skill of some kind for that particular class or profession, which meant that even if Jake ended up being offered some nice skill he himself influenced to appear, chances were he would still select the final one on offer.
+
+Granted, one did have to have performed well during the grade to get this final signature skill offered in the first place, but Jake wouldn’t say he’d done badly while in C-grade, so he believed he’d at least fulfilled the basic requirements.
+
+Resting on the sofa back in his own little palace, Jake didn’t delay further as he pushed all other thoughts regarding Artemis, relationships, factions, and all that jazz all the way to the back of his mind and got the skill selection started.
+
+Jake felt pleased when he saw the first skill offered was ancient rarity, though when he read what the skill's name was, he couldn’t help but chuckle.
+
+[Arcane Alchemist’s Supreme Purification (Ancient)] – Through the boundless power of your arcane affinity, stabilize all that you desire and destroy the unwanted as you refuse for any alchemical ingredient to be less than perfect. Attempt to purify any alchemical ingredient, reducing it to its most basic state while ensuring its stability. Arcane purification can also help destroy unwanted properties from an ingredient, making it purer. Must have suitable ingredients. Purification does not require any additional tools or equipment, but the skill’s effect can be amplified with the use of certain catalysts. Adds a notable increase to the effectiveness and chance of success of attempted purifications based on Wisdom and Intelligence.WARNING: This skill is unlocked by and will serve as an upgrade to your Alchemist’s Purification.
+
+This was the third time Jake had been offered an upgrade to his Alchemist’s Purification skill, and the second in C-grade alone. At this point, it was admittedly a little silly that Jake still had an inferior rarity skill, but in his defense, he never needed it.
+
+Even when he read the description of this vastly upgraded version, he still didn’t really feel like he needed it. Jake tended not to need to purify ingredients much in the first place, as he only procured high-quality products due to being a glorified trust-fund baby of a Primordial. However, even in rare cases where he did need to clean up an ingredient, he had other means.
+
+Truthfully, burning away the unwanted aspects of ingredients was easy enough, especially without a skill in the first place, thanks to Sagacity supporting the entire process. Shit, one of the primary reasons many alchemists used the skill was to purify water for their alchemy, but Jake used his blood as a replacement for that in the majority of cases, and when he made potions and other things where he did need water… well, the inferior rarity skill could still purify water wonderfully.
+
+Did he need to get it upgraded someday, or perhaps just merge it with one of his other alchemy skills?
+
+Yes.
+
+Was it going to be today through the selection of this skill?
+
+Fuck no.
+
+Would Jake more likely than not forget the skill even existed before he was done with the skill selection?
+
+Most definitely.
+
+Hence, he quickly moved on, only to see that with the second skill, he was already up to legendary rarity, which was definitely a good sign. As for the skill on offer, it was definitely a result of Jake’s recent diplomatic mission.
+
+[Life Formation Theory of the Pantheon of Life (Legendary)] – What alchemist does not desire their own garden full of life? Now, you have the tools to create one that’ll earn you the envy of other alchemists. Allows the alchemist to create formations that foster a domain of life suitable for all living things to thrive within. Perhaps life can even appear naturally inside the domain. Relying on powerful concepts gleaned from the depths of the Pantheon of Life itself, you find yourself capable of creating domains containing an incredibly high conceptual level that will only increase as you grow more powerful and begin to understand more of what you’ve seen. These formations are primarily designed to be placed down, but can also be inscribed into items. The effectiveness of Life Formation Theory of the Pantheon of Life is determined by Vitality, Wisdom, and Willpower. Embrace the wonders of life and be an advocate for all living things.
+
+Jake was genuinely surprised to see a skill like this offered for several reasons. The rarity was way higher than he would have expected, especially for a skill he couldn’t place at all how the hell he’d qualified for.
+
+He barely knew anything about formation theory in the first place, and all he did know was related to ritual magic, and without getting into a whole rant about the differences and similarities of those two, Jake simply didn't like that he'd earned this one.
+
+When racking his brain a bit, Jake could only guess this one wasn’t offered due to anything specific, but was more of an amalgamation of everything. Records for the skill came when his visits to Yggdrasil’s Divine Realm and what he’d seen there, his interactions with Nature’s Attendant, and the bow creation, as well as all the time he’d spent around Artemis.
+
+However, more than this being a representation of what he’d learned or accomplished while at the Pantheon of Life, it seemed more to reflect the people and their intent. While the skill talked about making a garden, this was essentially a skill to create sanctuaries for living things and to help them prosper and thrive.
+
+One interesting thing it did talk about was how he could inscribe the formations into items, which made Jake consider if he could use the skill to create a personal pocket garden of some kind, but alas, such speculation was kind of useless considering there was no way in hell he was going to select the skill.
+
+In the end, Jake’s only real takeaway from getting this offered was that he’d underestimated the Records gained from chilling around gods on a consistent basis and that he should really ask for some books on stuff like this to bring back for Rick the gardener troll. That guy would definitely love a skill like this.
+
+Moving on, the next skill offered… wasn’t a skill offering at all.
+
+[Palate of the Malefic Viper (Legendary)] – The Malefic Viper has honed its venom by devouring myriad toxins and treasures found throughout the multiverse. In the same vein, the Alchemist of the Malefic Viper can consume toxins to learn their effects and properties. Further evolved, you can now also learn the properties of herbs while at the same time enjoying a greater benefit from all potions consumed. Natural treasures can be swallowed and refined at an accelerated pace using your current level of Touch of the Malefic Viper (Legendary). If the item is not a toxin, the item will still be refined but at a slower pace. Allows you to learn the properties of any treasure in your stomach as you slowly refine it. Allows the Alchemist to fully consume a swallowed item, destroying it in the process, if possible. If the item cannot be destroyed or the result of its destruction is too violent, the Alchemist will suffer a backlash, and the internal space will be damaged. Grants immunity or resistance to most poisons. Passively provides 9 Endurance per level in Heretic-Chosen Alchemist of the Malefic Viper (C-grade variant). Through endless consumption, may your power grow; through gluttony, may your Records expand as you devour the world.This story has been taken without authorization. Report any sightings.NOTICE: Selecting this skill will fully restore the Palate of the Malefic Viper skill to its uncorrupted state.
+
+This was the consequence of Jake having the skill selection now before fixing Palate, but in his defense, he didn’t even know this was a possibility. He’d at least never seen or heard about it before, and he was shocked enough to reach out to Villy despite them having just stopped talking a bit ago.
+
+”Hey, Villy, I know we just hung up, but I’m going through my skill selection right now, and I’m currently looking at something very interesting on offer,” Jake said.
+
+”Oh, hey there, long time no see!” the Viper said jokingly. ”Yeah, I’m not surprised if the final signature skill of your profession is something else, especially not after that Divine Bargain one, so-”
+
+”I haven’t even gotten to that one yet,” Jake interrupted the snake god. ”I’m talking about another one, which isn’t even a real skill offering. One of the five in the selection is Palate of the Malefic Viper with a notice message from the system saying selecting it will fully restore Palate of the Malefic Viper to its uncorrupted state.”
+
+”That’s… interesting,” the Viper said, sounding genuinely surprised. ”Then again, so is the way you broke the skill and the way I fixed it. I must say, if this had been before your meeting with Master, I would have suggested for you to take it even if it meant giving up on another potentially awesome skill, no matter how much that would suck. It’s definitely a great opportunity, and even now, dependent on your confidence on fixing Palate yourself and the other skills on offer, you could seriously consider it… because in the event of you failing to fix Palate, you’ll fuck yourself over way more than missing one skill selection. So, picking it would definitely be the safest option.”
+
+”Yeah, it’s definitely the safe option,” Jake agreed wholeheartedly.
+
+”Which means you’re definitely not taking it?” Villy said.
+
+”Of course not,” Jake chuckled.
+
+”I would’ve been disappointed if you did. Hope one of the other four is a good one!”
+
+”Thanks,” Jake smiled as the connection was cut off once more.
+
+So, yeah, Jake quickly moved on, and the only thing he got out of getting the skill offered was to see the description once more, as he currently couldn’t summon it merely by focusing on Palate because of its broken nature.
+
+When Jake looked at the next skill on offer, he was instantly hyped when he saw the rarity – mythical – but had mixed feelings upon reading the name.
+
+[Chosen Alchemist’s Prayer of the Malefic Viper (Mythical)] – Pray, and he shall answer. Allows the Chosen of the Malefic Viper to offer a prayer to his Patron while performing any alchemical task to summon aspects of the Malefic Viper down upon themselves. Embrace your Patron and have his intent and boundless knowledge subtly guide your actions, resulting in a far greater success rate while crafting, and especially when trying to create something new. As the aspect of the Malefic Viper fills your body, you will remain in full control but be in a constant state of receiving instinctual knowledge provided to you by your Patron. While in this state, the chance of Malefic Viper’s Poison activating is enormously increased. This skill only works as long as the Malefic Viper answers your prayer, and due to sharing the achievement of success with your Patron, any successful crafts incur an experience point penalty. Embodying the aspect of the Malefic Viper rapidly drains all resources, and because of the toll it has on your soul, it must be used sparingly. Instinctual knowledge provided is limited by the knowledge of the Malefic Viper. This skill cannot be used in combat. Through prayer, may your wildest imagination become reality.
+
+Yep, no doubt about it, this skill was extremely overpowered. Jake read through everything carefully, and while it was true that the skill seemed to contain a lot of checks and balances, one couldn’t get around the fact that this skill quite literally allowed Jake to tap directly into the Malefic Viper’s near-omniscient fount of knowledge and allow them to inspire and guide him directly.
+
+Sure, it was limited to only being an aspect of the Malefic Viper, and using it had a bunch of penalties and limitations associated with it, but Jake still saw so many use-cases, especially when working on something new.
+
+While it was true that Jake would suffer an experience point loss if he crafted something new while using the skill, it really wasn’t that big of a loss. Jake guessed he would still get a lot of experience proportional to the effort he’d put into the crafting and research process, but what was more important was what came after he’d used the skill.
+
+As Jake read it, this would effectively function as a mini-version of Path of the Heretic-Chosen. Jake could use the skill, craft something with the guiding hand of the Malefic Viper, and then deactivate the skill and use what he’d just experienced as inspiration when on his own.
+
+Also, while the skill did require Villy to always ”answer his prayer,” Jake didn’t even see this part as relevant, considering the fact that he had the Primordial watching a constant livestream of his life with a dedicated avatar.
+
+Admittedly, Jake did get the feeling this was a skill he would have to use sparingly and only when really stuck, and ”praying” to Villy definitely felt weird, but this wasn’t a good reason to write off the skill.
+
+Needless to say, out of all the ones offered so far, this was the best, and Jake wouldn’t have been disappointed if he ended up with this one. Just reading the description, his head was already full of ideas.
+
+Alas, he had one final skill remaining… one that proved to be slightly familiar yet also different from the one he’d just mentally gone over.
+
+[Heretic-Chosen’s Invocation of the Malefic Viper (Mythical)] – What’s his is yours, and yours, his. At least that’s how you see things. Allows the Heretic-Chosen to invoke an aspect of the Malefic Viper to temporarily inhabit your body and soul and empower any Malefic Viper Legacy skill of your choosing. If crafting while under the effect of the Malefic Viper’s aspect, the chance of activating Malefic Viper’s Poison is enormously increased. Any skill empowered will become temporarily unavailable and only retain a weakened version of its passive effects after use. Upon embodying the aspect of the Malefic Viper, the empowered Legacy skill will grow increasingly unstable, dependent on exertion. The longer a skill is empowered, the longer it shall become unavailable afterwards. While using this skill, you gradually absorb Records from the Malefic Viper, but in return, you also echo back far more Records than usual to your Patron, equalizing the exchange. When invoking an aspect of the Malefic Viper, the Primordial will know, even if he cannot stop it. Due to the strain this skill puts on your soul and body, it cannot be used in concert with any boosting skills. Through invocation of the Malefic Viper, allow power surpassing your wildest imagination to enter your grasp.
+
+As mentioned, many parts of this skill were similar to the one before, seeing as both dealt with infusing himself with an ”aspect of the Malefic Viper” as the system called it. Jake assumed this was some sort of Record Fragment or Record funnel, but either way, both would allow him to absorb Records and use them, albeit in two very different ways.
+
+Invocation allowed Jake to empower a Legacy skill, which made the skill full of potential and with immense future possibilities as Jake received more skill upgrades to his Legacy skills. Not to say Prayer didn’t also have insane potential.
+
+This skill also didn’t have any restriction of not being able to use it in combat, though it did say he couldn’t use it together with a boosting skill, which definitely made it far less effective when fighting. Like Prayer, Jake was fairly confident that Invocation was primarily intended to empower his crafting for a limited period, effectively allowing Jake to overcome barriers when he got stuck.
+
+Double-checking the Invocation description, he also saw that this one didn’t include any experience penalties, though it did say that Jake would send back more Records to Villy while the skill was active. Sure, he would absorb some, too, but he had no idea if those two canceled each other out or who would benefit. Perhaps they both would.
+
+When it came to obvious downsides, there was the part about the empowered Legacy skill becoming unavailable for an unknown period after use, though it appeared they would retain some of their passive effects. This seemed to be the only backlash he could suffer from the skill. Alright, there was also the part about the Legacy skill becoming unstable if empowered for too long, but Jake didn’t really view that as a downside, just what’s to be expected.
+
+Needless to say, Jake only saw the two mythical skills as valid options for this selection, with both having obvious upsides and downsides while also remaining very familiar. He had many ideas for how both could potentially be exploited or cleverly used, simply from reading them. When it came to helping him become better at crafting, Prayer seemed the best option, as it provided him with instinctual knowledge; however, he disliked the fact that the skill was called Prayer. With Invocation, it seemed a lot more unrestricted and full of possibilities, but he would have to find these possibilities himself.
+
+Both were extremely good, and he wanted them; however, he could only pick one. So, the question was… which one?

@@ -1,0 +1,135 @@
+---
+id: 4d769415-8a0a-5c25-9e63-5cc9ec920303
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1232 - Dragon Hunter (1)"
+slug: 0104-chapter-1232-dragon-hunter-1
+partOf: the-primal-hunter
+position: 104
+ownLength: 2770
+unit: words
+ownProgress: 2770
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2939296/chapter-1232-dragon-hunter-1"
+royalRoadId: "2939296"
+markedReadAt: "2026-06-29T19:32:33.711Z"
+---
+
+Jake watched as the ritual hummed to life, and as it did, the unmistakable aura of a True Dragon rushed through the cave and out of its mouth as it flooded the mountainous terrain, scaring away the few elementals and whatnot living in the area.
+
+It was a simple ritual that did little more than amplify the aura of whatever was inside it. Jake had only made some minor modifications before placing the Dragon’s Heart in the center alongside several Cores to power the ritual in Jake’s absence.
+
+The aura given off by the ritual felt incredibly powerful in its immediate vicinity and over a thousand kilometers in every direction, but outside of that, it was hardly discernible... unless one was a True Dragon themselves. Jake didn’t doubt that Yrelstromoz would be able to detect another True Dragon unleashing its power, even if it was on the other side of the planet, which Jake kind of was.
+
+He had looked around for a bit before deciding that this area would be a good place to lay his trap. As mentioned, it was a mountainous region with massive canyons that looked like large rivers had once run through, but now they were just deep, empty fissures. Such terrain made it easy for Jake to hide the ritual but also to use it during the battle. While a B-grade could surely just destroy the terrain, it was bound to buy Jake at least a bit of time should he exploit it.
+
+After creating his trap, Jake took to the air, where he would set up. Once he was at the edge of the atmosphere, so he could avoid his arrow losing power while shooting through it, he created his stealth field with Unseen Hunter.
+
+Jake had already crafted a Protean Arrow and took it out for inspection. The research he had put into creating a Dragonsbane Poison had also proven useful for his Protean Arrow, as it was infused with concepts meant to counter dragons. During his design of the arrow, he’d also made plenty of space to include his Dragonsbane itself, as he hoped to start the fight by delivering a good dose.
+
+However, the nagging feeling that his opening attack wouldn’t go as planned still gnawed at the back of his mind. Due to that, Jake stuck with his relatively conservative approach to his opening attack.
+
+To be clear, it would still be powerful enough to instantly end the lives of most newly evolved B-grades; he just wouldn’t go all out. He would include his Protean Arrow, a fully powered Arcane Powershot, engage with Arcane Awakening at full power, Primal Gaze, and even invest all the Hunting Momentum he had built up... but what he wouldn’t do was use what he believed would be his strongest trump card:
+
+Event Horizon.
+
+No, he would save that skill in case the fight indeed dragged on. In that case, Jake would build up new Hunting Momentum, empower his Hunter’s Mark, and have another Protean Arrow ready. At that time, whatever defensive cards Yrelstromoz had would hopefully also be all used up. Finally, from the skill description and the instinctive knowledge provided, Jake believed it would be a great skill to prevent escape should Yrelstromoz decide to run, something that could be a problem as a dragon specialized in light magic was bound to be fast.
+
+If he ended up not needing Event Horizon, great, but Jake doubted he could avoid using it, and in truth, he would be very disappointed if this hunt proved too easy. The act of hunting down a True Dragon had been a goal since the first time he saw the Malefic Viper on the mural in the Challenge Dungeon, all the way back during the Tutorial. It had been built up in his mind, and Jake hoped it would live up to his expectations.
+
+Jake finished setting everything up as he summoned a stable platform of mana before sitting down and waiting as he gazed in the direction of the city. All he could do now was wait for his prey to take the bait... and hope that his very first dragon hunt would prove a worthwhile one.
+
+--
+
+Yrelstromoz flew through the empty landscape, many thoughts crossing her mind as she wondered why a True Dragon would be on this planet. It had to do with her, right? Perhaps it was someone trying once more to convince her to rejoin the Dragonflights, or maybe it was one of her former suitors?
+
+The fact that she didn’t know annoyed her, making Yrelstromoz feel compelled to investigate.
+
+She quickly traveled across the planet, not even feeling the need to go into her true form. Just her wings were enough to provide the required speed. Flying closer and closer, the aura of the dragon, clearly baiting her to come, grew stronger, but she also noticed something feeling slightly... off.
+
+It was too stable. Too unchanging. When one flared one’s aura, it would usually fluctuate at least a little simply from breathing or moving about, but this wasn’t the case. It was possible the dragon was in deep meditation or too high a level for her to be able to detect these fluctuations, but she still found it odd.
+
+However, her suspicion wasn’t bad enough to make her stop, only to make her slightly more cautious. She released a few invisible pulses of light to map out the landscape all around her once in a while, finding nothing amiss. The only movement was caused by random weak elementals that couldn’t even reach D-grade due to the low level of energy this far from the sea.
+
+Soon, a vast canyon appeared in the distance, surrounded by several tall mountains. Yrelstromoz felt that the dragon was somewhere in that area and slowed down as she approached while also unleashing a bit of her own aura to allow the other party to detect her.
+
+She couldn’t quite pinpoint where the other party was in the maze-like canyon, so she thought it simplest to just let them feel her aura and come to her. Besides, they were clearly the ones reaching out, and they had already made her travel all this way, so wasn’t it only proper they came out to greet her?
+
+After unleashing her aura, she stopped and waited with crossed arms and narrowed eyes. She waited and waited... but there was no response. This truly made her frown, and not because the other party didn’t come out. There was no response at all.
+
+Her aura should at least have caused a reaction, yet it hadn’t. Some minor resonance should have occurred, but it didn’t, prompting Yrelstromoz to soon realize something.
+
+That’s not a True Dragon, just something imitating the aura of one.
+
+Right as she had this realization, she also knew that this was a trap. However, before she had time to react, her danger sense warned her, making Yrelstromoz whip her head upwards. Upon doing so, her vision was filled with a pink-purple color as the attack was already upon her.
+
+Yrelstromoz had no time to react as the attack was simply too fast. Instinctively, she still tried, but just as she did, her entire body and even soul tensed up as she felt the presence of something truly frightening gaze upon her.
+
+It stopped any possible response she could have as the attack landed right on her forehead. She felt something pierce through her skull, shattering it entirely as it continued down through her body. In that moment, as the attack went through her, all she could do was rely on her training... which told her to abandon any resistance and allow herself to be finished off as Yrelstromoz’s body was destroyed...
+
+--
+
+Jake was already charging his next Arcane Powershot as the first one landed. Yrelstromoz had been a real help by stopping, so he didn’t even have to track her movements before shooting, allowing him to focus everything on adding sheer power to his opening attack.
+
+He watched as his opening strike approached the True Dragon, who seemed unaware until the very last moment. She noticed it faster than any other B-grade Jake had fought before, but that didn’t mean she would be able to react in time. Using Primal Gaze, he froze her right as she was about to muster a response, which also allowed Jake to experience for the first time how it felt to use that skill on a True Dragon.
+
+It wasn’t pleasant, to say the least.
+
+A searing pain went through Jake’s mind for a moment; however, it was gone as fast as it had come. In this brief moment, Jake confirmed that the soul of a True Dragon was indeed ridiculously powerful, but Jake’s was nothing to scoff at either, especially not after his recent upgrades and encounter with the Gate of Enlightenment.
+
+Gaze got the job done, and Jake watched as his arrow pierced straight into the skull of Yrelstromoz. He felt the damage being inflicted, but that was when something weird happened. The resistance stopped as his opponent seemingly just gave up and allowed herself to die.
+
+What followed was a massive explosion of pure light. For a moment, Jake was blinded, his eyes burned, and the sheer release of energy also forced Jake’s arrow to self-destruct as the explosion of light was followed by another blast of destructive arcane energy.
+
+Jake, who was still holding the string of his bow with an Arcane Powershot ready, quickly focused on healing his eyes to see what was happening below, as he was out of even his Pulse of Perception range due to how far up he'd flown. He successfully healed his right eye in seconds, allowing him to see the widespread destruction below.
+
+A massive part of the canyon had been leveled, and a large crater had formed, still pulsing with destructive arcane energy even now. Jake scoured the landscape for any clues of where Yrelstromoz could be, as he was confident she most certainly wasn’t entirely dead. Damaged perhaps, but that light explosion hadn’t been her self-destructing or anything like that.
+
+Right then, as Jake was still searching below, his danger sense exploded with warning, and through his sphere, he saw a collection of energy shooting toward him at high speed from behind.
+
+Jake instantly spun around and released his arrow toward the beam of energy. A flash of light filled his vision, and only through his sphere did he see the beam turn into a humanoid figure wielding a sword as the figure quickly dodged his arrow and continued straight for him.
+
+Switching to katars, Jake blocked just in time as a large two-handed heavy sword smashed down from above, sending him flying downwards. He spun around but quickly stabilized as the remnant energy around the humanoid figure faded, allowing him to see that it was indeed his target.
+
+Yrelstromoz floated in the air, wearing an ivory set of almost glass-like armor that reflected the sun’s rays, and in her hands she held a large sword with a thick blade seemingly made out of gemstone. Her aura was flaring, showing she too had activated some kind of boosting skill, perhaps as a necessity to even use her life-saving skill in the first place.
+
+Speaking of which, she looked entirely undamaged from Jake’s opening attack, but when Jake looked more closely, Yrelstromoz was breathing pretty heavily, and her energy seemed slightly unstable, making him believe avoiding death hadn’t been as easy as she made it look.
+
+I also doubt it’s something she can easily repeat, Jake told himself as he continued to regard the True Dragon, who also looked back at Jake with narrowed eyes.
+
+“You... you’re that human from the other day, aren’t you?” she asked, her voice revealing a hint of uncertainty.
+
+Jake was wearing his full combat getup and his mask now, making him look very different from the day he went to rip off the local casino, so it wasn’t a surprise she didn’t recognize him right away. It was no surprise that she clocked him as the same person, either. He’d evidently made an impression, and his status as a C-grade was unquestionable.
+
+“Indeed, we meet once more. Under better circumstances, I would argue,” Jake answered, focusing on his Sense of the Malefic Viper to see if any of his Dragonsbane Poison managed to remain after Yrelstromoz used her life-saving skill.
+
+It was faint, but when he really tried, he could get past the innate resistance of the dragon and feel some of his Dragonsbane still lingering, once more affirming that she had taken some damage. Not a lot, mind you, and she had even managed to dispel his Hunter’s Mark with her skill, but just the fact he had done some damage was a bit of a relief. Also, he was very happy that he hadn’t invested everything in this opening attack.
+
+“I don’t know what you did to make that kind of attack, but I doubt it’s something a mere C-grade can repeat,” Yrelstromoz said, proving herself oddly calm considering the circumstances.
+
+Jake had fully expected her to be a bit out of it after suddenly facing a potentially deadly situation. However, instead, her demeanor was cold and calculated as she scanned him, and he even sensed a few uses of Identify being employed.
+
+“I guess you’ll have to find out,” Jake smiled, deciding not to give her more time than this to recover. In an instant, he whipped out his bow and released a quick Arcane Powershot while retreating backward, trying to create some distance.
+
+Yrelstromoz responded by trying to blow away his arrow with her sword, but it slightly curved around the blade, striking her in the shoulder and even piercing through her armor, making the True Dragon stumble back with astonished eyes.
+
+“How?” she asked in disbelief.
+
+Jake responded by firing a splitting arrow, but this time, Yrelstromoz had learned something and dodged by turning her body into a ray of light. After getting her bearings, she pursued Jake, who responded by teleporting away with One Step, making her briefly lose track of him for a moment, allowing Jake to land an arrow in her lower back, getting him another groan of pain while delivering even more Dragonsbane Poison into her system.
+
+“Fine... let’s see how long you can keep this up.”
+
+Jake ignored her words and just kept trying to get more poison into her system. He knew that a certain amount of poison would need to accumulate before the Mana Allergy effect would truly kick in, making the dragon’s use of magic damage her every time, and luckily for him, it seemed that Yrelstromoz was more than cooperative for now with the way she chose to fight.
+
+Yrelstromoz kept trying to attack Jake using a very simplistic fighting style, mostly ignoring his potshots as he landed one after another. Whenever he did, she merely ripped out the arrow before trying to attack again, seemingly more annoyed than concerned with being pelted like this.
+
+That, or she was being cautious, not wanting to overreact to small attacks in case Jake could release another big one. Also, Jake had to admit that if not for his poison, his minor potshots indeed dealt little damage as he was also still only in the probing stage of combat. He didn’t want to be overly offensive, either, as he had no idea what she was capable of, and seeing as he was facing a True Dragon who hadn’t even bothered to take the visage of a dragon yet, he knew she had far more to show.
+
+After about a minute of back-and-forth with Jake landing a solid dozen arrows, Yrelstromoz’s frown deepened as she stopped trying to attack.
+
+“Odd, whatever boosted you to this level of power should have run out by now,” she said, looking perplexed.
+
+Jake raised an eyebrow as he suddenly realized why she had fought the way she did. Yrelstromoz seemed under the illusion that Jake was using some external item, treasure, or extreme boosting skill to allow him to fight her. Something that would have a very short duration and lead to extreme consequences afterward.
+
+In her mind, that was likely the only way a mere C-grade could keep up with her like this. She truly believed that Jake would burn himself out at any moment... something that annoyed Jake immensely.
+
+Alright, fine, Jake thought as he gazed at her, his demeanor slightly changing as he looked forward to seeing just how long she could keep underestimating him.

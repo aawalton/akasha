@@ -1,0 +1,183 @@
+---
+id: 771c42bb-3305-5692-b380-44b94dfb957e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1194 - Job Transfer"
+slug: 0066-chapter-1194-job-transfer
+partOf: the-primal-hunter
+position: 66
+ownLength: 2665
+unit: words
+ownProgress: 2665
+publishedAt: 2025-11-04
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2731997/chapter-1194-job-transfer"
+royalRoadId: "2731997"
+markedReadAt: "2026-06-29T19:31:21.477Z"
+---
+
+Jake and Minaga appeared in the familiar garden of the palace Jake had called home in recent times. When he appeared, he instantly spotted a few familiar figures already there, including an exact replica of the Unique Lifeform who had functioned as his ride.
+
+Besides another Minaga, the Sword Saint, and Sylphie were naturally there, but Dina had also come along. Artemis remained within the palace while the King was also still sitting in meditation on the other side of the garden, seemingly unbothered with everything that was happening.
+
+“Ree!” Sylphie screeched the moment Jake had fully appeared, and before he could react, the bird was already sitting on top of his head.
+
+He smiled as he reached up to scratch her. “Hey Sylphie, you look like you’ve had a good time.”
+
+Sylphie didn’t answer but just looked down at his head. She moved her talons around a little, poking his hair a couple of times before she seemed to realize something.
+
+“Ree!” Sylphie screeched angrily while flapping her wings, kicking up a gust of wind all around them.
+
+“What? No!” Jake defended himself.
+
+“Ree!”
+
+“Only momentarily!”
+
+“Ree!” Sylphie rejected his excuse.
+
+“You shouldn’t be angry in the first place!” Jake quickly tried to change his strategy as he felt Sylphie’s talons begin to poke into his skin. “As a benevolent big sister, isn’t it only cool of you to allow him to be there for a moment?”
+
+“Ree,” Sylphie said skeptically.
+
+“Never, as I said, he only briefly used it as a springboard to jump,” Jake reaffirmed to the bird. “Actually, I’m confused... how do you even know?”
+
+“Ree.”
+
+The Sword Saint couldn’t help but chuckle at Sylphie’s answer as he shook his head. “Bird’s intuition? A superior version of a woman’s intuition, I take it?”
+
+“Ree,” Sylphie nodded, having luckily calmed down by now. Somehow, she had felt that Jasper had dared touch her nest, better known as Jake’s head. Sure, he had briefly jumped on it once or twice, something that had happened around forty days ago, but Sylphie still seemed miffed as she had a strong sense of territory when it came to who was allowed to sit on top of Jake’s head.
+
+With her calm, Jake regarded the others. “It looks like you two also had a good time.”
+
+“I have indeed been enjoying the local Hunting Grounds,” the Sword Saint confirmed with a nod. “As well as the talents that belong to the Pantheon of Life. I heard you had some sparring matches, and I drew inspiration as I tried the same thing. It proved a wise decision, but sadly, as of a few hours ago, I was out of suitable opponents willing or able to battle.”
+
+Jake looked at the old man with sympathy. “I know the feeling.”
+
+The two shared the sentiment for a moment before he looked at Dina. “You’ve also gained quite a few levels, eh?”
+
+“Indeed,” Dina confirmed with a small bow. “It has been a nice change of pace to fight alongside others once more. Grandfather has been tougher than usual, though, wanting to ensure I keep up with everyone else in my generation.”
+
+“I theorize it has to do with the Seat of the Exalted Prima,” the Sword Saint added. “I and many others find it difficult to believe that the opportunities offered by the World Wonder will fall entirely to the natives of the ninety-third universe. Instead, there’s far more precedence to it being limited by levels and grades. Of course, this could be wrong, but it’s not like the large factions lose much by investing more in the next generation.”
+
+“Hm, yeah, I could see that,” Jake muttered in thought. From his ring he got from the Prima Guardian event, he knew that the Seat of the Exalted Prima system event was designed for B-grades, and it was entirely possible that even B-grades from other universes had some way to take part. Not that it mattered much.
+
+“I do feel a little sorry for them all, though,” Jake sighed.
+
+“Why?” Dina asked, confused.
+
+Jake flashed her a cheeky smile. “Because I’m gonna be the one to win whatever system event happens in the end.”
+
+“You do know it’s entirely possible there will be multiple events,” the Sword Saint pointed out. “I seriously doubt the planet will pit an entire universe against each other when only in B-grade. That would simply be way too chaotic.”
+
+“Yeah, yeah, but at the end of everything, I bet there’ll be one winner, and that winner will be me,” Jake insisted arrogantly.
+
+“A World Wonder is rarely something that can be truly monopolized,” a new person entered the conversation as Artemis strolled out of the palace, having definitely heard their prior conversation and decided to join in.
+
+“Most World Wonders offer opportunities, and I doubt the Malefic One would find it wise for you to even try to monopolize the World Wonder, even if theoretically possible. It’s far more likely that even if you win, what you win will be control rights that you can then share with other factions or people. That’s why it still matters to have young geniuses ready to participate... especially if it’s possible to have those talents help you during whatever system events may happen, thus getting their factions in your good graces.”
+
+“And all that once more assumes there will be one final winner,” the Sword Saint pointed out again. “From my understanding, many World Wonders where it’s possible to limit and control access have several factions working together with their respective control rights.”
+
+“Indeed,” Artemis confirmed with a nod. “The point is, no matter what, it’s clear the young generation will have a significant impact in the times to come, so we want to invest in it. It’s especially worth the investment when we have wonderful seeds like Dina here.”
+
+“I thank the Mistress for her confidence,” the dryad druid bowed, looking a bit embarrassed.
+
+“No need for the over-politeness,” Artemis waved her off.
+
+Dina just nodded, still looking a bit awkward.
+
+Minaga, who had been surprisingly silent throughout it all, especially when one considered he was literally there twice, decided to also chime up. “Yeah, we’re all friends here! Speaking of friends, why is the grumpy guy sitting over there and ignoring us all?”
+
+“He’s not,” Jake chuckled as he turned toward the Forest King. “He’s been listening in all along, hasn’t he?”
+
+“Difficult not to when you decide to meet right next to where I train,” the King answered as he finally stopped floating there with his legs crossed. “I had nothing of note to add to your discussion, and I find it meaningless to engage in hypotheticals before we know more of this upcoming system event. I have enough matters to occupy my time and mind with already.”
+
+“Isn’t he a ray of sunshine?” Minaga smiled at the rest of the group. “Anyway, as much as it pains me, I’ll need to head off now. Dina’s grandpa still needs me, and even Duskleaf has been bothering me a lot lately. Of course, you’ll soon meet my good friend again once you return to Earth and check out the super cool dungeon he’s been working on, but that doesn’t mean I personally won’t miss you.”
+
+“It’s been a pleasure as always,” the Sword Saint nodded at the Unique Lifeform.
+
+“I’ll check out the dungeon... geez,” Jake felt like Minaga had reminded him a few times too many.
+
+“Ree!” Sylphie also said her goodbyes as she flapped her wings a few times to wave.
+
+Both Minaga’s smiled and spoke in sync. “Thanks!”
+
+The next moment, both disappeared, only to reappear right in front of the Forest King. “I have come to personally bid goodbye to you, my dear friend!”
+
+While barely acknowledging their existence, the King floated around. “I would say goodbye, but knowing you, we shall encounter you once more when most unexpected and inopportune.”
+
+“I love you too,” Minaga said jokingly, and with a final bow towards the group, he was gone. For now, anyway. The King had been entirely correct that they would definitely end up running into Minaga again sooner rather than later, especially if Jake actually stuck to his promise and remembered to check out the labyrinth dungeon the Unique Lifeform had been constructing on Earth.
+
+With Minaga gone, things got calm once more, with only one god remaining... which made Jake consider something.
+
+“I low-key thought Minaga would be the one handling our return,” Jake muttered. “It definitely doesn’t sound like Duskleaf is anywhere near ready to return.”
+
+“He’s not,” Artemis clarified. “I spoke to Nature’s Attendant, the Mother Tree, and Duskleaf to confirm where they stand, and I was informed that they are indeed still far from done. Duskleaf will have one of his avatars remain in the Order of the Malefic Viper to handle minor matters, but he will keep most of his focus here. As one of the people invited to help, Minaga will stick around with his divine clone.”
+
+Jake nodded in understanding as another thought struck him. “Before we leave, shouldn’t I also say goodbye to Yggdrasil and Nature’s Attendant?”
+
+Artemis just smiled and shook her head. “It’s wholly unnecessary. It could even be looked at as improper, considering you’re a mortal. Not that it matters. My point is that no one would expect you to stop by, and everyone assumes they’ll see you again sooner rather than later, going by divine standards.”
+
+“Well, give them my regards either way,” Jake shrugged.
+
+“Sadly, I can’t do that,” Artemis sighed.
+
+Jake looked at her, perplexed as the Sword Saint spoke the obvious. “She’s our escort back to the Order of the Malefic Viper.
+
+“Oh,” Jake muttered. Yeah, alright, he really should have seen that coming.
+
+“Seeing as the Order of the Malefic Viper and Pantheon of Life have made a declaration of friendship and seek to deepen their bond, it’s been decided that both factions will establish a semi-permanent presence within the heartlands of the other faction’s territory,” Artemis explained. “These embassies, as you may as well call them, will each have both a divine and a mortal presence. Many of the diplomats you originally brought with you here shall remain alongside the god named Linea, who will serve as a divine Ambassador for the Order.”
+
+Jake listened attentively as Artemis continued with a smile. “As a show of faith, the Pantheon of Life has gone above and beyond with the Ambassador they appointed, going as far as giving the job to their newest Godqueen.”
+
+“And I’ll serve as the temporary representative of the mortal delegation going to the Order,” Dina explained further.
+
+“Craftsmen and other diplomats from the Pantheon of Life have already arrived at the Order and begun preparations for what’s to come as we plan to establish a real presence there,” Artemis finished the explanation.
+
+“Exciting news, isn’t it?” the Sword Saint said with a smile. “I was saddened that we didn’t get a proper hunting session in as a full party, but with Dina coming with us, we’ll surely get plenty of opportunities.”
+
+Looking at Artemis, Jake couldn’t suppress his smile. One of the things he had not looked forward to when leaving the Pantheon of Life was also leaving Artemis. He had considered asking if she could come along, but had stopped himself as he didn’t want to go overboard, considering how new everything still was.
+
+So, to hear that she had effectively secured a job transfer to his hometown was awesome.
+
+“A wise plan by the Pantheon of Life to ensure Dina remains close to the hunter,” the Forest King commented. “Surely, it’s also believed that it can lead to more opportunities for the young talents of the Pantheon. As far as I can see, they do not have a presence in our galaxy back in the ninety-third universe, so this will also serve as a great gateway to there.”
+
+“No need to voice all the unspoken out loud,” Artemis chuckled, not even trying to hide it. “Either way, that’s how things are. The two of us will join the rest of you and return to the Order of the Malefic Viper. Also, seeing as there’s no need to make any stops on the way, I plan for us to take a more direct route.”
+
+“What, no scenic space barge ride?” Jake asked jokingly.
+
+“I also find myself disappointed,” the Sword Saint also joked.
+
+“Ree,” Sylphie wholeheartedly disagreed as she had not particularly liked being locked up in a spaceship.
+
+Unsurprisingly, the King had no comment as he had been dead on the way there.
+
+“To be clear, I will still need you in a ship of sorts to make the trip easier,” Artemis said, waving her hand.
+
+A large, pineapple-shaped wooden thing appeared, standing around fifteen meters tall. Towards its bottom, an opening appeared for them all to enter as Artemis motioned toward it.
+
+“Just go in, and I shall teleport us all there. This vessel is constructed to make the entire process safer and easier for everyone involved,” Artemis quickly explained. “Think of it as a teleportation pod if you will, as it didn’t have any propulsion or anything like that on its own.”
+
+“Ree,” Sylphie commented.
+
+“Does look a bit like a weird egg,” Jake agreed as he entered the thing alongside everyone else. Inside, it wasn’t spatially expanded at all, and there was nothing in there besides a seating area lining the walls of the circular room.
+
+Artemis briefly entered alongside them and motioned for them to sit out to the sides. In the center of the weird vessel, a magic circle was already drawn into the ground, and Artemis went and stood on it as her energy began to be mobilized.
+
+“You know, this vessel usually only works for us gods as mortals find themselves in less than ideal states when standing in front of a god utilizing their energies,” Artemis briefly commented with a smile. “A delight to have passengers for whom that’s not the case.”
+
+“A delight to be along for the ride,” Jake smiled in return, earning him a glance from the Sword Saint, who didn’t say anything but just flashed a small smile himself.
+
+With everyone in position, the entrance to the vessel closed, and Artemis got things started proper. Jake knew that to gods, teleporting between universes wasn’t a difficult thing, and the only reason why Artemis and the Pantheon of Life would use a vessel like this was for safety.
+
+Teleporting between universes wasn’t the subtlest of actions, leaving echoes that other gods could easily track. Especially when the god in question brought along a band of mortals. Even if the god in question had skills and abilities to hide their own actions and movements, it was incredibly rare for these abilities to extend to mortal travel companions.
+
+That’s where a vessel like this came in. It was a treasure covered with magic to help hide anyone within, and as Artemis began fully merging with the pod, he felt a subtle shift that reminded him a bit of his own Unseen Hunter. Unsurprisingly, considering Artemis had been the one to originally teach him about such a skill.
+
+Using her powers, she hid the entire vessel within another paradigm of perception. It was a measure that was far from foolproof, but it should be enough for what they intended to do.
+
+She only needed to buy a few moments to teleport safely without being intercepted, and they would be golden. Of course, Jake had no idea who would even intercept them or if it was a legitimate fear, but he couldn’t fault the Pantheon of Life for playing it safe.
+
+“Everyone ready?” Artemis asked the room.
+
+Nods all around as the god smiled, her energy exploded out as green veins of mana began glowing all throughout the vessel’s interior.
+
+“Then let us be off to the Order of the Malefic Viper.”

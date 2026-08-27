@@ -1,0 +1,165 @@
+---
+id: 7988bc54-7496-5109-8509-63d904e7869b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1363 - A Forgettable Trial"
+slug: 0160-chapter-1363-a-forgettable-trial
+partOf: the-primal-hunter
+position: 160
+ownLength: 2860
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3737679/chapter-1363-a-forgettable-trial"
+royalRoadId: "3737679"
+---
+
+Jake and the Demon Prince regarded the newcomer, who quickly also noticed the two of them and bowed, clasping her hands together. Recalling where he’d met her before, Jake believed it was Nevermore where she’d been together with the golden dragon, Aisha.
+
+“I greet the Chosen of the Heartsoul Daolord,” the demon said, returning her bow, and just to be polite, Jake went along with it, also returning the greeting.
+
+She smiled, a bit of relief showing on her face. Understandably so, seeing as she’d just been thrown into an unknown space and set before the two surviving top-rankers of the Nevermore Leaderboards. He also tried to use Identify on her, which didn’t yield much information, as it appeared she had a very powerful skill that blocked that kind of thing.
+
+[?]
+
+“Did you also get here by touching a golden flower?” Jake asked, wanting to confirm if the same thing had happened to all of them.
+
+Nodding, the Chosen of the Daolord confirmed that it was indeed the case as the demon followed up. “A ten-leafed one, correct?”
+
+She once more nodded, making Jake conclude that they had all touched a nine-leafed golden flower to enter this world.
+
+“This was the environment where I found mine. Could you show yours?” Jake asked, summoning his projection again of what it looked like where he’d stumbled upon the ten-leafed golden flower.
+
+The woman, who looked more like a girl in her early teens, nodded as she opened her mouth for the first time. “Memory.”
+
+As she spoke, the world around them shifted, and they found themselves standing before a large golden flower, with massive plants surrounding them on all sides. It was a natural conclusion that this was some kind of illusion, but to Jake’s shock, his sphere confirmed that everything was very much real, if feeling somewhat unreal at the same time. His sphere also let him know that the world existed only immediately around them, perhaps because this had only been to show the environment and the flower.
+
+“Always impressive seeing the might of the Heart Palace,” the Demon Prince said in a respectful voice as he regarded the ten-leafed golden flower. “And indeed, it too has nine leaves.”
+
+“Yep,” Jake nodded, though for some reason, he frowned, feeling like something felt a little off. Was it due to the small manifested world by the young girl? He wasn’t sure, and still wasn’t sure as the world faded away, placing them back amongst the countless golden flowers making up the trial space, for a trial they still didn't even know the objective of.
+
+“Makes one wonder how many there are,” the Demon Prince muttered. “Perhaps you are right, and we merely need to wait for things to progress. I find it a probable conclusion that this trial won’t begin unless a certain number of people enter.”
+
+“Sounds likely indeed,” Jake nodded in agreement, not really seeing any other good explanation. The fact that the Chosen of the Heartsoul Daolord had appeared right next to them, and that Jake had appeared next to the demon initially, also made him believe they were meant to move as a group. If the system wanted them to fight, it wouldn’t have made them group up initially, right?
+
+The Chosen of the Heartsoul Daolord didn’t say anything, yet Jake saw her intent as a mental image appeared in his head, communicating her thoughts that they were meant to work together for something. Nodding, he looked at her.
+
+“Those are also my thoughts. This is a collaborative kind of deal, so we should stick together and wait for more to come in. Hopefully, no one would be dumb enough to try to fight all three of us, even if they do prove to be hostile,” Jake said in a casual tone, seriously wondering if anyone in this entire system event could even stand against them.
+
+Jake’s own power didn’t need much mention, and he felt as if the Demon Prince wasn’t much weaker than himself. The Chosen of the Heartsoul Daolord also felt powerful, but in a very odd way. She didn’t seem that strong at first glance, but Jake’s senses told him that fighting her would be very risky. He knew that the members of the Heart Palace cultivated Willpower and all skills related to it, which was why this girl never spoke. Any words she uttered were inherently potent Words of Power, capable of enacting her will upon the world.
+
+Fighting all three of them at once would be suicide, and things didn’t get better for any potential aggressor, as not too much later, space shivered once more as a fourth person appeared. An unfamiliar one this time around.
+
+It was another woman, and she immediately had a spear in hand when she noticed the three of them, but the Demon Prince stepped forward in a friendly manner, holding both hands up in front of his chest.
+
+“I greet the Valkyrie of Valhal,” he said in a casual manner. “No need to arm yourself; we have no hostile intent. In fact...”
+
+The Demon explained everything they had discussed earlier and confirmed that she had also found a golden flower and used it to enter this space. She threw some glances Jake’s way as he talked, and Jake returned her look as he used a quick Identify, getting more out of this one than with the Chosen of the Heartsoul Daolord.
+
+[Human – lvl 360 – Divine Blessing of Gudrun, the First Valkyrie]
+
+It turned out she was blessed by Gudrun, and Jake wouldn’t be surprised if she knew Carmen either. Or maybe that was presumptuous of him, as Valhal definitely had shown up in force for this event, so could he really expect her to know everyone? Either way, seeing as Valhal and the Order were on good terms, the Valkyrie looked a lot calmer after hearing everything, and did indeed confirm her situation was the same as everyone else.
+
+Power-wise, she was definitely the weakest of them by a fair margin. She was inferior to both the Behemoth and Archfiend, and while she was definitely a genius in her own right, the other three were geniuses among geniuses.
+
+With the hope that five people were all they needed for this trial to begin, the four of them relaxed for a little while, not much discussion really taking place anymore. While Jake and the Demon Prince had no problems talking casually, things were a bit more awkward with four major factions involved, with the Dao Sect in particular not one they wanted to give away too much information to. The same was probably true for the two women, which meant things were kept very casual.
+
+Fortunately, they didn’t have to wait very long before a fifth person arrived, and this time around, it was someone Jake found incredibly familiar.
+
+All four of them turned as a small creature appeared, sitting on the field of golden flowers, holding his small paws together as he looked up at the four of them. Jake saw the Chosen of the Heartsoul Daolord’s eyes open wide, and her hands moved forward as if she really wanted to pick him up.
+
+“We meet again,” Jake said with a smile to Jasper, who initially looked concerned upon noticing the people so close to him, but after spotting Jake, the little guy instantly calmed down.
+
+Without hesitation, Jasper disappeared and reappeared sitting on Jake’s shoulder, earning the hunter a jealous look from the young-looking girl from the Dao Sect.
+
+“You two appear to know one another,” the Demon Prince said with a smile. “A friend from beyond this virtual world, or one you made in here? I must admit, this one is not a being I have any knowledge of.”
+
+“He’s family,” Jake said with a smile, which also made Jasper hug the side of his face rather awkwardly, which made Jake pry him off and put him down on the ground. “Come on, introduce yourself.”
+
+The Planeswarper looked a little nervous before eventually lifting his paws into the air and announcing his existence. “Jasper!”
+
+Through the power of cuteness, even the Demon Prince was affected as he smiled and bowed his head. “Nice to meet you, Jasper.”
+
+“Nice meet,” Jasper nodded his big head before disappearing and reappearing on Jake’s shoulder again. This time around, Jake didn’t put him down but just stood there, honestly just waiting for something – anything – more to happen now that they were five people present. Things tended to happen in fives, seeing as it was the party size accepted by dungeons, so Jake had assumed it was similar here.
+
+After a dozen seconds had passed, with them all standing there quietly, the Demon Prince spoke up once more. “It appears we need more than five... this trial is proving more annoying than I first believed.”
+
+“And it hasn’t even started yet,” Jake sighed, shaking his head as he turned to Jasper. “I assume you also found a ten-leafed golden flower and used that to enter?”
+
+Jasper nodded in confirmation. “Tried take, was taken.”
+
+“Guess we’re stuck a little while longer,” Jake let out a sigh.
+
+The Planeswarper sitting on Jake’s shoulder tilted his head, looking in thought for a moment before speaking. “Leave okay, come back?”
+
+Jake and everyone else turned to the little cat-like creature as the Demon Prince spoke first. “You have the means to leave this place?”
+
+Jasper nodded a little nervously.
+
+“Can you bring others along?” Jake asked with hope in his voice.
+
+“Only me,” Jasper said, lowering his head shamefully. “Plane strong, hard warp, many layers...”
+
+“Wait, won’t it mess up the event or have some influence on gaining the reward if you leave and come back?” Jake asked, wondering how it would even work if Jasper could come and go.
+
+Jasper just shrugged. “First not alone.”
+
+“I guess,” Jake muttered. “Anyhow, I doubt the system would allow you to leave while also making an event that would be ruined if someone left, so I don’t see why I would stop you from coming and going. I still have your mark, so I can just notice you if I need you back here.”
+
+“Hold on, we don’t know if there will be negative consequences from him leaving,” the Valkyrie that had otherwise been silent spoke up. “I believe it’s safer he stays or finds a way to allow us all to leave.”
+
+“Nah, it’s fine, he can go,” Jake said, throwing her a quick glance, making her back off. Jake wasn’t going to tell Jasper what he could and couldn’t do, and he sure as hell wasn’t going to allow some random woman from Valhal to either.
+
+“Okay,” Jasper nodded. “Bye bye!”
+
+The little guy jumped off Jake’s shoulder and shimmered out of existence for a moment. He seemed to replicate as dozens of images of the same little creature appeared for a moment before Jasper was gone, and though his Hunter’s Mark he’d just replaced, he confirmed he’d made it outside. Jake did wonder how exactly his little creation’s magic worked, but... but...
+
+Jake frowned as he suddenly felt like he’d forgotten something.
+
+“Hopefully, five people will be enough to start the next trial,” the Demon Prince said as they were just waiting for another person to arrive after the Valkyrie from Valhal. “It would be highly unfortunate if we need more than that.”
+
+“All we can do is wait,” the Valkyrie shrugged.
+
+The Chosen of the Heartsoul Daolord nodded, and Jake was also about to agree, but the odd sense of wrongness persisted. He didn’t know why he continued to feel as though he’d forgotten something. He tried to remember what he could have forgotten, but needless to say, that was a very futile endeavor, leaving him only with more doubt.
+
+“Am I the only one feeling that something is off here?” Jake asked the other three.
+
+“In what way?” the Demon Prince asked, sounding as if he took Jake’s words very seriously.
+
+“See, that’s the thing. I don’t know,” Jake shook his head. “But something is definitely wrong. I’m feeling as if I’ve forgotten something, and those kinds of feelings are rarely wrong. Not for me.”
+
+“I can’t detect anything amiss myself, how about you?” the Demon Prince asked the Chosen of the Heartsoul Daolord. As a cultivator of Willpower, she likely had insane mental resistance, so if they were somehow affected by any kind of magic, she had the best chance of detecting it.
+
+She took a moment, closed her eyes, then opened them again and shook her head.
+
+“Nothing, huh,” the Demon Prince muttered, turning back to Jake. “And you’re certain?”
+
+“As certain as my intuition can be,” Jake said. “Which, in my book, is more than enough to cause suspicion.”
+
+“Assuming you’re correct, the question is what we can do about it, or why this trial would somehow make us forget things,” the Demon Prince said with a frown. “Very rarely does the system mess with something like memories... though certain creatures most definitely can.”
+
+Jake slowly nodded, recalling the Minotaur Mindchief he’d fought way back then, and how he’d been able to effectively implant memories and momentarily make Jake think things that weren’t true. Usually, in those kinds of scenarios, the second the person notices what’s wrong, all memories are instantly restored, which didn’t seem to be happening right now.
+
+“There’s no such creature here, though,” the Valkyrie shrugged, looking around. “I still think just waiting for a fifth person to appear is our best bet. Maybe our memories are affected somewhat, but it must be temporary and should be fixed once we leave this place.”
+
+“I do agree that I don’t see a trial permanently taking away or altering memories, though I admittedly find the very notion that a trial like this even exists in the first place unsettling,” the demon lord shook his head. “As for waiting, I reluctantly find myself in agreement. I don’t see what the realization that memories are being affected does to improve our current progress for the trial.”
+
+Jake also reluctantly agreed with that as he continued scanning their surroundings, hoping to spot something... which he did. Just in front of them, some of the flowers had been trodden down as if a small creature had been sitting there, and when Jake focused, he saw something else.
+
+On his shoulder was a single small piece of hair. Jake enveloped the hair in mana and lifted it to appear in front of him, and the distinct color instantly made him realize where it had come from.
+
+Jasper?
+
+It wasn’t possible that it had come from before when... wait, what was Jake even doing before he entered this space? He had been picking golden flowers and stumbled upon a nine-leafed one that had transported him into this world, where he’d met others who’d also touched ten-leafed flowers. But what about before that?
+
+There was the desert that he’d gone through, but how had he gone through it? Had he been alone? No, no, when Jake really thought about it, he was pretty sure there had been someone else, or perhaps multiple people; he just couldn’t remember who.
+
+“Everyone,” Jake said in a severe tone. “Do me a favor and try to recall what you were doing before entering this space, as well as who you were with. Consider the details, not just the broad strokes.”
+
+Jake got a few weird looks at first, but the three did as he asked, and he immediately saw their faces change. Several seconds passed before the Demon Prince spoke again, having some good insight.
+
+“Alright, our memories have definitely been messed with, but it’s in such a crude and simplistic way it’s clearly not meant to work long-term, which begs the question of why. What is the purpose of sealing off memories like this?”
+
+Jake continued studying the small hair left by Jasper, and once he felt entirely confident it had come from the little guy, he also suddenly remembered something else. He wasn’t sure how he could have forgotten, but just then, he realized he had a Hunter’s Mark on Jasper, and that the Planeswarper had also left a mark on him in turn. One he could destroy to notify Jasper.
+
+While he could still remember its existence, Jake did so as he also lifted his arm and tore off part of his sleeve, using his other hand to take out a katar. With many swift movements, he left a few words in the form of wounds, believing that the pain would constantly remind him they were there.
+
+Instantly, he forgot what he had even been doing a second earlier, but the pain brought his mind back. For a few seconds, he was in a loop of forgetting and remembering every single second, as whatever affected him tried aggressively to work its magic... aggressively enough for Jake to notice the source as he didn’t even take the time to think, but simply reacted as he exploded with arcane energy and attacked, much to the shock of everyone else present.

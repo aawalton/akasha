@@ -1,0 +1,121 @@
+---
+id: 25b0b95e-ce62-5926-9bb4-9f63a5e4e804
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 - Tea with the Vasleys"
+slug: 0019-chapter-18-tea-with-the-vasleys
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 19
+ownLength: 1037
+unit: words
+publishedAt: 2022-06-09
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/923932/chapter-18-tea-with-the-vasleys"
+royalRoadId: "923932"
+---
+
+The next morning, Lady Serrs-Comtess was waiting for Eleanor when she came back from her walk. Her aunt asked her if she would mind if Lady Vasley joined them for tea.
+
+Eleanor drew out her hatpin and took off her walking hat. “Of course not. Is there a reason I would?”
+
+“She would have Melissa with her.”
+
+Eleanor suppressed a smile. “I don’t mind. Honestly.”
+
+“Melissa has recently become engaged to Mr. Troy.”
+
+Eleanor stopped suppressing her smile. “That’s wonderful! She must be so happy.”
+
+Helena scoffed. “Her engagement is only further evidence that natural selection doesn’t apply to human females.”
+
+“Each creature in their own environment, Aunt Helena.”
+
+“And what environment would Melissa Vasley survive in?”
+
+“Well, the drawing room. Obviously.”
+
+Aunt Helena clicked her tongue, but Eleanor saw the edge of her lips twitch up. “They’ll be here at four,” the baroness said as she turned away.
+
+As Eleanor changed, she thought about Melissa Vasley—or, rather, Missy, as she insisted Eleanor call her. The girl was two years older than Eleanor, but you would never know by looking at her. Or talking to her. It was her naturally curly hair and propensity to say the most idiotic things that made her seem so young.
+
+She was exactly the kind of person that drove Lady Serrs-Comtess to distraction, but Eleanor was fond of Missy. She was sweet natured, fun to be around, and a good friend…as long as you didn’t mind her faux pas. Eleanor didn’t mind them at all. She enjoyed them.
+
+When four o’clock came around, Eleanor was at the door to pull Missy into an embrace and kiss her cheek.
+
+“I hear I have to congratulate you. You’re recently engaged?”
+
+Missy grinned and bounced on her feet. “Yes! Desmond proposed last week. I’m so glad you’ve already heard. I was a little nervous about announcing it.”
+
+“Why would you be nervous?”
+
+“I didn’t want you to think I was trying to upstage your own engagement.”
+
+Lady Vasley, who spent most of her time apologizing for her daughter, was right there to chide her. “Melissa, I’ve told you before, it was a joke.” Lady Vasley looked at Eleanor. “Lady Serrs, I’m so sorry.”
+
+“It’s quite all right, Lady Vasley.”
+
+“Then you aren’t engaged?” Missy asked.
+
+“Not even a little bit. And I hope your engagement announcement will take up two pages in every newspaper! Then everyone will forget about what a poor joke mine was.”
+
+“I’m so glad! Oh! I mean glad that you don’t mind—not glad that you’re not engaged. Everyone should be engaged. It’s such a wonderful thing. Are you sure Mr. Penn won’t have you?”
+
+“Melissa!” her mother barked.
+
+Eleanor pulled her friend into the drawing room and told Missy to tell her everything. Melissa chattered on and on about her engagement, the upcoming wedding, and her beloved fiancé. Eleanor listened and occasionally reminded Missy where she was in her meandering story.
+
+Lady Vasley and Lady Serrs-Comtess sat apart from them so they could chat with each other. Tea was served, cake was passed around, and the conversation went on.
+
+It seemed that, with a wedding, there was no end of things to talk about. Rings. Houses. Dresses. Flowers. Guests. How wonderful the groom was—how handsome.
+
+Eventually they wandered on to the topic of Missy’s invitations. Lady Vasley was absorbed in her conversation with Lady Serrs-Comtess, otherwise she might have stopped her daughter.
+
+“And those need to be sent out within the month—at least according to Mrs. Troy. Mother-in-laws are such interesting creatures, aren’t they? She wants so much to be involved in planning the wedding. I suppose that she’s trying to make up for the fact Desmond doesn’t care at all. Why, the other day—”
+
+“The invitations,” Eleanor said.
+
+“Oh! Yes! Day, time, and place. The place was a bit of a bother because Mrs. Troy would have an opinion on that, but we got it all figured out and everything’s arranged, so now we’re ready to mail them. But before that I have to find a printer. So where did you get yours printed?”
+
+Eleanor blinked in the abrupt silence. “I’m sorry?”
+
+“Where did you get yours printed? Who did you go to? They were so lovely and heavy, cream and gold. The moment I saw it, I was so jealous, I knew that was exactly what I wanted.”
+
+“Missy—”
+
+“Oh, no! You don’t mind, do you?”
+
+“Well, no, I don’t mind. But I don’t know who printed them. It was a joke, remember? I wasn’t involved.”
+
+“Can you ask Mr. Penn for me?”
+
+“I’m afraid Mr. Penn and I aren’t in regular communication. He is a thief, you know.”
+
+“I know, but whenever I read the paper, he makes it sound like he knows most of the upper class.”
+
+“He knows their houses, certainly.”
+
+“And I figured that if anyone knew him personally, it would be you.”
+
+“Because of the engagement?”
+
+“Because it seems like the kind of thing you’d do. You’re always reading strange things and you’ll talk to men about anything at all—business, science, politics—I’ve even heard you talk about crimes you’ve studied! You’re so fearless.”
+
+When the initial shock passed, Eleanor threw back her head and laughed, causing both Aunt Helena and Lady Vasley to jump.
+
+After Eleanor apologized, she turned to her friend. “Missy, allow me to assure you, I’m not fearless.”
+
+“Then what is it?”
+
+“I’m curious.”
+
+“Call it whatever you like. So, do you know Mr. Penn?”
+
+Eleanor tried to think how to answer. She knew whatever she said might float right by Melissa, but there was an equal chance it would be retained in that scattered mind of hers and spewed out during the next major social event.
+
+“I don’t know him, but circumstances have forced our introduction.”
+
+“And will you see him again soon?”
+
+“I doubt it.”
+
+Missy seemed sad, but then she perked up. “Oh, well. There can’t be that many printers in this city who do that kind of work. It probably won’t take too long to track them down.”
+
+Missy chattered on, uninterrupted and unconcerned with general coherency. Eleanor listened with only half her attention. The other half of her attention was absorbed in her own thoughts.

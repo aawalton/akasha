@@ -1,0 +1,151 @@
+---
+id: 8a910909-1e9a-5f64-a18c-71b5ad956f52
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1280 - Uncomfortable Truths & A Few More Beers"
+slug: 0153-chapter-1280-uncomfortable-truths-and-a-few-more-beers
+partOf: the-primal-hunter
+position: 153
+ownLength: 2821
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3196344/chapter-1280-uncomfortable-truths-a-few-more-beers"
+royalRoadId: "3196344"
+---
+
+“I’m not saying it couldn’t have been smoother, but it was definitely a success in my mind,” Jake shrugged, not really seeing the big problem.
+
+“Reports were that someone had attacked,” Lillian said, sitting behind Miranda’s desk. The Verdant Witch herself wasn’t on Earth at the moment, but had surprisingly gone to the Order of the Malefic Viper ahead of him to do some stuff with that Godqueen witch trio who blessed her. That left Lillian to handle day-to-day business, including dealing with Jake.
+
+“Just tell people I was doing a little bit of experimenting,” he simply answered.
+
+Jake still didn’t see any issues. Had he created an enormous crater only a couple of dozen kilometers outside of the city limits because he had come in a bit too hot after using Wings of the Malefic Viper to near-instantly warp back to Earth? Sure, but it wasn’t like he’d hit anyone.
+
+In Jake’s mind, the far more important thing was that he had successfully traveled all the way from the moon to Earth in less than half a minute. That was faster than the pre-system speed of light, though, considering how the Wings escape function worked, it wasn't like he had actually moved that fast.
+
+Of course, it wasn’t exactly a reliable means of travel, and it was still far from accurate, with Jake more or less only able to pick a direction. Without his ridiculous senses, Jake would have ended up appearing either inside or behind the planet, though he reckoned the energy drain of trying to travel through the celestial object would have forced him to reappear somewhere around halfway through.
+
+That’s to say, the range of Jake’s Wings escape feature was actually further than the distance between Earth and the moon. Granted, it was mainly because most of his travel was through space, but still. A part of Jake wanted to test his range more, but alas, he couldn’t even summon his Wings since he’d used the escape function.
+
+“If I tell them you were experimenting, people are going to swarm the crash site,” Lillian said, shaking her head.
+
+Jake frowned. “Why? It’s not like I left anything there.”
+
+Lillian just looked at Jake for a moment before sighing, giving off very much the same vibes as Miranda usually did. “Because it was created by you, giving it significance to some people. Earth is not lacking members from the Order of the Malefic Viper or even those from the Primordial Church, and in their eyes, a random crater made by you is worthy of being considered a holy... or, I guess, malefic site.”
+
+“Oh,” Jake muttered, feeling very weird about that.
+
+“For reference, I believe a good portion of the potions you provided before your evolutions were bought up by religious followers of the Malefic Viper, or those who were simply personal fans of yours. Even the empty bottles have been going for unreasonable prices, and before Miranda left, she even had Holstred shut down a group of grifters selling random mana potions sold alongside a so-called certification of authenticity claiming they were made by you,” Lillian shared a funny fact that Jake didn’t find very funny.
+
+“On second thought, maybe just make something up,” Jake sighed, not even wanting to imagine a world where people would have picnics and hold religious ceremonies at a random crater Jake had accidentally made due to a lack of speed control.
+
+“That was the plan,” Lillian nodded as she tapped a small information crystal on the table with her fingers. “Miranda left some notes before leaving, quite a few of them regarding how to deal with incidents caused by you.”
+
+“See, I don’t like that she felt the need to do that.”
+
+Lillian just looked at Jake for a few moments before he smiled awkwardly.
+
+“I guess it can’t hurt, though,” he muttered in defeat. “But hey, I also plan on going back to the Order now, unless there’s anything you need me for?”
+
+“No, things are pretty calm these days, with most of those capable of creating issues for you to get involved focused on making the final push to B-grade. Even if we needed help in that regard, there are others who could step in,” Lillian answered. “Personally, I wouldn’t have anything against some minor issues popping up; this role as acting City Lord is also a great opportunity for me.”
+
+“I would think your profession was already way ahead of your class,” Jake said with a raised eyebrow.
+
+“It was, but fortunately, I do not need to actually fight and kill foes to level my class, but similarly to Miranda, I can get by with deepening my understanding of magic and the underlying concepts. Due to recent bouts of inspiration, my class progressed surprisingly quickly, so I’m working on the profession,” Lillian answered.
+
+“Sounds like giving you that Lucenti Mage class wasn’t all too shabby a decision,” Jake smiled. He had done it without thinking much, not even knowing how good the class actually was, but it definitely seemed like it was a good one, and a great fit for Lillian.
+
+“And I’ll be eternally grateful,” Lillian returned his smile. “Speaking of, I could use your advice regarding something. While it hasn’t become pertinent yet, from what I know, the goddess behind the Lucenti affinity will probably become aware of me, assuming I successfully evolve to B-grade. Based on the research I’ve done, that is. There is a non-zero chance that, should she know, I may be offered a Blessing by her or one of her followers, which would naturally be the best fit for my class. However, I also fear it may create a conflict of loyalty.”
+
+Jake frowned a little as he considered her question. “From what I know, the goddess behind the affinity, as well as her small faction, is affiliated with the United Tribes, right?”
+
+“Indeed,” Lillian confirmed. “She leads one of the tribes making up the United Tribes.”
+
+“Yeah,” Jake nodded slowly. As the name suggests, the United Tribes was composed of many smaller factions who, together, faced larger threats and operated diplomatically. As a faction made up entirely of monsters – more accurately, beasts - and their offspring in the beastkin, the goddess behind the Lucenti affinity was naturally also a beast.
+
+“Honestly, I’m not sure I’m the best to ask. In my view, Blessings seem more like a transaction. It’s an investment with an expected return that benefits both sides if everything goes well. However, I also understand that’s not actually how they work, and it would definitely be perceived as you being related to the United Tribes if you got a Blessing from one of their leaders,” Jake said, considering the matter.
+
+“Precisely,” Lillian nodded. “Yet at the same time, I would feel like a fool for rejecting a Blessing that would give Records clearly benefitting my Path. Especially if the Lucenti Monarch herself offers me her Blessing.”
+
+“Quite a conundrum, huh?” Jake admitted, but after thinking for just a little while, his answer was clear. “My take is that you shouldn’t need to think about things like that. Do whatever is best for your own Path and what you believe is best for you. People may question it, but so what? As long as you don’t turn into some mad fanatic preaching the supremacy of the Lucenti Monarch, we’re good.”
+
+“Considering my repeated exposure to your presence, I doubt that’s gonna happen,” Lillian smiled. “Thanks for the advice, and I won’t hold you up any longer. Though you are free to say if you want to help me through these recent proposals for-“
+
+“Would you look at the time, got to go!” Jake quickly made his escape as he rushed out of the office building as fast as he could before he would actually have to act in any way like a World Leader.
+
+He decided not to make any other stops before returning to the Order, though there were things he wanted to check out on Earth. Villy was definitely getting impatient by now, so without further ado, he made it back to his lodge and to the teleportation circle there.
+
+Stepping onto the circle, Jake activated it and let the space magic do its work. With the help of his Patron, Jake was dragged through the void, having an uneventful and brief journey before arriving at his destination. He had originally planned on returning to his residence, but when Jake regained his senses, he realized he was in the Viper’s personal chambers.
+
+Jake’s sphere spread out, allowing him to see more than ever before, and with a Pulse, he even got a look at some of the massive underground complexes that made up the Order of the Malefic Viper. Granted, he couldn’t actually see that much, as there was so much spatial expansion going on that everything looked warped and weird.
+
+Speaking of weird... the Viper was already sitting on a sofa not far away when Jake arrived, beers on the table, with him already having one in his hand. That wasn’t the weird part, though.
+
+“Why are you wearing a flamingo costume?” Jake asked in confusion.
+
+“Not a flamingo, though you could argue this pink bird does resemble one,” the Viper answered.
+
+“Why are you wearing an unspecified pink bird costume?”
+
+“If I told you, I’d have to kill you,” Villy said with a serious tone, shaking his head.
+
+“Those are real feathers, though, right?” Jake asked as he walked over, finding the costume genuinely impressive as he scanned it from head to toe. “Quality craftsmanship. Damn, even got the feet right.”
+
+“Yeah, yeah, have your fun,” the Viper waved him off, giving Jake time to admire the Primordial’s outfit for a little longer. Jake didn’t need confirmation to know that this was definitely the result of the Viper losing some bet.
+
+Jake purposefully spent nearly a minute carefully inspecting the Viper from head to toe while making comments on the costume before finally sitting down opposite the Primordial and popping open one of the beer bottles. Taking a whiff of the liquid inside, and based on his response from Sense of the Malefic Viper, he could instantly tell this alcohol was a lot stronger than what Villy usually gave. Perfect for a B-grade with Palate like Jake.
+
+“Gotten it out of your system?” the Viper asked with exasperation.
+
+“Yep,” Jake grinned in response. “I take it this place is entirely isolated from any outside observers?”
+
+“Even Oras wouldn’t be able to peer inside,” the Viper said. “I’ve superimposed a part of my Divine Realm onto this space through a special formation. Can’t really seal off a space any better than that without fully separating it from the rest of reality. Though, if you ask me because you feel anyone observing right now, I would very much like to know.”
+
+“No, no, I can’t detect anything or anyone, but better safe than sorry and all that,” Jake shook his head before taking a swig of the beer. It was definitely on the stronger side, but damn tasty. “I take it you have questions about my recent evolution?”
+
+“I most certainly do,” the Viper nodded, fine with getting to the important stuff. “I noticed that I didn’t feel much with my Blessing change this time around. At least from my end, it doesn’t appear that you either deepened or weakened the karmic connection in any way, though I do detect a slight level of... disconnect, compared to before. My guess is that your new profession is less related to my Legacy than before.”
+
+“And you would be entirely right,” Jake confirmed with a nod. “My new profession is partly diverted from your Legacy, though it still very much includes it. It just also has aspects of my abilities as a Harbinger of Primeval Origins now.”
+
+“A good choice,” the Viper nodded. “Though I am of course a little saddened at seeing my Chosen not become a total fanatic who wouldn’t even consider choosing a profession that wasn’t entirely about my Legacy. Could you at least tell me that your class is a Champion of the Malefic Me variant?”
+
+“Once more, I must sadly disappoint,” Jake said with a smile and a slight chuckle. “Did get one offered, though. Exalted Hunter-Champion was its name, though I have no idea what the exalted part means.”
+
+“Exalted, huh?” the Viper said with a nod. “Impressive, though, considering everything with Yip and Nevermore, not that surprising. To clarify, having a class with exalted in it is an expression of both a sufficient number of people knowing about you as my Chosen, and your personal power and influence having to be greatly recognized.”
+
+“I would think something like that mattered more for a profession than a class,” Jake frowned.
+
+“Usually, yes. However, when someone is an Exalted Champion, it means that they have also become objects of worship in their own capacity, and due to that, you get access to something really cool: faith energy.”
+
+“Now I’m happy I didn’t pick it,” Jake muttered, not being a fan of how that sounded. Firstly, because he thought that people worshipping him was fucking weird, and secondly, the last few mortals he met capable of harnessing faith energy were a False God and Ell’Hakan, two entities that hadn’t exactly left a good impression.
+
+“I do agree it wouldn’t fit you, and it would be a waste to abandon or step away from the Path you are creating for yourself,” Villy nodded, having already emptied two bottles of beer by now. “But I take it both your class and profession are pretty damn awesome?”
+
+“Wouldn’t have picked them if they weren’t,” Jake answered with a smile. “Can’t say which one is best, but I definitely think you’ll be interested in the profession. It’s still an alchemy profession as before, but as I said, it now includes Primeval Origins aspects. Most importantly, I can now do this.”
+
+Holding up his hand, Jake conjured some Lesser Primeval Energy inside a sealed cube of stable arcane mana, the Viper looking on with genuine interest. Jake knew the god was doing something to inspect the energy inside, so he just sat back as a dozen seconds passed before the Viper spoke.
+
+“An inferior form of your Primeval Origin Energy?” Villy asked.
+
+“Indeed,” Jake confirmed.
+
+“Is it wise to summon it like this? From my understanding, your Primeval Origin Energy is a limited resource that doesn’t regenerate as easily.”
+
+“That’s the best part; the cost is so little that a small demonstration like this has no impact at all,” Jake smiled. “Sure, it is limited, but taking a droplet from a lake isn’t gonna affect anything. Besides, I just need to get more Records, and that droplet will be re-added.”
+
+“I’ll trust your judgement,” the Viper nodded as he seemed in thought for a moment. “I can already begin to imagine the possibilities with that energy. I’m not going to offer any advice or ideas, but I will definitely encourage you to experiment. Hopefully, you’ve already figured this out, but having access to this Lesser Primeval Energy will allow you to relatively safely also learn more about your Primeval Origin Energy.”
+
+“It was one of the first thoughts I had after reading the skill description,” Jake said, emptying his first bottle of beer before popping open another.
+
+“How about that Path of the Heretic-Chosen skill?” the snake god asked curiously.
+
+“Changed, but still there and the same for the most part. Not gonna share more than that,” Jake said a bit cheekily.
+
+“Fine,” Villy waved him off. “I see no reason to ask you about your class, and while I do have some more questions related to your profession, I guess it’s time to address the behemoth in the room... your variant race evolution.”
+
+Jake nodded as he motioned for the Primordial to ask away.
+
+“Let me first set the scene. After you evolved, Records echoed throughout the entire Order, affecting everyone on a minuscule level that not even the other gods detected, but I felt it... including the fact that even those gods were affected. That, it turns out, they did notice, as gods are very sensitive to anything affecting their own Records. However, due to Shroud of the Primordial, they cannot track the source of this effect, so I kind of just said it was something I’d done,” the Viper set the scene before he continued.
+
+“So, time for me to get my answer... what did you do? Was this truly the result of some special leadership-related Spirit of Man skill?”
+
+“Yes and no,” Jake said as he leaned back. “Before I tell you, I’d recommend downing a few more beers. Should help lessen the shock as I unveil what might just be the most overpowered race skill any human in the history of humans has ever gotten.”

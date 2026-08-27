@@ -1,0 +1,147 @@
+---
+id: 241de55a-433e-5982-b7d0-e2e9dd2fd9fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11"
+slug: 0011-chapter-11
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 11
+ownLength: 1894
+unit: words
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2527648/chapter-11"
+royalRoadId: "2527648"
+---
+
+Tachyon’s wounds healed much more quickly than when she had fallen from the sky before. Light puncture wounds and scrapes from the lizards in the water. The places where the acid attack had splashed her, healing just as swiftly.
+
+She had landed some ways away, running as far as she could for the full duration of her shoe’s effect. Far away from the swamps and now returning to a familiar tree-filled area.
+
+However, these trees were shaped quite differently. Instead of round tops, they were now arrow-shaped. Wide at the bottom and pointed at the top.
+
+The ground felt more like hard dirt, less grass spread around, filled more with rocks and fallen brown needles.
+
+But all Tachyon felt was relief in solid ground.
+
+Thinking back to the muddy pools of water, she was sure she could remove all the lizards there if she simply had enough magic to spare. Sadly, her mana reserves were not that great. And it would be a very long time until they were less exhaustible.
+
+The water was the worst place to fight for her. Her strengths were her speed and agility. The mud and water simply prevented her from utilizing them.
+
+She rested underneath the shade of one of the trees, not really feeling the need to bed on the rough ground.
+
+Tachyon went over the fight against the lizards and the strange fish-like thing several times in her mind. Her answer always came back to her magic.
+
+The thought honestly angered her.
+
+For her entire life, her one weapon was her speed, and she liked it that way. Well, that, on top of being rather unassuming which allowed her to surprise others in a fight to win. But now with the addition of magic, she felt like she was always using it, almost like a crutch.
+
+She knew from her inability to outright win against the other monsters in the swamp she would need her magic eventually. But she did want to get back to her roots and for that she needed something else.
+
+Looking down, she saw her fairly new shoes. They were good, sure, but for combat it was still up in the air so to speak. Tachyon could always use her own leg strength and force to trample or crush an enemy, but what she needed was a way to utilize her speed as well as strength.
+
+She looked at her new skill which she still had trouble utilizing well enough to be effective in combat. And knew what she needed to practice before moving on.
+
+One day was down for the ‘seasoning’ period of the tutorial and if she wanted to survive she needed to do a few things first.
+
+A few branches with blueberries, grapes, and strawberries fell in front of her.
+
+Eat.
+
+And then of course, practice with her Rare skill to be able to topple as many Controlling Stones as possible, gather whatever equipment she could from them and then aim for her next milestone.
+
+Level 20, where her next evolution would bring her halfway to E-Rank.
+
+An hour to recover and eat, and Tachyon was ready to move on. Her plan to practice her unruly Rare skill left her a bit hesitant but if she wanted to move forward, there was no other way.
+
+One simply couldn’t decide to not use a Rare skill right? It was a Rare skill which meant— well, what did it mean?
+
+She had no idea how good a Rare skill was. It was the highest rarity skill she had ever had, but her mother had never discussed those things with her. So Tachyon was essentially in the dark on how good the skill actually was.
+
+But there was no use lingering on it for now. She only had one out of all her skills, which told her enough to know it was stronger than most.
+
+Looking to the sky she still saw the faint light pillar through the green needles on the tree. And that was the direction she would continue to travel for now.
+
+Fully healed she began her journey again. Only this time.
+
+“W-why is this so fast!?!” she screamed, doing her best to skid to a stop before colliding with a tree once more.
+
+Halting her momentum on a dime was proving to be the hardest thing Tachyon had ever tried to do.
+
+The skill itself was straightforward. The longer she ran, the more speed and momentum she built. This she understood. However, the problem became when she was supposed to store this momentum, somehow allowing her to return to a speed she could maneuver at and then continue.
+
+This was the first time she had come across a concept that eluded her. Even magic and mana was easier than this for her. How exactly was she supposed to store speed?
+
+It was not as if she could just put it in a bag like she had her berries and delicious treats.
+
+Or, could she…?
+
+Tachyon pawed at the ground again, ready to give it a try with a nervous breath. Hoping she didn’t break her legs for a second time today.
+
+Beginning at a trot, she felt the skill activate, her speed and momentum building little by little at first. Then by leaps and bounds as the trees and ground around her began to blur bit by bit.
+
+Just before she was to slam into the side of the mountain, she imagined putting herself into a bag like she did her food. Thinking of herself as the momentum itself and the container.
+
+Suddenly, she felt heavier and lighter, the contrast weirdly comforting as her feet touched the ground with more grip and precision than before. She easily dug into the ground, stepping to the side and avoiding the collision.
+
+She stopped, looking at the mountain with wide eyes as she felt her legs somewhat vibrate with power as she stood.
+
+Tachyon raised her legs slightly, shaking her head in elation at the feat, but when her feet hit the ground.
+
+The forest floor beneath her cracked and dented at least a foot as she sank forward.
+
+She screamed in shock, trying to back up only for her hind legs to do the same and soon she was in a small crater several feet deep as she laid on her side in exasperation.
+
+This skill is stupid! She complained.
+
+The destruction Tachyon was able to create from the skill was on an entirely different level from before.
+
+Doing her best to get up gingerly so as to not create a deeper hole to climb out of. She tried to get more accustomed to the feeling of the skill being active.
+
+The feeling of the skill itself was comfortable. However, the control of the skill was still just as awkward as before, perhaps even more so now that she was forced to concentrate on the stored speed and momentum.
+
+Doing her best she climbed out of the hole, all the while making sure to not release her stored momentum. It was difficult, each step digging into the ground, but she was able to manage, eventually leaving the small crater.
+
+Giving a sigh of relief she looked around, using her mana sense to see if the commotion she caused had drawn any attention.
+
+When she was satisfied she went back to focusing on her skill. This time she wanted to see the possibilities of her continued speed after storing the momentum.
+
+Beginning to trot and then increasing into a full sprint, she felt little difference in acceleration. At least that was until she seemed to hit a threshold, where out of nowhere she bursted forward as if to continue where the stored speed had left off.
+
+The sudden burst of speed startled her and Tachyon lost concentration, quickly finding herself stopped by a friendly tree.
+
+Her speed and momentum allowed her to slam into the tree knocking it down at the point of impact, but her body was battered from the collision. She could easily feel several broken bones and a warm liquid dripping down the middle of her face.
+
+Not again…! She grumbled to herself as she let out a breath in defeat.
+
+Soon a few purple treats plopped down in front of her as she waited for her body to slowly heal. After each tasty bite, a grumbling complaint could be heard shortly after.
+
+“I’m going to master this skill even if I have to delay refilling my yummy little snacks!”
+
+Some more complaints and an hour later, Tachyon’s body was in good enough shape to continue her experiments.
+
+She decided it was a better idea to start from the beginning. Despite how it was embarrassing to admit, she would have to start from scratch as if she was learning to run all over again.
+
+Step by step she went through the motions, no hoof placement too miniscule or mundane to ignore. Her full focus was solely on perfecting her running and every step it took to do so. How each leg moved as she ran, how each step built up her speed and momentum. Exactly when she stored her speed so that she could turn as she normally would, then the next releasing that speed to give her a burst of swiftness.
+
+After several more hours, she had begun to get it down.
+
+Tachyon’s experiments had been successful, or at least enough that she wouldn’t kill herself running into a boulder or tree any longer.
+
+She had managed to figure out exactly how to store the speed and momentum. How would she be able to then use it to convert that storage into fighting power.
+
+There were two options available for her once she stored her momentum. One was to temporarily halt her speed, allowing her to move on a dime and then either release the stored speed to give herself a burst of movement or continue forward to build back up to even faster speeds.
+
+Her second option she found was that she was able to use the stored speed to improve her leg strength to what felt like several times and even more in combination with her Leg Strength skill. Before she could perhaps dent a tree or rock, dig up a few scoops of dirt as she ran. But with this new skill she was able to kick clean through any tree or split a rock in half with ease.
+
+And then there was the third more dangerous option, one that she had already broken her leg several times attempting.
+
+By building up her stored speed to her current limit, she could release all of it in a single kick for devastating power. However, by doing so she had nearly destroyed her leg beyond repair as it basically blew apart.
+
+Thankfully, her stats were just good enough to repair it so long as she didn’t move as it healed.
+
+But now that she was in moderate control of her new skill it was time to finish what she had started.
+
+During her practice she had lost every single one of the Controlling Stones she had worked to control. Now it was time to start all over again. Gathering each one at the base level at the mountain, as well as reaching her next evolution.
+
+Tutorial Seasoning Period
+
+Time Remaining: 12 Days, 16 Hours, 9 Minutes.

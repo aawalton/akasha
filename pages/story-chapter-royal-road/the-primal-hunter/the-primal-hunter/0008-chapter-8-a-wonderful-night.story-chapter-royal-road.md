@@ -1,0 +1,89 @@
+---
+id: ae69891b-c0e0-58a5-a204-2d5a47382f04
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8 - A wonderful night"
+slug: 0008-chapter-8-a-wonderful-night
+partOf: the-primal-hunter
+position: 8
+ownLength: 2338
+unit: words
+ownProgress: 2338
+publishedAt: 2020-09-25
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/559926/chapter-8-a-wonderful-night"
+royalRoadId: "559926"
+markedReadAt: "2026-06-29T19:29:30.290Z"
+---
+
+The night was quiet, far quieter than one would expect from a forest filled with borderline mindless beasts who wanted nothing more than to munch on human flesh. There were no roars, no howls of wolves or hoots of owls. No sounds at all, really, except the breeze rustling the trees and bushes, and the crackling of the bonfire.
+
+The responsibility of the person on watch was quite simple. Keep an eye out for things trying to kill them, and keep the bonfire lit. Jake checked his stamina, seeing it up to 135/140. Nearly maxed out again by around three hours of sleep. It had only been at around half when he went to sleep, regenerating far faster than he had predicted.
+
+The need for sleep being reduced with levels was certainly a possibility, or perhaps the introduction to the system had changed something fundamental that simply made sleep less important. For example, Jake was wondering what would happen if one just chugged down stamina potions whenever it got low if one could stay awake indefinitely.
+
+Shaking his head, Jake got up and took a short walk around the camp, surveying the perimeter of the small clearing. In hindsight, the location of their camp was poorly chosen, to say the least. There were trees and dense bushes all around them, making easy hiding spots for any predators, and not a single direction offered any solid cover from potential assaults.
+
+Jake considered if they should look for a cave or something like that in the morning. Then again, caves also had their drawbacks, as chances are there would only be one entrance… and he could just imagine a beast like the big boar charging through the narrow tunnels, trampling anything in its wake. Yeah, not a pretty picture.
+
+Looking at the trees, it was perhaps possible to somehow make camp up in one of the larger ones? Though that would make having a fire impossible, and he was not completely confident in everybody’s ability to climb said trees.
+
+Thinking about how little activity there was in the forest at this time of night made Jake think that the system or whatever/whoever had designed this tutorial was not completely ruthless. The absence of nocturnal beasts made surviving quite a bit easier, giving them time to sleep and recuperate. Even animals like badgers, which were normally active at night, seemed to only hunt during the daytime.
+
+Jake, however, still had to remain vigilant as he had no solid evidence that there were no beasts out there, still hunting. He could also not forget the other humans of the tutorial. He had seen them on the giant pillar at the start, spread out to all sides. Thinking back on it, they had only been to the left and right, and none in front or behind him. He also couldn’t forget the giant wall off to the back of them.
+
+The space between the pillars was measured in kilometers easily, so it was not surprising that they had not run into other survivors yet. It had only been half a day or so, and while they had been moving for a while, they had not gone far, perhaps only a few kilometers tops. The pace had been slow, and everyone tense and overly careful, even taking some detours to avoid potentially dangerous areas. The direction they had traveled was also directly away from the wall.
+
+He didn’t even know if the other participants in the tutorial all were actually human. He had seen silhouettes, indicating bipedal creatures, but he had no way to know if they just had roughly the same shape as humans, or if they were humans. And quite honestly, he was not sure if he preferred for them to be humans or for them to be aliens, as chances are, they would end up in conflict at some point.
+
+As the minutes slowly ticked by, the monotony started getting to him. While sitting still and just keeping an eye out sounds easy, anyone who has worked any kind of night job knows exactly how boring it is. But sadly, reading a book or playing on his phone was not an option.
+
+Dennis and Lina had likely kept themselves entertained by talking and keeping the other awake and aware. The boredom, mixed with the lack of even the slightest stimulations from the environment, led to Jake slowly becoming less and less vigilant.
+
+However, he was promptly awoken from his stupor once more when he heard rustling from one of the bushes at the far end of the clearing, the furthest away from the bonfire. Jake fixated his eyes on it as the bush kept rustling. He did not feel any sense of danger from the bush as he focused on it, but his instinct nevertheless told him something was wrong. For him to be careful.
+
+He took his bow and got up from the log, checking back on everyone still soundly asleep. Everyone had been dead tired yesterday, mainly due to the mental exhaustion of this whole ordeal, so he was not at all inclined to wake them up for a false alarm.
+
+He walked towards the bush, as it still rustled slightly once every couple of seconds as he got closer. He scanned the bush, seeing nothing, but still hesitant to go right up to it. He started drawing his bow and aimed it at the bush, as he slowly walked closer, taking tiny steps, prepared for anything jumping out.
+
+Without any warning, something came out of the bush, and he instantly shot his arrow, easily hitting it. At the same time, before he could even register what it was, a silhouette charged out from the bushes. He couldn’t properly see what it was in the darkness, but the humanoid silhouette was clear. Further cemented as he saw the moonlight reflected off the blade of a sword.
+
+Jake stumbled backward and called out to awake the others, but the sound had barely left his mouth when he haphazardly raised his bow to try and block the sword.
+
+He managed to block it, but he was pushed backward, once more nearly falling to the ground, barely holding onto the bow with both of his hands. Finally, he got a proper look at the assailant and saw that it was a bearded man, who seemed to be in his thirties, wearing an outfit identical to the one worn by Jacob and Theodore. In other words, a medium warrior.
+
+The warrior once more tried to swing his blade, but it had cut into the wood of Jake’s bow and had gotten stuck, turning their fight into a stalemate. Jake trying to get his bow back and retreat, with the warrior trying to cut all the way through and into Jake’s body. However, the stalemate was short-lived as another person rushed out of a nearby bush, wielding a huge two-handed axe.
+
+Jake saw him, and it didn’t take a genius to know the situation was bad. Real bad. The medium warrior was as strong, if not slightly stronger, than Jake, and he had already been forced into close combat, meaning he had no way to use his bow. The others back at the camp had awoken by now, but they were scrambling and confused, with not even one of them having a clue what was going on. Jake and his attackers were a good 25 meters from the bonfire, hidden in the darkness.
+
+Jake was at a loss what to do as the axe wielding warrior got closer. He had no time to think, so instead of thinking… he just reacted. Less than a second before the axe smashed his head in, he let go of his bow just as the warrior tugged, making him fall backward from his own momentum. Jake took the opportunity to pull back as the axe smashed into the ground where he had just stood. The weapon now stuck in the ground, making the heavy warrior his next target.
+
+Charging forward, he tried stabbing the heavy warrior with his knife but was blocked by his armored arm. Without any hesitation, Jake pulled an arrow from his quiver and making use of the arrow’s length, managed to hit the axe wielder's eye with an overhead blow, just reaching across his guard. The arrow barely penetrated, but it was enough to buy him time.
+
+Turning around, the medium warrior was once again upon him, but he managed to block the first strike with his knife. The warrior took a step back and swung his sword once more, but this time there was a slight red gleam around it, as it moved faster and was far stronger. Jakes's attempt to block it was met with severe pain in his wrist as the knife flew out of his hand.
+
+At the very same time, he felt a distinct sense of danger from behind him. No… it was not the feeling of danger, but that of sure death. Time seemed to get slower, as Jakes's senses were stimulated like never before. He saw, no, felt the battlefield. The axe wielder had gotten up once more, bleeding from his eye, but had managed to pick up his axe ready to attack again.
+
+The medium warrior was already upon him once more, raising his sword for another strike. Even more importantly, was that behind him… an arrow was flying for his head. For the first time ever, he completely embraced the feeling of these new, unfamiliar senses. But even more so than that, he completely and unquestionably followed exactly what his instinct told him to do. Something had been unlocked, and he more than willingly accepted it.
+
+He swayed slightly to the side, raising his left hand behind his back as he caught the arrow. The same motion easily dodging the overhead blow from the medium warrior as he slammed the arrow into the man’s hand, making him yell out in pain as he dropped the sword. The axe wielding warrior behind him once more tried to strike him, but he dodged the blow by ducking beneath it as if he had eyes behind his back. In the same motion, he caught the falling sword that the medium warrior had dropped earlier.
+
+In a swift, fluid motion, he smashed the sword into the axe warriors’ kneecap, making him buckle over as he screamed. Instead of trying to finish him off, Jake went for the medium warrior with the intent to finish off the now disarmed man. Jake ran towards him and cut him once across his arms as he raised them to try and block, with the second blow slicing his neck open, spraying blood all around him, also drenching Jake from head to toe.
+
+Another arrow flew his way, but Jake merely swayed slightly, making it miss him, as he once more ran for the axe wielding heavy warrior who was trying to pick up his axe once more. Jake, however, did not give him time to do so, as he, in full sprint, kicked him in the head. Before the disorientated warrior could recollect himself, Jake lifted the sword and stabbed it downwards into the skull of the kneeling man. With his entire weight behind the blow, the sword still ended up only penetrating a few centimeters, but it was more than enough to pierce deep into the brain, killing him instantly.
+
+However, the sword was stuck, making Jake take out two arrows from his quiver, wielding one in both hands as he dodged another arrow shot by the enemy archer. The attacking Archer was clearly flustered, and fear was evident in his eyes as the blood-covered Jake charged him. He had been hiding in some bushes off to the side but pinpointing him from the direction of where the arrow came from was simplicity itself.
+
+The archer threw his bow to the ground, realizing that he had no time to fire another arrow, and drew his knife. An excellent choice as Jake had found his archery very lacking. Clearly a novice before the system, and he had a feeling the man wasn’t that much better with a melee weapon either.
+
+Jake smirked as he easily dodged the first swipe of the knife as he leaned in and stabbed an arrow into the archer’s knife wielding arm. To the man’s credit, he did not let go of his knife, but it helped him little as another arrow was stabbed into his stomach. Dropping his knife from the shock of that one.
+
+He tried fighting back, but Jake easily took out another arrow from his quiver and smashed it into the archer’s chest, followed by another, and then another. The poor man only able to flail his arms as he attempted in vain to ward them off.
+
+Nine arrows later, and the man finally stopped struggling as his last breath left him, now with a total of 12 arrows sticking out of his corpse. Jake got up and looked towards the sky, a small smile still on his lips. The sense of danger gone, his instinct to kill quiet. He had survived.
+
+The others back in the camp were now more than awake and ran towards him; all of them clearly still flustered. The moment they saw the scene, they were instantly horrified by the sight. A man lying face down in a pool of blood, right beside another man still in a kneeling position, blood dripping from his eye with a sword sticking out of the top of his skull. The picture only made all the more horrifying by a smiling Jake, completely covered in blood, standing over another corpse with a dozen arrows sticking out of it.
+
+“What… what happened?” Jacob stammered, clearly disturbed by the carnage. His mind in turmoil as he looked at Jake in horror.
+
+A smiling Jake turned to him, still savoring the euphoric feeling he was currently experiencing, his smile growing even larger as he answered.
+
+“I won.”

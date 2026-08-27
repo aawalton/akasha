@@ -1,0 +1,213 @@
+---
+id: 936aa409-994a-563d-9904-f7e099554907
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47 - Another Walk"
+slug: 0048-chapter-47-another-walk
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 48
+ownLength: 1654
+unit: words
+publishedAt: 2022-07-07
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943700/chapter-47-another-walk"
+royalRoadId: "943700"
+---
+
+The pink of the sunrise was still in the sky when Eleanor left for her morning walk. For the past few weeks, she’d left a little earlier each day. It was easier when there were fewer people around. By now she was out before most of the street vendors.
+
+She gently closed the door and turned to see Lucas Haley standing behind the front gate.
+
+Her heart stalled. Then it beat so hard it echoed in her ears.
+
+She’d seen him several times since Edward’s arrest. He’d shown up at each new stage of the proceedings to explain what was happening, but he had always presented the information in a quiet, level voice and then left. His face had revealed nothing.
+
+The last time she’d seen any emotion from him had been seven weeks ago, on the morning she had shown up at the police station with Edward’s jacket over her arm. Haley had taken her into a private room to interview her. While she was explaining her suppositions, she caught a glimpse of his face. In the half-second before he managed to hide it, she’d seen all his sadness and frustration.
+
+This morning, as Eleanor approached him, she thought she could see a trace of that same sadness. Maybe he’d left his professional mask behind.
+
+He stepped aside when she reached the gate so she could come out onto the sidewalk.
+
+“Mr. Haley, is something wrong?”
+
+“No. Not at all.”
+
+“Then…what are you doing here?”
+
+That was uncivil at best, but she couldn’t think of what else to say.
+
+“I was waiting for you.”
+
+Eleanor’s eyes turned to the ground, and she didn’t answer.
+
+“Are you going on your morning walk?” he asked.
+
+She nodded.
+
+“Miss Serrs, I know you may not want me here, and if you tell me no, I promise I’ll leave you alone, but, please, may I accompany you?”
+
+A weak smile appeared on Eleanor’s face. “You’ll walk wherever I want? No matter how long it takes?”
+
+“And you can shut me up with a word.”
+
+“Then yes, Mr. Haley, you may come. You don’t even have to stay three feet behind me.”
+
+“Thank you.”
+
+They walked in silence for a long time before Eleanor ventured to speak.
+
+“I have to apologize to you, Mr. Haley.”
+
+“For what?”
+
+“For not taking you into my confidence sooner.”
+
+Haley grimaced.
+
+Both of them were painfully aware of what she was alluding to, but neither knew how to confront the matter. Haley had no proof she’d asked Penn to steal that book, and if Eleanor said anything, she’d be confessing to a crime.
+
+Haley had promised himself that he would never raise the subject, but since she had touched the sore, he felt he might be allowed to ask the question that had been eating away at him for almost two months.
+
+“Why didn’t you come to me, Miss Serrs?”
+
+“I didn’t want you to know. I wanted to prove to myself that I was wrong, and then all those fears could die with me.”
+
+“I would have helped you.”
+
+“I know. But I didn’t care what Penn thought.”
+
+Haley would never claim to be a master logician, but he knew enough to take comfort from the half of the statement that remained unsaid.
+
+The inspector sighed. “I won’t lie and say it didn’t bother me, but I’ve had a lot of time to think about it, and I can appreciate how hard it must have been for you to come to me at all.”
+
+“Thank you for being so understanding.”
+
+They continued walking.
+
+Haley broke the silence this time: “May I ask how your family is doing?”
+
+“Mr. Haley, I’m afraid I don’t have the energy to pretend to be an engaging companion. If you ask me questions like that, all I can give you is an honest answer.”
+
+“That’s all I want.”
+
+Eleanor raised her eyes to the rustling leaves. “Aunt Helena’s health is fading. They don’t expect her to live past the end of September. Dr. Stacks has done his best to make her comfortable, but that’s all we can do. Still, she tries to be cheerful—she asks after you,” Eleanor added suddenly.
+
+“With or without animosity?”
+
+“Without. She denounces the people she doesn’t like. She asks after the people she does like.”
+
+“I’m glad to hear it. Please give her my regards.”
+
+“I will.”
+
+“How’s your father doing?”
+
+There was a pause, then Eleanor said, “I didn’t realize how close he felt to Aunt Helena. Sometimes, when I get tired of reading, he’ll come and take over for me. When I come back up, most of the time they’re arguing about something. I tried to intercede once, but they both seemed so disappointed, now I just let them argue.”
+
+Haley smiled. The unfamiliar movement felt strange.
+
+Eleanor went on, “I talked to my father about Massey and Fitzmon. He refused to see them, but he gave me a letter of apology that I could give to Massey, and he told me I could talk to Fitzmon.”
+
+“Did you apologize to them as well?” It still bothered Haley that she would, but he knew it was her nature.
+
+“I did. Massey seemed embarrassed but grateful. Fitzmon denied ever having felt bound.”
+
+With a wry smile, Haley shook his head.
+
+“He renewed his offer to me,” Eleanor said. “I thought that was generous…considering everything.”
+
+“Did you accept?”
+
+She scoffed. “No.”
+
+Both were silent for a few steps, then Haley said, “May I ask how you’re doing?”
+
+Haley had resigned himself to the idea that she might never answer him before she finally spoke.
+
+“I saw Raphael in town the other day. When I called out to him, he ran up to me, took my hand, and said he was sorry for everything I was going through.”
+
+Haley’s heart ached.
+
+Eleanor went on, “I have dozens of friends, some of the highest people in society, and none of them know what to say or what to do. But he did.” She took a deep breath. “It’s been hard. But I think I’ll survive.”
+
+The soft scent of the daisies blooming beside the park trail distracted her. She crouched to admire the flower bed.
+
+“It’s odd how normal life can be, even after something like that,” Eleanor said.
+
+The flower waved goodbye when she released it and rose to her feet.
+
+Further on, she said, “May I ask how you’re doing, Mr. Haley?”
+
+The inspector took three steps before deciding that the only good answer would be the honest one.
+
+“Badly.”
+
+“I’ve read that Mr. Penn has been more active recently.”
+
+“More active. More brazen. More troublesome…but that’s not what’s bothering me.”
+
+“What is it?”
+
+And despite her sadness, her weariness, and all her own problems, Haley could hear the concern in her voice. He almost wanted to laugh at the absurdity of it.
+
+“You prefer plain speaking?” he asked.
+
+“Yes.”
+
+“I miss you.”
+
+Eleanor stopped. Haley stopped as well and turned to face her.
+
+“I used to see you all the time. Now, hardly ever. It’s been awful.” He took a step closer and took off his hat. “I know I can hardly expect a warm reception when I’m the man that arrested your cousin, but the truth is that I want, very much, to see more of you. Every day, if possible.”
+
+Eleanor’s feet didn’t move, but her body shied slightly. “You mean…”
+
+“I’m asking formal permission to court you, in the plainest words I can.”
+
+“I-I’m flattered.”
+
+He could tell the phrase was an unconscious reaction—thoughtless and meaningless. He could see she was struggling to find the words that would matter.
+
+“Haley, this isn’t an easy time for me. I have to look after Aunt Helena, Edward is going to trial—”
+
+“I know. I want to be there for you.”
+
+Eleanor’s face flushed. She gulped for air and did her best not to cry.
+
+She had never felt more grateful for Haley’s patient silence, but she could tell he was waiting. She could see the nervous tension in his eyes. He looked like a man who barely had any time to hope because he was too busy bracing himself for the worst. Eleanor found it completely endearing.
+
+She turned her eyes away to try to focus on her own feelings, which were clear enough, and her thoughts, which were much less so.
+
+Then she heard Helena’s voice in her head, and every conflicted thought was laid low by her aunt’s decree.
+
+“Be selfish. Be wildly selfish in at least this one thing.”
+
+Despite what her father had said, Eleanor had always generally been an obedient girl.
+
+“Do you promise you’ll tell me about your cases?” she asked.
+
+“Absolutely,” Haley said. “I’d be a fool if I didn’t.”
+
+“Then I would like that, Mr. Haley. I would like that very much.”
+
+Lucas put a hand over his mouth, lifted his eyes to the sky, and rocked back on his heels to try to contain his surge of joy. Eleanor smiled when she saw the reaction and wondered what he would have done if he’d been alone when he heard her answer.
+
+Haley dropped his hand back to his hat and cleared his throat. “You have no idea how terrified I was that you would say no.”
+
+“I might have some idea.”
+
+The inspector wasn’t surprised to see two bright sparks shining in her eyes.
+
+“You’ll have to speak to my father,” she warned.
+
+“Would it be wrong of me to admit that I don’t much care what he has to say on the matter?”
+
+“No. I don’t much care either, but I would still prefer you do it.”
+
+“Then when can I see him?”
+
+Eleanor laughed. “You’re not afraid?”
+
+“Of your father? No.”
+
+“You’re terrified of what I might say, but Duke Erravold Aubrey-Serrs is nothing?”
+
+“Eleanor, you have infinitely more power over my happiness than the duke ever will.”

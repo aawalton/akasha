@@ -1,0 +1,165 @@
+---
+id: 405173f2-cc72-55a5-94ec-b79383eff472
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1181 - Planeswarper"
+slug: 0053-chapter-1181-planeswarper
+partOf: the-primal-hunter
+position: 53
+ownLength: 2814
+unit: words
+ownProgress: 2814
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2681094/chapter-1181-planeswarper"
+royalRoadId: "2681094"
+markedReadAt: "2026-06-29T19:30:56.611Z"
+---
+
+Primeval Origin Energy, or Jake Juice as he quite frankly couldn’t stop himself from calling it mentally, was still something Jake had little understanding of. He knew he had it, and he knew some ways to use it, but he still wasn’t entirely sure of why he had it, how much he had, and all the secrets it definitely still held.
+
+Jake had gone into this ritual with the assumption that it would leave him completely drained; however, he found himself in pretty good shape instead. When considering the amount Jake did expend during the ritual, there was only one conclusion he could reach:
+
+His Jake Juice storage was growing.
+
+While that shouldn’t have been a surprise, Jake still hadn’t been entirely certain before. Back in the Colosseum of Mortals, Jake had been reduced to level 0, yet he still had access to the mysterious energy pool. As for all the other times Jake expended it, he was never sure if it was ever topped up.
+
+This time around, Jake was reasonably confident that his total pool of Primeval Origin Energy was nearly full, which helped him confirm it was growing. However, this also left another major question for him to ask:
+
+How much did he actually spend? What was the cost of an evolution like this? Was he even able to find an answer to that question, or was it entirely on a case-by-case basis?
+
+Perhaps the reason it had felt so “cheap” to evolve Jasper was because a Shimmerfur Warpsnatcher was already a relatively high-tier creature in the first place. It was also entirely possible that the jewel Jasper had borrowed helped by granting the then C-grade a lot of Records, meaning Jake didn’t have to supply as many.
+
+Honestly, there were too many questions for one ritual to possibly provide enough data, but Jake also wasn’t going to go around performing a whole bunch haphazardly. He could maybe consider doing more rituals akin to when he helped the Demon Prince, but he needed a good reason to agree to do that in the first place.
+
+All these thoughts were filling Jake’s head as he, Artemis, and Jasper soon reached the upstairs of the palace. Jasper had been happily lying in Artemis’ arms throughout the walk, really hammering home the shift he had in how he viewed her. Previously, he would always hide away when she was nearby, whereas now he seemed perfectly comfortable around her. In fact, more than that, he seemed to be weaponizing his cuteness to get closer to her purposefully.
+
+A smart strategy for sure, as why wouldn’t a newly evolved B-grade want a close bond with a powerful Godqueen?
+
+Walking outside, the three of them were soon spotted by the fourth person living in Jake’s palace. Usually, he kept himself isolated, just doing his own thing, but the appearance of the slightly unfamiliar aura of a B-grade instantly caught the attention of the Forest King.
+
+It didn’t take long before the Unique Lifeform joined them as he flew over and levitated down to land in front of them.
+
+“You completed the ritual, I see,” the King spoke as he observed Jasper. “Based on your prior results, I shall assume you’ve created another monster that shall cause a ruckus once the multiverse learns of his appearance?”
+
+“Nah, I think we've got more of a Sandy situation on our hands at best,” Jake shook his head.
+
+“Worm?” Jasper asked, remembering Jake’s mention of the cosmic space worm.
+
+“Yeah, a space worm,” Jake nodded. “Very powerful and walking a Path quite similar to yours, as you both aren’t focused on combat but instead the acquisition of natural treasures to grow. I think you two would get along, but I digress. What I mean by that we've got more of a Sandy situation here is that while I don’t doubt you’re awesome, your appearance doesn’t necessarily warrant more widespread precautions.”
+
+“I concur with that conclusion,” Artemis agreed. “If there were, I believe Yggdrasil would have reached out to me already.”
+
+“And the Viper would have told me,” Jake, feeling at least somewhat confident about that statement. Sure, Villy could have purposefully not told him, but Jake seriously doubted that was the case.
+
+“Good or bad?” Jasper asked, looking a little confused.
+
+“Neutral to good,” Jake smiled, shaking his head.
+
+“At least it’s not another True Royal,” the Forest King commented. “I’m entirely unfamiliar with the kind of creature this Shimmershroud Planeswarper is, but I find myself curious to learn if this one lives up to my high expectations after seeing your other creations.”
+
+“Only one way to find out,” Jake said with a shrug as he looked at Jasper. “Wanna show off a bit of what you’re capable of?”
+
+“Okay!” the cat-like creature said as he jumped from the arms of Artemis and landed softly on the grass, not making a single sound throughout. Right after he landed, Jasper once more hid himself, and despite Jake staring directly at the B-grade, he lost sight a second later.
+
+Only through his sphere did he confirm that Jasper was still there, the little guy now covered in what could best be described as a shroud of energy. Jake saw that the Forest King had also lost track, showing that Jasper’s stealth skills were truly at an insane level. As a reminder, the King didn’t have eyes but perceived souls, which made it a lot harder to hide from him using conventional stealth skills, so the fact that Jasper could hide was a great sign.
+
+“Extreme stealth skills,” the King commented. “Certainly different from the worm in that regard.”
+
+“Sneaky!” Jasper said a moment later, revealing himself standing on top of the King’s head.
+
+Jake had expected the Unique Lifeform to react in some way, but he just spoke again instead. “Curious. Despite being in physical contact and seeing that’s the case, I do not feel anything on top of me. Something that indicates not only the ability to possess no discernible physical properties but also that he doesn’t have any detectable weight.”
+
+“Soft!” Jasper confirmed happily.
+
+“I can confirm that,” Artemis nodded with a smile. “The Unique Lifeform is also correct that Jasper’s physical body doesn’t seem to interact with the world in a typical fashion. When he moves around, he produces no sound at all, and when I say that, I don’t mean he’s extremely muted but that there truly is no sound. As for the weight thing, I can say that when I held him before, I certainly felt some weight.”
+
+“Magic!” Jasper explained as he jumped once and landed back down on the King.
+
+“Indeed, now I feel some weight, even if I cannot feel his touch,” the Forest King commented.
+
+“So, we confirmed Jasper is very soft, nearly undetectable, and superb at hiding,” Jake said with a nod. “All of those things sound like they come from the Shimmershroud part of the name, which leaves the Planeswarper aspects.”
+
+Jasper took the cue to show off a little as he disappeared, only to appear on top of Jake’s head next, but he moved on quickly as his entire body just... disappeared.
+
+“Did he enter stealth once more?” the King asked.
+
+“No, he’s not anywhere,” Jake shook his head. He wondered if Jasper had managed to teleport all the way out of his range, but a quick Pulse of Perception revealed that wasn’t the case. Not unless he’d teleported out of the range of even that, which was entirely possible.
+
+Looking toward Artemis, she just smiled, likely wanting Jake to learn for himself what was going on soon. He was definitely curious.
+
+When Jasper teleported, he didn’t do so using space magic. Neither had he done so before his evolution. Jake was very used to that kind of instantaneous movement where one teleported from one spot to another, to at least include some space magic, but nope. He also knew that Jasper didn’t just fast but actually teleported, which was seen when he easily moved through solid matter.
+
+A few more seconds passed before the familiar B-grade reappeared, standing on the grass. He was holding a weird orb of energy in his hands that gave off a very familiar aura. The ball began dispersing the second Jasper appeared, and less than a second later, it was entirely gone. However, Jake had instantly recognized where it had come from.
+
+“That was shadow energy... native to the Shadow Realm,” Jake commented with a frown. “You can go to the Shadow Realm?”
+
+Jasper nodded enthusiastically as he disappeared again. About thirty seconds passed before the little fella returned with a small red stone in his paws. The stone wasn’t some magical item or anything, but it did give off an unfamiliar aura and looked like it didn’t belong.
+
+“That’s a stone from the Nine Hells,” Artemis explained with a smile.
+
+“He went to the Nine Hells and returned here in thirty seconds? Or are there some time dilations going on?” Jake asked, perplexed.
+
+“No!” the B-grade clarified. “Jasper fast!”
+
+“As he said, Jasper is just fast,” Artemis chuckled. “Though I will admit, the fashion in which he went there was almost too effortless. Don’t get me wrong, for gods, teleporting to the Nine Hells or even any other universe is but a thought away, but for mortals, it tends to be quite a bit harder, primarily because it tends to include passing through the void.”
+
+“But from what I remember, the Nine Hells aren’t a separate universe but have become a World Wonder of some sort that’s far more easily accessible than a universe would be,” Jake said.
+
+“That’s true, but going by the general ease Jasper showed when going to the Nine Hells, I suspect he should also be able to travel to other universes on his own, even if it would take a little more effort,” Artemis said, looking at Jasper with curiosity.
+
+“Definitely sounds like we discovered why Planeswarper is in his name,” Jake chuckled as a thought struck him. “Speaking of, what even is a plane? The Shadow Realm is a, well, realm, while the Nine Hells is some weird pseudo-universe, so I have a hard time seeing the similarities.”
+
+“Well... the concept of planes isn’t necessarily a fully defined one. One can consider the Shadow Realm another plane of existence that exists on top – or beneath – the current space we exist in. However, I also wouldn’t call it wrong to say that each universe is its own separate plane,” Artemis explained as she considered the question a little. “I guess I would define a plane as being a stable space that exists on its own, be it a minor world like a fragment of the Drifting Planes or an entire universe.”
+
+“I see,” Jake nodded, looking at Jasper, who held up the stone literally from hell. Jake took the stone, making Jasper happy as he motioned with his paws.
+
+“Jasper fast. Jasper sneaky. Jasper warp!” the newly evolved B-grade Shimmershroud Planeswarper brilliantly summarized what they’d learned about his abilities.
+
+“So, you created a small creature that’s near-undetectable, can easily travel between planes, and has a tendency to steal anything of value, even if it’s bolted down,” the Forest King added his own summary.
+
+“When you put it like that, Jasper sounds like a bad guy,” Jake said, crossing his arms.
+
+Jasper mimicked Jake’s actions as he turned to look at the King, his small, pawed arms also crossed.
+
+“Bad, good, such useless concepts only lesser creatures bother to waste their inferior minds pondering,” the Unique Lifeform said dismissively. “The three of us are slaughterers and destroyers; it would be beyond hypocritical to judge another creature merely following its Path, even if that Path isn’t one I particularly respect. No, what I instead sought to point out is that this kind of being is bound to make a lot of enemies simply due to what he is.”
+
+“You just offended a lot of jobless philosophy majors what that first statement,” Jake said, keeping his arms crossed. “But you do have a point, Jasper will make a lot of enemies.”
+
+“Jasper fast! Sneaky! No scare!” the little guy said, arguing that he wouldn’t get caught.
+
+“I don’t doubt that,” Jake said, unable to hold himself back from petting the cute cat-like monster a few times. “And besides, who doesn’t make a lot of enemies? You definitely shouldn’t be talking, being a self-proclaimed monarch and all. From what I recall, you pissed off pretty much everyone by daring to call yourself the ruler. Pretty sure that made you quite a few enemies.”
+
+“I do not fear them, for my enemies will always hesitate before striking, especially now,” the Forest King countered. “I have died twice. Returned both times, and with my most recent resurrection, I’ve come back stronger than ever. Even the most powerful enemy would think twice before attempting to kill me, as even if they succeed, there is a chance I shall once more return and exact my revenge. Meanwhile, the Planeswarper is not even capable of being a harbinger of death to those who dare make him an enemy, as he is no slayer by nature.”
+
+“We’re getting a bit off-topic here,” Artemis said, interrupting the bickering between Jake and the Forest King. “I will say that I agree with Jake most, though. Making enemies is normal, and in most cases, Jasper likely won’t even be discovered. Even if he does make enemies, consider his allies. Those are enough to make people hesitate.”
+
+“Very well, I shall defer to the assessment of the Godqueen,” the Forest King said, being surprisingly respectful... until the next sentence. “I also understand it would put you in a needlessly awkward situation to disagree with your mate over such a trivial matter.”
+
+“Oh, I’m totally fine disagreeing with my mate,” Artemis smiled, not caring about whatever term the King used.
+
+“That pleases me to hear. The hunter often finds himself in situations where someone disagreeing with his idiocy would prove a boon,” the Unique Lifeform said pretty harshly. Worst part? Jake couldn’t even disagree, considering how many times in Nevermore his party had shot down Jake’s strategies. Sure, they respected his ability to navigate the floors and make battle-related decisions, but when it came to anything where soft power was required, Jake was competing with Sylphie for last place.
+
+Luckily for Jake, he had Jasper as backup. The little guy pointed a paw toward the Forest King as he looked up at Jake with an angry face. “Mean!”
+
+“Yeah, he’s super mean,” Jake agreed.
+
+“Unfortunately, truth is often construed as meanness,” the Forest King continued to be mean. “This has been an interesting intermission, but I shall return to my meditation. I congratulate you on your evolution, Shimmershroud Planeswarper. Let us hope you live up to your potential and that the hunter didn’t waste effort and resources on you undeservedly.”
+
+With those words, the Unique Lifeform took his leave, acting as curt as always. Jasper looked after the King as he quickly flew up and disappeared before turning to look at Jake.
+
+“Don’t worry, he’s just being an asshole. As I said before, I helped you with the evolution partly for myself and partly to pay you back for the help you provided me in the Hunting Ground,” Jake said with a smile. “We’re even now, and only you have the right to define your own Path.”
+
+Jasper slowly nodded, and the three of them were silent for a little while until Artemis spoke up.
+
+“There’s also one more important thing to consider,” Artemis said, looking at the two of them. “Jasper doesn’t have a Blessing right now.”
+
+“Oh, true,” Jake nodded. “Are you considering giving him one?”
+
+“No,” Artemis shook her head without even considering it. “I’m a hunter who specializes in killing and maintaining the natural balance. Jasper’s Path is incredibly far away from mine, and the only thing we have in common is that we both have good stealth skills. In other words, there are gods out there far more compatible with Jasper than I am, and it’s better for everyone involved if he pairs up with one of those. Of course, it all depends on what Jasper wants to do.”
+
+Jasper looked at them both for a little while before tilting his head. “Blessing?”
+
+“Yeah, a Blessing from a powerful god. If you get a good one, you get a title giving you some stats and even a cool skill,” Jake explained as he considered the matter. “If you’re interested, I have a friend who may be able to hook you up with someone.”
+
+“Are you treating me like a pimp or a recruitment agent right now?” a certain snake god chimed in, only making Jake smile more.
+
+“I’m sure he would more than happily help you out.”

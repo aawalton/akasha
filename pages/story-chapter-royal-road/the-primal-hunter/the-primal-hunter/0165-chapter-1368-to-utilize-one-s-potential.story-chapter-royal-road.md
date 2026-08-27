@@ -1,0 +1,137 @@
+---
+id: f720e5d0-a525-5791-8894-c3560dd5a342
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1368 - To Utilize One's Potential"
+slug: 0165-chapter-1368-to-utilize-one-s-potential
+partOf: the-primal-hunter
+position: 165
+ownLength: 2813
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3768799/chapter-1368-to-utilize-ones-potential"
+royalRoadId: "3768799"
+---
+
+Shadows enveloped them as Caleb remained hidden, the five disciples from the Sword Palace on full alert as they’d all drawn their swords. Their attention was the only creature they could see as Sandy floated there in the darkness, looking plenty menacing.
+
+Facing five random people from a faction usually wasn’t anything that worried the Judge, but things were a little different when it came to the Dao Sect. Their average members were far more powerful than anywhere else, and despite their numbers being limited, they were a faction no one dared mess with for good reason.
+
+Even these five people gave off auras and demeanors comparable to the top elites of other factions. Caleb circled them, hidden within the shadows as he moved across the ground where all the massive flowers had disappeared, given the fact that all life disappeared when within the Shadow Realm.
+
+“Five of you against little me, huh?” Sandy spoke in a cocky voice. “Come at me and let me show you why I’m the Chosen of the Boundless Hydra!”
+
+Sandy exploded with power as space within the Shadow Realm shook, making all the swordfighters take a defensive stance. Before they could realize that Sandy was all bark and no bite, Caleb took advantage.
+
+Dark lightning enveloped his body as he shot up from below. The disciples, despite appearing distracted, had clearly not forgotten about the Court of Shadows assassin, and the second they sensed something amiss, they formed some kind of group formation as all their swords started giving off a ringing sound.
+
+Caleb’s initial blow struck the formation, but was met by five sword projections that managed to stop his staff. The moment he realized the attack failed, the Judge retreated while shooting out bolts of dark lightning to test what he was dealing with. All of them were paired with more projected swords as the five disciples took different stances and moved around within their sword formation.
+
+Not seeing a need to drag things out, Caleb called upon his Legacy and invoked the Dark Heavens as clouds started gathering above. At the same time, a powerful pressure seemed to fall upon the world, affecting all of them equally, though naturally Caleb had far higher natural resistance, having to live under it constantly due to his Path.
+
+Despite the pressure, the five swordfighters within the formation remained calm, likely having expected it. Chances were they already fully knew who Caleb was and had a good idea of what he was capable of, which was a bit annoying.
+
+Let’s see how durable that formation of theirs is, Caleb thought as he sent a telepathic message to Sandy. While the worm didn’t have much offense, they were a brilliant disruptor and could hopefully help create some openings for Caleb to exploit.
+
+Sandy acted first as space condensed around the formation, making it impossible to move, as Caleb followed up to strike the trapped group.
+
+Lifting his staff towards the sky, Caleb called down lightning as a massive pillar descended upon the sword formation. It entirely enveloped them as the energy also struck the ground, looking more like an orbital cannon meant to destroy a planet’s surface than a thick bolt of lightning.
+
+Caleb kept it active for several seconds before stopping as he frowned and allowed his magic to subside. Despite the attack, the formation remained, the five standing with their swords raised towards the sky, and when he stopped, they all lowered their weapons in unison, moving as if they were all one person.
+
+They’re skilled, he concluded the obvious before switching to different attacks. He tried striking the formation with his staff and various forms of magic, and even had Sandy ram into it, but nothing they did broke through the formation, and the five disciples continued dancing across the sky, blocking or avoiding everything thrown at them.
+
+They weren’t doing much else, though. Sword formations were often known for their incredible offense, but this was clearly a fully defensive variant. Attacking them was like hitting a turtle's shell, though Caleb did feel they were making progress. The five of them were slowly tiring, their resources draining far more rapidly than Caleb was spending his energy. Given enough time, he and Sandy would win for certain, no doubt about it.
+
+“You’re not gonna win by only defending,” Caleb said in a rather casual tone as the dark clouds continued gathering above, their power and his both intensifying by the moment. “In fact, I’d dare argue the current status quo benefits me far more than you.”
+
+While telling them this seemed dumb, what he said was honestly only a half-truth. While the power from the Dark Heavens would make Caleb stronger and eventually overwhelm their formation, he feared that the backlash from accumulating so much power would be nasty. Thus, he would prefer that they also be a bit more offensive to speed things up.
+
+“I fear you misunderstand the current situation,” one of the people in the sword formation, likely the highest-ranking one among them, said in a casual tone, a bit to Caleb’s surprise, as they hadn’t appeared like the chatty sort of group. “Time is your enemy, not ours. All we have to do is hold on until our seniors arrive. That, or we fall before they do, having successfully exhausted you in the process. Either way, the end is already a foregone conclusion.”
+
+“You seem awfully confident,” Caleb said, secretly already preparing another blow as the clouds above churned together.
+
+“So do you,” the leader from within the formation continued. “I will not reject the notion that he may be worthy of being called a skilled swordsman. He is the Chosen of the Primordial of Time and a Transcendent, after all. However, he is not facing mere novices or young C-grade fools who’ve barely stepped onto their Paths like in Nevermore. He’s facing those who have immersed themselves in the sword for millennia. Core disciples who have been taught personally by the strongest blade in the multiverse are incomparable to those like us, and beyond your comprehension.”
+
+They truly were confident that time was on their side, seeing as they were yapping this much. Caleb couldn’t entirely dismiss their words, though. He knew fully well that should he face any of those three, he had no confidence in winning a one-on-one. They were monsters in their own right, and based on his intel, should those three have competed on the Nevermore Leaderboards as C-grades, they would have undoubtedly all made it into the top 250. That in itself didn’t seem that impressive compared to even someone like himself, but one also had to factor in that they’d had tens of thousands of years to grow stronger since then, while for Caleb and the Sword Saint, they’d only been B-grades for a few years at most.
+
+However, having said all that, Caleb had fought alongside the Sword Saint for the last couple of days, and while he knew he didn’t have a grasp on the old man’s true power, one thing was certain:
+
+He was also a monster.
+
+“I guess we can only wait and see,” Caleb said, feeling confident in the Sword Saint, though some doubt still remained, as he was facing three rather impressive opponents. “Not that you will be around to find out, but you can always check in with them once you’re all thrown out of the simulation for a quick month.”
+
+With those words, Caleb unleashed the magic he’d been preparing as he raised his hand towards the clouds above and pulled down, making the Dark Heaven’s themselves descend upon them all, bathing the Shadow Realm in total darkness as the sound of thunder roared.
+
+--
+
+It was difficult not to smile.
+
+Miyamoto had crossed blades with many powerful users of the sword throughout his Path, finding most of them lacking. To many, their weapons were nothing more than mediums to express their power, and not core to their Paths. Someone like Jake was the same. While he certainly used a bow and katars and was skilled in both, the true core of his Path lay in his identity as a hunter and the power of his Bloodline.
+
+This inevitably led to the connection between themselves and their weapons not developing as much as it could. To Miyamoto, his sword wasn’t a tool but a companion for life and an extension of himself. His sword was as much a part of him as he was part of it.
+
+Granted, he did also have his Transcendent Skill, but the difference lay in that he didn’t consider how his sword could be used with his abilities, but how his abilities could be used with his sword. If it were a skill or an ability that wouldn’t help his swordsmanship, it wasn’t even worth considering.
+
+Finding others with similar mindsets was difficult, as this truly wasn’t the default way to express one’s Path. Just the mere fact that using weapons like this was limited to humanoids severely shrank the number of opponents he could encounter. This number was further reduced when factoring in that the Sword Saint only truly cared about encountering those who could also challenge him.
+
+Not just when it came to sheer power. There was plenty that could crush him with overwhelming stats and levels. No, he was thinking of those who were truly skilled enough with their weapons to match him. So far in B-grade, he had yet to encounter a single one despite having fought many so-called masters in this event so far... which was why he truly couldn’t help but smile looking at the three people in front of him.
+
+Not only had he met one person with swordsmanship he had to recognize, but three of them at the same time. As he saw them holding their swords, he felt the aura of the blades radiate out, and he knew just by sight that these three had all wielded swords for many more years than he’d even been alive.
+
+Of course, that didn’t necessarily mean they were more skilled.
+
+“Your arrogance will be your undoing,” the human woman said as she raised her sword and pointed it at him. “Show me if you’re truly worthy of facing us all at once.”
+
+She sheathed her sword before turning and looking at the wood elf, giving him a nod.
+
+The man stepped forward and bowed respectfully. “Allow me the honor of witnessing your sword.”
+
+“The pleasure is all mine,” the Sword Saint smiled as the wood elf put his hand on his sword.
+
+Their swords clashed in the very next moment, the elf closing the distance in an instant. Still smiling, the Sword Saint counterattacked, finding himself parried multiple times as the two of them engaged in a quick exchange. The Sword Saint felt the intensity of the other man’s blade, felt the sheer conceptual power imbued within it, and found himself incredibly impressed.
+
+Pushing, he tried to get the upper hand, but found himself repeatedly unable to gain any advantage or build any momentum. The swordsmanship of the elf was like battling a great tree. Steadfast, durable, and unable to be swayed by any winds, no matter how harshly they blew.
+
+Defensively, he surpassed the Sword Saint in sheer skill, and the elf’s counterattacks were all heavy and overbearing, seeking to crush Miyamoto with a single blow should he slip up. Yet, at times, his sword also grew soft, flexible, like swaying branches reacting to the wind, whipping back with force if pushed too hard.
+
+Miyamoto’s smile widened as their exchanges intensified, neither side using a single active skill, yet their constant clashes tore up the surrounding area, toppling the massive flowers.
+
+The two other core disciples looked on calmly, having taken a respectful step back to avoid interfering with the fight. Still, the Sword Saint kept them in mind should they choose to join the fray. They would have to soon, so he may as well prepare.
+
+Physically, the Sword Saint found himself slightly superior in terms of speed, though inferior when it came to pure power. He did have a slight level disadvantage, but honestly, the biggest difference lay in their passive skills, which reinforced their bodies, as well as their individual capacity to use their stats.
+
+Something the Sword Saint had noticed long ago was how very few could actually fully utilize the power they had. To truly show one’s full power took active control of the energy circulating through one’s body, as well as the ability to infuse intent and willpower into every action. Much of this would come naturally, like muscle memory, but to constantly improve, one had to never get complacent and keep improving these things.
+
+It was the mark of a true genius to do this. Caleb had shown himself capable of it, too, though his Path certainly helped, the pressure from Tenlucis’ Legacy always pushing him to improve. Many who didn’t have such powerful external motivation to improve often got complacent, though, allowing themselves to fall behind.
+
+Granted, there were also outliers like Jake. In Nevermore, Miyamoto had learned that these were never things Jake had even thought about, despite always fully utilizing his body and pushing it to its limits. To him, it didn’t need to become muscle memory in the first place, but was simply instinctual. Sylphie also didn’t need to actively consider such things, perhaps in part due to being an elemental, but it was difficult to tell.
+
+Tangent aside, the point was that to encounter one who could truly move their body optimally was rare, yet this wood elf was nearly perfect in that regard. Neither side used boosting skills, yet it was evident that both were using this opportunity to refine their Paths, improving even on what seemed near-perfect.
+
+This was also where the disparity started to show. The Sword Saint’s strikes started growing sharper, his blade finding slight openings, leaving minor cuts on the bark of the great oak before him. Not enough to leak sap, but enough for his opponent to realize the tide of battle.
+
+While they had been roughly equal initially, there was one major difference between them:
+
+Talent.
+
+The Sword Saint’s rate of improvement and ability to adapt far surpassed his opponent, allowing him to read the other party and learn his fighting style fast enough to start finding openings. Of course, it wasn’t that easy, as whenever Miyamoto felt as if he’d gotten a major advantage, the wood elf shifted, the great oak turning to a willow as his blade became more flexible and harder to read.
+
+Alas, it was not enough.
+
+Blood spurted into the air as the two swordsmen parted, the wood elf taking several steps back with a cut on his left shoulder. The elf looked at the wound and tore off the sleeve of his robe as he smiled and nodded.
+
+Miyamoto returned the smile and nod before throwing a glance at the two other core disciples, who looked surprised at their companion getting wounded. However, rather than surprise, he saw greed and desire in their eyes. Rather than treasures or experience points, they craved the experience of facing a worthy sword far more, and who was he to deny them?
+
+“I have warmed up,” he spoke, looking at the two of them while still smiling. “I admit that in terms of sheer swordsmanship, I’m equal if not inferior to all of you. For now, anyway. That does not deter me, though. So come. Let me experience your swordsmanship as you experience mine and let us compare our Paths.”
+
+“Do you truly believe you can take on all three of us at once?” she asked with a raised eyebrow. “I also recognize your sword and rate of improvement, but potential is a concept of the future, not an expression of the present.”
+
+Miyamoto chuckled a bit as he raised his sword and pointed it at her. “To me, the present and future have always seemed a bit... mixed. So please, do entertain my invitation.”
+
+The human woman took a second before nodding. “Very well.”
+
+She slowly drew her blade alongside the beastkin standing beside her as both of them slightly leaned forward. “Prepare yourself.”
+
+Both disappeared, with the wood elf also engaging once more. Miyamoto reacted as best he could to the three swords, and in an instant, nearly a hundred exchanges were made before the Sword Saint was sent sliding backward, blood dropping down on the ground in his wake from the seven cuts left on his body.
+
+Despite this, his smile only grew as, rather than defend, he stepped forward to attack, wishing to truly immerse himself in the swordsmanship of three people who’d climbed further up the endless mountain that was the Path of the blade, intending to surmount them all.

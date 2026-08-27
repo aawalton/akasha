@@ -1,0 +1,323 @@
+---
+id: 0cfa981e-7341-5ca4-88ad-2025ef428572
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 496"
+slug: 0196-the-path-of-ascension-chapter-496
+partOf: the-path-of-ascension
+position: 196
+ownLength: 5895
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3497983/the-path-of-ascension-chapter-496"
+royalRoadId: "3497983"
+---
+
+Chapter 496
+
+Quill made his way up to JR’s after a quick goodbye with Max and a promise to meet up later. He expected a chatty bird to reveal what he’d learned about the liquid mana stones, but the silence that greeted him was heavy.
+
+Shaking his head, Quill immediately said, “No way you are going to try and weedle your way out of this by acting all broody. I’ll call mom.”
+
+JR snorted at the assumption, “You think Emmanuel could get me to do anything I wish to not do?”
+
+Scoffing right back, Quill pointed upward. “I have a bigger threat. I’d call Aunt Helen and tell her you are being mean to me after we made a deal. Best of all, I can sit here and watch how you deal with that hot potato.”
+
+JR froze for a moment, before the atmosphere cracked and the stuffiness was replaced by very real laughter. “I was wondering when you’d pull out that piece of leverage. I have to say, this timing is annoyingly well aimed. She’d laugh you off with most things, but you’re probably right in this instance, and I value my six hundred point plan to woo her more than I do an hour I’ll extract from Cosmind anyway.”
+
+Tisking at himself, the bird walked away, muttering indistinctly as he disappeared between rows of equipment. When JR came back, he was holding a small device only slightly larger than himself under a wing.
+
+Setting it on the bench, JR gestured impatiently as if he expected Quill to understand what the unknown contraption was.
+
+“What do you want me to do?”
+
+Sighing as if Quill was the one being difficult, JR explained, “Now you're wasting my time too?” Like he was speaking to a slow child, he added, “Put a liquid mana stone on the device. This should have been obvious from the device itself. Did Max memory wipe you or something?”
+
+Pushing back, Quill crossed his arms instead of doing as instructed. “That’s two petri dishes and four metal tubes. How would I ever know what that is?”
+
+Having been turning around to walk away, the bird halted before slowly turning back around. “Do you mean you don’t recognize a… scanner? They’re everywhere. Sure, this one is a bit stripped down because I’m amazing, but come on!”
+
+Shaking his head, Quill tapped into a few nearby screens to browse locally sold scanners. Not a single one looked even remotely close to the object JR had produced. Most looked closer to the squat, single open face scanner he knew from the Empire, letting him feel extra smug.
+
+JR waved a wing, forcefully cutting Quill’s connection to the screen as he sauntered away. “Your point is made, but I’ll note not well. You should be more ashamed about that than I am about this. Hold yourself to a higher standard. I may be a bit out of date on what the typical general scanners look like, but in my defense, I made that when I was Tier 44. Double sensor plates were all the rage for the increased accuracy you could get out of them.”
+
+“If that’s what lets you sleep well at night.”
+
+Quill made a small liquid mana stone in his palm instead of giving JR time and space to get in the last word. Wanting to show off and hopefully score some free high Tier insight, he showcased his porous mana stone, complete with useless light rune to showcase the effect, while tossing it onto the scanner.
+
+Watching the reading, he was mildly surprised when the mana count showed 499.99 mana count out over five decimals of accuracy. Checking Blake's memories, Quill confirmed the scanners they normally had access to rarely went to four, and five was unheard of except in laboratory settings. Few people ever used sub units of mana and it incredibly was hard to detect.
+
+Realizing the error of his thinking, Quill tried not to let the raven see how impressed he’d been. Really, a crafter of JR’s renown should have made a scanner with at least six digits of accuracy. Merely five out of… two petri dishes and a few sticks was kind of… sad.
+
+He was grateful JR took a few moments to scrutinize the mana stone. His reply wasn’t the analysis Quill had been hoping for. “Very interesting, but this won’t do what I want. Make a normal one please. Let’s have a little fun with it. I saw you scoping out the scanner. How accurately can you control the mana of a liquid mana stone?”
+
+“Pick a number. So long as it doesn't take me more than a few minutes to make it, I can hit it.”
+
+Grinning, JR laughed the challenge off. “No need to brag, though I do appreciate it. A nice and round fifteen million will do us nicely.”
+
+Quill made the requested liquid mana stone and dropped it on the scanner, never taking his eyes off the bird.
+
+The minute the stone was confirmed to have exactly the right amount of mana, JR cawed. “Okay, now put a little seal around it so you know no one touched it. While we work.”
+
+“A high Tier can bypass anything I can make. That's a terr—”
+
+Ushering him to move, JR made his impatience clear. “Less complaining, more doing. You already played with Max long enough. Dawdle on your own time, not mine.”
+
+He spent a few seconds to make a bubble of mana stable enough to last a few days so long as it wasn’t disturbed. That would be more than enough time while he was pulled inside whatever it was that JR did to them when they worked.
+
+The day’s work felt like torture with a sadist. Every few minutes JR would tsk or tut, slowly driving him insane. Once he’d finished the smoothie and recovered enough to think, he found the raven fluffed up next to the scanner and the bubble he’d made.
+
+Quill shook his head slow enough it didn’t hurt while still making his displeasure clear. “I want to make it known in the future that I would like all information pertaining to bets to be conveyed promptly. At least knowing before the work would have made it slightly less…”
+
+Feeling the pain rise, Quill breathed through it. “Torturous.”
+
+“Open your seal and tell me you would have believed me with only words. Go ahead. I’ll refund Emmanuel the full cost of this armor. ”
+
+JR’s words were grandiose enough to get him to open his eyes through the pain.
+
+Quill turned to the scanner with all of his senses. His spiritual perception registered the displayed number the fastest. Needing to confirm what couldn’t be true, he turned too fast and nearly vomited as the world continued to spin long after his head had stopped its movement.
+
+Everything seemed to spin around the scanner display.
+
+15,000,000.00041.
+
+Where had the additional forty-one hundred-thousandth mana come from? He’d made both the gem and the seal. Either could have been tampered with, but even through the spinning of his spiritual perception, he felt the security features he’d subtly and not so subtly left scattered throughout.
+
+Quill forced control over his aching body and temporarily shut down its senses until he had control. With little more than vision, hearing, and a fragment of spiritual sense, he evaluated everything he knew.
+
+After an eternity, he circled back to that first question. Where did the additional forty-one hundred-thousandths mana come from? It surely hadn’t come from him.
+
+That only left a single solution.
+
+One Quill couldn’t bring himself to believe.
+
+His very mana itself was endless. It was—
+
+Quill felt his world warble as he slammed into the wall that was his missing name. Pushing through his combined pain, he tried to find the thread of thought that might have led to an inspiration, but it had slipped through his unprepared fingers and he doubted it was ever coming back.
+
+The moment had gone and even if they later learned something, the initial moment of discovery had been lost.
+
+Meeting deep black eyes surrounded by even darker plumage, Quill felt the fear of being exceptional rear its ugly heady.
+
+Familiar words echoed in his mind even as he saw JR's naked surprise at what the revelation might have led to. “Too exceptional.”
+
+“Don’t get that look on your face 『　』.” Laughing at his flinch, JR at least had the good grace to explain. “I won’t try to speak on the specifics, as I suspect you’ll do just fine with your own research, but do feel free to ask questions during our next session. I might not answer, but asking has its own value if you are clever enough. Yes, yes. It's quite the interesting conundrum you now find yourself in as per our defensive agreement. Wouldn’t you agree, Quill?”
+
+Quill tensed, but JR only grinned, not bothering to hide his pleasure. “Part of my agreement with the Empire is getting access to stones you yourself make. Funny thing about the wording in the contract. Any such liquid stones you decide to give to Emmanuel? I’ll get a small portion. I’m calling it my retirement fund. What a fantastic deal. Wouldn’t you say so?”
+
+“Fuck you.” Quill wasn’t sure why he was mad, it wasn’t about the inspiration. He was already looking into liquid mana gems and without his name, it would have always failed, whether or not it happened in his lab or JR’s. Considering it more as he processed his initial reaction, he realized he simply didn’t like finding out the raven had played and won a game before he knew they were playing.
+
+“I know your head hurts but please try to be more creative if you are going to insult me.”
+
+“I need to tell Manny.”
+
+Quill groaned as he pulled himself to his feet before the scanner.
+
+Rolling his eyes, JR walked away seemingly disinterested. “Twice now you’ve wanted to call for help today. Do you find that at all shameful? Where is your unyielding Chosen spirit?”
+
+Exacerbated, he finally turned and asked, “What good does shame get me when dealing with someone who doesn't feel it?”
+
+That seemed to please JR, and he started humming as he adjusted the blueprint for an arrow that had its own table off to the side, leaving him alone.
+
+Quill had tried to peek at the side project before, but any time he tried to focus on the details, they blurred like a fresh painting dropped in water. Today he didn’t care as he focused on the familiar yet foreign liquid mana stone.
+
+After a few minutes a voice penetrated through his racing thoughts. “You can take both and go. Shoo, shoo. Consider the scanner a loan, not a gift, so don’t think about pocketing it.” JR laughed at himself before growing more serious. “Rest, and only then look into the mana stones. From one crafter to another. Trust me, sleep on it. Far too many immortals ignore a good night's sleep and the benefits it can bring to new ideas.”
+
+Having said his piece, JR's full attention went to the arrow blueprint, dismissing him.
+
+Quill took his words to heart and didn’t try to get any work done, heading straight home and going straight to sleep after letting everyone know everything was okay, but he’d need to talk to them. The moment he woke up, he retrieved a yellow glass rod from his strange realm-given domain storage space.
+
+Snapping it, he triggered one of the high priority but non-betrayal alerts Manny had given him.
+
+Immediately, a pair of giant golden eyes appeared in the room, taking in everything.
+
+Seeing the veins at the corners already starting to grow in prominence from the strain of holding the spell over such insane distances, Quill quickly explained everything he knew. The moment he finished, the eyes vanished and a minute later he received a two word message.
+
+“Understood. Continue.”
+
+It wasn’t much, but it was reassuring to know someone else was there to hold up the sky should it start to fall.
+
+Quill’s next task was telling Liz and Aster. He could tell Aster still wasn’t entirely comfortable around him yet, but neither brought it up. He didn’t particularly like that outcome, not at all, but for something important, the two of them both pretended.
+
+Not that she needed to pretend. Both Liz and Aster’s full attention had been absorbed by the stone and the scanner's display, unwilling to look away until they’d seen it themselves.
+
+Quill wanted to complain, but seeing the 0.00248 on the display after his nap, he didn’t.
+
+He also wanted to see it happen. He’d be starting with a similar enough test in his lab and didn’t mind doing it with them over catered breakfast.
+
+The four of them sat around the table and Liz shook her head while one pair of eyes watched the display, while the other ate. “I can’t believe it. Mana doesn’t work like that. It's not essence. That’s pretty fundamental about most magical theories.”
+
+Aster only had one body, and as such was forced to eat sideways if she wanted to keep her eyes on the scanner. “Blame it on Talent tech.”
+
+“That’s not helpful,” Liz scoffed at her. “Understanding what Talents break is the typical starting place.”
+
+“I’m not disagreeing. But starting at ‘This breaks everything we know’ isn’t helpful either. That scope is uselessly large. What do we know?”
+
+Both turned to Quill, who was only able to shake his head. He hadn’t learned anything more than them at this point.
+
+Bringing up the scanners logs, he charted the rate of mana generation and checked the next expected… addition? Growth? Cycle? He wasn’t sure what nomenclature he wanted to establish for his liquid mana stones, but he didn’t let himself get distracted.
+
+“Don’t we have some older liquid stones in store from your earlier experiments or did we give them all away?” Liz’s question did that for him well enough on its own.
+
+It was also one that forced Quill to go through Blake's previous memories, which took time.
+
+“I think most of them got sent in, but we might have some in my secondary workshop’s backup junk ring. I threw a bunch in there and never got around to cleaning it up. They will make for good growth rate tests at the very least.”
+
+Aster surprised him by asking, “Can I get some? I have a theory I’d like to try out. Ice ones if you can.”
+
+Quill shook his head. “Normal mana stones, sure. I can give you any aspect my ring has. Liquid ones? Not so much. I barely have the control necessary to make liquid mana stones of my own mana, let alone someone else's; and that’s if it would work at all. Which I’m not sure it would. I haven’t done this testing yet, but I should have. I never considered it.”
+
+“I’ll take the normal liquid ones then. Just a few though. I don’t need much for my testing. I’ve been able to contact four other people who have spirit spaces and I have been trying things.”
+
+She didn’t elaborate on what things, but it didn’t feel aimed at excluding him. The sense he got through what was left of their bond hinted she wasn’t entirely sure what she was testing in the first place.
+
+Wanting to be helpful, he made a few more than she’d requested, taking advantage of his doubled mana from Icliz, while shifting the topic to Max and the reveal with her.
+
+As it turned out, the Chosen had already made plans with most of the estate. Liz, Aster, Zack, and Allie understood, but she’d apparently reached out to their friends, offering them unique lesser known experiences only available to the connected.
+
+Checking his own messages, he found a request to meet up and discuss their [AI] modifications.
+
+Seeing everything he had to do, Quill made his exit after the scanner ticked up by 0.00007, despite wanting to stay longer. As interesting as the general discovery was, he needed to turn it into something usable, or liquid mana stones would contribute to his problems rather than solving them.
+
+Returning to his lab, he started his own testing, but almost immediately ran into a problem. His scanners weren’t as sensitive as JR’s, and the rate of mana production they could detect took days. Knowing the raven probably didn’t have any more scanners laying around, he thought about his alternatives.
+
+It didn’t take him long to come to a solution. His initial testing proved there was more than enough randomness that he could scale up to a sufficiently large size and have non-subsequent data points as often as he’d like. Best of all, excluding his preparation time, the testing would take the same amount of time.
+
+Ten minutes later, Quill was surrounded by just over a trillion mana in liquid mana stones of various shapes, sizes, and amounts of mana. The only thing he didn’t mess with was the stones themselves. He had thousands of new ideas he wanted to try, but he needed to control such variations at the first stage, given he clearly didn’t understand his liquid mana stones as well as he thought he did.
+
+When he was done, he was surrounded by roughly a Tier 37 mana stone’s worth of mana, but after a moment of consideration, he quadrupled his testing stones. He’d have made more, but he was already stretched thin on sensors and didn’t trust any he could buy in the Corporations, leaving him stuck with what he’d brought.
+
+Why hadn’t 『　』 prepared better for this?
+
+Cursing his past self’s unpreparedness, he could only make do with a few thousand simultaneous tests instead of scaling to a more reasonable level.
+
+He contemplated messaging Max to see if she had any, but he didn’t trust her that far. If JR’s sensor wasn’t the best one he had access to, and the bird being the one to tell him, he wouldn’t have used it either, but he made due. His musings turned to Allie, but he wrote her assistance off as well.
+
+Even Empire equipment would need to be looked over by Harper’s counter espionage teams, and they were already over worked. He’d make do with the few he had on hand.
+
+After spending two months investigating, he came to a few conclusions. The first and most imperative was that he had no real idea what he was dabbling with.
+
+If liquid mana stones weren’t only made possible due to his Talent and Domain, which was a stance he wasn’t confident in, they certainly weren’t something like a rechargeable mana stone. Those were something any civilization would discover and rediscover over and over as they stumbled on all of the ways mana liked to solidify.
+
+Technically, at least as far as he could tell, nothing about the liquid part of his liquid mana stone required his Talent. It made everything easier, since it allowed him to do all the steps himself, but he was almost sure the process didn’t require it.
+
+Proving or disproving that required testing. In theory that was easy, but in practice it involved waiting for the liquid mana stones to create mana a few hundred, or better yet, thousand times. Thus giving him a set of data points he could actually use.
+
+He quickly realized that even with the scale of his testing, that would take a while. Instead of waiting around watching a pot boil, he decided to use his time more productively and work on his flash talisman project.
+
+Quill kept having the nagging suspicion he was close to an answer but was circling around it. He just needed to keep trying until he hit it.
+
+The first thing he started to alter was, unsurprisingly, the outer shell of the talismans. He’d already spent two months fiddling with it, and wasn’t prepared to tackle the much more difficult to manipulate liquid portion of the mana stones he was trying to use as a base.
+
+That part was… fine on its own.
+
+There was room for improvement, but that was for Blake to deal with. Quill’s goal was to make the liquid mana stones work with his flash talismans.
+
+Learning that his mana truly was endless may have distracted him slightly, but he didn’t forget his goal.
+
+Going back to square one for the third time in as many months, he didn’t bother delaying the solidification of the outer shell of his flash talismans. Instead, he directly started messing with its composition and layering. Most of his answers never made it to the testing stage, but slowly and surely, he started to understand.
+
+Not his liquid mana stones or flash talismans, that would have been too easy. However what he learned about his own mana was even more valuable. Or it would be eventually.
+
+What he found interesting was that once activated by his Tier 25 Talent, his mana wanted to solidify. It was through that process he’d initially discovered his liquid gems and that his Talent sure thought the liquid was, in fact, solid.
+
+Taking that as inspiration, he tried to create truly liquid mana, but got nowhere. He needed the shell to contain the liquid in its ‘not solid’ state. It was also what was causing his issues, and he didn’t have a solution there.
+
+Quill was tempted to go through 『　』's memories and look at the original research he’d already investigated once when trying to develop what would become liquid mana stones. Instead, he went looking for the same material as if it were all truly new information.
+
+His goal was different than Blake’s had been, and this review would hopefully let him find those things in the sea of half familiar ideas and concepts.
+
+Quill wanted… temporary, transient, ephemeral felt like the best word. Where Blake had been looking for stability and longevity.
+
+Material science research on mana stones had reached a fairly high level and in the chase for a better rechargeable stone, the Realm had learned quite a lot about solidified mana. None of them had been very useful when pushing entirely new boundaries, but he was no longer trying to do that, and several formerly dismissed ideas seemed useful under that new light.
+
+A team in the Clans seven or eight immortal generations ago tried to create a modular mana stone out of smaller interlocking single units of mana like sticky grains of sand that would bind to each other. The original idea had gotten exactly as far as he expected, but a note in the research caught his eye and refused to let go.
+
+The few samples they managed to create had been recorded to have great strength until its capacity was reached, where it instantly deformed and exploded. While that was a bad outcome in relation to rechargeable mana stone, it sounded like exactly what he wanted.
+
+Applying the idea to his own liquid mana stones wasn’t so easy. The original design indicated each minuscule mana stone needed to be created independently. The original team found success in their unique interlocking shapes, but he didn’t have that liberty, needing to contain a liquid. Not only would making microscopic mana stones take too long, he needed to create everything all at once if he wanted to liquify the core.
+
+Instead of even attempting to copy their methods directly, he took the core idea and tried to deliberately create a cracked and flawed liquid mana stone. He succeeded in his first attempt, but the hollow shell of a liquid mana stone wasn’t very useful without anything inside and he refined his goal.
+
+He needed to create a cracked liquid mana stone that didn’t leak the second he withdrew his control, held together by the internal pressure and the gem’s geometry. That was much much harder. Impossible, in fact.
+
+Quill's best result after two months was closer to a fragmentation grenade made from hundreds of overlapping rhombuses. He’d envisioned a near random cracking pattern originally, but that much disorder in the gem’s structure resulted in failures while making the liquid mana.
+
+Cleaning up between experiments, he saw a message from Quill’s Quality Quintessentials CEO waiting for him. It wasn’t marked urgent, rather a final notice, but he was still filled with mild trepidation when he opened the message. He couldn’t afford any distractions like more work.
+
+However his instincts proved wrong and instead of bad news it was… news.
+
+He’d been invited to a ‘small gathering of aura enthusiasts’. That more than most other criteria caught his interest. Combined with his need for a break, he accepted the invite to apparently all of his friends' and family's surprise.
+
+Thankfully, the gathering was both small and close knit enough that he didn’t get immediately bombarded by the guests. He was, in fact, just on the lower side of the average Tier present. Better yet, what attention he did get was in relation to his aura tracking talismans more than his status as an Ascender, which was a pleasant change of pace.
+
+Though, the guests' identities themselves might have helped with that. Everyone had created at least one product utilizing aura, even if few of them had been commercially viable, and had their own pride.
+
+That meant they were mildly polite rather than rabid when talking to him. Luckily for them, Quill was more than happy to talk shop about something he himself created. He even surprised himself at how much he learned. Everyone at the event was related to enchanting in some way, but they all had different takes on the field due to their specialties and how they sought to take advantage of aura.
+
+Few were willing to talk about successes but everyone was willing to bring up the problems they encountered, hoping someone might have a good idea.
+
+Through the discussion, Quill came to a single realization he should have much, much earlier. Aura was strange. It could be used in a variety of applications, from talismans to large scale formations and everything in between. However, for all that possibility, there were only a scant few cases of aura enchantments replacing the originals, with his aura tracking talisman being the latest to manage that feat.
+
+While he was the newest, light enchantments for any kind of growing application was undoubtedly the largest. While it hadn’t had the time to do so yet, the writing was on the wall and everyone in the Realm had read it. Anyone who grew anything in real space had started planning around the aura growth lights, even if that plan was to acknowledge that it didn’t make financial sense to adopt them yet.
+
+It might take tens of thousands of years to saturate such a large market, but there was no doubt in or out of the industry that eventually, every artificial growing light would be replaced by aura ones. Many were speculating on the entire light market being opened up and were aiming for cheaper, more efficient variations.
+
+Quill suspected aura-based tracking might follow a slower, if similar, route. He also knew people would take what he’d done with the aura talisman and localize them to their local rifts by tweaking the recipes. He actually hoped for that development, but hadn’t taken steps to help or hinder it.
+
+It wasn’t that he didn’t care; he did. A lot. And that was why he was hesitant to interfere. There already wasn’t enough resonance aura to meet the current demand, and now wasn’t the time to split the markets, but he didn’t want to dissuade anyone either.
+
+Sadly, neither of the two ladies who discovered the light runes were at the party, so he wasn’t able to meet them.
+
+He did, however, get to meet an eccentric Tier 23, Zonta Voli.
+
+Despite being several times older than Quill, the man gushed upon meeting him. “Oh, Chosen Titan, what a pleasure to meet you. I’ve been following your work since the original aura reveal. My family actually had an aura rift under our jurisdiction, so I had more access than most.” Laughing, Zonta waggled a single finger in the air. “A whole one aura type. Wind, if you wanted to know. It made for riveting research when I was a fresh Tier 10. However, now thanks to you, I can just order whatever types I want.”
+
+Unable to help himself, Quill was intrigued. He’d run into a single aura rift on a border world, but was his only time running into one naturally. Meeting someone who grew up near one and studied aura for that whole time was interesting.
+
+“It must have been hard only having a single sample type to work with.”
+
+Zonta immediately nodded as their conversation drew in others.
+
+“Oh, I never wanted to be an alchemist, so my contact was always limited. I think I did five or six experiments per Tier before giving up entirely at Tier 15. Aura was so limited, it was hard to find teams who were willing to sell any of it. Even when they did, they rarely chose to sell to me. Now though, I just need to look up what's available and I can have as much as I can pay for. It's beautiful!”
+
+Quill was going to make an excuse to continue mingling, when Zonta rattled on, not noticing the lull in the conversation.
+
+“If I can have a moment, I must share a quandary that has confounded me lately. I’ve been playing with the basic elemental types. Water, wind, fire, and earth are surprisingly easy to work with once you get used to their individual quirks. A whole lot easier than that resonance aura you were messing with, that's for sure.” The half hearted attempt at flattery was forgotten as Zonta asked, “Do you understand why those four can be used interchangeably a lot of the time? I can’t figure it out. It shouldn’t work like that. Most of the time, you can swap any of those four aura types in a permanent formation without changing anything else, so long as you have an aura rune. It shouldn’t work, and I've tested it a dozen times, it doesn't if there isn’t at least one rune capable of utilizing the additional effects of the aura somewhere in the circuit. That specification shouldn’t make a difference, but it's ruining all of my ideas.”
+
+Quill had never heard anyone call working with any type of aura easy, but Zonta’s following words made him forget all about that.
+
+He was doing what?
+
+One of the others, a Tier 27 woman who he knew was a famous jewelry smith that’d managed to create an aura-wared locket of some renown in local high Tier circles, spoke for everyone when she asked, “That doesn't conform to anything I’ve learned in my testing. Even getting the same type of aura from a different rift can have an impact. How are you swapping auras?”
+
+When Zonta just looked around confused at their confusion, one of the two Tier 40’s in attendance withdrew a stack of Tier 20 blank formation plates as well as a dozen bottles of each Level 1 elemental aura.
+
+Needing no prompting, Zonta immediately started carving a miniature defensive formation. It wasn’t complicated or secret, variations of such formations could be seen in any beginner textbook, but the swirls he added in the free space were new to Quill and everyone else.
+
+No one interrupted him, though several people looked like they wanted to when Zonta uncapped and flipped each vial of aura onto a swirling rune, holding them in place with his Intent. As he activated the enchantment, he fed all four aura types into the formation at the same time.
+
+From everything Quill understood, that should have been impossible with the auras clashing. He wasn’t the only one to have such thoughts and he saw the consternation on others faces.
+
+Everyone’s intuition was proven correct. Zonta struggled to contain the mixing energies as he finished the enchantment. However, once he activated it, all of that resistance and turbulence fell away. That was interesting enough by itself, but before anyone could speak, three of the aura types were pulled and stored in their reservoirs.
+
+It took Quill and most others that long to realize what Zonta had discovered or invented. An aura storage rune. It… wasn’t good. They all watched as it leaked aura that tried to contaminate the general formation, but every rune had to start somewhere.
+
+Seeming unbothered by the reactions of quiet shock, Zonta continued his demonstration, getting to what he considered the interesting part. Tapping the small bubble of protection with a finger wreathed in flames, the fire aura stored in the reservoir poured out and flowed through the enchantment, but wasn't used.
+
+Similar to [Cracked Phantom Armor’s] ability to defend against elements, the aura empowered shield handled the fire attack better when reinforced with fire aura. It was clear that wasn’t an effect of the aura rune, which, as Zonta stated, was only there to stabilize the aura. But it had no effect on the final product, being a light rune, beyond increasing the upkeep costs.
+
+Going through all four elements, Zonta looked to Quill and asked, “But how can I get all four to work at once instead of needing to be switched?”
+
+That question was like a bomb being set off. No one wanted to talk about the theoretical when Zonta had created something immediately applicable, even if he hadn’t seemed to realize it. An internal aura storage enchantment would allow for a variety of new aura applications and everyone else was eager to learn as much as they could.
+
+As Quill watched, he wasn’t quite sure if he and everyone else were being played by the innocent looking Zonta. It was possible, likely even, but he didn’t mind. If the man wanted to bolster his standing in the Corporations by making it seem like he was interested in outside help, who was he to refuse?
+
+He had given Quill something very interesting to think about, and that was a worthy trade. Part of being able to play the game was being willing to be played, so he played up his part, making a few tentative offers to work for him. He didn’t imply Zonta should move to the Empire, but the minute he made his move, the locals were no longer able to sit back and watch.
+
+Wishing the man luck, he returned home, head full of thoughts.
+
+Not ones of swapping aura types mid-use. As novel as that was, needing to replenish the used aura made Quill lose most of his interest in the idea. At least, in the short term. If Zonta or whoever snatched him up didn’t solve those issues, someone else would, and he’d reevaluate then.
+
+Quill knew he should have dove back into his flash talismans after returning, but instead of doing that, he was inspired and followed that feeling. Pulling out his samples of aura types corresponding to the four basic elements, he looked at what he had.
+
+Telling himself that he could only spare a few days of effort, he started working on his second product idea. Aura escape talismans.

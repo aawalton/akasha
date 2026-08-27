@@ -1,0 +1,335 @@
+---
+id: 6127563d-884f-5435-8d95-814e97d5f6e2
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 505"
+slug: 0205-the-path-of-ascension-chapter-505
+partOf: the-path-of-ascension
+position: 205
+ownLength: 7208
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3641071/the-path-of-ascension-chapter-505"
+royalRoadId: "3641071"
+---
+
+Chapter 505
+
+As Matt left Aunt Helen’s, he finally let himself look around the planet he was on. His spiritual perception unfurled across the planet and to the moon in orbit in less than a breath. He then pushed further, stretching his Tier 35 senses to their limits and taking a moment to revel in the simple joys of being another Tier higher.
+
+Socially, he understood that Tier 35 was a big deal, but it was only after having reached it that he truly understood just how important and impactful it was. Tier 25 had, at the time, felt like a much larger change that Tier 35 could thanks to it coming with both a new Talent and Domain stage. But now, at Tier 35 himself, he couldn’t help but laugh at his previous conjecture.
+
+Contrary to his expectations, it wasn’t about new power or strength.
+
+Matt had taken a while to put the feeling into words, but Tier 35 felt like he’d started to approach a tipping point through the sheer weight of what his cultivation could bring to bear. He knew he wasn't there yet, but he started to see why Tier 35 was the limit for the war Tiers.
+
+They and everyone else at this Tier were reaching the point where the sheer quantity of their cultivation had started to impart a qualitative change. Realty had never seemed more fragile since he’d Tiered up.
+
+To stop himself from dwelling on the upcoming wars that threatened to kick off at any moment, Matt forcefully refocused himself. There was a reason he’d taken the trip from Palustris himself rather than ask Allie to jump him around, and Aunt Helen had only been one very pleasant part of his trip.
+
+Liz had originally intended to accompany him, but she was busy dealing with the drama from the Cabal’s latest ploy, which shortened the length of the trip. However, that only meant he needed to complete the parts of his journey he still planned on experiencing correctly, so he had no regrets or lingering urges to do it again.
+
+His goal was simple. He wanted to see more of the Empire than his own duchy with his own eyes and senses. He wanted to get first hand experience seeing and experiencing the changes that had happened during the last several thousand years since they’d been started.
+
+While he’d helped make some of the infrastructure, the rigors and demands that delving to reach Tier 35 as fast as possible had ensured he hadn’t had anywhere near enough time to appreciate the long term changes their efforts would cause. That wasn't exactly a surprise. Even before they’d started working, Matt had been informed by almost everyone involved that the true results of their work wouldn’t truly come into effect for thousands of years.
+
+He’d been okay with that. At least, he was at the time, as they were racing from delve to delve. However, now that enough time had passed, he was burning to take a while to see how some of their earlier work had fared.
+
+As he got slightly older and had more time with his [AI], he found that while he could learn a lot from raw data, he preferred to see things with his own senses whenever he could manage. Given that this was meant to be a working vacation, that came with complications, such as the interview he’d just given.
+
+He didn’t even mind these interviews. At least not too much. Most of them were less centered on him directly and more the things they were doing. As someone famous and public facing who was willing to actually work on the construction efforts, a lot of his efforts had been used to keep the public updated on large scale, and more often than not, disruptive changes to their home worlds.
+
+Philroy was a well respected duke and had managed such incidents internally, but many other dukes hadn’t been so successful and needed outside help.
+
+The Tier 28 world they were on didn’t interest him too much. Not really. Sure, it was a mid Tier world, but it wasn’t notable among its peers beyond being next to the slightly higher Tier 36 ducal capital.
+
+In fact, that was neither accidental nor a coincidence.
+
+Set up like pyramids, most duchies were designed to funnel resources to the ducal capital from their very inception, with the lowest Tier worlds deliberately kept furthest away from the center. Logistics weren’t the only conundrum the arrangement attempted to solve, and he knew that while it had its perks, it had its downsides too.
+
+One of which he saw almost immediately.
+
+Being a Tier 28 world, it was a fully settled system. He could feel the intersystem teleports’ occasional cycle while moving small groups to the Tier 3 moons that orbited the gas giants in the outer system. It was an expensive but effective way to bolster the lower Tier delving experience, which fit what he knew about Philroy.
+
+It was an exceptionally well run planet.
+
+That was the first and last descriptor Matt could give to the Tier 28 world. He’d love to wax eloquently about its other properties, but it had very little else going for it. What specialized industry it did have was mainly dedicated to supporting the ducal capital and its needs. In fact, most of the business he observed were either direct subsidiaries of higher Tier business on the ducal capital, or business that sought to break into that much larger and more lucrative market only a single planet over.
+
+Matt wanted to say they were wrong and should be looking inward, but most ducal capitals weren’t self-sufficient. They couldn’t be. There were too many people all trying to crowd into the world. That meant, at least most of the time, it was cheaper, easier, and faster, to shift lower Tier manufacturing to a neighboring world.
+
+While sensible, it meant the world he was on had very little identity of its own beyond being a miniature of the ducal capital. He’d love to say that was unique to Philroy, some failing of his, but it wasn’t. Most worlds that directly neighbored higher Tier ones often found themselves in a similar position.
+
+Not that it was all bad.
+
+The benefit from such a system was one that dukes, kings, and emperors had valued for… basically ever. Control.
+
+It ensured that worlds that might give rise to competitors were close at hand. At the same time, having low Tier worlds pushed out to the borders of their holdings had historically ensured that any attackers had to waste their time fighting through layers of disposable defences.
+
+And in the time following the Shattering, such worries had been very real.
+
+At the same time, the very distance between those outlying low Tier worlds and their ducal capital overlords was a problem for both parties. That gap was also what allowed the current nobility system to function.
+
+Dukes ruled their marquess, who watched their own batches of counts, who directed the viscounts. They, in turn, oversaw the countless barons that represented the Empire’s last generation of expansion.
+
+As he investigated the Tier 28 world, Matt had to admit that Philroy ran a tight ship, and he made a note to compliment the other duke on his efforts next time they were forced into close proximity. His people seemed happy, and that was one of the hardest things to get right.
+
+Matt had spent a lot of time trying to optimize their own duchy. Between himself, Liz, and their seneschals Cato and Isabella, a lot of their time and efforts had been slated to improve the mortal experience. But it was hard.
+
+Philroy wasn't doing anything new, at least not that he could identify, but the implementation of commonplace policies had been well done. Matt could already see the other dukes' efforts bearing fruit around them, which he felt nicely reflected the state of the Realm.
+
+It felt like only yesterday when Tier 0 skills had been new, flashy, and a tad bit mysterious. Now they were common parts of everyone's life, no different than enchanted weapons. As he walked through a medium sized city on an unimportant peninsula far away from the teleporters pads, he found no less than three unrelated stores on the same street offering lessons for some of the more obscure Tier 8 modifications the owners must have mastered.
+
+Even just three thousand years ago that would have been unthinkable, but Matt’s unspoken hopes and aspirations for the proliferation of Tier 0 skill had come to fruition more than he could have dreamed. He’d been confident that giving people the tools and understanding to let them tinker and play would reap dividends, and he’d been right.
+
+In fact, he was fairly sure that he couldn’t have been more correct unless he had future sight, and peeked behind the metaphorical curtain.
+
+High-Tier worlds really were their own beast when it came to skills. Not only could rarer or higher-Tier skills be regularly found, that was nothing compared to the people selling Tier 0 and 8 skills, whether personally created or delved for, directly. He counted six retail businesses in this city alone, and there was even one person who was selling skill shards out of a push cart.
+
+The Matt of Lily could never imagine such a sight, but then again this wasn’t a Tier 4 world.
+
+Some of the businesses were run by higher Tier mortals, but the majority of sellers were Tier 10’s or higher who joined the market. He wanted to say he was at all surprised but he wasn’t.
+
+It hadn’t been for a while. Not on a high Tier world, but that thought threatened to bring his mood down. Immortals with no place to go and limited ways to make money wasn’t a good thing. That crunch had never been as clear as it was after a few thousand years of peace and explosive growth.
+
+There were a lot of low level immortals. Everywhere he looked he found a few doing jobs that would have been socially seen as beneath the ageless only a thousand years ago.
+
+Combined with how cultivation progression inherently slowed down as one advanced, thanks to the fewer rift slots and ever increasing amounts of essence one needed to progress, it was becoming a problem.
+
+Worst of all, the Empire had had an entire Immortal generation of rapid territorial expansion that had given them far more breathing room than the other Great Powers. Sure, most of them had started with smaller mortal populations, but their growth had been just as big of an explosion as the Empire’s, if not more so, thanks to the previous lack of upward mobility.
+
+The minute they’d opened the gates, it seemed like everyone with any ambition had surged through with the intent to race ahead as fast as possible. The result was simple and uncomplicated. More competition over the same or fewer resources. That conundrum had been weighing on his mind ever since the whispers of an upcoming war had turned into official readiness preparations a hundred and eighty years ago.
+
+The Great Powers had already figured out how to solve such dilemmas, and he hated that he didn’t have a better answer.
+
+Population wars.
+
+Rather than let himself get distracted by worrying again, he pivoted to the second bottleneck in the skill reselling business. One that he’d actually had a hand in fixing. Or Titan’s Torch had.
+
+Blank skill shards, once discarded with the rifts that dropped them, were now one of the better low Tier drops a rift might spit out. In fact, Tier 8 rifts that regularly dropped blank skill shards were Titan's Torch’s best sellers. Most groups chose to have a rift copied and relocated, but others paid the additional expense to have a new rift spun up in their area.
+
+Neither Titan’s Torch nor the Talent aperologists who worked with Mackenzie Harrington had expected the second hand skill market to explode the way it had, but after it did, both sides were grateful for the other. Neither could satiate the public's demand for ‘better’ rifts, but together, they managed to redirect their efforts.
+
+Blank skill shards were a surprisingly easy reward to land on from a variety of angles, and they knew a formula from Matt’s time at Tier 6. Together, it meant anyone could have a blank skill shard rift with nearly any monsters the locals wanted. That ease of access gave those proficient at making skills a reliable outlet to sell their wares, creating an entirely new market.
+
+One that he was personally glad to see.
+
+Matt then spent a few minutes at a public park watching a small group of Tier 2’s and 3 who had done the arduous task of creating [Hardlight Armor], practicing under the supervision of a Tier 15 clad in the same skill.
+
+Seeing a few who were struggling more than the others, he pegged them as ones who’d bought the skill, but they’d have an uphill battle trying to rectify that ‘shortcut’. He wished them luck. They’d need it.
+
+When Rah had created what he called [Hardlight Armor] a thousand years after their trip to the Corporations, based on records of the he’d seen from the Ascendancy of the Sun, he hadn’t quite realized what he’d unleashed. Initially, the skill hadn’t been well received, as it was fiendishly hard to make, could only be used in bursts, and was relatively expensive. But it was still a Tier 0 armor skill that could be cast on someone else.
+
+That garnered some attention, but it was trainers like Luna who quickly brought the skill into the limelight, where it gained popularity and eventually notoriety. For all of its other flaws, using [Hardlight Armor] was hard in and of itself. It took a rhythm and level of control few spells below Tier 20 required. But those that stuck through and mastered the skill saw significant spill over into the rest of their arsenal.
+
+Their spells were faster, cost a little less mana, or went that little bit further. It didn’t take long for people to realize that [Hardlight Armor] wasn’t just a mediocre Tier 0 armor skill, it was a treasure trove of skill improvement daylighting as an armor skill.
+
+Matt and the others had been the test bed for much of the training, as they’d been ‘rushed’ through an accelerated program under Luna’s exuberance at finding a new method. They hadn’t struggled to learn it or gained that much out of it, as they’d long since mastered the skills [Hardlight Armor] forced its casters to develop.
+
+For mortals? It was a panacea of training they only needed to work at.
+
+Those first generation [Hardlight Armor] wielders had blossomed into a million interesting variations and offshoots.
+
+Like the one in front of him.
+
+The Tier 15’s armor flowed and reformed in an elegant rhythm, each new variation of the armor different, showing the children different shapes and styles. Only a few of the older ones managed to fully condense their armors, even for a moment. No, most of the solidified light moving around the park’s trainees was in the ‘cotton candy’ state. Solidifying the light around them was the first and one of the hardest lessons [Hardlight Armor] demanded of its casters.
+
+From there, they’d need to get the skill to form a useful armor on themselves, then move up to forming it on their team's tanks. But those steps usually came quickly once the basics were mastered.
+
+It was good training, and while he had a few minor comments the teacher failed to address which he felt might help a few of the stragglers, he held himself back. [Hardlight Armor] was a bear of a skill, and as much as the kids would hate to hear it, endless repetitive practice was the best teacher they could ask for. There were tips and hints, but they were all supplementary to burning through their mana pools day in and day out.
+
+The caster needed to take the light they’d corralled and then solidify it in an instant. A lot of people described it as clenching a muscle, but Matt had always seen it as a crystallization. Whatever the mental image one used, most casters could only manage that for a brief instant. Just enough to block a single blow, but that was all that was needed.
+
+Most casters, even Tier 1’s, could hold the spell longer than the recommended moment, but both the spiritual strain and mana cost scaled exponentially. Instead, it was much easier for the caster to pulse the skill, letting the light reform into its cotton candy state before solidifying. Done right, it became a dance of forming and dispersing between hits.
+
+And for any backline fighters who mastered the skill, [Hardlight Armor] made them a very welcome addition to any team. Healing skills hadn’t made the jump to Tier 0 despite many, many attempts, leaving only a select few skills to fill the gap.
+
+After he’d watched his fill, he stepped to the next city, wanting to see what it had to offer before he got too distracted. However, the answer wasn’t much, and that fact essentially made his next choice for him.
+
+Having gotten what he wanted out of the Tier 28 world, Matt slipped into the queue for the teleporter wearing an illusion so he could chat with those moving between worlds. The largest group were clearly delvers, but that was to be expected. They typically had the most disposable income and could more readily afford interplanetary teleports.
+
+Most were below Tier 15 and wanted to leave the higher Tier world where competition was fierce. It was a smart move, but also a risky one. Those without the required self discipline could all too easily find themselves settling down on one of the low Tier worlds before they knew it. From his perspective as both an individual and as a duke, Matt didn’t see that as a bad thing. Those same people were statistically more likely to die in their pursuits of advancement than not, and reducing delving deaths had been a grueling process with little success.
+
+On the other hand, for those with the necessary grit and determination and to keep advancing without the constant reminders of living on a high Tier world, it was absolutely the right call. Moving to a lower Tier world from a higher Tier one came with significant advantages.
+
+That had been true when he was on The Path with Liz, and it was true even today. Without so much competition they could acquire delving slots on the cheap while spending less for accommodations, while also having access to better gear than was normally available on lower Tier worlds.
+
+That, more often than not, resulted in slightly faster advancement, which bred its own host of problems, but Matt chose to believe the group traveling with him today was better than that. Not because he knew them or trusted in the goodness of humanity; they simply seemed like good people and he preferred to support that and them.
+
+The other largest group of travelers were more ordinary folks who needed to move between worlds for their own personal reasons. Most were immortals, as they were also the demographic who could regularly afford the costs of interplanar travel, but that wasn’t a hard rule.
+
+It wasn’t that mortals didn’t travel, but as Matt remembered from his own awakening days, trying to save up enough to use the teleporter for a normal civilian was years of effort just to afford the single ticket. Lily’s economic situation hadn’t been exactly average for a low Tier world, but it hadn’t been that far off the mark either.
+
+As part of Manny’s internal construction projects, the Empire had spent a considerable effort to tackle that reality. Their solution wasn’t ideal, but the two part approach did work. The first was the most simple, and that was subsidizing the creation of in system teleporters used to move the population to the outer system and back. Such discounts were typically one time deals meant for people to semi-permanently relocate, but few people actually wanted to reside on barren, out of the way moons when there was a populated planet nearby.
+
+The Empire’s second answer was ships. Plain and simple multipurpose ships that could travel through real space as well as chaotic space alike.
+
+Early in the internal construction efforts, Frederic’s kingdom had been used to build close to a hundred grand shipyards that then spent the next two thousand years pumping out low cost, medium sized, multi-purpose ships. Thirty eight of them were still doing exactly that, but the rest had been decommissioned entirely, repurposed into maintenance, or outfitted for more general space based work.
+
+What the new ships lacked in instant movement, they made up for in dirt cheap long term operating costs. They did so thanks to using the latest generation of travel mana engines and all of the most efficient auxilty systems on offer.
+
+Manny had, through a master class in diplomacy, networking, and his ability to strike a deal, managed to get the three Tier 45 ship design groups to merge their patents for the project.
+
+Matt, along with everyone else who had an inside scoop on the Empire’s high Tier politics, didn’t really believe things had been as easy or simple as the news reports had made it out to be. However, according to what he was able to dig out of the Emperor’s systems during his visits to the palace, Manny had done exactly that, rather than putting a Tier 50’s unique brand of pressure on the groups as he would have been tempted to do.
+
+Matt knew those companies and their leaders. They were not inclined to play nice with each other. In fact, he’d have bet his Talent on them self sabotaging if there was even the smallest chance of harming one of the others. All three had done so at various times before.
+
+Despite his attempts he’d learned nothing to prove such speculations even as he looked around the palace’s various databases. Those explorations of Manny’s servers served two purposes. First, they were a good way for Matt to test his various hacking skills in a real, but safe environment. Secondly, he knew they irritated Manny, and doing so when summoned to the palace against his will helped keep the requests to a minimum.
+
+When everyone was bunched in and waiting to jump and too cramped to talk, Matt took a look at a special account he’d registered on every PlanetNet. It was full of questions, but he’d expected nothing less. That was its intended purpose after all.
+
+Most were simple well-wishers or fans, and he just let his [Actual Insight] mull over those. He personally went over what he considered ‘real’ questions.
+
+There wasn’t much of a pattern between them, just that the people were genuinely asking for help or advice. He didn’t really care about the person's Tier or how long the question had been waiting, though he did prioritize the mortals still alive.
+
+A lot of the questions were delving or combat related, because that was what he excelled at. A few of the messages were trying to use him to settle some bet or argument, but he didn’t mind, so long as they were actually interesting. That crown went to the class of academy students who were comparing how various rift bosses would fare against each other, and couldn’t come to anything close to an agreement.
+
+The sixty page report he sent back to them was probably a bit more than they asked for, but the bosses they’d chosen had actually been interesting match ups. Their individual peculiarities added a lot to the thought experiment, and he had fun digging in and playing things out.
+
+Despite his best efforts, Matt still found himself with several agonizingly long seconds on his hands before the teleporter cycled and he arrived on the nearby world before people could realize he’d been there. It was only Tier 20 and didn’t have anything that made it stand out beyond a few rifts he recognized as ones that Titan’s Torch sold, but that only made him hurry to the next world.
+
+Of course, he cleared out the inbox before he left, but part of his deal when starting the venture had been an acknowledgement that once he started doing it, he needed to continue for his entire trip. He hated the reason why that was the case, but ultimately, he agreed because the alternative would have been stopping.
+
+As much as he detested bureaucracy and subterfuge in equal measure, he didn’t need an expert to explain that leaving a trail of answered questions also left a very deliberate path for people to track. If he needed to disappear and move quietly, they could spread misinformation by simply answering people's questions where they wanted people to think he was.
+
+Matt found a lot more enjoyment in his trip as he reached the edge of the duchy and the planet's Tier dropped. He hadn’t worked in this region in particular, but the work became familiar as he’d helped do one part of the process or another on similar low Tier worlds.
+
+A quiet, small part of him took a special kind of enjoyment as he entered the first Tier 8 world. He picked it because he knew what it was, but seeing it still made him want to jump for joy.
+
+A world that only a few thousand years ago would have been nothing but another pit stop on the path to Tier 15 and higher, was now a destination in its own right. The world was bustling.
+
+Young cultivators were everywhere, but that was no accident with how the Empire shipped anyone willing from the kingdom capitals out to such places. That didn’t diminish the fact that the world was alive in a way he normally only saw on Tier 15 and above worlds.
+
+Aura had started as an important resource, but it had eventually grown into a necessity no Great Power could live without. In the abstract, it was a trade good of immense value. Rather than think about things that would circle back to Elliot, Matt focused his investigations onto the people and systems.
+
+While it wasn’t what he’d pictured as a young man, aura worlds had turned into delving paradises.
+
+While not all of the world's rifts had been converted into aura rifts, they’d pushed right up to the maximum fifteen percent the Empire had eventually mandated on central worlds. Moons and other planets that weren't the highest world were fair game, but they’d had to take steps to ensure overzealous nobles didn’t ruin their world’s essence cycles chasing short term profits. Thankfully, the worst of such cases had been caught early by their respective dukes, but it was a symptom of the larger problem.
+
+There was never enough aura to go around.
+
+Contrary to what Matt would have guessed at Tier 6, aura concept potions weren't the highest demand for aura, it was enchanting. While the potions were a one time use for most people, every few decades a new enchanting method sprung up that cascaded into more areas benefiting from aura.
+
+What were once faceless planets easily handed over, Tier 5 to 14 worlds, as with all planets with significant aura production, had become important. While all of the Great Powers had spent enormous sums to entrench at least part of their aura infrastructure into higher Tier worlds through the use of newly introduced worlds or outlining moons, all of that was still more difficult than simply using already existing Tier 8 worlds.
+
+There had already been three border skirmishes between the Great Powers due to aura appropriate nodes drifting near borders. It didn’t take a genius to extrapolate that when the wars started those worlds would become high priority targets for capture and control.
+
+Realizing there was no escaping from his work, Matt used an army system to try and locate Allie. While not perfect, it should have tracked Allie’s estimated location based on her previous known locations. Its intended purpose was to allow for faster direct message transmissions, and that was weirdly enough, exactly what he wanted to use it for.
+
+Except, its confidence rating was zero percent, telling him that she’d blown off official work.
+
+Normally he’d respect her wish for privacy, but if he was done with his trip, he needed to go and investigate Vanessa Roadings and learn exactly why she’d taken the blame for Aurelius. The man had never seemed to intentionally use fall people, at least not as far as Matt could find, but he still wanted to check before challenging her sentencing.
+
+With no other recourse available to him, Matt tapped into the Ascender chat and private messaged Allie, sending her his location. He’d chosen this planet because he knew she had a waypoint on it, and he now needed to get to Rusty’s kingdom, which would take months of travel even with his personal ship and flying at full speed.
+
+He didn’t have enough time. He had his appointment with Vincenzo in three months and he wasn’t going to allow the man to delay their meeting any longer, which meant he needed Allie if he wanted to investigate first.
+
+And he did.
+
+When he didn’t get an immediate response, he began to rapidly message her over and over even as he locked space down with his Domain and two spells in preparation for what was about to happen.
+
+He’d only messaged her two hundred and forty seven times before she appeared, dagger out and yelling, “I was mid dance with a pretty lady and her prettier boyfriend, so if you don’t have a very good reason why you interrupted my fuck, we are going to have to fight!” Then as she realized he was locking down space and she couldn’t pull them somewhere, her glower turned thunderous. “I don’t have all day. Tell me where you want to go or I’ll stick this dagger in you.”
+
+“Someone attempted to kill me and I want to go see why someone took the fall for one of his previous murders. I figured you’d want to come along.”
+
+Allie fluttered her eyes theatrically as she processed his words, but he saw her anger vanish along with her blade.
+
+“You could have led with that.”
+
+Matt rolled his eyes, returning a glare of his own. “Don’t even get me started. I tried to message you through Empire systems. Even if it was slower, I would have waited to be nice. It’s not my fault you spoofed the trackers.”
+
+Allie was hardly apologetic. “Like I said earlier, I was trying to get horizontal. I didn’t want to be interrupted by people who only have access to that system. I didn’t turn off my Ascender Chat, but I also can’t answer while being distracted by a BILLION PINGS!”
+
+Her last words rang in Matt’s ear, but he only wiggled a pinky in it as if to clear it out. “Want to come with and check it out?”
+
+Allie snorted even as her skin tight teal dress was replaced with armor.
+
+“Of course I do, I can spare five minutes. I said I was going to the bathroom so I have that long at least. Let's go. Come on chop chop, drop the locks.”
+
+Being bought out of the war meant they didn’t need true top of the line gear, as the armor was more likely to be used for delving than fighting other people, but that didn’t mean the armor she’d been provided with was bad. It had still been made by the army’s best crafting teams, and he took a moment to appreciate how good their work was. Even if they hadn’t used an absurd amount of Natural Treasure in the armor's construction it was better than what any normal Tier 35 could get their hands on.
+
+Sadly, most of that excellence was Talent tech, and he had no desire to chase that particular dragon. Or raven, whatever the metaphorical pinnacle may be. Not when there were so many other more interesting things to investigate.
+
+Finding Vanessa Roadings wasn’t hard. Her prison was on record, and Allie had a waypoint only two nodes away, letting them get there in under a minute.
+
+When they were outside the ink black space station settled in the system asteroid belt, Allie turned to him and asked, “How do you want to handle this?”
+
+“Are you sticking around?”
+
+She answered his question with a question of her own, furthering the chain. “How long do you think this is going to take?”
+
+Checking the records only took a second, and he saw that the prisoners were midway through their work cycles. It only took him a minute to find a good enough reason to bring them all back in that wouldn’t raise alarms, either internal or external. One reminder to the tracking AI that it couldn’t delay its self diagnosis and cleaning cycles any longer, and all of the prisoners were rerouted back to their cells for an impromptu day off.
+
+“Less than five hopefully.”
+
+When he was done, he sent Allie Vanessa’s cell location along with the rest of the information she’d need to bypass the security.
+
+Her response made him grin right back. “Let's go! I'll play the angles?”
+
+“Sure. I—”
+
+Before he could say another word, he found himself inside the very location he’d just given Allie.
+
+Pulling out the desk chair, he sat down even as he covered himself in an illusion to hide that fact. He couldn’t see or sense Allie, who vanished as fast as they’d arrived, but he didn’t expect to.
+
+Knowing her, she was most likely hiding in a spatial fold despite the prison's passive spatial locks that should have made that impossible. Despite being a prison for Tier 25 to Tier 35’s Matt and Allie had no problems hiding themselves from both the guards and the various sensors scattered through the place. Even if Luna hadn’t forced him to learn how such systems worked well enough he could avoid them, Allie was more than capable enough to manage for both of them.
+
+When Vanessa Roadings entered the room, Matt was almost taken aback by the smile that blossomed on her face when she thought she was alone. She was almost cheery as she threw herself onto the bed, which only served to confirm all of his suspicions.
+
+The Tier 26 took a deep breath, her face buried in her pillow before letting it out as she pushed herself up.
+
+The look of calm vanished as she saw him sitting at her desk, replaced by a wave of fear and then terror. Her eyes darted to the single, now barred door, and he saw her eyes go wide as she tried to use her [AI] to contact the guards.
+
+Matt shook his head faster than was normally polite. “Don’t waste your time trying to reach out for help. I’ve already blocked all forms of communication in or out, and I’m monitoring the prison security alerts in real time. I have no intention of hurting you. I may even be able to help you. I can see you know who I am, so let’s skip that if you don’t mind. I’ve come across good evidence that you didn’t kill Bekka Daw, yet you admitted to and took the fall for her death.”
+
+He let the statement hang in the air as he watched her think. With a nine Tier gap, he could almost read her thoughts, but he was still surprised when she tried to deflect. “Even if you have evidence I didn’t, I could have done other things that deserved prison. I’m content here.”
+
+There was a silent ‘please go away’ tacked onto the end, communicated only through her eyes, but Matt pushed a little deeper. He didn’t need his [AI] to tell him Vanessa was hiding something, but he truly wasn’t here to harm her any more than she had been already. He might not agree that prison was the best place to escape to, but he wouldn’t forcibly pull her out against her wishes.
+
+“Why don’t you try me and then we can go from there?” Matt kept his words firm, but as inoffensive as he could. He was trying to give her the opportunity while conveying that he could handle whatever was wrong.
+
+Vanessa shook her head almost instantly. “I honestly can’t tell you much even if I wanted to. The truth is I saw an out and I took it.”
+
+“Your history doesn't indicate you were into anything shady, though your early years are a bit…” Matt let the word linger on the tip of his tongue before finishing, “vague. I wouldn’t call it nonexistent, but it's fairly obvious it's a fake history. It’s neither the first time an immortal has reinvented themselves nor will it be the last. That might earn you a fine, but so long as you aren’t actually wanted for heinous crimes, it’s not an offence anyone wants to track down, so if that’s a concern, it shouldn’t be.”
+
+Instead of growing calmer, Vanessa’s vitals started to spike in a very clear stress response. He watched as she went straight from calm and collected to a full on fight or fight response. Several aborted twitches gave away just how much she wanted to escape.
+
+Matt leaned back while lowering how much he projected himself, trying to give her space to breathe. He hadn’t expected her reaction to be so fierce, but such hints and clues were only increasing his desire to dig further.
+
+That might be a masterclass in bodily control from Vanessa, but he was fairly confident she was being genuine.
+
+“It's really not. I swear I—” Something, maybe her word choice, seemed to catch her off guard and the sound stopped. It didn’t resume until she’d met his gaze with a gaze he knew from his childhood. A look of horror only children who grow up far too early can have.
+
+After a long and heavy breath she started speaking. “I really don’t know much. However, what I did know was more than enough to make me want to get out. I was born on a world I can’t find on any star charts. Not that I looked beyond using my eyes and brain, but it's not anywhere. Anything else would be far too dangerous, as I can’t trust my AI. They raised us to be loyal soldiers infiltrating the Empire and tear it down from within. I can’t say if it’s another Great Power directly or someone else, though I have my suspicions.”
+
+The silence lingered for long enough Matt nearly stepped in when she continued in a whisper. “As a kid, I did what I had to do to survive. I don’t take pleasure in that. I hated it. However, once I was embedded out here in the ‘real world’ I started to have my own thoughts. Our minders were always on the look out for such cracks in the facade, but I was smart enough to realize that even my AI might be compromised, and with it, my surface level thoughts. The only thing I could trust was my deepest, most private thoughts. I’d love to say I had an escape plan, but I didn’t. At least not one I thought would work. So when I was pulled in for questioning, I took a chance and confessed after I’d gathered enough information about Bek’s murder through the questioning to pass it off as genuine.”
+
+Vanessa snorted as she wiped silent tears away with a thumb. “I knew I was doing her a disservice by letting the real perpetrator get away, but I didn’t know what else to do. She was already dead and I was selfish.”
+
+Given that Vanessa and the deceased had been good enough friends to get her pulled in for questioning, he didn’t doubt that. Instead, he tried to offer some amount of comfort. “It seems to have worked at the very least. My goal here isn't to make your life worse, just right some wrongs.”
+
+Vanessa laughed darkly even as she shook her head. “Worked? no, not really. About a week into my stint here, my handler was sitting in the same place you were. They made it clear that when I got out nothing would have changed. I just want to spend my time here relaxing, I don’t want to be pulled back into this before I have to. Please just leave me here.”
+
+That accusation nearly sent his eyebrows into his hairline even as he went through databases looking for the records of her cell in the indicated timeframe. There was nothing to indicate the data had been tampered with beyond Vanessa’s mood plummeting one day and not recovering for years afterwards.
+
+Matt met Allie’s gaze as they silently questioned what they’d stumbled upon.
+
+Wanting to dig deeper, he asked, “What’s your plan then? Fight a guard to extend your sentence near the end? An escape attempt maybe?”
+
+From the sheepish look on her face, Matt was confident he’d hit the nail on the head with his first guess.
+
+Taken at face value, Vanessa’s story wasn’t that strange, but combined with the threat of infiltrators, things suddenly became far more interesting. Given her age, Tier, and the fact that she had a ‘handler’ overseeing her despite the first two things, meant whatever Vanessa had been a part of wasn’t some small private grudge.
+
+That was very strange.
+
+Matt was already searching through his internal databases and tapping into local ones when he got a priority message that overrode every single one of his mutes.
+
+One of the few that could do so after his Insight.
+
+A preloaded message from Manny. “Stop investigating whatever you are looking into and come see me. Immediately. If this message was triggered by speaking with someone, shut down your senses and flee. Don’t ask questions, do not hesitate.”
+
+Matt hesitated long enough to check, but he confirmed that it was one of his searches that had triggered the alert, not something Vanessa had said. Even then he didn’t disregard the warning.
+
+Standing, he brushed his pants off and nodded to Vanessa, who only seemed confused even as he built a backdoor into the local PlanetNet to warn him should anything change about her situation.
+
+“I appreciate your talking to me and I’ll look into what you said, but I don’t want to make things worse. I’ll back off for now, but if you change your mind or realize you remember some new piece of information, reach out to me.” Before she could argue, he added, “It will work and they won’t know unless you give something away.”
+
+Offering his hand, he was amused as she struggled to build the willpower to reach out and take it. One pump of their hands later, Matt and Allie vanished and appeared in Manny’s office.

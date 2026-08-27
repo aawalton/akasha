@@ -1,0 +1,167 @@
+---
+id: da5a9811-e7a8-5fb5-ba55-2e5b4dabfbed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1263 - How To Train A Generation"
+slug: 0136-chapter-1263-how-to-train-a-generation
+partOf: the-primal-hunter
+position: 136
+ownLength: 3075
+unit: words
+ownProgress: 3075
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3091513/chapter-1263-how-to-train-a-generation"
+royalRoadId: "3091513"
+markedReadAt: "2026-06-29T19:35:17.769Z"
+---
+
+The final push to B-grade was the main topic dominating the ninety-third universe in recent months and years. As more closed in on evolution or even evolved, their Records echoed throughout the multiverse, making it easier for others of the same generation to do the same.
+
+Throughout history, many scholars have found it odd that those of the same generation who competed in D-grade often ended up roughly equal in level even when in A-grade. The eventual explanation was naturally found in the way Records worked and how they affected the direction and development of the multiverse as a whole. Periods rife with Records led to faster growth for everyone, while periods with lulls led to slower growth for everyone.
+
+This was also why the level pace seemed to quick in a period like just around the integration of a new universe. Taking a few hundred years to go from D to C-grade was considered pretty decent in regular times, but in a period like this, most accomplished it within a century easily. Considering half of this century would be spent within Nevermore, it was a pace no one could compete with in regular times... except not really.
+
+Even during periods of calmness, geniuses emerged who rose to power with incredible speed. Despite a lack of multiversal Records sparking growth, they managed to progress at the same pace as during periods filled with Records. This naturally also confused scholars who tried to figure out how to optimize progressing in the multiverse, but the explanation was once more straightforward, and yes, was again based on Records.
+
+A genius had the Records to progress quickly on their own. They didn’t need the multiversal Records to boost their growth, but innately had more than enough to maximize their leveling speed and blaze through the levels and grades on their rise to power.
+
+Yet it also remained a fact that these multiversal Records helped even geniuses in periods of progress like the one the multiverse currently found itself in. However, the way they helped differed slightly. Rather than limiting speed, it functioned more like a rubber band, affecting experience gain only.
+
+When enough people got ahead, there would be a rubber band effect pulling those behind them forward by slightly increasing their experience gain, though, of course, if one got too far behind, it was easy to slip out of the band and lose this effect.
+
+Someone like Jake rarely benefited from an effect like this, as the gap never got big enough when it was just a few levels separating him and others. However, an entire grade difference meant that even Jake experienced a slight increase in experience gain, courtesy of those who had already evolved.
+
+Why the system even had an effect like this wasn’t much of a mystery either. Competition and rivalry were primary drivers of growth, so the system had an incentive to keep those who could challenge one another at roughly the same level. This entire period-based flood of Records was essentially just a meta-expression of relational Records that could always be found between those with close relationships. Just that, rather than being between friends, family, rivals, and enemies, it was across an entire generation, whose shared period of life linked them all together.
+
+These periods of high growth occurred many times in every era, though it was nearly always around the integration of new universes that it was truly multiversal. Other times, it was more region-based and could happen on smaller scales. Wars in galaxies, system events, or other significant happenings that brought many people together would create similar effects, increasing the overall Records of all those involved. And yes, this was another reason why the large factions in the multiverse enjoyed keeping a few good wars going... it was just that good for progress.
+
+Even if everyone knew how strong these multiversal effects were, many still found themselves surprised at just how powerful they were this time around. It was believed that every generation was defined by those who stood at its pinnacle, and during the integration of the ninety-second universe, the wave of Records was also immense due to the emergence of Yip of Yore and Altius the Blade.
+
+Yet this generation was stronger. The wave of Records was more powerful. There had been two leading figures of this generation, with Ell’Hakan and Jake Thayne, but now the latter had killed the former. With that, it should be unquestionable that the pinnacle of this generation was the Chosen of the Malefic Viper, but he was far from standing alone at the top.
+
+Just beneath him were several other standout figures. The first Runemaiden of Valdemar in many years, and the first from a newly integrated universe in eras. Two Ghost Kings in the same generation who’d even attended Nevermore together. Wintermaul, an elemental embodying the concept of ice and frost itself. The Eastbound Monk, a mysterious figure who’d proven themselves incredibly powerful in the Prima Guardian event. Lopas, a monster with equally as much mystery surrounding him, after his Nevermore performance. Even a new True Royal from the Endless Empire had appeared, and not that long after, the Cerulean Demon Prince who’d successfully absorbed the full Records of a god, spawned rumors of the Cerulean Devil’s return. The Demon Prince had already been just a single step behind Ell’Hakan and Jake during Nevermore, and now that he had evolved to become even more powerful, there was even speculation that he’d reached their level.
+
+And these were just some of the most publicly recognized figures. The rankings among the gods didn’t necessarily match the feats displayed in combat so far, but had as much to do with future potential. With some of these, the gods who even knew of their future potential were limited, even if many were already somewhat recognized figures in their own right.
+
+Eron, the Sword Saint, Sylphie, Arnold, Sandy, Jasper, along with dozens of other figures that were mostly unknown to the masses, but whom the gods were looking upon with interest. Even if Jake currently stood at the forefront of this generation, that didn’t mean he would be there forever. While being the strongest C-grade was impressive, it didn’t matter much in the grand scheme of things. Being among the first to evolve to B-grade was also just a minor detail.
+
+No, the only thing that truly mattered was who had the potential for godhood, and while no one doubted the Chosen of the Malefic Viper was on a fast track to divinity, he wasn’t even necessarily the one most gods would rate the most likely to achieve godhood successfully.
+
+Not even of the humans on Earth... but all things in due time. For now, the most crucial thing remained successfully evolving to B-grade while maintaining momentum, for if momentum was lost, it didn’t really matter if one had the potential in the first place.
+
+--
+
+While all the younglings were busy trying to reach B-grade, the older folks were also doing their own thing. The bait had been laid a while ago, and now, finally... someone took it.
+
+“I got it,” Eversmile said with a nod.
+
+“Faster than expected, which makes me assume the god on the other end isn’t that impressive,” Vilas smiled as he looked at the frozen D-grade.
+
+Time had been stopped in their immediate area as the two of them looked at the young woman who’d attended Jake’s lesson a while ago. She had been just another face in the crowd and had not stood out in the slightest.
+
+“Do you know where she came from?” Eversmile asked. “Her karmic connections are normal, though slightly lacking for a D-grade. None of them are particularly strong.”
+
+“Joined the regular way as a wanderer. Did the tests, passed everything with a middling evaluation, and only started to show promise after entering my Order. Just enough promise to be noticed, but not enough to truly draw attention to herself,” Vilas answered.
+
+Eversmile nodded. “A good candidate to spy for some unknown faction.”
+
+“Seemingly so,” the Viper agreed.
+
+All efforts to figure out who had been behind Jake’s ambush in the void had been in vain so far. The other factions, who were aware of the ambush, and this unknown faction had started making lists of other gods who had gone missing without bodies being found, but there were just too many names. The Holy Church also located two spies who were confirmed to be affiliated with this unknown faction, but they were only discovered to be spies posthumously.
+
+This was the first time they had a live connection, and the Viper wasn’t going to waste it. Waving his hand, he encompassed the D-grade girl’s body in a green crystalline material before forcibly teleporting her into his realm for further research. For now, they had more pressing matters to attend to.
+
+“Let’s go,” Vilas said, getting a nod from Eversmile as the other Primordial proceeded to open a portal to their destination.
+
+The two of them walked through it and appeared in an empty section of space within the fifty-second universe. An utterly inconspicuous space, far away from anything of note, and a perfect place for a solitary god to enjoy spending time alone... or somewhere to hide away while part of some unknown faction.
+
+They had gone there after tracking who the D-grade girl had communicated with. She had set up a very simple-looking ritual, but with the Viper actively observing, he noticed something odd about it. It didn’t emit any noticeable energy, and when Eversmile saw the ritual, he also agreed it was weird. It relied on some concept or magic neither of them was familiar with, which was enough to confirm that she was likely the one related to this unknown faction.
+
+This was further reinforced when the ritual ended, and the message was successfully sent. There were no remnants of energy or even karmic traces left behind, perplexing the two gods once more. Fortunately, as they’d observed the entire thing, Eversmile had managed to track not the delivery of the message, but the very faint karmic connection that was formed when the D-grade thought of the person she wanted to receive it.
+
+Using this as a guide, and after they froze time in the D-grade’s room, Eversmile had fully tracked the message to this empty part of space.
+
+“Hiding in a fold in space,” Vilas said after quickly scanning the area.
+
+Eversmile didn’t wait as he tore a hole in spacetime, motioning for them both to enter the rift. All things considered, it was a pretty low-level method of hiding, but it tended to do the job as long as no one combed the area thoroughly.
+
+Passing through the crack, the two Primordials found themselves in a small space where a single figure sat on a floating stone in the middle of nothingness. Vilas immediately recognized the person sitting there.
+
+He was on the Altmar Empire’s list.
+
+Despite seeing their target right in front of them, neither Primordial made a move as they both immediately felt it.
+
+“He’s dying, or perhaps more accurately, he’s already dead,” the Viper sighed as he nevertheless teleported over alongside Eversmile, appearing on each side of the slouching figure.
+
+Vilas’ eyes had a dark green glow as he observed the god, and the elf’s soul was laid bare before him. It was broken in so many ways. Fragmented. It was as if a part of his soul and even Soulshape had been torn away shortly before they arrived.
+
+“Nothing,” Eversmile frowned. “Not a single karmic connection... he’s not even passively forming one with us as we’re standing here.”
+
+“In other words?” Villy sighed.
+
+“He’s already dead, even if his body continues to display signs of life,” Eversmile shook his head.
+
+“Hm,” the Viper tilted his head as he watched the elf’s soul slowly fall apart, nearing total collapse. “Let’s see if this works.”
+
+Raising his hand, the Viper emitted a dark green glow as he activated Touch. He directly affected the smoldering soul of the god, not seeking to mend it, as they were far past such a thing, but instead seeking to amplify at least one aspect of what remained: the god’s consciousness.
+
+Forcibly, the Viper pulled out the last remnants of what had once been capable of producing thought within the broken vessel and forced it to the forefront. The elf’s body finally moved as he leaned back, letting out a silent scream before turning entirely still.
+
+And then he spoke.
+
+“This... no... what is this place? Why am I here? Wait... oh...” the elven god mumbled to himself, his eyes darting around even as his body was unable to move. Despite clearly looking at both the Viper and Eversmile, he didn’t seem to register them as he continued just mumbling to himself.
+
+Vilas continued pouring in energy, trying to gather any thoughts or impressions that still persisted within the shattered soul before it suffered total collapse. Finally, the Viper caught onto one powerful thought and forced it forwards.
+
+The elf suddenly smiled. “I see... we are one.”
+
+With those words, the remnants of the elven god’s soul dispersed, but both of them noticed something as it did... something that made both of them share a look of confusion.
+
+Upon the elf’s “death,” no Truesoul had returned to the system... something that should by all rights be impossible unless they weren’t dealing with an actual creature, but instead something more akin to a summon, Guardian, a clone, or anything in that vein. Perhaps even something neither of them had even heard of before sharing similar properties.
+
+Vilas frowned deeply as he and Eversmile continued sharing a look.
+
+“Let’s hope that D-grade can offer some more insight,” Eversmile said, his smile growing wider as he clearly found the situation incredibly perplexing. While the Viper wasn’t a big fan of a mystery like this, he knew the Primordial of Karma lived for it, and a scenario like this, one he didn’t at all understand, was the biggest treat of all.
+
+“Yeah... let’s,” the Viper muttered as he teleported into his divine realm to see if their dear captured D-grade would indeed be a better source of information.
+
+--
+
+“You brought more?” Miranda asked in a tired, resigned voice.
+
+Lillian nodded as she took out the bag containing a spatial storage within. The kind that wasn’t Soulbound but was specifically made to deliver goods like this.
+
+“How many this time around?” the poor witch continued asking despite not really wanting to know the answer.
+
+“More than last time,” Lillian shook her head. “Should we just put these in storage for now? With the complaints we’ve already gotten, distributing these...”
+
+“Let’s just throw him under the bus if anyone complains,” Miranda waved it off. “Hand them out to explorers and adventurers working for the Council who are still charting the unexplored parts of the planet. We’ll get complaints, sure, but if they know the source, will they really dare make too much of a fuss?”
+
+“They’re merchants,” Lillian said with a deadpan expression.
+
+“You’re right, they’re totally still gonna make a fuss,” Miranda resigned herself to dealing with the incoming complaints about market manipulation and distorting competition.
+
+Lillian had gone by Jake’s place earlier and taken his latest batch of potions, which amounted to over a thousand bottles total. It wasn’t the first time she’d done this either, and quite frankly, Jake’s level of production was frightening and indeed capable of distorting the market.
+
+Not only were his potions better than what others could craft, but he also provided them entirely for free. Alchemical goods were a massive market across the multiverse, and one of the reasons why the Order of the Malefic Viper could remain a neutral faction and maintain cordial relationships with most organizations in the multiverse was due to its alchemical prowess.
+
+On Earth, the Noboru Clan was the foremost producer of potions and other alchemical ingredients, in part due to the alchemists Jake had taken with him to the Order of the Malefic Viper. Reika, the great-granddaughter of the Sword Saint, led their alchemy efforts and was quite skilled, as far as Miranda could tell, but compared to Jake, she unsurprisingly still fell behind.
+
+All the merchants handled the actual trade of these potions, and with there always being a high demand as no one wanted to walk around without at least a few good potions in their pockets, it was a reliable market. That’s why the merchants were more than a little miffed when many of their high-end customers suddenly stopped buying as Jake personally flooded the market with potions as he gained those last few levels to evolve to B-grade.
+
+It had struck Miranda as odd that a single person could have such an impact on the market, but after doing some research, she learned why: Jake was simply too consistent and efficient with his alchemy.
+
+Regular alchemists failed quite often, even with crafts they had done many times before. It wasn’t odd for even the most skilled alchemists to fail even something as simple as a batch of health potions, as any minor mistake could mess up the entire brew.
+
+Moreover, the quantity produced in every batch varied widely. Alchemists could theoretically create massive batches of potions and poisons, but the more content was involved in the crafting process, the more likely one was to fail. As a further reason, failure meant all the ingredients would go to waste, which was why alchemists tended to stick to their relatively small pots.
+
+Jake... broke convention as was almost customary by now.
+
+“I want to confirm he’s still using that big thing?” Miranda asked, just to make sure.
+
+“Without it, could he do this?” Lillian asked, shaking her head.
+
+“No... no, he couldn’t,” Miranda sighed yet again while looking at the potions Jake had just generously dropped on her desk. There were thousands, and worse yet, she knew he was going to drop off a similar batch – if not an even larger one – next week. At least he would, based on how his production had only increased over the last year or so he’d spent pumping out potions.
+
+In the first four months, his output had been good, but not market-distorting. However...
+
+Miranda leaned back in her chair and looked toward the ceiling. “It all started when he got that damn Soulflame...”

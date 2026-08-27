@@ -1,0 +1,217 @@
+---
+id: 274be117-0628-5831-a93b-ecdd3d6824d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6"
+slug: 0006-chapter-6
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 6
+ownLength: 2139
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525546/chapter-6"
+royalRoadId: "2525546"
+---
+
+Tachyon took stock of the wolves surrounding her, five at the front in view, and several more she could hear behind her, but did not want to turn to confirm.
+
+While she didn’t feel any danger from the wolves individually she wasn’t so confident to think five of them couldn’t harm her together.
+
+Activating her Blood Doping skill she raised her stats right away. She needed to whittle down their numbers before she could take on the larger wolf.
+
+And this was also a perfect opportunity to try out her magic in a fight.
+
+Right as the thought crossed her mind, the wolves behind her attacked, the sound of their paws kicking up dirt and their hungry growls filling her ears.
+
+However, she was prepared for it.
+
+Using her After Image skill, she ran forward, leaving a mirror image of herself as she was temporarily concealed. The wolves passed through their supposed prey confused.
+
+Tachyon continued forward, her forelegs glowing in a faint red as she activated her Leg Strength skill, rearing backward she raised her forelegs. And with one leg each, brought them down on two separate wolves.
+
+You have killed, Timber Wolf Level 7. Experience earned.
+
+You have killed, Timber Wolf Level 6. Experience earned.
+
+The confirmation of the kills rang in her ear as she came out of her temporary stealth, the yelps of the surprised wolves announcing her.
+
+Tachyon looked around, seven more to go and the one big one.
+
+She willed her magic to come to life, four small white light balls sparking into view and hovering around her.
+
+Pawing at the ground, she raised her head and nickered, willing the lights to each hit one wolf.
+
+Two wolves jumped, dodging the lights just in the nick of time. Two more were so confused they stood awestruck until the lights collided with them.
+
+At first there was nothing after the impact, however, a moment later the magic illuminated within them and burned a hole out of the other side of where they were struck. Popping them like a balloon.
+
+Tachyon shook her head in more surprise than anything. She had seen magic before but nothing that would explode something from the inside.
+
+Regardless, that was two more down and five to go. Tachyon resummoned four magic light balls and began feeling fuzzy. Telling her she was getting close to using up all her mana again from overuse.
+
+She would have to use the magic sparingly until she got a better hold on its limitations and just how much she could use it without exhausting herself later.
+
+Looking back at the white pillar, it was still guarded by the largest wolf in the pack, bewildering Tachyon.
+
+Why won’t he help his friends? Is that pillar that important? She thought a little annoyed.
+
+She was thoroughly confused. Was it just going to let her kill the entire pack before it did something?
+
+Tachyon had never had friends before, she was never really allowed to. But then again it didn’t bother her much because she was so preoccupied with escaping to make any connections with anyone outside her mother.
+
+But if the large wolf wanted to throw the fight, it was fine by her.
+
+The five surrounding wolves were now more hesitant to attack, uneasy now that they had seen how much stronger Tachyon was with her magic and skills.
+
+She pressed her advantage, using her Light Charge skill, she threw her body into one of the wolves. Colliding with the monster less than half her size, she hit it like a runaway train, sending it flying off into another wolf.
+
+You have killed, Timber Wolf Level 7. Experience earned.
+
+The first wolf was killed immediately, the second one was clipped in the head by the flying body sent at it faster than it could react. Knocking it out under the weight of the other wolf.
+
+The wolves behind Tachyon lunged forward, hoping to take her by surprise now that she was turned and blindsided.
+
+But unfortunately for them, she told the little balls of light to cover her backside.
+
+Two wolves jumped to attack her, and two wolves were met with balls of light magic slamming into them.
+
+The magic held no weight, it seemed as they passed into the wolves. However, they seemed to at least hurt when they collided with the wolves. As it stopped their attack mid air, but their bodies continued to jump forward and slam right into Tachyon, jostling her slightly.
+
+She scrambled to get away from the wolves as she remembered what happened to the others after they were struck by the magic. And just in time she was far enough away as their bodies splattered the ground red.
+
+You have killed, x2 Timber Wolves Level 7. Experience earned.
+
+Congratulations! Your race level has increased to 12. +4 to AGI, +2 to MAG and STAM, +5 Free Points.
+
+Now there was only one more wolf left of the smaller size and the large one guarding the pillar. Oh, and of course the one knocked out from before.
+
+Tachyon stared down the final small wolf, ready to stomp it into the ground just like it had done to the others. But despite not being a sapient monster, the smaller wolf was smarter than the others and quickly turned tail and ran.
+
+Now all that remained was the final larger wolf.
+
+Tachyon was still beyond herself, unable to comprehend why exactly this wolf would so fervently protect the silly white stone.
+
+But it didn’t matter, her goal was the small purple dots on the green feathery thing next to it.
+
+“You can run, or you can fight. It makes no difference to me,” she said firmly, pawing at the ground, ready to charge.
+
+The wolf only growled back in derision, its hackles curving upwards as it showed its pearly whites.
+
+Unfortunately for the wolf however, it wasn’t smart enough to turn tail and run, or strong enough to be a challenge for Tachyon as a F-Rank.
+
+She quickly activated her Light Charge once more, barreling toward the wolf at breakneck speed. Only this time instead of using her full body to slam into the wolf, she stopped her charge just before reaching it. Her two remaining light magic balls continuing forward.
+
+Surprisingly, the wolf jumped out of the way, dodging both balls as they sank into the floor. But the wolf remained between Tachyon and the white pillar.
+
+She had hoped that it would be a quick and easy win with her magic, but it would seem the wolf was somewhat agile.
+
+Taking stock as she faced off against the growling wolf again, Tachyon needed to finish the job quickly. Her Blood Doping skill would be falling of in the matter of seconds and though she was sure she would still be able to beat the wolf in the weakened state after. She was not looking to get hurt just because she was taking longer than she expected.
+
+Then she got an idea.
+
+This wolf was to protect and stay near that white pillary thing so badly. Let’s see how committed it is! She thought with a nicker.
+
+Tachyon’s legs glowed in a faint red as she activated her Leg Strength skill, galloping forward and charging right at the wolf.
+
+The wolf looked confused for a moment but nimbly jumped to the side and out of the way.
+
+However, Tachyon’s goal was not the wolf this time, but the white pillar behind it.
+
+The wolf realized her aim a the last moment, activating another of its own skills that bathed it in a dim green glow as it moved several times faster.
+
+Tachyon flinched as she felt teeth around her back leg, but she committed to her attack. Her legs raising up, she slammed them against the side of the pillar, toppling it over in one blow.
+
+You have captured a small Controlling Stone.
+
+You have received 10 control points.
+
+Experience earned.
+
+Congratulations! Your race level has increased to 13. +4 to AGI, +2 to MAG and STAM, +5 Free Points.
+
+Title Earned: Kings, Queens and Castles 1
+
+Registered as owner of section 3 Controlling Stone. Remaining in control of the Controlling Stone during daily reset will net +1 control points per day.
+
+Passive +1 to all stats due to ownership of Controlling Stone.
+
+Control Points may be spent at the end of the tutorial for items, equipment, skill manuals, and natural treasure evolution catalysts.
+
+Tachyon was bombarded with notifications that briefly rocked her vision. Then she felt a needling in her hind legs, remembering the wolf was still attacking her.
+
+She looked back at the wolf, its mouth still latched around her leg. Slightly disappointed that she was so wary of the monster, yet it was able to deal no significant damage, she summoned a trio of light magic balls.
+
+The wolf whimpered as its mouth slowly let go of her leg. But Tachyon knew better than to show mercy in a world of monsters.
+
+The light balls slammed into the wolf, a moment later the ground was painted red.
+
+Tachyon quickly ended the last unconscious wolf.
+
+You have killed, Alpha Timber Wolf Level 9. Experience earned.
+
+You have killed, Timber Wolf Level 6. Experience earned.
+
+And moved back to her prize with happy trotting steps. Or prizes.
+
+The white pillar had reformed somehow in the time she had finished off the rest of the wolves. And next to the white pillar was a small brown box.
+
+She looked at it dubiously. Tachyon ignored it for now, going to the small purple dots and plucking one of them from the green feathers with her tongue.
+
+With a small pop she felt the morsel fill her mouth with sugary sweet goodness.
+
+“Ahhhhhh, this is what freedom tastes like!” She purred. That was if horses could pur.
+
+Devouring the little purple dots, Tachyon gave out a satisfied sigh. A hole left in her heart that she finished the entire thing in one sitting.
+
+Her eyes were drawn to the small brown box next to the white pillar.
+
+Feeling full, bored, and more than a little curious she nudged the box with her nose.
+
+The top part opened at her touch, flipping wide open to reveal a small dazzling light that died down after a moment of blinding her.
+
+Blinking to clear the light from her eyes she tried to focus on what was inside only to see a color she had never seen before.
+
+It was lighter than red, but not as light as pure white. A mix of both but still seemed to be brighter than any one of the colors. Confused, she touched the object with her nose.
+
+The object disappeared and she felt something appear around her neck.
+
+Startled, she bucked trying to throw it off, but it was snuggly fixed in place. However, after a few minutes of attempting to remove it she noticed it wasn’t anything dangerous, allowing her to calm down.
+
+Then she noticed a notification.
+
+Hot Pink Salamander Bag of Holding [F-Grade, Rare]
+
++5 to Stamina and Resistance
+
+This bag allows you to hold items, objects, equipment and more within its spatial storage at its current condition indefinitely. It is also unrelated but it is extremely stylish and fashionable, which is also a bonus. Stay fabulous girl.
+
+Tachyon’s head tilted back and forth in confusion at the description.
+
+“So this color is Hot Pink?” she said, remembering the bright color from before.
+
+Thinking on the item, another window she hadn’t seen before appeared. A blank blue screen with gray empty spaces within it.
+
+Tachyon guessed this was where she put stuff into the bag, but how would she do that?
+
+Looking around, she spotted more small blue dots on green feathers. Moving over with excitement, she started to experiment.
+
+After a few trial and errors, she was able to place the blue dots, green feathers and all into the bag by touching it with her nose or body while thinking of storing it.
+
+Blueberry Bush
+
+A bush with many blueberry fruits attached. They taste sweet with a slight bitter aftertaste.
+
+Can be used in cooking, crafting and alchemy.
+
+Oh, so it's called a blueberry bush? Are the blue dots the bush or the blueberries? She thought curiously.
+
+She thought about taking out the bush and it plopped onto the ground in front of her. This time she pulled one of the blue dots off the bush and placed it into the bag.
+
+Blueberry
+
+A fruit that comes from a blueberry bush. They taste sweet with a bitter aftertaste.
+
+Can be used in cooking, crafting and alchemy.
+
+Tachyon smiled and looked back at the white pillar over her shoulder.
+
+“I wonder if there are more of these things? If I get more I can store more yummies!”

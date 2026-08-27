@@ -1,0 +1,145 @@
+---
+id: a8cd2838-0452-5697-9fa3-7f62a513536c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1365 - Nine(Ten)-Leafed Flower"
+slug: 0162-chapter-1365-nine-ten-leafed-flower
+partOf: the-primal-hunter
+position: 162
+ownLength: 2839
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3746634/chapter-1365-nineten-leafed-flower"
+royalRoadId: "3746634"
+---
+
+Twice in a short amount of time, the world had shattered, and twice they’d laid eyes on the Virtual Mind Devourer, though it appeared that only this time did they see it in its full glory. It was larger than the first time by several magnitudes, filling the entire sky, which did admittedly make the small, clawing Jasper look funny, as his tiny frame didn’t appear capable of doing much damage.
+
+Appearances could be deceiving, though, and it quickly became clear that the Virtual Mind Devourer wasn’t the toughest of creatures as Jasper tore into its jellyfish body, ripping out parts while yelling, even infusing his voice with power to make sure they all heard it.
+
+“Enemy! Hiding!”
+
+Jake and the others still stood and looked up, confused for a moment as more memories returned. When the Virtual Mind Devourer had “died” the first time, the vast majority of memories had returned to them, but clearly, not all of them. It had been a ploy by the creature to make them think they’d won and make them fight for the reward amongst themselves.
+
+Something that had worked far too well and would likely have ended with three of them dead if not for Jasper’s sudden appearance royally fucking up the plans of the jellyfish.
+
+Sharing a quick look with the Demon Prince, they were in agreement as both turned their attention toward the massive falling creature that looked like a meteor descending toward them.
+
+Shooting a barrage of arrows, Jake landed the first hit on the Virtual Mind Devourer after Jasper, with the three others following suit soon after, with the Chosen of the Heartsoul Daolord once more showing off just how frightening her Path was.
+
+“Crush.”
+
+The right side of the falling creature was suddenly squashed together, sending jellyfish parts flying as the attacks from the other three tore into the monster. Jasper, not wanting to be caught in the crossfire, disappeared and reappeared down with Jake and company, hissing up at the creature.
+
+Right then, the sky exploded with energy as the Virtual Mind Devourer fought back. All around it, energy condensed as it sent down a beam of pure mana towards them all, seemingly intending to crush them. It was a simplistic attack that, quite frankly, couldn’t even do any harm, and all it did was temporarily obscure the creature...
+
+Jake smiled as he looked toward the golden flower, the other three doing the same as they prepared to continue fighting for it. Only one of them could walk away with the reward, and-
+
+No.
+
+The sense of wrongness was too strong, and Jake immediately remembered what he was doing as he yelled.
+
+“It’s still alive!”
+
+He got looks from the others, and they appeared to doubt his words as he aimed his bow towards the sky and took a shot at an enemy he had somehow forgotten still lurked behind a newly constructed “screen” of false sky meant to hide it.
+
+Breaking through the layer, the creature was revealed once more, and the damage made its hold on the others falter for a mere moment, reminding them of its existence as they attacked without hesitation.
+
+Beside him, Jasper teleported into the sky and appeared behind the massive jellyfish as he clapped his paws together. An odd mist of shimmering energy manifested, and suddenly, reality seemed to shatter yet again. It proceeded to do so a dozen more times, the world a damn mess as the Virtual Mind Devourer floated there, taking their attacks, seemingly unable to defend itself.
+
+It also couldn’t hide anymore. Jasper had destroyed the several layers of space it had used earlier to slip out of their detection. It would hide in these layers and folds of space, only letting out its feelers while wasting their time absorbing memories for Villy-knows-what reasons.
+
+None of them let up their attacks as they continued tearing apart the Virtual Mind Devourer, which tried different things, but once it was caught like this, there clearly wasn’t much it could do. It truly was a lopsided creature Jake didn’t believe could even exist outside a virtual world, as its existence and Path made no sense. It seemingly had no offensive capabilities, but had every shred of its Records transfixed on the concept of sealing away memories and being in this trial.
+
+At least Jake genuinely believed that if a creature like this existed in the multiverse, its existence would be short-lived, and the species would be wiped out in record time, just like how this Virtual Mind Devourer finally died for good.
+
+You have slain [Virtual Mind Devourer – lvl 400] – Bonus experience earned for killing an enemy above your level
+
+Even with the notification and seeing the body of the Virtual Mind Devourer turn into blue wisps of energy that quickly faded away, Jake didn’t dare relax. Despite his intuition telling him the fight was truly over, he kept trying to focus and detect if anything felt amiss.
+
+Clearly, the other three were feeling the same way, and as they were all floating in the air, the magic that had been used on them by the jellyfish finally faded away fully, and...
+
+“What the fuck,” the Demon Prince muttered, cursing out loud as he entirely forgot his usual sense of decorum.
+
+Jake also fully understood why, as he internally muttered the exact same words.
+
+“This is... insane,” the Valkyrie muttered. “I was in here for three entire fucking days?”
+
+“I was here for eleven days,” the Demon Prince muttered in utter disbelief. “It felt like hours at most.”
+
+Jake stayed silent as he also internally dealt with the knowledge that he hadn’t just been inside this trial space for a few hours. He had been there for over a week, and only now did he remember how he and others had rehashed the exact same conversations dozens, if not over a hundred, times. The jellyfish had simply made them forget time had even passed, and as annoying as the mind was, it was great at filling in gaps, especially when those moments had mostly been boredom or similar conversations.
+
+Even their latest arrival, the Valkyrie, had indeed been inside the world for days. Their memories and sense of time had only run somewhat “normally” since Jasper’s first visit, but even that wasn’t entirely the case. Ever since the time-rewind thing from the Chosen of the Heartsoul Daolord, many hours had passed with them discussing something feeling wrong, before forgetting they’d discussed this feeling of wrongness and having the same conversation over and over again.
+
+The very prospect of having forgotten the passage of time was incredibly frightening, even if they all remembered everything now. Frankly, in retrospect, it was very suspicious that the four of them and Jasper had arrived within this place in such short intervals, and it made a lot more sense that there had been days between arrivals, as the Nine-Leafed Golden Flowers of Abundance couldn’t be that common. Oh, that note, yes, all along it had been a nine-leafed one, even though they somehow kept thinking it had more... perhaps due to the fact that within this world, there was a Ten-Leafed Golden Flower of Abundance.
+
+Something they all seemed to remember in unison as they turned towards the flower that turned out to be entirely real. Upon looking over, they all saw the exact same thing as a small cat-like creature had already snuck inside the barrier and, using both paws, pulled the flower out of the ground with a big smile.
+
+“What did you-“
+
+“You little-“
+
+“Sto-“
+
+The three others reacted immediately, but none of them got to say their piece as the world shattered once again, and this time it was for good, as they’d successfully passed the trial.
+
+In the very next moment, Jake found himself standing back in the garden of the palace, and in front of him was something surprising.
+
+He couldn’t help but grin and laugh a bit to himself while shaking his head.
+
+“Well, at least we got something out of it,” he said, using Identify on the item sitting right there in front of him.
+
+[Nine-Leafed Golden Flower of Abundance (Unique)] – A Golden Flower with nine leaves found within the Palace of Abundance gardens. Can be instantly converted into 65,610 Prima Credits or used within the Palace of Abundance for even greater rewards.
+
+Jake recalled his conversation with the Demon Prince around the time he originally entered the flower world – a conversation he now realized he’d had forty-three times – about how it was possible that they would all get a flower each, and that there wasn’t just one up for grabs.
+
+Turned out it was kind of both scenarios at the same time. Within the trial world, there had indeed been a ten-leafed flower one could claim, but everyone else who passed the trial would also get the flower they originally touched to enter, all of which Jake assumed to be nine-leafed. Some of the others had definitely spoken as if they’d originally touched ten-leafed ones, but Jake doubted they had. During the trial, Jake recalled having seen the ten-leafed flower long before realizing the existence of the Virtual Mind Devourer, and he guessed the others had too, and that the memory-fucking had made them all mix up the number of leaves.
+
+“Can’t say it’s a trial I would ever wanna go through again, no matter how good the rewards are,” Jake sighed as he put away the golden flower, wondering how the others were feeling right now. They had to feel somewhat happy being out of that mind-fucking hellhole with a valuable golden flower right in front of them, but he also suspected they would be a little bit miffed a certain Shimmershroud Planeswarper had taken the most valuable reward from right under their noses.
+
+Wait, Jake suddenly had a realization. Were they even going to blame Jasper? They had clearly seen the good relationship between him and Jasper, and he’d even referred to the little guy as family. Weren’t they all going to think that Jasper and Jake had colluded for the Planeswarper to steal the flower?
+
+Granted, in retrospect, Jake should have colluded with Jasper to steal the flower and would totally have done so if he’d thought about it in the moment, so he could only give kudos to his would-be partner in crime for the quick thinking. Still, it would be unfair to blame Jake for something he didn’t even have the opportunity to do.
+
+Feeling for his Hunter’s Marks, he detected that both Sandy and Jasper were very far away. That likely also meant that the others in the flower trial could be anywhere in the garden, which was probably good for Jake, as he wouldn’t have to deal with any of them immediately again. Though, to be fair, he would love a good fight with the Demon Prince and the Chosen of the Heartsoul Daolord.
+
+The Demon Prince was powerful, and while he’d mainly shown magic, Jake knew he was also more than capable of physical combat. He had been a top-tier genius before Jake had helped him become even stronger, so he was bound to be a great opponent.
+
+When it came to the Chosen of the Heartsoul Daolord, Jake mainly wanted to fight her because it would be a wholly new experience. He’d never fought anyone like her, who relied mostly on willpower-based attacks. She effectively shaped the world around her with words and could manipulate reality simply by opening her mouth. She also had other skills, but mainly movement and utility ones, as far as Jake could tell, with any other means of combat coming from freeform magic.
+
+Hopefully, he would encounter them both again. In fact, he was pretty sure he would, seeing as they were all making their way towards the Palace of Abundance.
+
+Seeing no reason to stick around or spend more time dwelling on the Virtual Mind Devourer that he really hoped was a one-off kind of deal, Jake headed off to explore and find more treasures while also making his way towards the Palace of Abundance that he could still see very vividly, despite knowing it was stupidly far away, despite appearing so close.
+
+Jake did wonder why Sandy was still in the garden area as he started moving. As he’d just learned not long ago, he’d been missing in action for over a week, yet the big worm hadn’t moved on. Jasper also hadn’t been surprised that Jake hadn’t moved to the next area either, and only came for Jake when called.
+
+“Maybe they can’t go to the next area for some reason?” Jake muttered, genuinely hoping that was the case, as it’d mean he wasn’t too far behind the frontrunners of this event despite “wasting” a week.
+
+He also assumed that a lot of people must have started to make it through the desert and into the garden by now, meaning it was bound to get more crowded and for fights to break out.... and right as he thought that, an explosion appeared in the distance, catching his attention as he sent out a Pulse to see if it was anyone he knew.
+
+It wasn’t, making him not bother as he instead headed towards the closest thing, giving him a powerful response from Sense of the Malefic Viper while also being closer to the next area, secretly hoping to run into someone or something interesting.
+
+Just no more Virtual Mind Devourers. Those fuckers had made their way all the way towards the top of Jake’s shit-list, taking their rightful spot just below Ell’Hakan’s Bloodline and the worst thing of all: water levels.
+
+--
+
+While Jake had been busy trapped in a loop of forgetting conversations and meandering in a world full of golden flowers, his Territory had been very industrious. The first army of the Milky Way Galaxy had been created, and so far, they were performing well above expectations.
+
+Holstred had shown his experience leading armies and instantly adapted to the job and the soldiers he’d been given. The first army consisted of five hundred B-grades, with four hundred and fifty being weaker types of foot soldiers capable of working together in formations, forty elite soldiers, and finally ten support-type elite NPCs capable of healing and buffing the group. Holstred had naturally been consulted on what they needed for the army, and while Miranda had been a bit reluctant to recruit so many “useless” footsoldiers, she’d nevertheless done so.
+
+One really should listen to experts, as they tend to know what they’re talking about, and Holstred had quickly shown why he wanted the soldiers. Individually, the footsoldiers were weak, barely even worthy of being considered B-grades, but as a cohesive unit, with the elites and supports, things were very different.
+
+Unlike regular soldiers, these NPCs were, in Holstred’s words, “perfect” in the domain of following orders. They didn’t question and didn’t have independent thought, which could lead to instability in larger combat formations, allowing Holstred to deploy many of the strategies he’d only theorized when he’d led his soldiers into war before losing and falling into slavery.
+
+His army of five hundred quickly proved itself a serious threat to the surrounding Territories as he went on a tear, forcing factions to call back their elites from the Central Domain, to no avail every time.
+
+Soldiers were lost, but by now, a fairly functional teleportation network had started to form, quickly allowing reinforcements.
+
+So far, this test had been a great success, but it wasn’t as simple as the Knight Commander being a good leader. He was, but there was one more important factor leading to everything going so well.
+
+Holstred had reported back that many Territories seemed weaker than one would expect, given their size and neighboring territories. They lacked elites capable of defending the Territory Beacons, and the reason for this was quite obvious.
+
+While the Central Domain was a wonderful opportunity to gain more Prima Credits, it was also an incredible risk. If a Territory’s elites died in the Central Domain, all that the Territory could do was hope that no one would notice and try to dodge being unlucky enough to have someone like Holstred come knocking.
+
+They still tried to defend themselves, but their struggles were in vain. Even if they did have an advantage being on defense, the Milky Way Territory simply had too many resources courtesy of their large size and minor income from their Behemoth Territory Vassal, not to mention the many Prima Credits Jake and the others had brought back from the Central Domain.
+
+Of course, being this dominant and having their Territory expand fast also put a bigger target on the Milky Way Galaxy’s Territory and risked meeting new powerful neighbors, but Miranda wasn’t afraid. They had good defenses, and if need be, she could call back Jake... assuming he didn’t go and get himself killed in the Central Domain, that is.

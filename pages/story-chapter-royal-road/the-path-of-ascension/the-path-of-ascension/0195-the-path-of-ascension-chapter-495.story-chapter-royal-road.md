@@ -1,0 +1,365 @@
+---
+id: 7bb10ad2-c4e7-5286-bbb6-acfa2461c63f
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 495"
+slug: 0195-the-path-of-ascension-chapter-495
+partOf: the-path-of-ascension
+position: 195
+ownLength: 6687
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3479679/the-path-of-ascension-chapter-495"
+royalRoadId: "3479679"
+---
+
+Chapter 495
+
+Quill still hadn’t fully decided whether or not to tell the returning Max about his Talent when Aiden finally returned to settled space and reconnected to the Ascender Chat, giving him a much needed distraction.
+
+Putting aside his current experiment, Quill watched the lost Ascender’s return message.
+
+Standing before his friends and crew, Aiden was mildly disheveled but did look better than when he’d left, implying he hadn't gotten in any bad fights while exploring. Even stranger was the censored blob on his head. It seemed too wide to be a crown, but Quill had no idea what Aiden was up to.
+
+Having an easy remedy to all of his questions, he hit play.
+
+“I bet everyone has been worried about my health, but let me assuage any such concerns. Despite a few close calls, we made it through safely thanks to my amazing leadership.” That earned Aiden and the object on his head several strange glances from several members of the crew and all of his friends, but none of them said anything to contradict the Ascender.
+
+Not noticing the looks, Aiden eagerly pointed at his head. “I got the best thing out of the breach. While everyone else was chasing their temporary pleasures and boosts, I found the gold maker itself.”
+
+The censor fell away to reveal a large purple and teal Tier 8 crab. The video came with additional information. When he checked it, he only had more questions.
+
+The crab didn’t have a bloodline core, which meant it would never gain sentience. While it would have a Talent and Domain, it would have the same ones as every other member of its species.
+
+Very confused, he let the video play and hoped Aiden wouldn’t be intentionally cruel when he couldn’t chase the older Ascender down and beat the answer out.
+
+As if knowing what he was thinking, Aiden nodded. “I know what you are thinking, it's probably the same thing as everyone else said at first. ‘Oh Aiden, this is just a normal crab.’ Well, Crabby Gabby isn’t just a normal crab. No, he’s a Natural Treasure Seeking crab at heart, even if not in Talent. He found us a planet the seeker said had nothing good on it, but no, it had two valuable items left behind. Yes, he did.”
+
+Gabby, distracted by a strand of moving blue hair, snipped at them, only to retract its claws from the high Tier material. Rather than getting mad, Aiden cooed and babied the crab for several seconds before getting back on track.
+
+“I knew he was special the moment we found two Natural Treasures in the little guy's nest. A little hoarder after my own heart. The others disagreed, but that's okay. Isn’t it Gabby?”
+
+The rest of the video was Aiden talking to the crab, but the Ascender Chat was abuzz with conversation.
+
+Ellen must have been in the Chat when the message went out because her response was almost instant. “Did you identify its species’ Talent?”
+
+Aiden happily doomed himself. “They can solidify water into a rock-like structure. They use their Talents to make their caves right on the open ocean floor. Their Tier determines how large of a cave they can make. This little guy at Tier 8 was only a step below the crab leaders, having a cave nearly as large as some of peak Tier 9s.”
+
+As if confused, Oliver asked, “So he confirmed doesn't have a Seeking Talent?”
+
+“Talents aren’t needed to succeed.”
+
+Lila’s reply got a snort out of Quill when he pictured her indignation. “Aiden, I hope you understand the difference between a human without a Talent succeeding, and a normal crab. How was the value of the planet it found? Was it good at the very least?”
+
+“No, there was only a low Tier Natural Treasure and a decently valuable fire-aspected item, but we were on the way back. Even a master Seeker can’t find what isn’t there, and I’ll note our Seeker said there wasn’t anything good on the planet. I’ll prove it the next time I go into chaotic space.”
+
+“But you admitted your Seeker was right?” Allie stirred the pot without a moment's hesitation.
+
+“He wasn’t! There was stuff there.”
+
+Brian refused to let that slide. “Low Tier junk.”
+
+“That’s offensive.” Was Aiden’s only comeback.
+
+“Good,” Brian shot back, not missing a beat.
+
+At that point, the conversation shifted to the rest of his loot, which was disappointingly light. The rest of the crew wasn’t destitute, but Aiden’s fixation on the crustacean had cost them vital years as he slowly ‘tamed’ the crab mid-adventure.
+
+Looking deeper at the already extended timeline, Quill wasn’t sure they’d been doing all that much before the distraction either. They hadn’t just been slow, they were taking sizable breaks the entire journey, in and out.
+
+All of that would have been fine, understandable even given Aiden’s injuries. However, instead of admitting everyone else had been right and he was too injured to go out exploring, he’d chosen to bring back a crab claiming he’d won the lottery.
+
+As if mocking Aiden, every data point he’d transmitted relating to the creature pointed to it being a perfectly normal, if slightly lucky to have collected two Natural Treasures, crab.
+
+Seeing Aiden getting ganged up on by the others, Quill considered helping his fellow Ascender, but decided against it. It was possible the crab had a knack for finding treasures, even if not a full-on Talent, but every time Aiden opened his mouth to answer another question, he made his own case worse.
+
+As the argument deteriorated, things ended exactly where everyone knew they would. “Fine! If no one believes me, let's make a bet. When Gabby finds something amazing I want you all to apologize.”
+
+After the briefest of moments, he added, “To both of us.”
+
+No one liked the idea of apologizing to Aiden, most of them would rather apologize to the crab, and the bet quickly turned competitive as rules were established limiting how long he had to collect on such an open ended bet.
+
+Despite wanting to be helpful, Quill's stance was more conservative. He didn’t see how Gabby could have anything close to a Seeker’s sense, but stranger things had happened, and he wouldn’t discount Aiden’s luck in being the one to find it.
+
+He wasn’t the only one to see it that way, and it turned into the largest dividing line between sides. Those who believed Aiden had to be that lucky due to his previous exploits, and those that refused to believe that he could be that lucky for the exact same reason, citing he’d used all his luck up.
+
+In solidarity with Aiden he’d initially agreed to place a bet, but the moment he did, the other Ascenders immediately started pushing to raise the bet to the level where [Home] was on the table, and all five of them backed out.
+
+The distraction worked a little too well as he almost missed Max’s return to the Corporations capital. Her arrival forced Quill to make a choice. One he felt unprepared to handle. Feeling conflicted, he found a bit of time Liz wasn’t elbow deep in her own work and visited.
+
+Rather than escaping for a break again, they took a walk around their estate holding hands and enjoying the illusion projections that made their temporary home feel like an open villa with miles of idyllic countryside surrounding them. As nice as the hand holding was, they were using the contact to transmit messages, but he’d never complained about being able to multi-task.
+
+“It’s odd to consider sharing my Talent with Max. That’s something I’ve only really done with Team Zero. And yes, I know that she’s certainly deduced it by now, but officially breaking that seal feels wrong in some way.”
+
+Liz’s answer was as easy as he expected it to be. “Then don’t. You aren’t obligated to go along with JR’s games. If you feel reluctant, tell him to pound sand.”
+
+Trying to articulate what he barely understood himself, Quill gave the best answer he could. “And yet, I also want to share, knowing Blake wasn’t wholly against it. Certainly, the eventual integration between my mind and my [AI] is likely to raise questions, but another part of me thinks I should be boasting of my Talent. At least given that she's both a safe person to tell and someone who can understand how powerful it is. It’s absolutely amazing, so why shouldn’t she learn it? Or have it confirmed. Whatever the distinction may be. And I can self-censor enough that I know that reasoning isn’t something Blake wouldn’t want to act on. If that feeling is suspect, are my original intentions also questionable?”
+
+Giving him a weird look, Liz silently asked, “Is that maybe, and hear me out, because you consider Max a friend and don’t like JR sticking his beak into that?”
+
+Listening to the quiet sounds of nature present in their estate, Quill considered the question. He wasn’t sure if Liz was right, but he suspected she wasn’t wrong.
+
+Max was a friend, but any friendship between Ascenders came with the implicit understanding that, should they come to blows, it was only polite to try and kill each other. Anything less than their best, in the truest of all contests, would be an insult.
+
+Giving a woman defined by her ability to plan an in-depth look at his greatest strength was certainly a choice, but also that was kind of a mark in favor of doing it. Was it really fair to deny her the ability to use her talents simply because his Talent had additional implications?
+
+Answering both of their questions, he said, “Maybe… probably. That's a part of my discomfort at the very least. I just don’t know if this is the right call.”
+
+Liz didn’t push him and when they reached the end of a loop they silently continued another.
+
+Wanting something else to do with his mental efforts besides thinking in circles, Quill idly tapped into a handful of spells and created them a stone walkway around the perimeter. Large flat sheets of a light gray shale made good stepping stones that would be warm in the day without getting too hot. He even summoned smaller tumbled stones for the rest so it wouldn’t be painful if someone decided to walk barefoot.
+
+After the second circle around, when he started debating turning the pathway into a long multi chain enchantment, he realized what he was really doing.
+
+“I think I’m just worried and trying to find a reason to say no. And the fact I can’t come up with a good reason isn’t helping. Honestly, it might be the cause.”
+
+Spinning so she was walking backwards ahead of him, Liz said with a steadiness he needed, “Tell her or don’t, it's your choice. You don’t need a specific reason to want to tell or not to. If JR, and therefore the Corporations, knowing makes you feel comfortable enough to share with Max, do so. If it doesn't, don’t. It's your Talent, not anyone else’s. You can change your mind right up until you tell her, so don’t let me or anyone else force your hand.”
+
+Trying to take the words to heart, Quill wasn’t entirely sure when their walk ended. He continued it with a phoenix Liz he found loitering in a sunny spot long after Liz needed to return to her own work.
+
+With Max’s arrival, the choice was pushed front and center.
+
+Instead of running from the problem, Quill settled on a choice he hated but knew was the correct one. Blake had already decided before the name removal and changing that felt worse than following his initial reaction.
+
+[Portal]ing in early, he already found Max chatting with Rosemarie. Noticing his arrival, the older woman excused herself before he could say anything more than hello, seeming eager to escape her Ascender.
+
+Max wasn’t so reticent. Spinning, the Tier 39 looked as excited as a kid playing in a warm summer rain when their parents wanted them to come inside as they moved to a secure room under JR’s lab.
+
+Some of that excitement shifted as she looked him up and down as fractals spun and twisted into reality around her.
+
+“Oh, hey 『　』 —” Seeing his blank stare at his name, Max whistled. “Well, JR clearly did his name thing on you. What’s it feel like? What name are you using right now? Can you describe what it feels like? I’ve tried to get JR to pull my name, but noooo. He keeps saying I have too many minds or some other excuse every time I try. I think it could be really good training and he isn’t letting me.”
+
+“Good to see you, Max. I’m going by Quill, currently. I was Titan for a bit, but he’s a bit too fight-y. Not really equipped for the quieter bits, y’know?”
+
+Rather than being confused, Max nodded as if someone was finally saying what she’d been repeating to deaf ears for years.
+
+“Ascenders, yes. Ugh. Dedicated combat personalities are so annoying. Took me centuries to get a handle on the right blend of stuff. Crazy useful in the right situation, but I once nearly killed a ten year old kid because she kept drumming on a table in just the right pattern to remind me of an illusion-based monster I’d been fighting a couple years prior. But you…”
+
+Standing and walking around him several times she continued, “Honestly, are pretty well-adjusted.” Sniffing, she bobbed her head back and forth for a few moments before continuing. “A little lacking on the social connections, but no more than half our peers are on a normal day. What are you getting done? I should have asked this earlier. JR almost never does work for people, and you aren't even local.”
+
+Knowing the raven above them could hear every word he spoke, Quill didn’t hold back. “I’m getting armor made. It's JR’s favorite type of thing to make, so he was happy to do it.”
+
+Max paused mid-stride before a small smile spread across her face until it blossomed into a wide grin.
+
+“Are you making a joke? Oh, now I need to know more. Where has this Quill been since I’ve known you? You've got a sarcastic streak in you. How fun is that!”
+
+Shaking his head, Quill forced out a grin as the banter helped settle his roiling stomach. “No, he's actually making me armor. Tier 30 war armor in fact.”
+
+Word by word, Max’s mouth opened wider until her jaw was slack.
+
+Slapping the table hard enough to leave a shallow handprint in the Tier 40 metal, she shouted to the ceiling, “What the fuck! I begged you to make me a name bound item! You stingy flying feather pillow! You said no every time!”
+
+When no bird appeared to explain the unequal treatment, Max turned her attention back to Quill and asked the same question. “How?”
+
+Keeping to the general stuff, he explained how he’d preserved the strange realm reward and how that was the key to getting JR’s acceptance.
+
+Max grumbled throughout the story but instead of complaining, she circled back around. “As much as I want to complain, this is an opportunity for you. We won’t be able to do any of our [AI] stuff until after you’ve fully reassimilated, but that's going to take years, if not a decade.”
+
+“JR implied we could get started once he's done?”
+
+Shaking her head, Max shut that idea down instantly. “Not a chance. We can check about a year after you get your main name back to make sure it’s properly re-integrated, but we are not making permanent mental mods until I’m confident your personality is completely healed. Doing anything mental related too soon is begging to lock in strange personality traits. No, we'll wait. When are you getting it back?”
+
+Not sure what Max meant by the question, he tentatively answered, “When the armor is done? He never mentioned an early return, so a decade or two.”
+
+Max just stared at him for a solid minute before throwing up her hands. “What the fuck is he making for you? There’s basically nothing that should require your name for the entire time, instead of just the very start or the end. How is he preventing personality solidification? Does he—”
+
+Max suddenly stalled, her expression going completely blank and her voice dying in her throat. She blinked. “That was weird.”
+
+Realizing he’d have to allow Max to have her memories if they wanted to have this conversation, Quill reviewed his choice one final time. While sharing his Talent with anyone was risky, doing so with the only other Ascender to have killed a peer felt even more so. Ultimately, one thing was a larger consideration than all of his other fears.
+
+Allies.
+
+The Empire might have the Guilds firmly in their corner, but the rest of the Great Powers would inevitably look towards devouring him when news spread, and one wasn’t enough.
+
+When war did break out, Quill wanted an on-his-side Max as prepared as possible, and that meant giving her time. Time knowing his Talent and time to plan and prepare around what it might enable that might otherwise be impossible. Telling her had its risks, but the more time he gave her to think, the better their total chances were.
+
+That left him with only one viable path forward, and when put like that, the doing part suddenly became easy.
+
+“I am trying to share my Talent, yes. No, I won't share the spec sheet for the armor, but I’m happy to talk about some of the generalities.”
+
+Max didn’t seem bothered by his refusal, and hyperfixated on his first words.
+
+Max looked at him neutrally for a moment, before her eyes widened. “Oh! I was wondering about that. Dang, how many… that’s a lot of mental locks, wow. Do you want to tell me, or should I just peek behind the curtain?”
+
+Not seeing how it changed anything, Quill said the words she’d been waiting for. “You can open up your closed minds. I—”
+
+Max cracked her knuckles and stretched happily. “Oohhhh yeah. I’ve apparently been waiting ages for this, let’s see what’s… Oh.”
+
+Her cheery expression fell away, and for the first time, Quill saw Max actually pause to think. “Shit.”
+
+Cosmind, the extremely lethal Chosen, looked at him, deadly serious, and Quill felt himself being studied under a microscope. Then, after she took a deep breath, the cheery, friendly Max was back.
+
+Kicking back in her seat, her shoulders slumped. “That’s… a lot to take in. Math please. Need to check the actual numbers.”
+
+When he sent them she took another deep, thoughtful breath. “Makes sense, though. That’s one monster of a secret. Damn, a surprising and embarrassing amount of my minds were wrong. Fourteen percent of them have inadvertently signed themselves up for remedial logic training after that shameful showing. Did you know I had to modify my sense of curiosity seven different times to keep me from looking into this?”
+
+She chuckled, but it still sounded somewhat stressed. “I… alright, show me. Let me see.”
+
+Not bothering with words, Quill started dumping his entire mana pool into the small secure room. The air was immediately saturated with the 1.3 billion mana he was adding every second, with things steadily turning a deeper blue as the mana levels rose.
+
+For the first time during the conversation, Quill felt JR react as a greater spiritual perception noticeably enveloped the room. He initially thought the bird was protecting his privacy, but realized JR was worried about a spontaneous aspect-cascade resulting from the abundance of mana in such a small space right underneath his lab.
+
+Not wanting a runaway explosion or some other disaster to occur while he was inside the room, Quill stopped dumping his mana into the air. Instead, he pivoted and started creating non-liquid mana stones, letting them clink onto the table in a steady flow. Given a week, the stones would de-aspect and be little different than any other general mana source.
+
+Max chuckled, but Quill still managed to pick out a thread of stress in the expression, despite the woman’s drastically higher Tier and usually unflappable composure. “Man. I mean, absolutely congrats. That is… quite the Talent. Realm-changing, even. And yeah, I entirely get your Domain now. And some of your choices with the [AI] integration I didn’t realize I’d been confused by. Ascenders, that’s… so much mana. What the fuck do you do with all of it? I can hardly imagine what I’d do with that much mana.”
+
+She snapped her fingers a few times and pointed at him saying, “Oh! I am absolutely tapping you for help with the chat now. All of us retirees chip in some mana to keep the relays running, and if you’re constantly making Realm-relevant amounts of mana, you could cover the whole stinking cost per year in seconds.”
+
+Quill was about to decline, but Max never gave him a chance to speak. “Mmm. Might be a bit tricky to not give away the game too early. I’ll still figure out some use for you, but we can’t tip our hands. Ascenders damn it all, why couldn’t you have been a second Aiden, with some stupid, boring Talent to make puppies happier?”
+
+Not wanting to have Max surprised again, he tried to explain the deeper repercussions. “The Corporations signed a defensive pact with the Empire. I—”
+
+His words were waved away as Max turned the gesture into a face palm.
+
+“No, no. I get that. I understand everything, and I know exactly how this will go. I just...” Glancing at him through a gap in her fingers, she sighed. “Are you sure you don’t want to retire and ascend early? Sipping fancy drinks on a beach with friends before leaving to explore a new Realm at Tier 45 sounds like a great way to wrap this Realm up.”
+
+Quill shook his head, denying her claim. “If I thought I could do it? Sure, I guess. But do you really think people would let me?”
+
+Max looked like she wanted to say something but she held herself back, her shoulders slumping in agreement.
+
+Just in case she hadn’t, he spelled things out further. “If you’ve done the calculations, tell me, how many of the other Great Powers will allow me to live unfettered once word spreads? Or will they demand that I support them and give away my mana? How many of them will demand I go into a Tier 47 rift where I can produce even more mana? How many of them will gladly sacrifice my wellbeing for their own gain?”
+
+Clenching his first and releasing the sphere of mana back into the room, Titan made his stance very clear, so there would be zero misunderstanding to Max, JR, Rosemarie or whoever else might be listening in.
+
+“I am not, and have never been, willing to sacrifice myself for the greater good. I am willing to assist in Manny’s endeavors of Tiering up every capital planet, as well as other initiatives, but I will do so on my own terms. Not the ones Tier 50s who only care about their own self interest determine for me. It's my life, my Talent, my time, and my mana. Not theirs.”
+
+Max sighed and looked up, drumming her fingers on her arm. “Yeah, alright, I understand.”
+
+Titan felt his battle instincts kick in at her words. He was confident she was about to try and convince him to change his stance. That surety left him more than a little confused when her response didn’t follow his expectations.
+
+The usually chatty Max’s eyes held a deep stillness as she probed him for something. When she didn’t find it she seemed to sag, but he couldn’t tell if it was a positive or negative development.
+
+“I shouldn’t pull this thread right now. Quill and Titan aren't the personalities this conversation needs to happen with, but know 『　』and I will be revisiting this conversation. I just want you to consider that a war doesn’t have to be inevitable.”
+
+Holding up a hand to forestall any rebuttals, she continued with a forced smile and asked, “I’m sorry, but I really do have to circle back. You just make that much mana at all times? There isn’t a limit at all? No restrictions like only when one foot is off the ground? I met a guy like that once, it's possible. He—” Closing her eyes hard for a moment, Max refocused. “I’m sorry, but I’m genuinely having a hard time wrapping my head around your Talent. There has to be a downside. There’s always a downside.”
+
+A moment later, she opened a single eye and added, “Right?”
+
+Taking the opportunity for levity, Quill forced out a quip. “I can’t actually cultivate my mana. That’s a downside. Oh! You wouldn’t believe how much of a headache getting my mana concentration into a half decent state was.”
+
+Watching her face scrunch up as if she’d eaten a lemon while struggling to remain polite, he considered what might convince her more than his earlier display.
+
+Quill put his hand with Frederic’s mana storage ring on the table and activated it, letting her see inside. Or more accurately, the months of accumulation he’d let build up. It wasn’t much, only just over twenty quadrillion mana, or the raw mana equivalent of two Tier 49 mana stones, or most of one Tier 50.
+
+“This is what I made in the last three months, minus what I’ve given to JR to make the armor; which was about another quadrillion, give or take.”
+
+In response, Max pushed herself away from the table and started pacing, her eyes never leaving him.
+
+“Four and a half days to make a quadrillion mana? That’s…” Speeding up, Max started to blur before stopping. Throwing herself into her chair, she nearly sent it skittering out from under her but she didn’t seem to notice as she went boneless.
+
+Max sighed a few minutes later as she sat up and cracked her neck in two sharp, nearly lethal, motions. “Well, alright. I wasn’t expecting to learn that the end is nigh today, but I guess that’s where we are. This is going to make the War of Beast Liberation look tame.”
+
+Quill wanted to deny the allegation that the apocalypse was coming, but instead just found himself asking, “So you think a true war is inevitable too?”
+
+Max didn’t say anything, but her look was so weighty that Quill felt like he had to defend himself. “That’s what everyone keeps saying. I just wanted there to be a different way. You’re the person to know the future, so I was hopeful you might see some alternate outcome.”
+
+Max’s jaw worked for several long seconds before she shook her head, her words as slow and heavy as the moment itself. “Talents are like people. Each one is unique. The same Talent given to a slightly different person will result in vastly different outcomes.”
+
+“Minkalla’s Folded Reflections gave me plenty of such possibilities. I—”
+
+Max cut him off with a wave. “No, not like that. Practically nothing is definite. Your Talent, in its current state, held by you? That’s likely to explode. But if someone else had it? Someone who perhaps wasn’t on the Path, who didn’t have their spirit tempered to maintain that much mana constantly being run through it, who didn’t have a Domain built around eternally spewing forth mana, someone who might run into spiritual exhaustion after making just a few billion mana per day… that person wouldn’t trigger a true war.”
+
+We’re Ascenders, 『　』. We climb and we climb and we always grab for the most we possibly can. If you die in a rift next week, there’s no true war, and the Shattering doesn’t restart. If you vanish for a few million years, probably about the same effect. If Amon Dai makes a perpetual mana generator that produces fifty billion mana per second that can be made on an industrial scale, your Talent won’t start a true war either. There are many, many things that could stop the war. But that doesn’t make those things likely. And the way the Realm currently is… yeah. Beware, the end is nigh.”
+
+Max looked at him, eyes soft and sympathetic. “You’re going to change the Realm, Titan. That much is certain.”
+
+“Unless I die in a rift next week.”
+
+She rolled her eyes. “We both know that’s not actually happening. If JR is messing with your name, he won’t let you leave real space until he's done.”
+
+There was a moment of silence.
+
+Quill wanted to explain to someone who might be able to understand. “I don't want to make the Realm a worse place. I want to make delving available and safer for everyone, to bring about prosperity and help people around me. But… can I really do that, when my very presence is enough to effectively usher in the apocalypse?” Needing to get something off his chest, he pivoted momentarily, “Do you know what really pisses me off? Aren’t the Tier 50s supposed to be the ones there to fight against that sort of thing? To keep the realm stable? To prevent the next Shattering? Why are they so ready to throw away everything in existence, burning it all down, just to prevent anyone else from succeeding?”
+
+She didn’t respond immediately, but he felt no need to rush an answer. The moment of quiet was a nice respite.
+
+“Your childhood…” Max eventually replied, “It was defined by tragedy and disaster, ruinous and eminently avoidable. Do you suppose that the Junipers set out to ruin your home, when they started overfeeding their rifts?”
+
+Quill didn’t bother arguing the semantics. “Probably not. But they clearly didn’t care enough to prevent it, even though they absolutely could have.”
+
+Max gave an acknowledging nod. “People with power… they want more. It’s not always a bad thing. Quite frequently, it isn’t. Especially at first. Power lets you do more good. It means you can reward the people near you more, heap upon them the rewards you feel they’re due. It lets you compromise less. Make fewer concessions to the people you don’t like. It lets them suffer the cost of their own foolishness, rather than making others play court to their endless idiocy.”
+
+Quill nodded. From reviewing Blake's memories he knew being a duke was exhausting most of the time. There was never enough for those who needed it, yet somehow still far too much for those who didn’t. Figuring out who was who? That felt impossible.
+
+“And so, when a prize so tempting, so wonderful, something that you’ve been chasing for ages, and looks like it can provide everything you’ve ever wanted comes floating around, it’s only obvious that you grab onto it. Slap aside the other hands also reaching for the prize, and claim your reward. Because then, with it, you can accomplish everything. So what if your running towards it tramples a few ants? If it crushes some flowers? Why care if a brief tussle with the other seekers fells some trees? Or if it burns down a house or two? So what if the prize wriggles and shifts, changes and struggles, trying to escape your grasp? Once you have the prize, everything will be perfect, and you can fix everything that needs fixing.”
+
+Titan growled right back. “I’m not some prize to be claimed. Grabbing me won’t fix anything.”
+
+“I know,” Max agreed. “You know. But how much of a difference do you suppose that makes to someone like Virgil? She’s desperate for power, because she’s deep in debt both to herself and her underlings. She’s made promises both spoken and unspoken, because her family was once incredibly mighty, and now… it isn’t. She’s tasted the kind of power which can fix absolutely everything, she knows exactly what she’s missing, and now she’s looking for everything which might bring her even a shred closer to just what she had. Because the only thing more painful than not getting the prize, is to have the prize and then lose it… I’m mixing metaphors a bit. I—”
+
+Seeing her shake her head and look like she was about to get off track he quickly interjected before she could. “No, no, I understand. Taking one step closer to fixing everything is all they care about, and not the enormous amount of hurt they’re inflicting with that step.”
+
+“Power is a blinder. And it’s so incredibly easy for the powerful to forget just how much power they have. When overseeing a hundred billion worlds, it’s so easy for that to just become… words. One billion worlds sacrificed for the prosperity of ninety-nine billion seems like an obvious trade. The cause is noble, the ends just. The means are what they must be.”
+
+“There’s nothing just about what the Federations do.” Quill countered with a snort.
+
+“Since when has that ever mattered?” Max pointed out. “Everyone believes their cause is the right one. Even those who willingly play the villain, do so because they think it’s necessary for some greater good. Even the ones who only care about their personal good, they still think they’re upholding some grander philosophical goal. Might makes right is popular in the Sects, and they’re actually not being hypocrites about it for the first time in a while. That doesn’t make them better, though. It just makes them harder to rebuke.”
+
+Quill shifted, trying to work himself out of the dour mood her words tried to lead him towards. Instead he tried to make a joke. “Maybe with words. But I’ve yet to meet someone that can out-talk a sword to the face.”
+
+“Oh how you tempt me, Quill. I’m almost tempted to make that a bet.” Max chuckled.
+
+Her gaze was mixed as she watched him, but after a moment she shook her head and continued with a more normal expression that morphed into a wide almost manic smile. “I— Oh, give me mana. I’ve always wanted to do this. Don’t stop unless I’m unconscious!”
+
+Before Quill could agree or disagree, Max pulled what looked like a hospital bed out of a storage ring, hooked herself up to it, and closed her eyes over the course of a blurred second. Then he felt her mana pool start to drop and her head started to radiate heat, as a number of runes on the bed lit up.
+
+He thought he felt her casting a spell, but there was almost no fluctuation in her spirit and he disregarded the oddity as unimportant in the moment. Tapping into both his Concept and mana aspecting ring, he did his best to slow the drain while making mana perfectly copied from Max’s mana sample his ring had absorbed so she wouldn’t have to convert the mana herself.
+
+Opening bloodshot eyes, Max’s fractals spun themselves into a blur as she stared through the ceiling.
+
+Her laughter started small, but grew as his efforts kept her mana pool half full.
+
+Having been given clear instructions, Quill didn’t stop, keeping her mana consumption neutral. He wasn’t sure what she was doing, but after the first five minutes, the spiritual strain was obvious. At the ten minute mark, blood had started to drip from her eyes and nose. At the fifteen minute mark, her teeth were lined by red, even as her smile widened into something that bordered on mania.
+
+Quill’s concern spiked when the smile froze before slowly returning to a flat expression as the fractals exploded into a new set of more complex expressions he couldn’t follow without his full attention.
+
+Cosmind was back.
+
+Feeling the mana draw and damage begin to spike, Quill made more stones appear, keeping her mana pool from dropping.
+
+There was no new smile for his efforts. Only blood.
+
+The small trickle had turned into a stream, but then, all at once, everything stopped. The fractals, the mana draw, the blood, the damage, everything froze.
+
+Then, like long dead machinery breaking free from stagnation, the fractals started to spin in reverse while everything else continued. Instead of resuming their less complicated patterns as they went backwards, the fractals increased their complexity as they folded in on themselves. In seconds they reached a point he could no longer look at them without his head starting to hurt.
+
+Titan stared at Cosmind as he felt her rearranging things as he debated if he should be planning for her death. He couldn’t tell what spells, implants, modifications, or minds she was adjusting or why she was doing so, but through his connection to her mana pool, he felt every minute variation in her mana usage.
+
+Each and every one told a story he could read like a book, even if he wasn’t fluent in the language. However, he didn’t need to be fluent to know the story they were telling him.
+
+The woman in front of him was dangerous.
+
+Minutes after knowing his Talent, she’d already started adjusting herself to better handle massive quantities of mana. While that would allow her to utilize mana he sent her more effectively, it also removed some of his easiest methods to disable someone.
+
+Mana pools were fragile things, and sending a few trillion mana into someone's mana pool forcefully probably wasn’t lethal. Crippling? Undoubtedly. Better yet, such injuries were incredibly annoying to heal, leading to long recovery times.
+
+Things Max had undoubtedly taken the first steps to rectify such measures. With his help.
+
+After considering it and weighing the options, Titan decided he didn’t mind. At least not enough to stoop to preemptive attacks on a friend or an ally.
+
+If Max turned against him… Well, that was why he was getting the armor made and Quill was working on the flash talismans.
+
+Knowing about his Talent was one thing. Being able to stop him with it was another, much harder, proposition.
+
+After almost an hour, Max was in desperate need of a break, with the spiritual damage nearing serious levels, but Titan saw no reason to stop. He didn’t know what Max was doing, per se, but it didn’t matter to him.
+
+For all that he was trying to be helpful to an ally, he was determined to prove a point to his older peer.
+
+He was Endless.
+
+He was Dauntless.
+
+He was—
+
+Quill wasn’t sure what he was. 『　』’s absence meant his Domain was as fractured as he was. That made it impossible to progress, but that didn’t stop him from scrambling along in the darkness.
+
+Lost in that fugue stage, his distraction lasted until Max willingly dropped her spells. In fact, it was her rapidly filling mana pool that punched through to get his attention.
+
+Misshapen and melted flesh had replaced his fellow Ascender on the hospital bed. He was sure if she’d still had eyes or ears, she’d have been bleeding from them, but Max was far beyond that point. She was bleeding from… everywhere. When she weakly opened her mouth and coughed up bloody phlegm, he concluded she might have pushed a little too far.
+
+He was proved wrong as he felt her earlier spell engage and revert a majority of her body’s damage, returning her visage to near what she’d entered the room with.
+
+Eyes narrowing, he followed the spell pattern but still didn’t understand. Such a time-reversion adjacent spell should have removed all of the changes she’d made to herself along the way.
+
+How had she prevented her changes from being reverted without affecting the whole?
+
+His only answer to that question was a wide smile as she stored the bed and gestured to the door as if nothing had happened. “I might have taken up a bit more time than I promised. Whoops. I can feel JR growing impatient. Ready to go?”

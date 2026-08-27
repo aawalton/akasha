@@ -1,0 +1,135 @@
+---
+id: b08f0b38-b8ed-5030-aa37-1d4903185edf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1354 - A Very Unwelcoming Desert"
+slug: 0228-chapter-1354-a-very-unwelcoming-desert
+partOf: the-primal-hunter
+position: 228
+ownLength: 2932
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3680783/chapter-1354-a-very-unwelcoming-desert"
+royalRoadId: "3680783"
+---
+
+The sudden temperature shift from scorching hot to biting cold took a bit to acclimate to, and it wasn’t like Jake had a lot of time. Looking out at the sand, he saw a bony head emerge, revealing a skeletal figure in gray, frayed garb. Jake naturally used Identify, confirming that he was indeed dealing with a B-grade.
+
+[Restless Dead – lvl 350]
+
+An undead B-grade. What’s more, there were several hundred of them all around the platform, and when he looked beyond the sandy dunes, he saw that a second barrier had appeared far in the distance. He wondered if the trap had locked him inside, or if this was just the size of the arena, but he didn’t have any interest in confirming either way as he turned his attention to the many enemies.
+
+He didn’t really care about all these weak B-grades, but he didn’t rush to do anything either. Jake noticed that despite emerging, these undead didn’t do anything but just stood there staring, and he quickly realized the reason.
+
+They didn’t have anything to attack. More accurately, they couldn’t see anyone to attack. Jake was still using Unseen Hunter, so even as more than two hundred undead B-grades stood on the cold sand of the desert, none of them made any moves. Jake waited a bit longer, waiting for a few creatures beneath the sand that remained hidden to come up, but they didn’t seem interested in moving quite yet.
+
+Probably the second wave or something, Jake thought, and proceeded to pull out his bow and play around with his Arcane Arrow Storm to attack the poor, mindless undead. Taking advantage of still being unseen, Jake shot arrows into the sky, launching several with differing speeds to create a proper arrow rain.
+
+Once he was satisfied, Jake smiled and stood back as he watched the first arrows fall. At once, more than a hundred explosive arrows struck the ground, resulting in a massive explosion of destructive arcane mana, with Jake standing in the middle on top of the platform, spreading out his arms as it washed over him.
+
+Several more arrows arrived as the desert was full of explosions for the next ten or so seconds, and the more than two hundred undead were torn apart by the attacks. By the time the destructive energies subsided, Jake was the only being left standing on the surface, with every single undead now just fully dead.
+
+Jake smiled, though not because he felt like he’d achieved anything. These mindless undead were pathetically weak, and it wasn’t like he even got a single point of experience for killing them all, seeing as they were lower level than him and all.
+
+He did still find the display satisfying, though, and while his opponents had been weak, they had offered insight into the power of Jake’s upgraded Arcane Arrow Storm when it came to dealing with large groups. The upgrade of two rarities definitely felt earned, given the sheer increase in destructive potential when dealing with both single targets and large groups.
+
+With all the Restless Dead defeated, the sand once more rumbled, and as predicted, the three remaining figures hidden beneath the sand rose towards the surface. The prior undead had been almost entirely skeletal, and while these new variants were similar, they had substantially more skin on their bodies.
+
+Plus, they wore actual clothes, even if they were still tattered. One of the three wore a robe, while the other two wore what looked like ponchos. As the three fully emerged, Jake naturally used Identify on them.
+
+[Priest of the Crystal Sands – lvl 375]
+
+[Servant of the Crystal Sands – lvl 360]
+
+So, two things. First of all, nice learning that apparently this desert was called the Crystal Sands. Not a super original name, but oddly fitting for a desert placed in a Central Domain where a place called the Palace of Abundance also existed. It also made him wonder what the jungle was called. Jungle of Gold? Forest of Solid Return On Investment? So many possibilities, and Jake should really be hired by Minaga and the Wyrmgod to decide on names for Nevermore.
+
+Anyway, the second thing was that Jake definitely didn’t feel any sense of danger from these three. Sure, they were higher level than the Restless Dead, but after his enjoyable fun-time with the Behemoth and Archfiend, these kinds of foes really couldn’t get him excited.
+
+It did help with motivation a little when the Priest, who was floating above the sands, raised his skeletal finger and pointed at Jake, really kicking up the dramatics as he spoke.
+
+“Unworthy! Unchosen! Soon... unmade!” the Priest yelled as he erupted with a wave of energy as he spoke again. “Rise once more, and slay he who does not belong!”
+
+The wave of energy released entered all the slain Restless Dead as they started rising once more... or at least they tried to rise. The thing is, Jake had gone a bit overboard with his Arcane Arrow Storm, leaving most of them utterly obliterated, with even the lucky ones missing limbs. That resulted in only six Restless Dead in total rising to the call, and two of them didn’t even have any legs.
+
+Jake did feel like they had changed somewhat after being resurrected again, though, making him use Identify on one of the newly risen undead.
+
+[Enraged Restless Dead – lvl 355]
+
+The new name fit with their glowing red eyes, and right as Jake was done inspecting the newly revived undead, the Priest took out a staff and pointed it towards Jake. Rather than speak any more dramatic words, the guy just attacked, shooting out a bolt of white lightning towards Jake.
+
+Rather than dodge, Jake responded by summoning a few layers of stable arcane mana. All but one were destroyed, with the final one left with a layer of ice upon it from the lightning.
+
+Weird ice lightning... fitting with us being in a cold as fuck desert, Jake noted, taking out his bow as the two Servants also charged, each having drawn a rusty saber from somewhere. They moved quickly and were at Jake in an instant, but Jake remained far faster as he stepped down and teleported forward, appearing right in front of the surprised Priest.
+
+He already had a katar in both hands and proceeded to use Piercing Fang with both of them before the B-grade could even properly react. One katar went into the undead’s skull, and the other his chest as both weapons exploded with arcane energy a moment later, launching the Priest away with two holes in his body.
+
+The remaining Restless Dead charged towards him, but all Jake did was teleport into the sky as he looked down towards all six of them. He activated Sight and the Primal Gaze combo, making all six of them instantly start letting out hollow screeches as they collapsed on the sand and started rolling around. Well, two had already been lying on the sand, on account of not having legs.
+
+Before the Servants could get to him or the Priest recover, Jake snuffed out all six souls of the just-resurrected B-grades. The Servants nearly made it to him, attacking with their sabers as both were bathed in an odd white light. Jake didn’t bother engaging them in melee as he simply teleported back and pulled out his bow, landing an arrow on both effortlessly before they could react, sending them both tumbling towards the ground.
+
+Turning to the Priest next, the B-grade had only now managed to recover as the hole in his head needed a bit of time to mend, something he’d focused on. Despite being undead, he really was a classical Priest, capable of healing himself. Not that such an ability would help much here, as all healing himself had done was lengthen his suffering.
+
+Though, to be fair... it wasn’t as if the Priest could do anything to escape his fate. This was a fight with a foregone conclusion, as the gap was simply too massive to overcome. Jake showed no mercy as he charged an Arcane Powershot that the Priest was wholly unable to block, blasting half of the undead to pieces before Jake proceeded to quickly finish off the two Servants.
+
+After they were dead, the Priest also fell easily, never even getting the chance to show off all he could do. Jake reckoned this could have been a good fight before his evolution, but for the current him, yeah, he either needed peak-tier variants like the Behemoth and Archfiend or a foe significantly higher level than himself.
+
+You have slain [Priest of the Crystal Sands – lvl 375] - Bonus experience earned for killing an enemy above your level
+
+When the Priest died, he turned into blue energy like everything else in this simulation, but what happened to this energy was a bit different from usual. It surged towards the barrier surrounding the crystal Jake had originally come to collect, and upon encountering the barrier, both faded into nothingness.
+
+Jake looked at the crystal for a moment before letting out a sigh.
+
+“Guess no third phase to this trap,” he said, a little disappointed, but not too much. He understood that he was still in the “easy” section of the Central Domain, and the system had to facilitate for even weaklings to have something to fight. Sure, to Jake, an encounter like this was piss-easy, but for some of the Territories he’d taken down during the World of the Exalted Prima, they would have struggled. Which was probably also why they had already been eliminated.
+
+Flying over to the crystal, Jake landed in front of it and reached out to claim it. He didn’t trigger a secondary trap, so that was nice. Instead, he got a notification that he’d earned even more Prima Credits, which he reckoned Miranda would think was nice. Nice things all around.
+
+You have successfully harvested 3000 Prima Credits for your Territory.
+
+It was even a decent amount of Credits this time around. While it wasn’t a massive amount in the grand scheme of things, as Jake believed his Territory earned close to, if not already above, 100,000 Prima Credits a day due to its large Territory and payment from their dear Vassal, it was still a nice bonus. Plus, as mentioned, this was still the easy section, and the Credits gained seemed to increase rather quickly the harder the challenge.
+
+As Jake was thinking all these nice, positive things, he was suddenly hit by an intense heatwave that made him physically recoil. After claiming the crystal, the domain formed by the trap had slowly faded away until it disappeared entirely, turning the desert from night to day once more.
+
+“Yeah, I definitely prefer the cold over this,” Jake muttered as he wanted to keep moving, as standing still felt even more unbearable. At least the blowing wind when flying fast felt a little nice, though that, too, was rather scorching in this heat. At least in cold weather, one could put on more clothes or create some heat, while when it was too hot, there wasn’t really much to do. Maybe an ice mage could make things more comfortable, but Jake sadly wasn’t skilled in that school of magic.
+
+He did wonder exactly how hot it was, so while flying, he tried to take out a wooden table from his inventory that he’d swiped from somewhere. The second he took it out, the damn thing caught fire, and a moment later, it was entirely gone, practically atomized by the sheer heat.
+
+So, yeah, definitely stupidly hot, and not the kind of environment even peak C-grades could last in for long. Shit, Jake was getting more and more certain that B-grades weren’t meant to explore it either, as the further he got into the desert, the more the temperature continued increasing. He had to make more stable arcane barriers around himself to try to keep cool, and he even tried to isolate himself entirely with the hope that it would keep the heat out or the cold in.
+
+Unfortunately, some damn powerful concepts were at work, and Jake’s stable arcane barriers were continually destroyed when he tried to seal himself entirely. Ultimately, the best Jake could do was search his inventory for a large disc of metal that Jake had no idea why he had and couldn’t recall where it came from, but hey, it was somehow extremely heat-resistant, so he gladly used it as an impromptu umbrella to at least stay in the shade.
+
+While flying and dealing with the heat, he felt a telepathic phone call coming and quickly picked up, welcoming the distraction from being cooked alive.
+
+“Well, hello there,” Jake answered, trying to sound cheerful.
+
+“You sound like things are going well on your end. That’s nice. Would have been nicer if you’d reached out first to inform us of, you know, anything regarding the Central Domain,” Miranda said in a scolding voice, all while somehow not sounding at all surprised. Which only made things worse.
+
+“I... kind of got caught up in things?” Jake half-heartedly tried to defend himself. “But I have done plenty of testing! For one, I discovered that...”
+
+Jake proceeded to actually be a team player as he relayed all he’d learned during his exploration of the Central Domain, including some of his own musings and guesses. He also learned that the communication devices purchasable at the Beacon couldn’t reach the Central Domain. In other words, Miranda’s only way of communicating with someone currently was through her special Jake-communion skill. At least that skill worked.
+
+“That desert sounds like it could prove dangerous, even to you. Make sure not to overextend yourself and end up exhausted and faced with foes that even you can’t handle. Especially if there are more of these traps that isolate you from the outside world and hinder escape. These traps may even prevent you from fleeing using your Wings of the Malefic Viper,” Miranda mused, knowing quite a bit about several of Jake’s skills. He’d told her quite a lot, as, quite frankly, it was hard for her to strategize if she didn’t know what he was capable of. Of course, he still kept plenty of secrets, but he shared some things.
+
+“Holstred, Lillian, Kindroth, William, and Tramon have also all entered the Central Domain by now. From your earlier description of how you appeared there, I suspect people are spread out unless they expressly enter together. Given that he entered alone, chances are Tramon is flying solo, which I wouldn’t necessarily consider a problem. Also, in case you’re wondering, our Behemoth Vassal has also entered.”
+
+“That’s only to be expected,” Jake answered with a nod. He reckoned that most top factions had started sending their people into the Central Domain by now, as not going would quite frankly be silly.
+
+“I guess there’s not much more to talk about. Just be careful, all right? It would be devastating if you ended up dead and were out of commission for thirty days. If you do die, though, please try to do it somewhere with no witnesses; that way, we can at least act as if you’re still around,” Miranda said, being nice and curt. “Oh, and do keep me updated with any notable discoveries.”
+
+“Gonna do my best. To all those requests,” Jake said with a smile, not wanting to promise he was going to be overly careful, as that simply wasn’t in his nature.
+
+“That’s all I can ask,” Miranda said. “Now I’ll leave you to it.”
+
+With those words, she severed the connection, removing Jake’s distraction from the heat, making him instantly focus on the suffocating environment. Jake kept flying, wondering if he’d come across any other people any time soon, or if he was the only one stupid enough to venture into the desert.
+
+That’s when he finally spotted something. In the distance, before it even entered the range of Jake’s Pulse, he saw faint greenery. At first, he questioned if he’d somehow reached the other side of the desert already, but as he got closer, he realized it was an oasis of sorts. It was small, with only a few dozen small trees, some underbrush, and a lake about ten meters across.
+
+The desert clearly had fewer treasures than the jungle, but it was definitely about time Jake came across another one. Speeding up, he soon reached the oasis, and as he did, a wave of relief washed over him.
+
+A safe zone.
+
+Inside the oasis, the air was cool and normal; the sunlight didn’t feel overwhelming anymore, and Jake let out a loud sigh of relief. He walked through the oasis, taking deep breaths and enjoying the comfortable air. Looking towards the lake, Jake inspected it carefully, not finding anything amiss.
+
+With no one else around, why not take a breather and take a little dip? With a smile, Jake unequipped all his gear and proceeded to step into the water of the lake... and the moment he did, he instantly found himself fully underwater, having been dragged into some other dimension once more.
+
+He had been wrong. This was no safe zone. No lucky find. Instead, it was a far more vicious trap than what he’d come across earlier. A far more cruel one. Because as Jake looked around himself, seeing only water, he quickly realized that stepping into the lake had dragged him to the most evil place imaginable:
+
+A water level.

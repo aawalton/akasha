@@ -1,0 +1,403 @@
+---
+id: 19753b15-bd73-57b4-96c2-d6907b6ba0aa
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 498"
+slug: 0198-the-path-of-ascension-chapter-498
+partOf: the-path-of-ascension
+position: 198
+ownLength: 6218
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3530740/the-path-of-ascension-chapter-498"
+royalRoadId: "3530740"
+---
+
+Chapter 498
+
+With a working liquid mana stone talisman in hand, he was finally able to start prototyping rather than searching blindly, and that made all the difference.
+
+It was a good thing too, as Quill wasn’t very happy with his first results. The transfer runes were inefficient, they took far too much time to make, and the physical material wasn’t entirely used up, which resulted in its own host of problems.
+
+Despite all of the setbacks, he couldn’t wipe the smile off his face. He’d proven it possible and that was all that mattered at this point. He’d savor his win.
+
+Repeating but scaling down his tests, he watched the talisman activate rather than miss half the process in his surprise. While his transfer runes worked, they left quite a bit to be desired. But after years of trying to find alternatives, he’d rather just push ahead with what he had than to delay everything on its behalf.
+
+All of the liquid mana inside of the gems was fully utilized, but the hard outer shell hadn’t dissolved, as the talisman had already burned itself out on the readily available liquid mana.
+
+Quill paused at that revelation. Typically, enchantments were forced to harvest and convert mana into its purest form before actually using it. That was mostly a practical measure - ambient mana, by definition, wasn’t in an enchantment structure, and crystals were too solid to be fed into runes. But liquid mana was a fluid. A semi-unstable fluid, which could be trivially provoked into becoming an energy-state, gaseous mana at the exact time and place he wanted, thanks to it remaining his mana. That opened up… possibilities.
+
+Quill twisted suddenly as a sensation from the integrated Natural Treasures bled through his controls. Flapping his arms, he channeled the scrambled urges into something silly for the half napping phoenix to enjoy.
+
+It was that, or punch a hole through something.
+
+When he was able to suppress the urges once again, Quill returned to his research.
+
+Liquid mana was being only accessed and drained from the point of contact with the rune on the shell because he hadn’t created any holes, unlike his earliest attempts. It also explained why his initial talisman had worked so well.
+
+Quill only wished he could claim it had been intentional.
+
+His rune was so inefficient at moving the power, it acted as an inadvertent throttle to what would otherwise be an uncontrolled torrent. His earliest attempts at turning his normal, solid mana stones directly into talismans had failed because of the same problem. Solid mana stone transferred its full energy capacity all at once, and his new rune accidentally solved that.
+
+A little more testing even confirmed why his new rune was so good at stabilizing the mana transfer. He’d made a series of baffles when he’d been trying to make a straight pipe. However, now that he had them, he was content with the result and could even see some improvements.
+
+His first attempt had only blinded him because the liquid mana still emptied itself too fast into the light rune, even after accounting for how bad the transmission rune was. Fixing that was as simple as Quill could ask for, he only needed to make the rune worse. Something he had a lot of experience with. Eventually, he’d want to make some kind of proper adjustable valve rune, but for now, a bad one would do nicely.
+
+It also made liquid mana stones a fantastic talisman power source. One so good, it almost made up for all of the other disadvantages that came with them.
+
+Quill felt his grin turn wicked as he got to work. He’d never cared about those downsides anyway. Others might be worried about using all of their resources to best effect, but mana? He had more of that than he knew what to do with in a fight.
+
+Further testing quickly crushed his second hope, being able to recharge the spent flash talismans with liquid mana for easy multiple uses. While the outer shell appeared to be intact, channeling even a few million mana through the outer layer ruined the internal structure. It would have paired nicely with his Concept’s Folded Reflection effect of being able to send a bit more mana into a talisman as he activated them.
+
+Instead of writing the idea off entirely, he noted it for later study.
+
+If he wanted to redesign everything it might have been possible to find runes that could withstand that level of energy, but he didn’t bother going that angle. Talismans were inherently disposable, and he'd never expected any other result.
+
+As positive as the development proved itself, his original problem hadn’t changed. The outer shells didn’t get absorbed as part of the activation like his solid stones did.
+
+Quill took a stone and crushed it between his fingers. The shells weren’t hard necessarily, nowhere near as strong as the full stones were, but they were just robust enough that he was afraid one might be recovered after a fight.
+
+That wasn’t acceptable.
+
+Thankfully, he already had an answer. One of his Folded Reflection Concept powers had been the ability to drain mana, even at range. Liquid mana stone or not, used as a talisman or not, it was still mana and it only took a moment to drain the leftovers.
+
+Holding his breath, Quill centered himself before quickly activating and tossing the light talisman all in one fluid motion. The burst of light was enough to activate the safety bubble that prevented the light from bleeding through the walls, but his eyes never left the lingering shell.
+
+Then, because he could, he did it six more times, laughing the whole while, even as he burned through all of his stock and was then forced to clean up.
+
+Quill's first instinct was to run and brag to his friends, but held himself back through sheer force of will. He would do so later, when they were in the Empire safely and when he had more than a single light rune to show for it.
+
+Also, and more importantly, after he'd made some improvements.
+
+With a working and satisfactory prototype in hand, he started iterating.
+
+His first target was the transfer rune.
+
+It was very much cobbled together and he didn’t really like the final result. It would take far too long to create them in combat and it seemed like his easiest place to improve.
+
+The original rune was based on his [Spirit Print], which had a number of flaws he needed to address. His first idea was to change the base rune to the publicly available [Item Link] and have his AI work from there to develop something that might work for everyone. Sadly, the [Item Link] rune was so stripped down he couldn’t even find a place to start, and after a few hours he shelved the idea.
+
+Instead, he started looking at different transfer runes from other applications he might be able to learn from. He found little due to how rarely anyone used transfer runes at such high mana throughput, at least without having far more physical space to work with, but what he did find was helpful. He was just grateful most of his testing could be done on normal mana stone, which saved his Domain the effort of making even more liquid mana stones.
+
+It took three months, but he managed to simplify the transfer rune to something he was able to make even in light combat. His new rune took advantage of the spherical nature of his liquid mana stones, with nine overlapping and connected rings centered around a single axis that acted as the transfer point.
+
+Now, depending how fast he wanted the mana transfer to be, he was able to change the positioning of the rings, opening or closing the valve. It would take decades to get skilled enough with carving the rune that he could truly make changes on the fly, but that was only a matter of patience and effort, two things he had an abundance of.
+
+The efficiency had dropped further as a result of his modifications, but there was nothing he could do about that. None of that mattered to him; it worked.
+
+Quill walked into Liz’s lab whistling a jaunty tune from a show they had recently enjoyed. He was in too good a mood to deny himself.
+
+Liz raised an eyebrow at his sudden and loud intrusion, but he made a playful throwing motion, creating a small liquid mana stone and activating it.
+
+The light output was carefully controlled to mildly annoying levels instead of blinding, but Liz still had to blink for several seconds even after she popped to her feet.
+
+“You got it working?”
+
+“I did!” Unable to hold it back any longer, Quill let himself brag. “It’s been very difficult, but I did my best and that was more than enough. As expected.”
+
+Liz laughed as she took a newly proffered liquid mana stone talisman and inspected it.
+
+“It’s pretty.”
+
+“I designed it after your eyes.”
+
+Liz paused before smiling. “Oh now, mister flatterer. That won't save you from the following question. How useful are they?”
+
+Quill waggled his hand, not lying. “There’s a lot of room for improvement and I’m limited to fairly simple, single effect talismans right now; so about that good.”
+
+“I know you made something flashy. Don’t keep it to yourself.”
+
+Unable to help himself, Quill pointed at the previous mana talisman and deadpanned. “That was plenty flashy.”
+
+“You know what I meant.”
+
+He did and opened a [Portal] into the estate’s training room where he activated all of the defenses, not wanting to damage everything.
+
+“Like I said, I'm limited to one or two primary runes, so don’t expect flash tracking talismans any time… well, ever. I might be able to simplify runes I like, making them easier to create, but right now the talismans I’m drawing aren’t that different from a normal talisman. So keep that in mind. Well, the results are pretty standard. My methods are less so, and I’m sure it’ll be an adventure to maximize my new crafting techniques, but that's for later.”
+
+“Are you trying to temper or raise my expectations?”
+
+“Yes!”
+
+Accompanying his single word answer, he made and threw a small mana talisman at the far wall.
+
+The [Mana Slash] was forty feet long and as wide as a typical bus, which spoke to the shoddy refinement he’d managed with such a crude talisman rather than a show of strength. The mana was blocked and then absorbed by the far wall, which gave a complete readout of the damage and methods to improve.
+
+Proving how good his talismans were, the wall even falsely identified the spell as coming from an actual cultivator.
+
+“That's it? It says it only hit as hard as a typical Tier 27 attack.”
+
+“I wasn’t trying to break anything,” Quill shot back defensively.
+
+Seeing Liz’s disbelieving look, he widened his eyes and tried to portray innocence, but she didn’t buy it.
+
+“No, really. I know I’m hitting some diminishing returns but it's not like a channel skill where the results are calculable based on the amount of mana invested. I really don’t want to have to explain to JR that I broke his estate. He’d pester me about it for sessions. I can’t give him that kind of ammunition.”
+
+Liz turned to him with a playful look on her face. “Wait, what? Are you messing with me? Doesn't that mean if you just sit here for a few weeks you can let out a strike with Tier 50 power?”
+
+“I wish.” Quill rolled his eyes. “Even if I could create runes strong enough to withstand the activation of that much mana in a single burst, which I can’t, I’m confident we'll run into other problems. No, really, I wanted to start at a safe level. That was only a few million mana. Realistically, I'm spending multiple times the amount of mana a same Tier cultivator would have in total, for that single attack.”
+
+He left unspoken that few others had so much mana to throw around, controlling his urge to brag with everything he had.
+
+Making another talisman, he repeated his testing, raising the mana he spent until he’d reached Tier 32 attack power.
+
+Creating but not activating another talisman, he mused, “I think that's about what I’d feel comfortable making in combat outside Icliz’s aura right now. I could go higher, but that would take more time to create, which I’m not sure would be worth it. I should be able to toss one or two of these out basically any time I’m not using my Domain for something super demanding.”
+
+“What else can you make? Shields? They might be useful.”
+
+Quill raised an eyebrow, even as he browsed the easier to create shields talismans. When he found one he thought might work, he slowly created the liquid mana stone and carved the talisman. Not because it was a hard and complicated talisman, but so Liz could watch the process.
+
+When he finished, her words were the sweet flattery he’d been hoping for earlier. “And you did all of that at once earlier? That's quite a bit more impressive than you make it look.”
+
+“Thank you for realizing that. This is very much one of those things that practice makes perfect. After I make a few dozen, I can usually speed up, but I actually didn’t think about shields. Most of my efforts went offensive.”
+
+Tossing the talisman into the air, a thirty foot wide and ten foot tall wall of mana appeared briefly before vanishing as the talisman failed.
+
+“Not great. It burns out too quickly, but still useful.” Continuing to think out loud, he added, “If only you guys could use these. I’ll put that on the list of things to do. Let me try slowing it down. That’s my best guess at improving this idea.”
+
+A few moments later, he tossed out his second attempt at a shield talisman, having dialed the transfer rate down quite a bit. The resulting shield lasted longer, but it also lost so much defensive power in the process he determined the trade-off wasn’t worth it.
+
+After he shared the results with Liz, she asked, “What do you intend to focus on next? Did you only finish the mana slash?”
+
+Quill felt a lot better getting back to prepared ground and rubbed his hands together. “Only a few more, but I don’t love that wording. I have a few more to show off. I didn’t ‘only finish’ a few more, no matter how true that may be.”
+
+The following liquid mana stone talismans exploded in a wash of fire and ice respectively.
+
+“Admittedly, the ice one is just a cooling effect rather than a materialization effect. It's a lot easier to make fire than it is to make ice. I need to complain about that to Aster next time she complains about me defaulting to heat in a pinch. It's thermodynamics and physics, not me.”
+
+Liz rolled her eyes, knowing how unlikely the two of them talking actually was while he was in his current state. He hadn’t even seen Aster for the last two years. Any time she wasn’t overseeing the bloodline business she opened, she was with Max, her friends, or Allie tracking down people who might have spirit spaces in the Corporations.
+
+All places he wasn’t.
+
+Except her friends.
+
+He made sure to swing by every other month or so to make sure no one needed anything. It would be far too easy for their friends to be caught up in something and not want to bother any of them until it was a larger problem than it was originally.
+
+Thankfully, none of them had any such issues. In fact, the only one to have anything left to do was Cameron, but her problems were entirely business related.
+
+Quill hadn’t expected that out of everyone they brought along, she would be the only one to actually create a thriving business that wasn't secretly financed by him. He’d anticipated at least a few others to match the otter’s drive, but he couldn’t blame them for taking advantage of the break they were promised instead of working as hard as she’d needed to.
+
+Cameron’s cleaning service was well targeted. She started by offering to teach skill creations related to cleaning at only slightly over cost, undercutting the existing schools who were the current skill teachers. It had taken her a few years to scale up, but she had four hundred employees and if they had a few more years, would have been looking to break into another floors market.
+
+However, she’d already admitted she had no intentions of trying to operate the business remotely. According to her, most of her success came from her own leadership and the willingness to step in where needed.
+
+Quill, having access to everyone but her finances thanks to her positive income flow, peeked at the public listings, where he determined she wasn't wrong. If she stayed local and actually cared about the business, he was sure she’d be cleaning JR’s office in another few millennia.
+
+Pondering her results, he penned a note to his future self. It might be an unconventional choice, but eventually Kees was going to step down from his position as Titan’s Torch’s vice guild leader and day to day operational manager. How and who to replace him with had always been a concern, but if Cameron was so capable, he might have found Kees’ replacement.
+
+It would be some time before she was prepared for that level of responsibility, but once his mind caught onto the idea, it refused to let go. It wasn't only the financial side of things that might cause issues with a replacement. His next vice guild leader would not only need to worry about his Talent and help him launder its mana, but they’d also need to be able to run his guild.
+
+Cameron had also proven herself trustworthy enough not only through her friendship with Aster, but through her decades of existing work at the guild. Tapping into his mental calendar, he sent a reminder to look into getting her on the management track where he paused, finding he’d already had similar thoughts in the past.
+
+Rolling his eyes at himself, he pushed a message to Kees, telling him to look into it and thus wiping his hands of the matter.
+
+The other person who managed to surprise him was Rah, who’d only revealed what he was doing after he’d succeeded. After browsing every library and repository of knowledge in Asa, Rah had managed to recreate a skill that had been lost in the Ascendancy’s fall.
+
+Already deliberately kept rare, it hadn’t been hard for all known rifts that dropped the skill to be wiped out, leaving it to only appear as a rare random drop. It was a skill originally known in the Ascendancy, and Rah had discovered its diagram in some of their old texts during his research, so it wasn’t publicized when he started selling them.
+
+The Tier 0 and Tier 8 [Dark Vision]s he’d published weren’t the most popular skills for combatants, at least not initially. Their initial success was from the civilian sectors as a generally useful life skill, but they were starting to see it picked up as a skill for the stronger teams who were willing to delve the less popular and usually more difficult night and underground rifts.
+
+Personally, Quill thought Rah had caught a bit of a skill making bug after his first taste of success. It wasn’t the wealth, Rah was a seasoned immortal who had no issues making a living, but rather how much he liked the atmosphere the Empire and most of the Great Powers had surrounding the Tier 0 skills, letting them be shared for a pittance.
+
+Quill shook himself to refocus on the person in front of him instead of the ones in his head.
+
+“Sorry, I got distracted. Again. So, what do you think?”
+
+Liz pulled out her spear with a wide grin like she’d been waiting for that exact question. “I think it will be super useful. Why don’t we spar a little and see how useful it is together?”
+
+Not needing to be told twice, Quill flexed his mana pool, creating a staff as tall as he was. It wouldn’t hold his talismans like at the Tier 10 tournament, but he didn’t need that any more.
+
+Quill used the shaft of his staff to deflect a light thrust as he teased. “You’re going to have to do better than that if you want to spar!”
+
+Liz sped up and poked him twice in rapid succession, slipping by his defences. “I’m sorry, what was that?”
+
+Skipping backwards, he tried to sound as whiny as possible. “But we hadn’t officially started yet. It's not fair!”
+
+In the final word, Quill made and activated a talisman.
+
+It was simple. A single rune talisman. It was something no self respecting talisman business would sell and would get him laughed at if someone was able to see him before he used it in combat.
+
+The world went white for a brief instant as nearly a quarter billion mana was converted into light.
+
+Liz wasn’t as phased as he'd hoped. Unbothered by being blinded, she poked him three more times in rapid succession.
+
+“Hey, I liked this shirt and you are making holes in it.”
+
+“Yeah, so did I. But I also like it off of you, sooooo~.” Liz’s words were accompanied by two more playful pokes.
+
+Having enough, Quill formed and activated another talisman for nothing to happen.
+
+Instead of pressing her opening, Liz stopped mid-poke and asked, “Everything okay?”
+
+Not bothering with any formalities, he sat down on the floor and started fiddling. “I was trying to be clever and create a cycle based talisman. I was aiming for hundreds of projectiles rather than one big one. It would have been really cool had it worked. Sadly, no matter how fast the cycles are, they are still slower than a single activation and timing-wise, that's about all I have.”
+
+Activating the freshly made talisman to no effect, he finished. ”Dead idea.”
+
+Liz crouched down next to him and inspected the gem, but after only a moment she shook her head and stood up. “Yeah, I have no idea what you are talking about. Sorry.”
+
+Quill waved away her concerns as the two of them resumed their testing, where he made two more talismans. Out of necessity, both were incredibly simple, single rune talismans with room for improvement, but each helped solve a problem.
+
+The first, a simple concussion wave of pure mana, wasn’t necessarily deadly, though it would do some damage if activated at close range. Its real purpose was to knock back or turn aside projectiles with a well timed pulse. The talisman itself was so simple and easy to make, he could rattle a new one off every few seconds in a fight. When his control improved, he intended to take a few pages out of Light’s Codex by making adjustments to maximize his effectiveness for specific situations.
+
+The second talisman was far more complicated, being based on [Breach], and was meant to bypass physical defenses that wide area attacks might struggle against.
+
+Titan usually was able to just brute-force things, for a certain definition of brute force, but to reach that level of power, by necessity he needed to focus on a kind of… generic approach. Good at everything, great at very little.
+
+Talismans had always been his counter to that, preparing more specific tools for specific situations. Being able to flash-create talismans would let him get even more specific with his counters, bringing a specialized macuahuitl - there was no situation in which Quill could truthfully call his successful efforts a mere scalpel - to bear precisely where it would be most needed.
+
+With his final goal accomplished, Quill finally let himself do something he swore he’d do when they made the trip.
+
+He took a break.
+
+For an entire month between two of JR’s sessions, he did nothing.
+
+Every day was at least partly spent with Liz. As for the rest, some days he hung out with friends, other days he wandered throughout the city, going with the traffic flows until something caught his attention and he detoured. For a rare few days he just found a quiet place to sit and enjoyed the chance to turn off his brain.
+
+The break was fantastic and well timed. However, it didn’t last forever. It couldn’t.
+
+They were almost done with the armor, and he needed to prepare to reintegrate with 『　』.
+
+After learning they couldn’t start work on his [AI] modifications immediately because of his name removal, he’d asked Max what, if anything, they could do to minimize the downtime. She, of course, had several answers, but most of them devolved to meditation and mental exercises.
+
+They weren’t fun or flashy, which made it hard for Quill to focus, but he could at least get through them. Titan tried once but found it impossible to fall into the proper meditative mindset because his battle sense was already a form of meditation, and one so core to his identity that any time he forced it, the dominant personality reverted to back Quill.
+
+That left Quill to do it all himself, and he made sure to note his frustrations down for Blake. He owed… him.
+
+How Blake would pay a fragment of his own personality back once the whole was put back together? Quill had no idea, but he thought his expression would be funny when he saw the note and that was enough of a reason for him. It wasn’t often he got the ability to play a prank on himself in a way it wouldn’t feel forced.
+
+Taking advantage of his own predicament only took him so far, and the rest he had to muster through on pure willpower alone. It wasn’t that Quill didn’t have access to all of their will power, but without a personal desire to work on what he was doing at hand, he wanted to complain about doing it. Mostly to Luna, so he did exactly that and sent her a running stream of his complaints as he worked with Max through the incredibly boring lessons.
+
+The replies were exactly what he expected, and put a smile on his face whenever he pestered a new one out of the cat.
+
+The last year passed in almost a fugue state between sessions as JR put the finishing touches on the armor and the burden grew.
+
+On the day of, Liz and Aster came along.
+
+Aster was frazzled but he had little mind for such peripheral details.
+
+Things were…
+
+Hot.
+
+Humid.
+
+As if he was in a swamp and not a laboratory.
+
+His chest was heavy—
+
+Quill blinked as things refocused, the feelings vanishing as JR welcomed the other two into the lab.
+
+The lab that had been home for the last two decades.
+
+Where he’d been hung up and worked on like a coat.
+
+Quill paused mid-step.
+
+Where had that thought come from?
+
+He tried to drill down on the thought but a barking laugh from JR shattered that train of thought completely. “Are you ready, Quill? A final inspection before you pay?”
+
+“Unless you swapped out the armor, I was there for every agonizing step of the process. It's ready.” Quill rolled his eyes, not caring that a Manny clone or the other two saw it.
+
+“Well too bad, because I want to show off. Onward paying person and additions.”
+
+Manny shot Quill a side eye but he shrugged, taking no ownership of the bird's actions. Also, the armor was amazing and deserved to be praised, there was nothing wrong with that. It wasn’t like he hadn’t known about the bird's ego, and that declining would lead to the same result without him being the one to brag.
+
+Not at all.
+
+“Ta da!” Proffering a wing, JR showed them the see-through 『　』 surrounded by hundreds of newly made scanners. The room that contained it all was a… wonderwork in its own right.
+
+It looked a bit like a starscape from one angle. Luminous nebula clouds hung in the distance, while clusters of stars made constellation-like tools, organized perfectly neatly as far as Quill could see. Then a centimeter later, everything changed to be biological, with veins of glowing liquids being distributed throughout the pulsing room, dozens of hearts pumping ‘blood’ in every manner conceivable.
+
+Then he blinked, and 『　』was deep in the heart of a planet, molten rock and metals flowing through pipes and channels replacing the blood and hearts. When he tried to study it all, the room then became a solid wall of books and paper stretching out to infinity, every page absolutely covered in dense but beautifully illustrated runic script.
+
+But no matter the visual,『　』was always there in the middle of the room.
+
+Floating there like a—
+
+JR’s words broke his train of thought like a door slamming. “The first and most important layer is the core built around the neutronium. It can be regrown, and any lost pieces can be reabsorbed and reintegrated, but it will take two or three millennia to regrow an entire body's worth of at-Tier neutronium, even accounting for your own increased regeneration. Try not to lose it all in your first fight.”
+
+Quill never intentionally left body parts lying around, Liz normally cleared any biological remnants they might leave behind, but he wasn’t dumb and gave the bird a flat look. They were supposed to be showing off the armor, not bashing him.
+
+Unbothered, JR gestured to a thin layering of mana that ran under his translucent skin. “The outer shell is already some of my finest work. Look at these defenses. Look at this strength amplification! Praise me. Yessss!”
+
+Quill cocked his head, trying to parse the unexpected words before JR’s laugh made him regret letting the bird take the lead.
+
+“I was just checking to see if Quill had stopped paying attention. There is no strength application as part of the base armor. No, as we originally discussed, most of the effects are centered around making mana easier to control. You can see some here, The gold intertwining with the neutronium, that is the remnant of the Ichor Bonsai Apple, Chosen Legion. That addition was very helpful in stabilizing the resulting body changes. Quite the interesting element you created there. If you want something made, do pester your Tier 50. I’d love to get a better look at you. I mean your blood.” Coughing, the bird faced the armor, “The blood generation effect slotted in nicely with our body enhancements. Now, body enhancements should take less of a drain physically, freeing up mana to be used elsewhere. Look at this darker tint to the mana lattice over here. This is a —”
+
+Quill started to tune JR out at that point, but he kept enough of an ear out for another test. Most of his focus was on the next step.
+
+The final step.
+
+Using the strange realm reward.
+
+Hundreds of years after the strange realm, it was time to use it. Except as the moment grew closer a fear started to rise in him.
+
+Was it too late?
+
+Had the reward gone stale like bread two days out the oven?
+
+The thought came out of nowhere and refused to leave, no matter how many times he inspected the perfectly preserved reward.
+
+What if there was an internal timer on the reward?
+
+Did a strange realm have that level of control?
+
+Quill’s silent spiraling was halted when he heard JR mention the gem. As he retrieved it from his chest, a small part of Quill was certain he and everyone else would only see a hollow husk.
+
+He found it as vibrant as the day he’d captured the reward.
+
+Not letting anyone see his breath of relief, he nodded and tapped into the liquid mana stone’s hard outer shell. Looking at it almost felt nostalgic. The Blake that made the gem had no idea what they’d made, or how to destroy it beyond physical damage, but now he only needed a single thought to collapse the structure.
+
+“Don’t be shy, not at all! Just hold it right here, and let it shine!” JR’s voice pulled him from his introspection once again, but he didn’t want to do anything wrong at this point, so he begrudgingly held the crystal in the indicated spot.
+
+Once there it began to fold into the multifaceted nature of the room around him. Then, as the crystal broke like a piece of shattered glass, so too did the room around him.
+
+Beyond the reality was only darkness.
+
+Not the darkness of JR’s strange language, but something loftier.
+
+Quill was only able to observe as the darkness slowly grew to encompass everything except himself and the armor. Except as only they remained, he realized something.
+
+It wasn’t him, the armor, and the darkness. It was only him and the armor. The darkness somehow was the armor, just the parts he couldn’t interact with.
+
+Quill didn’t know what urged him to step forward, but he was no longer restrained and the darkness blurred around him, forming columns that stretched further than he could see above and below.
+
+It wasn’t until an unfelt wind passed through the armor that he realized the columns were wind chimes. Long, endlessly tall and hollow tubes, each one represented a power his armor possessed or could grow to have.
+
+Quill took a moment to look around at the sea of possibilities and considered they might have gone a little overboard, before dismissing it. It wasn't his fault the strange realm hadn’t expected someone to get a perfectly made item.
+
+Thankfully, the area was responsive to his thoughts and the wind chimes played a pleasant melody as he moved forward through them, looking for his prize.
+
+His first stop was the largest and most real wind chime in the darkness, but that didn’t surprise him in the least. It was the core of the armor.
+
+Quill still gently touched the wind chime and sensed what it housed before committing. There were no second chances here, and while he didn’t have time to spare, that really meant he didn’t have the time to rush.
+
+Thankfully there were no surprises.
+
+The chime represented the armor's ability to control mana.
+
+If Quill was outside, he’d have sighed with relief and possibly given the raven a hug, but instead, he sent in nearly half of the energy given to him by the strange realm reward, locking in the chime as the item's Tier 1 growth power.
+
+A real fear he had going into this was that the armor would be too specialized, and the closest power he selected would be an ‘internal mana control’ or something along those lines.
+
+Thankfully, it wasn’t an issue.
+
+As he made his first choice, the world, the darkness, the armor, himself, hummed in tune with something grander than he could comprehend. At the same time, the chime turned a blue that perfectly matched his mana. Then at the moment the blue reached the top and bottom of the chime, the entire structure solidified and crystallized like his mana after he’d used his Tier 25 Talent.
+
+Then, having already been empowered, the chime faded into the darkness, vanishing from his sight.
+
+With his first prize secure, Quill stepped through the forest of metal, listening to the distant echoes and hoping to find the part of the armor he wanted to make its Tier 25 growth power.
+
+He already had a plan, but it was more ambitious. So much so that the longer he searched without finding it, the more worried he became.
+
+Thankfully, his fears were unwarranted and JR’s excellence was highlighted as he found what he’d been looking for. The chime in question was ephemeral, like several chimes had been layered on top of each other, but that only made him more excited.
+
+Somehow, the crazy bird had managed to convince the armor that the ability to better regenerate itself and himself, their theorized ideal Tier 25 ability to awaken, also covered the additional growing functions he’d built into the armor.
+
+Quill would hate to admit it - but he would if the bird ever directly asked-, but JR was a genius. No matter how he’d done it, he prevented Quill from having to make a hard choice between the two effects.
+
+Quill desperately wanted to spend some time and study the layered chime. To glean something from the overlapping powers, but he didn’t have the time.
+
+With one final push, he sent the rest of the strange realm reward energy into the chime solidifying the Tier 25 power.
+
+The ephemeral chimes conversion was much slower, but he could only watch unsure if it was a good or a bad development. Thankfully the energy didn’t run out midway, and when the pillar turned solid, he felt himself ejected from the world.

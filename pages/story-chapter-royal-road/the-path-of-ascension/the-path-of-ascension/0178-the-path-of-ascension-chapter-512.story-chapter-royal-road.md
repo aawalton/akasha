@@ -1,0 +1,315 @@
+---
+id: 778fed3d-95b8-56ed-b97a-5ae61e958e9e
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 512"
+slug: 0178-the-path-of-ascension-chapter-512
+partOf: the-path-of-ascension
+position: 178
+ownLength: 5811
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3844835/the-path-of-ascension-chapter-512"
+royalRoadId: "3844835"
+---
+
+Chapter 512
+
+After their victory, they weren’t given time to lounge around. The moment their ship picked them up, they were back off into chaotic space. Once there, all they could do was wait, but that didn’t mean they relaxed.
+
+Matt started picking at his Image, comparing what he’d felt in the battle to what his current iteration was and where he thought it might be better served in going. He didn’t have, nor did he expect, any great revelations from that single fight, but he felt good about the small tweaks he managed.
+
+Aster tried to join him, but she struggled to make solid progress. The very real possibility that whatever she made could become irrelevant, or worse, a hindrance, when she finally figured out her space ice hung as a specter over her efforts. That didn’t mean they were wasted. They would serve as fuel to help her rebuild should they crack or worse yet shatter her Domain outright as she shifted her bloodline once again. They’d prepared and had plans for such an occurrence, but that very knowledge contributed to making it harder for her to develop anything.
+
+Matt would have loved to say the chances of that happening were slim, but the farther her potential Level 5 mana type strayed from ‘ice’, the higher the possibility of catastrophic destruction became. What they learned from Tim’s experiences with holding his Domain together would help should the worst happen, but it was their last resort.
+
+Though, they were still preparing for it. Such a shattering wasn’t without its positives, even if it took looking to find them. Should Aster's final mana type stray too far from her original ice baseline that her Domain broke, that destruction offered her an opportunity to reshape her previous foundations. It would depend on how thorough the damage was, but that was always going to be the case.
+
+Whether it be reconstruction, re-creation, or something entirely new, they would all demand a level of introspection from her. That, and he was personally more interested in that particular flavor of busy work when the alternative was simulating Level 5 mana types that involved ice as a core concept over and over.
+
+Even with his mana generation, simulating the unknown was always a toss up as to whether the models he relied upon were representing reality accurately enough. Most failures were usually easy enough to discount, thanks to the amount of previous data they had. But anything with over a 0.01% chance of success was shuffled into the pile for later testing. The rest were still saved for Aster's later perusal, in case anything stood out to her, but that would require her lab.
+
+Liz, on the other hand, was inspired in a slightly different direction. She pulled out her cauldron and started reducing a few handful of Tier 15 ingredients alongside a dash of aura. She, along with most of the Realm, had tried to find ways to integrate aura into their work, but bloodline potions had proved especially difficult.
+
+Unsurprisingly, the Collective managed it first. The first product had only been a marginal improvement over the existing potions with similar effects, but like all first products, it showed what was possible. It had only been one of the more common bloodline refinement potions that let someone excavate more of their existing powers, not the more important ones used to prevent bloodline regression between generations, but it had still managed to cause a splash.
+
+What differed was that the Collective hadn’t followed in Matt’s footsteps and shared the process. They did what every Great Power had done since time immemorial and kept everything under lock and key, guarding the process fiercely.
+
+Liz hadn’t been the first copycat, but she had been in the first wave. However, like all of the successful imitations, she’d only cracked part of the puzzle. It took her personal efforts to create the potions, as it required her growth item cauldron to help bridge the gap. Making aura play nice with bloodline potions was not an easy thing.
+
+Everyone who’d succeeded seemed to have a similar issue, though their exact processes were kept under wraps. Or they pretended to so they didn’t draw the Collective’s ire, but the result was the same. Limited quantities of specific aura enhanced bloodline potions that individuals had discovered.
+
+Matt kept an idle eye on her testing, recording her every move and the potion’s reactions as he had thousands of times before, but that's where his usefulness ended. Aura may have been easy to capture and harness for ephemeral applications, like a Domain, but tying it into a potion that worked on a bloodline had proven far more difficult.
+
+Even Tim had taken a crack at it, hoping to get an entry and an easy solution. However, like most others, he failed to succeed even once by using someone else's methods.
+
+It was a simple truth. True mass production was firmly out of the realm of possibility. Liz had come closer than most, though. She blended the aura and potion’s core ingredients together via her cauldron and could give those concentrated doses to her people, who finished the rest of the steps and allowed her to maximize her time.
+
+She’d made an ocean’s worth to cover minimal orders during the war, but that didn’t stop her from tinkering with the process while they had the down time between battlefields.
+
+Not that their downtime lasted long.
+
+Two and a half weeks later the Ascender Chat exploded with the news of their latest fight.
+
+Moe’s message was as effusive as it was curse laden. “You ‘ucking shit stain of a sonofbitch! There is no way you put neutronium in your body?!? How much? That looks like a full bar’s worth in your sword! Did you get two bars?!? HELLO!!!! ANSWER ME, YOU BASTARD! WHY ARE YOU ON MY SIDE DURING THE WAR? WHO DID THIS TO ME!?!?”
+
+Matt let himself enjoy the dwarf's over the top reaction for a moment, having been expecting exactly that since he’d gotten his augment.
+
+The retirees were the first to respond, with Lila just barely edging out Eclavorn. “Awww, do you feel less special for not being the only one to have a super heavy weapon? Poor baby. Awww.”
+
+“HA! That's what you get, Moe! Your idea was stupid anyway.”
+
+“It was not! Matt, back me up here. A bar of neutronium makes for a great layer of armor. Though, now that I look at it, that doesn't look like typical armor. Maaaaaaaattttttt, where are you? I see you online, you thrice damned coward! ANSWER MEEEEE!!!!!”
+
+Matt would have let Moe's stewing continue for a little, but he saw that more and more of the others were actively engaging the Ascender Chat, which forced his hand. The retirees had little else to do during a war other than watch and interact with the others and he knew Lila had been waiting for this moment almost as much as he was.
+
+With all of them online, it was more akin to a mad house of shouting and bickering, and he’d much rather get the pertinent information out before that happened.
+
+“Yes, Moe, I used that bar of neutronium we got from our trip to the Clans. Thanks for asking. A fraction went to my new armor while the rest went to my sword. It's been pretty useful.”
+
+Along with that, he also sent a short burst of data that had no doubt already been calculated, but might not have been spread to the others yet. His and his sword's weights.
+
+At the same time, Ellen gave everyone a treat by sharing a recording of Moe’s initial reaction to learning about Matt’s upgrade.
+
+The dwarf in question was sitting in a blank and featureless staging room that Matt identified as matching the area they were reported to have planted their flag. Moe had been slowly peeling and eating a bushel of grapes before he twitched and a grape bounced across the room as he squeezed a little too hard, ejecting it from nature's protective casing and sending the rest of his team ducking.
+
+Moe didn’t notice as his eyes went wide and his lips trembled as the initial video of them taking the fortress planet must have reached him. The follow up of their fight with the elite teams made the dwarf flush red before he started jumping up and down shouting in the recording, which was when Matt assumed the messages had started.
+
+“That's not fair! Oh, that's amazing! I know what will be fun! Ellen just pointed out that you must’ve gotten good at gravity magic to hide this for so long. Let's see if you can make yourself heavier than my hammer! We demand a fight! Redirect over here and let's test the limits!”
+
+Maya at least had the good grace to correct the excited dwarf. “No way that armor is that simple. Don’t expect Matt to share anything that hasn’t been revealed already.”
+
+“Dumbass.”
+
+The second message was added almost immediately after the first, but Maya's final parting shot still managed to distract everyone as the Tier 35 peeped out of her hole.
+
+“Oh, the liar decided to show herself.”
+
+Matt expected Aiden’s message to spark off another round of fighting, but Moe refused to let them be distracted.
+
+“We can all point out that Maya is a piece of shit who refused to leave the war Tiers on a loss later. Don’t interrupt, or I’ll get Allie to teleport me right next to you! I’ll fucking knock your cock off with a suprise full powered punch, Aiden. Don’t test me! I’ll fucking do it!”
+
+“Allie likes me way more than she likes you, no way she’d betray me like that.”
+
+“If the Boss hadn’t explicitly forbidden me from teleporting anywhere near the battlefields, I’d come grab Moe right now, Aiden. You could use a punch in the dick and you know it.”
+
+While they hadn’t been Tier 35 for long, the other Ascender teams had been more than eager to tap into the Allie Express. That included Maya, who, despite her proclamations that she was done with the war Tiers after the last war, had never taken that next step.
+
+According to the Republic Ascender, the story was that Janet refused to let her leave the war Tiers and was paying her ridiculous ongoing bribes to stay at Tier 35. Everyone else unanimously agreed she simply hadn’t wanted to Tier up with a loss as her final war record, and had stubbornly stayed put out of sheer pride and stubbornness to correct that stain.
+
+Maya herself had denied all such accusations as slander, but she still hadn’t Tiered up.
+
+“Fuck all of you, I’m in a war right now, I can’t exactly Tier up or I’d Tier out. I’m not Ever Mist who pussed out and Tiered up instead of dying like a real Gladiator. Besides, aren't we hounding Matt? How the fuck did we circle back around to me? The minute this war is done I’m fucking Tiering up and coming to kick your asses.”
+
+Matt almost thanked the reality warper as her deflection worked and the chat refocused on him.
+
+Moe’s message was accompanied by a picture of him on his knees, hands out in supplication. “Please Matt, just one fight. Please, just one tiny brawl. Afterwards, we can even go fight together! The two strongest, most coolest, and most awesomenest people in the Realm. We genuinely are planning to Tier up after this wa— hey ow, stop hitting me. It hurts, oww fuck. Stop, I said I’m sorry. I just said it right there! It definitely counts! Oww, ow, owwwwww!”
+
+Matt wasn’t the only one to immediately reply back with a series of question marks, even as he notified Liz and Aster that they should pay attention to the chat.
+
+Ellen’s message managed to convey a sense of breathlessness despite arriving almost immediately.
+
+“I hate this idiot! Haaaaaa. Okay, I’m calm. Yes, while we planned to keep it quiet, the over eager dip shit blurted it out, so no point in hiding it further. We are officially planning to Tier up after this war. We’d already been considering it, and unlike Maya, our leader is actually paying us to stick around. But no amount of resources are enough anymore. At least not Tier 35 ones. Ultimately, that was our deciding factor. We just want to Tier up.”
+
+Moe’s message was immediate. “Unless they can get me Matt’s armor. I’d stick around for that. What do they need to find, Matt?”
+
+Matt rolled his eyes, sharing another piece of information he knew wouldn’t stay hidden for long, now that people would start looking. His personality shift would become obvious in retrospect.
+
+“Unless you can get JR to make a name bound growth item, good luck.”
+
+His words caused a bomb to go off in the chat and he let himself grin at the reactions.
+
+“I was fucking right! I want my spectra-kaleidoscope back right now, Olivier. Run your ass over here and drop it off!”
+
+Maya immediately started trying to overturn the previously settled bets, given Matt’s admission. He didn’t even blame her, but Max shoved that chat into a side channel where she could argue with Aiden, Wun, and Olivier without distracting the rest of them as the three immediately started protesting, even though they all knew it was valid.
+
+At the same time, Max dropped a small novel of complaints into the general channel about how it wasn’t fair JR had been willing to make a named item for Matt, but hadn’t been willing to do so for her.
+
+Matt sent her back an edited down version of her complaint that was boiled down to the whining, but they got shifted into a side channel by Ellen almost immediately. He had to give up their game after she had a dozen minds join and overwhelmed him through sheer volume, but he got a few good snipes of his own in.
+
+Really, if she’d explored as hard as she complained about his armor, she might have found an even better strange realm in the meantime.
+
+Matt wasn’t peeved about her winning the argument at all. Not even a little.
+
+“That’s so cool! WE NEED TO FIGHT!!!! COME ON MATT, TURN AROUND AND LETS MEET MIDWAY. IT WILL BE THE BATTLE OF THE WAR!” Moe bellowed into the chat with enough exuberance that even Matt had to smile.
+
+Lila pointed out the problem with that concept. “Dip shit, you two are on the same side. Can you imagine the fallout of such a battle this early into the war? Wait until the end, then have it out. You know how this works. Maybe you do need to Tier up, you’ve gotten dumber the longer you lingered.”
+
+Moe's wailing got banished by all three of them, but not before everyone had enough time to grab the evidence.
+
+“How the hell did you get JR to make you a growth item?”
+
+Wun asked a stupid question, so he ignored it.
+
+Ellen was thankfully up to the task and asked the real question. "Put together the timeline and actually look at it. We know they got a strange realm that let them make something into a growth item during the Rasdale breach. The real question is how the hell he preserved it for almost five hundred years. It has to do with the liquid manastone you've been putting in your sword, doesn't it? Can you preserve strange realm rewards? Matt? Answer me!”
+
+Finally given the chance to show up everyone else he did his best to not brag too hard at the start. That would just irritate everyone and he wanted to enjoy this. “No. I wish. I will fully claim credit for achieving it once but I’ve tried to recreate the feat. More than once in fact and I’ve failed in every attempt. I thought I had it for the friction control reward we got but I flubbed it right at the end. Damn near lost the reward. In the end capturing the original was a near inspiration moment for me and I’ve never managed it since. I’ve had to absorb the rewards just like everyone else. You have to remember that that strange realm reward was already external and something I had some level of control over. Most strange realms just give you some new ability. I can't do anything with them any more than you can.”
+
+He wasn’t even lying. Technically, every attempt had failed, even if not for the reasons they would hopefully land on. For the strange realm rewards that did have a discrete energy, he’d actually been able to isolate the rewards fairly handily. It was just that very few rewards actually benefited from being delayed, so he just immediately absorbed them.
+
+Sadly, he’d checked and he didn’t have that level of control over other people’s rewards. Despite all of the improvements to both his liquid mana technique and his general mana control, he couldn’t create a liquid mana stone around a foreign energy without contaminating it.
+
+He and Zack had spent a decade practicing for a controlled hand off, only to nearly destroy a reward. That was where they’d called it quits. Not because of the failure but rather to what it revealed to them. One final reason that beat out all the rest. Most of the time there was no reason to delay taking the reward.
+
+As such, he’d never succeeded, and could confidently say he couldn’t do it.
+
+Sadly, no one believed him.
+
+“That’s fucking horse shit and we know it.” Olivier’s reply was near instant.
+
+“I concur. I shan't believe such lies. Spill.” Sien wasn’t any more on his side.
+
+Thankfully he’d been ready for this, he dropped several short videos along with the accompanying data he’d pulled from the sensors he’d had set up outside the strange realms. They’d found more than a few when exploring with Allie, and he’d had this lie vetted by Manny himself, knowing this would eventually come up.
+
+It wasn’t like they could hide what they were doing. As the seven of them advanced, they’d bounced through Allie’s ever expanding network of waypoints in the first and second layers of chaotic space. The waypoints she’d made during the breach had been spread far and wide as they cut through settled space and were caught in the swirl of planets outside their cozy safe zone. From there, they moved along like any other world, each going in a seemingly random direction with no rhyme or reason.
+
+Through those waypoints, she’d added more definitive proof that the chaotic space nodes moved in a whirlpool-like cycle centered around the Great Powers. While that was noteworthy, it was far from new. Where her power differed from most was the continued awareness of them in relation to herself would let her map new breaches as they were forming. And she hadn’t rested on her laurels since then. That data was what had earned her so much leeway with Ciceron, who Matt knew was preparing a dissertation on the topic slated for release after her eventual ascension.
+
+At the same time, Allie had expanded her network of waypoints as she trained herself by occasionally teleporting hyper long distances only possible between the first and second layers of chaotic space. While teleporting around deep chaotic space, she’d pop out into chaotic space in a one man, fully defensive ship and scan for any nearby world nodes. Most of the time she didn’t find anything, but whenever she did, she popped back, got them, and they flew directly there in a skeleton crewed Unsparing.
+
+It was more than enough for short safe jaunts into chaotic space. With a target within sensor range, Allie would have had no problems flying the ship alone, but everyone available always went together for safety reasons. After all, it wasn't like they had to stay long.
+
+Allie had modified her [Home] skill under the guidance of the best skill modifiers in the Realm, bouncing between most of the Great Powers with the help of the other Ascenders as she sought advice of how to safely do something that should have been nearly lethal. She’d needed to purposefully erode the barrier between the skill and her spirit, but her craziness had worked. Where once she had to forcefully imprint a location, causing spiritual damage to create a waypoint if she didn’t want to sit and wait around, now she only needed to record the location with [Home] and let her spirit slowly assimilate the saved coordinates from its structure over five or so years.
+
+Using that tactic, they’d expanded her network, relying on the randomness of world movement in chaotic space to spread things out. While most worlds they found were low Tier, that wasn’t all they’d found. In fact, a good bit of their delving had been done in deep chaotic space, where they didn’t have to wait for rift slots and could delve with no regard to rift efficiency.
+
+While they had top priority on delving as Ascenders, when delving public rifts they were expected to clear at least ninety percent of the rift of monsters and resources, like everyone else over Tier 30. However, such a thorough delve took far more time where they were getting correspondingly less essence per hour delved.
+
+Matt could and did cover the gaps by using his own mana to recharge rifts, at least sometimes, but he was limited on how much he could get away with, now that they weren't delving on one of their personal worlds. He wanted people to think he only had access to so much mana, and given his other known spending habits, he could only allocate so much of his regeneration to the cause, which meant actually full clearing rifts.
+
+Allie and him made it a lot faster than normal between her moving them between known resources nodes and his ability to keep them fighting constantly. That allowed them to clear such rifts with only a doubled length of their desired delve, but that was still far too slow for them.
+
+Which was why they’d turned to delving rifts in chaotic space. During their exploration, they’d also come across a handful of strange realms close to their tier, which had allowed Matt to prepare his evidence.
+
+As he expected, only two people looked at it, with everyone calling out for their verdicts. “Max? Ellen? Brian?”
+
+Max’s answer surprised no one. “I want an at-Tier item from everyone as a consulting fee. It needs to be nice. Edible is appropriate, but not mandatory. Use your discretion, or I will apply the debt accordingly.”
+
+She must have gotten enough agreements, because her response still came out faster than Ellen's.
+
+“Yeah, it looks legit.”
+
+“That’s your response? You can't give us more than that?” Wun’s question was almost immediate.
+
+“If you want the science shit, Matt provided it already. I gave you my opinion as asked.”
+
+Brian threw his skull in the ring with a simple, “I’d like to dig more into the theories but he was trying to stabilize it right until the end. I’d say it's true.”
+
+Ellen finally weighed in at that point. “It's Talent tech bullshit, so I don’t know what you guys are expecting from me anyway. But if you want my two mana stones, yeah looks fine to me. Also, I expect my fees to be non-drinkable, or I’ll murder Krodag.”
+
+“How did I get dragged into this? I was quiet!”
+
+“And I won’t be! Maaaaatttttt come and fight meeeeeee!”
+
+The moment Moe finally escaped his time out he was immediately thrown back in.
+
+Matt hardly minded as the others pestered him, enjoying the levity before they reached the next battlefield.
+
+***
+
+Diana of Ilkos, daughter of Mercia, daughter of Halley the Poignant, hadn’t wanted to join the war effort. Her desire or lack thereof hadn’t stopped her from doing so. Nor had it stopped her from staying in after the first.
+
+Or the second.
+
+Or the fifth. She’d stopped counting individual wars at that point.
+
+By now, she knew how things would play out and she was already eager for this one to end. With this war, she’d have earned enough military merits to pave her and her husband's way all the way to Tier 45, where they could ascend. They already left the independence faction once and it was nigh impossible to rejoin once they’d left. They’d made their choice not that they regretted it.
+
+It hadn’t been too bad at Tier 5, Tier 10, or Tier 15, but by Tier 20, they were waiting a hundred years between delves. A number which would only grow worse as they advanced.
+
+The poor bastards who hadn’t clawed their way out of the independence factions before Tier 35 would have killed for such a short delve cycle, but she hadn’t been able to swallow it.
+
+She and her husband wanted no part of the Great Powers’ wars, but they’d also been realists. It was why they were Tier 35 and their friends who hadn’t cut ties after they’d left the faction were still lingering in the early thirties, even after a hundred thousand years. Worse yet, they only had an even slower pace to look forward to.
+
+Those former friends were still alive, which was a marked improvement over most of the ones who’d joined with them, but she tried hard not to think about that.
+
+It didn’t help.
+
+The first war had been terrifying.
+
+The former independence cultivators had a bad reputation for being used as cannon fodder, and that had been exactly what they’d expected to be their fates. The only reason they’d been willing to join was that they were past the worst battlefields, the Tier 15 ones, and in the war they’d joined, the Republic had been on the defensive against the Clans.
+
+They’d lost that war but she, along with most others, didn’t like to think of it, given the costs they’d paid.
+
+Anyone could die in a war. Sometimes it was a blade. Other times they were simply caught in an explosion so large there had been no hope of survival.
+
+Her mentor had been the latter.
+
+That was why Diana stayed as far away from the fighting as she could and why Garet had left active duty after the first war.
+
+Diana hadn’t. Not because she didn’t want to get away, but rather because she was good at her job as a data analyst.
+
+Really good. So good that she’d been courted by the army when her first contract ended, rather than having to grovel at their door to be seen like the first enlistment.
+
+Diana didn’t punch things, that was her husband's role in a rift while she normally played a mix of backline damage and support. She simply analyzed. The battlefield, her opponents, her lunch, her husband's lack of properly folding his socks when he didn’t think she’d see inside his storage ring. She liked to categorize things and sort them away properly. She’d never considered that anything but an annoying, if sometimes, useful hindrance, until she’d scored well enough on her recruitment tests to be offered a non-combat contract.
+
+She hadn’t wanted to take it, but Garet had refused to sign his own contract if she tried to follow him after being offered a less dangerous way out of the independence faction.
+
+It had taken until near the end of her first contract for her to actually understand why she'd been singled out, but the Republic’s army was large. So unfathomably big that they didn’t have a hope to fill every position with someone with the proper Talent, or even Domain.
+
+Most people, even in the army, were simple, regular cultivators doing their best to complete their tasks with no inherent advantages over any unawakened mortal, beyond what came from raw cultivation.
+
+It was a matter of priorities.
+
+The rarest people were those with a Talent and applicable Domain for a skill. Talented crafters were the most common, thanks to the obvious and well trodden path laid out before them, but even they were rare.
+
+Finding that same combination for roles other than crafting was much, much harder.
+
+It was only slightly more common to find someone with only a Talent for a role, but it did happen. Serving as counterpoint to that group, those with only a Domain but not an applicable Talent were far more common.
+
+The actual status between those groups was fussy and very dependent between comparisons, given how varied Talents and Domains could be. Most of the time the individual merits determined who ranked above who.
+
+While far less glorious, there was a demand for people like her without either such advantage to tilt the deck in her favor. That was where skill, experience, and effort came into play.
+
+Things she’d been honing between wars. She was now near the top of what was possible without a Talent or Domain which was what would let this be her final war.
+
+Diana sat in a room a hair smaller than her reach, which allowed her to touch all of the walls just by rotating her seat.
+
+The first wave of information came in as a small trickle, already initially sorted by the base’s AI and her direct reports, but it quickly became a torrent. Information from all across the Realm flooded into her, each one from what felt like a different source. Some was hacked from the other Great Powers, other information came from spies, infiltrators, and traitors, but most came from the armies themselves.
+
+Her work wasn’t glamorous, but it was important. The Republic may not be at war with anyone but the Corporations, but the other wars impacted their own actions and helped ensure they weren’t caught off guard by a sudden betrayal. Or so they were ready to jump on an opportunity if it arose.
+
+Information was the lifeblood of a strong Great Power, and it was her duty to sort it.
+
+News of the Empire Gladiators didn’t surprise her, they were always going to be high priority, with entire teams of Talented people with the requisite Domains dedicated to collecting and sorting through those snippets. Still, the information itself managed to catch her musings.
+
+A brief skim told her Gladiator Titan’s file would be undergoing a full inquiry due to the unexpected changes to his fighting style, but that had nothing to do with her. He’d become unfathomably heavy, but he wasn’t the only one to show changes, even if he took most of the investigator’s attention.
+
+Gladiator Wraith had integrated her spirit space into her fighting style so well, it was nearly impossible to differentiate between it and the ice based spells she typically threw around. The Collective elites had paid the price in their latest few engagements to uncover that but she’d rather it was them than her side's fighters.
+
+The same could be said for Legion, who showed signs of having far too many Natural Treasure improvements. Ones that seemed far stronger than any of the spies or combatants had expected. Nor has she exhibited any of the side effects typically seen from over-absorption.
+
+Just from the glances, she knew important people were about to be busy. That's just how Gladiators were. If they weren’t killed, they were unfathomably strong as their powers grew with every fight. Staying ahead of such growth was a losing battle but one all of the Great Powers endeavored in.
+
+Not her though, she already was busy.
+
+Her only job was to forward and sort information.
+
+Which was exactly what she did.
+
+For hours. Days. Weeks. Months. Years.
+
+Diana had done the job long enough that she could entertain idle thoughts between bursts of overwhelming updates where even she was fighting to shorten their queue. It was in one of those moments that she identified an actually worthwhile piece of information that caught her eye.
+
+A piece of information she never should have received, but did because of a misfile by the reporting agent. All she needed to do was correct the mistake and forward the information to the proper person. If she wanted to, she even had enough authority to accept responsibility for the information and shift the caseload, but she hesitated, despite a small desire to do so.
+
+It wasn’t even important, not really, given the Republic wasn’t involved with that war. She still lingered on the text all the same as indecision racked her.
+
+In the end, she couldn’t find a good reason to say yes. As such, she didn’t overstep by taking over the case. She just sent it along to the right department’s queue where they would analyze the information, wiping her hands of it.
+
+The Clans and the Federation’s battle lines had shifted once again. She found little surprise in that news. The Federation had been well prepared for their assault and had moved en masse at the start of the war, hoping to overwhelm the frontline. They’d succeeded in several sectors, and part of her responsibility was sifting all such information.
+
+The Federation had found a lucky break via a close but ghastly win on an important Tier 15 node world that opened the Clans up to strikes deeper into their territories. The Clans had quickly plugged the gap, but the Federation were moving to flood the breach with fresh troops, highlighting their commitment to the offensive.
+
+It was almost like they didn’t care about the bone eroding poison the Clans had likely stolen from the Collective’s research labs and the losses it had inflicted. Their elites sure had minded, but that wasn’t Diana’s responsibility.
+
+Out of the twenty seven new battlefields, only three were nodes that led deeper, and the Clans had fortified them well. One particular world wasn’t any more noteworthy than the others beyond that it led to one of those nodes.
+
+Or, it shouldn’t have been. Except, it brought up painful memories of a war long ago.
+
+It wasn't an important world. Not any more.
+
+Neither the Federation nor the Clans sent any noteworthy amount of combatants to the Tier 15 battlefield, nor had they sent any elites over the mid level. Despite all of that, the information still caught her eye and refused to let go.
+
+Giving in, Diana went back in and accepted responsibility for the stream of information related to the planet formally known as Yannkin’s Cradle before another agent got to it. She accepted the fact that the additional work load would mean she wouldn’t have the time to mull over her job, even in the lulls, but that was okay.
+
+Some things just needed to be seen through oneself.

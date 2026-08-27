@@ -1,0 +1,71 @@
+---
+id: 37f90eb6-57b0-5723-b8a1-b602a8e26920
+page-type-slug: story-chapter-royal-road
+title: "41:  Busy Little Bee"
+slug: 0041-41-busy-little-bee
+partOf: there-is-no-epic-loot-here-only-puns
+position: 41
+ownLength: 1988
+unit: words
+publishedAt: 2018-02-17
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/195230/41-busy-little-bee"
+royalRoadId: "195230"
+---
+
+Delta eyed the screen with a twitch.
+
+Well, that was just dandy. Delta dismissed the screen, just knowing there upgrades for the vile things waiting for her. She sighed and opened a new box she had made in her...happy state.
+
+Delta thought it was a very reasonable list for her current state. Sadly, she hadn’t grown enough food or such to be of help on a farm. Not unless Dil wanted to be an apple farmer...“Nu, is there some way to gift a pig or make something to be taken out the dungeon?” Delta tried and Nu flashed to her side.
+
+Delta frowned then an idea hit her.“What about a critter or something?” she asked and Nu hesitated.
+
+Nu’s words were blunt but not unkind. He hovered over to Delta’s list and looked it over.
+
+Delta snapped her eyes up and she stormed up to Nu, finger jabbing.“I will never just let that go. I lured him into the dungeon by stealing his livestock. He needed that animal or he would have never come after it. I can’t let just let that go,” Delta stressed and Nu only floated for a second before more words appeared.
+
+Delta blinked then hugged the screen, Nu dinged in annoyance and slipped away.
+
+“Nu, we just need to get enough pigs or maybe just bacon and maybe we can set a pig as a reward? I mean, we killed one pig and got two boars out of it. Are you sure we can’t set a pig reward just now?” she asked and Nu shivered as he tried to shake off the contact.
+
+Delta smiled.“I’ll ask Ruli, she brought me a forest last time,” she reminded and Nu shuddered.
+
+“I’ll ask her to take it easy, besides, it’s not just the pig. Anything that can help that family out would work. I just don’t have anything besides some pots and a fish that still needs to be caught,” Delta said aloud and gave the black mushroom another dirty look.“Still, I have a lot of DP and Mana now. Nu, give it to me straight, what am I lacking that could make my life easier?” she walked on top of the river, a neat little trick she managed to figure out without meaning to.
+
+“Well... that’s why this floor is gonna be a real jungle maze and I mean the lower we go, the safer I am, right?” Delta pointed out and Nu dinged softly.
+
+Delta looked around and sure enough, she could see one end of the room from the other. Was it meant to take this long to make a decent jungle?“Flowers... they spread with pollen. Pollen gets around in various ways, like butterflies, wasps... bees,” Delta paused and Nu went quiet.
+
+“Nu, I thought you were on top of this?” Delta teased and Nu went purple, his words shrinking.
+
+“Right, right,” Delta smiled and made two of the bees.Sure, she could debate and plan what the bees would to her jungle room, see what could change... but Delta wouldn’t bee herself if she planned things too much.Two tiny red-striped bees appeared and buzzed curiously around. Delta cooed at their fluffiness and then moved back a little as they floated closer with their stingers moving in a little dance.“They won’t die if they lose that stinger... right?” Delta had to ask and Nu was quiet.
+
+“Oh don’t be grouchy, she was just helping,” Delta mused and looked as the bees flew off together.“Bees need a hive, won’t they be... I dunno, lost without one?” Delta gestured as the buzzing bees.
+
+Delta was buzzing with excitement at the hive of wonderful upgrades before her. Delta made another 2 bees just to keep the species going.It only left her with 35 mana but that was fine for now.She picked the closer bee and hit the upgrade option. The bee twitched and began to glow. The tiny red bee grew to become almost crimson as she grew bigger and bigger. Compared to the other bees now, she was about twice the size. She took a small time to adjust to her more fine wings and width. She settle down on a rock and looked about.Delta got a feeling that the new Queen was unimpressed at being homeless. It looked towards the source of Delta’s cooing, the bee was extra fluffy now that she was a queen, and bowed her head a little before taking off. She floated about and looked around for a suitable area.Delta was enraptured to have such creatures in her dungeon now. She used to love watching bees when she was young... at least, she think she did.The Queen returned and Delta got another burst of impressions. The judgement was that she did not have suitable foundations yet. The bees had nowhere to make their hive. Delta looked about the centre of the room, it would be within flying distance of all the jungle if the Queen needed pollen and the bees would be helping her jungle in many ways.This story has been taken without authorization. Report any sightings.So, she made a single stone pillar rise in the centre of the room, it groaned and dust shifted from the top as it rose to Delta’s desired height. Not enough to peer over the trees but enough to make someone think twice before climbing it.She used her remaining mana to make it thicker at the base and made the top of the pillar hollow and with many holes.Her mana hit the single digits but Delta felt proud of her rock pillar... thing. She looked to the Queen who had watched it all with cool bee detachment. It flew up and around, diving into the holes and out the other side. It floated back down and Delta felt relief fill her as the Queen sent gratitude towards her.“No worries! Have fun being Queen, uh... Lizzzie!” she called after the Queen as she and her 3 bees got to work. Delta liked to imagine a golden topped pillar with sweet honey within that would slightly leak and be considered a landmark for travellers.
+
+Delta paused in her waving and looked at Nu.“What do you mean?” she asked suspiciously and Nu went purple.
+
+Nu sounded casual which instantly made her more suspicious.“Nothing, why?” she pushed and Nu just vanished.“Nu? NU? What happens during Bee sex?!” Delta yelled and Devina nearby dropped the rocks she had gathered to line the river. She gaped at Delta and this only made Delta more worried.She floated up to the hive and, feeling like a creep, watched the bees work.Queen Lizzzie laid on a central platform and watched as her bees worked. She was wriggling and Delta was worried before the Queen began to lay eggs.“And that’s enough nature for me today!” Delta squeaked, flying away.She landed near her waterfall with a pink face.Sure, it was just what bees did naturally but...“None of the other monsters did the life thing,” Delta muttered and Nu appeared with a flash.
+
+Delta looked over her giant room.“I was thinking some side rooms but you’re right, I need to start making something here to draw the attention of people will just march on... well, what attracts adventurers?” Delta asked and Nu made a soft ding noise.
+
+True enough.Delta moved around and floated up to get an aerial view of the giant room. She closed her eyes and years of mind-numbing TV came back to her in haunting scenes.People... failing at simple puzzles. Idiots unable to do simple...platforming...urgh Delta shivered at the grinning game master. Golden monkey statues haunted her conscious and a spark of devious took over. She opened her eyes and saw the jungle, not as an empty room but a space filled with potential.First, she needed her end goal.She moved the farthest wall and decided to make the new room right in the middle. The gobs would be back soon but a lot of current ideas needs mana to carve the rooms out. She would need mana for all the placements and objects she would need.DP was rather useless until the Mana had done its job...So, she looked around to see if any new options had unlocked themselves.Rale was busy raising heavy rocks from the river and Delta opened the menu involving the frog tribesman.
+
+Delta was impressed. Rale had options and the frog... was still diving after rocks.“Rale, do you want to be a frog that hits hard, sneaks or curses people both figuratively or literally, boss people around or do something special that I have no idea about?” Delta called and Rale paused.“I want to rescue idiot people who fall in the river, great mother,” he said with pride and Delta looked at the options and then nodded.“Alright, you just keep up the good work. If some ‘lifeguard’ option comes up, we’ll talk about it! Are you happy, do you need anything?” Delta asked before she left and Rale looked around then shrugged softly.“I need better things to rescue. I need to be better, faster!” Rale kneeled.“Stronger!” Delta finished without pausing and Rale only agreed.“Hm, you need... work out gear? Human-shaped dummies... okay, I’ll keep that in mind, I just need to get some Mana. You hang tight and I’ll be back with the brand new spanking frog gym before you know it!” Delta promised and clearing her throat, spoke.“Stone dumbbell!”
+
+“Wooden bench!”
+
+“Ugh... this is going to take forever. Nu, is there a way to set it to auto-discovery something?” Delta asked and Nu thought about it.
+
+“Yeah, because that would be far too easy,” Delta replied dryly.“Creation: All common items related to a gym!” she called and Rale watched with interest.There was a pause and a screen appeared.
+
+“Oh sweet, it worked! Let’s see...” Delta opened the gym section and saw items appear slowly one after another.“This should do for now,” Delta hit the menu and for 4 mana, two stone dumbbells appeared, hitting the ground with a heavy thud. Rale approached with wide eyes.He reached down and lifted, pausing as he had to actually put effort into the act.Delta didn’t have enough Mana for the iron ones yet. She hoped Rale would like these ones...“Mother, I... am not worthy,” Rale whispered and Delta just beamed. The frogman began to lift, once then twice and the began to alternate his flexing.His skin bulged as already impressive muscles began to feel the strain.
+
+Delta blinked and then smiled at the screen.“You can do it!” she cheered as she watched Rale really begin to pump the weights at a speed that she was sure wasn’t needed...Sitting down near the waterfall, she opened the deep pool menu before it, noticing it was not the river menu but something entirely new.
+
+“I don’t how I feel about the system offering my a gamble...” Delta said aloud and Nu dinged in agreement.
+
+“I... do like gambling in games. I mean, what's the worst the can happen? I get a cool monster and it might open all sorts of paths! I mean it’s not like I’m going be getting some convenient s-class mermaid, sea fairy or something. First, this a lottery, not a wish fulfilment device. Also, if this doesn’t work out, there is plenty of fish in the sea!” Delta pointed out and tapped the screen.
+
+19 DP vanished and a form began to take shape in the pool. Delta watched with anticipation.“Come on cute turtle! Momma feels lucky!” Delta called and the water began to bubble.Then the thing appeared, rising up like a column of yellow ridges and two large black pinchers. It wiggled back and forward as water rained down around them. It snapped them shut like a steel trap, it turned to where Delta was and made some unholy shrieking noise. Delta screeched back, making the worm wriggle in greeting. Delta fled.Nu silently showed her the text that appeared, not that Delta did anything but run into a tree, still screeching.

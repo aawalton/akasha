@@ -1,0 +1,163 @@
+---
+id: 7011c1c3-84df-5cbb-bc79-e4e448375eb7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1314 - Through the Boundary"
+slug: 0188-chapter-1314-through-the-boundary
+partOf: the-primal-hunter
+position: 188
+ownLength: 2742
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3414090/chapter-1314-through-the-boundary"
+royalRoadId: "3414090"
+---
+
+When Jake had entered Venus, he had just flown through the toxic mist for a few hours until suddenly he arrived inside the Minor World. From his perspective, it had just felt like a long wall or barrier, not unlike that of the atmosphere surrounding planets, though far grander in scale.
+
+Of course, with his Sphere and Pulse, he knew it was quite a bit different, and it was more as if he’d passed through a long spatial tunnel. One where his senses didn’t really help much, and all he could do was continue flying forward, hoping he would arrive at his destination at some point.
+
+Meanwhile, from the perspective of Venus’s natives, the Boundary was an infinite wall of progressively more toxic energy. From their experiments, it had no end, and even the strongest peak A-grades would find themselves corroded to death before reaching the other side.
+
+Based on this, why did Jake have the slightest confidence he could even leave Venus on his own by flying through the Boundary? Well, fortunately for him, his confidence didn’t come from any knowledge he’d obtained in this world, but something far more trustworthy than empirical data and accurate historical records:
+
+Intuition.
+
+Okay, disclaimer, Jake’s Bloodline-infused intuition was more trustworthy in his opinion, and he had intuited that he could leave through the Boundary, so that’s what he’d rolled with all along.
+
+However, believing he could leave through the Boundary and having the slightest clue how to bring along others wasn’t the same thing. He didn’t really feel like revealing this either, as he had just decided to hope that he would figure it out after entering the Boundary. If he were lucky, maybe the system would even pop up with a message, or the natives of Venus would get something.
+
+“Alright, stick by me,” Jake said to the five familiar Venusians and five Arachnecs who’d stepped forward. The Arachnecs were all noble variants and all of the same race, leading him to believe these were the most common type of nobles in Arachnec society. He wasn’t sure if that meant the Nestmother didn’t really trust him or if there was some other meaning behind it, but Jake didn’t intend to pry.
+
+Besides, even if these were “weaker” variants of nobles, they were still superior to all the Venusians except the Shaman.
+
+[Arachnec Lord – lvl 390]
+
+They even had noble-like titles. Visually, they looked a bit like the Archweaver, but far less impressive and slightly more spider-like. Actually, looking at them, Jake shouldn’t complain about the Nestmother showing distrust, as at least all the people she provided Jake to bring along were still nobles and not just weak soldiers.
+
+With all the B-grades close to him, Jake slightly expanded his aura to cover them all, but didn’t put up any barrier, as, quite frankly, that would just be a waste of time. While the toxicity within the Boundary was higher than inside Venus itself, these natives could still easily handle it with their insane innate poison resistance.
+
+They would certainly start struggling at some point, but hopefully, they could get to the other side before any of them couldn’t hold on anymore. Jake would also try to help them as much as he could, though he naturally couldn’t guarantee anything.
+
+“Let’s go,” Jake said in an encouraging tone, and under the watchful gaze of dozens of A-grades, their small group entered the Boundary with Jake taking the lead.
+
+Their speed was set based on the slowest in the group, which was unsurprisingly one of the Venusian Warriors. The Shaman did step up and help a little by using some of his weird shaman magic on them, which appeared entirely unaffected by the toxic energy found within the Boundary.
+
+The Arachnec Lords kept up without any problems, though Jake did check on them. “Let me know if anyone starts struggling.”
+
+“We shall,” the highest-level Lord answered in a rather monotone voice.
+
+Nodding in acknowledgement, Jake just kept going as they flew in silence for roughly another hour. The toxicity of the Boundary had gotten more intense, but it still wasn’t at the level of negatively affecting anyone. The fact that an hour had passed did seem to make some of Jake’s travel companions nervous, though, making Jake speak again.
+
+“When I first entered through the Boundary, it took me several hours of flying at a speed faster than this, so I wouldn’t expect to make it out anytime soon, even if this does work,” Jake said, not entirely sure if his words were comforting or not.
+
+“How will we know if it doesn’t? Will you simply disappear, and the rest of us will be left behind, forced to turn back?” the Shaman asked.
+
+“No clue,” Jake shook his head. “Did the system message you got tell you any useful details?”
+
+“It did not,” the Shaman shook his head. “All it said was that we would need someone from beyond the Boundary to leave this place you say is called a Minor World.”
+
+“Did the Arachnecs get the same message or a variant?” Jake asked the same Lord who was flying in the lead.
+
+“All system messages regarding this topic appear identical regardless of race based on your information,” the Arachnec answered concisely.
+
+“So we’re all flying blind here and just hoping for the best,” Jake said, chuckling a little to himself. “Which is what I guess we should just do. I’ll let you all know if I start to feel anything different, and you all do the same.”
+
+The ten B-grades all nodded as they proceeded to fly in silence once more. Jake continually used Pulse and scanned his surroundings with sphere, but found nothing different as all he saw was incredibly dense energy that practically blinded his senses.
+
+Hours passed as the toxicity started having some effect on the Venusian Virumancer, but the Shaman once more came in with the assist, making it a non-issue. However, seeing that one of the Venusians had started struggling a little, did start to cause some concern in the group.
+
+Personally, Jake was totally fine and even found it a pleasant experience as Palate was working overtime. To him, this flight was pretty damn beneficial, and Jake would have gladly sat down to meditate within the Boundary if he wasn’t meant to be escorting B-grades through it.
+
+Of course, he was fully aware that as the toxicity increased, he would also reach his limit at some point. More likely than not, it would happen very suddenly, though with Palate and Spirit of Man both being overpowered skills, Jake wouldn’t be surprised if he was the one who could last the longest in this group. Though he naturally didn’t want to actually find out who would succumb first.
+
+He feared he would have to, though Jake started questioning if this would even work. Even assuming it did, how the hell were those weaker than his current group supposed to make it out? Perhaps through teleporters or portals, but from what Jake had seen, Venus had a very dense natural barrier surrounding it.
+
+The only reason Jake could teleport to the Order was because of the Viper’s help to pull him directly into the void. Be it a Minor World, universe, or anywhere else, everything was connected through the void. Which didn’t really help much normally, as unless one knew where something was in the void, one could never find it, and of course, only gods could actually survive in the void. Assuming anyone below godhood didn’t have the direct protection of a god, that is.
+
+So while Jake could maybe set up a teleporter taking them directly to the Order at some point, that didn’t exactly help them right now. Especially not if this requirement to have gone beyond the Boundary directly was a persistent requirement, or at least one that would exist until the universe was fully opened up, which could take who knows how long.
+
+Guess we’ll need a spaceship or someone like Sandy to help bring weaker B-grades and those below B-grade through, Jake thought to himself. Perhaps he could reach out to Arnold at some point for a spaceship or two, but unfortunately, Sandy wasn’t available currently.
+
+Last he heard, the poor giant space worm had been forced by Snappy to participate in the system event and become an Administrator of their own galaxy. Or at least try to, assuming the worm didn’t find some way to dodge responsibility.
+
+He would definitely ask Sandy after this round of Seat of the Exalted Prima, though.
+
+Of course, this all assumed that the way to leave beyond the Boundary was simply to fly through it, something that grew less and less likely the longer their group of eleven flew.
+
+Nervousness really started to set in when the Warriors also started struggling, and due to the Shaman having to help them, he also couldn’t keep this up for long. The Arachnecs were still doing fine, their undead constitutions definitely helping, though their attitudes of throwing jeering glances at the Venusians certainly didn’t make the atmosphere any better. It was already toxic enough inside the Boundary, and Jake really didn’t need them to make it worse.
+
+While no one had said anything yet, Jake got the vibe someone would soon bring up the option of turning back, which he knew would become a turning point. Minutes continued passing by, and things didn’t improve. Jake also really started to doubt if this wasn’t all futile, but then...
+
+Jake stopped and held up his hand. “We’re here.”
+
+All of those behind him stopped as they looked bewildered at him. Understandably so. Ahead of him, nothing seemed different, but Jake could feel it. There was some kind of invisible border ahead. He couldn’t tell exactly how it worked, but he felt incredibly certain it was directly system-made and likely relied on concepts far beyond understanding.
+
+Looking back at the group, Jake looked at them. “Someone try flying ahead of me.”
+
+The B-grades looked at each other before one of the Lords floated forward. It easily went past Jake before stopping a dozen meters ahead of him. Jake frowned a little as he leaned forward, and as he did, the Lord disappeared from his sight.
+
+Leaning back again, it reappeared, being the only change he could see. Looking at the other B-grades, Jake was very confused.
+
+“Did you see anything odd?”
+
+“You leaned forward and back again, which did strike me as weird,” the Shaman very helpfully said.
+
+“But nothing else?” Jake asked, really wanting to know if it looked like his head had disappeared or something.
+
+“No, nothing,” the Shaman shook his head.
+
+Jake was now even more confused. Something extremely odd was going on with this invisible barrier, so Jake tried stepping fully through it. When he did, the Arachnec ahead of him once more disappeared from sight, but the nine others behind him remained.
+
+Also, with his sphere, he could still see the Arachnec his eyes couldn’t detect; however, rather than seeing the physical form, it was more like there was an outline. As if the Arachnec had become one with the Boundary itself, while Jake remained separate.
+
+Thinking about it, in some ways, it reminded Jake of his Unseen Hunter skill. His stealth skill allowed Jake to shift himself into another paradigm of Perception, making him effectively invisible to anyone who wasn’t already aware of his existence, even if he stood right in front of them.
+
+In the same vein, this barrier seemed to shift Jake into another paradigm of existence within the Boundary. Or perhaps it made the natives of Venus who passed it shift. Jake didn’t know, nor did he believe that the distinction mattered.
+
+As he stood there, Jake also noticed that the Arachnec Lord ahead of him looked puzzled and flew back to the other nine, at which point the undead seemed to be able to see Jake once more.
+
+“You disappeared from my senses when I was also beyond this barrier only you can detect,” the Arachnec Lord said, making Jake nod.
+
+Yeah, this barrier was definitely the “true” gate between Venus and the outside world. Jake had pretty much confirmed already that he could pass through this place and leave, especially as he noticed that the Boundary became less intensely toxic whenever he moved in either direction now.
+
+In other words, this seemed to be about the halfway point. Jake definitely felt like he’d flown further on the way out than when he went in, but truthfully, it was hard to tell, especially when he was traveling with ten other B-grades slowing him down, and having to slow down at times for the Shaman to help his fellow Venusians hadn’t helped either.
+
+Jake shared his findings that the Boundary became less toxic the further he went in either direction, something that definitely wasn’t the case for the Arachnecs and Venusians, who said that beyond the invisible barrier, the ever-increasing intensity of toxicity seemed to only accelerate instead.
+
+“Okay... now I guess for the big test,” Jake said as he stood just beyond the invisible barrier. “Someone try to pass through.”
+
+The same Arachnec Lord volunteered immediately and tried to pass the barrier again, flying directly towards Jake. He had hope that it would work, but right as it passed the barrier, the entire undead simply disappeared from sight. A moment later, it flew backward and became visible again.
+
+“It does not appear to work,” the Arachnec said, its voice definitely communicating less-than-pleased emotions.
+
+“Yeah,” Jake muttered as he passed back through the barrier and pointed to one of the Warriors. “Let’s try the two of us, but while in physical contact.”
+
+The Venusian Warrior nodded and flew forward, at which point Jake did exactly as he had said he would. With Jake touching the shoulder of the Venusian, they passed the barrier, and right then, Jake felt something.
+
+A sort of pull.
+
+It was hard to describe, but it was as if Jake’s entire being was being tested and compared. No actual energy was drained or consumed, but something definitely happened as Jake passed through the barrier with the Warrior in tow. It was also immediately clear that the Warrior noticed something had happened as she froze and just stood there, staring for several seconds.
+
+“Did it work?” the Shaman asked with anticipation.
+
+The Warrior remained frozen before slowly nodding and speaking for the first time. “It did...”
+
+Jake felt an incredible wave of relief as he quickly wanted to try again, going with the lowest-leveled Arachnec Noble this time around. A part of him wanted to just bring all the Venusians through first, but for the sake of fairness, he went with an undead spider next.
+
+“Allow me to test again,” Jake said as he didn’t actually physically touch the Lord, but merely wrapped it in his aura. “Okay, try to pass through with me now.”
+
+He hoped that physical contact wasn’t a requirement, and fortunately, as the Lord passed through, Jake once more felt the same kind of pull. The first time, he’d been surprised, but now he could focus more on exactly what was happening.
+
+It didn’t take him long to reach a conclusion about what was happening either.
+
+My power is weighed against theirs... so if I want to bring some through, the system must deem me stronger than them, Jake thought, feeling incredibly relieved at that realization.
+
+Same as the Venusians, the Arachnec also froze right after passing through the barrier, and Jake was pretty damn sure they both got a system message or something after passing through.
+
+A few seconds later, the Lord also gave confirmation that it worked, and Jake proceeded to successfully help the other eight also get through the barrier. What’s more, he got a bit bold and tried to bring them all through at once, learning in the process that the entire weighing concept was the same no matter how many he brought. It was entirely an individual comparison, and Jake had been deemed stronger than all the B-grades, even the Shaman, who was likely the strongest of this group.
+
+With all eight through, Jake gave them a smile after waiting for them to process whatever system message they had received.
+
+“Welcome to the multiverse,” Jake said as the Shaman said something he hadn’t expected.
+
+“Ninety-third universe... Forerunner of the New World...”

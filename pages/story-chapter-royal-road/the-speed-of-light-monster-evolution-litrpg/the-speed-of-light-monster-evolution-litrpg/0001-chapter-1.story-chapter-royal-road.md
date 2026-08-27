@@ -1,0 +1,181 @@
+---
+id: 5df0da0b-ca74-5ed3-a4b7-3a761cc2ae87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1"
+slug: 0001-chapter-1
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 1
+ownLength: 1578
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525426/chapter-1"
+royalRoadId: "2525426"
+---
+
+The sounds of the chains rattling against her legs had become a common and familiar sound by now. The cold darkness the daily scenery, accompanied by the animalistic grunts and roars surrounding her.
+
+She waited like every other day. Waited for the doors to open and allow her the small freedom she craved each and every day no matter how it came.
+
+The pitch black surroundings were split and cracked by the creaking of a rusted door swinging open. Light pouring in and illuminating the damp, cold holding cells.
+
+Shouts, screams and grunts reached a fever pitch all around her as their captors strode into the cells casually.
+
+“Who’s on the ticket today, gents?”
+
+“Looks like we got the Wild Swamp Cat… Two-tailed Ape. And… Well, well, we got the underdog once again. The Broken Thoroughbred for a nice little three-way.”
+
+She bayed and grunted despite the chains holding all four of her legs. She had dealt with such insults from her captors for months now but still remained defiant.
+
+She was not some run-of-the-mill broken thoroughbred. At least not anymore after she had gained sentience.
+
+After the world had changed several years ago, she was not alone in becoming more self-aware.
+
+Tachyon
+
+Race: Broodsong Mare
+
+Rank: None
+
+Level: 9
+
+VIT - 3
+
+STR - 5
+
+AGI - 20
+
+MAG - 3
+
+STAM - 10
+
+RES - 4
+
+Free Point - 16
+
+Titles
+
+Sapient Monster, Survivor, Captive, Defiant, Sturdy.
+
+Skills
+
+Charge - Common, Blood Doping - Uncommon
+
+Since the coming of the system the world had changed dramatically.
+
+Tachyon, as her mother named her, did not see much of the carnage that preceded the awakening of the system and the following tutorial.
+
+She was born shortly after it had concluded. Somehow, her mother and father had survived the bloodbath that was the tutorial after becoming stronger and more intelligent monsters thanks to the system.
+
+As did the rest of the animals on earth. However during the tutorial every animal was given access to more power, allowing them to grow and evolve. But this system also gave such things to the humans.
+
+And if nothing else humans were ones to take. At least that was how Tachyon saw them. She had only ever seen humans hurt and take from her.
+
+First her Father, then her Mother. And then her freedom.
+
+She was taken to this underground monster fighting arena while still a young foal with her mother.
+
+During the first several years, her mother was forced to fight, pitted against other captured monsters in the arena for human’s entertainment until the day she lost.
+
+The system had allowed all races, human or not, to improve and grow. Unfortunately this also allowed every race to seek and abuse power all the more.
+
+Tachyon had been locked away in this area, fighting for her life for years after the system had been established on earth.
+
+The once hectic scramble that was the initiation had since died down, allowing people and monsters to reach a sort of equilibrium. This also let them go back to their old, more comfortable ways.
+
+She grunted in displeasure as the men entered her cell, latching a collar onto her neck as they unclamped the chains binding her legs.
+
+Tachyon knew better than to fight during the process. She did not want to waste her energy before the battle in the arena.
+
+“Clever girl,” one of the men said, patting her on her rump.
+
+Tachyon growled, snapping her teeth at the man’s hand.
+
+Do not touch me you filthy beggar! She shouted internally.
+
+She prayed for the day she would thrust her hoof into his soft head.
+
+The man recoiled with a chuckle, waving a finger at her.
+
+“Don’t be so touchy! You know the drill right girl? Make it look good.”
+
+Tachyon neighed with a disgruntled tone. She did not want to do what the man hoped for. However, she had her own plans.
+
+All I need is to buy some more time…
+
+The man instructed her as he had before while the other two attached her weapons and a small face plate to protect her head. Several other men and women entering the cells did the same for the other monsters, giving them the bare minimum of equipment to put on a good fight.
+
+His instructions were simple. Tachyon was an unsuspecting smaller foal. No one would ever bet on her to win against such beasts like a Wild Swamp Cat or a Two-tailed Ape that doubled her in size.
+
+But this man was slightly smarter than the other humans she had dealt with as captors. He somehow saw and knew that she was stronger than the other monsters.
+
+So he had made a deal with her. If she won when he told her to, doing exactly what he told her to, he would give her better food and make sure that she would not fight anyone strong enough to kill her.
+
+Obviously this was due to him making swaths of money off her fights and in no way for her benefit.
+
+The two men finished equipping her with small spikes on each of her hooves, the small metal mask that covered and shielded her nose and eyes. Each one left the cell, already rubbing their hands together with expectations of another easy win.
+
+The last one led her out of the cell and doors into a dirt arena.
+
+The first thing that hit Tachyon was the noise of the crowd. Screams and drunken howls rang in her ear as she entered. Empty bottles, cups, and scraps of food littered the ground within.
+
+She counted thousands if not more in the stands that reached high enough to make her head spin.
+
+Tachyon saw human men and women, along with other races. There were those with longer ears, some with long hands and noses, even some that stood so tall they took up several rows on their own.
+
+Her eyes thinned seeing a group near the forefront of the stands.
+
+Even monsters can’t escape the need for entertainment. She thought.
+
+Close to the fence that arched over the arena to keep the captive fights in, were clearly monsters. Stronger, more sapient and evolved monsters. But monsters all the same.
+
+The law of the jungle, the privilege of the strong…
+
+The system had done nothing but exacerbate such things. Those who were strong were free. Free to do as they wished and willed.
+
+Tachyon wanted nothing more to be strong, to be free. So that she could run wherever her heart desired, unhindered, and unrestrained.
+
+And it would only be a little longer. She thought.
+
+All she needed was a little more experience. And then everything she had been enduring would come to fruition.
+
+The other two monsters were slowly brought out as well to the arena in collars led by a single person.
+
+Once each one was led to their corner of the arena, a loud and annoying voice roared over the crowd.
+
+“Welcome, ladies and gentlemen!!!” the voice screamed in a mysterious tone that came from all directions.
+
+“Tonight! In the arena! We have for you a special treat! In the bloodiest of battles, three of our longest concurrent winners from our humble establishment will be fighting it out to see a single victor!! In the red corner! We have all the way from the far northwest corner of the planet! The Wild! Swamp Catttt!!!!”
+
+The crowd roared and cheered at the announcement.
+
+Tachyon was slightly angry at the fact the ugly feline garnered such an uproar as the voice continued.
+
+“In the blue corner! We have the beast from the east! A terror from the east jungles! The Two-taillllled! Apeeeee!!!”
+
+The yells had grown even more in volume, the arena even shaking slightly.
+
+“And finally! We have the underdog- underhorse- that has seemingly slipped through night after night! The Brokennn!!! Thoroughbreddddd!!!”
+
+Tachyon remained cold on the surface in her corner as the voice finished, her hooves and body still and unreactive to the insulting introduction.
+
+Well, almost unreactive. As she grunted slightly with a shake of her head in annoyance.
+
+One could only take their literal race and being improperly told so many times before it irked them.
+
+The man holding her collar moved in close enough to whisper to her over the crowd’s shouting.
+
+“Now remember the plan. You make it look good and when the time is right you kill that cat first, you hear me? That Ape won’t be a problem, I made sure of that.”
+
+Tachyon felt the hair on her neck stand up in disgust from the man coming so close to her ear.
+
+She quickly shook her head in an attempt to remove the feeling, startling the man as he momentarily let go of her collar.
+
+They both locked eyes for a moment as they both realized there was nothing stopping Tachyon from simply killing the man.
+
+But despite her hatred toward him, she had to endure. Just a little longer so that she may find the most opportune time to escape.
+
+Just a little more. She reminded herself again as the apprehensive man moved to pick up the chain attached to the collar.
+
+The voice and the crowd in the arena finally came to a low rumble as all three of the monsters had their collars released.
+
+Tachyon pawed at the dirt under her hooves, an aggressive neigh coming from her, signaling the start of the fight.

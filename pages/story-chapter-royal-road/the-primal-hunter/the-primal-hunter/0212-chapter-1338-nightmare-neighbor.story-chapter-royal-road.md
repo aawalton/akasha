@@ -1,0 +1,129 @@
+---
+id: 7f0be7a8-ce57-55a5-8e78-1a4cca8c5b72
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1338 - Nightmare Neighbor"
+slug: 0212-chapter-1338-nightmare-neighbor
+partOf: the-primal-hunter
+position: 212
+ownLength: 2676
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3561731/chapter-1338-nightmare-neighbor"
+royalRoadId: "3561731"
+---
+
+TV shows about nightmare neighbors had always been one of Jake’s favorites before the integration. He found the drama entertaining, and feeling that “thank fuck I’m not in that situation” always made one feel a little better about one’s life. Especially for Jake, who was quite depressed before the world changed, allowing him to find his true purpose in life.
+
+Back when he watched those shows, Jake always told himself that he would surely never become such a horrible neighbor, no matter how old or jaded he got. He would never be the kind to purposefully make loud noises to piss off everyone nearby, yell out his window for no damn reason, or just make life a living hell for everyone unfortunate to move in next door.
+
+Well... turns out Jake was instead the kind of neighbor who would break into your home and destroy everything while killing anyone in his way because he wanted to take over the property. Calling him a nightmare neighbor felt almost like an understatement, as he was more like an apocalypse neighbor.
+
+With the border into his chosen target open, it hadn’t taken Jake long to cross it, and shortly after doing so, he encountered the first instance of resistance. A defensive tower was placed directly in his way and, partly to test what it was capable of, he didn’t choose to avoid it using stealth or just flying around it.
+
+He felt it lock onto him, and half a second later, a laser beam shot towards him. Jake could easily dodge, but felt no need to as he instead simply kept flying straight towards it. Raising his arm, Jake swatted his hand into the beam while wrapping it in arcane energy, deflecting the attack effortlessly. Another beam came right after, but Jake didn’t even bother to strike this one, as a barrier of stable arcane mana appeared and blocked it easily.
+
+This was definitely one of the unmanned, autonomous towers on the cheaper end. Jake didn’t destroy it, though, but simply kept blocking its attacks as he kept flying until he was out of its range. Destroying it would have been easy, but he knew that if he did so, the Chief Administrator of this Territory would be notified instantly. Meanwhile, if he left it alone, chances were no one would know he’d passed through, as he recalled such a cheap tower didn’t have any innate ability to notify when enemies approached.
+
+Granted, Jake did assume they had an idea he was coming, courtesy of the special Radar construction. It only made sense to build one for every faction, but on the off-chance this Chief Administrator was a moron and hadn’t done so, there was no need to forewarn them of his approach.
+
+Flying a bit further, long out of range of the tower, Jake soon spotted the Territory Beacon location he’d scouted before the event even began in earnest. He also saw that they had bought the special wall structure, creating a see-through barrier covering the Beacon and everyone else inside. As for the Beacon itself, they had also covered it in both physical and magical barriers, just as Miranda had done.
+
+From afar, Jake also confirmed they definitely knew he was approaching. Again, he could have used stealth, but for this very first invasion, Jake wanted to gauge the average strength of these initial defenses to know what to expect moving forward.
+
+He saw several hundred people lining the walls, and a few flying vehicles rose from within the small settlement that had been constructed surrounding the Beacon. He also confirmed something else interesting as he noticed a few figures flying into the air within the barrier.
+
+Not enlightened, huh?
+
+This Territory seemed to be ruled entirely by monsters. Jake knew that was a possibility, but he was still a little surprised, as he fully expected the enlightened to heavily outnumber monsters during this event, with most monsters at least working with the enlightened.
+
+He was also surprised to see so many monsters of varying races, as they tended to suck at working together due to their individualistic nature. That had to mean that either their leader was incredibly powerful and had managed to “tame” all the others, or they had somehow reached an agreement.
+
+To clarify, Jake did see a few enlightened among the monsters, but not even twenty of them, and none looked to be in a position of leadership.
+
+As Jake got ever-closer, he expected some kind of attack against him, but to his surprise, nothing of the sort ever came. Instead, a large winged lion flew out of the barrier and straight for Jake, all while purposefully suppressing its own aura. Meanwhile, Jake had been blasting his from the very beginning with no intent to hide who he was.
+
+When the lion got close, it stopped and lowered its head, speaking in a meek tone. “I greet the Chosen of the Malefic One.”
+
+It wasn’t a surprise for Jake to be recognized, as he was rather recognizable if he said so himself. Still, he’d assumed the other Territories would at least put up a fight and not just come out with their tails between their legs. Quite literally, in the lion’s case.
+
+“An odd form of defense,” Jake commented in a dry voice. “Unless you’re confident in facing me alone?”
+
+Spoiler: The lion was definitely not confident in facing Jake alone. Her aura was far inferior to his, and while she was B-grade, he doubted those within the barrier were too. In the Milky Way Galaxy Territory, the majority were also still at or around peak C-grade, something he reckoned was the case in most places.
+
+“Surely, the Chosen is jesting,” the lion said in a defeated tone. “We are fully aware that challenging you would only end in our inevitable defeat. However, we hope that we can reach an agreement, and are fully willing to become the vassals of-“
+
+“Let me stop you right there,” Jake said, raising a hand. “Nine out of ten Territory Beacons need to go. This is a culling, and unless you can show me why you’re worth making vassals, you will be culled.”
+
+He and Miranda had briefly discussed this, having predicted there would be some way for other factions to surrender. Miranda had been pretty clear that they should avoid making alliances if they could, especially with small forces that weren’t worth their time. This was especially true for their immediate neighbors, as having them only be Vassals was a potential future threat.
+
+While Jake had nothing against making friends, he didn’t feel like he would actually be making friends either if he allowed everyone to simply surrender and become Vassals. If the only reason they became Vassals was due to fear of being eliminated, they would have no loyalty or goodwill towards the Milky Way Galaxy. Given that, wasn’t it only logical that they would find a way to stab Jake and Miranda in the back at the first opportunity?
+
+Considering the dangers of allowing others to simply become Vassals, and the fact that it would mean their area wasn’t added to Jake’s Territory, meaning less PC income, the best choice truly was to just eliminate anyone unless they truly proved themselves worthy of being allies.
+
+And this group was definitely not worthy.
+
+“We will be absolutely loyal, and I swear that-“
+
+“I already told you. Prove you’re worthy,” Jake said, unleashing a bit more of his aura, making the lion fly back slightly, which really wasn’t a good sign. For her, that is.
+
+She looked at Jake for a moment before seemingly sending some telepathic message. This felt more or less confirmed as nearly everyone within the barrier rushed out, all of them flaring their auras as they activated their boosting skills.
+
+There were about three hundred total, with nineteen of them in B-grade. Alongside them were another fifty summoned B-grade NPCs and three flying vehicles with what looked like laser miniguns on them.
+
+A single large tower placed on top of the building to defend the Territory Beacon also turned its turret toward Jake and started charging up a hit. The B-grade lion, which Jake assumed to be the Chief Administrator, also unleashed her own power and activated a boosting skill as her body grew larger and took on a faintly red sheen.
+
+“If you wish to fight, then we will resist with all we have, and we hope the Chosen does not take offense,” the lioness said, not giving Jake any time to respond before she shot forward alongside all the other beasts and the few enlightened.
+
+Jake was heavily outnumbered, facing down nearly seventy B-grades, Territory defenses, and a few hundred peak C-grades... it really wasn’t fair. For them, that is.
+
+Deciding to get rid of the weakest first, Jake activated Arcane Awakening at 30% before also using Sight. Upon doing so, Jake once more glimpsed some odd lines everywhere, but he quickly ignored them as he instead empowered Primal Gaze with Sight.
+
+A claw from the B-grade lioness, only a few meters from him, froze in mid-air, as her soul shook from the impact of Jake’s Gaze. Being the strongest, she was certainly the one who fared the best.
+
+In an instant, the souls of several hundred C-grade Administrators were extinguished, and as they died, their bodies turned into the same blue energy that appeared when an NPC was dismissed, or Jake used Primeval Origin Energy on something.
+
+Alongside all the C-grades, surprisingly, eleven B-grades also instantly died. Four of them amongst the monsters, and seven NPC soldiers. The rest all suffered severe soul damage, with only about ten of his opponents coming out of Jake’s initial attack somewhat okay.
+
+Free of the freezing effect, the lioness moved again as she continued her swipe, likely expecting Jake to dodge. Instead, he merely raised a hand as he caught the large paw before proceeding to use his other hand to punch the leg, feeling bones break from the impact.
+
+The lioness let out a loud roar of pain as other B-grades also descended upon Jake, alongside a rain of pretty cool-looking laser bullets and two laser beams. Jake saw everything approach and let out a small sigh as a katar appeared in both hands.
+
+All the B-grades were upon him, and a moment later, four bodies fell down, turning into blue scattering energy that was gone before they even hit the ground. The others were also injured, and with no time to rest, Jake went on the offensive.
+
+None of them could muster any real resistance as Jake sliced the far weaker B-grades into dozens of pieces in a moment, weaving in between them as he disposed of the NPCs and monsters effortlessly. The sharpness of his new Voidblade Katar was absolutely excellent, and Eternal Hunger was great as always. What’s more, with Fangs of the Malefic Viper, every cut meant a good dose of venom, resulting in Jake not even having to finish off most of his opponents.
+
+Within less than a minute, Jake found himself standing in the air, his hands and arms covered in blood as he turned toward the three surviving monsters, which included the B-grade lioness who had lost a leg and was severely poisoned.
+
+Just then, another barrage of bullets struck him, but Jake didn’t even move as the weak attack failed to penetrate the arcane barrier that popped up between him and the gunships.
+
+“I can at least commend you for trying, and for none of you running away,” Jake said while raising a hand, summoning a few dozen large arcane bolts that proceeded to shoot down the gunships.
+
+“We can only blame our luck...” the lioness muttered, her voice weak as the poison continued to ravage her system. “Now finish it. At least we can be proud to say that we fell to the Chosen of the Malefic One. There is no dishonor in that.”
+
+Jake nodded as he stepped down, appearing in the middle of the surviving B-grades. Four quick cuts later, and four heads were severed; the bodies of the fallen turning into blue wisps of energy moments later.
+
+Letting out a small sigh, not having found that “fight” particularly stimulating, Jake turned his attention toward the Territory Beacon. Through his sphere, he knew there were still living beings within, including a beast in humanoid form inside the building meant to shield the Beacon.
+
+The barrier to defend the settlement was still in place. As for the laser turret that had shot at him a few times, it had already stopped after missing every shot. Whoever controlled it had likely concluded it was just a waste of resources to keep trying.
+
+Whipping out his bow, Jake reckoned he could at least test the durability of the barrier as he took aim. However, to his annoyance, the barrier disappeared right before he could even start charging his Arcane Powershot, and even the structure made around the Beacon started falling apart and turning into blue light, having been dismantled by whoever the Chief Administrator had left in charge. Or maybe the beast in humanoid form was the actual Chief Administrator, and Jake’s assumption that it was the lion had been wrong. Either way, it didn’t matter.
+
+Still charging an Arcane Powershot, Jake instead went directly for the now exposed Territory Beacon. He was preparing to charge another, expecting it to be somewhat durable; however, to his surprise, the entire thing was blasted apart in a single shot.
+
+Right as the Beacon was destroyed, blue light filled Jake’s vision, as everything that had been constructed or perhaps even bought using Prima Credits disappeared alongside the Beacon. After a few seconds, the only thing left remaining was around fifteen people standing on the bare ground. Jake gave them a look, but before he could even do anything, they all decided to blow themselves up, turning into blue wisps in the process.
+
+“Guess they also couldn’t log out,” Jake muttered, having quickly checked his own status menu to confirm that the ability to exit the simulation had been locked during combat. Probably for the best, as it would suck fighting people only to have them log out halfway through.
+
+Jake also saw that he’d gotten a system message, informing him of his success.
+
+Territory Beacon destroyed. The area previously under the control of the Beacon will gradually be integrated with your Territory, and will be fully claimed in: 70:22:39.
+
+He raised an eyebrow at seeing that it would apparently take time to integrate the area. What’s more, the seemingly incredibly random time of about seventy and a half hours made Jake believe that integration time depended on the size of the Territory claimed.
+
+Either way, he would neither confirm nor deny how this timer worked with one sample size, as Jake turned toward the neighboring Territory. Deactivating his Arcane Awakening, Jake didn’t even have a period of weakness as he’d only used the weak balanced version, allowing him to shoot into the distance toward his next target.
+
+He was planning on doing a clean sweep of all neighboring Territories within the day, if possible. Of course, he wouldn’t do this entirely alone, as he wasn’t the only one from his Territory who was on the hunt, with William leading a second team who’d also started their attacks.
+
+While William wasn’t as powerful as Jake, he was still more than capable of handling foes at the level Jake had encountered. Plus, he also had help while Jake was solo. What’s more, the wyvern had set out, feeling closer than ever to his evolution, so there was a good shot that they would soon have a True Dragon on their side.
+
+Jake still felt a little bad for all the Territories unlucky enough to find the Milky Way Galaxy their neighbor... but hey, at least they were polite enough to make their destruction fast and painless... which probably still put them firmly in the category of nightmare neighbor...

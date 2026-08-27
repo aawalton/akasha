@@ -1,0 +1,125 @@
+---
+id: a0e95689-662c-55d9-b29f-4ee906f676ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1230 - A Lucky Man"
+slug: 0102-chapter-1230-a-lucky-man
+partOf: the-primal-hunter
+position: 102
+ownLength: 2599
+unit: words
+ownProgress: 2599
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2926811/chapter-1230-a-lucky-man"
+royalRoadId: "2926811"
+markedReadAt: "2026-06-29T19:32:29.753Z"
+---
+
+It wasn’t like she needed them anyway. When was the last time her Dragonflight had done anything for her? Their only role in her life had been to try to control how she acted and limit her freedom. Her family had been the worst, constantly forcing her to do this and do that while growing up, and then the second she was about to be fully grown, her parents went and killed themselves with the excuse that it was all for her sake.
+
+Yrelstromoz found the sentiment disgusting. She’d never asked them to do anything. They were the ones who wanted their daughter to continue the useless Legacy they’d wasted their lives on.
+
+From the beginning, she had just been living her parents’ dream, and when she insinuated she didn’t care about trying to reach S-grade or whatever, they never listened. They were too caught up in their own fantasy, and besides, how could they even know her? She barely saw them once a decade, and that was an optimistic estimation.
+
+They had been too stuck on their Paths and a useless pursuit of power. A Path Yrelstromoz saw no need to mimic. She already had power. She was already a True Dragon, a pinnacle being in the multiverse. It was more than enough for her to experience the world as she saw fit and live life the way she wanted.
+
+She refused to be bound by traditions that held no meaning for her, or by expectations rooted in the past. Instead, Yrelstromoz embraced the present, reveling in the freedom she had earned through her own innate strength and choices. The world stretched before her, vast and uncharted, a canvas for her ambitions and desires. Filled with weak beings fit for her entertainment.
+
+Her recent act of slaying a dog from the United Tribes had been entirely premeditated to finally get the damn Dragonflight off her back. It had worked wonders, and she was officially thrown out and had been left alone for a good while.
+
+Of course, Yrelstromoz knew that she’d made some people mad, so lying low for a while only made sense. She also found it funny to prove that if she were the one in charge, she could indeed choose to be a peaceful dragon, even if she found herself surrounded by prey. Just imagining her aunt and the other old morons who wasted their time risking their lives for no good reason, seething at her suddenly turning a new leaf after leaving, was riveting.
+
+As for the United Tribes, she didn’t expect much from them. Sure, they had some impressive members among their ranks, but did they truly dare confront a True Dragon? She thought not. If they wanted to deal with her, they would have to find someone of a far higher level, at which point she believed that the Lumenflight would intervene. Even though she was not a member anymore, she was still a daughter of the faction, and those old coots were obsessed with protecting its members.
+
+All in all, officially leaving the Lumenflight had proven itself a brilliant decision so far, and the freedom she felt as she continued to travel was unprecedented. Most recently, she’d settled down on a small planet known for its vacation spots, and she’d quite enjoyed herself so far.
+
+The resort she was at consisted of a massive complex with plenty of entertainment all over. She mostly enjoyed the local casinos and bars, even if the alcohol was far too weak for a B-grade to find any real satisfaction. Then again, if she could find good alcohol, it would mean the establishment catered to B-grades, at which point this wouldn’t be a very good place to lie low.
+
+From her scans, the most powerful people were around peak C-grade. Decent, sure, but compared to her, it didn’t really matter if they were at the beginning or the peak of C-grade. Killing them with a single attack remained effortless, and so far, she’d yet to encounter a single person not dying to a single subtle attack.
+
+Alright, sure, she was lying low, but some morons still had to bother her, especially when she was just trying to enjoy herself. Especially men liked to approach her, which was understandable, as who wouldn’t be drawn to her noble self, but how could she ever look at inferior beings like that with anything but disgust? It was only fitting to punish them for their arrogance.
+
+And annoyingly so, it appeared that today would be the same. Yrelstromoz was just enjoying herself alone at one of the card tables, having a pretty good run so far, meaning the dealer wouldn’t need to experience an unfortunate accident like the one who robbed her yesterday.
+
+A man walked over and sat right next to her, not even throwing her a glance initially. He put down a hefty stack of chips and looked at the dealer. “Let’s hope the heart of the cards is in my favor today. I’m feeling fairly lucky.”
+
+“I can only wish the gentleman luck,” the dealer answered with a smile as she dealt the cards. Based on that brief interaction and the way he handled his cards, she already suspected this human was new to these kinds of places.
+
+Perhaps he was one of the people who believed it possible to fool the house without throwing out the rules entirely. Sadly for him, there was no way around the system skills that allowed the dealers and casino operators to ensure cheating was impossible, even if a god had been sitting at the table. Only the ones who were dealt the cards could see what they had, and the cards would only be “revealed” once actually dealt. Counting cards could help, but usually they used infinitely generating decks and mostly true random card dealing, making it effectively impossible.
+
+Yrelstromoz was sitting out a few hands, ready to enjoy the show as the newcomer was robbed blind... except that didn’t happen. He just sat there with a silly smile as he won round after round, and when the dealer did win, he never lost too much.
+
+“I guess I am really lucky today!” the human laughed, as he asked the dealer to hit him again, only to hit another twenty-one.
+
+Yrelstromoz narrowed her eyes, her interest piqued. There was something off about the ease with which he was pulling win after win, yet her keen senses detected no indication of cheating or concealed skill usage. She leaned back in her chair, her posture relaxed but her mind suddenly much more attentive, observing the human with growing curiosity.
+
+Perhaps he was simply fortunate, or perhaps there was more to him than met the eye. Either way, Yrelstromoz decided she would stay at the table a bit longer to see just how far his luck—or whatever it truly was—could stretch.
+
+After another few wins, he finally turned to her. “Is the lady not playing?”
+
+Yrelstromoz looked at the human, only noticing now that his eyes weren’t very customary for his race. They had a bestial look to them, likely from some sort of skill. Besides that, there was nothing notable about him, besides maybe his strength, which put him in mid-tier C-grade. Decent for an inferior race, but still pathetic.
+
+She met his gaze, a faint smirk on her lips. “Sometimes it’s more entertaining to watch than to play. But I suppose if you’re going to keep winning like this, maybe I should join in and try my luck as well. Who knows, maybe it’s contagious.”
+
+Her tone was light, but her attention was razor sharp, searching for any tell that might betray his secret. It wasn’t often she encountered a human who brought an air of mystery to the table, and that alone made the evening suddenly more engaging.
+
+“The more the merrier,” the human chuckled as she joined him for a few hands... only to find herself on the losing end once more. Yet he somehow kept winning, making her slightly frustrated as she kept looking for any trace of how he did it.
+
+Even the dealer looked surprised, even if they weren’t quite suspicious yet. They trusted their skills and didn’t believe cheating was possible. It shouldn’t be possible, but this man just kept proving himself far too lucky.
+
+“Fortune really is in your favor, huh?” she asked the human with a tilted head.
+
+“I have been known to go on lucky streaks,” the human smiled as he responded casually. “How about you? Do you come to these kinds of establishments often?”
+
+“Yes,” Yrelstromoz responded, her dislike for the human growing due to the way he talked. Sure, she was hiding her status as a B-grade, but even an inferior species like a human should instinctively recognize that he was interacting with a superior being.
+
+“Well, I hope things go better for you, usually. Oh, hit,” the human said, barely paying attention as he got another card, before deciding to stop on a fourteen, which somehow resulted in the dealer going bust.
+
+“Not like winning consistently is a viable strategy,” he continued after raking in more of his winnings. “The casino’s got the math down, and they make sure to always come out on top. It’s genuinely all a scam that just preys on the psyche of its customers. Hence why I don’t feel too bad when I’m the one ripping them off.”
+
+Yrelstromoz narrowed her eyes. “You say it’s a scam, yet here you are, seemingly being the scammer.”
+
+“Maybe I am,” the human chuckled and shook his head. “But even if I were, no reason to feel bad about it. It’s pretty fucking despicable for those far more powerful than others – such as the casino in this case – to exploit and make use of others. Oh, not calling you out; you’re just working here and at least consistently extracting some money from this horrid place.”
+
+The last part was said to the dealer, seemingly an attempt by the human to avoid making her feel bad. It just kept going with the human consistently making her more annoyed, especially as he just kept winning while talking, all the while she was slowly losing Credits.
+
+“Isn’t it only right for those superior to take advantage of those below them?” Yrelstromoz shot back, still trying to figure out how the hell the human apparently just couldn’t lose.
+
+“I guess it’s inevitable that some advantage will be taken, but that doesn’t mean one should wantonly take advantage,” the human shrugged. “Purposefully causing suffering or making their lives worse just for your own entertainment is just pathetic.”
+
+Yrelstromoz was unable to hold back a scoff as she shook her head. “Those sound like the words of someone who knows they’re inferior.”
+
+“Oh, no, quite the opposite,” the human chuckled. “They’re the words of someone confident and powerful enough to never seek conflict with those weaker than himself. Someone who aims only to punch up and find a challenge.”
+
+She didn’t even bother to respond as she was seething more about losing a hand despite having a twenty. To make matters worse, the damn human continued speaking.
+
+“How about you? I can tell you’re decently powerful in your own right, and I reckon that means you’ve also conquered your fair share of challenges to overcome your own limits,” the human asked her, speaking so casually she had to clench her fists.
+
+A pathetic human had no insight into what it meant for a True Dragon to overcome their limits. The lengths she would have to go to if she wanted to continue progressing on her Path after being fully grown. How it would require her to risk her life  — something she simply refused to do. Only idiots would do something that moronic.
+
+Looking at the human, whom she had already decided the fate of, Yrelstromoz narrowed her eyes. “Why are you even talking? Who are you to take such a friendly tone with someone like me?”
+
+“I was just trying to make pleasant conversation and see what kind of person you are,” the human responded as he looked directly at her.
+
+“Why?” Yrelstromoz scoffed. “Do you think you have anything to gain from me? Are you so bored that you strike up a conversation with anyone you meet? Also, why come to this table in the first place when I was clearly alone for a reason? Wait, I know... You want to fuck me, don’t you?”
+
+“Can’t say the thought ever even crossed my mind,” the human shrugged, entirely unfazed by her words. “As for all your other questions, I guess you can say I already got what I wanted out of this little talk. Well, I did hope for one more definitive thing, but we can’t always get everything we want.”
+
+The human looked away as he stood up and stretched. “Alas, seeing as the situation has turned hostile, I believe it’s high time for me to cash out.”
+
+He looked down at her as the dealer nodded and activated a small magic circle on the table that turned all his chips into Credits.
+
+“I wish you luck today, and I hope you end up finding it as enjoyable as I do... and will,” the human said with a smile. After confirming he had cashed out all his chips, he started walking away, Yrelstromoz staring after him.
+
+Looking at him just walking away, she sneered. The inferior creature had appeared before her, annoyed her at the table, spoken to her as if he were her equal, and so much more, and after everything, he believed he could just walk away after getting in the last word?
+
+Truly, the hubris of a weakling from an inferior race. Just because he’d reached C-grade, he believed himself invincible. Little did he know how fragile his existence was. It wouldn’t take much, and she’d done it many times before, even on those at a higher level than he was, with it never once having failed. All she would have to do was use her favorite skill and one of the few she’d bothered to upgrade and create herself. It truly was a lovely skill because it could bring her satisfaction in situations like this.
+
+Raising a finger and pointing it his way, she smiled and gave a silent goodbye to the annoying human. A beam of light erupted from her finger, traveling too fast for all the weaklings around to notice. It carried enough destructive power to instantly destroy the brain and extinguish the soul of even a peak C-grade, all while leaving little to no evidence of what had happened.
+
+With glee, she watched it pierce out toward the back of the human’s head... but her smile quickly faded as her eyes opened wide. Right as the beam erupted, he swayed slightly to the side and dodged the beam entirely. Almost as if he’d seen it coming before she even used her skill.
+
+While she was still surprised at having failed, the human slowly turned his head toward her. The two made eye contact one more time, his voice echoing in her head as he sent her a telepathic message.
+
+“And that was the last confirmation I needed... I’ll be seeing you later, Yrelstromoz.”
+
+As the words went through her mind, she felt a faint shiver run down her spine. For a moment, she considered attacking then and there, but before she even had the chance to fully decide, the human was not only gone but somehow able to avoid her detection.

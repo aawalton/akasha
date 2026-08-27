@@ -1,0 +1,147 @@
+---
+id: 1317b840-3821-5ea7-9251-6fe5cfaf0b18
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1308 - Arachnec Nestmother"
+slug: 0182-chapter-1308-arachnec-nestmother
+partOf: the-primal-hunter
+position: 182
+ownLength: 2716
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3358386/chapter-1308-arachnec-nestmother"
+royalRoadId: "3358386"
+---
+
+Jake said his goodbyes to the Miresnakes, who seemed to be in a rush to leave the Hive as quickly as possible, presumably to report back to their higher-ups within the Nomads or whatever snake faction they belonged to. The Nomads were evidently a mix of many different races that traveled the Minor World as, well, nomads.
+
+They got a lot of curious looks after Jake dispelled the stable arcane barrier. None of the other Nomads around had noticed anything amiss from the looks of it, either. The Archweaver remained silent as the snakes slithered off, still looking incredibly weird with their arms.
+
+After they were out of sight, the Archweaver looked at Jake again. “I believe it is pertinent to meet the Nestmother now.”
+
+“Sure, Jake agreed, having reckoned that would be the case after his prior display. He also detected that while the Arachnec had treated Jake nicely before solely due to his existence as an Envoy from beyond the Boundary, there was now a hidden emotion behind his actions. Jake wouldn’t quite call it fear, but it was definitely a more cautious approach. Not a bad outcome, and certainly something Jake could use.
+
+“The magic you used to summon the barrier, did that also come from this powerful snake?” the Archweaver asked as they started traveling towards a large central building in the Nest that seemed to grow out of the massive bone-structure.
+
+“No,” Jake shook his head. “That’s my own unique form of magic.”
+
+“An arcane affinity?” the Archweaver asked, it now being Jake’s turn to be surprised as he looked at the Arachnec. He had definitely not expected the B-grade to know what an arcane affinity was. He didn’t expect anyone in this world to know.
+
+“It is indeed,” Jake nevertheless confirmed as he continued looking at the undead spider. “Have you encountered other arcane affinities before?”
+
+“In my inherited knowledge, there are mentions of the concept. A predecessor of mine created one and documented the details regarding this discovery, passing it down to all those that came after,” the Archweaver shared.
+
+“Does anyone from your kin still use this arcane affinity?” Jake asked curiously, wondering if it had been passed down or taught to anyone. That was what usually happened when one was discovered, after all.
+
+Jake felt that his affinity was closely tied to his Bloodline, making it difficult, if not impossible, to teach others to use it. The same was true for Eron with his weird white flame that burned away the very essence of life. That, too, had come to be in part due to his Bloodline.
+
+Which, thinking about it, made a lot of sense. Arcane affinities were all new discoveries, making it harder and harder for ones to appear in the multiverse the more eras passed. The two of them on Earth had only created arcane affinities due to the uniqueness of their Bloodlines.
+
+That also likely explained how an arcane affinity had appeared in this world. Not necessarily that a Bloodline had appeared, but due to the uniqueness of this world. Jake could clearly feel there was something special about the environment that he had never encountered before, and it would only make sense that if an Arachnec had taken inspiration from this, it was possible to create an arcane affinity.
+
+It was just a theory, though, and unfortunately, he got the feeling the Archweaver wasn’t going to enlighten him further on the topic.
+
+“That is not a question I can or will answer,” the Archweaver said, his words definitely still telling Jake that users of this arcane affinity did exist somewhere. Perhaps even other races had created arcane affinities, or maybe others had “discovered” the same one as the Arachnecs.
+
+“Fair enough,” Jake said with a light smile as they soon reached the large central building. When they got close to it, Jake finally confirmed something as his sphere covered its insides.
+
+A-grade for sure.
+
+Within the building, hidden in what was effectively a sealed-off chamber, sat a small Arachnec that looked like an elite version of the Deathstalkers. It was entirely unmoving, likely a silent guardian for the building they had entered. He saw it faintly stir, but likely upon noticing the Archweaver, calmed. If not for Jake’s Bloodline, he would never have detected its presence despite it being a mere ten meters above him after they entered the building.
+
+“We shall be going up,” the Archweaver said, motioning towards a teleportation circle in the center of the singular room found within the building. Well, a singular room besides the hidden one in the ceiling hiding an A-grade.
+
+Jake nodded and followed along, not sure if they were actually going to be moving up or down. He still saw what he assumed to be the Nestmother far beneath them in the chamber full of eggs, so maybe the Archweaver was trying to test if Jake’s claim of being aware of the entire Nest was credible.
+
+Stepping onto the teleportation circle, it quickly activated, and to Jake’s surprise, they actually appeared within the peak of the Nest. Jake hadn’t really paid much attention to this chamber, having found it relatively unassuming at first, but when he was there, he felt the powerful energy in the place.
+
+Jake was definitely taken by surprise as the oppressive death affinity mana came crashing down on him, feeling almost like a physical force. The energy already tried to invade his body to eliminate all traces of life within him, but found itself struggling upon encountering his scales and Jake’s insane resistance to environmental effects, courtesy of his Primal Spirit of Man.
+
+The Archweaver had lifted a hand, as if ready to assist him, but he quickly realized that Jake was fine despite the overwhelming energy within the chamber. This place was clearly made to be some kind of chamber for Arachnecs to absorb and grow their power within. Likely even a powerful A-grade.
+
+Something that was seemingly confirmed soon after as a portal was forcibly opened in front of them. Jake felt the aura of the creature as it exited, and while he couldn’t accurately tell exactly what level an A-grade was, one thing was for sure... this one was not an early or even a mid-tier A-grade.
+
+In other words, it was an existence capable of effortlessly destroying star systems. No, not destroy as in wipe out all life or scorch the surfaces, but reducing every single celestial object to cosmic dust and extinguishing the sun.
+
+He used Identify as this figure slowly walked out and confirmed it was indeed the Nestmother.
+
+[Arachnec Nestmother – lvl ???]
+
+He was very surprised upon seeing the full figure of this A-grade, though. If Jake didn’t know better and if she didn’t give off a distinct sense of death, Jake could easily have confused her for an actual Arachne.
+
+It was a spider with a woman’s upper body, exactly as one would expect. There was no trace of decay anywhere on her body, and she had ghostly pale skin and white hair. Even her lower body was mostly white, and she was hairy like a tarantula, though not as bulky.
+
+She was, by far, the most humanoid creature Jake had seen in this world so far. Despite it being a bit inappropriate, Jake even confirmed she did indeed have breasts that were covered by her long white hair, even if they definitely didn’t serve any practical purposes.
+
+The portal closed behind her after she made her full entrance, her movements slow, as if giving Jake time to adapt to her presence. Raising her hands, she pulled back her hair and revealed her face, which remained fully humanoid. Two eyes, a mouth, a nose, and even ears. Her ears were pointed like those of elves, but that was such a minor detail compared to everything else.
+
+“So you are the prophesied Envoy,” the Nestmother spoke, her voice sounding almost as if she were singing, and Jake felt his mind momentarily wander, forcing him to steel himself. He wasn’t even sure she did it on purpose, but some powerful mental magic had been infused in her casual words.
+
+“I’m not big on prophesies, but I am indeed from the outside world. What you refer to as beyond the Boundary,” Jake said, trying to push Pride to help strengthen his mind, which was when he realized a minor problem.
+
+Because he had used Invocation to channel the aura of the Malefic Viper before, Pride of the Malefic Viper was now in a weakened state, and the defenses against mental magic it provided were significantly reduced. If she consciously tried to affect Jake... yeah, he wouldn’t like this in his current state.
+
+He also became a bit more concerned with her next words.
+
+“The Archweaver has already let me absorb all he knows about you,” the Nestmother said with a smile. “You bring with you frightening knowledge. Would you also allow me to experience what you unleashed upon those below?”
+
+Jake considered his words carefully before sighing and shaking his head. “I cannot do that too often, or I risk harming myself irrevocably. Or offending the one whose power I channel.”
+
+He hoped that would be enough to get her to back off, and fortunately, it seemed to work, as she nodded and continued to smile.
+
+“Understandable, such a display could take a lot out of you,” she said, tilting her head slightly. “I do find myself curious about something else. From your words, the human race is quite numerous beyond the Boundary, and those scales of yours are the result of a skill. Would you be so kind as to show me your true appearance? Don’t worry, I’ll make sure you’re kept safe.”
+
+“Sure,” Jake readily agreed, and right as he felt the pressure of the environment disappear, he dismissed his scales entirely, which, granted, didn’t actually show much skin on account of his equipment. Something she also noticed.
+
+“Your body appears full of accessories? Would you mind also removing those so I can truly see you?”
+
+Jake didn’t even think as he nodded and unequipped his chest armor, putting it in his spatial storage, and even made his mask invisible, quickly finding himself standing there with an exposed upper body... right when clarity returned to his mind, and he realized what he was doing.
+
+Shit.
+
+Without even realizing it, and despite Jake thinking he was on guard, he’d found himself influenced by whatever passive mental magic she released. Subconsciously, he’d just found any request she made totally reasonable without even thinking about it. Likely because he was in no danger and would have considered the request in the first place, Jake’s Bloodline hadn’t helped him know something was amiss. Not before he was about to randomly get fully naked in front of an A-grade undead spider.
+
+“Is this good enough? Or do you want to see more?” Jake asked in a semi-teasing fashion, wanting not to give away that he’d been under her influence more than necessary.
+
+The Nestmother giggled a little as she looked at him. “Tempting, but no, I believe I’ve seen enough. Your visage is oddly similar to my own, yet also substantially different. Tell me, do females exist amongst humankind, and if so, would they happen to look like me? Or at least parts of me?”
+
+“There are similarities,” Jake said, focusing way too much on trying to keep an entirely calm mind and carefully thinking over every response.
+
+“I see,” she nodded. “Would that not consider me partly related to your kin?”
+
+Her asking pretty silly questions did help Jake keep his mind straight as he shook his head. “Not quite. There are many races that look similar to humans, all of them incredibly numerous. You looked like many of them, and having this general build is nothing unique at all.”
+
+Humanoid monsters really were far too common in the multiverse, and the more common they were, the more there would continue to appear due to how Records worked. Because many monsters also adopted humanoid forms through their Polymorph skill, they gradually became more accustomed to that form, pushing their next evolution towards greater humanization.
+
+Jake even figured the appearance of this undead spider lady – who, yes, despite not at all looking undead, most certainly still was – was due to Records bleeding through from the rest of the multiverse. The Arachnecs and Arachne already had stupidly similar names, and upon seeing this Nestmother, it was clear they were closely related. These were pretty much the undead cousins of the Arachne.
+
+“The more I hear of this outside world, the more curious I become about it,” the Nestmother said with her usual smile.
+
+Before giving her time to continue, Jake quickly put his equipment back on , preferring it to be that way. The Nestmother didn’t comment on his actions, but merely observed him, having naturally realized he was no longer as much under her influence as she’d perhaps expected. Or maybe Jake still was and didn’t know. Man, did he hate mental magic.
+
+“Understandably so, I think you’ll-“
+
+“Let’s go there immediately,” the Nestmother cut him off with a smile.
+
+“Excuse me?” Jake asked in surprise.
+
+“We believe that you are key to leaving this place, so let’s test it. Let’s go beyond the Boundary. You came from there, yes? Then we should be able to leave the same way you came in,” the definitely high-tier A-grade asked, making Jake a little bit sweaty at her request.
+
+He had no idea if she could actually leave this Minor World, and if she could, did he really want to bring a powerful A-grade into the solar system? Fuck no. Either way, this wasn’t a good development.
+
+If he failed to bring the Arachnecs into the outer world, they could start to consider him useless or perhaps lying about being from beyond the Boundary despite everything else he’d shown. Meanwhile, if he could bring them beyond the Boundary, he had a very hard time seeing things end well.
+
+Jake did assume that, despite this being a Minor World connected to the ninety-third universe, it was still under some restrictions. Based on what the Shaman had said, they had tried to leave before by flying through the Boundary the same way Jake had entered, all to no avail. Perhaps the key was simply to travel alongside Jake, but hopefully, there were other restrictions.
+
+“We can try,” Jake said after thinking for a moment. “But I’m not even sure I can leave the exact same way I came in. Tell me, how have you tried to leave in the past?”
+
+The Nestmother looked a bit suspiciously at Jake, almost as if she expected him to just know how to leave innately, but she nevertheless answered. “I believe it would be a better question to ask what we haven’t tried.”
+
+She proceeded to kindly explain some of what the Arachnecs had tried, and it quickly became clear they had done far more than the Venusians, likely because they could just throw unintelligent undead spiders into the toxic wall and have them keep going until they were dissolved by the ever-increasing corrosiveness of the Boundary.
+
+Jake even learned that powerful A-grades would eventually be forced to return when they tried to travel through the Boundary, as it became too dangerous for them. It truly sounded like the Boundary was an infinitely stretching barrier of progressively increasing toxicity. This did make Jake a tiny bit afraid it would also be the case for him. Hopefully it wasn’t, but if it was, Jake could always just leave for the Seat of the Exalted Prima when it was time for the system event, or if he found himself forced to leave beforehand, it should be possible for him to make a teleportation circle, and with the help of Villy, go to the Order.
+
+After listening to the explanation from the Arachnec, Jake nodded. “Alright, let’s try, but I will warn you that-“
+
+Jake didn’t get further as the Nestmother suddenly raised her head and looked at the wall, the Archweaver doing the same. Her aura was suddenly unleashed, making Jake take a step back as she spoke, her voice full of venom.
+
+“Venusians!”

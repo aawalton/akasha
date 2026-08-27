@@ -1,0 +1,169 @@
+---
+id: a617d664-21cf-54a9-935c-64e70a50dac5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1251 - Second (Final?) Phase"
+slug: 0123-chapter-1251-second-final-phase
+partOf: the-primal-hunter
+position: 123
+ownLength: 3029
+unit: words
+ownProgress: 3029
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3029123/chapter-1251-second-final-phase"
+royalRoadId: "3029123"
+markedReadAt: "2026-06-29T19:34:24.822Z"
+---
+
+Perhaps killing the Guard Captain before wiping out all the Elite Guards had been a mistake, but Jake didn’t regret his actions. Even if this decision ended up making the encounter harder than it needed to be, he didn’t necessarily view that as a bad thing. In fact, wouldn’t making it harder only be more fun?
+
+If they were already truly struggling, then yeah, it would have been reckless, but neither Casper nor Jake had gone all-out yet. Far from it.
+
+Casper on the ground below tried to finish off a few more Elite Guards, but as one, they all suddenly retreated back towards the sky beam and the ziggurat. Jake tried to shoot down a few, but the constant wave of energy rushing out from the ziggurat weakened the blow, making it easy for the guards to group and block.
+
+The Risen also didn’t bother trying to attack, but instead flew into the air and grouped up with Jake to watch the phase transition.
+
+“You good?” Jake asked the undead. Casper had taken some damage, yes, but Jake genuinely wasn’t sure how much it appeared, seeing as the Risen’s body didn’t seem that important to him.
+
+“I’m fine,” Casper responded.
+
+“How about Lyra?”
+
+“I’m also fine,” the ghost answered politely. “Thank you for asking.”
+
+“Please, it’s the least I can do when we’re fucking up Minaga’s dungeon together,” Jake said with a smile as he turned his sight toward the ziggurat that was somehow still in the middle of erupting with power.
+
+“Can you see what’s going on inside that beam?” Casper asked.
+
+“Not clearly,” Jake shook his head. “But I have a feeling we’ll find out very soon, seeing as the intensity is decreasing.”
+
+As Jake said, the energy output was decreasing, and within a few seconds, the beam disappeared entirely, revealing the Formation Master, who finally let down their hood and turned around to address the attackers.
+
+Jake was pretty sure she was a woman, though in his defense, differentiating between males and females of this weird race Minaga had created wasn’t that easy. Not that it mattered; their weak point was still their heads, and most of their important remaining organs were still in their chest.
+
+The Formation Master looked at them, all the remaining Elite Guards already at her side. “You are too late, brave adventurers! My work here is complete, and all that awaits you now is death by my hand! Now come! Face a master of formations!”
+
+Minaga’s questionable dialogue-writing remained consistently horrible, to the level where Jake was confident he was doing it on purpose. Casper even looked a little embarrassed, making Jake give him an empathetic smile.
+
+“It’s okay, we can finish her quickly and not give her time to speak too many more lines,” Jake said, trying to comfort the Risen.
+
+“We both know her death dialogue is going to be even worse,” Casper sighed as the surrounding curse energy lingering around his body intensified. “But yeah, let’s finally let loose and hope there’s not a third phase.”
+
+“I doubt there will be,” Jake shrugged. “This is just a mid-tier boss, and Minaga will definitely save a third phase for the final boss of the dungeon.”
+
+“Unless the last boss has three phases and then another hidden phase,” Casper pointed out.
+
+“Nah, something like a hidden phase is something you can only do once, and seeing as this place is part of a series of dungeons, he’ll have saved that for the final boss of the final dungeon,” Jake said with a high level of confidence.
+
+“Good point,” Casper nodded. “You know, seeing you know Minaga so well, maybe you should-“
+
+“Fools, I shall allow you to strategize means to defeat me no longer! Behold, my power!” the Formation Master rudely interrupted them as she yelled from atop the ziggurat.
+
+At least she was true to her word, as her aura exploded outwards, and lines of magical script began running down the sides of the ziggurat. These lines of pure energy entered the gray sand that made up the ground within the room, fusing with it.
+
+Simultaneously, the armor worn by all the Elite Guards began glowing with magical script, and as one, they pulled out guns that seemed to also gain some sort of benefit from whatever the Formation Master was doing.
+
+Knowing what was about to come next, Jake and Casper flew to each side, dodging a rain of bullets aimed at where they had just been standing. Below, the sand rumbled, then moved, shooting towards both of them at once.
+
+Jake and Casper both dodged torrents of sand and hails of bullets as they assessed the situation. Alright, Jake dodged everything, while Casper took a few hits here and there, also blocking quite a few of the incoming bullets.
+
+As agreed-upon earlier, they didn’t take this passive approach for long. Casper went first as his aura suddenly skyrocketed, and he saw that the Risen had used what Jake suspected to be some kind of second boosting skill, separate from the curse-related one he’d already been using throughout the fight.
+
+This second one, Jake had also seen before, as his body began emanating turquoise energy, and his aura even began to slightly resemble that of Lyra. The two of them had fused, and the result was immediate.
+
+Casper stopped dodging as he allowed a wave of sand to pass straight through his body right as it turned ethereal. The incoming bullets also proceeded to phase right through his body, doing some damage in the process due to the energy infused in the projectiles, but Casper barely seemed to notice as he raised a hand.
+
+Ghostly energy gathered around him as he summoned dozens of cursed wooden stakes that instantly absorbed his ghostly energy, the two energies merging as Casper and Lyra had.
+
+With a mental command, the stakes were all shot down toward the ziggurat below, forcing the Formation Master to make a move herself as she took out a staff and slammed it into the ground, a formation appearing below her that summoned a large transparent barrier.
+
+The stakes all hit the barrier at once, making it crack all over as they penetrated halfway through. Casper pushed his hand forward, shooting out a shockwave of energy that pushed the stakes in further, breaking the barrier apart in the process, and sending the stakes straight for the Formation Master.
+
+However, a group of Five Elite Guards instantly moved to defend their leader, each of them holding a shield also filled with magical scripts from the formation master, making them larger in the process.
+
+They successfully blocked Casper’s attack, and the Formation Master responded by summoning a magic circle in the air that quickly warped and wrapped around itself, forming a large spear made purely out of what looked like minuscule runes.
+
+Right as she was about to shoot it, an explosion washed over her alongside a good splash of blood as an Elite Guard just had his right arm blown off. Jake, who hadn’t just been enjoying the show, had continued dodging bullets and sand waves until he found a good chance to take another guard out of commission.
+
+The Formation Master, who was still powering up the spear with one hand, turned toward Jake and waved her other one as even more of the gray sand rose around him. Four pillars ascended and took the shape of hands with magical scripts running across them, turning them more durable and stronger as they tried to grasp Jake.
+
+Deciding to follow suit with Casper, Jake also stopped holding back. Arcane Awakening was fully activated, and with it, he also unleashed Pride of the Malefic Viper to address the approaching hands.
+
+When they got close, they suddenly stopped, and with little more than a thought, Jake summoned several arcane bolts that pierced the sand hands and blew them up, allowing Jake to continue taking aim at the actual boss.
+
+He channeled a quick Arcane Powershot and blasted away yet another Elite Guard right before the Formation Master released the large spear toward Casper. The Risen seemed intent on merely dodging it; however, the boss also used extra sand to try to limit Casper’s movements.
+
+Forced to block, Casper used both hands and held up his palms toward the spear. The air shimmered, and just as the spear arrived, a wall of ghostly energy formed. Pushing into the wall, the spear somehow didn’t pierce through, but instead the wall appeared almost elastic, stretching back as it made the spear barely miss Casper by a hair’s breadth.
+
+Seeing this, the formation master snapped her fingers, making the spear explode, sending out a barrage of smaller spears toward the Risen who hadn’t seen that move coming. He was struck by several as they phased through his body, actually doing some damage.
+
+While all this was going down, Jake blew away two more Elite Guards and had started circling around to focus on those he’d isolated by blasting them off the top of the ziggurat.
+
+Casper looked more annoyed than hurt as he mobilized more power and summoned a large magic circle behind himself. However, he didn’t actually use it, but instead summoned more blight-infused cursed stakes that he shot toward the Formation Master, forcing her Elite Guards to continue defending her, buying Jake even more time.
+
+With his boosting skill fully active, the Elite Guards had a hard time keeping up with Jake’s increased speed, allowing him to continually land curved arrows through the gaps in their armor, really making the poison seep in.
+
+The Formation Master kept throwing out more spells, mostly focusing on Casper, while the Elite Guards tried to shoot down Jake or simply defend against the arrows and stakes coming for them.
+
+Shortly, Jake took down another three Elite Guards, and the more he slew, the easier it became to take down the next. The ones who still lived also weren’t doing super well, as while Casper’s attacks didn’t land any direct hits, even blocking them wasn’t healthy, as they all exploded into blight and curse-infused splinters.
+
+However, despite everything going well, they still hadn’t managed to hit the Formation Master with anything yet. Jake even saw that the blood and explosion she was struck by earlier hadn’t actually reached her, but had only encountered an invisible barrier surrounding her body just above her robe.
+
+Direct hits also weren’t a possibility due to the Elite Guards more than willingly risking their own hides to defend her, and Jake didn’t doubt that the fact that magical scrips covered their armor and weapons had something to do with how they acted.
+
+Still, Jake was fine with taking them out first and leaving the Formation Master for last. In his quiver, he was also preparing yet another Protean Arrow, and seeing as he didn’t need to go in melee, still used Eternal Hunger as the arrowhead. So, once the Formation Master was exposed, he would more than gladly let her share the same fate as the Guard Captain.
+
+It didn’t take long before all fifteen Elite Guards were on death’s door or already dead. After Jake and Casper had both gone all out, they displayed far more power than before, and the Elite Guards simply couldn’t keep up anymore as the curse and blight energy weakened them, and Jake’s arrows and poison damaged and killed them.
+
+Honestly, they had a pretty good combo going, and Jake nearly regretted not having someone like Casper, who was good at weakening foes in his Nevermore Party. Then again, he couldn’t exactly say he’d have wanted to replace any of the party members he did go with, and while Casper was certainly strong on his own, his damage output was lacking.
+
+It was good enough for the Risen to get the final kill on the Elite Guards, though, as one of his cursed stakes struck one in the neck. Finally, they only had the Formation Master remaining, who stood exposed still atop the seemingly indestructible ziggurat that, despite all the fighting, didn't have a single scratch on it.
+
+“Damn your interference! I seem to have underestimated you, adventurers, but make no doubt, you shall still die this day!” the Formation Master said, Jake already cringing as the woman raised her hands. “My comrades may have fallen, but their spirit and desire for victory shall live on through me!”
+
+Jake wouldn’t call what happened next a third phase, though it could be argued that it was, dependent on the definition. The armor on all the Elite Guards and even the Guard Captain began glowing with the same magical script as before, right as it floated into the air and flew towards the top of the ziggurat from wherever it had scattered. Even the broken and damaged pieces of armor flew over as it gathered right above the Formation Master.
+
+All the armor bent and warped until it formed a humanoid shape that stood at approximately four meters tall. Even the weapons were dismantled and flew over, only to reassemble into a large rifle and a sword. Once the entire thing was done, a flash of light signified the creation of a new being that Jake quickly Identified.
+
+[Summoned Armor Golem Guardian – lvl ???]
+
+“Go, my Guardian, slay these adventurers and show them the folly of their actions!” the Formation Master yelled as she pointed towards Casper.
+
+The Guardian did as it was told and instantly charged towards Casper, showing an impressive level of speed, and when it swung its sword, it was clear it wasn’t weak either. The Formation Master also knelt down and placed her hands on the ground to summon a magic circle and unleash more magic of her own... at least that was her plan.
+
+Jake had other intentions as he saw the isolated Formation Master and saw no reason to drag this out any longer.
+
+“Event Horizon.”
+
+For a moment, Jake’s world was consumed with nothingness as he glimpsed the Event Horizon. The Formation Master stopped whatever she was doing, her eyes opening with innate terror and a lack of understanding about what was happening.
+
+However, all Jake saw was his new Event Horizon, and as the glimpse stopped and only the ring of light surrounding his target remained, Jake raised his bow and took aim. Desperately, the Formation Master tried to make her newly summoned golem go for Jake instead of Casper, but the Risen was quick to realize Jake was up to something and detonated the magic circle behind himself.
+
+It released a torrent of ghosts who all looked slightly similar to Lyra, and they instantly swarmed the golem as Casper also placed several traps surrounding it, all of them exploding and releasing chains to bind and stop the summon.
+
+Jake kept charging his Arcane Powershot, even as the Formation Master pointed a finger up towards him and shot out several small spears of magical scripts. They struck him in his stomach and chest, piercing into his body, but Jake didn’t move an inch.
+
+Clearly desperate, the Formation Master yelled and made the surrounding floor of the ziggurat erupt, all the formations she’d been slowly working on instantly dismantled to create a single massive spear that she didn’t hesitate to launch towards the hunter.
+
+Once more, Jake showed no reaction, though in this instance, he wasn’t actually planning on taking the hit. The spear was aimed straight for his chest, and rather than dodging or trying to block it, Jake did the exact opposite: he lowered his own defenses.
+
+Just enough to ensure that when the spear got close enough, his danger sense reacted strongly, just as he'd wanted it to. With death seemingly imminent, time slowed as Jake claimed the moment. Despite the difficulty of moving while using Arcane Powershot, Jake slowly floated to the side, out of the way of the spear, all while continuing to channel his attack.
+
+When time returned to normal, the spear shot past Jake harmlessly, its speed too fast for the Formation Master to stop it before the thing smashed into the Grand Labyrinth wall.
+
+The Formation Master stared, more confused than ever, as Jake felt the attack was ready. He let go of the string as the Protean Arrow exploded forward, carrying every bit of Hunting Momentum Jake had built up so far.
+
+It was then that the Formation Master made her final gambit. With one more ritual, she somehow summoned back the Guardian Golem to her side despite it being incapacitated by Casper. The golem didn’t hesitate to transform both its weapons into one massive tower shield that it placed between itself, the Formation Master, and the incoming arrow.
+
+However... nothing would stop that arrow from reaching the horizon. Despite its massive speed, the Protean Arrow curved perfectly around the golem and struck the surprised Formation Master, who couldn’t even try to react due to a well-timed Primal Gaze.
+
+She was struck right in the chest and blasted off the ziggurat and into the distance. The barrier protecting her body proved far more powerful than Jake and Casper could have possibly expected, proving capable of stopping the arrow... for a moment, anyway.
+
+When she impacted the wall, the sudden stop of momentum forced the arrow through her barrier, shattering it like glass. The arrowhead made from Eternal Hunger pierced into her body and even slightly into the metal wall of the Grand Labyrinth, impaling her.
+
+The Formation Master raised a hand and summoned a small magic circle, making Jake instantly react by nocking another arrow. However, before he could even shoot it, the boss's raised arm fell limply back down, her gaze grew vacant, and all energy drained from her body as the summoned golem also fell apart, becoming nothing more than a pile of broken metal.
+
+You have slain [Aginian Formation Master – lvl 368] – Bonus experience earned for killing an enemy above your level
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 345 - Stat points allocated, +50 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 345 - Stat points allocated, +45 Free Points

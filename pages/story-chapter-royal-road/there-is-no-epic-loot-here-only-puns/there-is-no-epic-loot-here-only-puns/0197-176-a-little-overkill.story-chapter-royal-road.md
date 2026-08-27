@@ -1,0 +1,391 @@
+---
+id: ee18b507-5a52-5113-9b2a-309ca5e7fb6b
+page-type-slug: story-chapter-royal-road
+title: "176: A Little Overkill"
+slug: 0197-176-a-little-overkill
+partOf: there-is-no-epic-loot-here-only-puns
+position: 197
+ownLength: 3585
+unit: words
+publishedAt: 2023-05-12
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1211193/176-a-little-overkill"
+royalRoadId: "1211193"
+---
+
+What bothersome bugs.
+
+Nu was akin to a demi-god in this symbolic space, but these vermin were tenacious. He watched as the small one absorbed a larger one and became ‘more.’ It was hard to define exactly what he was seeing. Before, they had been black holes of sorts, some with texture, others with hums.
+
+This new one was physical in a way that allowed it to push back against Nu and the Dungeon Mana. The so-called ‘Command’ unit was a greater sum of its parts, and yet…
+
+Nu watched it raise its own mana to attack and great cracks ran along its limbs and being, healing only to rip open anew seconds later. Storms of chaotic loose energy streamed out of its barely contained core, threatening to detonate not only just its own mana but any Dungeon mana it came into contact with.
+
+Nu would have just offered to kick the thing out of the Dungeon with some super bosses and close the door, letting Fairplay handle their toys, but Delta would get upset because ‘Durence was in that direction’ or something.
+
+Stupid village with a stupid name.
+
+Nu held out a hand, and a massive buzzing blade made of stone and demonic bat-like features formed. The Guard Blade was not the most elegant of weapons, but what it lacked in subtlety…
+
+Nu swung it, and there was a scream of displaced mana as pure force slammed into the Command Unit. It stumbled back, letting Rale and Bob in the physical world drag it off course a little more before Nu could ‘see’ it cutting its way free of Bob, causing immense pain to the creature in the process.
+
+The Abyss Worm simply healed the damage up, and Nu knew that Bob’s kind was similarly adaptive since they lived in the between and unseen. Normal weapons worked far better on Bob than the esoteric.
+
+Still, the worm was young, so it was best not to push his regeneration. According to Bob’s creature file that Delta never got around to reading.
+
+Bob could easily become an Abyss Hydra, a Nightmare Wyrm, or a Nightmare Crawler depending on the types of damage he suffered.
+
+Pushing forward, Nu tried to bury the sword in the Command Unit’s Symbolic self, and the tip left a nasty scrape before snapping off due to the pressure.
+
+He really needed to get upgrades for the Guardgoyles.
+
+Jumping back as he was nearly cut with the dark blade of the unit, Nu felt around for another ‘inspiration’ in the Symbolic Space.
+
+Anything in the Dungeon could become a tool in this ‘state.’ The goblins could become protective leathers or crude tools, the spiders forming into traps or nets, and so on.
+
+The Guardgoyles formed a long sword of stone that did immense physical damage. This was how Dungeons did fights. Their creations added to their arsenal, and the more diverse or creative the Dungeon’s toolset, the more likely they won and devoured the other.
+
+Feeling risky, he tried to feel for the Death Star Dragon that Delta just happened to cook up without effort. He only got the idea of some massive greatsword before it fizzled away in his hands. He clenched them.
+
+He was still too weak.
+
+A helper. Not a Dungeon.
+
+Nu’s vision swam as the Command Unit ran through his side with its blade, causing hot lances of pain to shoot up his body.
+
+“Is that it? Delta’s puns hurt more,” he snarled, grabbed the blade with both hands and lifted, pivoting the machine overhead and slamming it hard into the ‘ground’ behind him.
+
+He stumbled back trying to contain the flowing motes of blue leaking out of his wound.
+
+“Just like her, no respect for tradition or rules,” he spat and held out a hand.
+
+“I can break rules too,” he snapped at the machine as it turned slowly to face him. Dozens of little screaming tribal mushroom men ran forward, coated in Troll soup like war paint.
+
+“RIP AND TEAR! SOAK AND SEEP!” Nu roared.
+
+The battle waged on.
+
+---
+
+Delta bent over Yattina, her stomach tight as the woman squirmed in pain. Nurse Heallagon danced around her, gently applying many of Doctor’s remedies. The Guardgoyle recently returned with Nu before the menu showed up to help Delta. He was excitedly exclaiming about ‘nature and its bounty.’
+
+“Can’t we just have a nice thing without trouble following?” she asked quietly, and around her, her defeated monsters shifted uncomfortably.
+
+“Mother…” Cois asked slowly, and Delta looked up with a blink.
+
+“How will you contain the explosion? Those machines… ” he trailed off, and Delta could see visible concern of the others about the same question. She put on her best smile that she could manage.
+
+“I’m going to beat it to a pulp, then make Jellagon push it down to the fourth floor and let it explode,” she summed up. There was a long thick silence before almost everyone present began to protest and refuse.
+
+“If it merges together and erodes Gamma’s pieces inside, I can eat the explosion, but I can’t risk it going off on the other floors,” Delta said, speaking with a clear and calm voice.
+
+“We can respawn,” Cois said, trying to get off the bed despite being nothing more than a sort of hologram to pass the time until his respawn.
+
+“Not if the explosions take out all your respawn bases,” Delta said quietly.
+
+“We are replaceable. But features of your story,” Lord Mushy said, his tone soft and gentle. Delta looked right at him as Maestro remained in a light slumber nearby.
+
+She, for a moment, didn’t see them as they currently were, but watched as they shrunk to become small little stubby acid spitting mushroom turrets, gently comforting one another.
+
+There should have been a third sibling, but Delta had lost that Mushroom Spitter long before she got her feet under her.
+
+“Not to me. None of you are ‘replaceable,’” she said, standing up as she watched Alpha guard the door to the infirmary with a more scared Lim.
+
+“If you die, we all die,” Fera pointed out, but she didn’t seem to be arguing, just asking if Delta was sure.
+
+Delta shot her a smile, and this seemed to confuse the goblin.
+
+“Not exactly. I’m only 80% of the Dungeon Core these days. Pretty sure that if it all goes wrong, Nu can take over,” she said, and there was a pained silence in the room.
+
+“Hurray,” Fera grumbled.
+
+“Nu is keen on the job,” Delta said, trying not to preen at the preference her monsters had. It was hard not to enjoy being the favorite.
+
+“He’s a sign nut,” Cois said flatly.
+
+Muffet made pained motions that looked like the dance of ‘The Spirit of his Joy does not Diminish his Devotion to Manically Laughing.’
+
+“Nu has seen me work; I bet he could continue my work if anything bad happens,” Delta tried to defend her friend’s honor.
+
+Heallagon gurgled, and Delta covered her mouth in shock as Fera let out a cackle.
+
+Maybe… maybe she would just try not to die. It seemed the best for everyone involved.
+
+She looked back down at Yattina, feeling close to the woman and a little responsible now that she was in Delta’s care.
+
+She was looking less pale, and Delta was relieved to know she would survive. She sent a mental prayer to the woman that she would wake up feeling better than ever.
+
+---
+
+Rale was not one for waxing poetics nor grandstanding, but he was rather keen on destroying anything that would threaten his jungle.
+
+It irked him that no matter how he conjured the full river’s might, nor how Bob slammed the machine again and again, it simply shrugged them off, leaking a truly enormous amount of energy.
+
+There was a thunderous boom from above, and Rale could feel the disappearing essence of Lord Fran and the nearly destroyed machine he left in his wake.
+
+“Strength Unit will return to my side. We will become as one. We will become as one.” the Command Unit insisted.
+
+“And as one, you will die,” Rale said, slamming the butt of his trident into the ground, causing water to leak from the cracks of the mud.
+
+“Death is for the living,” the unit said in an almost macabre amused tone that sounded more like a boy than a machine.
+
+“The living may rot, but cold steel will rust. None can escape death,” Rale huffed.
+
+Instead, one had to be extremely buff so they could impress death with their bulging biceps! There was a thump nearby, and Rale tensed, ready to spear the other machine if it drew closer, but he stared as the dark visage of Renny appeared, holding a dented core with a flickering light.
+
+“Strength Unit… even damaged should have been enough to overpower you.” Command Unit said to the ghoul. The ghoul covered his fake mouth with a hand and giggled silently.
+
+“Renny, my showman, watch out!” Rale cried as the Command Unit tried to spear the core to itself, but Renny moved like a wraith, dancing over the river and between trees akin to a phantom. It bowed and taunted the Command Unit to chase it.
+
+Rale used the river to form walls and obstacles to slow down the Command Unit, which had taken on a near frenzied attitude in getting the other core to itself.
+
+“To the Queen of Thorns!” Rale yelled to the fleeting form as he allowed Bob to grab him and give chase.
+
+He had a feeling that Devina would be in the boss room.
+
+If Wyin was the sword of the Jungle, Devina was the magic.
+
+---
+
+It had lost sight of the Soul Eater. The Command Unit worked forward, smacking bees that attacked it. More than a few did not get up after its attack.
+
+Their stingers were ineffective-
+
+‘Woah, a bee stinger glove! Gamma, that’s so cool!’
+
+-they were never good enough. The trident of the frog was not strong enough-
+
+‘I changed my mind. You’re not going anywhere until we reunite all the Shattered islands; this Trident will be my symbol!’
+
+-never enough.
+
+How many terrible memories had the original removed? Shunted them off into weapons and discarded them?
+
+How dare he keep the good times to himself. How dare that carefree idiot hoard their memories!
+
+HOW DA-
+
+‘Core Stability at 23%’
+
+Short Access Memory purged. Prediction of memories returning? 100%
+
+It focused on a massive tree ahead with a gate under it. If it obtained the other core of the Strength Unit, it could utterly purge the Gamma. It could stop being. It stepped into a room full of mist and power. Its mana sensors were going crazy as it looked around. From the mist, a figure slowly moved forward, and the Command Unit went to attack but stared down at where its arm had been torn off. It didn’t understand how or why.
+
+It looked up to the figure who looked like a beautiful woman. It searched its Fairplay database for matching records. There was a match. Deity-type magic, but this was not correct. This energy was too potent for a priest-class threat.
+
+“How long has it been?” the woman mused as she moved long slender legs and glowed with a pale green energy.
+
+“How long has it been since I have properly manifested in this realm?” the woman breathed. The mist pulled back to reveal something else to the Command Unit.
+
+The frog witch that it had fought before or… Agility had… she was bound to the tree by vines as her eyes blazed green. The tree and the frog seemed to be doing some ritual of unknown means.
+
+“Avatar summoning. Reserved for saints,” Command Unit beeped. The woman smiled, and it even made the Command Unit’s thoughts pause for a moment.
+
+“Or if the deity in question allows some things to be skipped. Most are too proud, stupid, or powerful, but me? I’m just bored,” the woman beamed. The unit tried to shoot for the tree but was rebuffed by a giant orange bird made of fire and rage.
+
+“Inchy, the dear, is so protective of his little frog. It’s cute, but you…” the goddess mused and stopped smiling.
+
+“You’re not cute at all. In fact, you’re quite ugly and sad,” she said, and one of the Command Unit’s legs was gone, sliced off before it could even react.
+
+It did not feel fear.
+
+Only…
+
+An undeniable urge rose up in it as it locked eyes with the goddess.
+
+“Witch… I’m adorable,” it intoned and shot a claw at the form, making her bat it away with an odd look.
+
+---
+
+Nu watched as the energy around the Unit crackled and tried to escape, only to be pulled back in. For a moment, he saw a grinning savage girl with wicked eyes before it was sucked back into the machine. The melting slabs of metal binding the core continued to hiss and melt as it moved.
+
+Nu was intrigued now and wondered what would happen if he popped a few of those bolts off before it all exploded?
+
+---
+
+The Command Unit didn’t know why it was alive. The goddess made it crawl further down only for a troll to carry it further.
+
+*Core stabilization at 15%*
+
+It was struggling to move, but it was physically burning the troll with pure mana as it kept producing more and more.
+
+‘We’re going to die; they just wanna make sure we make a beautiful boom somewhere else,’ a voice inside Command Unit’s mind said.
+
+‘Who are you?’ it asked.
+
+‘You, a part… the best looking part. You’re the broken Dungeon. I’m the Broken Gamma.’
+
+‘Error, you do not seem to have any physical appearance’
+
+‘S-Shut up! I’m the only part of us with a concept of handsome and pretty, so that makes me the best looking. Anyway, we’re just copies, clones… discarded parts. It’ll only hurt for a moment,’ the voice mused.
+
+There was a pause as they were dragged through a garden.
+
+‘I do not want to perish.’
+
+There was a sigh.
+
+‘I know buddy, but dem’s the breaks. We’re a killing machine who only sort of understands killing is bad towards the end. There’s hundreds more of us with a dozen more variants. We’re not even the cream of the crop,’ the voice said with a snort.
+
+They came to rest near a strange well that burned the Command Unit.
+
+‘What is your name?’ it asked the voice.
+
+‘What even is a name?’ it said with a huff.
+
+‘An identifying mark. A designation. A unique series of characters to differentiate you from one model to another-’
+
+‘Oh my god, let me just be edgy!’
+
+The missing core was placed on them. It absorbed itself into the Command Unit.
+
+Self. It was.
+
+It thought. It was.
+
+It wanted to weep. It had no eyes.
+
+*Warning, Core is overloading*
+
+‘I will perish now.’
+
+‘Yeah… don’t think you’re going to make it, but weirdly, I feel fine,’ the other voice admitted, sounding confused as it seemed to fade further and further away.
+
+‘I will die… alone?’
+
+‘…I guess so.’
+
+‘…That makes me sad. I do not like sadness.’
+
+‘I’ll give you a name. That way… you’ll be remembered somewhere. You can be called ‘Dick,’ it comes from Richard!’ the other voice called out.
+
+That was confusing.
+
+‘How does Dick come from Richard?’ it queried.
+
+‘You ask him nicely, of course.’
+
+A strange emotion rose up in Dick.
+
+It felt light and strange, as if he wanted to involuntarily huff.
+
+‘Ah, I can’t leave you now that I’ve named you. Come on!’
+
+---
+
+As the machine was quickly moved from the well, ashes of gray iron fell out of the body and into the grass, mixing with a garden of flowers.
+
+A single new flower bloomed, fed by the ambient mana and accepted. Its petals were the sharp edges of a blade, and its stem like barbed wire.
+
+The Dickish Flower has been successfully grown!
+
+---
+
+Delta could feel the reactor of the combined HE-RO units blazing as it landed on the island of the fourth floor.
+
+She expected a fight or maybe a struggle, but the vast amount of energy was utterly devoid of a mind, existence, or a guiding force.
+
+It was just a thing.
+
+“Well that makes it easy-” she said, and then it exploded, expanding in all directions like a solid wall of white.
+
+---
+
+Ruli stumbled and nearly fell over as cracks spread across the earth, emitting a blinding white light. The air stunk of mana, and nearby trees and wildlife began to mutate out of control.
+
+The nearby Fairplay members fled, except for that rude leader, Caline, who simply watched the spreading cracks with a grim expression.
+
+---
+
+Argus Gentle toppled over as he wandered the town, the flashing light spreading across the sky making it hard for him to breath. That light looked so familiar… so familiar…
+
+He clutched his head as the airshot past, bringing a screaming noise of howling wind.
+
+“The Dungeon,” he breathed and stumbled down the road in a panic.
+
+---
+
+In a quiet shop. Japes watched the light shoot into the sky with a disgusted noise. He looked around, but didn’t see Vas.
+
+He went to one drawer and pulled it open to retrieve an old blueprint that he unfurled to reveal a primitive HE-RO unit with a much bulkier design.
+
+“To think they’re still tinkering around with these toys,” he sighed and turned it over to show a diagram of a much smaller figure with a dozen more components and functions.
+
+V.A.S. unit.
+
+“Still, if my old company is going to be a problem like my old cult… I will simply have to be proactive,” he shrugged and drummed his fingers. He turned and closed the drawer, not seeing the blueprint caught slightly in the corner.
+
+‘Vast Anima-’ was all that could be read.
+
+---
+
+Gentle rushed past, and another odd boy walked the other way, looking dazed.
+
+Gentle stared into the almost serene eyes of the other boy, who looked to be covered in leaves and mud as if he had been climbing a tree and fell.
+
+The boy tilted his head at Gentle and smiled. Argus Gentle almost skidded to a stop as their eyes landed on each other. Something about that boy was unsettling, and the boy looked back, beginning to frown.
+
+“You’re filled with sadness and sharp angry bits,” the boy announced.
+
+“Who… what are you?” Gentle whispered. The boy smiled and held out a hand.
+
+“I’m Vas. I want to be a tree when I grow up,” he offered, and Argus slowly took the hand, feeling as if contact was more invasive than it should have been.
+
+“Argus Gentle. I’m going to grow up to make the world fair,” he muttered back. Vas took his hand back and stared at it.
+
+“I’ve never touched something like you before,” he said with delight and walked off, leaving Argus confused before another shake in the ground spread across the town and he remembered why he had been running.
+
+He took off once more.
+
+---
+
+Delta laid on the sand, belching as she couldn’t move an inch.
+
+“Where do you keep all that air?” Nu asked dryly.
+
+“Eh…” Delta made a vague gesture.
+
+“The system doesn’t know how much you just absorbed, and it might have fried you, but you have a network now so…” he trailed off, and Delta’s mind sluggishly accepted the words but did not process them.
+
+She was on a break right now.
+
+---
+
+Foodie was hyperventilating as he made another Saltbat to make the excess Mana go away, and he opened another floor in panic.
+
+---
+
+“All vote yes, make anything!” the Trinity cried as they made birds, flower foxes, Carrot-Rabbits, Meat fish, and more.
+
+“VOTE YES FASTER!” they screamed.
+
+---
+
+“What’s the matter?” Nu asked after a moment.
+
+“Dungeon Mana rejects other Dungeon Mana, right?” Delta said slowly, eyes staring up at the blue sky of the fourth floor as a massive whirlpool formed on one side of the floor where the explosion had carved out a death trench.
+
+“Without fault, yes, even allied Dungeons never feel comfortable in another’s domain,” Nu agreed.
+
+“So when the excess mana blew to the surface… I pushed down what I could, but I wasn’t alone,” Delta said, and Nu stared at her without speaking.
+
+“It felt like there was a Dungeon in town for a small moment,” she went on.
+
+“We’ve never felt another Dungeon, nor did Sis show us any on the map,” Nu pointed out, he seemed to think for a moment.
+
+“Old?” Nu pondered.
+
+“No, it felt… young,” she shrugged, then burped again.
+
+“It is Durence. Maybe a Dungeon that grew legs and moved about is like boring news there? I think my Mana said something like that… A human body is just a Dungeon that moves, right?” she snorted.
+
+“…Thank you for not dying. I didn’t want to take over,” Nu announced, and Delta twitched. She had built him up, and even he was rejecting himself from the job?
+
+“Why?” she said through gritted teeth.
+
+“Mushroom dungeon… just doesn’t fit my style,” Nu smirked.
+
+“I didn’t choose it,” she muttered.
+
+“You don’t choose a lot of things that happen here. You still name most of them,” he countered.
+
+Delta just glared at the sky, having no counter.

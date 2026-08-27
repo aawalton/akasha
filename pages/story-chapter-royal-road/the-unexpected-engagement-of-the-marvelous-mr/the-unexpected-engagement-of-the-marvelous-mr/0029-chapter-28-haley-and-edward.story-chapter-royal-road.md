@@ -1,0 +1,341 @@
+---
+id: 66a9f158-1885-5d63-91e5-7305f7fedc55
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 - Haley and Edward"
+slug: 0029-chapter-28-haley-and-edward
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 29
+ownLength: 2659
+unit: words
+publishedAt: 2022-06-20
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/931665/chapter-28-haley-and-edward"
+royalRoadId: "931665"
+---
+
+The next morning, Haley stood outside the Aubrey-Serrs residence as he had over a dozen times before. It took him longer to ring the doorbell this time.
+
+He heard Eleanor call out that she would get it, so he had two seconds to brace himself.
+
+Lady Serrs wasn’t that lucky. She had not been expecting to see him when she opened the door. He could tell by how fast her face fell.
+
+“Good morning,” Haley said.
+
+He hesitated too long to say “Miss Serrs.” He wasn’t sure if he could presume that much anymore, but he didn’t want it to be “Lady Serrs” either. The moment passed, and he knew the good morning would have to stand on its own.
+
+“Good morning, Chief Inspector.”
+
+At least that gut-punch was over.
+
+Haley asked, “Is your cousin in?”
+
+He heard Edward’s voice from behind Eleanor. “Yes, yes. Sorry, Ellie. This one’s for me.” The door opened as wide as it would go. Edward stood behind his cousin. “Good morning, Inspector Haley! Please come in.”
+
+Eleanor stepped to the side. Taylor came forward to receive Haley’s hat.
+
+The baron said, “I’m wretched for not being here to greet you—especially since you were kind enough to call first—but last night was…difficult.”
+
+“That’s understandable, my lord.”
+
+“Do you need Eleanor for anything? Only, I think she was about to go out.”
+
+Haley turned to her. “Your morning walk?”
+
+“Is it allowed?” she asked.
+
+Edward hummed in an attempt to cover the awkward silence, then said, “If you’d tell her no, I’m sure most of us would be grateful. We’re all a little nervous about her going anywhere, and we still haven’t found the meanest set of dogs money can buy.”
+
+“The risk is minimal, Eddie,” Eleanor said.
+
+Edward looked up at Haley with a raised eyebrow.
+
+The inspector addressed himself to Eleanor: “You’re not a suspect, Lady Serrs, so I have no right to detain you.”
+
+She left without another word.
+
+At least she didn’t slam the door.
+
+As the baron led Haley toward the sitting room, he said, “Can I offer you a coffee or tea, Inspector? Because I won’t survive this interview without some kind of stimulant.”
+
+“A coffee would be welcome.”
+
+Edward grinned when he heard the heartfelt words. “Hard night?”
+
+“Yes.”
+
+When the baron turned, Taylor was already bowing. “Yes, Your Lordship.”
+
+“Thank you, Taylor. You’re a wonder.”
+
+Haley and Edward entered the sitting room, and the baron invited his guest to sit.
+
+“Now, how can I help you?” Edward asked as he sat down across from him.
+
+“Did Eleanor tell you about our last conversation?”
+
+“She told us three things—that Dominic was murdered, that he was the one who sent the invitations, and that you think his murder might have something to do with her. After that she kind of shut down.” Edward frowned. “Lord, I need a cigarette.” He reached into his pocket and pulled out his case.
+
+“You’re upset?”
+
+Edward let out a brief laugh. “You could say that.”
+
+He put a cigarette to his lips, then motioned with his case to Haley, who shook his head. Edward put the case away, stood up, and walked over to the window.
+
+“Dominic Winfield was a good friend of mine,” he said as he threw back the curtains. “But you know that. Otherwise, I doubt you would have called and asked to see me.”
+
+The baron opened the window and returned to his seat before pulling out his matches. Once his cigarette was lit, he moved it from his lips to say, “It’s worse though. I’ve never seen Eleanor like this before.”
+
+“Did she have feelings for him?”
+
+“That’s a bit of a complicated question, Inspector.”
+
+Haley interlaced his fingers and let his eyes rest on the man across from him. “Your Lordship, I’d like to ask you about Winfield. We’ve been able to gather facts about him, but it’s hard to get to know a person by the facts of their life.”
+
+“That’s a fair point.”
+
+“Were you close to him?”
+
+Edward rubbed his eyes. “I was about as close to him as anyone, I guess. He had a lot of acquaintances, but few friends.”
+
+“Was he shy?”
+
+“Not shy. Not like that. But he was reserved. He would talk with people, but he didn’t talk about himself very often. I knew he was foreign because of his accent, but I was around him for a year before I learned he was an American.”
+
+“Do you know why he came here?”
+
+“He likes it. He likes the city and he likes the weather. The man’s rich enough he could have picked anywhere in the world to live. His family all think he’s crazy for living here, but everyone has their own tastes I suppose.” Edward paused. The hand holding the cigarette dropped to the arm of his chair. “Thought he was crazy. Had his own tastes—I’m sorry, it doesn’t seem real. Did you see the body, Haley?”
+
+“Your Lordship—”
+
+Edward waved his hand. “Sorry, I’m getting off topic.”
+
+“Can you tell me if he was friendly with Massey and Fitzmon?”
+
+Edward scoffed. “It’s hard to be friendly with Fitzmon.” He stubbed out his cigarette even though it was hardly burnt down. “But they had a great deal of mutual respect for each other—which is Fitzmon’s version of friendly. And Massey is pretty easy to get along with. I don’t know how close he felt to either of them.”
+
+“Were you aware that they ate together every week?”
+
+Edward’s face took on a strange expression that was part grimace and part grin. “Uh, yes. I was. I ate with them whenever I got the chance. You see, I was the one that created the group.”
+
+Haley tilted his head but gave no other reaction.
+
+The baron continued, “Fitzmon and Massey are both my friends, and there were some hard feelings between them after they tried to court Eleanor.”
+
+Taylor walked in with the tray of coffee, placed it on the table next to Edward’s elbow, then left as quietly as he had come.
+
+Edward leaned forward. “How do you take your coffee, Inspector?”
+
+“Cream, no sugar”
+
+Edward spoke as he poured. “I thought that a broken hearts club might be a good way to help them learn to get along with each other again. Winfield joined them after his rejection, and the collection was complete!”
+
+“Did Winfield know you before he was rejected?”
+
+“He knew me. And he knew Massey.” The baron paused long enough to hand Haley his coffee. “He’d been introduced to Fitzmon, but he only got to know him afterward.”
+
+“Did they talk about Eleanor when they met?”
+
+Edward laughed. “No, Inspector. That would have defeated the purpose. Or, I guess I should say, they rarely talked about her when I was with them.” He stopped pouring his coffee so he could think. “There was that one time.”
+
+“What time?”
+
+Edward finished pouring and added some sugar. He sat back as he stirred his drink. “It was Massey. One or the other of them would usually ask how she was doing, to be polite, but when I got in that week, Massey asked me if there was a chance she might change her mind.”
+
+“About him?”
+
+“About either of them. Dominic hadn’t joined us yet.”
+
+“What did you tell him?”
+
+“I told him I didn’t know.”
+
+“That was the only time they talked about her?”
+
+“Well, they did ask how Dominic’s suit was going. Does that count?”
+
+“Does Eleanor know about this broken hearts club?”
+
+“Uhhhh, maybe I shouldn’t have used that phrase. Maybe you shouldn’t use it either. Massey and I called it that as a joke, but I think it might hurt Eleanor’s feelings if she ever heard it. So, if you could…?”
+
+Haley nodded to show he understood.
+
+Edward went on, “She hasn’t heard about it. I kind of doubt she’d want to know.”
+
+“Were they broken hearted? Or was it only a joke?”
+
+The baron sipped his coffee. “When it comes to Massey and Fitzmon, I couldn’t tell you.”
+
+“But Winfield?”
+
+“Dominic was hit hard.”
+
+“He told you that?”
+
+“He did.”
+
+“When I asked him, he said he didn’t love Eleanor.”
+
+The coffee cup rattled as Edward put it back on his saucer. “Does anyone want to admit they have feelings for the woman who rejected them? Especially to a policeman who’s looking for a man with a motive?”
+
+Haley could see the justice in that point. “Did Winfield approach the duke, or did the duke seek him out, like he had the others?”
+
+“Dominic went to my uncle.”
+
+In a soft voice, Haley said, “He told me the duke had come to him.”
+
+Edward’s eyebrows rose, but then he rallied. “Maybe he didn’t understand the question. The duke took some time mulling over the request, then came to him to give him permission. You asked me if the duke had sought him out. He hadn’t. Dominic asked to court Eleanor.”
+
+“Do you have any idea why he would have had those invitations printed?”
+
+The baron shifted in his seat. It probably wasn’t the coffee that displeased him, but he made a face while he stared at it. “Are you really sure it was him?”
+
+“You didn’t know about the plan to send out the wedding invitations?”
+
+“Why would I? It wouldn’t make much sense for him to tell someone.”
+
+“I have reason to believe that several other people might have at least heard about the plan.”
+
+“Well, if Dominic sent out those invitations, then I can only imagine he did it because he wanted to put some pressure on Eleanor to make a choice.”
+
+“She’d made her choice.”
+
+“Had she? She’s still single. She could have married any one of them.”
+
+“Did Winfield think it would be him?”
+
+“I suppose he must have, or he wouldn’t have done it.”
+
+“Why would he think that he was the most likely candidate?”
+
+The baron drank the last of his coffee in a few quick gulps and set the cup aside. “Inspector Haley, why aren’t you asking Eleanor all this?”
+
+Despite his resolve, Haley’s eyes dropped to the floor. He tried to keep his expression natural, but he knew he was frowning. When he looked up, Edward Comtess was grinning at him.
+
+“You made her angry, didn’t you?” Edward said. “You have that look about you.”
+
+“What look?”
+
+“That look of profound guilt.”
+
+“People often get angry when someone pries into their private affairs.”
+
+“I believe you. And I think you have a lot more prying to do.”
+
+“I may be forced to ask her more questions at some point, but considering everything she’s been through, I wanted to spare her as much as possible, and, in this case, what Lady Serrs felt isn’t as relevant as what Winfield thought she felt.”
+
+Edward was still grinning, even if it was partly hidden by the hand he’d raised to his face.
+
+He lowered his arm. “Haley, let me tell you something. Eleanor’s temper burns like a match and for about that long. Then she starts to feel bad for getting mad at the person, even if they deserved it—you can take my word for that.”
+
+“Your Lordship—”
+
+“Six feet.”
+
+“What?”
+
+“Stand within six feet of her for a few minutes. You won’t have to say anything. She’ll wind up apologizing to you, and then you’ll really feel like a heel.”
+
+“Thank you, Your Lordship. It’s good to know there’s a surefire method to make myself feel worse.”
+
+The baron laughed. “You know, you’re all right.”
+
+“Comtess—”
+
+“Right. Right. Official and earnest.” He cleared his throat. “Where were we?”
+
+“I was asking why Winfield might have felt so confident that he would be chosen. Did Eleanor treat him different from the others?”
+
+Edward looked uneasy. “I’m happy to try to help you, Inspector, but you have to understand, I was only on the edges of this all.”
+
+“But you told me that you’re something of a confidant for Lady Serrs. And you were friends with Winfield.”
+
+“All three of her suitors were my friends, but I didn’t go around asking for private details about their romances. If I had, I doubt they’d have been my friends for long.”
+
+“Anything at all would help.”
+
+Edward sighed. “I’ll do my best.” He made himself more comfortable in the chair. “As far as I can tell, Eleanor treated them all the same. It’s the devil of a time for men. She’s sweet and thoughtful, but she’s like that to everyone, so how can you tell if she’s interested? I was as surprised as everyone else when I learned she’d refused Fitzmon.”
+
+“Were you surprised when she refused Massey?”
+
+“Less so. Massey wasn’t her sort.”
+
+“And Winfield?”
+
+“Dominic went in knowing she’d refused two other men. He was more…cautious—if that’s the word. He took his time with it. I thought it was going well. He thought it was going well. Then, one day, she thanked him for his attention but said that she’d rather not spend any more time with him—”
+
+“Was this after he had proposed to her?”
+
+“He didn’t get to propose to her.”
+
+“What about the other two?”
+
+“Oh, they made their offers by the best rules of tradition, but when she said she was through with Dominic—” Edward’s emotions became too heavy at that point. He took a breath so his voice would stay steady. “When she said she was through with Dominic, he told her he loved her. He told her that he wanted to marry her. It wasn’t a proper proposal, but it came from the heart. Apparently, she wanted none of it.”
+
+Haley’s face softened. “You’ll miss him, won’t you?”
+
+“I will. He was a good man. He didn’t deserve this.”
+
+Lucas had his own opinions about whether or not a good man would send out those wedding invitations, but he didn’t think it was his place to say that to a grieving friend.
+
+“No one’s smart when it comes to love.”
+
+Maybe Penn had a point.
+
+The inspector put his coffee cup aside. “Your Lordship, I have a problem. I would like your input, but it would require me telling you something in confidence.”
+
+Edward nodded. His expression was grave.
+
+Haley went on, “Winfield’s manservant told me he loved her. You’ve told me he loved her. But Eleanor gave me to understand that he didn’t.”
+
+For half a second, Haley could see the shock on the baron’s face.
+
+“Why would she think that?” Edward said.
+
+“I was hoping you could tell me.”
+
+“I can’t! That’s absurd.”
+
+Haley was motionless for a moment, then he nodded and stood up. “Thank you, Your Lordship. You’ve given me a lot to think about. If I have any other questions—”
+
+“I’ll be here.” Edward stood up as well.
+
+“If you’d like, I can show myself out.”
+
+“Not at all.”
+
+The baron took Haley over to the door.
+
+When they were there, the inspector picked up his hat. With it still in hand, he said, “One more question. To satisfy my curiosity.”
+
+“Yes?”
+
+“Let’s say Lady Serrs had been forced to choose one of her three suitors. Who do you think she would have picked?”
+
+“If I had to guess? Winfield.”
+
+“Why?”
+
+“I don’t know. She seemed more at ease when she talked about him.”
+
+“At ease?”
+
+“Don’t ask me to explain it. I’m only telling you my guess.”
+
+Haley put on his hat, thanked the baron, and left.
+
+When Edward turned, he saw Taylor.
+
+“Oh, I got him out all right.”
+
+“I see, Your Lordship.” The butler turned to go.
+
+“Taylor?”
+
+He turned back. “Yes, Your Lordship?”
+
+“If you had to guess which of the three she would pick—”
+
+“Your Lordship, it’s not my place—”
+
+“Oh, come on, man! You watched her grow up.”
+
+“I did, Your Lordship. And if she was forced to pick between them, my first concern would be who was forcing her.”

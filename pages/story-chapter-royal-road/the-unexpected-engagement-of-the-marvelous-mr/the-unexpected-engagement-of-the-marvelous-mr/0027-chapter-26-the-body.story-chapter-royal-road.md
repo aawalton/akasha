@@ -1,0 +1,177 @@
+---
+id: f085b555-9091-5c84-8659-11f0c89555d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 - The Body"
+slug: 0027-chapter-26-the-body
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 27
+ownLength: 1180
+unit: words
+publishedAt: 2022-06-17
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/929617/chapter-26-the-body"
+royalRoadId: "929617"
+---
+
+Lucas Haley stared down at the body of Dominic Winfield.
+
+“How did this happen?”
+
+The constable standing behind Haley heard him mutter the question. He was about to attempt some kind of an answer, but then he felt a hand on his shoulder. When the constable looked up, Sergeant Ellsworth shook his head.
+
+Haley checked the scene to make sure he wouldn’t ruin anything, then knelt down to get a better look at the corpse.
+
+There were blood splatters along the wall, and a few smears on the floor, but the majority of it was pooled around the man’s head.
+
+Haley thought to himself, with grim humor, that if Mr. Winfield hadn’t died from the head wound, he might have drowned in it.
+
+But there was no chance of that. The wound was so deep, it looked like a crater in his skull.
+
+The inspector stood up and turned to the constable and Ellsworth.
+
+“The scene is exactly as it was found?”
+
+“None of our boys touched it, sir,” the constable said. “I asked the manservant—he’s the one who found the body—but he said he got close enough to see the head, then he ran.”
+
+“He threw up,” Haley said. He could smell it.
+
+“The hall,” Ellsworth said.
+
+“I can’t say I blame him,” the constable added.
+
+Haley said to Ellsworth, “Has this been officially assigned to me?”
+
+The sergeant nodded.
+
+Haley tried to think how he could frame the question, but Ellsworth, seeing his face, guessed what his superior was thinking.
+
+“It’s about Lady Serrs.”
+
+Haley’s eyes flew to him. “You know this?”
+
+“You need to talk to the manservant, sir.”
+
+“I think I do. Is he still here?”
+
+“He’s in his bedroom. He said he wanted to wait there.”
+
+Haley turned to the constable. “No one comes in this apartment except for the doctor and the photographer. Tell Gibb to watch himself this time. I still need to look over the scene, and I’d like it to be intact.”
+
+“Yes, sir.”
+
+“Please stay by the door yourself. If you have to leave, grab a man you trust. I hope I won’t be long.”
+
+“Yes, sir.”
+
+As Haley followed Ellsworth out of the room, the inspector said, “Did you do the initial interview?”
+
+“I did—but it’s a little complicated, Lucas. The man that got the call was Joss.”
+
+“Joss. Do I know him?”
+
+“No, but I do. He’s very reliable. And discreet.”
+
+Haley stopped where he was. “Oh, no.”
+
+“He was tailing Fitzmon before we called him away to help with the raid, but he remembered that Winfield was one of the men we were watching.”
+
+“And that’s why he called you.”
+
+Ellsworth grabbed Haley’s shoulder to get him moving again. “When I told Millward it was about Lady Serrs, he turned it over to you—”
+
+“So he doesn’t know about Joss?”
+
+“I don’t think so.”
+
+“Good.” Haley took a deep breath. “If it comes to it, I want it understood I gave the orders. You didn’t know better.”
+
+“So you can enjoy taking the fall all by yourself?”
+
+“‘Wish not one man more,’ Ellsworth.”
+
+“You’re dribbling again, sir.”
+
+“It’s Shakespeare!”
+
+“It’s stupid! You think Millward would believe me?”
+
+“Let’s hope we don’t have to test the theory. Who was watching Winfield?”
+
+Ellsworth stopped outside a closed door and lowered his voice. “Douglas Jones.”
+
+“When you get the chance, ask him for a full report.”
+
+“He was at the raid as well.”
+
+“I know, but I want to know if he saw anything beforehand.”
+
+“Understood, sir.” Ellsworth knocked on the door.
+
+A voice called for them to enter.
+
+When the sergeant opened the door, a wall of tobacco smoke rolled out into the hall. Haley coughed.
+
+The man sitting on the bed plucked the cigarette from his mouth and fidgeted with it. “Yeah. It’s a bit thick in here, isn’t it?”
+
+Ellsworth crossed the room and opened the window while saying, “This is Noah Jeffery. Mr. Jeffery, this is Detective Chief Inspector Haley.”
+
+Jeffery’s head jerked in a quick nod.
+
+“I want you to tell him everything you told me.”
+
+“Yeah. Sure.” Jeffery put the cigarette back to his lips and sucked an unsteady drag into his lungs.
+
+Haley pulled over the chair from the desk and sat down. He didn’t say anything; he only wanted to observe Mr. Jeffery, but even that simple attention seemed to agitate the man.
+
+“Look—it’s like this. I don’t think he did anything, all right? He wouldn’t have touched a hair on that girl’s head.”
+
+“You mean Lady Serrs?” Haley asked.
+
+“He was in love with her. Sunk his whole heart into it. This kidnapping?” Jeffery jerked the hand holding the cigarette to the side. “Not him.”
+
+“Did anyone say he was involved?”
+
+Jeffery squeezed his bloodshot eyes shut and shook his head. “It was the phone call. I overheard his phone call last night. That’s what’s got your sergeant so upset, but I want you to know, it wasn’t him.”
+
+Haley sat forward on his chair. “Tell me about the phone call.”
+
+“He’s talking about Eleanor Serrs, asking if it was true that she was gone. Then he says that they have to go to the police—”
+
+“They? As in, him and the person he was talking to?”
+
+“Yeah. That’s what it sounded like. He said they needed to go to the police because he thought you might think they were involved.”
+
+“Why would we think that?”
+
+Jeffery’s shrug looked like a marionette’s strings had been yanked. He put the cigarette to his mouth again, then went on.
+
+“Then he says, ‘Yes, I’ll wait for you,’ and hangs up. When I asked him if he was expecting company, he told me not to worry about it, so I went out. Like normal.”
+
+“Wednesday’s your day off?”
+
+“My night off. Every Wednesday. I get two full Sundays a month—god, I’m going to have to find a new place.” Jeffery went quiet. When he realized he was staring off into space, he turned back to Haley. “Anyway. It was like normal. I go out, I let myself in, and I don’t disturb him when I get back. That’s why…” He swallowed. “That’s why I didn’t find him until this morning.”
+
+He put the cigarette to his mouth.
+
+“Do you know who he was talking to?” Haley asked.
+
+“No.”
+
+“Do you know if they ever came over?”
+
+“I don’t know, but I figure, who else would have killed him?”
+
+“And you have no idea why he was worried that we might suspect he was involved with the kidnapping?”
+
+“None.”
+
+Silence.
+
+“Why are you staring at me like that?” Jeffery asked.
+
+“I’m wondering where you got that scar on your eyebrow.”
+
+“This?” Noah reached up to touch it, but as his hand approached, he felt the heat of his cigarette and pulled it back. “Accident when I was a kid. Street ball. Why do you ask?”
+
+“Mr. Jeffery, have you ever been to Ashley Street? Specifically, to talk to a printer by the name of Mr. Russel?”
+
+The manservant’s face went as white as the corpse.

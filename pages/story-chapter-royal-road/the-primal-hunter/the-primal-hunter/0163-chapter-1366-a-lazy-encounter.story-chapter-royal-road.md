@@ -1,0 +1,125 @@
+---
+id: cfc40d8b-7a76-57e9-b171-9516e072544a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1366 - A Lazy Encounter"
+slug: 0163-chapter-1366-a-lazy-encounter
+partOf: the-primal-hunter
+position: 163
+ownLength: 2915
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3751230/chapter-1366-a-lazy-encounter"
+royalRoadId: "3751230"
+---
+
+The garden had become significantly more populated in the week Jake had spent in the trial space with the Virtual Mind Devourer. More and more groups and powerful individuals had made their way there, with many factions finally reconvening and starting to move together, making them significant threats to those going solo.
+
+Assuming those going solo weren’t beings at the absolute peak, that is.
+
+Jake had mostly ignored all the battles he detected until he saw one with someone he recognized. It was the slothlike creature called Lopas who had done really well in Nevermore, and now, after evolving, looked mostly the same.
+
+Lopas sat lazily in front of a barrier containing what appeared to be a small statue, casually hitting it once in a while in between taking out fruit from some spatial inventory and eating them. His movements were slow and non-threatening, but the energy ripples he detected passing through the barrier suggested that the seemingly weak swipes he made carried significant power.
+
+Around him were roughly thirty people, all hidden within a large formation. Jake couldn’t see what faction they were from, and they were of many mixed races, ruling out most places.
+
+Most times, Jake would ignore a situation like this, but seeing as it was a fellow native of his universe, how could he possibly stay away? It totally wasn’t that he wanted to see what the guy he’d heard about being quite strong was all about. Definitely not.
+
+Under the cover of Unseen Hunter, Jake snuck over, ignoring a couple of lesser treasures on the way that he didn’t even find worth picking up. As he approached the group, so did the group approach Lopas before he broke through the barrier of the treasure.
+
+With a minute to go before he’d reach them, the group made their move and attacked the sloth-looking creature. Jake saw spells and other projectiles being released from within their stealth barrier, many of them powerful, charged attacks meant to deal significant harm or even outright slay their foe.
+
+Lopas reacted... by hitting the barrier again, seemingly not even noticing all the attacks heading his way. Jake couldn’t help but feel a little worried as the sloth was struck by a few dozen attacks at once, launching him away from the barrier and crashing through the oversized flowerbed, breaking through several flowers during his flight.
+
+He ended up smashing into the ground, leaving a lot of destruction in his wake as more of the thirty people moved to capitalize on the situation, jumping out of their formations, brandishing weapons.
+
+Lopas slowly rose from the ground, his movement far from fast enough to react to the incoming attacks. The first person, an elf with a greatsword, reached the sloth and swung down with force that made the ground crack apart from the sheer pressure, and right as Jake expected Lopas to take the hit yet again, he moved.
+
+The warrior was torn into five pieces as the claw of Lopas had suddenly ascended at a speed that appeared practically instantaneous. While flesh and gore were still mid-flight, Lopas moved again, tearing apart two more attacks in an instant, displaying power and speed surpassing any B-grade Jake had ever seen before.
+
+As he was using Pulse to watch the fight, Jake essentially watched a movie with limited frames, meaning all he saw was the arm go from lowered to raised in an instant, with the attackers blasted apart. Still, Jake did a fair number of pulses every second, meaning the sloth’s speed truly was insane.
+
+Seeing this happen to their allies, the other attackers retreated, with Lopas making no attempt to pursue as he slowly lowered his long, lumpy arms to the ground and began dragging them across it as he walked back towards the barrier with the treasure. The many attackers switched back to ranged attacks, once more finding success as Lopas was blasted back, getting another set of minor injuries.
+
+Jake frowned at seeing this, unable to understand what Lopas was doing. He was struck another three times, sending him flying through the oversized flowerbed while completely limp, seemingly unable or unwilling to react to any of the attacks. It wasn’t as if the many blows didn’t do any damage either. He had several injuries from the attacks, and while nothing had been anywhere near lethal, this wasn’t the kind of thing he could keep up forever.
+
+However, just as Jake thought this, Lopas landed on the ground and immediately disappeared. Jake saw him move at insane speeds once more, appearing right in front of four mages who had been casting some kind of group spell. His arms moved like whips as two of them were instantly ripped in half before he leaned forward and straight-up ate the entire head of a third.
+
+The final mage teleported away, leaving Lopas, who stopped moving fast again and lazily munched on the severed head of the mage, only to be struck yet again from above, blasting him into the ground and forming a crater.
+
+Several other mages used a spell that filled the entire area with magic that bore down on the sloth, momentarily making it difficult for Jake to see what was going on with the sphere before he filtered out the noise. By now, he was pretty damn close, able to observe with his Sphere of Perception and get a better feel for the sloth’s speed. He also felt the magic from the ritual spell, and it was quite a potent one, being of the gravity affinity as far as he could tell.
+
+Lopas slowly pushed himself to stand under the pressure, only for a pillar of mixed lightning and flames to descend from another set of mages, burning and electrocuting his body. Several warriors also moved to surround the crater, taking out identical shields and using them to form a cylindrical wall around it, blocking Lopas in.
+
+Organized and decently powerful. Definitely elites, Jake concluded, having pretty much reached the fight by now. He still had no idea what factions they were from, and quite frankly, it probably didn’t matter either.
+
+Continuing to observe with interest, he watched Lopas appear to be in pain as he slowly raised his arms to cover his face from the pillar of fire and lightning coming down on him. It didn’t do much, and his hair and skin were slowly being burned away, with all his existing wounds worsening.
+
+Come on, Lopas, don’t just stand there and take it, Jake thought, wondering why the sloth didn’t do anything. He just stood there for several seconds, slightly swaying his arms as if he could make the pillar of mixed destructive energies go away. Finally, after what felt like forever, Jake saw Lopas open his eyes wide as he moved.
+
+Now, with his sphere, Jake for the first time got a proper look at the sloth’s speed... and it was downright disturbing. In an instant, he disappeared from within the pillar of energy, jumped high into the air, and kicked off nothingness, launching himself down towards five unsuspecting mages that he flew past, holding a head in each claw once he stopped.
+
+Nobody present even had time to react, with only Jake capable of seeing what had actually happened. Which isn’t to say Jake was confident he could have adequately reacted either. This truly was a speed unlike anything he’d ever seen before. What’s more, it was highly unrestricted.
+
+Unlike a creature like the Rainbowfeather Sovereign, Lopas could display his insane speed in complex ways and not just travel in straight lines. He could maneuver, dodge, and make complex movements, putting it in a whole other dimension of speed. Not to mention his utterly monstrous power that had killed most foes so far in only a single blow.
+
+Yet, despite this incredible power, Lopas once more slowed down after escaping the entrapment and killing two mages, resulting in him getting struck by a Powershot loosed by an archer part of the ambush group. A Powershot Jake found significantly wanting, but it was strong enough to do some damage to the B-grade sloth.
+
+Lopas took a beating for the next few seconds yet again before history repeated itself, and he ripped apart three more opponents before going back to being a slowpoke only capable of cosplaying a boxing bag.
+
+Jake was genuinely perplexed by how the hell this creature’s Path worked. Lopas seemed to go from zero to a hundred, having nothing in between. Either he was an absolute monster Jake felt reluctant to even test himself against, or he was a lumbering slowpoke that even C-grades could beat up effortlessly.
+
+From the looks of it, these ambushers had some insight into the sloth’s abilities, always quickly taking advantage when Lopas slowed down, while simply accepting the losses when he did make a move. All of them – those who had one anyway – had also used their boosting skills right from the get-go, perhaps knowing that a single moment of being targeted would mean their death anyway, so no reason to hold back.
+
+This incredibly odd battle continued for a few minutes longer, with the ambushers slowly getting picked off as the damage on Lopas accumulated. It quickly became clear to Jake that while these attackers had come in with a plan, the sloth had proven far too durable for whatever they were trying, and when only nine of them remained, they seemed to realize defeat was inevitable.
+
+At this point, Lopas did look a lot worse for wear. His entire body was filled with wounds, including several holes and large lacerations, with one arm even missing a good chunk of flesh. He also couldn’t open one of his eyes, and overall looked like he had lost the fight badly. However, despite this being the case, he hadn’t slowed down at all when he attacked; quite the opposite. His brutality and instantaneous violence had only gotten more extreme.
+
+The nine turned to run, Lopas just looking after them. He stared lazily for a few moments, swaying back and forth as if in a trance, before leaning forward, almost as if he were falling over. Right before hitting the ground, the entire area exploded around him as he kicked off the ground and propelled himself forward.
+
+He reached the first of the nine in an instant, tearing him apart at his midsection before rapidly switching direction, tearing off the head of another. Two were running together, and each found themselves slammed into the ground, their bodies turned into bloody pulp from the impact. Another two tried to fly into the air, but Lopas had no intention of letting them go as he tore up the ground, propelling a wave of stones and soil up towards them.
+
+To Jake’s shock, these stones were empowered by something as they penetrated straight through the two fleeing mages, tearing through their bodies like a close-range shotgun. As for the rest of the fleeing ambushers, they were also quickly picked off, Lopas maintaining this state of absolute power for longer than any time before.
+
+When the last attacker was dead, Lopas stood there with their head in one hand and their heart in the other, having finally calmed down. Back to being slow, he looked down and lifted the heart up to his mouth, throwing it in there as he slowly chewed while dragging himself over to the barrier hiding the small statue within. Besides now having some blood and what looked like a bit of brain matter on it, the barrier was still totally fine.
+
+Plopping himself down in front of the barrier, Lopas went back to doing what he was busy with before being so rudely ambushed, as he hit the barrier lazily. Jake watched on with interest, moving a bit closer, but as he got within about a kilometer and a half, he was shocked to realize he’d been detected as Lopas slowly turned his head and looked toward him through the gap between the many mega-sized flowers surrounding them. The ones that hadn’t been toppled and destroyed by the fight before, that is. At this time, Jake used Identify almost on instinct as he felt the sloth do the same. He didn’t get a very useful result.
+
+[?]
+
+Lopas stopped attacking the barrier mid-swing, staring at Jake for a moment before slowly standing back up and turning toward him, treating him far differently than the ambushers before. The mere fact that he’d detected Jake from this far away, and given his stealth skill was far superior to what the attackers had hidden themselves with, Lopas had also been fully aware of their presence, yet he hadn’t even bothered to address them before they attacked.
+
+However, he treated Jake very differently, having a gaze of recognition as he looked at the hunter. For a few seconds, the two stared at each other before Jake shook his head.
+
+“Not here to fight,” he said, his voice carrying across the distance between them as the sloth didn’t react. “I was just curious and came to observe.”
+
+Lopas continued staring at Jake for a moment before looking back at the barrier hiding the statue within.
+
+“Not here to steal your loot either,” Jake said, genuinely not seeing any reason to unnecessarily make enemies with such an interesting creature. A part of him wanted to fight Lopas, but he had just been through quite a brawl and looked badly injured. If Jake and Lopas were to fight, he wanted it to be under proper circumstances and not with him entering the fight with a major advantage.
+
+Slowly turning back to look at Jake, Lopas regarded him for a few seconds more, probably considering his next move. Jake also stood there, appearing calm, though he remained on high alert. He’d seen the explosive power displayed by Lopas and was ready to react should the sloth decide to go on the offensive. He wasn’t going to look for a fight, but if Lopas wanted one, Jake wasn’t the type to refuse a challenge.
+
+After what felt like forever, Lopas slowly pointed to himself, then to Jake, and finally to the barrier, with several seconds between each. Jake understood the sloth’s intent, which made him smile.
+
+“Sure, just don’t blame your current state,” Jake shrugged, slightly bending his legs, ready to move at any point.
+
+Lopas tilted his head a little before lifting his clawed hand towards his mouth. A healing potion appeared in it, and the sloth lazily threw it into his mouth and munched on the bottle as all his wounds healed in seconds, showing he had quite a skilled alchemist on his side somewhere.
+
+The sloth motioned by raising his claws, clearly showing he was about to make his move. Jake smiled, opening his eyes wide as his senses were on high alert, and almost instinctively, he activated Arcane Awakening at its stable 30%. Just in time, too.
+
+Jake moved at the exact same time Lopas did, relying on his danger sense to react in time. The sloth closed the distance in an instant and swung his arm upwards, barely missing Jake as a massive amount of soil and rock was torn up, creating a massive fissure.
+
+A second swing came, Jake ducking under it, before quickly having to kick off the air and blast himself to the side before Lopas slammed a claw into the ground, making the ground erupt and sending both of them flying away from each other.
+
+Still mid-air, Jake swayed, avoiding several infused rocks thrown his way before using One Step, disappearing just as Lopas appeared and tried to rip off his head in a single move. Which, to be clear, he likely would have succeeded in if not for Jake dodging.
+
+Jake reappeared not far away, ready to respond again, but Lopas didn’t continue his attack. He just floated there in the air for a few moments, his arms falling lazily to his side before he just fell down, not even bothering to land properly as he fell over upon landing.
+
+Perplexed, Jake also landed on the ground as Lopas got up and looked at him again. The sloth waved his arm and turned around, walking away from both Jake and the treasure, waddling away after only making a few moves.
+
+Jake considered saying something, but ultimately just shook his head and smiled. Lopas clearly didn’t want to fight, and after this brief encounter realized that should he and Jake engage in combat, it wouldn’t be a quick endeavor.
+
+Would have been an interesting one, though, Jake smiled, raising his arm as he looked at his torn-up sleeve. The sheer power and instantaneous speed had put even a Behemoth to shame, and Jake would have loved a fight, but alas, Lopas clearly wasn’t interested.
+
+Sighing, Jake turned his attention to the barrier hiding the statue, a bit disappointed while secretly hoping this was some ploy by Lopas to ambush him. Alas, the sloth just kept walking away slowly as Jake approached the barrier and summoned his Supreme Arcane Soulflame to quickly break through it in a far quicker and more efficient way than Lopas lazily love-tapping it.
+
+It had been an interesting, quick encounter, and Jake had a strong feeling they would meet again, and hopefully, next time, Lopas would find a bit of willpower and energy to actually fight him. Though maybe he shouldn’t expect too much from a sloth...

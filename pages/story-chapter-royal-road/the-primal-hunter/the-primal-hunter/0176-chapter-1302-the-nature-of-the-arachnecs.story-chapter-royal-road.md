@@ -1,0 +1,123 @@
+---
+id: f7d72d8e-dc3f-5ac7-b3e7-d8f0bf1c57ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1302 - The Nature of the Arachnecs"
+slug: 0176-chapter-1302-the-nature-of-the-arachnecs
+partOf: the-primal-hunter
+position: 176
+ownLength: 2594
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3324975/chapter-1302-the-nature-of-the-arachnecs"
+royalRoadId: "3324975"
+---
+
+As a simple guy with a bow, Jake didn’t at all understand the more complicated magic stuff. Miranda’s class was already one big mystery to Jake, and while he did know some of the theory behind how different classes worked, that didn’t mean he wasn’t impressed when he saw the magic on display.
+
+Whatever the hell the Shaman did fell into the camp of something Jake didn’t understand at all. The Venusian’s aura had immediately more than doubled when he engaged in combat, something that clearly surpassed what a boosting skill was capable of, meaning it was probably more that he’d summoned his actual true power.
+
+The projection of the robed frog also gave off an aura that was way too powerful, while still feeling suitably “weak” for something the Shaman could manifest. This projection was also weird in that it appeared entirely ethereal, yet at other times it could take on physical properties based on how it interacted with the environment.
+
+Regarding the spout of spiritual liquid, Jake was also stumped. There were so many concepts and affinities in play that he didn’t at all recognize, which really shouldn’t be a surprise, given he was dealing with a shaman.
+
+While Jake had certainly been surprised and impressed by all the Shaman had done, it was his final display that truly stumped Jake. He knew that shamans could manifest spirits and that much of their power relied on imagination, belief, and other hard-to-define concepts like that, but he had never imagined that the Shaman had the ability to summon a projection of Jake.
+
+What’s more, it clearly hadn’t just been a generic summon that looked like Jake. The way it had drawn its bow, the “Arcane Powershot” it channeled, and even the lingering destructive energy it left behind after shooting were all shockingly similar to when Jake had attacked earlier.
+
+It was evident that the Shaman had taken direct inspiration from Jake’s earlier fighting, which in itself was a frightening concept to imagine. It had only been a few days since he met the Shaman, and the Venusian had only seen him a limited number of times. Yet, with so little data, he’d managed to make such an accurate projection of Jake.
+
+Either the Shaman was an absolute genius, or the magic he practiced was ridiculously versatile. If all the Venusian had done was to summon a figure that looked like Jake and attacked in a similar fashion, fine, he could see others do that, but it was the replication of energy that truly stood out. Sure, the ability hadn’t actually copied Jake’s arcane affinity, but it had created something that was scarily close.
+
+For the Shaman to actually understand Jake’s arcane affinity was an impossibility that Jake didn’t even want to consider. Villy had made it clear he didn’t fully understand Jake’s affinity, so if a god couldn’t understand it, how could a B-grade frog? Even if the Shaman didn’t have to fully understand the arcane affinity and only needed partial comprehension, it was still not something Jake found worth considering.
+
+Which is to say that the Shaman’s skill entirely bypassed understanding and went straight to just... doing. And that was where Jake got entirely flummoxed by the robed frog’s ability – which was actually the Shaman’s ability – to summon such an accurate representation of Jake, all from nothing more than seeing him fight a few times.
+
+“Ah, I take it your kind doesn’t have similar forms of magic?” the Shaman asked after having given Jake some time to mull everything over in his mind.
+
+“We do have ones called shamans, but I’m not sure I can confidently say they’re similar,” Jake shook his head. “Admittedly, I do lack knowledge regarding how they work, too. None of those I interact with regularly are shamans.”
+
+He considered comparing shamanic magic to that of witches, but decided not to. For all he knew, there was a faction in this Minor World with witches that also happened to be the enemy of Venusians, and seeing as classes weren’t a thing here, it was possible the frog had some unfortunate thoughts.
+
+“Truly? There are also human shamans?” the Venusian said with surprise.
+
+“The human race is diverse, if nothing else,” Jake shrugged. “There are more Paths than can be imagined, and humans are known throughout the outside world to be able to walk the vast majority of them.”
+
+The Shaman nodded along slowly, though he did seem deep in thought before he spoke. “I’m starting to realize that the way your race functions is outside my current scope of understanding. I already found myself perplexed by the result of my Identify merely referring to you as a human, and now I’m even more so. Would I be right to theorize that the human race’s variant evolution is not shown through Identify?”
+
+It was honestly about time the Venusian asked about that. All monsters Identified with whatever variant they were, while something like class and profession weren’t outright shown merely from using the skill. Granted, there were methods for monsters to also hide their variant race – such as whatever Villy had used as a mortal to trick people into thinking he was enlightened – but these were rare, and most monsters didn’t care for them. In a world like this, Jake wouldn’t be surprised if no creatures had such a skill, as it simply didn’t serve any real function besides maybe trying to hide one’s power, but there were better ways of doing that.
+
+As for the Shaman’s question:
+
+“All humans merely Identify as human,” Jake answered, unsure what more to say, as dropping the bomb regarding the existence of enlightened races seemed like it would force him into hours of explanation.
+
+“What a peculiar racial trait,” the Shaman muttered, shaking his head.
+
+“Yet one shared by the most populous races in the world outside what you call the Boundary,” Jake shared, revealing at least a little. “As you probably suspect, my Path works a bit differently from yours, but not too differently. In the end, it’s all about gaining levels and evolving for all of us. I’m sure you’ll get to learn way more about my kind whenever the Venusians start venturing beyond the Boundary.”
+
+“Then I shall look forward to that day,” the Shaman nodded, not trying to prod more as he seemed to realize Jake wasn’t going to give a straight answer anyway. Which meant it was time for Jake to ask his questions.
+
+“My turn. What is that summoned projection you created before? Who or what does it represent?” Jake asked.
+
+“That is a representation of the Ancestor Spirit,” the Shaman gladly answered. “The Ancestor Spirit lives within all of us, and we shamans have the ability to channel their power.”
+
+“Where did the Ancestor Spirit come from?” Jake asked, having already concluded that it was indeed just a conceptual representation of a greater idea.
+
+“Hm, I actually haven’t ever considered that question. What I do know is that the Ancestor Spirit is created from the combined will of all Venusians, and when we perish, we become one with them,” the Shaman said, incredibly open to talk about what turned out to essentially be Venusian religion.
+
+Something that also reinforced that maybe sharing the existence of gods was a bit premature. Not that the existence of gods necessarily contradicted the idea of an Ancestor Spirit, but its existence would definitely need to be reframed somewhat for it to still make sense. A process Jake would prefer to have no part in.
+
+“I see,” Jake nodded respectfully.
+
+“If you wish to learn more, I’m certain the Oracle would gladly share. She is the one who taught me all I know and guided me to connect with the Ancestor Spirit in the first place,” the Shaman said in a kind tone.
+
+“I might just do that,” Jake nodded as he considered how to frame his question for a moment before asking: “Say... that final thing you did. When you, in your words, channeled my visage, how did that work? Again, I’m not offended or anything; I’m just curious how you accomplished it, as I’ve never seen anything quite like it.”
+
+“Explaining it would be difficult,” the Shaman frowned. “Perhaps rather than say I channeled your visage, it’s more accurate to say that I functioned as a conduit, allowing the Ancestor Spirit to do so. I had seen you display your abilities, which the Ancestor Spirit could rely on to conjure your visage to hopefully faithfully manifest your power. Alas, while the effect was good, I’m unsure I would call it a success. The manifestation felt imperfect, and the energy drain required by the Ancestor Spirit was beyond expectation.”
+
+Jake, for some reason, felt a lot better after hearing that, even if what the Shaman had done was impressive. Granted, the Shaman did have a point that summoning Jake had probably been a suboptimal move, as the energy consumed certainly hadn’t justified the result. Had those arrows dealt damage? Sure, but compared to Jake’s actual Arcane Powershots, not really. Again, the most impressive part was still how accurate the attack had been compared to the real thing, not its power.
+
+“No matter what, it was impressive,” Jake said with a smile. “Even if I do prove harder to channel than expected. Something that doesn’t really surprise me, as many have told me I’m quite a lot to handle.”
+
+“A statement I'm assured the Arachnecs will find themselves in agreement with,” the Shaman chuckled, shaking his head. “Speaking of...”
+
+“My turn to continue the slaughter,” Jake smiled, having had plenty of time to fully recover after witnessing the Shaman display his abilities. He wanted to see if he could get in a level or maybe two before the Seat of the Exalted Prima event, and while he had kind of shifted to his diplomatic mission with the Venusians being his primary goal, gaining levels was certainly not something to be neglected.
+
+Their group of six continued further into the domain of death, where they proceeded to hunt down more Arachnecs. The further in they got, the more undead spider monsters they ran into, and the stronger they got.
+
+Jake did find something confusing, though.
+
+“Why are the Arachnecs patrolling around like this? Don’t get me wrong, it’s awfully convenient for killing them, but it seems like a pretty horrible strategy if the goal is to avoid getting killed,” Jake asked the Shaman after he had just killed another group of four Deathstalkers.
+
+“To maintain and expand their domain,” the Shaman answered. “Their mere presence affects the environment and strengthens the death affinity within it, so they need to remain in the territory they have conquered. If they neglect this duty, the death affinity will eventually be worn away, and the land will return to normal.”
+
+Actually, yeah, that made a lot of sense. The toxic environment had an inherently corrosive quality, meaning it likely also went after the death affinity, slowly removing it from the land. Though that also led to another question.
+
+“Why do the Arachnecs even care about conquering so much land when they clearly don’t use it for anything? Wouldn’t it be better for them to make a smaller but more intense territory?” he followed up.
+
+If the goal of the domain was to provide a beneficial environment for the Arachnecs, Jake reckoned it would be smarter to go more or less the Venusian way, creating smaller but more densely populated settlements. With the current strategy of the Arachnecs, they clearly didn’t really defend their land, but just exposed themselves to be hunted down.
+
+“As I mentioned before, all these Arachnecs we’re killing are nothing more than spawns of the Nest and hold little value to the Arachnecs in general,” the Shaman explained. “All they do is in the service of the Nest. Each Nest has the ability to absorb energy from the land it’s rooted into, so if they expand their territory, the Nest has a larger pool to pull from, allowing it to grow stronger, which is truly all the Arachnecs care about. In my view, the objective in this hunt is to shrink the Arachnecs' conquered territory, while killing them is simply the means to achieve that. I understand that your objective differs, in that your aim is merely to slay them, with us simply benefitting from your pursuit.”
+
+The more Jake heard about these Arachnecs and their nest, the more he thought they sounded like Ectognamorphs, but perhaps with a bit of plant mixed in? These Nests at least sounded plant-like, with how they seemed to absorb nutrients from the land and whatnot.
+
+“So the only way to get rid of them for good is to destroy their Nest?” Jake asked.
+
+“Indeed,” the Shaman nodded. “Which we have done on several occasions, but every time it’s a major undertaking that requires the full planning of the Circle. A-grades will be involved, and not just a few of them, so it truly isn’t the kind of scenario those like us can get involved in.”
+
+Jake nodded as he smiled. “In that case, let’s just stick to cleaning up their outer perimeter a bit.”
+
+“That does seem like the optimal approach,” the Shaman wholeheartedly agreed as their hunting continued.
+
+Over the next many days, hundreds of Arachnecs fell, with Jake killing the majority, though the Shaman and four other Venusians also started participating more. When he was resting, those five tended to fight together, which also allowed Jake to see how the Shaman battled with his group.
+
+It quickly became evident that when they fought the Boglord, none of them had gone all out, likely because the goal had never been to kill the big fella. Especially the Shaman had held back and now gladly displayed all his skills, which were equally diverse and weird.
+
+He had plenty of buffing skills that empowered the four others, though often the buff came in a weird form, such as when he covered a Warrior in a weird spiritual mucus that blocked or outright nullified attacks, or when he used some magic on the Virumancer that made the frog’s body full of holes that would definitely trigger trypophobia in anyone suffering from that unfortunate enough to witness the Venusian.
+
+Speaking of the Virumancer, Jake also found that frog’s magic incredibly confusing, though at least a bit more understandable than the Shaman’s. The Virumancer used some kind of virus magic, which wasn’t like viruses before the system, but more like the concept of a virus. They were small, harmful “creatures” that could deal damage akin to poison, but in a very important distinction, weren’t.
+
+The Virumancer did seem to empower the viruses released with the poison in the environment, but the way they dealt damage was very different, allowing the Venusian to bypass the innate poison resistance all creatures in this world had. Jake even felt that, should he be hit, his Palate wouldn’t have any noticeable effect, making him curious to study this type of magic further.
+
+Fortunately, he would have plenty of time to see more of the Venusian’s magic over the following days as they continued further into Arachnec land, leaving a path of carnage behind them, and hopefully a level or two lay ahead of them.
+
+Perhaps even a stronger variant of these Arachnecs, as Jake seriously doubted that this Nest would allow them to run wild without stepping in at some point. Something Jake was very much looking forward to.

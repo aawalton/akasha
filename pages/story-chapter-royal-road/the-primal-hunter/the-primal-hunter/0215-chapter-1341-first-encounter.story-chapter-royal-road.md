@@ -1,0 +1,135 @@
+---
+id: 406ef3c1-63ca-5f9f-905b-c01979b954e5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1341 - First Encounter"
+slug: 0215-chapter-1341-first-encounter
+partOf: the-primal-hunter
+position: 215
+ownLength: 2726
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3594587/chapter-1341-first-encounter"
+royalRoadId: "3594587"
+---
+
+Like most monsters, True Dragons also varied widely in how strong they were, with their power often dependent on their variant race. Not entirely, though, as the race was just a starting point, which could very well be wasted. Yrelstromoz, whom Jake had killed before his evolution, was a dragon towards the bottom of variants and utilizing her draconic potential, which, granted, still made her incredibly powerful, as a True Dragon was still a True Dragon.
+
+When it came to the strongest variants, they tended to fall into two types. One was to be expected: two powerful True Dragons – one of them perhaps even a god – had an egg; it hatched, and the hatchling was also incredibly talented and disciplined. A prime example of this was Aisha, the golden dragon Jake briefly spoke to during the Nevermore afterparty.
+
+As for the second type, it was those who weren’t born True Dragons but evolved into them due to their talent and Path. The Malefic Viper was an obvious example of this, having grown from a small snake into a True Dragon by the time he reached B-grade... that he had then gone back to being a full-on snake in godhood was just a minor detail that had no bearing... though it probably did make him a kind of bad example...
+
+Moving on.
+
+Villy had warned Jake that trying to hunt a naturally evolved True Dragon as a C-grade was completely and utterly impossible. All evolved B-grade True Dragons were geniuses in their own right, and when thinking about it a bit more, it made a lot of sense.
+
+True Dragons born that way weren’t necessarily talented, as could be seen with Yrelstromoz, but they were still powerful simply on account of their race. Only by living up to the potential of their innately powerful race could they be recognized as actual geniuses.
+
+Meanwhile, a wyvern that had evolved into a True Dragon could only have done so by already proving it was capable of living up to the potential of the evolution. By default, that made them talented True Dragons, and the Dragonflights were eager to recruit them due to this talent, which was probably also why the Everfrost Dragon God had given the former Northpeak Wyvern a Divine Blessing. Well, that, and the fact that the wyvern happened to live on Earth.
+
+Flying closer, Jake felt the cold aura given off by the evolved dragon as he unleashed a blast of frost energy from his mouth, utterly destroying a set of defensive turrets. Getting a bit closer, the dragon noticed Jake’s approach and turned around, ready to strike, until he recognized Jake.
+
+“Chosen of the Malefic One,” the True Dragon said, not switching to humanoid form as he nodded his head. “Have you come to join the conquest of this Territory? If so, it’s wholly unnecessary. Unless you’re here to witness my newfound power, that is?”
+
+From those few words, Jake could definitely feel the former wyvern had found a lot of new confidence after his evolution. For good reason, too. The presence given off by the True Dragon was rather impressive and definitely placed the big lizard in the upper echelons of geniuses in the multiverse. A valuable ally to have in this system event.
+
+“I could play witness,” Jake said, feeling a little curious to see what the dragon could do. He especially wanted to get a good look at this Dragon’s Breath, as that attack always fascinated Jake. Yrelstromoz’s had been very weak, though incredibly difficult to dodge due to its sheer speed. Of course, in this context, weak was a very relative term, as even a “weak” Dragon’s Breath had nearly ended him back during their fight.
+
+He didn’t even need to see the frost dragon’s breath to know that he wouldn’t have been able to handle it as a mere C-grade. Of course, things were different now, and he did find the prospect of fighting the dragon appealing, but there was a time and place for everything. Hopefully, they would encounter a Territory ruled by the Dragonflights soon, and he could sate his desire to do a bit of dragon hunting that way.
+
+“I would be honored if you would,” the frost dragon nodded as it turned its gaze towards the direction of the Territory Beacon in this area. “Hopefully, this faction does not immediately surrender like the others, but allows me to display my might upon their barrier.”
+
+“Yeah, it does suck that most just give up,” Jake shrugged, empathizing with the annoyance. “Then again, hard to blame them for losing the will to fight when a True Dragon approaches, though.”
+
+“Neither can one blame them for not wishing to fight the Chosen of the Malefic One,” the dragon countered.
+
+“Touché,” Jake chuckled. “I’ll at least help out by not revealing myself, as you really can’t blame someone for surrendering if both a True Dragon and the Chosen of the Malefic Viper show up.”
+
+The dragon nodded, and together, they set flight towards the unfortunate faction that had been placed this close to their Territory. Flying alongside the former wyvern, Jake really got a good look at his new dragon form, and it really was impressive.
+
+His body, which appeared to be made entirely of ice, seemed to have a kind of... depth to it. As if he were looking into incredibly dense glaciers with a faint greenish glow within that reminded him a bit of the northern lights.
+
+The name Boreal Frostpeak Dragon also wasn’t one Jake had encountered before. Frostpeak had clearly come from Northpeak, and they were pretty much the same in Jake’s view, making the Boreal part what he found most interesting. Boreal tended to mean northern or something like that, so the dragon was pretty much called “the Northern Frostpeak Dragon.”
+
+A pretty odd name in retrospect, considering the north being cold wasn’t even a definite concept. All planets had cardinal directions, but not all of them ended up having cold poles. Especially not those with multiple stars lighting up the planet. For some of those, the north was even considered the hottest place.
+
+Yet in this dragon’s context, it was clearly related to the cold. Jake was fully aware of how little he understood concepts in general, but instances like this were still some of the most confusing.
+
+Thinking about the concept of “the north” also made him consider someone else with a cardinal direction in their name: the Eastbound Monk. What did it even mean to be Eastbound? Was he traveling to the east? Clearly, it wasn’t that simple, and the name represented some far more complicated concept that perhaps only the monk could understand. Maybe the dragon was the same.
+
+Mentally returning to reality, Jake noted that the dragon’s speed was rather impressive. Jake barely had to slow down for the dragon to match his pace, which was especially impressive, seeing as it was a frost dragon. Frost dragons tended to be on the slower side, and he was also clearly one focused on magic over his physical prowess. Pretty much all dragons not part of the Wildflight were, but this dragon in particular, more so.
+
+“Actually, I’ve been wondering,” Jake started as they flew, already using Unseen Hunter while allowing the dragon to see him. “Have you decided on a name?”
+
+Naturally evolved dragons were famous for changing their names or naming themselves for the first time upon becoming True Dragons. It was a mark of honor to finally have one with the “stromoz” moniker in there, and given how much the wyvern had wanted to evolve. Jake assumed he, too, had wanted to create such a name.
+
+Who knows, maybe he would even offer Jake help in making him a name? He already had a lot of good ideas! Frostiestromoz, Northiestromoz, Dragoniestromoz... alright, maybe not the last one, but the others were definite candidates that Jake would gladly share!
+
+“I have,” the dragon nodded, squashing Jake’s dreams of naming a dragon. Sadly, he had to wait until he created his own using Primeval Origin Energy and the heart in his inventory, at which point he’d definitely come up with the best name imaginable.
+
+“What did you end up going with?” Jake followed up, getting the feeling that the dragon was purposefully dragging out fully revealing his new awesome name for dramatic effect.
+
+“It was not, but after much consideration, I’ve decided on the name... Tramontanastromoz!” the dragon said in a proud voice, definitely making it sound as if Jake should instantly understand the deep meaning of the name. Unfortunately for the poor dragon, he didn’t.
+
+“Neat,” Jake just responded. “Tramon it is.”
+
+The dragon, now officially named Tramon, looked like he wanted to protest Jake’s shortening of his name, but quickly abandoned the notion, perhaps remembering who Jake was. That, or he felt the Dragonslayer title on Jake, something he had been thinking about.
+
+“Say, Tramon, I’ve also been meaning to ask; you can feel my Dragonslayer title, right?” Jake asked, just to make sure.
+
+“I can,” Tramon answered, having already given up fighting Jake on the name. “All dragons innately can.”
+
+“I see,” Jake muttered. He closed his eyes while continuing to fly as he tried something, and after a few moments, he opened them again with a confident smile. “How about now?”
+
+One had to remember that Jake possessed the Shroud of the Primordial skill, allowing him to obscure nearly all information about himself. He could change or hide his level, was borderline immune to divination, fully customize Identify results, and he also believed that if he wanted to, he could make it impossible to dete-
+
+“Still there,” the dragon answered casually.
+
+“Huh,” Jake muttered, closing his eyes again. Fifteen minutes later, he opened them and looked to Tramon, but before he could even speak, the dragon shook his head.
+
+Damn, Jake thought, wondering why it didn’t work. Shroud of the Primordial should be able to hide something like that, right?
+
+“I do not believe a skill that’s not Transcendent in nature can obscure the effects of the Dragonslayer title from True Dragons,” Tramon more or less answered Jake’s thoughts.
+
+“Maybe not,” Jake sighed, choosing to believe he judgement of the dragon on this one. He would ask Villy about it later, though.
+
+Their flight continued for a while longer with some casual chatter here and there, Tramon far more confident in every way after his evolution. Before, he seemed pretty afraid of Jake and was just putting on a front while in the presence of others, but now, he was genuinely self-assured. He was still respectful and clearly recognized Jake as a superior of sorts, but Tramon had gotten a lot better after being named Tramon.
+
+Soon, the two came upon the local Territory Beacon, and to their delight, this faction was definitely resisting. The barrier was up, and a few flashes, followed by falling magical artillery bombs, communicated clearly that they were intent on taking down the invading True Dragon.
+
+Jake pulled back a little and flew further into the sky so as not to interfere or get caught in any of the blasts. He left the stage entirely to Tramon, only there to serve as a witness to the might of the True Dragon.
+
+Tramon reacted to the falling bombs as mana solidified and froze above him, forming a giant island of ice to block the falling bombs. These bombs exploded on impact with considerable force, sending massive chunks of ice flying everywhere, though they failed to fully penetrate the several-hundred-meter-thick slab of ice.
+
+Still, they were undeterred as a laser cannon shot toward the dragon. Tramon chose to dodge as he rolled to the side, and for good reason. The cannon had seemingly burned through space itself in its wake, leaving the air crackling as it repaired itself.
+
+Those are not standard summoned weapons, Jake mentally noted, also only now considering that they had flown through this Territory for quite a while, indicating it was on the larger side. Likely because it hadn’t been a single Territory in the beginning, but because this faction had managed to eliminate a few of their neighbors.
+
+The belief that this wasn’t one of those bottom-of-the-barrel factions was further reinforced when several flying vehicles rose into the air out of the city barrier. Jake didn’t recognize any of them as options one could summon using the Beacon, making him frown a little. Though they somewhat resembled them, making Jake conclude that these had been altered. Improved.
+
+There were five of them in total, and they unleashed a combined assault against the dragon as a barrage of missiles erupted from them, flying erratically through the air in patterns that made it difficult to stop them all.
+
+For the average B-grade, that is. Things were quite different when dealing with a True Dragon.
+
+Mana solidified once more, forming hundreds of dense ice spears that shot towards the many missiles, homing onto them and filling the sky with explosions. Several dozen spears made it through the clash and flew straight for the gunship-helicopter-jet-looking things, but before they could strike, several figures teleported into the air and summoned barriers of magic to defend their creations.
+
+Seeing them appear, Jake got a look at what they were dealing with as his eyes opened wide. At that moment, Jake felt that the world was truly unfair. He had fought so many factions, destroyed so many Territory Beacons, and then, the one time he agreed not to get involved, they ended up encountering one of the major factions in the multiverse.
+
+Because the figures that had appeared were all elves with familiar-looking robes that Jake immediately recognized.
+
+It was the Altmar Empire. The faction of elven supremacists that even the Primordial factions couldn’t take lightly, as they more than had the power to stand among the other apex forces of the multiverse despite not being led by a Primordial. From what Jake had gathered, though, the Autarch wasn’t far off from being at the level of the Primordials. If he wasn’t already comparable to them, that is.
+
+This realization put Jake in a bit of a predicament... because he wasn’t sure if they wanted to be fighting such a faction right now. However, that’s when he realized something important.
+
+Do they even know who we are?
+
+Jake hadn’t revealed himself, and who the hell knew who this random Boreal Frostpeak Dragon was? Chances were that if the Altmar faction blamed anyone, it would be the Dragonflights, and it wasn’t as if anyone could communicate with their gods while within the World of the Exalted Prima. Even if they could, would the Everfrost Dragon God throw Jake and the Milky Way Galaxy under the bus? Probably not.
+
+Considering that, yeah, why would he need to step in? Actually, even if this did end up being a problem, was it really Jake’s fault? He was just a witness, and Tramon was the one making all the decisions here. If Miranda got mad, Jake was fully willing to throw the dragon all the way under that bus.
+
+The Altmar Empire didn’t seem interested in surrendering or even negotiating, as more weapons were mobilized and more soldiers were sent out to face the True Dragon. Tramon also gladly faced them, happy to meet some actual resistance and to have a chance to show off his power after evolving.
+
+Spreading his wings wide, Tramon unleashed a storm of snow and ice towards the city as clouds gathered and began circling. Feeling a little chilly and not wanting to be covered in snow, Jake summoned a stable arcane barrier around himself, still staying in his Unseen Hunter state, of course.
+
+The Altmar Empire responded promptly to the dragon as he ramped up his aggression, with more than fifty B-grades charging out from the protection of the barrier, all in formation as their energies synergized. The Altmar Empire was united and prepared to face the True Dragon, as the many defensive buildings around the Territory Beacon also started charging something up.
+
+As for what Jake was doing... well, Jake threw away any thoughts that this could totally lead to serious problems down the line and instead regretted not having any popcorn available as he sat back and enjoyed the show.

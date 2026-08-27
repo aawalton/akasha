@@ -1,0 +1,175 @@
+---
+id: 154ce215-e7cc-5bb5-9b3b-fe3c1dd70f8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1174 - Something Worth Celebrating"
+slug: 0046-chapter-1174-something-worth-celebrating
+partOf: the-primal-hunter
+position: 46
+ownLength: 3012
+unit: words
+ownProgress: 3012
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2658437/chapter-1174-something-worth-celebrating"
+royalRoadId: "2658437"
+markedReadAt: "2026-06-29T19:30:43.142Z"
+---
+
+The plan had been simple.
+
+Jake would recover from the bow ritual and then proceed to do some archery fun with Artemis until it was dinner date time.
+
+However, after only a few hours of playing around with Artemis, it became clear that it was a bad way to test his new bow. His archery was the same no matter the weapon, and all that had changed was the power behind every arrow, which naturally made no difference when training technique with a Godqueen.
+
+That’s why he had quickly moved on from pure archery training to actual hunting. With the help of Artemis, he had gone straight to an opportune Hunting Ground that the goddess believed was suitable for Jake to test things out.
+
+It was a Hunting Ground Jake would want to visit again, as it seemed like a perfect spot for him to grind some levels. It was a large planet nearly exclusively occupied by B-grades, ranging from barely evolved to closing in on level 400, also known as mid-tier B-grades.
+
+The location Jake had chosen to hunt was in the far north of the planet. It was a desert of ice and mountains, occupied primarily by ice elementals, different beasts, and semi-humanoid monsters known as the Olthorn. These Olthorn were goat-like bipedal monsters usually living in groups, but it wasn’t hard to catch the odd one out when they went hunting alone.
+
+In the beginning, Jake had killed a few weak B-grade beasts, finding their level of competency to be roughly equal to that of the B-grades in the other Hunting Ground. In other words, easy kills.
+
+While they hadn’t grown a lot stronger since then, Jake most certainly had grown decently, having gained levels in both his class and profession. However, the biggest upgrade by far was his new bow, which finally allowed Jake to not only exert his full power, but even amplified it.
+
+A new bow, better poisons courtesy of Invocation, and higher stats all resulted in Jake killing five B-grades on the first day, which sadly only netted him a single level-up.
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 321 - Stat points allocated, +50 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 322 - Stat points allocated, +45 Free Points
+
+On the second and third day, he killed another twelve, gaining him yet another level-up, which really hammered home the diminishing return.
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 322 - Stat points allocated, +50 Free Points
+
+Finally, he reached day four – the last day before he would have to return and get ready for his dinner date. On this day, he killed nine B-grades, but just before it was time to return, he wanted to try out one more thing.
+
+Between every kill, Jake had needed rest to fully recover, and a few of the fights had dragged out, with the longest one lasting around half an hour. In other words, Jake had failed to kill any of his prey with a single shot so far.
+
+Granted, he did make things harder for himself by never using his new skill, Event Horizon, but Jake wanted to save that first activation for a special occasion. Also, using it would make it harder to get a feel for how much more powerful his new bow had made him.
+
+Even so, Jake had gotten close a few times, and when he located his final prey before it was time to go home, he felt confident this would be the one. It was a Mystical Olthorn Cryomancer wandering all alone through the endless icy land. A juicy, barely-evolved Olthorn. With a walking stick and a relatively weak-looking frame, with the name also being a huge hint, Jake knew he was dealing with a caster.
+
+Casters were dangerous when on the offensive, but defensively? Unless they had pre-prepared magic ready that would be triggered automatically, they tended to be the squishiest by far, especially when faced with someone like Jake, who could stop them from erecting any barriers right before they were struck.
+
+With his target located and chosen, Jake took his position far up in the sky. One of the other reasons he’d chosen an Olthorn for this test was due to having killed nearly a dozen of them so far, giving him a decent understanding of the Olthorn race, resulting in a stronger Protean Arrow.
+
+One that was naturally coated with Jake’s best Heartrot Poison, created right before this hunt, he prepared his Powershot while hidden by Unseen Hunter. Arcane Awakening fully activated from the get-go as he funneled energy into his Apex Hunter’s Bow, feeling it greedily take everything in as it slightly changed color from the infused arcane energy.
+
+Jake charged for as long as he physically could, right up to the point he felt his body begin to give out. Knowing it was time, Jake unleashed the most powerful attack he could – without the use of Event Horizon, that is – and watched it descend toward the unsuspecting B-grade.
+
+As expected, the Olthorn’s danger sense alerted it to the incoming attack a moment before it would strike, but before it had time to react defensively, it felt the Primal Gaze of a hunter lock down its soul.
+
+Frozen, the caster who hadn’t prepared any passive defenses was struck by the arrow. Jake watched as it penetrated right down into the skull of the Olthorn, piercing all the way through and down into the ground, destroying everything in its wake. A massive explosion of destructive arcane energy cracked the utterly enormous slate of ice for tens of thousands of kilometers in every direction, radiating out from a bloody spot.
+
+Through the destruction, Jake saw that more than half of the B-grade’s body had been utterly destroyed, including its entire head, most of its chest, and one leg. The rest of its body was barely keeping it together, and its flesh wiggled to try to regenerate, but the Heartrot Poison managed to put a stop to any attempt at survival.
+
+It took a dozen seconds of Jake standing there with bated breath before he finally punched the air in celebration. “Fuck yeah! One shot, one kill!”
+
+You have slain [Mystical Olthorn Cryomancer – lvl 350] – Bonus experience earned for killing an enemy above your level
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 323 - Stat points allocated, +50 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 323 - Stat points allocated, +45 Free Points
+
+The sounds of the system’s dings came in to celebrate with him, rewarding Jake another level. With more than twenty-five levels to go before it was evolution time, Jake had finally managed to slay his first B-grade in a single attack, and he hadn’t even used his theoretically strongest attack to do so.
+
+Sure, it had been one of the weakest B-grades imaginable, but still a B-grade nevertheless, making Jake quite proud of himself. It was also good that it had died in one shot because, looking at his shoulder and back, he’d definitely overdone that Arcane Powershot, going by the amount of damage he’d dealt to himself. While he could have continued to shoot a few arrows, especially with the help of the bow gifting him some life energy, it definitely wouldn’t have been recommended by any credible doctor.
+
+“Genuinely impressive,” a voice said from behind, as Jake was still mid-celebration. “I didn’t ex-“
+
+Artemis had appeared only three meters behind Jake, and before she could finish her next sentence, Jake turned around and gave her a big smooch. She seemed surprised despite being a goddess who’d seen him coming far in advance, but also totally fine with the development as she returned the sentiment.
+
+Just for a little, though, before she gently pushed him away with a smile. “As I was saying, I didn’t expect you to succeed this soon. The innate lifeforce of a B-grade isn’t easily overcome in a single attack, but the fact you are capable of it means the damage behind that arrow is far more than meets the eye.”
+
+“I definitely do have a fair deal of multipliers behind the scenes,” Jake nodded, still elated by his accomplishment. “With one of them being this awesome bow. The damage amplification when going up a grade is nothing to be scoffed at, and with it working in tandem with all my other skills that make me stronger against higher-level enemies, I do certainly pack a punch when on the hunt.”
+
+“You know… I wouldn’t be against it if you wish to skip that dinner,” Artemis said. “It’s vanity compared to the progress you’d make here in the Hunting Ground. While your profession will certainly take a while longer to reach peak C-grade, with your current pace, it shouldn’t be long before your class gets there. Seeing as it’s you, I wouldn’t be worried about being limited by Records, either.”
+
+“Skipping something you already promised to attend is a dick move,” Jake argued, wanting that dinner date.
+
+“It would certainly be unkind to those two, but in the grand scheme of things, not repaying two mortals for what I understand to be minor aid rendered wouldn’t be a big deal,” Artemis shrugged.
+
+“Are you saying this because you don’t want to go?” Jake asked with a raised eyebrow.
+
+“No, but I won’t lie and say I find myself overly enthusiastic at the prospect,” Artemis admitted. “I’m afraid it’s going to be… awkward.”
+
+“Probably, but to borrow your words, feeling awkward in front of two mortals shouldn’t matter in the grand scheme of things,” Jake said a bit teasingly.
+
+“I suppose not,” Artemis relented as she gave Jake a serious look. “I want to really clarify that you shouldn’t reveal who I am at any point. Not that I’m a god, either. The moment they’re aware, they’ll become subject to my presence, which would make the entire encounter very unpleasant for everyone involved.”
+
+“I know, geez, I wasn’t going to,” Jake waved her off, muttering in a low tone afterward: “At least not until towards the end…”
+
+“You weren’t even trying to ensure I didn’t hear that,” Artemis glared at him.
+
+“Nope,” Jake responded shamelessly. “Now, let’s get back to our temporary abode. I need to clean up, get some rest, and prepare to go get a nice dinner with my Godqueen girlfriend.”
+
+Artemis shook her head and teleported them both back to the palace, where she left him alone to do his final preparations. Jake also knew that, despite what Artemis had said, she was looking forward to his dinner just as much as he was. At least that’s what her obsession with making sure her disguise was perfect indicated.
+
+Besides, would either of them really want to skip their first official date, even if the entire setup for it was admittedly a bit scuffed?
+
+“I take it all is well, sister?” the three-eyed woman asked her kin.
+
+“Better than expected,” Vesperia responded, walking out of the pool made of golden blood. “I will need to return to the World Wonder again soon if I wish to continue my rapid progress.”
+
+“Naturally,” Odonestra nodded. “Getting in some hunting is only healthy, and you’ll need to train your new Queen’s Guard to ensure they’re up to the task.”
+
+“Indeed,” Vesperia gladly agreed as she summoned a golden robe to cover her body as she followed her sister through the massive hive deep within the heartlands of the Endless Empire.
+
+Over the last couple of years, she’d been going back and forth between Nevermore and the Endless Empire as she trained herself and prepared for her breakthrough to B-grade. Usually, it would be risky for her to leave the domain of the Endless Empire without divine guardians, but Nevermore was a special case.
+
+Due to the special tokens given out by the Wyrmgod, she could teleport directly into the World Wonder and back to where she had left from again. As this was a system-assisted feature, it pierced all anti-teleportation protections and worked every time without fault.
+
+Vesperia had wondered what the Wyrmgod’s fellow Primordial Rigoria thought of Nevermore handing out such tokens even to her greatest enemy, but from her understanding, the Maker apparently didn’t care.
+
+“Do you think you’ll be able to use the lance soon?” Odonestra asked after they’d walked for a while.
+
+“Not before B-grade, that’s for certain,” Vesperia shook her head. “And even then, I would only be able to use a fraction of its power.”
+
+“That would still be a massive boon,” her fellow True Royal smiled, a hint of sadness on her face. “Since the first Vesperia, so many treasures have lain dormant, waiting for their rightful heir. We truly had lost faith that they would ever be claimed.”
+
+Vesperia put a soothing hand on her sister’s shoulder. “No one could have predicted the appearance of someone like my Sire. We can only be grateful he decided to use his gift to bless the Endless Empire with the revival of my royal lineage.”
+
+Odonestra smiled. “True. Speaking of your Sire, do you believe he will visit our domain soon? I know that he recently led the mortal delegation from the Order of the Malefic Viper and visited the Pantheon of Life. Something that birthed a declaration of friendship between the two Primordial factions, causing quite a stir.”
+
+Vesperia was surprised at hearing that last part, and she knew her sister had included it to inform her. Vesperia knew her Sire had gone to visit the Pantheon of Life but hadn’t been aware of this declaration of friendship as it had happened while she was immersed in the golden blood pool.
+
+As for Odonestra’s question: “I have brought up and made it clear an open invitation stands, but as you know, my Sire has many other obligations and desires, and I’m certain many factions would gladly have him grace them with his presence.”
+
+“I see,” the True Royal goddess nodded. “Perhaps the best approach would be to go through the Order of the Malefic Viper. We already have some connection to the faction, but increasing our bond wouldn’t be unwise, especially after the last declaration. Perhaps it could even help strengthen our somewhat strained relationship with the Pantheon of Life. Having more political allies could prove beneficial.”
+
+“Certainly,” Vesperia nodded, deep in thought.
+
+It was true that the Endless Empire did lack allies. They didn’t have a lot of enemies, mind you, but neither did they have many factions whom they would dare call their true allies. In fact, most large factions wanted to keep the Endless Empire at arm’s reach and only kept the relationship neutral due to the Endless Empire’s power.
+
+The Pantheon of Life, Holy Church, and Risen were all in the camp of factions who looked upon the Endless Empire with unfriendly gazes. The Holy Church and Risen had somewhat similar expansionist tendencies to the Endless Empire, leading to a natural conflict. Meanwhile, the Pantheon of Life disliked how the Endless Empire ravaged local biomes and terraformed them to better serve the Empire.
+
+Other factions, such as Valhal, the Dao Sect, Nine Hells, the Court of Shadows, and various mercenary and merchant organizations, were entirely neutral toward the Endless Empire, gladly trading with them whenever the opportunity arose.
+
+When it came to allies, the Endless Empire only had a few. Perhaps a bit surprising was the Altmar Empire. The Altmar Empire was also a close ally of the Automata Legion but had managed to position itself in a way that allowed it to be an ally with both.
+
+For the longest time, the Order of the Malefic Viper had been in the same camp as Valhal and the Court of Shadows. Sure, they had dealings with the Endless Empire, but they weren’t outright allies.
+
+Changing that wouldn’t necessarily be a bad thing, especially after the Malefic Viper’s return and the rise of his already famous Chosen.
+
+“Will you be returning to Nevermore now?” Odonestra asked, changing the subject rather abruptly.
+
+“Yes, that’s the plan,” Vesperia nodded.
+
+“How many years you got left in there?”
+
+“A bit under seven,” Vesperia answered. Considering she had reached level 340, those years should prove enough time for her to reach peak C-grade and begin to make her preparations to evolve.
+
+A scenario where she found herself hitting any kind of wall didn’t even cross her mind. For any True Royal, much less her, such a sentiment would be ridiculous.
+
+“Good,” Odonestra nodded. “Be safe when there. You’re still the only True Royal of your Lineage.”
+
+“I’ve created some Hive Queens who have a chance to evolve should I fall,” Vesperia tried to calm the concerns of her sister.
+
+“It would still be safer if we found a mate for you to ensure a proper heir,” Odonestra sighed. "We have had interest, you know."
+
+“In due time,” Vesperia waved off the notion for now. “Besides, I have no intentions of falling any time soon.”
+
+Odonestra nodded in acknowledgment as she led Vesperia to her chambers. There, Vesperia fully resupplied before quickly leaving for Nevermore yet again, planning on spending another few years there hunting, with it likely being her final trip for C-grade.
+
+Vesperia knew her sisters were all looking forward to Vesperia’s evolution, as her becoming B-grade would mean she was a fully grown True Royal. But there was one thing she hadn’t discussed with them yet. The Vesperia from the first era and the Vesperia now were both True Royals of the Vespernat Lineage; however, even among True Royals, despite their race names remaining the same... there was variance. They were all considered extremely high-tier and powerful, yes, but as individuals, they still varied in power and potential.
+
+And not to discredit her own ancestor... but Vesperia was very confident that she surpassed the one she inherited the name from and would be the one to show the multiverse what a true Vespernat Hive Queen was capable of.

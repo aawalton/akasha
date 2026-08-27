@@ -1,0 +1,117 @@
+---
+id: 2d3f3746-8454-57d7-8c39-e342f8118db2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1273 - An Even (B)etter & Professional Evolution"
+slug: 0146-chapter-1273-an-even-b-etter-and-professional-evolution
+partOf: the-primal-hunter
+position: 146
+ownLength: 3443
+unit: words
+ownProgress: 3443
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3140706/chapter-1273-an-even-better-professional-evolution"
+royalRoadId: "3140706"
+markedReadAt: "2026-06-29T19:34:55.338Z"
+---
+
+While a few of the top figures of the multiverse noticed the echoes from Jake’s evolution, the cause of it all was entirely ignorant, instead stuck trying to decide what to do next.
+
+Jake genuinely wasn’t sure what he wanted to do first. Shit, a part of him even wanted to just go for a fly to see how fast he could go now, comparing himself to the speed displayed by Sylphie and Sandy, but he knew how silly doing that would be before he even chose his class.
+
+Reaching out and having a talk with Villy was also super tempting, as Jake had a lot of things to go over. He could already feel Villy observing him right now, and Jake knew that the moment he sent even the slightest mental probe toward the Primordial, it was time for them to have a long discussion.
+
+Though, to be honest, Jake would prefer to have that talk in person over a beer back at the Order of the Malefic Viper. While telepathic communication was very safe, and Jake had a lot of faith in his ability to notice if anyone was observing him or could hear what he was saying, it was still better to be safe rather than sorry when dealing with potentially multiverse-altering things. So, yeah, Jake decided to shelve the Villy talk for now.
+
+Besides, if he finished all his other evolutions too, he’d have more to talk about. Which still left Jake to decide what he wanted to evolve first. Class or profession.
+
+But, before he could even think about that, Jake noticed something else rather odd as he shifted his weight a bit on the bed he was sitting on. Frowning, he stood up and looked at the bed with narrowed eyes, inspecting it closely.
+
+Using Identify, Jake got nothing special in response, and visually, it still looked like the same old bed Jake had stolen from Villy’s Challenge Dungeon way back in the Tutorial. However, when Jake extended some of his energy toward it and poked the piece of furniture, he was certain:
+
+It’s a lot more durable for sure…
+
+While the bed hadn’t turned into a magic item, energy had still clearly seeped into it, altering the bed fundamentally. It had become a lot more durable, not to the level where Jake wouldn’t be able to break it easily, but still strong enough to handle even D and some weaker C-grade attacks, Jake reckoned.
+
+Jake couldn’t help but smile and chuckle a bit to himself at the absurdity of his bed having seemingly also evolved a little alongside him. It was funny, and all he could do was shake his head while already faintly looking forward to seeing what the bed would become after he evolved to A-grade sitting on it.
+
+To do that, Jake would have to level his class and profession first, though, and before that was an option, both would have to evolve.
+
+Thinking back, when Jake evolved to C-grade, he’d chosen to evolve his profession first, with the argument that when he reached D-grade, it had been the class first. With that logic, Jake should evolve his class first this time around. The thing is, Jake wasn’t the most logical person, and he kind of just felt like going for the profession first. He fully expected both evolutions to be awesome, so it didn’t really matter either way.
+
+With that in mind, Jake saw the beautiful system notification sitting right there and promptly opened it.
+
+Profession Evolution Requirements Met
+
+Steadfast in your Path, you have fully embraced your identity as a living paradox, continuing to embody the values and traits of both a heretic and a Chosen, all while truly being neither. The Malefic Viper remains your Patron, not because of a lack of other options, but due to your own personal loyalty towards someone you consider a friend. Your bond grows stronger, becoming more equitable as you benefit one another more and more, though the balance is still far from equal. Perhaps one day it will be. Despite your Path as an alchemist and further embracing the Legacy of the Malefic Viper, you have not shunned away from expanding beyond, seeking power in all places. You have started to embrace the Primeval Origin welling up from within, while even starting on the profound Path of Enlightenment. Your possibilities seem endless, your Path boundless, with one certainty above all: nothing but the very apex will satisfy your primal cravings for power.
+
+Begin evolution now?
+
+Y/N WARNING: Postponing evolution for too long may have adverse effects, and no further profession experience can be earned before the evolution is complete.
+
+So, lots to unpack as usual with these kinds of system messages, but he really didn’t feel like diving excessively into the details. Not before getting to the actual professions, anyway. This system message was mostly just what Jake had expected. So, rather than dwell on it for too long, he focused on the fact that it clearly spoke about him getting his Sacred Meditate skill and that he’d touched the Gate of Enlightenment. That, and its mention of Primeval Origins, were the only two “new” things truly worth noting, with the rest just the usual fluff and the system telling Jake he was a good boy, and that it found his friendship with Villy very perplexing.
+
+With that out of the way, it was finally time for Jake to lay eyes on the first of five options, and honestly? Not a bad start if he said so himself.
+
+Galactic Conqueror of the Malefic Viper – With the power of the Malefic Viper as support, you set out on a mission to conqueror your entire galaxy. Through your leadership and divine presence, victory was achieved, your galaxy falling under you and the Order of the Malefic Viper’s control. Galactic Conqueror is a profession focused on guiding those following you toward victory, leaving the management of the conquered territory to those beneath you. Grants skills related to leadership, control, warfare, and religious teachings to foster morale or suppress dissidents who dare act against the will of the Malefic One. Even in the event of your galaxy falling, or should you merely wish to serve your Patron further by expanding his territory, the Galactic Conqueror is always on the Path of dominion. So go forth. Conquerer. Expand. Claim the glory and power as your own, all in the name of the Malefic One. Stat bonuses per level: +75 Vitality, +75 Wisdom, +75 Willpower, +75 Intelligence, +250 Free Points (550 total).WARNING: Skills pertaining to Heretic-Chosen Alchemist of the Malefic Viper may be lost or changed upon becoming a Galactic Conqueror of the Malefic Viper.
+
+Let’s just get it out of the way; that was a cool profession name. If some guy had ever told Jake before the system that he would one day be told by an omnipotent system that he was worthy of being called a Galactic Conqueror, he would have called mental health services to help the poor guy deal with his delusions.
+
+Meanwhile, it was now the worst of the five potential professional evolutions offered. Not to say it was bad in any way, though it evidently didn’t suit Jake that much. Also, it was no mystery how he’d unlocked it, as he had kind of conquered a galaxy, with most believing he’d done so in the name of the Malefic Viper.
+
+Regarding stats – the best way to tell the quality of a profession and one of its most essential aspects – this one provided +550 stats total per level. That was a lot of stats, sure, but with all stats tripling once more with this evolution, the new max one could get from professions was +720 stats per level. With that in mind, this one suddenly wasn’t as impressive.
+
+Unsurprisingly, while the name was cool and all, Jake reckoned there were far better variants of this profession that Jake simply didn’t qualify for. He had no idea how actually to be a leader, and all forms of morale boosting had been done mostly unintentionally.
+
+It barely had to be said, but Jake didn’t truly consider this profession an option. Especially not seeing as his skills as an alchemist would get completely and utterly fucked up if he picked it, so he elegantly moved on to the second one on offer.
+
+This one was a lot better for sure, but he already knew from the name alone that he had no interest in picking it.
+
+Heretic-Chosen Prophet of the Malefic Viper – Despite the unorthodox actions that should brand you a heretic to be hunted down, you continue to further the goals of the Malefic Viper, making yourself worthy of the title of Chosen. With this acceptance and even at times encouragement from your Patron, continue to spread the influence of the Malefic Viper, bringing others into the fold, while at the same time claiming his powers as your own through a relationship you dare call that of equals. A heretic to some, a Chosen to most, but more importantly, a Heretic-Chosen to both you and your Patron. Your skills in Alchemy remain, but you craft primarily to strengthen your bond with the Malefic Viper while honoring his chosen Path. Grants skills related to alchemy, persuasion, manipulation, and religious practices. No matter the labels, no matter the definitions, you shall continue to further the goals of the Malefic Viper while grasping all the power you possibly can along the way. +180 Willpower, +160 Wisdom, +100 Vitality, +80 Int, +125 Free Points (645 total)
+
+This was a repeat that even had the same name as a profession Jake had been offered when he evolved to C-grade. Much of the text was the same, though it had definitely been upgraded and now seemed a lot less… religious? It no longer talked about alchemy as an act of worship, but instead as a way to deepen his bond with the Viper. All in all, it had definitely leaned more in the direction of them being equal than not.
+
+Still didn’t mean Jake wanted to pick it, though the stats were definitely a lot better. +645 total stats per level was 95 more than Galactic Conqueror of the Malefic Viper, meaning a massive jump in quality. Even getting above 600 meant one entered the realm of top-tier professions, where limitations and built-in downsides began to play a significant role. For Jake, the downside of everything to do with Heretic-Chosen was inherent, as it required maintaining the status as a Heretic-Chosen in the first place, something the system automatically deemed a precarious endeavor.
+
+Jake? Not so much. He put it in the same camp as the downside of his class, which limited his ability to gain experience against opponents below his level. Was it technically a negative? Sure, but not one that affected him in the slightest. Not unless Villy suddenly decided Jake was being disrespectful and needed to be a proper Chosen, anyway.
+
+Picking this profession would be a good way to become more of a Chosen, but, yeah, fuck that. Jake was no prophet, and if Villy wanted one, he shouldn’t have handed out his True Blessing so easily.
+
+Proceeding to the next profession on offer, and… alright. Yeah, it was time to get serious.
+
+With three options left, the quality of professions had already reached an extreme level as he carefully read the description of the third profession on offer.
+
+Enlightened Student of the Sage’s Path – To understand the world is the essence of power and a way of life. At least you believe it to be. Even if your encounter was brief, the interactions were profound, the guidance of the Sage paving your way towards enlightenment. Through your own efforts, you have gazed upon the Gate of Enlightenment and realized the endless depths lying within. You are determined to uncover all that you can. Enlightened Student of the Sage’s Path is a profession revolving around seeking enlightenment and comprehending the myriad concepts of the multiverse, documenting, assimilating, and passing them on to others. Grants skills related to documentation, comprehension, teaching, and understanding of the self. May you continue exploring your Path, the student perhaps one day becoming a Sage himself. Stat bonuses per level: +175 Perception, +175 Willpower, +175 Wisdom, +75 Intelligence, +100 Free Points (700 total)WARNING: Skills pertaining to Heretic-Chosen Alchemist of the Malefic Viper may be lost or changed upon becoming an Enlightened Student of the Sage’s Path
+
+Did this qualify as a Legacy profession of the First Sage? No… no, the more Jake thought about it, that didn’t track, but this had evidently still been heavily influenced by Jake’s meeting with the first sage. The profession description even mentioned Jake receiving guidance from a Sage to pave his path towards enlightenment, aka reaching the Gate of Enlightenment.
+
+Jake knew that getting the sacred skill was already an extremely impressive achievement, but this still surprised him. When it came to stats, this one gave 700 total per level. With the cap being 720, Jake was already at the cusp of perfection, and when it came to professions offering the maximum value, those were so extremely rare and often came with so many downsides that Jake wasn’t even sure he wanted to see one. Also, while 20 stats per level did matter and spoke to the quality of a profession over another, meaning better skills offered during B-grade, it felt almost negligible when already at 700. Oh, and also… this one gave Perception. A lot of it. Definitely bonus points for that.
+
+He also couldn’t help but find it noteworthy that this profession was called Student. For a B-grade to merely be qualified as a student was ludicrous and spoke to how powerful this Sage’s Path was. Speaking of… what was a Sage? With the system capitalizing it, Jake began to wonder if it was some official title or something like that. Jake didn’t remember reading about such a title, and the only other two places he had bumped into the word Sage were with the First Sage and Sagacity of the Malefic Viper. It could also just be that the system used Sage to talk about someone with an extremely high understanding of concepts without it being anything official, but, yeah, Jake would definitely ask Villy about that later.
+
+It was a given, but Jake wasn’t actually going to select this profession, though that didn’t mean it wasn’t an important one to think about. It held a lot of meaning that one of Jake’s five options had more or less come from Jake’s brief interactions with the First Sage and that one skill he’d upgraded, and if nothing else, it told him that he should really find some time just to sit down and meditate.
+
+Outside of Jake agreeing that understanding concepts and further exploring the possibilities of the Gate of Enlightenment, this profession really didn’t fit Jake at all. It looked more like something a monk from the Dao Sect would take, or perhaps a scholar who was really into meditation. Definitely not Jake, as there was no way he would ever sit down and arduously document his exploration of the many concepts of the multiverse while giving lectures in his free time about reaching enlightenment.
+
+So, while Jake was interested in this profession from a professional point of view, he wasn’t interested in actually selecting it. Just the mere fact that it also fucked up his Malefic Viper and alchemy skills was enough for him to skip it.
+
+As Jake moved on to the next one on offer, he saw it was yet another repeat, and he was already mentally prepared to write it off as the last time he saw it, it had seemed very ominous and also meant losing his alchemy, but upon reading it… Something was definitely different this time around.
+
+Harbinger of Primeval Origins – All have an Origin; all have a Path to the peak. You shall be the Harbinger to awaken that Origin. Allows you to affect Origins, awakening primeval concepts within entities, resulting in the birth of things never seen before or long forgotten. You have already begun to embrace this aspect of who you are and strive to continue exploring the innate power deep within your being. It already seeps through every fiber of your being, so why hesitate? Through the heretically obtained Legacy of the Malefic Viper, you shall continue to make use of your alchemical prowess to display your abilities as the Harbinger of Primeval Origins, with or without your – perhaps soon to be former – Patron’s permission. In your eyes, not even a Primordial is fit to tell you how to use your Primeval Origin Energy, and staying a Chosen, heretic, or Heretic-Chosen is solely at your discretion. For only you wield this power, only you use it, and only you can spread its glory to the multiverse, awakening all you deem worthy of the honor. Or perhaps you could simply hoard it for yourself. Only you can decide, Harbinger of Primeval Origins. Stat bonuses per level: +210 Willpower, +120 Vitality, +120 Wisdom, +60 Toughness, +200 Free Points.
+
+When Jake had last seen this profession, it had been entirely different from this. Back when he became a C-grade, the entire thing had been about Jake becoming some beacon of uncontrolled evolution, affecting everyone around him with or without their consent. It had all been so damn messy and, quite frankly, scary enough for Jake to avoid it like the plague.
+
+He’d fully expected it to be the same case this time around, but it wasn’t. It had changed from Jake just being a leaking container of Primeval Origin Energy to him now being the one in charge of it. The one dictating its usage.
+
+Another reason it had been a write-off the last time he’d seen it offered was that it, yet again, meant fucking up his Path as an alchemist. However, yet again, the profession had adapted, now actively integrating his profession, and, from the looks of it, even allowing him to continue as a Heretic-Chosen Alchemist of the Malefic Viper if he so desired.
+
+Okay, Jake seriously doubted it could be as good as a dedicated alchemist profession, but just that it allowed him to retain everything was already massive. One of the skills Jake was sure would change entirely if he picked one of the professions with a warning was Path of the Heretic-Chosen, which felt like the cornerstone of Jake’s Path, and had been the key to meeting the First Sage. There was no world where Jake would give that up, and fortunately, it looked like he wouldn’t have to, even if he went with this one.
+
+Thinking about it more, Jake had wanted to experiment further with his Primeval Origin Energy in B-grade, and wouldn’t this profession also result in Jake getting a lot of experience from that? While Jake did get some experience from his Primeval Origin rituals, it wasn’t even that much if one considered the Records involved in such an endeavor. This profession would definitely mean he would get more, though it would also likely mean anything not to do with Primeval Origin Energy would offer little to none.
+
+Oh yeah, the stats from this one had to be considered as well. It was yet another step up, being an insane 710 total stats per level. That was a measly 10 stats shy of the theoretical limit – not counting stuff like Malefic Viper Legacy skills, of course. When it came to the stats themselves, they were pretty much mirrored from what he already had in C-grade, save for this one not giving any Intelligence. Not bad stats, though, and there were a lot of Free Points for Jake to distribute himself. Distribute nearly exclusively into Perception, naturally.
+
+Jake had a lot more thoughts on this option and sat for a moment, just thinking everything through.
+
+This profession felt stupidly good, damn near perfection, and Jake seriously considered it, even if he still had some qualms. Which begged the question: just what could the fifth and final profession offer that would rank it higher in quality? Could it truly match up against this one and convince Jake not to embrace his identity as the Harbinger of Primeval Origins? Or would it end up like when he evolved his profession in C-grade with Jake picking the second-to-last option?
+
+Well, there was only one way to find out as Jake turned his attention toward the final profession evolution option on display.

@@ -1,0 +1,77 @@
+---
+id: 0502713c-59d8-5107-bd64-b5ecd92c670a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 - What the Manservant Overhears"
+slug: 0024-chapter-23-what-the-manservant-overhears
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 24
+ownLength: 507
+unit: words
+publishedAt: 2022-06-14
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/927507/chapter-23-what-the-manservant-overhears"
+royalRoadId: "927507"
+---
+
+Noah Jeffery prided himself on being a good manservant. He fulfilled his duties quickly, without complaint, and to a high standard. Whenever he requested a letter of reference, he felt confident that there would be pages of praise. Lost among all those commendations might be one line—two at most—that mentioned he had a bad habit of listening.
+
+Not that he would ever stoop to putting his ear next to a keyhole. That would be disgraceful and common. But he was known to linger around doors. Especially when there were raised voices.
+
+This never bothered his conscience. When two people lived together, it was inevitable that they would get to know one another’s secrets; the fact one was paying the other’s wages didn’t change that. And knowing things meant that he would be better at anticipating his employer’s needs.
+
+The gentlemen always wanted to be understood, but they also wanted to pretend you knew what they needed by magic.
+
+So he pretended. And he listened.
+
+After finishing the dinner dishes, Jeffery changed his suit and went to the entryway closet to fetch his hat and gloves. He had them in hand when he heard his master’s voice coming from the living room. From the one-sided nature of the conversation, Jeffery guessed he was on the phone.
+
+“Is it true?”
+
+Jeffery edged closer to the gapped door.
+
+“The papers are saying that Eleanor’s been kidnapped. They’re saying it was Penn.”
+
+Jeffery had read about that. Poor girl. He’d wondered how his master would take it.
+
+“But she’s gone!”
+
+He wasn’t taking it well. Jeffery rarely heard that much emotion in his master’s voice.
+
+“We have to talk to them…The police! We have to explain everything.”
+
+There was a pause.
+
+“What if they think we’re involved?”
+
+Involved? Jeffery moved closer and wished his heart wouldn’t beat so loudly.
+
+“That policeman was at the club, asking questions! How can you be so calm?”
+
+There was a much longer pause.
+
+His master said, “Yes.” Then, “Yes. I’ll wait for you.”
+
+Jeffery strained his ears and heard the sound of the receiver being replaced in its cradle. Then there were footsteps, growing louder as they came toward him.
+
+With the instinct of an experienced snoop, he knocked on the door and opened it. It was better to discover than be discovered.
+
+His master took a step back.
+
+“Jeffery! I thought tonight was your night off.”
+
+“It is, Mr. Winfield. I wanted to make sure you didn’t need anything from me before I went out.”
+
+“No.” Dominic gazed at the floor, then looked up. “Did you get the new port?”
+
+“Yes, sir. I picked it up earlier. You’ll find it in the cabinet.”
+
+“Thank you.”
+
+“Are you expecting someone, sir?”
+
+Winfield headed toward the drinks cabinet. “Don’t worry about it, Jeffery. I can manage. Will you be coming in late tonight?”
+
+“I expect so. I’ll lock the door and make sure not to disturb you, sir.”
+
+“Thank you.”
+
+Noah Jeffery glanced through the door as he shut it. Winfield was pulling out two glasses.

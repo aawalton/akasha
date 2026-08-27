@@ -1,0 +1,145 @@
+---
+id: ea81ef05-957c-5331-9129-d6b727903a03
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1307 - Trickle-Truthing"
+slug: 0181-chapter-1307-trickle-truthing
+partOf: the-primal-hunter
+position: 181
+ownLength: 2607
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3353967/chapter-1307-trickle-truthing"
+royalRoadId: "3353967"
+---
+
+So, yeah, Jake really hadn’t thought things through when he agreed to go meet these snakes. He had just been curious after hearing they seemingly had a skill similar to Palate of the Malefic Viper and went along, not at all considering the implications of that.
+
+While Jake could hide a lot of things with his Shroud of the Primordial, he already knew that he couldn’t hide what snakes felt when they saw him. It didn’t mean that they recognized him as the Chosen of the Malefic Viper right away, just that he somehow shared a deep level of kinship with them, and from the sounds of it, also that it was rather deep.
+
+Denying this connection obviously wouldn’t get him anywhere, and the Archweaver looked at him even more curiously, but somehow not that surprised. Realizing this, Jake suspected that the Arachnec hadn’t just brought Jake to meet these snakes for the fun of it either.
+
+Chances were, the B-grade already suspected Jake had some kind of connection with them, perhaps due to his black scales that, upon looking at these Deathscale Miresnakes, definitely looked a lot like what they had. It wasn’t even out of the question that they had some variant of the Malefic Viper’s Legacy or a divergent evolution of the skill.
+
+Either way, Jake could only try to stay casual as he looked at the Archweaver.
+
+“Would it be a problem to share where I come from?” he asked, seemingly not finding their recognition of kinship odd.
+
+“No, all will inevitably know in time,” the Arachnec said while continuing to observe the interaction carefully.
+
+Jake nodded and turned to look at the Miresnakes. “I’m from beyond the Boundary and have a close personal connection to a snake possessing untold power, and it’s this connection you’re feeling.”
+
+“Oh, Jake, you’re making me blush over here,” Villy decided to be an ass and sent a divine message, quickly cutting off the connection again without giving Jake any chance to respond. The asshole didn’t want to ‘disturb’ Jake’s adventure, after all.
+
+His message did kind of tell Jake that how he wanted to handle this was entirely up to his discretion. If the snake god didn’t want Jake to bring up his name or potentially leverage his title as Chosen, he would have likely said something. Or, Jake was misinterpreting the Viper’s intentions, and if he were, that was entirely Villy’s fault for not being clear, and Jake would take no responsibility for anything.
+
+“A powerful snake?” the Archweaver said, stepping in as he looked curious. “I assume you’re ignorant of the Great Sea Serpent, but it’s one of the most powerful beings of this world, calling the ocean below its home. A peak A-grade existence that all have to respect. Does your designation of this snake you are acquainted with as powerful imply it has surpassed this grade?”
+
+From the Venusians, Jake already knew that no creature from this world – at least not as far as anyone knew – had ever surpassed A-grade. It wasn’t even sure they knew that S-grade came after A-grade, based on how no one called it that, but just vaguely referred to what would come after A-grade.
+
+When the Venusians had asked Jake a similar question before, he had been quite vague, but this time, Jake decided to be a bit more direct as he looked at the Archweaver and nodded.
+
+“So far beyond A-grade that I admittedly do not believe this world is quite ready to comprehend just how powerful this being is,” Jake said, shaking his head.
+
+“I see,” the Archweaver said, Jake not entirely sure if the Arachnec believed him, though he did seem to believe that beings above A-grade existed beyond the Boundary. “Then let us hope we will not have to enter into a conflict and fight such a being.”
+
+Hearing this response, Jake couldn’t help but chuckle as he looked at the B-grade. “No offense, but there wouldn’t be a fight. When I said there are being far beyond A-grade, I mean it. To them, removing the entire Arachnec race from existence would be as simple as waving their hand. This entire world you call home could disappear the moment one of them wanted it to.”
+
+Granted, Jake was definitely trying to scare them a bit, but he was also being totally truthful. If Villy wanted to, he could definitely take the entirety of Venus and implode it into a black hole or some shit if he so desired. To a Primordial, if they went for wide-scale destruction, Jake didn’t even want to imagine how much damage they could cause. Villy, back in the seventh era, had already led to what was effectively the destruction of billions of galaxies, and now he and all the other pinnacle figures of the multiverse were much stronger.
+
+“Imagining a being of such power is proving difficult,” the Archweaver said after a moment’s pause.
+
+“As I said, this world isn’t fully ready to comprehend the existence of such beings,” Jake shrugged. “But if you go beyond the Boundary and make contact with the rest of what exists in what we call the multiverse, you’ll eventually come to know of them. Perhaps even enter their factions at one point.”
+
+Jake could definitely see the Arachnecs become part of the Risen at some point. While their general behavior was very similar to the ectognamorphs of the Endless Empire, they were undead creatures and wouldn’t mesh well with that faction at all. Meanwhile, the Risen were always looking for more to join their fold, and Jake knew there were already several undead factions among them who weren’t technically Risen.
+
+“Excuse me,” the leader of the Deathscale Miresnakes asked, as there was a natural lull in the conversation. “How come we feel a connection with you, simply due to your connection with a powerful snake?”
+
+“Now that’s a bit hard to explain, and would honestly take too long, but it boils down to him being so powerful that all of you are affected by his mere existence, and the connection I have with him is one that provides me with tangible power,” Jake answered, really unsure how to phrase all this.
+
+He could go into a whole spiel on Records, and based on his talks with the Shaman, he believed they did know about Records, though their understanding was definitely limited. The multiverse as a whole still felt it lacked a proper understanding of the intricacies of Records, so it was only understandable that these factions, who had at most A-grades, didn’t stand a chance.
+
+“Tangible power in what form?” the Archweaver asked, unable to hold back his curiosity as Jake felt the B-grade’s power probe him.
+
+“My skills, for one thing,” Jake said as he raised his arm and made some of his scales disappear, much to the shock of the snakes. “These scales are the result of a skill. So is my ability to absorb energy and poison, slowly refining them and gaining an understanding of what I consume in the process. An ability I believe these Miresnakes share.”
+
+The snakes slowly nodded as Jake continued.
+
+“This ability of mine shares Origins with theirs. Even if these skills aren’t exactly the same, the existence of the powerful being behind me has innately affected all skills of snakes, even those they would have been born with naturally in the first place. Which is a given, seeing as he evolved and improved these abilities to become what they are today,” Jake continued, having really decided to share some information now.
+
+Information they would all learn very quickly after one day leaving this Minor World, so it wasn’t as if Jake was sharing anything confidential. It was still quite hard truths to swallow and comprehend, making all of them look deep in thought as they likely also debated whether they could believe him in the first place.
+
+“Do you mind me sealing off the immediate area around us?” Jake asked the Archweaver. The Arachnec looked at Jake suspiciously for a moment before agreeing.
+
+“Very well.”
+
+“Thank you,” Jake said as he summoned a sphere of stable arcane energy around himself, the Archweaver, and the Deathscale Miresnakes. His small display of magic definitely made the Arachnec curious yet again, but before he could say anything, Jake spoke.
+
+“Allow me to channel a small portion of this being’s power,” Jake said as he did something that he had quite frankly wanted to try doing for a long time. He activated Pride of the Malefic Viper alongside Invocation, momentarily channeling the aura of the Malefic Viper himself to such an accurate extent that it had even fooled Artemis for a moment.
+
+The effect was immediate.
+
+Five B-grade Miresnakes seemed to unconsciously lower themselves in reverence, while the Archweaver froze entirely, even his otherwise expressive eyes stopping their movements fully. Jake kept up Pride and Invocation for several seconds before deactivating the skill again, but even after he did so, all six within the barrier remained frozen.
+
+It took them all several moments before they started regaining their composure. Jake didn’t try to press them or anything, but just gave them time as he could only imagine what they were going through mentally right now. These six had all believed that peak A-grades were beings standing at the apex of existence, and even if they believed there was a realm beyond, they couldn’t possibly have imagined gods being a thing.
+
+Jake hadn’t given them a gentle introduction to the aura of gods either. Starting with that of the Malefic Viper was a bit cruel, as even the weakest of gods would have been a mind-shattering shock, much less that of a Primordial. Still, Jake believed this was the best and most effective way to handle things, and based on Villy not protesting, Jake took it as the snake god’s tacit agreement that he was doing fine.
+
+After waiting a bit longer, the Archweaver was the first to speak. “Could such an existence make it here?”
+
+It wasn’t hard to imagine what the Arachnec was thinking. The Archweaver likely feared for the survival of his entire race upon realizing that such beings actually existed in the outside world, and the fact that Jake was there meant there was a way to enter.
+
+“Yes,” Jake simply answered. Sure, gods couldn’t enter the ninety-third universe and thus not access this Minor World currently, but the Arachnec didn’t ask if they could make it there currently, only if they could at all. Which they would one day be able to.
+
+The Archweaver looked in thought for a few moments, having a lot to go through mentally. “This gives us much to consider.”
+
+“If it’s any consolation, then there isn’t a precedent for randomly attacking or slaughtering races or factions discovered,” Jake said, trying to at least soften the blow of this knowledge a little.
+
+“These powerful beings almost live in their own world and don’t interfere with the lives outside of influencing them through something called Blessings. That’s also the nature of my connection with this powerful snake I mentioned,” Jake continued with a small smile. The word Blessing got no response, so at least that confirmed to Jake that no other god knew of this place.
+
+“Is this powerful being now also aware of this place due to your presence?” the Archweaver asked.
+
+“Of course,” Jake shrugged. “He sees and knows everything.”
+
+“Including the entire makeup of this Hive. The barriers hiding the lower layers and all that lies beneath are useless in front of a being like him,” Jake followed up as he sent a telepathic message to the Arachnec.
+
+Having come this far, Jake reckoned he would have to protect himself a little, in case the Arachnecs or others had thoughts to eliminate Jake with the hope of not being discovered by outside forces. He didn’t know if they would actually do this, but Jake didn’t see much harm in letting them know that if their plan was to hide, it was already too late.
+
+True, he did lie a little by saying Villy could see everything, which he really couldn’t, while only watching Jake. His Bloodline could, though, and given the power of the barriers concealing the lower layers of the Hive, the Archweaver would definitely view it as an impossibility that Jake had seen through them using his own power.
+
+“Beyond the Boundary... it sounds like a frightening place,” the leader of the Deathscale Miresnakes muttered.
+
+“Honestly? Less frightening than here, though you may face some diplomatic challenges and issues with differences in norms and whatnot,” Jake shrugged, not seeing that big of a barrier to entry for these creatures to integrate and become part of the wider multiverse.
+
+“As someone close to this powerful snake, would it be possible for you to make introductions?” the Miresnake asked rather boldly in front of the Archweaver, perhaps given courage by the divine aura he’d felt earlier.
+
+“Possibly,” Jake nodded. “Though from the sounds of it, I would like to meet this Sea Serpent you spoke of. Perhaps we can reach some agreement that will extend to the rest of snake-kind within this world.”
+
+The snakes looked at each other for a moment before nodding. “We will certainly bring this back, and hopefully await your arrival.”
+
+“Great,” Jake nodded, feeling like he was doing pretty well if he said so himself. If this Sea Serpent was truly a peak A-grade that had managed to reach that level of power within this world, Jake would certainly want to meet it.
+
+Perhaps even give it a little Blessing of its own.
+
+Honestly, Jake was proud that his strategy of trickle-truthing hadn't blown up in his face yet, and things were seemingly going pretty swimmingly. Really, at this point, what could really go wrong?
+
+--
+
+“This... is not a good development,” the Oracle said, pacing back and forth within her chambers as the Shaman stood concerned not too far away.
+
+“Would the Arachnecs have...?” the Shaman asked, his concern only growing.
+
+“Doubtful,” the Oracle shook her head. “That human creature was far too powerful for his level and gave off a feeling that he didn’t belong in this world. Archweavers are frighteningly intelligent, so it may have come to suspect he’s from beyond the Boundary quickly.”
+
+“In that case, the Archweaver must have taken him with it,” the Shaman said, now also pacing back and forth.
+
+“It’s equally possible he followed along willingly,” the Oracle said in a grave tone.
+
+“But he is among the living and has killed many of their kin already,” the Shaman protested.
+
+“We do not fully know the norms of the world beyond the Boundary, so their undead status may not be cause for hatred in-of-itself. Moreover, the Arachnecs will not care if he’d slaughtered thousands of their soldiers if he could possibly serve as a way to escape beyond the Boundary,” the Oracle said.
+
+“I’ve already communed with the Circle, and the consensus is clear. This is the first contact with the world beyond the Boundary, and this human will probably serve as the key. If all our predictions are right, the world outside will allow for the rise of a being surpassing A-grade, and if any faction gets such a being, the balance of power will be irrevocably changed. We cannot allow the Arachnecs to be the first with this opportunity,” the Oracle continued in a severe tone.
+
+“Has the decision been made?” the Shaman asked with huge eyes.
+
+“Yes,” the Oracle nodded. “We shall move on the Hive within the day.”

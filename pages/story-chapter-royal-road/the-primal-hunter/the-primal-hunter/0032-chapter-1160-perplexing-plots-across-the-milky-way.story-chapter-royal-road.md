@@ -1,0 +1,199 @@
+---
+id: 0082dbe2-02bd-5280-ad24-763fa8584201
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1160 - Perplexing Plots Across the Milky Way"
+slug: 0032-chapter-1160-perplexing-plots-across-the-milky-way
+partOf: the-primal-hunter
+position: 32
+ownLength: 2630
+unit: words
+ownProgress: 2630
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2607664/chapter-1160-perplexing-plots-across-the-milky"
+royalRoadId: "2607664"
+markedReadAt: "2026-06-29T19:30:16.409Z"
+---
+
+“Another one?” Miranda asked with exasperation. “And let me guess, they need help?”
+
+“So far they haven’t requested it, but I think that’s a safe assumption,” Lillian answered calmly. “While they should be able to defeat a B-grade themselves, the losses they would incur would be massive.”
+
+“Yeah, I guess their only viable strategy would be to throw bodies at it until the damn thing gets tired out,” Miranda nodded. “Assuming it’s another weak variant, that is.”
+
+“All signs indicate it is,” Lillian said. "I would guess a request for assistance is imminent."
+
+“Alright... see if the people from Valhal would like to handle this one,” Miranda sighed, not really having many other options at this point, as most of the other elite factions or teams were busy.
+
+Miranda had expected that dealing with the emergence of B-grades would be a challenge, but it had happened earlier than expected. What’s more, it was all over the galaxy.
+
+Luckily, it was still confined to the top planets of the Milky Way, and some of the planets could handle it on their own. Kindroth, as an example, had reported the emergence of three B-grades so far, but he and his forces had handled them on their own.
+
+The same was true for the other top factions in the galaxy that controlled planets. While they didn’t necessarily have any individuals capable of fighting B-grades, numbers could still make up for the difference.
+
+If it were truly powerful, B-grades would have been a lot harder to handle, but so far, all the ones appearing have been at the bottom of the barrel. It did make sense, though.
+
+These were all B-grades that had consumed special system-given natural treasures during the early parts of the integration and experienced massive growth due to it. Their Paths were shaky to say the least, and at most, they had one lucky encounter that allowed them to barely evolve to B-grade.
+
+To make matters more annoying, many of these B-grades were actively causing problems for the current leadership of the planets. To be clear, Miranda believed there were actually far more B-grades than they knew, but most of them were smart enough to stay the hell away from the enlightened settlements, and if they did approach, they did so with no ill intent.
+
+The same really couldn’t be said about the problematic B-grades. What’s more, they all shared the commonality of carrying blessings. Usually very low-tier blessings, but Blessings nonetheless. Additionally, all the gods giving out these Blessings actively hid their identities.
+
+Miranda and the rest of Earth’s intelligence network had tried to uncover who was behind this, but sadly, there weren’t really any reliable ways to confirm a god’s name. Sure, if a god used Identify on someone blessed, there was a good chance they could see through it, but sadly for Miranda, they didn’t have any gods handy.
+
+Fortunately, despite the best attempts of these B-grades, none of them had managed to accomplish anything meaningful. A significant reason for their failure was the arrival of backup from the Order of the Malefic Viper.
+
+Draskil had already been around and was a great help with other elites gone from the planet. When Scarlett had arrived about a year ago and helped Holstred deal with the Bristleboar B-grade, things had really turned around.
+
+Scarlett was proof of what a true B-grade could be. While she had also gained power rapidly through consuming potent system-provided natural treasures, she had gotten incredibly lucky and found an even more fortuitous encounter to address her shaky foundation.
+
+She had gained the Blessing of the Forefather of her entire race pretty early on in C-grade and afterwards even gone to the Order of the Malefic Viper to improve herself further. Then, armed with knowledge and an improved Path, she spent fifty years tempering herself inside of Nevermore. Once she was out of time there, she had already been close to peak C-grade and only needed a little more to fully evolve.
+
+Additionally, the snake had also told Miranda a great deal about the considerable resources invested in her. Not by the Order of the Malefic Viper, mind you, but the Dragonflights that had seemingly decided that Scarlett would be their connection to the Chosen of the Malefic Viper.
+
+All of this had resulted in Scarlett turning into a relatively high-tier B-grade. Her power was truly proof of the vast gulf in power that could exist even within the same grade. Miranda had been a bit worried about putting so much on Scarlett, but so far, she’d yet to encounter a single B-grade she wasn’t capable of killing near-instantly, with little to no effort.
+
+Her venom was simply too powerful for anything to handle. It didn’t even matter what she attacked, as even a damn water elemental found itself poisoned to death. Miranda was also fully aware that a single bite from Scarlett would kill her and pretty much any other C-grade alive, with only a scarce few exceptions. Draskil being one of them.
+
+As Miranda was in thought, they had a knock on the door. Looking up, Miranda realized who it was as she waved her hand.
+
+The door swung open, revealing a familiar elf.
+
+“This lowly one is honored to have the Voice of the One visit her humble planet,” Miranda said in a mocking tone.
+
+“My mere presence is indeed a gift upon your life,” Kindroth responded with a dry chuckle. “Humor aside, allow me to get directly to the point. According to my contacts, the Holy Church is not affiliated with this god or gods trying to cause a disturbance. They also aren’t aware of who it could be, though they do have their speculations.”
+
+“Ones similar to ours?” Miranda asked inquisitively.
+
+“Yeah,” Kindroth nodded. “Yip of Yore had a lot of allies and people who believed in him. While the Malefic One got rid of a lot of them, far more exist out there. I would almost be surprised if something like this didn’t happen.”
+
+“True, especially when it seems so low-risk,” Miranda muttered.
+
+“But not entirely risk or consequence-free,” Kindroth pointed out. “Giving out that many Blessings isn’t free, and I can only imagine the losses that whatever gods are involved have already suffered.”
+
+“That’s why I said low risk,” Miranda shook her head. “Activity has recently slowed down across the board, making me think the enemy has either given up...”
+
+“Or they are gearing up for something bigger,” Kindroth finished her sentence. “They must know they can’t keep doing this forever. Not only is it unsustainable and incurs too big a cost, but it’s also too risky. If they go too far...”
+
+“The karmic footprint they’ll leave will be too substantial and potentially allow us to discover their identities,” Miranda took her turn to finish Kindroth’s sentence.
+
+“Exactly,” the elven World Leader smiled. “I can only surmise that whatever god or gods are behind this weren’t open supporters of Yip of Yore; if they were, there would be no reason for all the subterfuge.”
+
+“I do agree with that assumption,” Miranda said. “What I can’t quite figure out is the why yet. Sure, I get the motive, but not the goal. This other party must know that they can’t accomplish anything meaningful by just having a bunch of problematic B-grades and peak C-grades create trouble around the place.”
+
+“I could make guesses, but there are none I’m confident of,” Kindroth sighed. “Though it is possible, this god is just incredibly incompetent and their plans were messed up from the moment that white snake arrived on the planet.”
+
+“Her name is Scarlett,” Miranda corrected the elf.
+
+“Right,” the World Leader nodded, as he seemed to be in thought for a moment. “If I may ask, who was behind her name? Because it doesn’t seem like one the Chosen of the Malefic One would have thought up.”
+
+“Oh?” Miranda exclaimed, acting dumb. “What could you possibly mean by that?”
+
+Kindroth just looked at her with a raised eyebrow before she chuckled.
+
+“Hey, I think he’s getting better,” Miranda said, shaking her head. “The latest name he gave was Jasper.”
+
+“Is it an elemental made of gems? Maybe a golem?”
+
+“No, and I was also shocked when I learned it wasn’t,” Miranda said, a hint of proudness in her voice.
+
+“Impressive,” Kindroth said, Miranda unable to tell if he was joking or not. “Alas, I believe I should head home. The council has been a bit annoying these days due to the B-grade activity.”
+
+“Enjoy politicking,” Miranda waved him off. “I was about to throw you out anyway, as I have a meeting coming up.”
+
+“You didn’t need to add that,” Kindroth said, acting hurt.
+
+“See you next time, oh supreme Voice of the One,” Miranda said as she waved her hand, making Kindroth slide across the floor and out of the door, which promptly closed after him.
+
+Outside the door, the elf shook his head before taking his leave. Once he was out of earshot, Miranda turned to the side of the table.
+
+“He didn’t notice you, did he?”
+
+“It doesn’t appear like he did,” Lillian answered as a faint sheen of moonlight covered her body.
+
+“With those stealth skills, you should join the Court of Shadows... wait, maybe I need a spymaster? Do you wanna be a spymaster?” Miranda tilted her head.
+
+“No,” Lillian shut down the notion right away.
+
+“How about secret moonlight assassin?”
+
+“I don’t believe that falls under my job description,” Lillian answered in the same deadpan tone.
+
+“Hey, personal assistant is a proud job title!” Miranda joked around with a smile. It genuinely made her happy to see that Lillian had grown a lot stronger over the years, and while she wasn’t some peak genius, she was far from weak for her level. While Miranda didn’t need any bodyguard to defend her, she was happy that her personal assistant and close friend were capable of not only defending herself but capable of continuing to progress by Miranda’s side.
+
+“Need I remind you that the World Council is waiting?” Lillian asked.
+
+“Oh... right,” Miranda nodded. “That’s why I have a personal teleportation circle.”
+
+Getting up, she and Lillian walked to a corner of the room where a hidden magic circle revealed itself, and a moment later, the two were whisked away to another exciting budget and city-planning meeting.
+
+--
+
+“Work work work,” the space worm said as they wormed around the large, desolate celestial object. Once in a while, the worm would spit out small metallic objects before quickly continuing.
+
+“Little bit here, little there, little bit everywhere!” the worm sang while deploying the beacons. This singing was naturally also done through the special communication device connected directly to a certain scientist’s mind. “Hey! Hey! Arnold! Listen!”
+
+It took a few seconds before Sandy got a response.
+
+“Yes?” the scientist said in his usual calm voice.
+
+“When are we gonna blow up the moon?” Sandy asked excitedly.
+
+“We’re not blowing up the moon, we’re merely destroying the Ghostvine that has assimilated itself with it,” Arnold explained for the thirty-eighth time.
+
+“Potato, tomato! Same thing!”
+
+“The outcomes are vastly different, as one shall leave the celestial object intact,” Arnold simply explained calmly. “While some amount of damage is inevitable, nothing done will be unfixable.”
+
+“Okay, okay,” Sandy agreed that Arnold was being boring. “How many more of these do I need to place?”
+
+“Nineteen more.”
+
+“Wow! That’s... a lot less than I expected. Do you even know how many of these I’ve placed over the last half a year?” Sandy asked with exasperation.
+
+“Two thousand, two hundred and seventy-two will be the total amount placed over the last one hundred and fifty-nine days,” Arnold once more answered, merely with the facts.
+
+“Which is a lot!” Sandy exclaimed, before suddenly being in doubt. “Wait, it’s a lot, right?”
+
+“It’s sufficient.”
+
+“Yay! When we... oh, wait a second, Ghostvine mad again!”
+
+Sandy sadly had to stop chatting as they were suddenly exhausted by a massive blast of death energy from deep within the tunnel the worm was currently traveling through. Speeding up to dodge, Sandy quickly retreated right as vines sprang out of the walls and tried to tie them up, but Sandy was as swift as a space worm, as tough as a space worm, and as agile as a space worm, allowing them to avoid the initial assault.
+
+This was not the same worm that had been kind of killed when trying to explore the moon with Jake. Sandy had grown a lot since then and was superior in every way imaginable. Meanwhile, the Ghostvine had grown far less in comparison, allowing Sandy to actually escape the clutches of the B-grade.
+
+What’s more, Sandy didn’t even need to fully retreat. Instead, they continued the mission of planting Arnold’s beacons within the moon’s vast tunnel system. It was a dangerous mission, but Sandy was the only one capable of doing it.
+
+These beacons would allow Arnold to scan the interior of the moon using his satellites. He’d tried to penetrate the surface using various means, but ultimately concluded that unless he wanted to wait till he reached B-grade himself or had some major breakthrough, he would need beacons inside the moon to get a full scan.
+
+Initially, he had placed these beacons using drones, which had worked out pretty well. He had placed over ten thousand beacons on his own, but when he tried to place them deeper, he ran into a big problem.
+
+The Ghostvine Sovereign’s senses got better the closer one got to the core, and it began to destroy these drones before they could get deep enough. While it usually took a little while for them to be detected, they simply couldn’t get deep enough.
+
+That was where Sandy stepped in.
+
+While Sandy couldn’t avoid being detected either, that didn’t mean the B-grade could do anything about the worm. Sure, a few thousand vines were annoying to deal with, but Sandy was more than capable of escaping over and over again while placing all the different beacons.
+
+As Sandy dodged another attempt to be captured, the worm finally got done charging up the magic. “Poof we go!”
+
+With vines closing in from all sides, the space worm disappeared. A few hundred kilometers away, within another tunnel deep inside the moon, the space worm reappeared and spat out another beacon.
+
+“Eighteen to go!” Sandy said proudly, right before a real downer message came from the other side.
+
+“Consider retreating and placing the rest tomorrow after the Ghostvine has had time to calm down,” Arnold warned. “Its energy signature is spiking significantly, indicating it's preparing to launch a proper assault.”
+
+“Pfft, you’re a total worrywart. You know that, right?” Sandy said as the worm looked a bit worried toward the center of the moon. “But you know, just for you, I’ll listen this time around.”
+
+Arnold didn’t even respond as Sandy quickly fled from the room before the Ghostvine Sovereign had time to gather its power and launch a powerful attack. Sandy totally wasn’t afraid, and it wasn’t as if the last time the space worm had ignored Arnold. They’d nearly returned to being an egg once more.
+
+It took a bit of effort, but Sandy soon made their escape and retreated a good distance away from the moon, where the worm stopped moving and just floated through empty space.
+
+“Hey, Arnold.”
+
+“Yes?” the scientist responded.
+
+“When we gonna blow up the moon?”
+
+“We’re not blowing up the moon,” Arnold answered for the thirty-ninth time. “But if you’re asking about when the offensive portion of the operation shall begin, it’s estimated to be next week.”
+
+“Yay!” Sandy celebrated, super looking forward to finally blowing up the moon.

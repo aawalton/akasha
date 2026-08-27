@@ -1,0 +1,153 @@
+---
+id: c16418c2-ad79-52f1-aca9-fb32a998d142
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1207 - Unintentional Display of Power"
+slug: 0079-chapter-1207-unintentional-display-of-power
+partOf: the-primal-hunter
+position: 79
+ownLength: 2812
+unit: words
+ownProgress: 2812
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2780746/chapter-1207-unintentional-display-of-power"
+royalRoadId: "2780746"
+markedReadAt: "2026-06-29T19:31:46.270Z"
+---
+
+“Having the Golden Forest King back will be a great help in stabilizing the beast factions that have formed all across the planet. While the Sky Whale is doing a good job, he is ultimately limited by his potential and talent. His evolution to B-grade helped tremendously, but in the end, he’d progressed primarily through system-provided natural treasures, harming his foundation significantly,” Miranda explained to Jake as they sat watching the fight between the King and Draskil.
+
+“There are several other powerful beast lords waiting to catch up and overtake the Sky Whale, many of them even believing that if they prove themselves stronger, it can grant them his spot on the World Council. As the only monster on the World Council during this recent period, this has placed a significant amount of pressure on him. However, now with the King back, I believe things will change. None can question the talent and authority of a Unique Lifeform born to rule.”
+
+Jake listened on as he watched the fight in the sky, definitely finding that more interesting than Miranda’s explanation about Earth’s political climate. Still, he appreciated her keeping him informed.
+
+“I do know the King plans on properly reestablishing his authority on Earth after his absence, and I get a feeling he’s more primed now than ever,” Jake answered, remembering the King talking about how his fully regained freedom resulted in his Path finally being complete, allowing him to be a proper ruler.
+
+“Good to hear,” Miranda said with a bit of relief in her tone. “I should also let you know that the moon is rapidly being overtaken by Arnold, though I can’t provide many details, seeing as he’s primarily building within the celestial object. Additionally, when it comes to our current immigration policies, we are…”
+
+Miranda proceeded to really get Jake up to date over the next several minutes. He already knew many of the things she said, with Miranda either reminding him or expanding the subject with more details than the last time they spoke.
+
+One of the topics Jake was interested in hearing about was the recent appearance of unknown enemies on Earth with equally unknown gods backing them. It was a bit silly to admit, but before now, Jake hadn’t even considered that this mysterious group could be connected to the ones who’d tried to kidnap him in the void.
+
+Both groups had gods among them, and both were strict about maintaining anonymity and not revealing any names. However, Jake also felt that there was a good chance they truly had nothing to do with each other, as even without this new mystery faction, there were already plenty of gods willing and able to cause problems for Earth.
+
+A part of Jake really wanted to mention what happened in the void to Miranda, hoping she might have some insights, but he chose not to. The agreement had been to keep things under wraps, and he would stick to that for now.
+
+From the sounds of it, the unknown group on Earth and the rest of the Milky Way hadn’t made any major moves recently, but still sometimes popped up, primarily in isolated settlements and smaller cities with easily manipulated local political leaders.
+
+Yeah, the more Jake heard, the less he envied Miranda having to deal with all that shit. At least she would have help from the King and Sword Saint now, giving Earth some extra raw power to show off.
+
+Speaking of raw power…
+
+“Where’s Scarlett at, by the way?” Jake asked, wanting to talk to the snake since it had been so long. No, not the kind of talk he had with Meira, as he truly didn’t believe any feelings Scarlett had ever exceeded those of an infatuated fan-girl.
+
+“On another planet, handling the appearance of a B-grade monster that, upon evolution, suddenly believed she was the new ruler of the entire world,” Miranda answered, clearly not worried about the situation.
+
+“Damn, I'd hoped to meet her, but oh well, next time,” Jake said casually.
+
+“If you stay around for a few days, she should return.”
+
+“Nah, I have things I prefer to do at the Order. Do let her know she’s free to visit me, though, if you can spare her,” Jake responded. “Anyone else notable on the planet I should know about?”
+
+“Assuming you’re asking about people like Carmen, Eron, or even Maria… no,” Miranda answered. “Honestly, I have no idea where all of them are right now. I believe they’re busy doing matters related to their own factions and likely not even in this universe, but all I can do is make educated guesses.”
+
+“Alright,” Jake sent a mental acknowledgment. “Say… do you also think things are escalating a bit too much?”
+
+“It’s certainly headed in that direction,” Miranda agreed, briefly throwing a glance towards the many gaping young masters and mistresses at the door Miranda had already told him about earlier. “It does seem to have left an impression, though.”
+
+The fight between the King and Draskil ultimately became an unintentional display of power, which was only to be expected given the participants involved. However, perhaps more impactful than the might displayed by the two was how the fight eventually ended.
+
+As the fight dragged on, it became clear that Draskil was gaining the upper hand. He was already a pinnacle-level genius, and combined with his higher level, it wasn’t unexpected that he proved stronger. Jake did reckon that, had they been at the same level, the Unique Lifeform would have walked away with a victory.
+
+However, even if Draskil was stronger, that didn’t mean he could dominate the King, resulting in him having to pull out more power, thus making the King respond in kind. Honestly, Jake was just happy the two had taken about a quarter of an hour before they reached this point, as it had allowed Jake to feel good once more.
+
+“I guess I’ll tell them to calm down before they end up destroying something… or worst case, toss both of them into space to continue their little spar,” Jake casually sent Miranda as he stood up while carefully making sure not to bother the resting Sylphie too much while placing her on his chair.
+
+His movement caught the eyes of the many observers, who all congregated around the broken doorway to the teleportation chamber, not one of them daring to walk closer despite so much time passing.
+
+After hearing that Miranda was in agreement, it was decided that it was best to stop things here. Jake unleashed his aura now that he felt confident it would be stable. She had already told him her hope that Jake would leave an impression, so he made sure to mix in plenty of that Bloodline to fully suppress the young masters and mistresses.
+
+Once he’d seen a few fall to their knees in fright, Jake took to the air and flew toward the two fighting C-grades. Even if the fight had escalated, both had been mindful enough not to aim their attacks at the ground while keeping most abilities focused on intensity over scope to limit the risk of environmental damage.
+
+However, as they pulled out more power, control lessened, and if they both started using boosting skills, Jake was certain that at least a few mountains would be broken and the surrounding land terraformed. Honestly, Jake had to praise Miranda’s foresight in placing the teleportation hub a fair distance away from the actual city.
+
+His approach was noticed by the two, but that didn’t stop them, as Draskil blocked a golden hammer with one hand and threw a dark green ball of fire with the other. The King blocked it with a blast of force before unleashing a golden claw.
+
+Draskil responded with a claw of his own. The two large claws of pure energy clashed in the air, sending out shockwaves that both soldiered through as their claws made physical contact.
+
+Following a second explosion, the King ended up being pushed back, but he didn’t seem deterred as he prepared to pull out even more energy, now one step away from having to unleash his boosting skill. Something Jake was determined to avoid.
+
+“Let’s stop here,” Jake yelled once he was close enough, making sure to project his voice loud enough for those below to hear.
+
+In an ideal world, the two would have done as requested; however, powerful individuals tended not to take kindly to others interfering in their affairs. That, or perhaps the two just found something more entertaining to do than fight one another.
+
+As one, both turned towards Jake, a tacit agreement between them as they each raised a hand and unleashed a blast of force and a beam of energy. Jake decided to take the challenge and show off a little.
+
+Right before the two attacks struck him, his cloak seemed to come alive as it covered him in a dark shroud of shadow energy. When the two attacks hit the shadows, they were both absorbed and turned to nothingness, consumed whole by the powers of the Shadow Realm.
+
+Before the shadows had even cleared, a Powershot erupted from the darkness, striking Draskil square in the chest before he had a chance to react due to their proximity. Retracting the shadows to avoid wasting too much of his Umbral Cloak’s stored energy, Jake revealed his form once more, the bow gone and replaced by two katars as Jake stood with a leg also slightly raised.
+
+Placing it down to take a step, Jake appeared in front of the Golden Forest King, striking with both weapons at once. The Unique Lifeform erupted with a powerful barrier that sought to push Jake back, but he responded with Pride of the Malefic Viper, dismantling much of the magic attempting to affect him.
+
+Both katars found purchase as the Forest King was also blasted back. After landing his attack, Jake instantly bent forward, dodging the sharp clawed foot of Draskil that had teleported over in a flash of dark green energy.
+
+The Malefic Dragonkin tried to strike again, but Jake responded with a kick of his own, knocking away his opponent’s leg before closing in and landing a punch on Draskil’s chest, sending him flying again, a faint trail of blood left in his wake. Jake had made sure to punch the small arrow hole left by his prior Arcane Powershot.
+
+“Come on, at least attack me properly together if you want me to have fun,” Jake said with a taunting smile. “Or join me for a beer below, recognizing that trying to fight me after you both spent time tiring each other out isn’t the smartest.”
+
+Unsurprisingly, the two of them didn’t take him up on the offer immediately. Pride and arrogance made them at least take a shot at Jake, something that didn’t end well for the two.
+
+Ignoring the fact that the two had negative teamwork, neither was Jake’s opponent, allowing him to handle both at once with relative ease. Draskil was fast and strong, while the King was durable with potent mid-range magic, and if the two knew how to work together to even a basic level, Jake could have found some entertainment in the bout, but as things stood, he was far superior.
+
+Draskil found himself being avoided and beaten back constantly, with Jake often throwing the Malefic Dragonkin in the direction of the King, using him as a half-dragon shield. With space, Jake could easily pull out his bow, showing that he was the superior ranged fighter between himself and the King.
+
+Despite the result of this spar being a foregone conclusion, the two still continued to try for a little longer, allowing Jake to show off in front of his fans. Even if he knew the two didn’t enjoy this being the result, logically, they had all seen it coming a mile away.
+
+Jake had always been stronger than Draskil. Even though they were both pinnacle-level geniuses, Jake was ultimately at a level above even the pinnacle. They had been closer in power back when they did a dungeon together, but since then, the gap had widened as Jake had continued to stack stronger titles and more skill upgrades.
+
+Meanwhile, the King was severely held back by his lower level and the fact that he still hadn’t fully stabilized his powers post-resurrection. Jake believed a Golden Forest King at his own level and at his full potential was someone who could truly give him a run for his money.
+
+The King was also the first to stop trying as he lowered his arms, allowing Jake to pummel Draskil for a little longer before Draskil also gave up, spitting out blood as he looked at Jake.
+
+“Damn, just how much stronger have you gotten?” the Malefic Dragonkin asked.
+
+“Well, I believe the answer is pretty evident,” Jake smiled at Draskil. “I need to keep up my image as the Chosen of the Malefic Viper, right? Wouldn’t want to disappoint our audience, now would we?”
+
+Draskil looked down and saw them all as he scoffed. “Bah, who cares about their opinion? They’re just weaklings relying on the status given to them because their families are kind of strong.”
+
+“Miranda seems to think they’re pretty important,” Jake shrugged. “Though I reckon she also cares more about who they report back to than the sycophants themselves.”
+
+Needless to say, this part of the conversation was not spoken in a way that allowed the audience to listen in.
+
+“Your power has grown… but not insurmountably,” the King said after floating over, changing the topic back to their spar again.
+
+“Nothing is truly insurmountable,” Jake said with confidence.
+
+“True that,” Draskil grinned. “You might have won today, but the true winner is the first to reach Godhood.”
+
+“I would change that to demigod to at least give yourself a chance,” the Unique Lifeform shot back.
+
+“You saying I won’t become a god?” Draskil sneered.
+
+“It’s unlikely for any of us to reach godhood,” the King diplomatically explained before quickly ruining it. “It just happens that out of the three of us, it’s the most unlikely for you.”
+
+Draskil looked at the Unique Lifeform, looking ready to start a fight again, but Jake clapped his hands to get their attention. “Enough fighting of both the physical and verbal variants today. I quite frankly just wanted to quickly pop in before taking my leave back to the Order, so let’s stop delaying me more than we need to.”
+
+“Very well,” the King agreed, seemingly not bothering with Draskil anymore. The Malefic Dragonkin scoffed before nevertheless agreeing, following Jake as the three of them floated down to join Miranda and the Sword Saint, who were still sitting and relaxing.
+
+He had a feeling the Unique Lifeform and Malefic Dragonkin would have their fair share of conflict in the future… oh well, that sounded like a problem for Miranda and the Sword Saint.
+
+Landing on the ground alongside the two troublemakers, Jake continued to actively ignore his fan club gathered at the broken gate as he spoke to Miranda, while still ensuring they could all hear his words.
+
+“I think that’s enough exercise for today. There are still matters in the Order I have to address, so I’ll leave the planet and galaxy in your care during my absence. Same as always, so keep up the good work.”
+
+Miranda, who had asked him to do something like this, smiled as she stood up and bowed. “I’ll continue to carry out the Chosen’s will.”
+
+“Good,” Jake nodded. “Only contact me if you’re unable to deal with matters yourself.”
+
+“I shall strive not to bother the Chosen unnecessarily and will only contact you if it’s an absolute emergency or I find myself forced to request your assistance,” Miranda answered in a dignified tone.
+
+Jake nodded as he glanced towards the Sword Saint and Sylphie. He sent each of them a telepathic goodbye to maintain his image before walking back to the center of the teleportation circle again. Despite the damage caused to the room, the formation platform itself remained intact, as it was, quite literally, built different.
+
+Reaching out to Villy once more, Jake retained his mysterious demeanor all the way through to the end as he was once more taken through the void… and damn, was it good he didn’t have any sycophants waiting on the other end, because Jake did not feel good upon arriving back at the Order.
+
+Once he felt better, it was time to really get his alchemy grind started, as Jake didn’t plan on leaving the Order or even his personal residence before walking out with both his first successful bane poison, a fixed Palate of the Malefic Viper, and an upgraded Meditate skill, worthy of being called of the First Sage’s Legacy.

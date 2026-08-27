@@ -1,0 +1,115 @@
+---
+id: 83550c4c-9466-5543-b97c-f1b1c60c62a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1227 - A Fundamental Evolutionary Difference"
+slug: 0099-chapter-1227-a-fundamental-evolutionary-difference
+partOf: the-primal-hunter
+position: 99
+ownLength: 2691
+unit: words
+ownProgress: 2691
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2917574/chapter-1227-a-fundamental-evolutionary-difference"
+royalRoadId: "2917574"
+markedReadAt: "2026-06-29T19:32:24.044Z"
+---
+
+Jake let out a loud yawn as he finally awoke. Still feeling a little groggy, he sat up in the bed and stretched, the movement not really doing anything as he wasn’t actually sore or anything like that. He just liked how it felt.
+
+Through his sphere, he saw that the house was empty, which disappointed him a little. He’d kind of hoped to wake up to a sleeping Artemis lying beside him, but in her defense, she definitely had better things to do with her avatars than pretend to sleep beside him for however long his recovery would take.
+
+On the topic of recovery, Jake felt he was back in top form. He tried moving his energies and found no issues whatsoever. While the damage his soul had suffered wasn’t even close to how he’d been after breaking Palate, this recovery still felt faster than it had any right to be.
+
+Seeing as he was alone, Jake also couldn’t resist the temptation to actually try out his new Meditate skill real quick. Closing his eyes, Jake instantly appeared in his Soulspace, whereupon he immediately felt the difference.
+
+Raising his hand, Jake felt his control over his Soulspace had grown to an even higher level, allowing him to more easily express his Path and inner thoughts. He also noticed something else as he felt around his Soulspace.
+
+Usually, it was dominated primarily by the sky of arcane energy and the ground of lush plants everywhere he’d created after his training with the First Sage. Visually, it still looked the same, but when he felt for it, he detected the faint presence of more than his arcane affinity filling the area.
+
+There were faint whispers of the wind, and the space seemed more stable. He vaguely got a better feeling for the passing of time, and when he inspected the ground, he found faint traces of the earth affinity there. It was all incredibly minor, and it wasn’t hard to figure out the source as he looked toward the portal close to the book left by the First Sage.
+
+Jake’s exposure to all those concepts during his interaction with the Gate of Enlightenment had given him an incredibly rudimentary understanding of many different concepts, and seeing as concepts related to the elements were some of the most common, it wasn’t surprising that many of the insights he’d gained were related to them.
+
+Now, these concepts had begun to express themselves within his Soulspace in subtle ways. Even combined, they were nothing compared to his arcane affinity, but it was a clear sign of growth and also further made Jake lean into a theory he’d held for a long time.
+
+The Soulspace is definitely related to the Divine Realm of the gods.
+
+He just couldn’t see them not having anything to do with one another, and the more he learned about his Soulspace, the more assured he became. Not that such a realization had much effect now, as Jake still had a long way to go before he should even begin to consider the divine. He’d only just touched upon the sacred, after all.
+
+After his brief inspection of his Soulspace, Jake approached the portal leading to the Gate of Enlightenment. He only hesitated for a moment before stepping through, and upon doing so, he felt his entire mental state switch. Despite knowing that everything in the Soulspace was just representations of Records and that the portal wasn’t actually a portal. Instead, it was just a way to trigger Jake into entering a deeper state of meditation, using his Truesoul as a conduit to make contact with the Gate of Enlightenment. Jake still felt like he was teleported when he walked through, but that was probably also all in his own mind.
+
+At least he found himself standing in front of the massive Gate of Enlightenment in the very next moment. However, rather than find himself standing in the middle of nothingness or a golden road of pages, he instead stood in a gazebo nearly identical to the one in his Soulspace. The only difference was that the table where the tome left by the First Sage usually sat had been removed, making the gazebo entirely barren.
+
+Another minor difference Jake quickly realized was that the gazebo wasn’t just floating there in nothingness. Instead, it was on a small island that seemed to be made out of Jake’s stable arcane mana, and as he looked toward the Gate of Enlightenment, he also felt that the concepts leaking from there were far less noticeable than they were last time.
+
+This honestly made Jake a little worried, but upon walking down the steps of the gazebo and closer to the Gate of Enlightenment, he quickly felt the pressure mounting. It seemed that when he was close to the portal, the concepts were more muted and suppressed, and if he walked only a few dozen steps away from it, he would be fully exposed once more.
+
+Jake also took note that while he was in this state of meditation, he indeed lost connection with his outside body entirely, making him unable to passively feel his aura despite being able to normally while meditating or chilling in his Soulspace… except the moment he thought about being unable to feel his sphere, he also unconsciously tried to feel it, suddenly allowing him to be fully aware of the outside world once more.
+
+Something that proved to be a bad idea, as the mental load of standing in front of the Gate of Enlightenment while perceiving the outside world put a lot of mental pressure on him all at once. He also partly felt himself lose his connection to the Gate of Enlightenment, and in the very next second, he was back standing in front of the portal within his Soulspace.
+
+“So, I can’t do that,” Jake muttered to himself. It seemed that splitting his attention like that wouldn’t work. The stimuli and information from his Sphere of Perception clashed with the metaphysical and nomological nature of understanding concepts, causing Jake to lose the state of mind needed to experience the Gate of Enlightenment.
+
+He wasn’t disappointed, though. In fact, Jake was relieved more than anything. When he first accessed the Gate of Enlightenment, he’d been entirely cut off from the real world, which was the first time Jake remembered that happening. He had been as vulnerable as he could be, and if Jake was being honest, the thought of not being able to detect nearby dangers while meditating made him feel very uncomfortable.
+
+However, it seemed that Jake’s Bloodline-empowered instincts were still active even when Jake was in a state of meditation that cut him off from them. That should also mean that his danger sense was fully active, making meditation a far less precarious activity.
+
+Not that Jake planned on going for long meditation sessions to comprehend concepts while in hostile territory. He also understood why most gods seemed to meditate only on concepts within their Divine Realms. Alright, it was possible they actually needed to be in their Divine Realms, assuming Jake’s theory that Divine Realms were just Soulspaces with a divine flavor was correct, but Jake reckoned that even if they could meditate outside, they would prefer to do it in the safety of their realms.
+
+Pretty satisfied with this discovery, Jake considered going through the portal again to revisit the Gate of Enlightenment, but ultimately stopped himself. While it was certainly tempting to sit down and have a nice little meditation session and learn a bit more about why the wind goes whoosh, Jake had a few things he wanted to do first.
+
+Exiting his state of meditation, Jake decided it was high time to have a conversation with the Malefic Viper about his most recent vision. He had a few questions and definitely also a few points of criticism he would love to bring up.
+
+“Hey Villy, I know you’re watching, but I’m fully healed up now, and seeing as Artemis isn’t around, this seems like a good opportunity for us to have a little chat about my most recent use of Path of the Heretic-Chosen,” Jake reached out to the Primordial.
+
+As expected, he got a response near-instantly as a figure appeared out of thin air, standing in the doorway to the bedroom. “Now, that does sound a bit ominous. Let me guess, I acted in a fashion you find questionable?”
+
+“That’s an understatement,” Jake said as he walked by the Viper toward the living room, motioning for the snake god to follow him. “I guess the name Eye of the Magus rings a bell?”
+
+“Oh, that, yeah, I remember,” the Viper said, looking all nostalgic. “Hard not to, considering my Bloodline and all, but that memory does stand out for sure.”
+
+“No other comments than that?” Jake questioned as he went and sat on the couch he usually sat on when the two of them spoke, the Viper sitting down across from him.
+
+“What do you want me to say, Jake?” the Viper said, tilting his head. “That I regret how I acted back then? Regret fooling a woman into falling in love with me only to exploit her emotions and kill her alongside her father? Because I won’t be doing that. Unlike her, I want to avoid lying to you.”
+
+“I do hope you see how that statement can make it hard for me to trust that it isn’t just a lie also,” Jake said skeptically. He didn’t actually think the Viper was lying to him, but he sure as hell didn’t like the sentiment. “I’m not saying your method didn’t clearly work; I’m just saying that there are certain things that shouldn’t be done.”
+
+“I feel like we’ve had a conversation like this before,” the Viper sighed and shook his head. “There’s simply a fundamental difference between the two of us and how we view certain things. You have a belief that all sapient life holds some kind of inherent value simply by existing. While I know many share a sentiment like that, and I can fully understand why you have it, it’s just not one I share. In my eyes, she had never had value in the first place, and neither did her father or anyone else associated with that auction house besides the few A-grades who posed a potential threat.”
+
+Jake was silent as the Viper continued to speak.
+
+“Humans and most other enlightened beings developed the natural evolutionary trait of having empathy towards those like them. It’s a basic requirement to make working civilizations, and it’s even a trait that many social monsters possess. However, do remember that I’m not like that. I’m a snake by birth, a solitary predator that does not have kinship or partners. As I walked my Path, everyone besides me was either predator or prey. That did get slightly expanded to those I could gain mutual benefits from, as I became a bit more of a social creature purely out of necessity. Truthfully, the only person to ever truly fall outside this definition during my mortal days was the First Sage. So yes, Jake, I understand your innate disgust at my actions, as that is indeed a natural reaction on your part, but to me, I was just acting like the evolved ambush predator I was. The trap had just gotten a bit more complex.”
+
+“Again, by my definition, those are the traits of a psychopath who cares about nothing but themselves,” Jake shot back as he looked at the Viper. “I’m not saying you’re wrong or that your explanation doesn’t make perfect sense, but I am saying that the explanation truly does make it hard to imagine you ever genuinely caring for anyone.”
+
+“Ouch, that’s a bit hurtful… but I’m not going to hold it against you,” the Viper said with a light smile on his lips as he looked down. “Not gonna lie, at that point in my life, the only person I had ever genuinely cared for was the First Sage, and even then, I justified my feelings with the explanation that the First Sage’s death was a massive loss due to all he could teach me. Not because of who he was. I believed then that any such emotions were purely detrimental and a weakness I had to root out. Don't get me wrong, I had times I tried to form relations, but it never ended well, and I adopted the philosophy that everyone was an enemy by default. It was only later on that I realized that denying myself the ability to care was just leading to a far less fulfilling life.”
+
+“Yet you say you don’t have any regrets,” Jake pointed out.
+
+“Which I still don’t,” the Viper shrugged. “All I changed was recognizing that some people were worth caring about. I’m not going to sit here and lie to you by saying that I would care about the vast majority of people in your life, independent of you. I choose to show some level of care only because of their association with you, and because I know that you care.”
+
+The Viper let out another sigh and shook his head. “I feel like we’re just rehashing old conversations at this point, so let me put it straight once and for all. Yes, I was an asshole – more than now – in my mortal days. No, I don’t regret how I acted.”
+
+Jake was silently listening as one question popped into his head.
+
+“Who made you care in the first place?”
+
+“I… wouldn’t say it was one person, but more something that came from personal growth over the years. I got better at reflecting on who I was, who I wanted to be, and how I felt about certain things. I realized that I had indeed truly cared about the First Sage. That I did have some people I considered genuine friends. However, if I had to mention one person who had the biggest impact, it would definitely be my wife. Before her, love was just a word with a dictionary definition, and I didn’t believe it was something I was even capable of feeling. Needless to say, she proved that wrong.”
+
+The Viper had a sad smile as he spoke that last part before falling silent, making it clear that it was still a very sore subject. Seeing him like that, many of Jake’s concerns were also answered. Villy had indeed been an absolute piece of shit back then, and while he wasn’t exactly considered a good person now, he had clearly developed a lot when it came to emotions. Perhaps developed wasn’t the right word, but he’d changed for sure.
+
+Seeing that, Jake also decided to change the topic and move on.
+
+“You mentioned realizing you had some people you considered genuine friends… toward the end of the vision, I saw that other A-grade assisting you. Some guy who you said was from the most powerful faction in the multiverse… well, I guess just the universe back then,” Jake said, rambling a little.
+
+“Ah, him,” the Viper said, definitely more than happy with the change of subject. “Yeah, you having seen him would certainly spawn a lot of questions, so go right ahead.”
+
+“Alright, first question, what race was he from?” Jake asked.
+
+“They were called the Neurotar and were indeed the most powerful race and faction back then,” the Viper answered. “You’ve seen your fair share of science fiction movies, right? How they depict massive civilizations spanning across galaxies created by a race possessing technology beyond understanding? Yeah, that was the Neurotar in a nutshell. Before the system arrived, anyway.”
+
+Jake’s interest was instantly piqued as that sounded damn interesting. “Alright, yeah, I have a lot of questions.”
+
+“Well, lucky for you, because I have a lot of answers,” the Viper answered with a smile. “And alcohol. But afterwards, I also want to ask you some questions. Deal?”
+
+“Deal,” Jake agreed with a nod as he leaned forward. “Now, what the hell happened to them during and immediately following the integration?”

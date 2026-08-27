@@ -1,0 +1,155 @@
+---
+id: 9fb5bc7c-0e5e-54bb-a610-0d6ef5f50108
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1242 - Bee-Grade Preparations"
+slug: 0114-chapter-1242-bee-grade-preparations
+partOf: the-primal-hunter
+position: 114
+ownLength: 2913
+unit: words
+ownProgress: 2913
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2984757/chapter-1242-bee-grade-preparations"
+royalRoadId: "2984757"
+markedReadAt: "2026-06-29T19:34:07.620Z"
+---
+
+Vesperia rose from her slumber, standing up in the pool of thick liquid that seemed to stick to her body. She still felt its energies seeping into her body, but she’d reached saturation for now, reaping few if any benefits.
+
+Walking out of the pool, she released a faint burst of power to clean herself off and look more presentable as she exited the secured chamber. Checking her status menu, she saw this trip to the pool had awarded her eleven levels. A decent amount, especially considering she’d only spent a month in it.
+
+She was truly making her final push to B-grade, now only four levels away. A part of her had hoped to reach peak C-grade so she could at least know her evolution quest, but she knew doing so would have been unrealistic. Besides, she still had things she needed to do before evolving.
+
+“Your progress continues to amaze me,” a familiar voice spoke from ahead of her as her fellow True Royal had teleported in. “I did question whether your trip to Nevermore was truly wise, but seeing the results, I can only capitulate.”
+
+“Thank you. Though Odonestra, should I question why you’re the only one of my sisters ever visiting me?” Vesperia asked the Grand Hive Queen of the Endless Empire.
+
+“Are you unsatisfied with it being only me?” Odonestra asked with a smile. “Because if you weren’t, I’m sure they would all gladly be here shortly. In fact, I’m often asked about you, and they’re very curious about how well you’re improving.”
+
+“I was merely joking,” Vesperia said, shaking her head. While it was true Odonestra was the only Grand Hive Queen visiting her on a regular basis, she still had plenty of interactions with other Hive Queens, including those she commanded from the Vespernat Lineage.
+
+“You should be careful with your jests, lest I take them seriously one day,” Odonestra returned a smile of her own. “But if there was any truth to your concern, then do allow me to fully put it to rest. As gods, our perception of time is certainly warped, and we all believe that you will one day rise in power to stand beside us, at which point, time shall be of no concern to any of us.”
+
+“Quite the vote of confidence,” Vesperia said, though she didn’t disagree. To others, speaking about reaching godhood would be the ramblings of a lunatic, but Vesperia didn’t see it that her. In her eyes, it was simply something she had to do. A responsibility. That, or she would have to leave behind True Royal offspring that could become a god.
+
+In an instance like that, her offspring would inherit many of Vesperia’s memories, the same as she herself had inherited memories of the Vesperia who died many eras ago. They were all connected through their Records and Lineage, so even if this version of Vesperia failed, the next one would succeed. Not that the current version is planned to fail.
+
+“We are all confident in you,” Odonestra said. “But that wasn’t why I came today. You asked me to keep track of any news regarding the Chosen of the Malefic Viper, and while this piece of news is a little outdated, I believe it will bring you much joy to learn. He’s successfully hunted down a True Dragon. A member of the Lumenflight who had recently been excommunicated from the Dragonflight.”
+
+Vesperia raised an eyebrow, though she wasn’t that surprised. “Sire does continue to impress. It adds quite the pressure if I want to keep up with him and remain a useful existence in his life.”
+
+She was fully aware that Jake didn’t actually expect or even necessarily want anything from all his creations, but that didn’t mean Vesperia and all the others didn’t have their own desires to be useful. Vesperia also suspected that some of the Records they’d inherited from Jake had something to do with all of his creations possessing a strong innate desire to progress and gain more power. Then again, most beings from powerful races had an instinctive drive to continually improve, so it could just be that.
+
+“Speaking of useful, we’ve finally begun to have a proper overview of how many Administrator Candidates for the Seat of the Exalted Prima we have in the new universe, and I dare say the Endless Empire is more than well-positioned to be a true contender in the upcoming fight,” Odonestra said, making Vesperia nod.
+
+Many planets had been claimed by the native ectognamorph populations that appeared after the system arrived, as they were often the only monster group with true unity, and the Endless Empire’s aggressive means to locate and bless those of their Lineages had proven an extremely effective strategy.
+
+Also, while most of the Administrator Candidates were initially from the enlightened races, monsters could qualify as well. Many Hive Queens had gained these qualifications, and there were already several galaxies that, after the Prima Guardian event, were more or less entirely ruled by the Endless Empire.
+
+“I take it from your statement that my proposal went through?” Vesperia asked.
+
+“With a bit of pushback, yes, but in the end, it was accepted to move forward with your approach,” Odonestra nodded. “Though details will still need to be negotiated, and we still aren’t confident the Order of the Malefic Viper will accept.”
+
+“Do not negotiate directly with the Order but only with the Malefic One himself. Or at least someone capable of speaking for him,” Vesperia said, shaking her head.
+
+Odonestra frowned. “Circumvent directly approaching the Order? What would that accomplish? Should the Chosen succeed-”
+
+“He will be the one to stake his claim. In a personal capacity,” Vesperia said with certainty. “While he and the Order are linked, do not confuse them as one and the same. The Malefic Viper and my sire are two separate entities working together for mutual benefit, but they do so as equals. That means that should my sire end up claiming the World Wonder, it will belong to him, not the Order. We can expect the Order to still massively benefit due to their connection, but the true ownership should not be confused.”
+
+“If you are certain, then very well,” Odonestra nodded. “Though that does slightly complicate things.”
+
+“I believe trying to keep things simple will be our best approach, and fully defining every detail isn’t paramount yet. As long as we trust them to make us whole, there is no cause for concern… and I trust my sire fully,” Vesperia said.
+
+“Fine,” the other True Royal sighed. “I shall relay your words, and if all goes well, it shall become official.”
+
+“I wish you luck, and I know it’s a lot to put on you,” Vesperia said apologetically.
+
+“Yet I and everyone agree that this approach is likely the best,” Odonestra said, shaking her head. “While I believe the Endless Empire can perform well on its own, ultimately, if we wish to compete for the power of this Exalted Prima, we would find ourselves facing off against your sire. A battle that, even in the unlikely event of our victory, will probably end up harming us more in the long run.”
+
+Vesperia nodded in agreement. To the Endless Empire, maintaining a good relationship with her sire was too important, even if it meant making concessions in the fight for a World Wonder. That’s why Vesperia had proposed that rather than battle for the World Wonder on their own, they would instead ally with her sire and thus also partly with the Order of the Malefic Viper.
+
+A rather unprecedented move by a faction that usually never openly allied with others, but in this rare instance, it appeared the best way to approach the upcoming battle for whatever power could be gained from the Exalted Prima.
+
+While the battle had yet to start, and B-grades of this generation were only now beginning to evolve, planning and strategizing for the upcoming battle for the World Wonder were in full swing throughout the universe, and no faction wanted to enter the fight without adequate preparations.
+
+The giant made of living armor slowly fell, its knees too corroded to support its weight. It still tried to stand, releasing a final burst of energy, but an arrow wrapped in destructive arcane mana struck it in the chest, blowing yet another hole and finally making the damn thing run out of energy, thus spelling its doom.
+
+Jake landed in front of the more than two hundred meters tall monstrosity, letting out a loud sigh. He was only slightly injured, but his resource pools were struggling because of the sheer length of the fight.
+
+This giant living suit of armor had only formed after Jake had slain all the other smaller living suits of armor, at which point they all merged together and formed this final B-grade guardian. It was a relatively unoriginal concept, but at least it made for a short dungeon, as Jake had only spent a week in this one before clearing it.
+
+Checking his notifications, Jake saw that this dungeon boss had only barely made it into B-grade, which wasn’t that surprising. The only thing it really had going for it was its durability.
+
+You have slain [Armored Guardian of the King – lvl 353] – Bonus experience earned for killing an enemy above your level
+
+Still, for a B-grade, it hadn’t been terrible, though it wasn’t any True Dragon, that’s for sure. Dungeon bosses also tended to wield unique properties one couldn’t find in the wild, with the most notorious being their sometimes insane durability. It made the bosses harder for their levels, which also meant more experience.
+
+The very next notifications proved his point, as he’d once more gained a level, bringing this up to six over the last eight dungeons.
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 343 - Stat points allocated, +50 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 344 - Stat points allocated, +45 Free Points
+
+It was a lot of levels, but considering Jake had been grinding dungeons like a madman for a year and a half, it wasn’t that extreme. He also had to admit that Villy had done a banger job selecting the dungeons for him.
+
+None of them had been that gimmicky or lacked combat, with the majority just requiring Jake to kill everything in sight. This also meant all of them had been on the more boring side, especially as they consisted of slaughtering weak C-grades for often weeks before finally facing down the B-grade boss.
+
+Of them all, the best dungeon had been one that consisted of ten bosses, each with only two other peak C-grades alongside them. There hadn’t even been a last boss in that one; the only difference was that when he killed one B-grade, the others would become aware, and the closest one would try to make its way over. Needless to say, Jake was gone before it got there every time. This dungeon alone had provided nearly two on its own levels by Jake’s estimates.
+
+Meanwhile, the worst one had been – to the surprise of absolutely no one – an underwater dungeon. Did Jake suspect the evil snake god had purposefully selected an underwater dungeon to fuck with Jake? No, no, of course not.
+
+He knew Villy had picked an underwater dungeon to fuck with Jake on purpose.
+
+What made it super annoying was that Jake couldn’t even be that angry, as he admittedly did need more practice fighting underwater or just in unfavorable environments in general. He also realized that the Unblemished Arrows skill was damn overpowered in the water, allowing his arrows to fly nearly as well as in the air.
+
+The fight against the giant B-grade octopus-like monster had still been pretty damn hard, but luckily, the thing hadn’t been that resistant to poison, allowing Jake to just flood its system with toxins while bombarding it with arrows from range.
+
+Another positive aspect of all these dungeons was the sheer diversity of environments he experienced. In that sense, it reminded him a lot of Nevermore, probably because Nevermore’s floors were technically also just a collection of connected dungeons with different themes.
+
+Then again, Nevermore floors were so much bigger and felt more like entire worlds rather than dungeons, while the eight dungeons Jake had gone through certainly felt very dungeon-y.
+
+Shaking his head, Jake stopped reflecting and checked the large armored guardian for any loot. Upon inspection, he found an ancient rarity core, and when he completed the dungeon fully, Jake got an epic rarity plate helmet as well as a bunch of ore.
+
+That was something else Jake had noticed. Loot tended to be shit in these dungeons, at least when it came to equipment. From Jake’s understanding, actual equipment and weapons would become far more scarce, and instead, more materials for crafters would appear. In some instances, only crafting materials would drop. A truly sad state of affairs.
+
+Done with this dungeon, Jake left it through a large metal gate, and a second later, he found himself standing outside an identical gate in the middle of an ancient abandoned city. He was at a castle on top of a mountain, and below, the massive city stretched as far as the eye could see, filled with D- and C-grade undead.
+
+If Jake had been lower level, it would have been a cool hunting spot, but alas, with the dungeon cleared, Jake had no reason to stick around. He quickly confirmed that his Pioneer title had indeed progressed before leaving for good.
+
+[Dungeon Pioneer XIV] – Be the first to clear a dungeon suitable for your level. +168 all stats.
+
+With a nod, Jake telepathically reached out to the snake god.
+
+“Done here, though I know you already know,” Jake said, fully aware the god had just been waiting for him.
+
+“At least allow me to act surprised at how fast my dear Chosen managed to clear yet another dungeon! So, what’s your rating of this one?” the snake god asked.
+
+“Eh, a solid eight out of ten, I would say. Simple but effective design, and thematically it was awesome, especially seeing the location of the dungeon. There was a lack of enemy variety, though, and the final boss took a bit too long for my liking, being more of a battle of endurance than anything else,” Jake gave his honest review.
+
+“A fair assessment,” Villy acknowledged. “Seeing as even you found the boss tedious and too durable, I guess other peak C-grade parties may end up finding it downright impossible.”
+
+“Not necessarily,” Jake shook his head. “While the Armored Guardian did take ages to kill, I noticed that it didn’t appear capable of regenerating its resources, at least not at a speed that was readily noticeable. If I’m right, even weaker parties should be able to win using hit-and-run tactics while fully disengaging and recuperating, achieving victory through what would effectively be multiple fights. The dungeon was pretty big, and there were a lot of hiding places, so I could see a tactic like that working.”
+
+“Duly noted,” the Viper said, and Jake actually believed he was noting this down. All the dungeons Jake had been clearing were within the territory of the rapidly expanding Order of the Malefic Viper, and seeing as C-grade dungeons with B-grades were on the rarer side, these were all considered strategic resources.
+
+“Now, enough about that,” Jake said, cracking his neck. “Where to next? I feel like this one was short enough for me not even to need a breather.”
+
+“Gonna bring you back to the Order first,” the Viper said. “Sadly, I can’t personally take you to the next destination, so I’ll have to send you off from here.”
+
+Jake raised an eyebrow as he realized what that meant. “You’re saying...”
+
+“That’s right, the final dungeon I’ve selected is in your very own universe,” the Viper said. “And based on the information I’ve gained from the dungeon architect who checked it out, this may just be the best one yet.”
+
+“Alright,” Jake said with a nod, and shortly after, he was back at the Order of the Malefic Viper. After barely being there for a minute, the snake god teleported to his residence.
+
+“Are you ready to do your final dungeon?” Villy asked as he and Jake walked out onto the lawn where a magic circle had already been drawn by the god.
+
+“I swear, if it’s another underwater dungeon, I’m hitting up Valdemar first thing once I’m out to see if he’s looking for a Chosen,” Jake said, only halfway joking.
+
+“It won’t be,” the Primordial chuckled, though Jake got the feeling he did take the joke at least a little bit seriously. “I will warn you that my information is lacking, though, but I’m sure you’ll figure things out once you get there.”
+
+“Sure, sure,” Jake waved off the god. “Just beam me down, Villy.”
+
+“Alright, alright,” the Primordial said, lifting his hand as the magic circle started to glow with power. “I hope you enjoy it... and I know I’m not the only one.”
+
+Before Jake could ask what Villy meant by that, he was flung through the void as he returned to his own universe once more. No, not just to his universe, but to a rather familiar location with a familiar face already waiting for him...

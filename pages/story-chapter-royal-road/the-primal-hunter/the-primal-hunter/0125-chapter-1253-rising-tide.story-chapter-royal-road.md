@@ -1,0 +1,163 @@
+---
+id: 0a63ca4b-3fb3-53a5-991e-790af667d768
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1253 - Rising Tide"
+slug: 0125-chapter-1253-rising-tide
+partOf: the-primal-hunter
+position: 125
+ownLength: 2947
+unit: words
+ownProgress: 2947
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3036844/chapter-1253-rising-tide"
+royalRoadId: "3036844"
+markedReadAt: "2026-06-29T19:34:28.817Z"
+---
+
+The push to B-grade was the main theme of these times across Earth and in many factions of the multiverse. Those from the new universe were approaching their evolutions, with a rare few having already successfully evolved.
+
+This shared timing wasn’t merely a coincidence or explained away by everyone needing roughly the same amount of time to progress. Instead, it was an expression of Records across the multiverse. A rising tide lifts all boats, and the flood of Records from those evolving to B-grade affected everyone else and helped them evolve as well. These effects were subtle and sometimes seemed unnoticeable, but it was a well-documented phenomenon across the multiverse, and the top factions took advantage.
+
+Another factor was that as some evolved, it motivated others to make the final push as well. The factions, seeing their rivals start to muster a force of newly evolved B-grades, also began pushing for the same thing. Especially in this era, where the stakes were larger than usual.
+
+All factions wanted to contend for the Seat of the Exalted Prima. While there were some favorites who everyone believed had massive advantages, that didn’t stop the major and even minor factions from competing.
+
+No one truly knew how the World Wonder would function. If one could claim a segment of it, a controlling share, or if one person would come to rule it all in the end. Even in the case of only one victor, being in contention left room for negotiation. An opportunity to surrender and, in return, get some kind of influence or usage rights of the World Wonder.
+
+Even in the absolute worst-case scenario where a faction ended up with no control, influence, or anything even vaguely of that vein, taking part in the competition was still worth it for the individuals who competed. There were plenty of Records to reap in events such as these, even for the losers, so the faction that knew they were just taking part to fill in numbers still gladly did so.
+
+As for when the Seat of the Exalted Prima competition would truly restart once more, it remained a question, but the predominant theory was that enough Administrator Candidates had to successfully reach B-grade first. Some also speculated that perhaps just a named few top contenders had to evolve. A list that included the individuals from the new universe who ranked highly in Nevermore... a list that naturally included the one at the top: Jake Thayne.
+
+Someone who was currently having the time of his life and was, according to Minaga, clearing the greatest dungeon in the new universe, one so great that even the World Wonder would appear boring and meaningless in comparison.
+
+A statement Jake perhaps wouldn’t fully agree with.
+
+--
+
+“Okay, we know for sure now he’s being an asshole on purpose, right?” Jake asked while breathing heavily, having just escaped inside yet another construction hole.
+
+“I knew that for sure about twelve Jones Orbs ago,” Casper said, shaking his head. “But hey, I got an upgrade to my movement skill, so I'm not too mad about it.”
+
+“The mere fact you more or less needed an upgrade not to find yourself annihilated by the Jones Orb should tell you something,” Jake muttered.
+
+It had been about ten days since Jake and Casper had killed the first Formation Master, and since then, they’d just gone about the Grand Labyrinth as usual. They killed everything in their path and, using their combined skills, found their way through.
+
+As time went on, they only got faster and were willing to take more risks. They even split up a few times to scout in different directions, using stealth to find the right way faster.
+
+Their increased speed and riskier tactics meant that after only ten days, they had just killed the last Formation Master before going through another teleporter and finding themselves confronted with yet another rolling orb of certain death.
+
+The more of these orbs the two of them encountered, the more certain it became that Minaga had just added them to fuck with Casper and Jake. The damn things had even gotten faster throughout the dungeon, and as Jake said, Casper would have been in trouble at one point if not for a well-timed skill upgrade.
+
+When it came to the other three Formation Masters, the encounters had all been much like the first, though with slightly altered parts. All of them had Elite Guards and a Guard Captain, but the makeup of these guards and captains varied, their weapons were different, and whatnot. That also meant the summoned golems for that phase were different... not that Jake and Casper saw those phases. The Formation Masters were all pretty squishy, and a well-timed use of Event Horizon allowed Jake and Casper to more or less skip an entire part of the encounter.
+
+One other major difference was what happened after they killed the fourth and final Formation Master. The first three had all talked about Jake and Casper being too late, but the last one instead yelled about them having arrived just in time to stop him before he could fully complete his objective.
+
+So, yeah, that entire “on a timer” thing was all smoke and mirrors, just there to introduce artificial urgency. Certainly a prime example of ludonarrative dissonance. Or not, Jake didn’t actually know what that term meant; he just liked to throw it around to sound smart, like so many others.
+
+“Think positively; we’re soon done with the dungeon,” Casper said comfortingly with a smile. “My skills are also telling me the final boss is near, and going by Minaga’s narrative, it must be that shadowy figure who kept leaving messages for his subordinates. On that note, he really should have been stricter about them remembering to destroy those damn envelopes.”
+
+“True,” Jake nodded and let out a sigh of relief. When it came to the final boss, they didn’t know much yet, aside from him being male, as one of the Formation Masters referred to the mysterious final boss as a “he” once.
+
+“You ready to move on, or do you need a few hours to recover?” Jake asked cheekily.
+
+“Hours? With my pathetic meditation skill, I need at least a few days!” Casper shot back.
+
+“Understandable,” Jake nodded, speaking with a serious tone. “Guess I’ll have to clear the rest of the dungeon by myself.”
+
+“If you can find the teleporters, that is,” Casper said, being a little cheeky himself.
+
+“I’ll just bank on there not being any more teleporters,” Jake shrugged. “Or, who knows, maybe if you’re not around, I’ll just randomly stumble into one.”
+
+“Sure, I wouldn’t be surprised if your Bloodline has some hidden luck function boiled into it,” Casper muttered with a defeatist attitude.
+
+“Nah, just overpowered intuition and instincts,” Jake waved him off. “Which, when you think about it, kind of is like a good-luck ability.”
+
+“Talking with you is a fast track to depression,” Casper sighed. “I can’t even lord over you that I have a girlfriend anymore.”
+
+“Hey, don’t be too sad. I admire you two and the undying love you have,” Jake said with a grin. “Get it? Undying love?”
+
+“I should have let that damn orb roll over me,” Casper cursed his existence. “Let’s just go find that boss already and put a bow on this place. Get it?”
+
+“That was bad.”
+
+“I don’t care.”
+
+The two of them started moving without anymore banter, both at impressive speeds as Jake continuously scanned the area ahead to make sure they wouldn’t stumble into any enemies.
+
+Once Jake spotted some, he motioned with his hand, making Casper use his stealth skill as Jake did the same with his Unseen Hunter. Jake wasn’t sure which of them had the best stealth skill, but just the fact that he wasn’t sure was proof that Casper had a pretty damn good one. Unsurprisingly, considering his Path.
+
+When they finally went around a bend in the Grand Labyrinth, they spotted two Aginians walking side by side. They looked different from any of those prior, with one carrying a large rifle and several other guns of different kinds, while the second had a large tower shield and a lance or spear with a nozzle at its end.
+
+Using Identify on them, he confirmed the second one indeed had a lance. And a gun, apparently.
+
+[Aginian Inner Labyrinth Marksman – lvl ???]
+
+[Aginian Inner Labyrinth Gunlancer – lvl ???]
+
+Seeing these and estimating their relative power compared to what they had faced prior, it was clear there had been a step-up in difficulty. All the Formation Masters had been roughly equally powerful, with them growing only one level each time they killed one.
+
+“Are they strong?” Casper asked, knowing that of the two of them, Jake’s ability to estimate the power of foes was second-to-none.
+
+“Define strong,” Jake said with a smile. “Weaker than the Formation Masters, though definitely far sturdier. Overall, though... no, they’re not strong.”
+
+“Great,” Casper said. “I’ll handle the Gunlancer – cool name, by the way; point to Minaga for that one – while you take down the Marksman. Then, when I’ve failed to do any meaningful damage and you’ve killed your opponent, we gang up on the Gunlancer.”
+
+“Sounds totally unethical and effective,” Jake smiled. “Let’s go. I’ll do my opening attack; you get in position.”
+
+Casper nodded as he slipped away toward their enemies, using his boosting skill right away to turn his body ethereal. He phased into the ground and snuck up on them while Jake found a good position up in the air and took aim.
+
+At this point in the dungeon, Jake no longer held anything back for fights. He instantly fully activated Arcane Awakening and nocked a Protean Arrow with Eternal Hunger as the arrowhead as he took aim.
+
+Arcane Powershot channeled while Jake focused on the sensation of the skill as the energies revolved around him and through his body. During these days, Jake had also worked on upgrading other skills, but hadn’t truly pushed for anything yet; instead, he just found himself satisfied with deepening his understanding a little.
+
+The same was true for his deepened understanding of using curses, which had mostly manifested itself in Jake having some ideas for better poisons using his Arcane Curse Manifestation skill. He also had a few ideas for Piercing Fang, but not enough to push for an upgrade there.
+
+Feeling his Arcane Powershot reach the zenith of its power, Jake released his attack. As expected, the Gunlancer and Marksman weren’t ready at all, but they did at least respond well once they noticed the incoming attack.
+
+The Gunlancer desperately tried to move and block the attack, but it was too fast, and he was too slow. Meanwhile, the Marksman started activating some movement skill, but Jake was too quick with Primal Gaze, freezing the B-grade’s body in place.
+
+Right then, the ground also erupted, black chains shooting upwards as a magic circle formed beneath the two of them. The arrow struck the Marksman, who barely still managed to move at the end to angle his body, resulting in only his left side suffering damage as he lost an arm.
+
+Black cursed chains caught the blown-off arm in mid-air and dragged it to the ground alongside the Gunlancer and Marksman, who were also affected. Jake saw Casper slightly lessen the effect on the Marksman, allowing him to escape from the field of chains as he used his remaining hand to point his rifle up toward Jake.
+
+Rather than a bullet, a thin beam of pure energy shot out from the rifle. The attack was powerful enough to get a response from Jake’s danger sense as he dodged it by a hair’s breadth, purposefully minimizing his own movements as he nocked another arrow. Immediately, a second shot came, the Marksman proving himself worthy of the name as he released a barrage of well-aimed attacks, with the follow-ups even trying to predict where Jake would dodge.
+
+Jake released a counterattack, and the Marksman was finally able to activate his boosting skill as his entire body was wrapped in energy, and he warped a dozen meters away without even changing his firing stance.
+
+Elsewhere, the Gunlancer also tried to aim its gunlance toward Jake, but a ghostly Casper shot up from the ground, holding two cursed stakes in his hands, which he promptly slammed into the B-grade’s shoulders before he could react.
+
+The Gunlancer yelled, releasing a shockwave of mana in an attempt to push Casper away, but the Risen was persistent and swept his hand upwards, making the ground erupt with cursed stakes that attempted to penetrate the armor of the Gunlancer. They failed to do so, but they did make the B-grade stumble, allowing Casper to unleash another magic ritual as cursed energy wrapped itself around the Gunlancer, forming an all-black cube around him.
+
+Back in the competition between ranged combatants, Jake slowly got the advantage as he mixed up curved arrows and exploding arrow rains to catch out the Marksman. His opponent also tried different things and even switched to shooting bullets between his beams, most of which exploded with interesting effects, including one that released a cloud of poison gas. Jake thought that one was pretty funny.
+
+The B-grade also had grenades from what Jake could see, but he never got a good chance to use them, as throwing one at Casper would also risk hitting the Gunlancer, and Jake was too far away and had proven himself capable of easily dodging bullets, so grenades didn’t have a chance to do anything.
+
+Casper continued to do a good job isolating and effectively sealing away the Gunlancer as Jake began landing several arrows on the Marksman. Due to the injuries from Jake’s opening attack, the B-grade was already weakened and unable to fully utilize his powers. At least Jake reckoned that if he had both hands, he would have been using the other hand for something, maybe the smaller guns he wielded around his waist.
+
+Unfortunately for the Marksman, he only had one hand, and in a ranged battle, he was simply inferior. It took a bit longer than Jake had expected it to, but in the end, the victor was clear. Jake purposefully took a shot to the chest to ensure he would land a quickly charged Arcane Powershot of his own. This exchange resulted in Jake getting a small hole in his body and the Marksman getting an arrow through his right eye, ending his life as the B-grade fell backwards onto the ground.
+
+You have slain [Aginian Inner Labyrinth Marksman – lvl 372] – Bonus experience earned for killing an enemy above your level
+
+With one enemy down, Jake turned his attention to the Gunlancer. The B-grade had managed to free itself from the cursed seal before, only to find himself wrapped in chains from top to bottom, all of them anchored in empty space. Casper tried to attack using cursed stakes and whatnot, but the armor of the Gunlancer proved itself too durable, meaning all Casper could do was slowly whittle away at his foe with curse and death energy.
+
+However, Jake could see that Casper couldn’t keep this up for much longer, and by his assessment, if the Gunlancer and Risen truly had a one-on-one duel, Jake couldn’t confidently say his friend would win. Not without pulling out a serious trump card.
+
+Of course, with Jake added to the equation, it was a whole other story. Seeing as he had the opportunity, Jake summoned a second Protean Arrow he had begun preparing right after shooting the first one. With ample time as the Risen and Gunlancer fought, Jake fully channeled yet another Arcane Powershot, which he promptly released toward the B-grade.
+
+Realizing this attack was more than capable of doing massive damage, the Gunlancer turned and raised his shield, but Casper and Lyra quickly stepped in to help, the two of them striking the B-grade in the side, making him drop his guard for just a moment.
+
+Jake followed up with a Primal Gaze, allowing his Protean Arrow to slip past the guard of the Gunlancer and into his chest. Fragments of armor were sent flying as the B-grade was blasted back, heavily injured.
+
+While Casper hadn’t done much damage, his curses had weakened the armor and defenses of the Gunlancer, allowing Jake to do more damage than usual. With the Gunlancer injured, Jake expected the rest of the fight to be quick and easy, but surprisingly, it turned out to be a prolonged endeavor as the damn B-grade was far too tanky for his own good.
+
+Naturally, they still got him in the end, but it was a good reminder that in this final stretch of the dungeon, things would be a bit harder than before, no doubt also due to the increased levels of their enemies.
+
+The increased levels and variety of foes weren’t all bad, though.
+
+You have slain [Aginian Inner Labyrinth Gunlancer – lvl 373] – Bonus experience earned for killing an enemy above your level
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 347 - Stat points allocated, +50 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 346 - Stat points allocated, +45 Free Points
+
+Jake had gained another level, meaning he now only had two class levels remaining before he would see his evolution quest. With tougher enemies ahead and a final boss that Minaga was doubtful Jake would even be able to beat... yeah, there was a pretty decent chance Jake would max out his class during this dungeon.

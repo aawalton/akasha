@@ -1,0 +1,183 @@
+---
+id: a267138b-8bad-5f34-b798-858560dd1a40
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8"
+slug: 0008-chapter-8
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 8
+ownLength: 1824
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525588/chapter-8"
+royalRoadId: "2525588"
+---
+
+The birds all turned in unison, their heads and beady red eyes all staring daggers in Tachyon’s direction.
+
+A shiver went up her spine as something felt very off. It wasn’t that these bird monsters were particularly strong. No, that wasn’t it.
+
+It was that they were so uniform and coordinated in their demeanor. Almost like they were all of the same mind.
+
+What’s more was that she had also just gotten a notification that one of the Controlling Stones she had just conquered was lost.
+
+It was much quicker than the first one she had taken. It seemed that the other monsters were becoming more bold or perhaps the tutorial was giving them more incentives to take them?
+
+But now wasn’t the time for her to dwell on the thought. The black birds all began to radiate a dim yellow light.
+
+Tachyon bent at her knees slightly, preparing herself for whatever was coming.
+
+However, she couldn’t have expected what happened next. The flock of birds perched in the trees all at once, over twenty separate instances, all fired a bolt of lighting from their open beaks.
+
+Her eyes widened as she activated her Blood Doping and Leg Strength skills, simultaneously pushing off the ground as twenty lightning strikes all converged on where she was just standing.
+
+Landing on the ground a few feet back, she was forced to jump to the side, another lightning strike coming down like a hammer on her position.
+
+She nickered in displeasure as she activated her After Image skill and Light Magic in tandem.
+
+The lightning magic isn’t that strong individually. But when they use it all at once, all in the same direction, it comes down like a thunderbolt from above! She cursed.
+
+Summoning as many light carrots as she could without turning her head dizzy, she slipped behind a tree out of the line of sight of the black birds. And more importantly the bird perched on the stone pillar.
+
+Thankfully, while under the effects of the temporary concealment of her After Image skill, Tachyon’s magic was also concealed. Allowing her to move for a brief couple seconds to get into position for her next move.
+
+As quickly as she could once she repositioned, Tachyon aimed for the black bird sitting on top the pillar. Activating her charge she surged forward, hoping to take down the monster she thought was the leader.
+
+Unfortunately, the black bird shot upwards and away without even looking in her direction as if it had eyes in the back of its head.
+
+Tachyon’s first attack failed, but her second objective was successful as she closed the gap to the Controlling Stone.
+
+Her legs glowed a faint red as she activated her Leg Strength skill and threw both her hind legs into the pillar.
+
+The flood of conquering messages filled her ears and a small white box was left at the base of the reforming Controlling Stone this time.
+
+Tachyon rushed for the box, opening and touching what was inside.
+
+Hermes’ Off-brand Runners [F-Grade, Uncommon]
+
+Shoes infused with the history of the totally not greek god known as the messenger. These comfy but unfortunately unstylish shoes increase your speed and agility while running by a moderate amount. If they were legit Hermes Brand shoes they would give more speed.
+
++5 to Agility and Stamina
+
+When channeling mana into said shoes they will be infused with said mana’s affinity and sprout temporary wings allowing the user to fly for brief spurts.
+
+Cooldown: 10 Minutes.
+
+Duration: 1 Minute.
+
+As she touched them the description popped up in her peripheral as she felt the items equip to her legs, removing her previous heavy pointed steel hoof covers with light metallic material that came up her cannon to her knees.
+
+Trusting the description she activated another round of light magic, keeping her already summoned batch in case she was in immediate need.
+
+The new group of four light carrots moved and were sucked into the shoes on each of her feet. The transfer of the magic felt extremely hobbled but completed nonetheless.
+
+The black bird in the air had already begun summoning its own magic the same time as Tachyon, its body beginning to glow a light yellow.
+
+Just as she had finished figuring her new shoes out, she saw the surroundings light up as more bolts of lightning flew toward her.
+
+Tachyon pushed off the ground in an attempt to dodge the spells, only to be startled as she saw two pairs of white wings sprout from her new shoes as she did.
+
+One wing of pure white shot out from either side of her, two in front and two in back. She had successfully dodged the bolts of lightning but now she was flailing up in the air, trying to make heads or tails of how to control her body.
+
+Getting angry she felt her hooves grab onto something in the air, as if the magic allowed the mana in the air to suddenly solidify for her to get her footing.
+
+She bayed and nickered in excitement.
+
+“I can fly! Now you're going to get it!”
+
+Digging into the air like she would if she was on the ground, Tachyon charged forward. Her wings flapping as she picked up speed, closing the distance to the black bird in the air.
+
+But the black bird didn’t sit idly in the air waiting to be killed. Its body glowed yellow as it gained in altitude from Tachyon.
+
+The black bird began crackling with electricity, Tachyon barreling closer as she galloped forward on the condensed mana underneath her feet.
+
+A bolt of lightning came from the black bird as well as the others in the surroundings. However Tachyon’s legs were working overtime as she used her Leg Strength skill once again to push off the air below her. Hearing a small crack as if what was below her almost burst to pieces from the force she pressed to it.
+
+Tachyon dodged the bolts of lightning, hopping from side to side more like a cat than a horse. At the same time she released and willed the four last light carrots to shoot forward directly for the black bird.
+
+The first carrot flew true but missed as the bird veered to the side, the second doing the same in the opposite direction. However by the time the second carrot missed, Tachyon had already accounted for it, preemptively placing the third and forth in two separate possible directions the bird could go.
+
+But somehow the bird was still faster than her magic. Slipping passed unscathed to the last pair of magic carrots she had summoned.
+
+The black bird hummed with power once more, glowing yellow.
+
+Tachyon’s legs began glowing a faint red at the same time as both released their skills. The black bird shooting in tandem with the others below and surrounding them, the yellow streak quickly becoming a familiar sight.
+
+She also pushed off the concentrated mana below her hooves while activating her Light Charge. Effectively looking like she jumped over the bolts and then blurred.
+
+Before the bird was able to react this time, Tachyon had already collided with it. Her spiked cuirass slammed into the delicate monster, puncturing it in several places.
+
+Tachyon heard the notifications fill her ears just as her shoes and her Blood Doping skills ran out.
+
+You have killed, Static Swarm Crow Level 12. Experience earned.
+
+Congratulations! Your race level has increased to 15. +4 to AGI, +2 to MAG and STAM, +5 Free Points.
+
+Title Earned: Bat Out of Hell
+
+Bat Out of Hell
+
+After obtaining the ability to fly, you immediately use it to charge down and kill something. Pretty based.
+
++2 to Agility.
+
+New skills available.
+
+And that was when she realized she was still in the air.
+
+Looking down in absolute terror, she saw the ground began to grow closer at a seriously alarming rate. She flailed and bucked on her way down, unable to do anything as she finally straightened out her legs to brace herself.
+
+Colliding into the ground with an audible boom, Tachyon felt a shiver go through her entire body. A moment later folding to the ground under her own weight. She had definitely broken every one of her legs.
+
+And there was a big problem with not being able to move right now.
+
+She was surrounded, weakened, and a majority of her skills were on cooldown. On top of that, with her current vitality. She knew very well from experience, that it would take hours, if not a whole day to fix a broken bone.
+
+Looking up into the big brown sticks with the green feathers, the black birds all looked down at her in unison. But didn’t attack just yet.
+
+Instead of the coordinated movements she had seen before, the black birds seemed confused, as if they had awoken from a trance.
+
+Tachyon didn’t waste any time to take advantage of their pause and dumped every last free point she had into magic. Her magic going from 12 all the way up to 32.
+
+She knew that putting it into vitality may help her recover more quickly. But right now the situation called for more firepower than anything. Tachyon would have to rely on her light magic to get her out of this mess.
+
+Summoning four light carrots at a time, she noticed the expense didn’t even feel like a drop in the bucket compared to before and nickered.
+
+Shaking her head in a near-sneering scoff, she sent off the magic light carrots in every direction. Every instance sinking into a black bird’s chest and a moment later painting the green feathers on top of the brown sticks red.
+
+You have killed, x2 Static Crows Level 8. Experience earned.
+
+You have killed, x2 Static Crows Level 6. Experience earned.
+
+The crows’ heads all turned from gazing at her, to looking at the grotesque scene that had just occurred next to them. A panicked caw went out that would make even a normal murder sound dubious.
+
+They all jumped from their perches in a desperate attempt to flee, however.
+
+“After all that you think I’m going to let you get away?” Tachyon sighed, this time 20 light carrots materialized around her.
+
+“Take your loss like true monsters.”
+
+You have killed, x4 Static Crows Level 7. Experience earned.
+
+You have killed, x2 Static Crows Level 6. Experience earned.
+
+You have killed, x6 Static Crows Level 8. Experience earned.
+
+You have killed, x6 Static Crows Level 3. Experience earned.
+
+…
+
+Light Magic has upgraded from Uncommon to Rare.
+
+Congratulations! Your race level has increased to 16. +4 to AGI, +2 to MAG and STAM, +5 Free Points.
+
+Title Earned: Magic Artillery 1
+
+Magic Artillery 1
+
+Kill over 20 opponents from a stationary position with magic. Wow, that’s some scary stuff.
+
++3 to Magic
+
+New skills available.
+
+Please select from listed skills and skill upgrades.

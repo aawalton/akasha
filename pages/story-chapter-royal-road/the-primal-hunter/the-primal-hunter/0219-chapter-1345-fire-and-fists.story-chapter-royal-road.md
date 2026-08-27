@@ -1,0 +1,121 @@
+---
+id: 04aed3af-f818-542a-8280-9cb7c71cb062
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1345 - Fire & Fists"
+slug: 0219-chapter-1345-fire-and-fists
+partOf: the-primal-hunter
+position: 219
+ownLength: 2801
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3622337/chapter-1345-fire-fists"
+royalRoadId: "3622337"
+---
+
+While the three of them were fighting, everyone else had retreated so as not to get caught up in the battle. While there had been some decent elites among the demon and United Tribes forces, this was simply not the kind of situation they dared to get involved in, as any wayward arrow could lead to serious injury or even death. Plus, even if they tried to help, chances were they would only get in the way of the Behemoth or Archfiend, either becoming hindrances or finding themselves injured by the one they tried to assist.
+
+As for Jake, he found it kind of refreshing to be fighting against two foes at once, with it only being added flavor that they clearly weren’t used to working together, and any teamwork came purely from coincidence or their combined battle senses. Regarding their talent for battle, both definitely seemed decent, and within a few minutes of their small exchange starting, Jake began to notice their combo attacks getting a lot better.
+
+The Behemoth would push Jake towards clusters of flame orbs, and the Archfiend would try to cut off Jake’s path of retreat while making it awkward for him to teleport in certain directions. This made Jake more predictable, allowing the Behemoth to more easily give chase and stay in melee range, thus also making it more difficult for Jake to shoot his bow.
+
+They couldn’t stop him entirely, though, as a constant barrage of arrows was still released, forcing the Archfiend to consistently block and inflicting more and more minor wounds on the Behemoth as his poison slowly started accumulating.
+
+Jake had yet to take any injuries besides getting the hem of his clothes burned a little here and there, and the sheer air and spatial pressure from the Behemoth’s claws sometimes left small marks on his armor, but he hadn’t lost any health points worth mentioning. Even if his own attacks hadn’t done that much thus far, it felt pretty clear that he was coming out on top against the two of them in this first stage, as even if their teamwork improved, Jake also adapted and found more openings to counterattack.
+
+Likely because they realized things weren’t going their way, both retreated slightly, with Jake reading their intent and allowing them to do so as he halted his own aggression.
+
+“Not the Chosen of the Malefic One for nothing,” the Archfiend commented, no longer bothering to infuse his voice with power either, as they were more than close enough to hear one another without, and trying to intimidate clearly wasn’t going to achieve anything.
+
+“You two aren’t too bad either,” Jake acknowledged, pretty confident that if they had been part of the Nevermore Leaderboards competition and had the same level of relative power back then as now, they could have placed quite high. Especially the Behemoth, which he still knew was seriously holding back.
+
+Of course, she wouldn’t have been a Behemoth in C-grade and had the same problems True Dragons had, assuming she had been a juvenile Behemoth back then. While they were strong in C-grade, it was only in B-grade that everything came together, and they could show their true powers. Their Paths before that had simply been to lay the groundwork for when they reached B-grade, and Jake knew that while the Dragonflights didn’t tend to be the strongest force in the Nevermore C-grade Leaderboards, a B-grade system event like this was far more advantageous for them.
+
+“Do you intend to continue this battle? I do believe you’ve proven yourself more than worthy of negotiating with,” the Behemoth said, with the large beast looking down at him as her voice really didn’t fit her form.
+
+“Negotiate how?” Jake asked, tilting his head. “I’m going to be clear: I’m not fully confident that making alliances with both the United Tribes and one of the Hells this early on in the event is a wise idea or even that beneficial to me. Unless you two are asking to be made Vassals?”
+
+Clearly, he didn’t think that to be something these two were in any way interested in. Both were powerful in their own right, and both had likely been given important missions for their factions. Missions that becoming a Vassal of another Territory would most definitely interfere with.
+
+“That is not an acceptable proposal,” the Archfiend said, narrowing his eyes as he placed both his hands behind his back, which Jake noticed he tended to do a lot while using his magic, showing he was ready should the battle restart.
+
+Jake expected the same response from the Behemoth, which was why her actual answer surprised him.
+
+“It’s not impossible,” she said, getting perplexed looks from both Jake and the Archfiend. She definitely noticed their gazes and explained her very reasonable stance.
+
+“Should I fall here, I will be out of the simulation for a month. My Territory Beacon will unquestionably fall during that time, especially knowing the two of you are this close. In other words, death here effectively means elimination from the system event. Plus, based on the Malefic Chosen’s words, he doesn’t currently have any allies, and I also doubt he’s accepted any Vassals, so even if I can return after my month, even with my Beacon destroyed, my only way to remain would be destroying his Beacon. Something I clearly wouldn’t be capable of if he’s proven himself my superior. Considering this, becoming a Vassal is far more acceptable, as while it isn’t ideal, it’s preferable to elimination.”
+
+It was all incredibly logical for a giant clawed beast known primarily for tearing things apart and being unable to perform any magic worth mentioning. The Archfiend also appeared flummoxed for a few seconds, but he certainly wasn’t convinced.
+
+“I would prefer to just not be slain in the first place,” the demon said, still looking ready to restart the battle at any time. He looked at the Behemoth, addressing her directly while talking past Jake. “Which there is a solution to. I’m not confident in facing the Chosen of the Malefic One, but I do believe I could hold my own against a Behemoth if I made use of my Territory defenses. I also don’t believe you consider me a threat to your Beacon. So, isn’t the solution here to get rid of the sole threat against us? With the fall of the Viper’s Chosen, we’ll also have eliminated one of the biggest threats to our two factions in this event.”
+
+So, the demon was outright stating they should try to kill Jake and destroy his Beacon instead. A bold approach, and one Jake fully supported, as he was totally on board with them trying. In fact, he would prefer if they did.
+
+He was also a little curious about the Vassal angle, though. After a moment’s thought, he smiled and looked to the Behemoth. “What are your thoughts on his wonderful proposal?”
+
+“Would it be presumptuous of me to play both sides?” the Behemoth asked, being a bit cheeky. “Should we defeat you, that’s it. Your Beacon will probably fall, and while it would be problematic if you can reenter the event after a month, even with a destroyed Beacon, we would theoretically be able to handle you yet again. Meanwhile, should you defeat us both, you would be more than worthy of making a Vassal of my Territory.”
+
+It really was a presumptuous proposal, where she would get her best-case outcome no matter how the fight ended. Most people would probably take offense at something like that, but Jake found it ideal as his smile only grew.
+
+“So, a battle where if I win, I get the chance to eliminate one large Territory, make the Vassal of another, and I get a decent fight out of it? What’s not to love?” Jake said, having never hidden his love of combat, and he had no desire to start doing so now.
+
+“Then I believe that marks the end of negotiations,” the Archfiend said as he moved his hands from behind his back and raised them toward Jake, both bound in countless layers of magic circles.
+
+These magic circles were mirrored as they appeared around Jake, each shooting out transparent lines of red energy that proceeded to encompass him in a cocoon of demonic energy. At the same time, the Behemoth also made her move, not even taking a fraction of a moment to react to the Archfiend’s attack, making Jake think the two also had a sneaky little telepathic talk. That, or she was just a really fast thinker.
+
+Jake couldn’t teleport, being trapped like this, and instead chose to break free as his body exploded with destructive arcane energy, partly from him activating Arcane Awakening at the offensive 50% as he also punched forward, a katar appearing in his hand as he did so.
+
+The Voidblade Katar cut through the red layer of energy with little resistance, and Jake barely managed to kick off a small mana platform beneath his foot in time as he launched himself forward, out of the way of the Behemoth’s fist.
+
+Behind him, the rest of the energy cocoon was entirely scattered by the powerful blow. A quick follow-up swipe from the large monster followed, forcing Jake to retreat further as he tried to make distance while taking out his bow.
+
+With his boosting still, he was far faster than before, taking both his opponents by surprise as dozens of arrows filled the air within moments. The Archfiend had been weaving another attack, but had to suddenly switch things up as he was under heavy pressure, forcing him to sacrifice several of his flame orbs.
+
+The Behemoth also learned that Jake had upped his offense, as his arrows penetrated deeply into her body through her thick hair and hide before proceeding to explode, creating small fountains of blood as it spurted out. Helped along by the hemotoxin his attacks had been coated in, of course.
+
+Both of them immediately realized that Jake had gotten a lot more serious, and both responded in kind. The Archfiend erupted with flames as tattoo-like symbols appeared all over his body, and a glowing ring with a magic circle in the middle appeared behind his back as his aura grew by several levels.
+
+Compared to the Behemoth, these changes were barely noticeable, though. Because she finally did something Jake had looked forward to seeing, as he observed what was definitely among the strongest boosting skills in the entire multiverse.
+
+Her giant body, which made her look like a small mountain, began to rapidly shrink and condense. At the same time, her aura grew, and Jake even felt his poison being slowed down as her body was strengthened with every passing moment.
+
+It didn’t take long before she was only about three meters tall, a little shorter than even the Archfiend. Seeing this form change, Jake knew exactly what it meant.
+
+A Behemoth’s power was generally tied to its size, and as they leveled up, they would only grow larger and larger. In S-grade, it wasn’t at all odd to see Behemoths dwarfing even planets, though they rarely spent time at such a size. It wasn’t even clear if the Behemoth Jake was currently facing had shown her true size before, but even if she had, she had been a big one for a Behemoth barely in B-grade.
+
+The reason size mattered was due to how their boosting skill worked. Unlike regular Polymorph skills or skills related to size, a Behemoth didn’t lose the many passive benefits one usually got while massive when they shrank. They retained the increase in resources, and the overall increase in power was intended to offset the many weaknesses associated with size.
+
+No, it was wrong to say that they retained it. These aspects were further improved by their boosting skill, as their body grew denser, their muscles stronger, their skin more resilient, and their speed and power surpassed even that of a massive beast, except now in a small frame that didn’t have all the weaknesses of a large one.
+
+Jake watched the Behemoth finish her transformation, her power at a whole new level as she made her move. In an instant, she appeared in front of him, not due to teleportation or any kind of movement skill. Just sheer speed from an overwhelming physique.
+
+What happened next did highlight one downside of a small body, though.
+
+Leaning to the side, Jake slipped by the fist of the Behemoth, feeling space itself shake in its wake, and from this small display alone, Jake knew he wasn’t going to try blocking any of her attacks.
+
+Spinning in the air, she followed up with a second swipe, making Jake retreat back once more, not getting the chance to retaliate as she stuck close, overwhelming him with sheer speed as she attacked continually. Jake dodged and weaved, eventually getting brief chances to launch counterattacks as he tried to cut her with his katar.
+
+Unfortunately for Jake, he found cutting not to be a usable form of attack as her hide was simply too thick for him to slice through, even with the sharper Voidblade Katar. Stabs did work, even if he couldn’t penetrate very deeply, but all he needed was to get through her hide, and the poison would enter her system.
+
+As Jake started being able to counter, he saw the shock on the Behemoth’s face. She was faster than him, stronger than him, and if she just managed to land a single solid blow, she would tear him a new one... but she couldn’t even touch him.
+
+Jake was probably one of the worst opponents she could encounter, as she was incredibly predictable to him, even though she used feints and was clearly a skilled fighter. He even started finding opportunities to turn her strength against her, countering with his katars by stabbing into her arms during her attacks, using the force of her own blows to penetrate deeper and do more damage.
+
+If this were a fight between just the two of them, she would be quite screwed unless she had more cards to pull out. Fortunately for her, she wasn’t alone.
+
+As Jake tried to dodge away, a wall of flames suddenly erupted to his side, blocking off his path. He still barely managed to avoid the Behemoth’s blow, but more flame walls popped up all around him, forcing him to make a tough choice.
+
+Fully surrounded, Jake had to pass through a flame wall, and while he summoned his scales to try to handle the heat, he was still pretty badly burned. What’s more, dozens of flame constructs kept popping up everywhere, and with a chasing Behemoth, dodging everything wasn’t an option anymore.
+
+Can’t stay in offensive mode, Jake thought as he pushed Arcane Awakening further. The destructive boost only increased his offensive stats, meaning he effectively hadn’t been using a boosting skill when diving through the wall of flames. Now he used it at full power, boosting his stats even more, with the defensive ones jumping from unboosted to a 60% increase.
+
+Alongside the passive barrier from Arcane Awakening, Jake was confident enough to dive through several flame walls as he tried to create some distance between himself and the Behemoth. The Archfiend stepped up his game, though, as suddenly Jake felt an intense pressure fall upon him.
+
+Red glowing runes appeared all across his body, pulsing with energy as Jake felt their slight sealing effect. Despite just pushing his boosting skill further, Jake didn’t feel an increase in power as the demon’s magic weakened him, making Jake click his tongue.
+
+He tried to dispel the effect as he erupted with destructive arcane energy, and he immediately felt several runes break and his speed pick back up... but mere moments later, the runes were back, having been reapplied.
+
+Not a curse, some kind of channeled magic?
+
+Through his sphere, he saw that the Archfiend was already preparing some other magic himself, meaning he wasn’t the one maintaining these runes. At least not actively. Jake tried tracing the source, but the Behemoth’s pursuit made it a stressful endeavor.
+
+Right then, the Archfiend unleashed more magic as Jake suddenly felt his entire body freeze up, and at the worst timing possible. He exploded with energy one final time, filling the sky with dark mana to try to obscure what he was doing, but the Behemoth barreled straight into it, and all Jake could do was watch as a fist connected with his stomach. It broke through his passive barrier and scales before piercing all the way through and out the other side as blood was spilled and a serious injury was inflicted... In two places at the same time.

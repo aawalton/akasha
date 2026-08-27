@@ -1,0 +1,149 @@
+---
+id: 52a0e4a6-4afb-52a5-8963-73f3e3ffbcc9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1235 - Dragon Hunter (4)"
+slug: 0107-chapter-1235-dragon-hunter-4
+partOf: the-primal-hunter
+position: 107
+ownLength: 2768
+unit: words
+ownProgress: 2768
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2949085/chapter-1235-dragon-hunter-4"
+royalRoadId: "2949085"
+markedReadAt: "2026-06-29T19:32:39.575Z"
+---
+
+If Jake had faced Yrelstromoz without Dragonsbane Poison, he would have been far less confident in his victory. Not necessarily because he believed she was more powerful than him, but because he doubted his ability to outlast a True Dragon with an insane mana pool and the ability to heal herself.
+
+Getting enough toxins into his opponent’s system had taken a bit longer than he’d hoped for, but now that it kicked into effect, Jake instantly felt it, and from the looks of it, so did Yrelstromoz.
+
+Her healing magic did work to mend her claw, but it now came with consequences as the Dragonsbane was stimulated by her heavy use of mana and dealt damage proportional to the magic she used.
+
+Jake watched Yrelstromoz’s eyes open wide as she stared at him in confusion.
+
+“What have you- “
+
+She didn’t even have time to finish the thought as Jake wasn’t going to waste an opportunity like this. He launched a quick Arcane Powershot, inflicting even more damage as the dragon was sent flying back from the impact. Several more arrows followed his first one, with two more striking as Yrelstromoz was still trying to figure out what was happening to her, but eventually she mustered a response.
+
+Powerful barriers of light appeared, blocking both arrows… and once more dealt damage to her as the Dragonsbane Poison was stimulated. This caused Yrelstromoz to hesitate, summoning more barriers as she tried to fly away, but Jake’s arrows curved and followed, striking her in the wings, tearing through the webbing easily due to the lack of scales.
+
+Through Sense of the Malefic Viper, Jake felt Yrelstromoz try to figure out what kind of toxin she’d been inflicted with, a task that wouldn’t prove easy. While Jake hadn’t purposefully tried to hide the properties of the poison, it was still of epic rarity and thus possessed high-tier concepts and energies, making it difficult to see through.
+
+This split focus on identifying the poison proved counterintuitive, as it allowed Jake to land even more arrows, thereby increasing the dose. Yrelstromoz was unfocused and even seemed to panic a little as she encountered a situation she didn’t quite grasp.
+
+Her lack of experience in real combat was truly showing. Jake doubted she’d ever truly been pushed in a fight, at least not since reaching B-grade. Even if she had been pushed, Jake reckoned there was a good chance it had been in safe sparring matches where death wasn’t on the table. Something very different from her current predicament, as Jake very much aimed to slay her. A fact she somehow only now seemed to be grasping fully.
+
+Pushing his advantage, Jake already began to set up for the finishing blow now, knowing it was best to be prepared. Within his quiver, he was weaving together a powerful Protean Arrow, where he planned for Eternal Hunger to serve as the arrowhead when the time came.
+
+Perhaps already preparing for the kill now seemed premature, but based on Yrelstromoz’s mental state and total lack of proper responses to Jake’s constant bombardment of arrows, this fight would end far sooner than he’d first thought possible.
+
+Yrelstromoz struggled in vain as she tried to dodge and swipe away arrows, her healing magic targeting the Dragonsbane but finding itself unable to do much. Dragonsbane Poison was naturally resistant to a dragon’s attempt to cleanse itself of it, and Jake’s variant even meant that using mana to get rid of it meant she was hurting rather than helping herself. If she had truly understood the poison or been a more talented healer, it would have been a different story. Evidently, Yrelstromoz was neither.
+
+Jake landed dozens of arrows one after another, all of them coated with even more Dragonsbane as the two of them moved across the surface of the planet. The dragon tried to get away, even using her movement skill occasionally, something he felt didn’t even have a high mana cost, yet Yrelstromoz hesitated. That’s when Jake realized something else.
+
+She wasn’t just avoiding using her magic because of the damage it would do. While the damage was noticeable, it wasn’t at a level where she would suddenly kill herself if she used magic like normal. It was just another source of damage from Jake that made healing herself inefficient. Yet Yrelstromoz barely used any magic, and Jake believed the explanation was found with something he hadn’t even considered a factor:
+
+Pain.
+
+Someone like Jake didn’t find himself affected by pain. He felt it, sure, and he wasn’t particularly a fan of it, but it wasn’t going to stop or even slow him down. The same was true for all other geniuses Jake usually fought with. Most monsters who’d grown up and reached their current station through constant combat were no strangers to the sensation and had long become desensitized.
+
+Yrelstromoz was another case entirely. She was like a flower grown in a greenhouse, having never experienced the harsh reality of nature. Now that she suddenly felt herself confronted with it, her response was less than ideal.
+
+In her defense, the pain from something like Dragonsbane Poison was on a whole other level compared to regular wounds. It was the kind of poison that tore through both body and soul, causing immense anguish, and Jake could totally understand why her initial response was to stop doing the thing that caused her pain. However, it was clearly the wrong choice and only pushed her further towards death.
+
+Jake found it a little disappointing and hoped she had more to show him. However, with the way things were going and her increasing level of panic, he was starting to question if his first dragon hunt would really end this anticlimactically.
+
+“She’s truly the bottom of the barrel… or at least close to it,” the Primordial of Karma sighed, shaking his head as he watched the recording – one that was only a few seconds behind the live feed to avoid Jake noticing another observer.
+
+“Oh, for sure,” the Viper nodded in full agreement. “She has the stats, body, and skills of a dragon, but not the mind of one. True Dragons are dangerous not only due to their innate power, but because of their incredible ability to utilize that power. This only becomes truer when they’re focused on magic like her.”
+
+“It certainly appears she’s a weakling among the strong,” Eversmile agreed.
+
+“However…” Vilas began.
+
+“She’s still a True Dragon,” Eversmile finished his sentence and smiled.
+
+“Indeed, she is,” the snake god said, knowing there was no way she would fall this easily. Her heritage and Lineage simply wouldn’t allow her to.
+
+--
+
+The arrows just kept coming. Yrelstromoz tried to fend them off, but no matter what she tried, she just couldn’t. They didn’t do a lot of damage, but each of them inflicted more of that horrible poison that seemed to have invaded everywhere. She tried to get rid of the poison, but it didn’t work, and all she did was cause more debilitating pain, making her hesitate.
+
+Yrelstromoz had easily handled all the other poisons the Chosen of the Malefic Viper inflicted on her, but this one was different. It was incredibly powerful, and no matter how she approached it, all she received was more pain.
+
+She knew that this couldn’t continue, but she wasn’t sure what to do. Her mind was spinning as she got hit by arrow after arrow, with no good options coming to mind. Any response she made would only result in more pain. A pain unlike anything she’d ever felt before, and while the arrows did also hurt, it was nothing compared to when she made the poison flare up.
+
+At least it didn’t seem to do much when she wasn’t actively using mana, and when she used very cheap spells or skills, the pain was manageable, but she still wanted to avoid it if at all possible.
+
+All she could do was run, hoping the human would stop chasing her and give up. His boosting skill was incredibly powerful, which should also mean it had a limited duration or serious backlash once dispelled, so maybe if she just kept running long enough, he would be forced to also retreat.
+
+However, as time passed, and she continued to flee, the human never let up. In fact, he only seemed to be growing in momentum, every arrow hurting a little more than the one before.
+
+That’s when a thought struck Yrelstromoz… one that she hadn’t even considered a possible reality before now.
+
+I could lose.
+
+Losing to a C-grade seemed impossible. Like a fantasy that would never materialize. The gap between the grades was too big, and her innate resistance should mean she would outlast anything a C-grade could throw at her before running out of resources. Yet that didn’t seem to be the case now. Yrelstromoz was losing… and if she was losing…
+
+I could die.
+
+Death… a concept Yrelstromoz had resigned herself to, but only at the hands of time itself. She had an entire life ahead of her. It hadn’t been that long since she had become a B-grade, so Yrelstromoz should have so many years left of her lifespan. So many years of enjoying life and reveling in freedom from her Dragonflight and anyone else that dared intrude on her life.
+
+Yet now, the realization that such a future wouldn’t happen began to creep into her mind. She realized that this wasn’t just a C-grade trying to bite off more than he could chew. Realized that she was actually being preyed upon by a hunter capable of actually slaying a True Dragon.
+
+Yrelstromoz panicked even more internally. She didn’t want to experience this pain; she didn’t want to fight this human, but more than anything, she didn’t want to die. She wanted to live… and the only way to make that possible was to slay the human who was trying to take her life.
+
+When she realized this, her mind calmed. The pain faded. Yrelstromoz felt her heartbeat slow down, and from deep within herself, something truly ancient surfaced. Primeval knowledge, instincts she’d long abandoned, the memories of training given to mold her into someone worthy of being called a True Dragon.
+
+As this calmness spread throughout her body, so did her senses spread outwards. Yrelstromoz instinctively acknowledged the human as a legitimate threat to her life and now knew that it was kill or be killed. Facing such a reality, something as trivial as pain no longer even entered her mind, as for the first time in Yrelstromoz’s life, she would truly fight, putting everything on the line to prove her very existence as a True Dragon.
+
+Jake felt the shift immediately. It was as if a switch had suddenly been flipped, and Yrelstromoz’s entire demeanor changed. She went from cowardly running away while pathetically trying to swipe away his arrows to suddenly stopping entirely.
+
+Three arrows were already in flight as she stopped, but none of them would ever get the chance to hit.
+
+Yrelstromoz’s eyes had an odd gleam as her body was enveloped with energy, and she let out a deafening roar infused with power. The resulting shockwave knocked away all of Jake’s arrows and made the ground erupt as rock was sent flying into the air.
+
+Jake summoned a barrier to block the shockwave, but still found himself pushed back momentarily. With caution, he watched as Yrelstromoz spread her wings wide while roaring, her scales glowing with light as sparks reminiscent of electricity jumped between her body parts and even into the surrounding air.
+
+With Sense of the Malefic Viper, Jake felt the toxins within her energy activate, and his Dragonsbane was stimulated, but the True Dragon no longer seemed to let the pain affect her.
+
+Lowering her wings and stopping her roar, Jake’s eyes met Yrelstromoz’s, and at that moment, he knew what he was looking at was no longer the same arrogant and cowardly dragon he’d seen as a disappointment only a few seconds ago.
+
+He could sense a palpable shift in the atmosphere, as if the very air had thickened with ancient power. The oppressive aura of a True Dragon embracing something that seemed to come from deep within was unlike anything Jake had ever encountered. His instincts screamed at him to move with utmost caution; gone was the hesitant prey, replaced by a predator radiating pure, unrestrained might.
+
+“Rise.”
+
+A single word echoed out from the True Dragon, and as she spoke, the world responded. The ground that was also torn up by her roar shot into the air and toward Jake, obscuring his vision and taking him by surprise.
+
+In the very next moment, the rising earth was cut in two as a thin beam of condensed light cut through it. Jake had barely managed to bend backward as it passed, only able to watch it sweep by right in front of his nose. Even then, he felt the rush of heat on his face, and all the rock around him cut perfectly.
+
+The beam had come from an orb condensed between Yrelstromoz’s horns, and before she had a chance to fire it again, Jake unleashed Pride once more and pushed away all the surrounding rock.
+
+“Implode.”
+
+The mountain-sized mass of rock around him was instantly forced back towards Jake as if his body had become a black hole sucking them in. Focusing on Pride, Jake also uttered a word of his own to resist.
+
+“Disperse!”
+
+His Pride of the Malefic Viper-charged Words of Power sought to push away the stone seeking to crush and immobilize Jake, but all he managed to do was slow down their approach slightly, allowing Jake to shoot out a beam of destructive arcane energy to carve himself a path out of the massive sea of rocks.
+
+Having experienced this failure, Jake was now sure what she was doing.
+
+It was another famous ability of True Dragons that Jake hadn’t even been sure Yrelstromoz was capable of. She was using Words of Power, amplified by a potent skill known as Draconic Language that he knew many True Dragons had, though it wasn’t actually all of them. It was said to require a powerful mind and will to use the Draconic Language skill, so for Yrelstromoz to be capable of displaying it with such might… something in her mentality had definitely shifted.
+
+One other thing was also certain: she was no longer apprehensive about using magic.
+
+After dodging out of the impending tomb of stone, Jake had to dodge another cutting laser he felt would be a terrible thing to get hit by. Returning fire, Jake released several arrows that curved in unpredictable patterns, forcing Yrelstromoz to block them with barriers of her own.
+
+He also saw now that she had started healing some of her wounds, primarily the ones that led to gaps in her scales, something Jake had gladly taken advantage of before she had her mental awakening.
+
+The entire battle had shifted in an instant, but some things hadn’t changed. Yrelstromoz had still taken noticeable damage, but perhaps most importantly, she had a lot of Dragonsbane Poison in her system. Too much for her to feasibly cure herself of.
+
+Jake knew it, and from the looks of it, so did she. They also both knew that without liberal usage of mana, which would result in the Mana Allergy effect, she didn’t stand a chance. Her only choice was to simply soldier through the damage and hope her magic would do more to Jake than she did to herself.
+
+As for actually getting rid of the poison, Jake believed they had both reached the same conclusion once again. While she couldn’t heal it away, one surefire way to weaken the poison was to kill the person who had inflicted it. With his death, she would also be allowed to enter meditation and allow the poison to go away on its own over time.
+
+Their thoughts aligned, Jake met the eyes of Yrelstromoz again. Their common conclusion was clear: she would have to kill Jake before the Dragonsbane killed her, while Jake had to do everything to hasten her death before he found himself overwhelmed by her magic.
+
+A scenario that seemed to favor Jake significantly… but as he felt the mana for thousands of kilometers in all directions resonate with the True Dragon’s authority over magic, and watched the sky be filled with a hundred thousand glowing orbs of light, it quickly became clear this most certainly wouldn’t be an easy task.

@@ -1,0 +1,159 @@
+---
+id: f88d3b67-37d9-5242-84a0-4bb0135377e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16"
+slug: 0016-chapter-16
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 16
+ownLength: 1893
+unit: words
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2557035/chapter-16"
+royalRoadId: "2557035"
+---
+
+Miliander sighed as he flipped through the screens of the tutorial. Nearly bored to death of watching monsters play among themselves.
+
+“I did not expect the seasoning period to be so dull… The F-Ranks have all found the stones and are just sitting around. That annoyingly boring hawk is just watching from above and killing anything that comes close to the peak. There is a lot of killing, but it’s so… uninteresting. I do hope the participants will be able to be a bit more entertaining…”
+
+“Don’t we both,” said a voice that sounded like soft waves on his ears.
+
+“Ariel, I do wish you would let me know when you stopped by for a visit,” Miliander smiled. “How long has it been? A few hundred years?”
+
+“At least. We haven’t seen one another since the 199th Era, if you can consider that boring mixer the old ones put together.”
+
+Miliander snapped his fingers like he finally recalled a fleeting thought.
+
+“That is right! I do not remember it being quite that boring? Did we not lose a few colleagues who got together?”
+
+“Only the weak ones. That is why I called it boring, Mili…” Ariel scoffed.
+
+Miliander shrugged, turning his head to finally meet his guest. Ariel was a slender woman, with green hair like the ocean deep, pale white skin that looked as if it had not been kissed by the sun for even a moment. And deep black eyes with white pupils that stared passed your soul.
+
+“Lovely dress, are you wearing it for me?” he said, admiring the spectacular green one piece.
+
+“Don’t flatter yourself. I have a date with a leviathan later today,” she replied playfully.
+
+“Pity.”
+
+Ariel waved a finger, “Not all bad news, Mili. I did come to say, a few of the old grumpies have taken an interest in the 201st Era tutorials. Something about the Eras coming more frequently than before.”
+
+Miliander tapped a finger to his chin. It was true that it was only a hundred years between the 200th and the 201st Era, whereas the earlier Eras had long stretches of time, some reaching millennia.
+
+Some suspected it was because the system and the universe could only hold so much mana at once. Others believed that the expansion of the multiverse was simply growing at an exponential rate, which meant the Eras would continue to come more and more quickly. Unfortunately for all those pencil pushers, no one knew for sure. The system was a bitch like that.
+
+“Do you know who specifically?” Miliander asked.
+
+“Several of the more troublesome —I mean exquisite 1st Era Gods— you know the ones,” Ariel leaned in close, “I have heard whispers the Eternal Wind is moving as well. Isn’t that exciting!?”
+
+Miliander felt a shiver go down his spine.
+
+“Oh joy…”
+
+—
+
+Tachyon knelt down, feeling her legs slightly give out underneath her. Her body felt weary and unpleasant. Not only because of the expenditure of skills and status, but the fact that her body was covered from head to toe in, well, troglodytes.
+
+Once again, she lamented having to use her full body to deal with them and also simply not having water magic to clean herself off. She seared into her soul that if she ever had the option of learning other forms of magic she would highly consider them.
+
+The fight had taken her skills to the brink of what was possible for her and her exhaustion could attest to that. Forced to think of ways she could adapt to the situation allowed her skills to evolve.
+
+Unstoppable Force Meets Movable Object - Legendary
+
+This skill allows one to build and store momentum permanently. Allowing one to either unleash said momentum in a forceful display of power, or store it, allowing them to move at speeds before impossible while increasing their tenacity and strength by several folds depending on amount of momentum stored. While accumulating momentum, they will be able to traverse land at great speed while also being unimpeded by anything in their path. Whether that be trees, rocks, mountains, monsters, people, or otherwise.
+
+Costs a small amount of mana and stamina.
+
+Storage Duration: Indefinite.
+
+Cooldown: None.
+
+Speed, Power, and Durability scale off Agility, Resistance, Strength, and Magic.
+
+Bonus of +20 to AGI, MAG, STR,and RES.
+
+Growth bonus of +5 Free Points per level.
+
+Tachyon was impressed by the description and the changes to it. The skill she had only just recently gotten had taken several of her other skills and increased their effectiveness by leaps and bounds. It also now had flat bonuses to her stats as well as a per level free point bonus, which she had never heard of.
+
+And that was not all. The new title she had gained was also something seemingly out of this world.
+
+Skills of Legend
+
+Obtain a legendary skill.
+
++5 Free Points per level.
+
+The description of the title was simple but the implications of both the new skill and this title were massive. Tachyon from the bonus alone had essentially leveled up five times. Adding in the free point bonuses to each new level, she was gaining two levels worth of free points.
+
+Fifteen free points per level was something that would set her apart quickly from other monsters and beings at her same level. But a thought quickly set in as she sat and looked at the descriptions.
+
+If I have this, I wonder what others have as well? It was not particularly easy to obtain but certainly not impossible to replicate such a feat. I suppose I should be wary of others who seem peculiar…
+
+She would have to keep in mind that others could have strength well beyond their level. Even as a foal, she had heard the humans tell stories of certain people who broke their standard conventions by inconceivable amounts, borderline even breaking the system if they were to be believed.
+
+Then there was her mother and her stories of beasts that had ascended to godhood, becoming so strong that they could not be rivaled. However, those were stories. If there were such beings, why would she not hear of them more often?
+
+Tachyon brushed the thoughts away, she had more pressing matters, being within a cave filled with troglodytes and even more importantly, a broken skillet.
+
+She looked down, pulling the object that was the architect of her last victory with her mana thread in front of her. It was in a sorry state to say the least.
+
+The bottom of the pan was pushed outward, cracking and splitting from where Tachyon had pressed all four of her hooves to use as a foothold mid-air. But frankly, she was also impressed.
+
+She knew well that even before F-Rank, she was able to break normal wood and even bend metal. Now that she was closing in on her second evolution well past F-Rank, she was confident she could crush any regular steel as if crushing a bug.
+
+“Mana steel is quite impressive…” she thought aloud.
+
+But she was confused. Before, when she had used the pan to kill the fly-like monsters, after a short period of time it repaired itself, even cleaning the blood from it. Now, however, it remained bent and dirtied, with no signs of repairing.
+
+Then a thought crossed her mind.
+
+Is it out of mana for the enchantment?
+
+Tachyon began her usual trial and error, trying to infuse mana into the skillet through her thread. When that didn’t work she had the amazingly spectacular idea to try with her light magic.
+
+Unfortunately, that only resulted in her putting a much larger hole into the center of the skillet.
+
+Then she touched the skillet to her nose. It seemed that physical touch was required.
+
+She felt the familiar pull of mana being consumed and taken, watching as the pan repaired itself before her eyes.
+
+Tachyon gave a pleased nicker as her eyes smiled.
+
+“Neat!” she giggled.
+
+Happy that the skillet was now repaired, instead of putting it away, she kept it hovering by a mana thread near her hind legs. There was no telling when she may need it again to attempt the same maneuver in this cave system.
+
+She looked out into the moss-illuminated cave, still filled with troglodytes that somehow remained oblivious to her. Even after she had killed a handful of them.
+
+The fact that they had not swarmed her down the passage puzzled her. Any normal person or monster would have been easily alerted by her presence and the sound she made. It was not as if she were trying to be stealthy. However, the groups were still firmly in place where she had seen them last, as if almost compelled to stay put.
+
+Tachyon began looking more closely, noticing quickly that each small group consisted of five in total. And the large cave had a handful of openings, but nothing that looked or resembled the Controlling Stone she knew of.
+
+There was only one option available to her, and that was to make her way through the cave to find the Controlling Stone.
+
+Well, technically, she could always go back out the way she came and say hi to Ted and Ned. But that would be giving up on exactly what she wanted, and we certainly don’t do that here.
+
+No, here we pushed forward, killing hundreds and hundreds of monsters so that we could claim a large stone for extra stats and experience.
+
+Jokes aside. It was a very serious reality for Tachyon. Regardless if she actually wanted to fight these monsters, the truth of the matter was that the fight in the passage was a wake up call to how quickly she could die if she did not improve.
+
+It was not only that, but the reminder that she had the remainder of the seasoning period before she would be faced with things worse than monsters.
+
+Humans.
+
+There was nothing more insatiable than humans in the multiverse. They would crave and greed for power, wealth, and strength just as much as any monster. The problem was that humans would take it a step further.
+
+Many of them acted irrationally for an end goal that made no sense to her. Not that she even wanted to understand.
+
+The crux of the problem was that she needed to push herself as far as she could before they came to the tutorial.
+
+Seeing the levels of Ned and Ted, as well as the other troglodytes in the cave. She was sure she could reach her next evolution. But there was something further past that. The eyes she always felt on the back of her head, watching her always.
+
+She had no way to know for sure, but her gut told her it was something stronger than anything she had met so far. And that meant that if she could beat it, she might be able to push past into E-Rank and another evolution.
+
+Getting up, her exhaustion for the most part gone. She looked at the groups of monsters with new eyes and inspiration.
+
+“Let’s get this over with. I’m running low on apples.”
+
+Tachyon grunted as she stepped forward, a light jog turning into a lengthy stride. And finally becoming a thunderous gallop as she charged into the first pack of monsters, light magic firing in every direction.

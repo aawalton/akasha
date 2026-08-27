@@ -1,0 +1,193 @@
+---
+id: 7b285ea5-05fa-59e3-8089-8953f8b3fca0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1215 - Light"
+slug: 0087-chapter-1215-light
+partOf: the-primal-hunter
+position: 87
+ownLength: 3052
+unit: words
+ownProgress: 3052
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2830118/chapter-1215-light"
+royalRoadId: "2830118"
+markedReadAt: "2026-06-29T19:32:01.245Z"
+---
+
+Lillian didn’t even move as the spear pierced toward her chest. It penetrated straight through, but found no flesh and blood. Instead, it merely faded into her body, only to erupt with the light of the moon a second later.
+
+The high-tier C-grade dungeon boss recoiled from the attack as Lillian floated away like a ghost, reappearing a few dozen meters away. Magic circles appeared around her as beams of lucenti light shot toward the boss.
+
+It unleashed a screech that dispelled her magic, but before it even had a chance to move, her party member struck. Phillip, the former head of the Fort before Jake claimed it, swept in from the side and struck the boss with a massive hammer of pure mana.
+
+An explosion rocked the large cavern, sending the bipedal beast flying into a wall and scattering shards of rock everywhere. Seeing that Phillip had fully caught up after being occupied by the monsters that had accompanied the boss – a few dozen high-tier C-grade wolf monsters – Lillian took the chance to prepare a ritual spell.
+
+While Lillian didn’t see her primary role in life as a combatant, she still hadn’t neglected her combat skills. This was perhaps in part due to the class Jake had given her, allowing Lillian to become a Lucenti Mage.
+
+She knew that to Jake, giving her that tome was a casual decision he had made with little thought behind it, but to Lillian, it was an important gesture. What’s more, she found that the class suited her well. Compared to many other casters, lucenti mages were worse off when it came to offensive spells, but their defenses tended to be far greater. Moreover, unlike a barrier mage, who focused on resilience, Lillian instead invested in elusiveness, making her difficult to pin down in a fight.
+
+Which is not to say she lacked offensive might; it just wasn’t something she could deal out on demand… because another aspect of lucenti magic was the communion with the power of moonlight and the rituals pertaining to such.
+
+The lucenti school of magic was essentially moonlight magic. It had deep roots in mysticism and relied heavily on conceptual power rather than pure mana or spell-casting prowess. This also meant that the level of comprehension required to learn its rituals and improve as a lucenti mage was difficult, but luckily for Lillian, she had always been considered a smart woman, and what she didn’t have in smarts she made up for with hard work.
+
+She prepared her ritual as Phillip battled the boss using his own magic. The middle-aged man had effectively retired by the time he reached peak E-grade, but the Trial of Myriad Paths system event had entirely changed his life.
+
+After that event, Phillip was no longer the former leader of the Fort, but just a man walking his own Path. His class and profession had both changed, turning him into a mage focusing on alteration magic with a profession focused on enchanting. He combined both of these in combat as he focused on enhancing one thing more than anything else: himself.
+
+Mana burned through his body as he attacked with the large hammer of mana, but the boss had managed to stabilize after initially being taken by surprise. It blocked his hammer with one clawed hand as it struck with the other, seeking to rip out the man’s throat.
+
+However, sadly for it, the battle mage was not that easily taken out. As the claws approached his neck, they encountered a translucent set of mana armor, making them scrape across it with little effect, only succeeding in leaving marks that were rapidly mended with just a bit of mana. This granted Phillip another opening as he let go of his hammer and empowered his fist with mana as he punched the beast, sending it smashing back into the same cave wall as before.
+
+Phillip tried to follow up, but the dungeon boss proved itself to be more than a mere punching bag. It suddenly exploded with power and dodged his attack before swiping at the alteration mage again, this blow far more powerful than the prior.
+
+His armor was torn through, and the attack even managed to tear up his flesh despite the many spells Phillip had cast on his body to increase durability. Before he could even stabilize, the monster struck again, smashing the mage into the ground as it held him down and prepared to tear him apart.
+
+Luckily for Phillip, Lillian had finished her ritual.
+
+Wielding her staff, Lillian held it with both hands as she tapped it to the ground, activating the magic circle under her foot. The mana within lit up, making it look as if she stood upon a shining full moon.
+
+Light enveloped the entire cavern next, with the most intense of it falling upon the werewolf-like dungeon boss monster. Its raised claw suddenly slowed down significantly as if something restrained the beast, making it unable to bring down its attack upon Phillip.
+
+Taking full advantage, the alteration mage sprung up and kicked the boss in the stomach with both feet, sending it flying back. On his feet once more, Phillip focused and summoned two gauntlets of pure mana before charging forward again.
+
+The boss didn’t seem intimidated in the slightest and was ready to clash with the mage, but when it tried to move, it was once more slowed down and drained of energy. This allowed Phillip to land several solid blows, dealing some serious damage before the boss recognized that fighting him while ignoring Lillian was a bad move.
+
+Lillian, for her part, focused on the ritual as it wasn’t easy to keep active, as the boss wasn’t weak in the slightest. Moreover, she was exposed as she stood on the shining full moon beneath her, unable to move away unless she was willing to abandon the ritual.
+
+Unsurprisingly, the C-grade boss relatively quickly realized this and switched its target. Phillip also seemed to have done enough damage to activate a kind of berserker skill as the werewolf-like monster’s hide turned red and its power jumped up a notch.
+
+This allowed it to swipe Phillip away before rushing towards Lillian. Phillip desperately tried to stop it, but failed as the monsters closed in. Lillian tried to intensify the restraining ritual, but the boss proved too strong as it was soon upon her…
+
+Just as planned.
+
+The monster entered the magic circle and swiped for Lillian as her body once more turned to moonlight and shot backwards. At the same time, the light of the new moon erupted from below as the second function of the ritual was revealed.
+
+A massive beam of pure moonlight exploded upwards, creating a pillar of destructive light that burned the screeching boss. Moreover, some elements of the restraining spell remained, making it difficult for the monster to escape.
+
+Even so, it struggled forward as its energy intensified, its berserking skill growing stronger with each passing moment. However, just as it managed to get out of the pillar of moonlight, a transparent wall of pure space mana slammed into it, sending it stumbling back into the destructive light.
+
+Before it had a chance to escape again, barriers of space mana surrounded the entire magic circle, trapping the boss within the ritual of moonlit destruction. Still having to maintain the ritual circle, Lillian popped a quick potion as she continued to fuel it with mana.
+
+“Sorry, I was late; that howl seemed to have summoned even more wolves,” a third voice joined them as yet another mage had made his appearance. Neil had teleported over right as he got the opportunity and came in clutch with the assist.
+
+Phillip also caught up by now and stood ready in case the boss got out of the trap as he asked the space mage: “How about the two others?”
+
+“Handling the rest of the wolves,” he answered. Their two final party members today were two relatively unknown yet high-level citizens of Haven whom Miranda, and thus Lillian, trusted.
+
+They had done a dungeon prior with William and also one with Maria, but both of them were too powerful and didn’t allow the others to get any proper experience or to contribute to fights.
+
+Phillip nodded and looked toward the werewolf monster again. “Does the ritual have enough… Ah, it seems my question already got its answer.”
+
+Before he was even done asking, the dungeon boss monster collapsed within the ritual circle, most of its body burned to a crisp by the searing moonlight. With the notification received, Lillian quickly dispelled the entire ritual circle to try to preserve what little mana she had left.
+
+After the moonlight faded and the crispy form of the boss was revealed, Neil let out an uncomfortable chuckle. “I thought you talked about lucenti mages lacking offensive prowess?”
+
+Lillian looked at the space mage and smiled. “I do also recall adding the caveat that’s only the case if I don’t have time to properly set up.”
+
+“True,” the space mage nodded, also looking up and seeing the massive hole the ritual circle had burned in the cavern’s ceiling. “Yet I still feel like I’m developing a progressively less irrational fear of moonlight the more time I spend with you.”
+
+“Just don’t get on my bad side,” Lillian joked, enjoying spending time with both Neil and Phillip as both had also been colleagues of hers in less combat-focused situations. “And I do think that for now, we should go help the others finish off the rest of the wolves.”
+
+“I don’t think we need to,” Neil shrugged as he turned toward the direction where they were, peering across space. “They’re doing well, and the wolves seem to have grown weaker.”
+
+“In other words, we should go find the loot,” Phillip chuckled.
+
+“May as well,” Neil agreed with the sentiment.
+
+Lillian just sighed and agreed as the three of them “secured” the dungeon loot while their final two members continued to fight a dozen wolves.
+
+“What would My Lady like?” the dark elf waiter asked the high elven-looking woman who sat alone at her table.
+
+She studied the menu for a moment before finally deciding. “I think I’ll have today’s fish.”
+
+“A great choice,” the waiter said with a polite bow. “My colleague shall be by with your wine shortly.”
+
+The woman nodded, no longer acknowledging the waiter as she started looking out the window. They were on the two-hundredth floor of a mega-structure housing nearly a thousand different businesses. It served as the central trade hub for the city, and all around it, the aforementioned city spread out in all directions.
+
+Approximately 100 million people lived in the city, with the population having declined slightly in recent decades due to migration to the capital. The local City Lord was a C-grade who had inherited the position from his mother, who had in turn gained it from her father.
+
+This was but one of many planets placed in a very peaceful part of the multiverse. They were far away from any of the major battlefields, and no large faction outright claimed the territory. Sure, it was technically under the jurisdiction of the Golden Road Emporium, but they were very hands-off and only demanded minor taxation.
+
+Most people were born and died on the planet, with the system and the concept of walking one’s Path a foreign concept. Barely anyone even reached D-grade, and those with the ambition to do so left in their youth, with few ever returning. Those who did manage to grow powerful took the opportunity to migrate their families away from a planet that could generously be called lacking in Records.
+
+Which was precisely why she had chosen it.
+
+A waiter soon arrived with her wine. It was a dark elven woman, not standing out as the majority of those on the planet were dark elves, though there was also a fair mix of regular elves, humans, beastkin, and even the rare tourist of another race… though most rarely found a reason to stay long.
+
+“Here you go, my lady,” the dark elf said as she put down the glass.
+
+The woman didn’t answer but waved off the waiter. Once she was gone, she turned to regard the wine and took a whiff of the liquid within.
+
+Absolute swill.
+
+Then again, she shouldn’t expect too much when the brewer was at most D-grade, if even that. She doubted there were even any C-grade brewers around who could at most do a barely passable job.
+
+Not bothering to touch the wine, she waited until her dish arrived, though that also turned out to be a disappointment. Again, perhaps it was her own fault to expect anything from people like this, but she felt like she’d given them a chance to prove themselves.
+
+Having noticed her sitting there without eating, the first waiter walked over again with a semi-concerned look.
+
+“My Lady, may I know if anything isn’t as it should be?” he asked nervously.
+
+“Several things, but I doubt you’re capable of doing anything about it,” she said, disappointed more than anything.
+
+“If I may… I’m certain My Lady will find the chef’s specialty pleasing; it’s made him truly famous,” the waiter tried to still get in her good graces. He knew she wasn’t from around here and certainly not a mere D-grade like he was.
+
+“You’ll promise? Well, if you’re willing to take responsibility, I’ll give you one last chance,” she said, choosing magnanimity.
+
+“I’m certain,” he said with a relieved smile before he hurriedly scurried off toward the kitchen.
+
+The woman expanded her senses and saw the chef getting to work in the kitchen, seemingly doing his best. Bored with watching the “famous” D-grade chef, she returned to looking out the window at the small creatures crawling on the ground below, going about their meaningless lives.
+
+Annoyingly, the glass of swill they dared call wine still sat there out of the corner of her eye. Not wishing to see it any longer, she lifted her finger and pointed at it for a second. A small, undetectable flash of light lit up from her fingertip, and a moment later, the glass and its contents were gone.
+
+Soon, the waiter returned, holding a large cloche in his hands. He had a proud look on his face as he presented the dish to her. His confidence actually made her a little hopeful, and as she saw the meal, she had to admit it looked quite pleasing.
+
+“Certainly strikes me as an improvement,” she said, though as the aroma of the meal entered her nose, this confidence did start to wane.
+
+“Oh, it most certainly is,” the dark elf waiter said as he put his hands together. “Even the King praised this dish when the chef visited the capital only a few years ago. I dare bet this will be one of the greatest culinary journeys My Lady has ever experienced.”
+
+“A bet you say?” she answered, finding that proposal far more interesting. “Intriguing. What are you willing to bet?”
+
+The dark elf seemed to take her words as a joke, chuckling in response. “I’m not quite sure what this lowly one could even offer.”
+
+“How about this entire tower?” she said, raising an eyebrow.
+
+“If I could, I most certainly would be willing,” he chuckled again, not noticing she wasn’t laughing or even smiling.
+
+“I’ll allow you to,” the high elven-looking woman said. “So, do you accept?”
+
+The dark elf seemed a little confused as he nevertheless nodded. “I would bet the entire world and my entire professional career if I had to.”
+
+“Then let’s hope it lives up to your promises,” she said, deciding to finally take a bite of the pie-like creation. She genuinely evaluated it, and while it was certainly better than the pathetic fish that they had dared bring her before, she still found it… disappointing.
+
+“So?” the waiter asked, hope in his eyes.
+
+Putting down her cutlery, the woman sighed. “While not outright disgusting, it doesn’t meet expectations. The daily meals cooked by my maid while growing up were far superior.”
+
+The dark elf waiter looked distressed as she apologized. “I’m sorry that My Lady finds what we have on offer inferior, and I’ll make sure that everything is compensa- “
+
+“It won’t be necessary,” she stopped him, now finally smiling as she looked at the waiter. “We made a bet, didn’t we?”
+
+Confused, the dark elf took a moment to understand what she said. “I’m not sure what - “
+
+“You bet the tower.”
+
+“That… isn’t something I can- “
+
+“I allowed you to, and you lost the bet,” she said, her smile growing. “Now it’s time for me to claim my price, is it not?”
+
+Before the dark elf could say more, she lifted her finger as it began glowing with a faint light. An orb resembling a small star appeared above her fingertip, the light it emitted catching the attention of everyone in the restaurant.
+
+She ignored all the curious gazes as she spoke again. “Seeing as we won’t meet again, I guess there’s little harm in introducing myself properly. It’s only polite, after all.”
+
+“What do you – “
+
+“My name is Yrel,” she said, cutting him off again while looking at the dark elf, who now finally seemed to realize something was very wrong as his eyes opened in horror. “Short for Yrelstromoz.”
+
+With a faint movement of her finger, light flashed.
+
+When it subsided, the dark elf, other guests, the restaurant, and the entire tower were gone, leaving a rectangular hole in the ground in the middle of the city where it had once stood. The only thing left where it had once been was a single woman floating in the air with a smile on her face, glad to have at least found some amusement for the day.
+
+Below, panic spread, but she paid it no mind as she instead only smiled, realizing that, as a bonus, the cleansing light had even erased the stench of the filth these pathetic creatures dared call food.
+
+Hopefully, the next place would provide something to her taste… if not, perhaps there too she would find something to alleviate her boredom.

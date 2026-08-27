@@ -1,0 +1,183 @@
+---
+id: 69452b87-c4ae-539b-aebd-02eb5b24ee88
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1167 - Undesired Recognition"
+slug: 0039-chapter-1167-undesired-recognition
+partOf: the-primal-hunter
+position: 39
+ownLength: 2839
+unit: words
+ownProgress: 2839
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2630785/chapter-1167-undesired-recognition"
+royalRoadId: "2630785"
+markedReadAt: "2026-06-29T19:30:29.919Z"
+---
+
+Ah, who was he kidding? No bloody way Jake would ever select a skill about praying.
+
+Even if the skill did look awesome, praying to get those awesome effects simply didn’t fit with Jake’s Path at all. He’d never made a single earnest prayer in his entire life, and he sure as hell wasn’t going to start now.
+
+Besides, who’s to say it would even work if Jake weren’t sincere in his prayers? Not to mention that Villy would make fun of him every time he had to pray. Spending a lot of time praying also seemed to lean way too much into the Chosen angle and away from the Heretic-Chosen one.
+
+Finally, Invocation was the only one of the skills with Heretic-Chosen in the name, clearly communicating that it was indeed the signature skill of his profession. Jake also believed that the Invocation skill was better, or at least had more potential, than the Prayer one.
+
+There was especially one part of it he was interested in exploring, and not for his own sake. The skill said that when he used it, Jake would echo back far more Records to the Malefic Viper, which told Jake that should he do something extraordinary while using the skill, Villy would benefit from it. Of course, Jake would also benefit from getting the Records of the Malefic Viper in return, but that wasn’t the part that interested Jake the most in this case.
+
+He remembered his conversation with Artemis about the Primeval Origin Energy ritual he was planning for Jasper, and how she wanted to be part of it. He also recalled that Villy had mentioned benefiting meaningfully from Jake’s creation of Vesperia.
+
+With that in mind, what would happen if Jake used Invocation during the ritual with Jasper? Wouldn’t that result in Jake echoing back far more useful Records than usual to the Primordial?
+
+If it did, this would be a way to help pay Villy back, at least a little for all Jake had taken so far. Jake also believed that this aspect of the skill was actually quite important, seeing as it was the first thing mentioned in the description with the “What’s his is yours, and yours, his” line.
+
+Seeing as Jake really didn’t need to spend more time thinking about it and honestly just wanted to get experimenting, Jake picked Heretic-Chosen’s Invocation of the Malefic Viper.
+
+Upon doing so, Jake felt only a sliver of instinctual knowledge enter his mind, telling him nothing more than how to activate the skill. Jake had considered whether there were any hidden requirements or prerequisites for activation, and was happy to see that wasn’t the case, which was another reason why it was better than Prayer.
+
+Armed with a new skill he very much wanted to test out, there was only one question left to answer... which skill was he going to try to empower first?
+
+Alright, dumb question, as the answer was obvious. It just had to be his sole mythical rarity Legacy skill, Sagacity, right?
+
+--
+
+“Once more, I apologize for dragging you away from the experiment, but I concluded that it would be best to involve you in this matter, seeing as you’re the official leader of this diplomatic delegation.” Nature’s Attendant said to the alchemist.
+
+Duskleaf sighed, but nodded. “Aye... this is part of the job.”
+
+Nature’s Attendant just smiled as he continued. “We plan on making the Declaration of Friendship public when, at the same time, we have our first major success with the experiment. That way, we can at least use the joint research as an excuse for the timing of the declaration, while only a chosen few know the real reason.”
+
+“I still find it silly we need a reason in the first place,” Duskleaf muttered. “You were the father of the Mistress, isn’t that enough?”
+
+“That... was a long time ago,” the other god sighed. “It’s been far too many eras since then. Too many alliances have been established and broken since then. It does help and will serve as another reason for some people, but this is an entirely different time from back then.”
+
+“If you say so,” Duskleaf said, not entirely satisfied with that answer as he turned toward the third god present in the room. “Still, you surprised me. I had the understanding you planned on taking a slow approach, but this looks like the exact opposite.”
+
+Artemis, the newly ascended Godqueen, sighed in response. “I did, but I had more time to think about matters, and mixed with a moment of pure impulse caused by my successful breakthrough, things developed this way. Jake and I then had a talk, and now we’re here.”
+
+“No regrets?” Duskleaf wanted to make sure.
+
+“None,” Artemis shook her head. “Not yet, anyway. I still have some lingering doubts and fears, primarily related to his mortality, but those are mine to overcome.”
+
+“I’m sure Jake also still has plenty of things he’s feeling nervous about. And he really should be with a Godqueen partner,” the alchemist smiled. “I hope things go well between you two.”
+
+“Thank you,” Artemis nodded, turning to Nature’s Attendant. “And thank you for keeping it private for now.”
+
+“No problem,” the second-in-command of the Pantheon of Life chuckled. “It would certainly cause a ruckus if people knew the truth. A mortal and a god forming any kind of official pact... speaking of, have you entered any kind of pact with him yet?”
+
+“I have not,” Artemis shook her head. “It’s still too early, and while things have moved fast, there’s no reason to rush that part.”
+
+“Alright, that’s understandable,” Nature’s Attendant nodded approvingly. “If perhaps a little risky.”
+
+“Jake is many things, but I wouldn’t say flaky is one of them,” Duskleaf jumped in to stand up for his Master’s Chosen. “Quite the opposite. His emotions tend to swing to extremes. He’s often apathetic, but when he does feel strongly about something, those emotions are very hard to change.”
+
+“I trust him,” Artemis also chimed in.
+
+“That’s that, then,” Nature’s Attendant just smiled. “Now, let’s discuss this Declaration of Friendship more closely. Yggdrasil left me to handle all the details, and I was also informed that the Malefic One has entrusted you with representing him.”
+
+He said the last part while looking at Duskleaf, making the alchemist sigh loudly. “He’s doing this on purpose. Do you think it’s because I refused to bet if he’d end up forming anything official with Artemis during this excursion to the Pantheon of Life?”
+
+“You two bet on that,” Artemis said in a sharp voice.
+
+“No, I refused to bet on that,” Duskleaf insisted. “And please do not be too offended, Master likes to bet frequently and on the oddest of things.”
+
+“I can confirm that I’ve had a few thousand bets with Vilas throughout the eras and already concluded three since his return to the multiverse,” Nature’s Attendant added in.
+
+“Doesn’t make betting on the relationships of others less offensive,” Artemis said, crossing her arms. “Did Jake know about it?”
+
+“What? No, of course not,” Duskleaf said, surprised at the question. “Why would he? That would ruin the fun of the bet for Master. He prefers to make bets where he cannot or will not influence the outcome, at least not directly. Besides, if he’d told Jake such a bet was ongoing, he would have found a way to somehow get with you in secret just to get one over Master.”
+
+“That does sound like something he would do,” Artemis chuckled as she smiled and seemed distracted for a moment before looking back up. “Let’s proceed with the meeting so I can get back.”
+
+“Already missing him, are you?” Nature’s Attendant teased her as he laughed like an old grandpa.
+
+“Yes,” Artemis said without a shred of hesitation as she smiled. “Though I do hope that I can be forgiven for not wanting to give any details about what I want to do with him once I return.”
+
+“Please don’t,” Duskleaf sighed. “And I am in full agreement with Artemis. In wanting to get done here, that is. Not about wanting to go see Jake.”
+
+“Speaking of Jake, he told me something about a Primeval Origins ritual?” Nature’s Attendant said.
+
+Duskleaf perked up a bit as his eyes moved to Artemis, who subtly nodded.
+
+“In that case, I might be more in agreement with Artemis than initially estimated when it comes to my desire to see Jake. Now let’s stop delaying and get this done, as we all clearly have better things we could be doing,” Duskleaf said, a bit of impatience in his voice.
+
+--
+
+Casper stared nervously at his own image, looking for any perceived faults with his outfit or on his body. He couldn’t spot anything wrong, but that didn’t mean there weren’t flaws that he simply wasn’t able to notice due to his limited-
+
+“You look fine,” a ghostly woman said as she appeared and hugged him from behind. “More than fine.”
+
+Feeling her touch, Casper couldn’t help but smile. “Still, you know I can’t help but worry. This is clearly a big deal. At least everyone is telling me that. Especially Teacher.”
+
+“I’m not saying this isn’t a big deal, just that you shouldn’t be worried about how you look,” Lyra said in a teasing voice. “Now, how you act is an entirely different matter...”
+
+“Gee, thanks for the confidence,” Casper chuckled, Lyra’s casual demeanor having helped him calm down.
+
+Casper found himself back in the heartlands of the Risen, having been summoned by his Patron. He had been back now for a few months, during which he’d caught up with his S-grade Archlich teacher he met after his exit from the Tutorial. That Archlich had also been summoned to the heartlands to take part in what was to come.
+
+“Look, you’ll do fine,” Lyra said, speaking some comforting words. “It’s not like you’re expected to pull off some performance. You just have to stand there to smile and wave.”
+
+“You say that, but-“
+
+“Just smile and wave,” Lyra cut him off as she gave him a good squeeze and a kiss on the cheek. Casper smiled and wanted to turn around when both he and Lyra noticed something that made his ghost girlfriend disappear and reenter the necklace around his neck.
+
+A second or so later, there was a knock on the door.
+
+“Come on in,” Casper said, already knowing who had come.
+
+In walked a tall, familiar Risen, carrying a very scary-looking sword. It was a person that Casper had found very intimidating the first time they met, but eventually got pretty friendly with. Fifty years in Nevermore would do that.
+
+“You shouldn’t sound that meek when addressing others,” his former Nevermore party member sighed.
+
+“Nice to see you too, Azal,” Casper said, shaking his head. “How are you feeling?”
+
+“Better,” the Risen answered. “My foundation was damaged towards the end of Nevermore, but my sacrifice allowed us to beat the Holy Church on the Nevermore Leaderboards, so I have no regrets.”
+
+“Did you manage to repair the damage yet?” Casper continued to inquire.
+
+“For the most part,” Azal sighed. “I was allowed to keep my title as Ghost King due to my contribution and effort to fix what was broken afterwards. Due to that, the honored Blightfather has spared no resources in assisting me. I will certainly reach B-grade later than you, but by the time I do, my foundation shall be flawless once more.”
+
+“Good to hear,” Casper smiled, genuinely happy to hear that. He still felt bad about Azal basically fucking up his Records toward the end of Nevermore to get a whole bunch of levels to increase his Nevermore Points.
+
+“You’re being needlessly meek again,” Azal said with a sigh. “Hold your head high and stand proud. Soon, you too will carry the title of Ghost King, so act as such.”
+
+“See, I know that, but it only it only makes me more nervous,” Casper shook his head. “Besides, we both know I’m not getting this title because of how strong I am.”
+
+“Doesn’t make it any less earned,” Azal said with certainty in his voice, and from within his pendant, Lyra wholeheartedly agreed.
+
+Casper wasn’t entirely sure, though. He’d learned the reason why he was summoned shortly after his return, but even so, he’d yet to fully come to terms with it. However, no matter what, there was no running away as the Blightfather himself – Casper’s Patron – had been the one to name Casper a Ghost King.
+
+The title of Ghost King was something that could only be given out with the permission of the Blightfather or one of his most trusted aides. To become a Ghost King wasn’t an official rank that came with specific responsibilities, but rather a title of recognition carrying a lot of expectations for the recipient.
+
+To be named Ghost King meant that the Risen believed you had a high chance of reaching godhood if properly nurtured. One could only be named Ghost King when B-grade or below, and of all the currently living Ghost Kings, the vast majority were in S-grade, which also showed that those who got the title were indeed supreme geniuses.
+
+However, merely being talented wasn’t enough to be given the title of Ghost King. One also needed a certain level of merit behind it. Achievements that had helped the Risen in a substantial way.
+
+Azal had apparently gained his Ghost King title through battle and tournaments with the Holy Church. All the way back to E-grade, he’d been fighting the enemy faction, eventually granting him the title some time before Casper teamed up with him for Nevermore.
+
+“I know you say it’s earned, but look at it from my perspective,” Casper said, looking at his former party leader. “All I did was not be an asshole, but instead took advantage of personal connections. That’s it.”
+
+“Alright... now look at it from everyone else’s perspective,” Azal said in a serious voice. “You led negotiations on the most contested planet and galaxy in the new universe, managed to establish a permanent presence there, along with access rights for the Risen faction to go there. Additionally, you secured us rights that are recognized as equal to those of every other race. At the same time, the Holy Church was pushed out of the entire galaxy. In summary, you accomplished a major diplomatic feat, all while making our greatest enemy look horrible in comparison.”
+
+“See, I’m not arguing any of that happened. What I’m saying is I shouldn’t be the one to get the credit for it,” Casper insisted.
+
+“Who should then? Who is the reason why we Risen are allowed a presence on your home planet?” Azal asked his very leading question.
+
+“Jake is, obviously,” Casper shrugged.
+
+“See, just the fact you can call the Chosen of the Malefic One by his name is worthy of recognizing you,” Azal said with a sigh. “It’s quite obvious your connection to the Chosen is the leading force behind your success, but realize that your success is the success of the Risen. Simply on account of being his friend, you will remain on the frontline of diplomacy with him and the entire Order of the Malefic Viper. Giving you a title of recognition will only lend legitimacy to any negotiations and agreements you take part in, while it would look incredibly poor to send someone who’s seemingly a no-name to be the leading diplomat.”
+
+Casper didn’t even try to argue, as deep down, he knew Azal was right. The Risen wanted to present the interpretation of events that the Ghost King represented earlier, all to make the Risen look better. Jake had gathered so many eyes on him these days, especially after he killed Ell’Hakan and conquered the Milky Way Galaxy, so for the Risen to integrate themselves with such an individual was a huge accomplishment.
+
+“You also shouldn’t sell yourself short,” Azal continued. “You might still be below the usual standards of Ghost Kings when it comes to combat, but when taking your dungeon engineering skills into account, you’re certainly qualified.”
+
+“I don’t feel qualified,” Casper joked. “Then again, my standards probably are totally warped considering the people I compare myself against.”
+
+“They most certainly are,” Azal chuckled. “Now follow me. I’ve been granted the honor of escorting you to the banquet hall, and we shall not embarrass ourselves by being late.”
+
+“Alright,” Casper nodded as he took one final look at himself in the mirror. “I look presentable, right?”
+
+“As long as you don’t show up naked, no one cares,” Azal said honestly. “That pendant alone is proof of the Blightfather’s grace and all anyone will see.”
+
+“So I shouldn’t change the shir-“
+
+Before Casper could even finish, Azal took him by the nape of his clothes, and to make matters worse, he even felt his pendant push against his body as he was dragged backwards, forced toward his old award ceremony.

@@ -1,0 +1,281 @@
+---
+id: f3c5906d-32b1-57bf-b5f7-371c5341ee05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 - The Newest Waiter"
+slug: 0018-chapter-17-the-newest-waiter
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 18
+ownLength: 2604
+unit: words
+publishedAt: 2022-06-08
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/923236/chapter-17-the-newest-waiter"
+royalRoadId: "923236"
+---
+
+Penn considered his options as he walked through the halls of the club.
+
+Playing the part of the pathetic jilted lover was out—which was a shame because Penn had been practicing all day. But if Haley (damn him!) had already talked to the three gentlemen, they would be too guarded to fall for something like that.
+
+On the other hand, if they had been questioned by Haley, and if they were all acquainted with each other, there was a possibility they might be together.
+
+And if they were together, Penn thought he could guess what they’d be talking about.
+
+Near the kitchen, Penn found the room that the cooks and waitstaff used when they needed a break. Inside was a battered wardrobe that had a whole rack of white jackets.
+
+Management always wanted the waiters to wear white jackets. They looked so smart. The waiters always kept spares on hand. They soiled so easily.
+
+Penn stole a jacket that was close to his size and went into the kitchen. There he snagged a towel and a bottle of wine that didn’t seem to have an owner—meaning, it wasn’t being carefully watched by someone who’d make a fuss if Penn walked away with it. Then he set off to find his marks.
+
+He stopped the first waiter he saw.
+
+He tried to look embarrassed as he whispered, “Can you help me?”
+
+“You’re new?”
+
+“First day.”
+
+“What’s the problem?”
+
+“A man stopped me in the hall and asked me to get a bottle for him and his friends. I’ve got the bottle—”
+
+“But you’ve lost the gentleman, right?” The old hand sounded amused.
+
+“It’s a big place,” Penn whimpered.
+
+“What’s the gent look like?”
+
+“A little short. Brown eyes, dark brown hair. Skinny. Dressed nice.”
+
+“They all dress nice here. Anything else?”
+
+Penn looked around. Even though there was no one around, he leaned in close to whisper, “He said he was an earl, but he acted like a bit of an ass.”
+
+The waiter tried not to laugh. “That’s Massey. He is an earl, by the way, so be careful who you call an ass.”
+
+“Right.”
+
+“He and his chums are in room six, second floor, private dining. They always are.”
+
+Penn, who had been about to thank the man and depart, felt his body stall. “They always are?”
+
+“Sure. Lots of friends meet here regularly. You’ll get to know them. Those gentlemen meet every week.”
+
+“How long have they been meeting together?” Penn asked.
+
+It wasn’t a wise question—no real waiter would care—but the old hand was proud to show off his knowledge for the white-jacket neophyte.
+
+His face screwed up in recollection. “Almost two years now.”
+
+Penn decided to try his luck a little further. “I don’t know if they have enough glasses. How many are there?”
+
+“It’s usually only three of them, but every once in a while, they’ll have someone else join them.”
+
+“That should be fine then.” Penn started off. “Thank you.”
+
+He stopped when he felt a tug on his jacket sleeve.
+
+“Whoa there,” the waiter said. He hesitated. “Did Lord Massey order that wine?”
+
+Penn glanced at the bottle.
+
+The waiter went on, “Only, I notice it’s an expensive vintage.”
+
+“He said it was for the room,” Penn ventured.
+
+It was a sign of the thief’s professional talent that his voice didn’t waver when he came out with that bit of fluff. It sounded like an answer, but anyone listening carefully would spot, in an instant, that it answered nothing.
+
+People never listened carefully. People listened for what they wanted to hear.
+
+The waiter’s face cleared. “That’s all right then. It was probably Mr. Winfield. Just remember, the earl doesn’t get to carry a tab.”
+
+Penn’s skull bobbed in humble acceptance of this instruction while the brain inside the skull raised its metaphorical eyebrows.
+
+He was allowed to escape, and he made his way up the stairs and over to the door marked with a small brass six.
+
+He knocked twice, then entered.
+
+The three gentlemen had left the table they’d eaten at and moved to the armchairs and sofa near the empty fireplace so they could smoke and finish their drinks in comfort.
+
+Lord Massey had claimed the entire sofa by lounging in the corner and throwing his leg up along the seat. He had a cigarette in hand and an ashtray in front of him that contained the crushed remains of three others.
+
+Penn guessed it was Fitzmon standing by the mantle because Gervase Fitzmon had been described as “blond and handsome,” and he was the only one who qualified. The other two weren’t bad looking, but Fitzmon had a face that people would try to carve in marble. He had a cigar and a wineglass in his hands.
+
+That meant that the man in the armchair was Mr. Dominic Winfield. Penn had enough grace to admit you couldn’t immediately pick out the fact he was an American. His clothes were of a subdued fashion that worked with his brown eyes, ruffled brown hair, and soft features. Penn wondered how rich you had to be to hire someone to teach you how to dress. Mr. Winfield smoked a pipe.
+
+Fitzmon spoke as Penn entered: “Yes? What is it?”
+
+“A bottle, my lord.”
+
+“We didn’t order any wine.”
+
+“It’s from Inspector Haley. He sends it with his compliments and an apology.”
+
+The earl laughed. “See there, Fitzmon! Maybe the man isn’t as bad as you think.”
+
+The marquess scowled. “Don’t mistake caution for actual manners. He didn’t want to offend us.”
+
+Massey adopted a pompous voice more suited to a comedian than a real member of the aristocracy. “At least he knows who he’s dealing with!”
+
+The earl motioned for Penn to finish coming into the room. Penn obeyed.
+
+“All he did was ask a few questions,” Winfield said.
+
+To Penn, Massey muttered, “Be a friend and grab my glass from off the table.” Then he turned back to the others. “I, for one, have no objection to accepting this kind thought from the chief inspector. Especially since Winfield is being especially tight at the moment.”
+
+Penn brought the earl his glass and showed him the label. Massey nodded without even looking at it.
+
+“I think you’ve had enough to drink,” Winfield said.
+
+“I think you’re wrong.” Massey looked up at Penn. “Pour, sir. Pour.”
+
+“You’re too easy-going, Winfield,” Fitzmon said. “That policeman had no right to interrogate us.”
+
+“We’re suspects in an on-going investigation,” Winfield said. It was a simple point made in a quiet voice, but he spoke like a man who was used to being listened to.
+
+“Did he say that?”
+
+Penn glanced up when he heard the anger in Fitzmon’s question. The marquess was glaring at his friend.
+
+“It’s not hard to figure out,” Massey said. He sniffed the glass Penn had poured for him. “Oh, lovely.” After a generous sip, he added, “Even better. You can say what you like about the chief inspector, but he has excellent taste.”
+
+Penn motioned to Mr. Winfield with the bottle. When he nodded, Penn went to fill the glass on the end table by his elbow.
+
+Massey continued, “I agree with Winfield. Inspector Haley was only doing his job, and whether you like it or not, we’re suspects. It’s too easy to insult you, Gervase. It always has been.”
+
+The marquess swallowed the last of his wine in a few quick gulps. “It’s this situation,” he said to the bottom of his glass. “It makes me livid.” He held out his glass for Penn to pour. When that was done, he said, “You can leave it on the end table.”
+
+Penn nodded, placed the bottle on the table next to Winfield, and walked toward the door at a measured pace.
+
+Behind him, Massey said, “So which one of you did it?”
+
+Ryce Penn smiled. You could always count on an ass.
+
+He opened the door, then closed it without stepping outside the room. He knew that the marquess and the American would be too distracted to notice.
+
+Penn slipped back along the wall as Fitzmon said, “Very funny, Massey.”
+
+“I didn’t realize I was joking.”
+
+Winfield chimed in with, “I hope you’re joking.”
+
+“Why? There’s no crime here! The only reason that policeman came by was because he thought we might know Penn.” Massey’s cigarette made a trail of smoke as he waved it. “Sorry to him—thank you for the wine—but we don’t.”
+
+Penn crossed along the back wall until he could see Fitzmon’s and Winfield’s faces. Massey was facing the other way, but Penn trusted the earl was going to say whatever he was thinking anyway. The thief hid in the shadows, half covered by the long drapes of the window, and settled down to listen.
+
+“What’s the harm?” Massey went on. “Now at least we’ll find out if this fool plan will work, and with luck, we can all be free.”
+
+“You’re saying it wasn’t you?” Fitzmon asked.
+
+You could hear the grin in the earl’s voice. “You thought it was me?”
+
+“You’re the most desperate of us.”
+
+“Sorry, old boy, not me. I’m not fool enough to think she’d choose me. I thought it had to be you.”
+
+“Why?”
+
+“You’re the most likely to be chosen.”
+
+Winfield said, “You think so?”
+
+Massey laughed. “Oh, poor Dominic. I have a title. You have money. But our dear Lord Gervase has both. He’s the clear winner.”
+
+Penn noticed a strained inertia take over Winfield’s features as he turned to Fitzmon. “Would you even have her?”
+
+“Why wouldn’t I?” Fitzmon asked.
+
+“You seemed the most…upset…about the situation. I assumed you wouldn’t want to marry her.”
+
+“You assumed wrong.”
+
+“I see.”
+
+There it was again. That painful stillness on Winfield’s face. It was so carefully constructed, Penn’s heart murmured with sympathy, even though he had no idea what he was sympathizing with.
+
+“Was it you then, Fitzmon?” Massey pressed. “You can tell us.”
+
+“It wasn’t me.”
+
+“You, Winfield?”
+
+“Not me.”
+
+“And it wasn’t me! Then it must have been that thief!” The sarcasm in Massey’s voice was so ripe it was nearly rotten. “Isn’t the world full of incredible coincidences?” He finished his wine, then shook the glass at Winfield. “Top me off, good sir. You can’t be stingy with this wine. It belongs to all of us.”
+
+As Dominic refilled Massey’s glass, Fitzmon said, “You didn’t say anything to that inspector, did you?”
+
+The earl sniffed. “What kind of a fool do you take me for?”
+
+Massey was too busy drinking his wine to notice the look that passed between Fitzmon and Winfield.
+
+The earl lowered his glass and let out a loud sigh. “Allow me to assure you, gentlemen, I will have no hard feelings if Lady Serrs chooses either of you two men over me. Hell! She can marry that thief for all I care, so long as she marries someone.”
+
+Fitzmon’s lip lifted in a delicate sneer. “It’s about what she deserves.”
+
+Penn felt a haze of anger seep in from the edges of his mind, and the familiar ache, urging him to action, started to saturate his bones. It wouldn’t be long before remaining still wouldn’t be an option. What would he do? He hardly knew. It wasn’t worth the trouble of planning something. These men would only be a threat if they were armed, and Penn knew for a fact they weren’t.
+
+A loud, rapid knock drew the attention of everyone in the room. The door opened before the marquess could call out permission for whoever it was to enter.
+
+“Excuse me, Your Lordships, Mr. Winfield.” It was the waiter—the old hand that had been kind enough to help Penn find his way. “Something…has happened. There’s a problem with the staff.”
+
+“And? Is that any reason to interrupt us?” Fitzmon said.
+
+The waiter’s eyes fell on the bottle that was still beside Winfield. “He’s been here.”
+
+“Who?”
+
+“The man that brought you that bottle.”
+
+“The waiter?” Massey said. “What about him?”
+
+“He’s probably trying to explain I wasn’t a waiter,” Penn said.
+
+He stepped out from his place near the curtain. A mean smile tugged at his lips when he saw their faces. Their rage and indignation did a lot to quell his own anger, but it did nothing for his disgust.
+
+“And who are you?” Fitzmon yelled.
+
+“Oh, pardon me! I didn’t introduce myself.” Penn grinned at the marquess. “I’m the man who succeeded where you three gentlemen failed. I have the honor of being Lady Serrs’ fiancé.”
+
+Fitzmon put his wine on the mantle and threw his cigar into the fireplace. “You!”
+
+Winfield abandoned his pipe and stood up. Only Massey stayed where he was, but he brought both feet to the ground.
+
+Ryce swept his arms out before lowering himself in a theatrical bow. “I’m the Marvelous Mr. Penn.” He rose. “At your service.”
+
+“You’ve been there this whole time,” the earl said. His voice sounded thin and disbelieving.
+
+“How dare you!” Fitzmon started toward the thief.
+
+“Oh dear!” There was a click-click-click as Penn spilled a gold watch from one pocket, a second from another pocket, and let a third watch drop from his hand. “Would you look at the time.” Click-click-click—he closed them, and with the same sleight of hand, they disappeared. “Unless the marquess’s watch is correct, it seems it’s time for me to go.”
+
+Each of the three gentleman reached for their empty waistcoats.
+
+There was fire in Fitzmon’s eyes when he looked up at the thief.
+
+Penn smiled at him indulgently. “You should have had it repaired earlier, Your Lordship. A slow watch is the sign of a sloppy man.”
+
+“You’ll give that back.”
+
+“Or what? You’ll tell everyone I’m a thief?”
+
+Penn laughed as the marquess crossed the room toward him, which only fueled Fitzmon’s rage. When the marquess tried to throw a punch, Penn neatly stepped aside, swept the man’s feet out from under him, put a hand to his back, and slammed him to the floor.
+
+Penn was down on one knee. He leaned over his opponent. “I thought all gentlemen of breeding were taught how to fight. Huh! I’ll have to compliment Haley the next time I see him.”
+
+Penn stood up and looked at the earl and Mr. Winfield. Both had closed in when the fight started, but now that Penn was standing, neither seemed inclined to come any closer.
+
+Maybe they wanted an invitation.
+
+“Well? Would either of you two gentlemen like to try your luck?”
+
+“Why are you here?” Winfield demanded.
+
+The thief put a hand to his chest. “That’s so hurtful! And here I thought we were friends.” He shrugged. “If I’m not wanted, then I’ll leave. But remember, gentlemen, I’m like a bad ghost. Whenever you say my name three times, I’m bound to appear.”
+
+Penn turned his back to them and walked over to the waiter, who was still standing in the open door.
+
+The thief took out the wad of paper bills he’d stolen from Winfield and pressed it on the waiter. “For the wine.” He tapped his forehead in a salute. “And thank you for the help.”
+
+He stepped outside the door, but then he stopped and leaned back to say to the waiter, “You’ll be sure to let everyone know I was here, won’t you? Make a big deal out of it. It’s a weakness of mine, you see, but I love to have my name coupled with important titles.”
+
+As he left, he called over his shoulder in a booming voice, “Good night, gentlemen! Call me again anytime!”

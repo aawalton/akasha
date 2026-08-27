@@ -1,0 +1,305 @@
+---
+id: 76a6c74b-f1aa-5012-870a-8e0b204833dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3"
+slug: 0003-chapter-3
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 3
+ownLength: 2694
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525512/chapter-3"
+royalRoadId: "2525512"
+---
+
+The moment Tachyon woke up she felt more refreshed than ever before. The pain she felt from the fight had vanished and she could tell instinctively that her legs had healed completely.
+
+Boundless vigor surged through her entire body as her eyes snapped open.
+
+That was when she saw the man who had used and tormented her all these years she spent in captivity.
+
+Oh how poetic. She thought as she saw the man’s face paint over with abject fear.
+
+Tachyon wasn’t sure why the man was scared, but she couldn’t help but feel elated to see it.
+
+Bucking, she got herself upright and in an instant surveyed the arena. Her eyes landed and locked in on the two wooden doors that were left open. The exit to the cells and also to the outside of the arena.
+
+She knew the loading docks were close to the cells. She had seen many new arrivals come and go from the doors leading to the docks.
+
+But she saw immediately two more men rush for the open doors, both grabbing to swing them back close.
+
+And she wasn’t about to let that happen.
+
+She willed a familiar skill to activate as she galloped over the man in front of her. Her newly strengthened legs trampling him in an instant.
+
+You have killed, Human Level 7. Experience earned.
+
+New Title earned: Manslaughter.
+
+Tachyon found she could cover more distance more quickly and without tiring nearly as much. Finding herself nearly crashing into the metal cells past the doors, after colliding with the man she targeted, before she was able to stop.
+
+You have killed, Human Level 5. Experience earned.
+
+The man who was closing the door had his mouth hung agape as his head swung to see her rush past them. His eyes went from her to the trampled mess of the other man on the floor in panic.
+
+Tachyon ignored the other man, she wasn’t here to kill every person, unfortunately, she didn’t have time to deal out bloody justice. Her focus was getting out of this place once and for all.
+
+Her head went on a swivel trying to orient herself in the dimly lit cells with the shouting and roaring of the crowd from the arena. Combined with the screeches and growls of the monsters inside the cells.
+
+Finally, she saw the staircase that led upwards from the cells, telling her exactly where she needed to go.
+
+She began running for the staircase and past them, barreling down the line of cell gates as she sprinted for the end of the long hall. Reaching the end she pivoted more quickly than she ever thought she could, feeling incredibly nimble and light on her feet.
+
+Elation took over as she felt herself pick up speed as she ran down the turn. Any humans who spotted her looked in horror and dove out of the way.
+
+Finally, she was being left to run on her own, unrestrained, just as she hoped for. Several more turns and a few straights to run down and there it was. The door to her freedom.
+
+A matte gray door stood in front of her, with men on either side.
+
+She grunted and neighed in irritation.
+
+Why wasn’t the door open?
+
+She didn’t have time to figure it out as she charged full speed into the door, hoping she could just break it open.
+
+Tachyon collided with the door like a gong, the sound of the solidly made object shaking but not budging.
+
+She shook her head and let out an annoyed breath, looking back at the door that had a large horse-size dent in it but still refused to open.
+
+Tachyon turned heel at the door, determined to get out.
+
+Raising her hind legs she bucked and kicked, instinctively using one of her new skills as they glowed a faint red.
+
+Leg Strength - Common
+
+This skill temporarily increases the leg strength of your next strike by a small amount.
+
+Costs a small amount of stamina.
+
+Cooldown: None
+
+Scales off strength.
+
+Continued use will leave you exhausted.
+
+Both her hooves slammed against the door and the solid material creaked. The sound reminding her of metal on metal in the arena.
+
+But the door still did not fall from its hinges, so she tried again. And with another grunt of effort she raised her hind legs and kicked.
+
+This time the door gave way, bending at an angle of the impact.
+
+Tachyon bayed in satisfaction, she was just a mere few steps from being free.
+
+Turning around she willed her skill Leg Strength to activate for a third time, feeling noticeably more tired. But it was her only choice to reach for freedom.
+
+Raising her fore legs this time high into the air she stomped down on the bent metal, crushing it to the floor and finally opening the way for her to escape.
+
+She shot out from the arena and onto the freedom she so wished for.
+
+However reality was cruel and awaiting her was a crowd of countless people in front of her as far as she could see.
+
+The buildings and towering structures were as tall and as far as her eyes could see. The people that seemed to swim in between them just as numerous. But standing at the forefront of the crowd were humans in clothing and armor Tachyon had never seen before. They held pointed sticks, and long blades of metal.
+
+Some held fire and other colorful fire-looking magic in their hands, ready to unleash them upon her. And worse yet there was a singular man in the crowd that she had no choice to give attention to. For he was exuding a pressure like nothing she had ever felt before, not from a human or monster.
+
+She felt a shiver run down her spine.
+
+Tachyon needed a way out and she couldn’t see herself outrunning them in the crowded street or fighting her way through so many humans even after her evolution. So she looked to the new skills she had ignored before and hoped the humans gave her enough time to decide.
+
+After Image - Common
+
+This skill creates a temporary phantom image while granting partial invisibility for a small amount of time.
+
+Costs a small amount of mana and stamina.
+
+Cooldown: 3 Minutes.
+
+Scales off Agility.
+
+Keen Sense - Common
+
+This skill increases your natural senses, allowing you to be more perseptive and aware.
+
+Costs nothing.
+
+Cooldown: None.
+
+Scales off Vitality and Agility.
+
+Martial Kick - Common
+
+This skill greatly increases damage done with your legs.
+
+Costs a small amount of stamina.
+
+Cooldown: 1 Minute.
+
+Scales off Strength.
+
+Pain Reduction - Common
+
+This skill slightly increases your pain tolerance.
+
+Costs nothing.
+
+Cooldown: None.
+
+Scales off Resistance.
+
+Passive Regeneration - Uncommon
+
+This skill moderately increases your natural healing ability.
+
+Costs stamina in return for health.
+
+Cooldown: None.
+
+Scales off Vitality and Resistance.
+
+Overuse of this skill will result in diminishing returns.
+
+While she was slightly surprised to see all the skills have rather useful descriptions, what she needed right now was a way to escape. And that would hopefully be the first skill in the options. It had to be.
+
+You have learned After Image - Common.
+
+Tachyon suddenly felt a trickle of information flow into her and innately knew how to use the skill at the bare minimum.
+
+She instantly placed every last free point she had into her Agility stat bringing it from 24 to 46, nearly doubling it.
+
+Activating the skill just in time she hoped for the best. Fireballs of all different colors, arrows and men charged her after image as she ran to the side. Hoping to burst through a group of humans that were not nearly as dense as the one right outside the door.
+
+She had made it only a few feet from her after image before she was stopped dead in her tracks by the man she felt nothing but fear from.
+
+Standing in front of her in a black hooded cloak, he looked up at her. Beastial yellow eyes and a cold face.
+
+Tachyon reared up, feeling nothing but terror as she came face to face with whatever this truly monstrous beast in human form was.
+
+But then she was slammed to the ground, the temporary invisibility granted by her after image skill winking out of existence as she struggled to breathe on the ground.
+
+What happened?! What is this pressure?! I-I can’t breathe! She struggled internally in horror.
+
+Her eyes gazed upward, the man with yellow eyes looking down at her without pity, his hand raising in the air with a jet black blade.
+
+It can’t end here! It was just starting! I just released myself from that nightmare!
+
+The black blade shone in the light of the fireballs crashing into her after image in the background.
+
+The very last thing she saw before it all went black.
+
+It was another day as a guardsman for Gabriel.
+
+A boring day.
+
+So many years had already passed since the end of earth’s tutorial and the many system events that introduced them into the multiverse that he had forgotten what it was like before it.
+
+Gabriel put his feet up, feeling that it was a good time to take another nap. And why shouldn’t he? There was nothing to do, like, ever.
+
+Sure there was the occasional guild dispute, or rampaging low rank monster through the city, but nothing that would warrant him getting all excited about.
+
+“Guardsmen Gabriel!” someone shouted.
+
+Forcing Gabriel to crack an eye open he groaned.
+
+“What?”
+
+“I just wanted to say- I wanted to tell you- I…”
+
+The young man began to trail off and stammer.
+
+“Out with it. I want to get some shut eye yeah?”
+
+“I-I just wanted to say how honored I am to be serving alongside a hero in the capital! That’s all! W-what you did-do! For humanity as a whole during the integration and the catastrophic events afterward! It’s just, well, amazing!”
+
+Gabriel rolled his eyes.
+
+Another starry-eyed cadet wanting to thank me for things that happened years ago… He thought, sighing. I’m just a washed up C-Rank. There are plenty of stronger fighters on earth now.
+
+Gabriel scoffed to himself, admonishing the thought that he ever thought he was strong. Sure, he had ranked up quickly, even becoming a forerunner in the tutorial.
+
+But.
+
+But there were things and people out there that he would sooner forget. True monsters of Rank and Position.
+
+Gabriel waved the young man off, “Don’t get too dewy-eyed at me there buddy. You know how they say don’t meet your heroes?”
+
+He cracked a smile, closing his eyes again.
+
+Gabriel felt the man stand there confused for a moment in his sphere of perception. Just one of Gabriel's plethora of skills he had accumulated while leveling up to C-Rank. But eventually the man felt awkward enough to leave him alone, rightfully so.
+
+Finally able to get back to his important business, Gabriel leaned back a little further only to have another person approach him.
+
+Groaning again, “What is it now…?”
+
+This time a woman saluted him, “Sir, we have a disturbance at one of the underground arenas.”
+
+He raised a brow, “Which one? Aren’t they supposed to be underground for a reason, why is this our problem?”
+
+The woman looked down in a scowl.
+
+“As you obviously know, The city allows for the arena’s to operate as a means of entertainment and education… It has been years since the initiation and many of the lower level monsters have been wiped out, leading to many children never seeing them and knowing the dangers.”
+
+Gabriel took his feet off his table and began rubbing the side of his head, feeling more exposition and a headache coming on.
+
+“And with recent propaganda trying to assert that monsters are not as dangerous, it is even more paramount that we have these arenas to show just how wild and irrational those statements are.”
+
+“Guardsmen Luka, what is your point…?” Gabriel finally asked.
+
+She slammed a clipboard onto the desk, getting Gabriel’s attention fully.
+
+“The point is that monsters are dangerous and should be treated as such! This arena has had an incident that has already resulted in two men being killed and a monster attempting to escape!”
+
+Gabriel rubbed his temples and grumbled, “Fine! Fine, I’ll go take care of it. Have the guild alerted and send out a notice, the usual. I’ll meet everyone there.”
+
+“What a wonderful idea Guardsmen Gabriel!” Luka beamed, handing him the details.
+
+Gabriel begrudgingly left the building and walked out onto the street. Over the years a modicum of normalcy had returned to the world. They had rebuilt cities, found ways to replicate technology and infrastructure within the confines of the system. Towering structures, paved roads, long distance communication and oh so wonderful governments.
+
+After his fall from grace, Gabriel took a cushy job as a Guardsmen -which was totally not a downgrade from just being a freelancing fighter- at the request of the owner of the city. An old party member and fellow forerunner to the tutorial. The only difference is the city owner never stopped growing.
+
+If Gabriel remembered correctly, he should be B-Rank now, almost crossing into A-Rank.
+
+But he shook the thoughts, focusing on the annoying task at hand.
+
+With his stats, Gabriel was still the strongest person in the city currently and an escaping monster from an underground arena wasn’t going to be a problem. He couldn’t waste too much time because it might kill more people, but he was confident he could end the monster with ease.
+
+He rolled his shoulders, grabbing the sword at his side and sprinted down the street. His stats and light footwork allowed him to move so quickly through the crowd, the only thing people noticed was a light breeze as he passed.
+
+In no time at all he arrived at the scene, a crowd of guild adventurers already surrounding the building.
+
+I guess Luka moves more quickly than I thought. There’s already a dozen or more people here. They all look around F-Rank though. Gabriel thought, inspecting some of the people around.
+
+Human Level 14
+
+Human Level 10
+
+Human Level 11
+
+Arriving late it seemed, Gabriel stopped and walked through the crowd the rest of the way. By the time he had gotten to the front, the sound of shearing metal hit his ears.
+
+A full white horse covered in blood emerged from the arena building.
+
+“A Lightfoot Mare? That’s odd, where would they find a light magic variant on this side of the world? Aren’t they protected..?” he said absentmindedly as he and the monster locked eyes.
+
+Gabriel felt nothing from the monster, it was only F-Rank after all. But he could see the fear bubble up behind its eyes.
+
+An intelligent monster? That’s a shame. Business is business sweety, you killed people when you weren’t supposed to, that means you have to go. Them’s the breaks. He sighed internally.
+
+Gabriel activated his skills one after the other, wanting to finish it quickly. First his Swordsman’s Keen Senses and then his Piercing Gaze.
+
+Skills and attacks from the surrounding adventurers trailed towards the stunned horse monster and Gabriel expected that it would be dead, just like that.
+
+But to his surprise, he saw the Lightfoot Mare activate a light magic skill, After Image. And it tried to slink away into a back alley.
+
+Gabriel sighed and instantly moved to intercept the Lightfoot Mare stopping it in its tracks with a combination of his targeted Sword Singer’s Aura and Piercing Gaze.
+
+The monster quickly succumbed to the pressure and crumpled to the floor in confusion.
+
+I guess its never had to deal with an Aura before. Well, your road ends here. Gabriel thought, raising his blade into the air.
+
+He brought it down casually, knowing his C-Grade weapon would slice the monster in two no matter the speed he swung at.
+
+But just as the blade was about to bite into the monster, it vanished.
+
+Gabriel tilted his head confused.
+
+“Where the fuck did it go?”

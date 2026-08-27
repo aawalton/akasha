@@ -1,0 +1,159 @@
+---
+id: c6290f24-2af8-5d79-8211-1449e2aad23a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1175 - Good Start So Far..."
+slug: 0047-chapter-1175-good-start-so-far
+partOf: the-primal-hunter
+position: 47
+ownLength: 2777
+unit: words
+ownProgress: 2777
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2660996/chapter-1175-good-start-so-far"
+royalRoadId: "2660996"
+markedReadAt: "2026-06-29T19:30:45.050Z"
+---
+
+“Do you think we’ll die if we mess up too badly?” Keerla asked in a casual tone, nearly making Solana drop the bowl she was in the midst of mixing.
+
+“Don’t even joke about that!” the dryad said with a horrified look.
+
+“I was just wondering out loud,” Keerla shrugged. “Considering that recent declaration of friendship thing, imagine if we host a dinner so horrible the Chosen of the Malefic Viper does out and denounces the entire Pantheon of Life afterward. If nothing else, we’d be famous. Probably dead, but definitely famous.”
+
+Solana threw her partner a deadly gaze, making Keerla back off. “Easy! There’s no way they won’t enjoy your food, so relax! If I were actually worried, I wouldn’t dare to make jokes.”
+
+“Yes, you would. You always joke about when you’re nervous, and right now, you’re extremely nervous,” Solana mercilessly cut through Keerla’s facade.
+
+“... would it be best if I just shut up?” Keerla muttered.
+
+“No... no, just try to be positive or talk about something else to take my mind off things. I would ask for your help with cooking, but I don’t want to accidentally serve food so horrible that this dinner turns into a declaration of war,” Solana said, making a joke of her own.
+
+“You’re right,” Keerla sighed. “As long as we follow the advice of my Patron, surely things can’t go too wrong, right?”
+
+“No, they shouldn’t,” Solana shook her head.
+
+They had both been pleasantly surprised when Artemis had answered Keerla’s prayer, seeing as they both assumed they wouldn’t get a response. In Solana’s case, Yggdrasil had expectedly remained quiet.
+
+Still, just that little bit of divine guidance had given them a lot of confidence that they could get through this trial in one piece, and perhaps even get out on the other side better than before.
+
+Neither was under any illusion that this wasn’t an absolutely massive opportunity they couldn’t squander. Even if neither had Paths centered around politics, they knew the importance of a seemingly simple dinner like this and what it could mean for their futures.
+
+If nothing else, the sheer Records they would gain from having a personal relationship with the Chosen of the Malefic Viper would be insane. Of course, massive opportunities could also turn into the worst of disasters, which was why both of them were bundles of anxiety ahead of the dinner.
+
+There was especially one part that had them nervous.
+
+“Could you remind me why you offered a plus one?” Solana asked after she’d been cooking for a while, preparing way more dishes than they would possibly need.
+
+“In my defense, I had no idea who he was, and it seemed a little rude to invite a single guy to our house just so he could feel like a third wheel,” Keerla answered, also working on her own to make sure the utensils were absolutely perfectly placed in the table with identical spacing. She’d even gone as far as to read a book about how to set a table properly, learned nothing she didn’t already know, but just having her existing knowledge confirmed had helped her calm down.
+
+“I wonder who it could be,” Solana muttered. “Did you get any clue when you spoke to him?”
+
+“And that it’s a woman of some kind,” Keerla sighed, unable to hold herself back from joking. “Guess the Malefic One got lucky with his Chosen there. Imagine if someone with a Bloodline like that turned out not to like women.”
+
+“Wouldn’t mean he wasn’t going to have any,” Solana shrugged. “I doubt we can even begin to imagine the kind of expectations someone like that will be under. It wouldn’t be surprising if to him, the topic of children was one entirely divorced from emotions and was instead purely practical.”
+
+“And now you’re making me depressed,” Keerla sighed, her joke falling flat when confronted with the cruel downsides those with his status often found themselves subjected to. “Anyway, who do you think he’s bringing? Someone we’ve heard of? Wait, maybe it’s Dinaldria!? Those two did spend a few decades together in Nevermore.”
+
+“If anything was going on between those two, we would surely have heard about it through the grapevine,” Solana shook her head. “I think it’s more likely that someone from the diplomatic entourage will come along. That, or someone he’s met while here.”
+
+“So you expect it to be some casual acquaintance he’s just bringing along to avoid coming alone?” Keerla asked. “That would make sense, I guess. Unless it’s someone like Dinaldria, there’s no way the Malefic One would permit a serious relationship.”
+
+“Exactly,” Solana nodded, pretty confident in her assessment.
+
+“We should still treat her nicely, though. No matter who she is, just the fact that he’s bringing her along means she must have some kind of status,” Keerla said. Even if her only achievement was to casually be dragged along to a dinner with the Chosen of the Malefic Viper, that would still make her a figure Solana and Keerla had to be careful around.
+
+“I would hope we treat all guests nicely, even if they didn’t have any status of note,” Solana said in a semi-scolding tone, making Keerla a bit embarrassed.
+
+“You know what I mean...”
+
+“I do, but words are important,” Solana said in her usual stern tone. “Especially today, of all days.”
+
+To that, Keerla could only nod in agreement as the couple continued preparing for when their visitors would arrive. They’d discussed so many things regarding this day and even considered whether they should borrow a mansion or something instead of hosting the Chosen of the Malefic Viper in their relatively small home, but ultimately, they decided not to go overboard but stay honest.
+
+Their house had never been cleaner, though, and they had gone out and bought a lot of items to ensure everything looked as presentable as possible. From the tablecloth and tableware to the ingredients in the meals provided, they’d gone all-out, hoping that their efforts would be enough to please the Chosen of the Malefic One. If he ended up unhappy with what they provided and let his disapproval show... yeah, the two had a silent agreement that talking about it when his arrival was this close should be avoided.
+
+Of course, what they didn’t know was that the Chosen they were so worried about would be too socially awkward to complain or point out if anything did actually displease him.
+
+Something Jake definitely hadn’t appreciated enough was visiting the more mundane areas of the new places he visited. He’d seen many of the grand sights on the Great Planet that Yggdrasil had taken root and explored a couple of Hunting Grounds now. Even all the places they stopped while traveling to the Great Planet had been major hubs and important locations within the domain of the Pantheon of Life.
+
+However, where he was going now was far from grand, at least not in the grand scheme of the multiverse. To Jake, it was still an impressive place, but compared to what else he’d seen, it was indeed mundane.
+
+Not in a bad way, mind you.
+
+“I love the design choices here,” Jake commented as he walked through the narrow and barely defined street. The building he was looking at was one carved from over a dozen trees that had fused together and were clearly still alive despite people living in them.
+
+On both sides of the tree were smaller wooden buildings, clearly not grown out of the ground or anything, but merely constructed using timber in a far more regular fashion. A few more houses down, a tree with a house built on top of it stood, and right on the other side of the street was a large hollowed-out boulder with windows and beautiful carvings and art covering it.
+
+“It’s certainly natural,” Artemis, who walked beside him, commented. “This is the kind of small town that appears when the rules are lax. We enlightened still prefer to live close to one another, so it’s only natural that we’ll build close to others, yet our personal styles and preferences vary widely.”
+
+“I can definitely see that,” Jake nodded, as his sphere allowed him to see even more interestingly designed buildings, including a floating platform with a tent on it, a trap door leading into an underground house, and a brick house that was so damn normal it looked entirely out of place.
+
+Fifteen minutes earlier, the two had passed through what Artemis referred to as the city center. There had been actual cohesion in how things were built there, but now that they had moved into what could be considered the suburbs, it was the wild west.
+
+A small detail Jake and the two women he was about to visit for dinner had definitely forgotten about was the fact that they’d never given Jake the address to their home. Luckily, Jake had a Godqueen guide, which had allowed him to get there. It also wasn’t that suspicious that Jake had found it, even if the two questioned him, as he had access to all the assistance he required from the Pantheon of Life, and locating two C-grades would be a simple task.
+
+Keerla and Solana didn’t live on the Great Planet, but had a house in a galaxy quite a bit away from it. The Pantheon of Life had countless planets inhabited with life like this, and just in the solar system that Jake and Artemis currently found themselves in, seven planets like this one could be found.
+
+Speaking of Artemis, Jake most certainly approved of the disguise she’d come up with. It didn’t work to trick his sphere, but it certainly fooled Jake’s eyes, as he wouldn’t have been able to recognize her without his Bloodline.
+
+She was still a wood elf, but most of her features had shifted to make her look quite a bit different. Her usual olive skin had darkened a few shades, her eyes had become slightly larger, and overall, her face had undergone a transformation, making it impossible to assume she was the same person.
+
+In Jake’s opinion, she still looked damn good despite the changes. Clothing-wise, she’d dressed down a bit, probably because wearing divine rarity equipment would stand out a bit. Instead, she wore a dress with cuts made to ensure it was still easy to move around in, a fashion trend Jake had noticed a lot before. It appeared that it was standard practice to ensure that even casual clothes were still functional in case something unexpected happened.
+
+“Do you remember what we agreed on regarding my identity?” Artemis asked as the two were soon at their destination.
+
+“You’re a near-peak C-grade genius hunter I got close to in another Hunting Ground, and you carry a Divine Blessing from Artemis,” Jake said. “I still think it’s a little risky to go with that. Keerla has a Blessing from you already, so isn’t it possible she knows about everyone with a Divine Blessing?”
+
+“It’s not possible, no,” Artemis shook her head. “And this is better. For it to make sense that I accompany you, I would need to be of at least some level of status, and if I have status, not having a Blessing would stand out far more. Besides, acting as if I’m blessed by myself should help keep the story straight.”
+
+“I guess,” Jake shrugged, as he continued to look around while admiring the different buildings. Most of them were empty, with formations locking them down, but there were a few people here and there, most of them meditating or working on their professions inside.
+
+On the topic of Artemis having a Blessing, Jake had suggested she just spoofed having one by Nature’s Attendant or some other god, but Artemis shut that down instantly. The mere notion of acting as if some other god had blessed her seemed offensive to her and not something she would even consider, so Jake had dropped the subject.
+
+“I feel like I also need to remind you to act like a mortal,” Jake said right as two familiar women entered his sphere, showing they were real close now.
+
+“This isn’t my first time, you know,” Artemis chuckled. “Eternity is a long time, and I’ve done my fair share of roleplay here and there.”
+
+“Oh, I definitely know you’re not a novice when it comes to roleplay,” Jake said teasingly.
+
+“Perhaps we should also tone those kinds of jokes down,” Artemis said with a smile. “To avoid making things awkward for those two.”
+
+“See? Already thinking like a mortal, caring about their opinions,” Jake chuckled right as the two reached a wide staircase leading up a small hill.
+
+On top of the hill was a medium-sized wooden lodge with a design not that much different from Jake’s own back in Haven. It was surrounded by trees on all sides and looked pretty cozy, especially with the smoke rising from a small chimney on the roof.
+
+“You take the lead,” Artemis said as they’d both stopped in front of the steps leading up to the house. “Makes the most sense with your superior status.”
+
+“But I’m also a gentleman,” Jake smiled cheekily as he held out a hand. “If you may accompany me, my lady.”
+
+Artemis looked at his hand for a moment before shaking her head and just taking it as the two walked up the staircase side-by-side. Artemis seemed in a good mood despite having been on the edge of whether they should even attend... though she did mutter some scary things under her breath.
+
+“Yeah... if things go sideways, erasing one small planet shouldn’t be a problem.”
+
+“What was that?” Jake asked, giving her the side-eye.
+
+“Oh, nothing,” Artemis gave him an innocent smile. “Just thinking out loud.”
+
+Yeah, Jake chose to ignore that one as he and Artemis soon found themselves in front of the door to Keerla's and Solana’s place. On the way up the stairs, they’d entered a basic formation that did things like regulate temperature, keep out rain, and other simple things like that, but it also had the ability to function as a magical motion detection doorbell.
+
+That’s to say, the two inside definitely knew Jake and Artemis were right on their doorsteps, and Jake found it a bit endearing how they were both practically teleporting around to make sure everything was as it should be.
+
+Solana had already made her way to the door, but Keerla was still looking at the table with laser focus as the dryad silently yelled toward the elf to come to the door. Being nice, Jake gave the two a few more seconds before he knocked, giving Keerla time to get to the door. As expected, with the door locked, no sound could escape the building, courtesy of more regular builder formation magic.
+
+Raising his hand, Jake knocked a few times. On the other side, he saw the two take a deep breath in unison before Solana opened it with a big smile on her face.
+
+“We welcome the Chosen of the Malefic One and his honored companion to our humble home,” Solana said as she bowed down deeply, Keerla doing the same thing behind her.
+
+“Thank you for having me, and please relax,” Jake said in a calm tone, wanting to make things more casual as quickly as possible. “I’m visiting you as a fellow hunter and not in any official capacity. Just treat me as any other guest of equal standing you may receive, and do the same to my lovely company.”
+
+Yeah, Jake had rehearsed that a lot, hoping it could help calm the two. It seemed to somewhat work, at least on Keerla, as he saw the elf visibly relax a little. Solana still seemed on guard, as she nevertheless stood up straight.
+
+Keerla did the same thing, and with their eyes raised, they finally properly saw Artemis, who stood beside Jake. The Godqueen, disguised, took the opportunity to introduce herself as well.
+
+“It’s a pleasure to meet you two. I’m Diana, a simple hunter and a faithful of Artemis,” the god introduced herself. Technically, she didn’t even lie, as Artemis did have a lot of faith in herself.
+
+Keerla perked up a bit at hearing this as she bowed. “It’s an honor to meet another faithful of the Mistress of the Hunt.”
+
+“Meeting kin is always pleasant,” Artemis smiled, and Jake already felt the tension get a lot better as the two elves formed an instant connection through their shared faith.
+
+Good start so far... now let’s hope the food is actually good.

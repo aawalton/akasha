@@ -1,0 +1,153 @@
+---
+id: 7bb8ad44-4145-547b-86a2-47171c6f6b8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1146 - Expansion Plans"
+slug: 0018-chapter-1146-expansion-plans
+partOf: the-primal-hunter
+position: 18
+ownLength: 2657
+unit: words
+ownProgress: 2657
+publishedAt: 2025-08-07
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2499640/chapter-1146-expansion-plans"
+royalRoadId: "2499640"
+markedReadAt: "2026-06-29T19:29:49.866Z"
+---
+
+Jake woke up with a killer headache, finding himself lying comfortably on a couch back at his palace residence. He took a moment to orient himself as a voice echoed from directly above him.
+
+“You know, most people are able to pace themselves and not embarrassingly pass out,” Artemis said, her words sounding almost like a scolding, but her tone didn’t indicate she disapproved.
+
+Opening his eyes, Jake stared directly up at Artemis, who looked down at him, which was also when he realized that the comfortable pillow he was lying on wasn’t a pillow at all.
+
+Smiling, Jake looked at Artemis a bit teasingly. “I don’t know. I think it turned out quite well. At least I’m not complaining about the situation I currently find myself in.”
+
+“Mighty cocky for someone who just knocked themselves out on accident,” Artemis chuckled.
+
+“Hey, those small sprouts should be happy. They got quite the meal,” Jake commented casually. “Though I will admit, they consumed a lot more than I thought they would be able to. Did Nature’s Attendant starve the poor buggers or something?”
+
+“No, you’re just too weak to provide them with proper nutrients,” Artemis said, not a hint of jest in her voice.
+
+“Ow, that’s hurtful.”
+
+“Sometimes, the truth hurts,” Artemis shrugged. “You should be happy. The fact that they could absorb that much energy means that the final result will be stronger, right? Nature’s Attendant isn’t holding anything back with this one, which means your input is essential. He can’t provide the energy himself, or his Records will inevitably turn the item into something only gods can use.”
+
+“Sounds like I’ll have to knock myself out a few more times, eh?” Jake joked.
+
+“Or, better yet, you could stop just before you pass out from exhaustion. That way I wouldn’t have to carry you home,” Artemis said with exasperation.
+
+“And miss out on getting a lap pillow from a goddess? Never.”
+
+“If it happens again, I’m gonna throw you off in the middle of the busiest market in the Pantheon of Life,” Artemis threatened. “And I’ll make sure that your only way back will be through asking strangers for directions.”
+
+“You wouldn’t,” Jake said, a hint of actual fear in his voice.
+
+“Oh, I would.”
+
+“Evil truly knows no bounds,” Jake sighed. “Point taken. I should avoid passing out next time.”
+
+“Good,” Artemis smiled triumphantly. “Now stop lazing around. You’ve already slept for five hours.”
+
+“But I’m just-“
+
+Artemis stood up with no regard for Jake lying on her legs, pushing him down toward the floor. Forced to react, Jake stopped his fall and pushed himself off the floor and into a standing position.
+
+“See, not that hard,” Artemis smiled. “While I would love to laze around more, I sadly do have some obligations I need to attend to. Don’t miss me too much.”
+
+“Hey, when my mind is in the alchemy mire, I miss or think about nothing else,” Jake shrugged.
+
+“That’s only a good thing,” Artemis said. “Oh, and do say hi to the Warpsnatcher for me. It was hanging out in the living room when I returned and looked at me as if I’d killed you when it saw me carrying around your limp body.”
+
+“Poor little guy,” Jake sighed as he checked using his sphere and saw the Warpsnatcher hide within one of its loot piles in the cellar. “I’ll go down and talk to him.”
+
+“You do that. See you later,” Artemis said as she teleported away, presumably to do god stuff.
+
+Jake did as he said he would and went down to the cellar right away to assure the Warpsnatcher that things were fine, and that Artemis hadn’t cruelly killed him and paraded his body around in some bizarre display of superiority. He wanted to say that Artemis wouldn’t do that kind of thing, but when he considered her earlier threat, she definitely did have the ability to display pure evil.
+
+On the topic of deciding a name for the little guy... still a work in progress. Something very Jake-like, such as Snatchie or Warpie, was tempting, but he decided to take his time and think about a proper name that Miranda wouldn’t smack him over the head for. Hopefully, if the Warpsnatcher did successfully evolve to B-grade, the new race would give him a good idea.
+
+After reassuring his little friend, Jake went straight back to his alchemy lab and continued working on making a rejuvenation potion. At least for a little while, but seeing as his resource pools were still rather barren, he soon switched to meditation and studying the tome left by the First Sage.
+
+Like that, Jake got back into the grind as he worked on several projects at once. The only times he contacted the outside world were if he needed something, in which case Jake just had to send a message through his token, and a delivery would arrive shortly after. Everything ordered naturally was put on the tab of the Order of the Malefic Viper.
+
+Days passed, and soon enough, Jake had his first success as he crafted a common rarity rejuvenation potion. However, Jake knew he could do better than that and kept pushing, and only a few days later, he finally got what he wanted.
+
+You have successfully crafted [Rejuvenation Potion (Uncommon)] – A new kind of creation has been made. Bonus experience earned
+
+As with other potions, the requirement for uncommon rarity was to consume at least a hundred thousand resources in total, and Jake barely passed that threshold as he bottled up the liquid and used Identity on the newly created potions.
+
+[Rejuvenation Potion (Uncommon)] – Restores 34,432 health, stamina, and mana when consumed.
+
+With the potion done, Jake didn’t need to think long about what to do with it. Jake chugged the entire thing down as he closed his eyes and focused on how the energy spread throughout his body to restore it. He observed how the liquid split off into different streams of energy as it was carried through his Soulshape before eventually being fully absorbed or dispersing.
+
+Opening his eyes again, Jake took mental notes of how the energy had acted as he also felt the subtle effects of Palate doing its work. To better understand their restorative properties, Jake had already consumed an exorbitant quantity of herbs, but consuming a finished potion was also nice at times.
+
+Seeing as he had an hour's cooldown time on the potion, Jake went back and worked on other matters for a while. When he felt like the time was right, Jake consumed another potion and felt its effects on his body as a plan slowly began to form. Not one necessarily made to upgrade Blood of the Malefic Viper, but it was part of it.
+
+After another few days of alchemy, Artemis returned to the palace to fetch him, though Jake did notice something about this version of her. After a bit of probing, he learned she had just sent an avatar, as her true body was busy elsewhere. Jake tried to ask what she was up to, but the goddess remained mysterious as she brought Jake back to Nature’s Attendant’s garden.
+
+This time around, Jake didn’t pass out. Nature’s Attendant was also there to facilitate the process just like last time, and after Jake returned home with at least a few resources in the tank, he went straight back to meditation as Artemis took her leave again.
+
+During all this time passing, the Warpsnatcher had also finally finished fully setting up its own little territory, at which point Jake could confirm it did indeed function similarly to a formation. Simply being near all the loot, the Warpsnatcher would get experience, though it appeared that the little guy needed to occasionally update the hoard. Jake did ask the nearly peak C-grade if he needed to head out and procure some stuff elsewhere, but the Warpsnatcher assured Jake everything was fine.
+
+It was only a day later that he realized that a lot of the shinier decorations of the palace had started to vanish, only to appear in the cellar hidden under piles of what to Jake were pure junk.
+
+As Jake was working on all his own stuff, he couldn’t help but wonder how everyone else was doing. He knew that the Sword Saint and Sylphie were both up to their own stuff within the Pantheon of Life territory, and if anything surprising had happened with them, he would have heard, but there were also others to consider.
+
+Such as what was going on back on his home planet.
+
+Miranda was fairly sure she would evolve to B-grade before Jake did. Not because Jake was particularly slow at leveling or anything, but because of the absolute shitload of work she had been saddled with to manage all of his affairs.
+
+Ever since the universe had opened up to the rest of the multiverse, Earth had a constant stream of people coming through. Some wanted to visit, others wanted to settle down there, and a scarce few even tried to see how they could gain influence over the planet.
+
+Plenty of religious organizations also tried to make their play, which was where Miranda surprised many of them. As per discussions with Jake and many others, these organizations weren’t outright rejected but instead could apply to get their own small territory on the planet.
+
+These territories were no larger than small villages, and they were still fully under the authority of the World Council. However, this gesture of allowing these factions to establish themselves went a long way toward gaining allies.
+
+It also communicated to the multiverse that Earth was a mostly neutral territory. One that, as long as the laws were obeyed, anyone was free to visit. Of course, not everyone was allowed to visit, as Miranda had already predicted the shitshow they would be in for down the line with open borders. There was a relatively strict border control, but as the number of visitors remained limited for now, they didn’t have too much to do.
+
+This policy also helped battle rumors that the Order of the Malefic Viper had sought to push out all other major factions from the galaxy. Or, at the very least, that any of the factions that were allowed had to make themselves subordinate to the Order. If only a few factions were around, this rumor would have some ground to stand on, but when it was only the Holy Church that was banned, it was clear to all who the problem was.
+
+Sure, no one dared speak that the Holy Church had gotten thrown out deservedly, but based on what Miranda had gathered, a lot of people sure as hell were thinking it.
+
+Miranda remained very careful to make the distinction between Earth and the Order, making it clear they remained two separate entities. Sure, the Order did fully back Earth, but they weren’t officially the rulers. Due to the Malefic Viper’s prior declarations that his Chosen was his own person who could make decisions without his Patron’s input, this claim was acknowledged.
+
+Admittedly, Miranda was fairly certain the majority of influential factions just viewed this as the Viper allowing his Chosen to play around and have his own galaxy to rule autonomously, but as long as they didn’t cause trouble, Miranda didn’t care what flawed conclusions they reached. In due time, they would realize the truth.
+
+Sitting in her office, Miranda was going over the most recent crime reports – a positive one as people were finally beginning to realize Earth was serious about its laws and applied them equally to everyone – but just then, she had a knock on the door.
+
+Looking up from the report, she spoke. “Come on in.”
+
+She had not been expecting any visitors, and Lillian was currently away supervising the establishment of another megacity outside of the territory humanity originally occupied. As a reminder, all the humans on Earth had been confined to just a small section after the Tutorial, but now, plans to reclaim the entire planet had already been set in motion.
+
+“Excuse the intrusion,” a woman said as she opened the door.
+
+Miranda was surprised when she saw who it was and instantly frowned. “Has anything happened with Arnold?”
+
+The visitor was the personal assistant of Arnold, someone who usually didn’t even leave the huge metal dome. Wanting to know as much about one of the most powerful people on Earth as possible, Miranda had looked into Arnold as much as she could, and it hadn’t been difficult to learn about who he was before the system arrived.
+
+Arnold had always been a genius. A genius, but also different, to the level where he had a hard time relating to normal humans. Despite his lack of interpersonal skills, Arnold’s genius had been enough to provide him with a lot of power and funds, some of which he had used to hire the woman who now stood in Miranda’s office. Her name was Nanna, and outside of her job working for Arnold, she didn’t appear that extraordinary.
+
+She had originally been hired as his personal assistant, but had quickly become the manager of Arnold’s life outside of his work, showing that she was indeed competent. It was a role she had also adopted after the system arrived, and her Path was now essentially one with Arnold’s. In many ways, she was the reason why Arnold still had resources to continue working on all his products, even if Arnold had become better at handling matters by himself.
+
+However, that didn’t answer why she was in Miranda’s office in the first place.
+
+“No, he’s fine, but preoccupied with his current project,” Nanna answered. “Hence why I took the initiative to visit you by myself about a challenge we are currently facing.”
+
+“What seems to be the problem?” Miranda asked curiously.
+
+“In a single word... space. The underground factory continues to expand, but we will soon reach a limit where it’s no longer workable to continue expanding,” she explained. “At least not without risking causing issues for the city above. If we move closer to Haven, we also risk ruining the ecosystem and causing the forest problems.”
+
+Miranda frowned, though she wasn’t surprised. Arnold had originally set up shop in the old Fort close to Haven and had stayed there ever since. He already owned a large area above ground with his metal dome, with the majority of Arnold’s factory and workshop beneath the ground. Constructing down there was bound to bring challenges, especially with the level of energy Arnold was working with. Also, Arnold was already a bit miffed that he had to do his weapon testing so far away from his metal dome, as Miranda banned him from testing high-powered explosives right beneath the city.
+
+“I take it you’ve come here because you have some idea how to address this challenge?” Miranda asked. She had already offered for Arnold to get his own large territory far away from any other settlements, but he hadn’t seemed interested.
+
+“I managed to get a sit-down with my boss, and after a lot of discussion and calculations on his part, we concluded that there is currently no place on Earth suitable when taking considerations for the future into account,” Nanna explained, making Miranda frown.
+
+“Do you plan on leaving Earth, then?” she asked, considering the matter a bit. “There are a few unoccupied planets in our galaxy that could be used...”
+
+“No, the boss wants to stay near enough to Earth to make visiting and short-range teleportation convenient. Oh, and the Records from just being near or on the planet are too good to miss out on.”
+
+“What exactly are you proposing?” Miranda asked, quite unsure what Arnold’s assistant was getting at.
+
+“Well... taking everything into account... we’ve been wondering if perhaps the moon is for sale?”

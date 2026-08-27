@@ -1,0 +1,151 @@
+---
+id: 62790a79-d933-5176-a179-58dd019ba35d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1350 - Towards the End of a Phase"
+slug: 0224-chapter-1350-towards-the-end-of-a-phase
+partOf: the-primal-hunter
+position: 224
+ownLength: 2896
+unit: words
+publishedAt: 2026-07-09
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3653608/chapter-1350-towards-the-end-of-a-phase"
+royalRoadId: "3653608"
+---
+
+90% of all galaxies had been eliminated within not even a full month of the event beginning. Anyone with real insight could have predicted it would end well before the five-year limit, but few predicted it would be over that quickly. Sure, there were a lot of factions conquering and destroying dozens of Territories, but far more were not.
+
+The vast, vast majority of galaxies had played nearly entirely defensively in the first period of the event. They had focused on defense and sent out scouts to see if one of their neighbors was weak enough to attack, since they did need to destroy one Beacon to stay in the event. They hadn’t been in a rush, though, which admittedly had led to many of these overly-defensive factions finding themselves eliminated.
+
+Most others who had made some offensive moves targeted only one other Territory and, in many cases, lost a few B-grades in the process, forcing them to spend the next month in full defensive mode, waiting for a significant portion of their fighting force to reenter.
+
+Others who were powerful enough to crush all opposition simply didn’t. Instead, they sought to turn other Territories into Vassals or allies, each Territory part of the union, only destroying one other Beacon each to remain.
+
+There was no set strategy, no best approach, and all the major factions of the universe found themselves with solid footholds after the second phase came to an end. Some had come out of it better than others. Some had naturally also gone beyond expectations, and a few forces had also seemingly come out of the woodwork, surprising everyone.
+
+Some Territories were also not led by what was usually considered a “faction,” but that didn’t make them any weaker. Many powerful gods weren’t part of any large factions, such as several of the Primordials and other notable figures like the Seeker, Void Gods, and others who preferred to remain solitary or hidden in the dark.
+
+There were many stories from this first month, and many notable figures made themselves known. While not all Territories had been aggressive, it remained an undeniable fact that 90% of all Beacons had been destroyed within a month, and some Territories had destroyed far more than others. The World of the Exalted Prima had been far from a peaceful place, and one’s survival had more often than not been entirely down to how unlucky one was when it came to the local neighborhood.
+
+With some having definitely gotten less lucky than others.
+
+--
+
+“It’s coming,” the minotaur-looking man said as he looked with a worried expression towards the horizon.
+
+“How long do we have?” an elven woman asked from beside him, looking even more worried.
+
+“Around an hour, maybe a little less. That’s just my assumption, though,” the man shook his head before turning to look at the heavily fortified Territory Beacon behind him. “Our defenses won’t hold long.”
+
+“Has the Holy Church responded?” the woman asked. She already knew the answer; if they had, he would surely have said something by now. After being quiet for a few moments, she resolved to make a decision. “We retreat towards the Endless Empire Territory.”
+
+“Will they even take us? What would it help?” the man let out a loud sigh. “Ectognamorphs are not known for taking in refugees, especially not if taking in those refugees requires them to fight a powerful foe.”
+
+“But who else besides them or the Holy Church could stand up to those two?” the elven woman asked with exasperation. “I'm not saying they’re likely to accept us, but it’s our best bet to survive this. At least escaping would buy us two months to try to find a solution.”
+
+“Very well,” the minotaur variant agreed reluctantly. “Then let us not delay any further. We don’t have time to gather everyone, so we should-“
+
+Right then, a rumbling was heard on the horizon, making the two of them realize that it was too late. Their elite group sent out to conquer Territories had been slain not even an hour ago, and they’d expected to have more time. They had severely underestimated the power of what was coming.
+
+A living storm approached them. An all-consuming wind was moving the very sky toward them, and not far behind, a cold front unlike any other was freezing everything as it passed. It wasn’t just one, but two storms, their energies merging together at times, as both were harbingers of supreme beings approaching the two only surviving B-grades of this Territory.
+
+“It’s too late,” the minotaur said, falling backward as he stared toward the ground. “How could we be so unlucky?”
+
+The elven woman opened her mouth to say something, but ultimately just shook her head. “The luck of the draw... and as you said, we got unlucky.”
+
+They could try to muster their defenses, try to buy time using their remaining Prima Credits, but it all seemed so meaningless. Even if only one of these beings had come, they would have been screwed. The two of them moving in unison? There were few forces in this entire system event that could even try to defend themselves.
+
+Having resigned themselves to their fates, the two watched as the massive gust of wind kicked up the soil and moved the clouds as it approached them, freezing the ground behind seconds later. These two truly were a powerful combination, and at least there was some dignity in dying to beings like these... is what they wanted to think.
+
+However, as the two storms drew closer, voices echoed from within them throughout the entire area. Voices that made them feel a lot more conflicted about who was about to destroy their Beacon and end their lives.
+
+“Is it not destiny for our Territories to have been this close together? We are already allies by divine credence, so isn’t it natural we should seek to become closer as companions who will fight side by side?”
+
+“Ree!”
+
+“Perhaps destiny was a misused word, but my sentiment remains. This is no mere coincidence. Our Records are connected. Our gods stand together. All I wish is for us to truly get to know one ano-“
+
+“Ree!”
+
+“Well, yes, moving separately would be more efficient, but I believe it is more pertinent to deepen our bond. Our domination of all surrounding Territories is a given, so we have no need to rush; instead, we should invest in the future. Our future.”
+
+“Ree! Ree!”
+
+“No, no, you misunderstand! I didn’t mean any offense! Please allow me to-“
+
+The minotaur tried to zone them out as he looked at the elf. She looked back up at him, sharing the same sentiment in their gazes as they fully deactivated the barrier surrounding the Beacon, wanting this to be over as quickly as possible.
+
+--
+
+The energy seared through her being, seeking to consume her whole as the flame enveloped her entire body. Carmen struggled as she moved forward, the runes covering her skin shivering and shaking as they lit up, barely handling the powerful energy that washed over her.
+
+Yet, slowly, she moved forward, much to the astonishment of her opponent, who was likely used to anything and everything falling to this kind of attack. Runemaidens were just built differently, as Carmen continued, soon at the maw of the beast.
+
+Giving the monster a victorious grin, Carmen reached up and proceeded to grasp two of the large fangs of the beast, intending to pull them out or at least cause quite a toothache. That finally made her opponent stop the attack as the dragon retreated quickly, staring at the Runemaiden with utter astonishment.
+
+Carmen remained still as she breathed heavily, her body looking very burnt from top to toe, as the attack had managed to get through her defenses somewhat. Not enough for her to drink a healing potion quite yet, but enough for her to take a moment to breathe and gather herself.
+
+She had just endured a full-on close-range Dragon’s Breath from a red True Dragon, after all. A feat few newly evolved B-grade could claim to have accomplished. Granted, it wasn’t the most impressive dragon, but it wasn’t one of those bottom-feeders either, who coasted through existence just because they were born to two powerful lizards fucking one too many times.
+
+“Can you do it again?” Carmen asked after a few seconds as she started moving forward, but sadly, based on the dragon taking a step back in response, it didn’t seem like it.
+
+“Oh well,” she shrugged before leaning forward and stepping down, exploding into motion. The dragon tried to counterattack as it conjured magic to fill the sky, but against the nearly magic-immune Runemaiden, it accomplished little as she proceeded to close in and punch the large lizard in the jaw.
+
+It continued trying to run, but Carmen saw no need to drag things out as she pummelled the powerful B-grade into the ground, feeling a little bad for her opponent. As a race focused on magic, she truly was a bad match-up for them, and she doubted any dragon, other than maybe a genius from the Wildflight, would stand a chance in a physical fight.
+
+Would have been more fun to face a monster good at throwing hands, Carmen thought while continuing to chase down and attack the dragon, which was the final line of defense for its Territory.
+
+Hey, maybe I’ll get lucky in the future... it would be fun to fight one of those Behemoths.
+
+--
+
+“I thank you, holy one,” the squid-like monster with a vaguely humanoid body said, bowing toward the man wearing a white robe. “We shall strive to realize your goals.”
+
+“I don’t like to think of them as merely my goals, and hope that you can start to also consider them yours. Not for my sake, but for the sake of everyone part of the coalition,” the human said with a smile, his many passive skills for charisma used subconsciously, putting the other person’s mind at ease.
+
+“Your goals are our goals. I want the best for those who have entrusted their fates to me, and you want the best fates for everyone. Putting trust in your knowledge and ability to decide what’s best feels like the superior way to accomplish my own goal and fulfill my responsibility,” the squid man said, putting a lot of trust in the man from the Holy Church.
+
+With good reason, too. It was the Path of the Augur of Hope to help others realize their Paths and become their best selves, and Jacob had a reputation for being good at what he was meant to do. What’s more, he was known as fair, having acted more as a conflict solver than anything else ever since entering the World of the Exalted Prima.
+
+“In that case, I can only thank you and swear to do my best,” Jacob smiled and bowed his head as he finally activated the system feature to forge the alliance. Like so, another four Territories – all of which were composed of several conquered areas – joined their existing alliance, now simply called a coalition.
+
+“I look forward to seeing what we will accomplish,” the squid man also bowed as he soon took his leave, returning to his own Territory to continue his rule, now knowing that he had a powerful ally at his back.
+
+Shortly after he was gone, and Jacob dispelled the barrier sealing off the room, a woman teleported in. The Augur, who was sitting at his desk reading through an information crystal passed to him earlier that day, didn’t even look up as he spoke.
+
+“Saintess. What do you have to report?” he spoke in a very professional tone devoid of any emotion.
+
+“Why so cold?” she asked, tilting her head.
+
+“I’m not; I just don’t see the need for useless pleasantries with a person that I don’t appreciate and know doesn’t appreciate me either. So, please, your report?” Jacob said, looking up at the woman who was also one of the stronger people in this entire system event.
+
+Seeing as Jacob was not a fighter, he had been assigned a full party to enter the system event with, and the Holy Church hadn’t held back, wanting to ensure he wouldn’t be eliminated early due to lack of power. The Priestess in front of him was one of the best healers of their generation, having even been top 10 on the Nevermore Leaderboards.
+
+Well, top 10 for a little moment. Until Jake had pushed her down to the eleventh spot. Still, being top 11 wasn’t bad either, and the four people she had entered with were all at the same, if not at a higher level. Especially the party leader wasn’t someone to be taken lightly, and part of the reason why things had gone so well thus far in the World of the Exalted Prima.
+
+“Fine, here’s your report,” the Priestess said, a little unsatisfied as she threw over another information crystal. Jacob quickly scanned it to get a cursory look and nodded, satisfied.
+
+“The growth of the coalition remains beyond expectations,” Jacob said respectfully before looking at the Priestess. “Keep up the good work, and tell Beladar that he should delay the expedition a little, as you five will soon have more pressing matters to attend to.”
+
+“Why?” the Priestess asked with a frown. “It’s been confirmed there are Risen present; we should crush them as soon as possible before they have time to spread.”
+
+“There isn’t time,” Jacob shook his head, closing his eyes for a moment before opening them again. “The second phase will end within the next few hours, and I’m confident the next phase will bring about changes that will need your attention more. The Risen Territory can wait, and if they dare move against us, all they’ll accomplish is fighting on our home turf while potentially missing out on some benefits of the next phase. Instead, if you have any time, make sure none of our allies are lacking the requirement to destroy another Beacon.”
+
+The Priestess was convinced and nodded quickly, flashing him a smile. “I’ll report to Beladar immediately. I must say, having an Augur sure is useful. Especially in this world.”
+
+Jacob waved her off, and soon enough, she left the office, allowing Jacob to refocus on the many reports in front of him. He had a lot to oversee, and his Path only made things more complicated.
+
+After evolving to B-grade, Jacob’s Augur abilities had naturally improved, and he’d gotten better at reading the flow of the world and predicting the future. These changes had been noticeable, yes, but they’d become extreme after entering the World of the Exalted Prima.
+
+His prediction that the phase would soon be over wasn’t because he predicted a system message would soon come. Instead, it was because he felt that nearly nine out of ten Territories had already been eliminated.
+
+Jacob’s ability to read the World of the Exalted Prima was truly beyond expectations, and had become one of the major boons of the Holy Church thus far, also helping him increase his influence and reputation among the faction’s members.
+
+He believed it had less to do with this being a simulated world and more to do with who was in the world and able to influence it. Every change, every decision, every action that influenced the future of the simulated world was made by B-grades at most, with gods or other powerful beings having no influence or the ability to affect the flow of things. Sure, there were some with Transcendent Skills or Bloodlines that muddied the waters a little, but in the grand scheme of things, their influence wasn’t that noticeable.
+
+This had allowed Jacob to predict incoming attacks, direct his allies on where to expand, and had made many rely on him as the coalition grew by the day. Reading the reports, he was a little sad to see that while they had reached their goal of total Territories part of the alliance – Vassals counted among them – they hadn’t reached the arbitrary number Jacob had hoped to see.
+
+“Would have been nice to have been in the four figures,” he muttered, looking at the latest map update, showing the absolutely massive domain he was now in charge of. It was likely the largest coalition of factions in the event so far, and the teleportation network was already rapidly expanding, taking full advantage of the fact that they had this many Territories, meaning they could buy new Teleportation Nodes relatively cheaply by not having a single Chief Administrator buy dozens, but instead connecting their many different networks.
+
+They were incredibly well set up for the next phase and whatever new challenges it would bring. While Jacob couldn’t prophesize what the system event would bring, he had a good feeling that the Holy Church, or at least his little coalition, would continue to perform extremely well.
+
+He believed that to be true, even if they encountered some of the individuals who could cause trouble for them. Jacob believed they had the means to address them... well... besides maybe the Eastbound Monk, as no matter how many times he tried, Jacob saw no good future if they ever got into a conflict with that monster.

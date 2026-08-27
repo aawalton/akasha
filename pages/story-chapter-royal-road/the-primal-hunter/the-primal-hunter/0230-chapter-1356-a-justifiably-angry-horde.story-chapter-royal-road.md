@@ -1,0 +1,133 @@
+---
+id: feffb588-a294-59c6-b330-b14aff0e4fe4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1356 - A Justifiably Angry Horde"
+slug: 0230-chapter-1356-a-justifiably-angry-horde
+partOf: the-primal-hunter
+position: 230
+ownLength: 2736
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3689644/chapter-1356-a-justifiably-angry-horde"
+royalRoadId: "3689644"
+---
+
+“How in the ever-living hell did you even manage to make this many enemies already? The phase has just begun! How did you get the opportunity to steal from so many factions gathered in one place?” Jake asked as he kept an eye on where the underwater lake had once been, and the two thieves’ pursuers were coming through.
+
+“That’s also totally Jasper’s fault!” Sandy entirely refused to take any blame.
+
+Jasper didn’t help his case either, as the little guy raised his paws proudly. “Smart! Find treasure easy!”
+
+In retrospect, it definitely wasn’t surprising that Jasper had managed to lead them straight to a lot of valuable objectives. It was only what one could expect from someone following the Seeker. Sandy also wasn’t bad at locating their next snack, and in combination... yeah, those two were a complete and utter nightmare.
+
+“You didn’t answer my question. What happened? Details,” Jake said, not sure what to feel. He also wondered if they should maybe escape.
+
+“Okay, okay, so Jasper and I entered this Central Domain together, right? Dream team right here, and after appearing, he led us straight to the best place with treasures he could detect, which just happened to be a point of interest many other factions had also detected. Not super surprising, as it was a massive pyramid close to the border between the jungle and desert area, but I digress. Not to be deterred, we also went to explore this pyramid, which many powerful factions were fighting to conquer. They went through the undead foes, fought the final boss, and then someone who shall not be named took the dagger that appeared on a pedestal after the boss died. Though, in his defense, the dagger did look very stealable, and I understand the impulse to swipe it. Plus, it served as a nice distraction for me to go through all the other treasures in the side rooms, earning me a few thousand Prima Credits.” Sandy finally gave a proper explanation of what the two had been up to.
+
+Hearing the worm’s story... yeah, everything tracked and was more or less as Jake expected. He did have many other questions, but continued focusing on the current situation.
+
+“Can you show me that dagger?” Jake asked, and after a moment of reluctance, Jasper took it out and held it up. Jake used Identify, and, yeah, he quickly understood why these two were being pursued.
+
+[Ritual Sacrifice Dagger (Unique)] – One of nine Ritual Sacrifice Daggers that are required to open a hidden trove within the Palace of Abundance.
+
+At this stage of the phase, anything related to the Palace of Abundance was highly sought after, and these two had found a key to a hidden trove within that place. Well, perhaps just a piece of a key, but it was still an item any faction would want.
+
+Jasper quickly put the dagger away again, and Jake knew there was not a snowball’s chance in hell the hoarder was going to hand it over. Letting out a sigh, Jake shook his head and gazed back towards the spatial tear that was still expanding.
+
+“How strong are your pursuers?” he asked, wondering if he should just accept making enemies with a shitload of factions already by helping out these two thieves.
+
+“Little strong,” Jasper answered after thinking for a second. “Jake stronger!”
+
+“As Jasper eloquently put it, they’re decently powerful, but they mainly had numbers on their side. Truthfully, outrunning them through the desert wouldn’t have been that hard, but it was too damn hot, so I would rather go here, and besides, I hoped forcing my way through and breaking the portal would mean a clean escape, but here we are. Again, not really my fault that my plan didn’t work. I can feel the system actively stabilizing part of space, and in a day or two, that lake would definitely reappear on its own,” Sandy said, once more trying to write off all responsibility for the current situation the three found themselves in.
+
+While it was tempting to just bail and leave the two be, Jake didn’t truly consider it. Even if the two were shameless thieves and their pursuers were most definitely justified in their anger, these two were his chosen family, so he would stick by them.
+
+“So what do you two want to do? Run or fight?” Jake asked, fully aware that if it came to fighting, he would be the only one doing much.
+
+“I would love to just get out of here, but one of them put a nasty tracking mark on me, and I can’t shake it off. So while we could easily escape, unless that persistent bastard gives up and lets us go, we’ll be stuck with a pursuer for the foreseeable future until I get rid of the mark,” Sandy explained, making Jake sigh again.
+
+Sounded like someone in the group they’d pissed off had a skill similar to Jake’s Hunter’s Mark. Skills like that were notoriously difficult to get rid of, even if one was significantly more powerful than the one who’d applied it. Heck, Jake was a good example, as he could put his Mark on people far more powerful than himself without them even noticing.
+
+It appeared that the mark on Sandy wasn’t even trying to hide its presence, as when Jake felt for it, he also vaguely detected another’s magic upon the worm’s existence. That could appear to be a good thing on the surface, but in reality, it likely meant that the skill was fully focused on being hard to cleanse, and none of them were healers in the first place.
+
+“Fight it is,” Jake reluctantly concluded as he crossed his arms and waited.
+
+“What a wise decision!” Sandy said. “Oh, in case you didn’t know, if you kill other Administrators within the Central Domain, you get Prima Credits for it based on how much the person has collected! Isn’t that neat and incredibly relevant to this situation?”
+
+Jake had not known that, but hearing it, the high level of caution from the two members of the Pantheon of Life and the people fighting to the death he’d seen in the jungle made a lot more sense. He’d thought that fighting seemed kind of pointless over gathering treasures, but now it seemed like the best way to gather Prima Credits was actually to kill people. Very system-like of the system to include a feature like that. He also wasn’t that surprised that the system hadn’t included this rule in the initial description. It sometimes liked adding little fun surprises like that.
+
+“Interesting,” Jake asked. “How many do you get? And does the killed person lose those Prima Credits for their Territory?”
+
+“You get like ten percent of what they have gathered, so not super much, but there is a base bounty of their level, so you always get something! And no, they don’t lose anything for their Territory, so it is just a way to get extra Credits. Can totally see some factions exploit it by having someone weak claim all the treasures and then have one of their own kill the person to get a ten percent bonus.”
+
+“Yeah, I can definitely also see factions like the Holy Church do that, though it would require them to have gathered a decent amount of treasures for it to have been worth it to teleport them into the Central Domain in the first place, so I-“
+
+“Oh, look, they’re about to break through!” Sandy interrupted Jake, as their observation was indeed accurate.
+
+The spatial tunnel, mostly destroyed by Sandy, finally stabilized, and dozens of figures started pouring out of it. They were indeed of all races and seemed to be from so many damn different factions that it was hard to keep track of them. There were even two dragons that appeared in their true forms, along with a few other large beasts.
+
+Leading them was one of the dragons alongside an elven tracker, both of them decently powerful. Not that Jake would classify them as truly strong, though, as his standard for that was truly extreme. The two of them instantly noticed the giant space worm, who was really hard to miss, as the tracker pointed at Sandy and Jasper.
+
+“You! Do not think you can escape after... after...” the guy said before trailing off as he, halfway through, noticed Jake standing with his arms crossed off to the side, staring him down.
+
+People continued pouring out of the spatial tunnel, many of them high-energy and yelling until they read the mood and quieted down, joining the others in staring at Jake and his two creations.
+
+It didn’t take more than ten seconds before everyone was there, and it was genuinely impressive how Sandy and Jasper had managed to piss off over a hundred people from so many factions. Jake even spotted a guy from the Court of Shadows who very smartly slipped back through the spatial tunnel, looking like he hoped Jake didn’t notice him.
+
+“Chosen of the Malefic One,” one of the two dragons spoke, addressing Jake while also announcing who he was in case anyone present didn’t recognize him. It was a black dragon from the Darkflight, and he was pretty sure this dragon was the strongest one present, beating out the tracker slightly.
+
+Jake didn’t say anything but merely looked at him, hoping that his intimidating presence would say all that needed to be said. A few of the people present were still staring daggers at Sandy and especially at Jasper. The Shimmershroud Planeswarper reacted to these angry gazes by jumping down from Sandy, disappearing mid-air before appearing behind Jake, grasping the back of his leg while hiding behind it, peeking out at the angry people.
+
+“I did not realize these two were operating on your behalf,” the dragon spoke in a voice that sounded neutral, but carried the implication that Jake had ordered the two to go thieving. While Jake wanted to remain cool and calm, he wasn’t going to let allegations like that fly.
+
+“Do you think I have the time or desire to order these two around? The Chosen of the Boundless Hydra and the Shimmershroud Planeswarper are acting entirely on their own, and isn’t it insulting to them to insinuate otherwise?” Jake said, giving the dragon a disapproving look.
+
+“Yeah, while I would love to blame him for the Planeswarper’s clearly immoral actions, and my very minor mistakes, we kinda just ran into him just now after my very questionable comrade detected him,” Sandy said, backing up Jake while also not really helping the situation.
+
+Jake mostly ignored the worm’s words and only really took note of Sandy saying that Jasper had been the one to detect Jake’s presence. The little guy really had some serious abilities when it came to finding things, far surpassing both Jake and Sandy, despite Jake’s far superior Perception. Then again, as a top-tier variant focused on finding things, snatching them, and quickly getting away, such abilities were kind of a given.
+
+The dragon looked between Jake and the massive worm before speaking again.
+
+“If you acknowledge your actions as unjustified, giving back what you’ve taken so we can-“
+
+“No!” Jasper yelled from behind Jake’s leg, letting out a loud hiss to emphasize his disdain at the notion.
+
+“Are you willing to-“
+
+“Mine!” Jasper said, not beating those hoarder allegations. “No take!”
+
+The dragon stared, and not seeing the point in continuing this “discussion,” Jake shrugged and looked at the hundred pursuers.
+
+“There you have it, I guess,” he said in a casual and relaxed voice. “Seems like an acknowledgment of wrongdoing is the best you’re gonna get using only words. Which begs the question: What is your next course of action?”
+
+Jake’s words were purposefully threatening, but in truth, he really hoped they were going to back down. Not because he feared fighting them in battle, but because he really didn’t want to fight them, seeing where they were.
+
+While it didn’t affect him as negatively as Jake had initially feared, they were still all underwater. Fighting underwater sucked, and while it would suck for everyone present besides a select few, that didn’t make Jake feel any more inclined to start a brawl before he was out of the water if he could avoid it.
+
+What Jake had said lingered in the water for a few seconds before a brave soul hidden within the hundred people spoke up:
+
+“Do you really dare take on all of us?” he asked.
+
+“Even if you’re powerful...” another soul muttered, empowered by the first.
+
+“It would mean making enemies with all of us,” a third also found courage.
+
+Perhaps they also gained confidence from having two True Dragons on their side and the tracker who appeared to be on the same level as the dragons. As for the rest of them, while they could be counted as elites, none of them were truly threats to Jake. So when it came to the first guy’s question, taking everything into account:
+
+“I do believe I could take you all on, yes. And I do not fear making enemies with all your factions. In fact, I believe it’s bold of you to assume that your factions will dare make enemies of me just because you let your greed run wild,” Jake said, wondering if he should perhaps do a display of power or something. “Sometimes, one should just accept one’s loss and move on to live another day. Unless you believe you have the power to take me on?”
+
+Jake decided a bit of intimidation would do some good as he unleashed his aura, trying to appear as threatening as possible. Several of the hundred recoiled, with several looking downright horrified. Meanwhile, the dragons and the elven tracker seemed to discuss among themselves, and several others also shared telepathic messages. Jake hoped they would make the right choice, as the black dragon regarded him again.
+
+“Your words hold wisdom,” he said, making Jake feel relieved that it didn’t look like a fight was about to break out... until he continued. “Words, I do believe you should also take into consideration. While our deaths might be problematic for our individual Territories, it’s inconsequential to our factions. Meanwhile, should you fall here, the Order will suffer a significant loss. Given your reluctance to face us in battle, I believe you also realize that, despite your power, you find yourself outnumbered and will have to take a needless risk by facing us. All we demand is for the dagger to be handed over, and we will  negotiate and decide on a fair method of distribution.”
+
+Inadvertently, Jake’s reluctance to have an underwater brawl had been interpreted as a sign of weakness and lack of confidence. He wanted to protest that they were just walking... swimming into their deaths, but at this point, words seemed like a waste of time. They had already discussed among themselves, and if Jake continued trying to avoid a fight, it would just be embarrassing.
+
+“You have made your choice,” Jake said, wanting to finish this as quickly as possible. “Know that it was an unwise one.”
+
+Right then, Sandy also exploded with power as the large space worm had evidently already seen this ending coming and had been cooking up their magic. All around them, space sealed, and the spatial tunnel was closed off once more, trapping them all within a large barrier that even Jake reckoned would take a while to break out of.
+
+Seeing this, Jake also erupted with power, not holding anything back as Arcane Awakening was instantly activated at full power, a bow in his hand and an arrow in flight before his foes could even fully react.
+
+The only one to react was Jasper, who, despite his cute and cuddly appearance, showed that he still had some claws when backed into a corner as he teleported into the middle of the hundred and teleported out again in the blink of an eye, carrying a woman wearing a priest’s robe.
+
+Evidently, Jasper knew the rule of always taking out the healer first, though Jake didn’t really think it mattered who they started with as the slaughter began. The hellscape of an underwater level soon became even more hellish as the water slowly started taking on a red hue.

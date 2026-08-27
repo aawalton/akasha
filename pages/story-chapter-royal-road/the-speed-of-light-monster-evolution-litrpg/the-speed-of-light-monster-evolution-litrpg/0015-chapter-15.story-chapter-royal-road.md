@@ -1,0 +1,213 @@
+---
+id: d01b56a3-c245-59f1-adc6-62c0b464acc1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15"
+slug: 0015-chapter-15
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 15
+ownLength: 2138
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2551810/chapter-15"
+royalRoadId: "2551810"
+---
+
+The troglodytes kicked forward, rushing Tachyon immediately after they had noticed her, their sprint knocking over the small fire between them.
+
+Tachyon had seen several of their levels, each around 14 to 15. She still had to concentrate a bit to use the identifying skill from the system, but managed to use it a few times before the troglodytes rushed her.
+
+These ones were about half the size of Ted and Ned, putting them at about the height of her chest. However, their arms were still massive in comparison. It seemed they used them to walk and compensate for their weaker legs.
+
+Keeping her distance for now, Tachyon used her magic light carrots to test the waters, replacing them as she did.
+
+They shot out, their light illuminating the passage as they flew past her, hitting several of the charging monsters in their bulky arms.
+
+But Tachyon was immediately surprised by the fact that the magic had little effect. The carrots would slam into the troglodytes, forcing them back for a moment, only for them to continue forward.
+
+In the dark, it was difficult to tell how much damage was being done, but no kill notifications were heard or given. Either her magic was too weak to kill the monsters in a few hits, or the troglodytes had a resistance to magic.
+
+Another volley of light magic lit up the passage filled with running monsters as they flew forward, slamming into the troglodytes like they were hitting a wall of muscle.
+
+This time, several notifications came.
+
+You have killed, Troglodyte Level 14. Experience earned.
+
+You have killed, Troglodyte Level 13. Experience earned.
+
+…
+
+Tachyon had not received a level up, but that was to be expected, her leveling speed had slowed down since reaching level 15.
+
+Now there was another problem. The volleys of light magic were effective, but she was being run down by a group in close quarters. She had nowhere to run, and turning around wasn’t an option.
+
+Her legs began to glow red as her shoes consumed several light magic carrots, the wings brightening up the passage.
+
+She couldn’t take advantage of her Forceful Momentum skill as of now, however, she still had plenty of skills and stats at her disposal.
+
+Tachyon’s Leg Strength and Blood Doping skills activated as her body welled with strength. The first of the troglodytes rushed to reach her.
+
+She sent out a few light magic carrots behind it to stave off the rest as she dealt with the first. Her legs raised and came down from above to pummel the monster.
+
+The troglodyte raised its own arms to meet Tachyon’s legs, but she easily won out. For some reason, the troglodytes refused to use skills. Some of them were wielding large branches, but none had any significant or threatening weapons.
+
+Tachyon quickly noticed as well there was none with armor, only small patches of brown cloth covering their waists.
+
+Her legs crushed the monster below her, its arms bending awkwardly as she stomped it underfoot.
+
+You have killed, Troglodyte Level 13. Experience earned.
+
+The rest of the group quickly followed, however, not perturbed in the slightest at their comrade being turned into a pancake.
+
+Tachyon raised her legs again, ready to stomp out the remaining monsters, but the troglodytes came in pairs. Each pair grabbing a leg and halted her attack.
+
+She fired several magic carrots into their sides, but only managed to kill one before another roared, prepared to rush her down with a pointed stick.
+
+Tachyon looked desperately for a way out and was able to find a troglodyte further behind the one charging her.
+
+She took aim and activated her Light Charge skill, flying forward and throwing off the monsters restraining her. On her way to her target, she slammed into the charging troglodyte with a stick. Tachyon’s spiked cuirass cutting up the monster as it did.
+
+The targeted troglodyte fared no better as her charge collided with it, sending it flying backward and into the rocky wall with a splat.
+
+You have killed, Troglodyte Level 13. Experience earned.
+
+Turning around again, she saw the last of the group. The three that had restrained her and survived being thrown off, and the wounded one she had hit as collateral damage with her charge.
+
+However, this time, Tachyon had gained a small amount of distance from the monsters. It wasn’t much, but it was enough to begin building up some speed.
+
+She charged, her Forceful Momentum building up as she went. The troglodyte's eyes bulged as they saw the stampeding figure barrel toward them and turned tail to run.
+
+Tachyon, however, was not about to let them run away. Her speed wouldn’t allow it.
+
+She caught up with the fleeing monsters instantly. The wounded troglodyte tumbled to the side as her foot connected with it as she ran, a notification confirming she had finally killed it.
+
+The last three also had barely a sliver of a chance as she trampled them like bugs on the side of the road.
+
+You have killed, 2x Troglodytes Level 13. Experience earned.
+
+You have killed, Troglodyte Level 15. Experience earned.
+
+Congratulations! Your race level has increased to 18. +4 to AGI, +2 to MAG and STAM, +5 Free Points.
+
+New Title earned: Death on Four Legs
+
+Death on Four Legs
+
+Kill over 100 monsters.
+
++5 to all stats.
+
+Tachyon released a breath, finishing the fight and letting her light magic carrots spread out to illuminate the passage again.
+
+The fight was honestly somewhat easy. Despite their similar levels, the troglodytes barely utilized their numbers to attack her, and she didn’t notice any use of skills.
+
+She wasn’t complaining, but it was peculiar. Even before coming here, the fights in the arena were more skilled than this. Tracking opponents' skills and when was the best time to use your own was a necessity. It held true for many of the fights she had previously since coming to the tutorial as well.
+
+However, now that she was closer to level 20, fighting against opponents that were regularly above level 10 she was slightly disappointed by their skill level.
+
+Tachyon stopped for a moment, pulling some berries and apples from her bag of holding to snack on while waiting for her cooldowns to refresh. She was also waiting until she replenished some of the mana expenditure she had during the fight while eating the fruits that gave her a boost to her own agility.
+
+While she waited, she brought up her status screen.
+
+Tachyon
+
+Race: Lightfoot Mare
+
+Rank: F-Rank
+
+Level: 18
+
+VIT - 18(6)
+
+STR - 15(8)
+
+AGI - 88(25)
+
+MAG - 48(9)
+
+STAM - 38(16)
+
+RES - 16(13)
+
+Free Point - 10
+
+Titles
+
+Sapient Monster, Survivor, Captive, Defiant, Sturdy, Slayer of the Strong, Improbability, Manslaughter, Kings Queens and Castles, Bat Out of Hell, Magic Artillery 1, Faster than Most, Death on Four Legs.
+
+Skills
+
+Light Charge - Uncommon, Blood Doping - Uncommon, Light Magic - Rare, Leg Strength - Uncommon, After Image - Common, Forceful Momentum - Rare.
+
+She was pleased with her growth, but now she had a conundrum. Like she had previously thought, her low health was a problem. If she were even slightly outmatched during the fight with the troglodytes, she would have instantly died.
+
+Surrounded by monsters that could impede her and take away a majority of her combat ability was a death sentence. She had to figure out a way to either overpower them or improve on her already strong traits.
+
+Her magic was substantial enough to do damage, but not one shot the troglodytes at the moment. And looking around the passage, there was hardly any room for her to utilize her speed ,which put her at a significant disadvantage.
+
+The combination of her magic and leg strength had saved her, but it was naive to think that she could overpower that many opponents with her strength and magic alone.
+
+Or was it?
+
+Tachyon had a thought about the increase of scaling stats that were included in her Forceful Momentum skill. Perhaps she would have to experiment more?
+
+Getting up and placing a single free point into her Resistance, she continued down the passage.
+
+Her plan? It was simple. Do exactly what she hated and said she would never do again, all for the pursuit of becoming stronger and allowing her to move forward for better snacks.
+
+She unsheathed her weapon of choice as well this time, pulling her skillet out of her inventory and attaching as strong a mana thread to it as possible.
+
+Tachyon would pull out all the stops this time, preparing as much as she could as she tested the possibilities.
+
+She walked down the passage, eventually coming into an opening in the cave. Where she was taken aback. One by the number of troglodytes within the large space, but also by the moss that was attached to the wall, giving light to the underground cavern.
+
+All around her, luminescent moss span the walls, accompanied by mushrooms and other vegetation she hadn’t seen before.
+
+Large pillars ran from the top of the cave to the bottom, seemingly holding up the space from collapsing in on itself.
+
+Entering through the opening, several groups of troglodytes next to her were alerted and turned. But the majority of the cave remained either unaware or uninterested.
+
+Tachyon did her best to count as they ran toward her, sticks and rocks in their hands as they charged.
+
+Fifteen in total. She counted. Firing a first volley of magic light carrots into the pack of roaring monsters.
+
+As expected, she dealt damage but not enough to kill any individual even after her level up. But she did see several slow down on their charge toward her, the others climbing over them in a mad dash to reach her.
+
+Tachyon turned on her hind legs, rushing back down the passage from where she came from, beginning to build momentum for her skill as she did.
+
+Once she reached the peak of her controllable speed, she stored and killed her momentum. Jumping off the ground and pushing out with all four legs, she lifted herself and went horizontal with her legs sticking out.
+
+The skillet she had still floating around was now put to use as it moved in front of her, stopping and locking into place thanks to her mana thread.
+
+Tachyon could feel the strain on the thread as her entire weight and force pushed against it, but somehow held out as she kicked off i,t allowing her to turn on a dime.
+
+Her feet pushed off the skillet, a moment later landing on the cold cave rock below as she continued forward, back toward the charging troglodytes, her momentum building once more. Eventually past the point of which she could control, but she disregarded the danger as she leaned into the speed, feeling nothing but exhilaration as she basked in the wind against her face as she picked up speed.
+
+Soon, she met the line of monsters that had chased her down the passage, her body slamming into the first and feeling nearly no resistance as she collided with it.
+
+You have killed, Troglodyte Level 14. Experience earned.
+
+Then the next, still no resistance as her momentum carried her forward. And then the next and the next, but then she felt herself crash into the fourth, her momentum and speed decreasing.
+
+You have killed, x2 Troglodytes Level 15. Experience earned.
+
+You have killed, Troglodyte Level 12. Experience earned.
+
+Tachyon immediately went all-in. Placing every last point into Resistance, she felt like she began cutting through the pack of monsters as if they were not even there. To supplement the surge of power to her skill, she put more strength into her stride with her Leg Strength and Blood Doping skills activating.
+
+On top of that, she began firing a barrage of light magic in front of her to soften the monsters she collided with, turning her into a runaway train that not a single one could stop.
+
+Before she knew it she spotted the end of the line of troglodytes and activated her Light Charge skill for the finish, nearly pushing forward in a blur as her body cut through the last monster.
+
+You have killed, Troglodyte Level 15. Experience earned.
+
+Tachyon’s hooves skidded to a stop at the end of the passage just before the mouth of the cave opening, her body covered and painting her white body in red as she let out a breath of steam against the cold air of the cave.
+
+Forceful Momentum has upgraded from Rare to Epic.
+
+You have gained insight into your skill Forceful Momentum, Blood Doping, and Leg Strength.
+
+Skills have combined.
+
+New skill obtained: Unstoppable Force Meets Movable Object - Legendary.
+
+New Title earned: Skills of Legend

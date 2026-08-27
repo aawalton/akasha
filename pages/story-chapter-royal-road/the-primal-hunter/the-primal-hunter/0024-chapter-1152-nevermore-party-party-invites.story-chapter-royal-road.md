@@ -1,0 +1,145 @@
+---
+id: 75b273c6-cb09-5eb8-b1fd-8de240b8d786
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1152 - Nevermore Party Party Invites"
+slug: 0024-chapter-1152-nevermore-party-party-invites
+partOf: the-primal-hunter
+position: 24
+ownLength: 2781
+unit: words
+ownProgress: 2781
+publishedAt: 2025-08-15
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2520470/chapter-1152-nevermore-party-party-invites"
+royalRoadId: "2520470"
+markedReadAt: "2026-06-29T19:30:01.001Z"
+---
+
+Still in a good mood, Jake turned to look at Artemis, who was passively waiting around for their little reunion to end. Jake could also see that despite the avatar’s presence, its mind was clearly somewhere entirely different. “I also think we’re done here... can you help us get home?”
+
+“That’s more or less the only reason I’m here,” Artemis said in a self-admonishing tone as she snapped her fingers. Space magic enveloped both the King and Jake, and a few teleports later, they found themselves back at Jake’s temporary residence. Artemis promptly took her leave again once there, still busy doing something she wouldn’t tell Jake about.
+
+Once it was just the two of them, the King looked around briefly before turning to Jake. “Did you arrive at the Pantheon of Life alone, or did-“
+
+“They’re all here, and I’m already way ahead of you,” Jake smiled, knowing what the King was about to ask. He knew the Unique Lifeform didn’t really like other people, but he at least did respect the ones he’d spent fifty years with inside Nevermore. Especially his fellow monster, Sylphie, but then again, everyone tended to like Sylphie.
+
+“I do hope they haven’t stagnated in my absence,” the King said. “Though it doesn’t feel like it has been that long since I fell. You will have to bring me up to speed about what happened since and what you’ve been up to.”
+
+“Oh, you know, just the usual,” Jake shrugged. “Fought and killed Ell’Hakan before blowing up his planet, the Viper ate Yip of Yore and slaughtered an army of gods, I met a being whose influence on the multiverse is so big that this being’s mere existence is considered Forbidden knowledge, meaning I now know secrets of the multiverse not even Primordials are privy to. Also, currently pursuing a romantic relationship with a goddess, created another never-seen-before creature that’s apparently able to extinguish all light in the multiverse. Oh, and recently a contract was put out on my life, leading to me fighting an assassin from the Court of Shadows that forced me into the Shadow Realm where I ended up having a nice little conversation with Umbra that ultimately resulted in her giving me a cool new cloak that’s definitely not just an item that makes it easy for her to track me... Ah, I nearly forgot, I also started a small war with the Holy Church.”
+
+The King stared at Jake, who just grinned widely. “Only one of those was a lie. Bonus points if you guess which one.”
+
+“Knowing the ridiculousness someone like you gets up to, all of them may as well be true. Though I can assume the factuality of some. In order to resurrect me, you would have had to kill the Desolate Child of Loss. With that in mind, you must have won the war for the galaxy, having killed Ell’Hakan in the process. Yip of Yore also meeting his death is also only to be expected, though that did happen sooner than I would have anticipated. Starting a war with the Holy Church... hm, must have been in extension of the conflict for the Milky Way. As for the rest of them, most of which seem to concern the personal encounters and relationships you’ve formed, I truthfully do not find myself caring overly much, but I assume one of these to be the lie,” the Forest King surprisingly played along with Jake’s little joke.
+
+“So that means you give up guessing?” Jake said cheekily.
+
+“... I’ll assume it’s the one about Forbidden Knowledge, as I’m unsure if you would even have been able to share that in the first place. The most obvious truth was about your encounter with the Court of Shadows, as such a thing was only a matter of time, and from what I know of Umbra and the story of the Sin weapon you wield, encountering her personally was also only to be expected,” the Forest King said.
+
+“Well, you’re wrong,” Jake smiled triumphantly. “About the Forbidden Knowledge thing. Yeah, it definitely was only a question of time before a contract was put out on me. Anyhow, most of your deduction was pretty spot-on, but to fill in some details...”
+
+Jake began to actually explain what had happened while the King was out of commission. He also revealed his little white lie, though if he did end up helping evolve the Warpsnatcher, it may as well have ended up being the truth, albeit with some modifications, as Jake naturally had no way of knowing what kind of creature the little fella would evolve into.
+
+The King listened intently to all that had gone down and even had plenty of follow-up questions. He seemed especially interested in what was happening on Earth after Jake informed him that their universe had begun to open up, and it was a little embarrassing that Jake couldn’t answer most of them due to his limited involvement with governing Earth.
+
+Also, before they forgot, Jake used his token to reach out to their other party members, unsure if he would even reach them, though in the event he didn’t, others should contact them in his stead. Jake also decided to invite one other creature who had shown interest in the King’s return... and someone who could help fetch people quicker.
+
+He was naturally speaking of Minaga, the Unique Lifeform Jake was the second-most familiar with... and unlike his former Nevermore party members, he had a strong feeling the god would be the first one to answer his call.
+
+Jake did wonder what the others had been up to, though, and if they’d made good time while Jake himself was busy doing his own thing.
+
+--
+
+Alone, Dina faced serious difficulties fighting, much less killing, a B-grade. While her defensive profile allowed her to drag on the battle for a long time, she simply didn’t have the required damage output to eke out a victory. She would be the one to run out of resources first, and while it was imaginable to find an opponent she matched up well enough against for her to win, Dina’s Path had never revolved around fighting alone.
+
+Meanwhile, the Sword Saint had continuedly improved his own ability to hunt down B-grades solo, and with every successful hunt, his power grew, allowing him to more easily take down the next one. He still needed a semi-good matchup to fight with full confidence, and there were opponents who countered him too much for him to have a good chance in a one-on-one, but these were getting rarer with every passing day. It was a limiter to his hunting speed, though, and every kill required ample preparations and recovery time.
+
+These two had both grown tremendously in power during their hunting trip, which had kept going longer after Jake returned from his own Hunting Ground. Rather than merely stick to one, Dina and the Sword Saint moved around to different ones, fighting in varying biomes and opponents.
+
+Individually, both were now far stronger, with the Sword Saint clearly showing the most growth. When it came to solo battles, that was.
+
+When teaming up, Dina could truly show off her prowess. The support druid and swordsman added up to more than the sum of their parts, and together, they could dominate the Hunting Grounds and even found themselves taking on pairs of B-grades, something not even Jake felt very comfortable doing.
+
+Currently, the two of them were facing off against a couple of pegasus-like B-grades, both of them displaying incredibly swift movements and powerful light magic. The fight had already been ongoing for nearly a full hour as the Sword Saint had found himself forced to slowly whittle them both down while Dina ensured their continued safety by continually healing them both and blocking the movements of the pegasi.
+
+Finally, the Sword Saint found an opportunity as he sliced off the wing of a pegasus, making its flight unstable. Its mate tried to help, which put it in a bad position, allowing Dina to wrap one of its legs up in vines.
+
+With a stab through the gap between the ribs, the Sword Saint sliced the monster open before he was pushed back by a shockwave of light magic. The other pegasus, which had lost a wing, tried to heal them both, but Dina once more struck as a giant tree sprouted from the ground and slammed down upon it like a hammer.
+
+Both pegasi had taken severe damage from this assault, turning the tide as Dina and the Sword Saint focused on one of the B-grade monsters and managed to kill it off with a Glimpse of Spring. The other pegasus went into an enraged state, burning itself up from the inside while pushing the Sword Saint back repeatedly. Without Dina, he would have been in trouble, but with her at his side and a purely defensive stance, he managed to buy time long enough for the B-grade’s backlash from energy overdraft to hit.
+
+Once weakened, it was a simple matter to finish it off, completing yet another hunt. Dina, who was utterly spent and had lost a leg to an unfortunate slicing laser beam, sat down on a log as she rested. The Sword Saint joined her with a body full of lacerations and holes, though he had managed to avoid losing any limbs this time around – an improvement from many of their prior hunts.
+
+Right as they’d started to recover, a presence fell upon them. The Sword Saint was instantly at high alert until he recognized this aura... and a moment later, its owner appeared.
+
+The blue four-eyed Unique Lifeform teleported in with a huge grin on his face, blanketing his S-grade aura all over the area. “Hey-yo! Wow, you two look like crap.”
+
+Looking behind them, he saw the carnage from their battle and the two dead pegasi. “Ah, doing a bit of culling of the local pegasi population. Understandable. Those damn things reproduce like rabbits.”
+
+“Good to see you too, Minaga,” the Sword Saint said as he sat cross-legged, bathing in the energy of the formation Dina had set up to help them recover faster. “May I ask the purpose of your impromptu visit?”
+
+“Oh, sure, sure,” Minaga said, keeping his big grin. “You two have been invited to a very prestigious party.”
+
+“What kind of party?” Dina asked with a frown. The Sword Saint also frowned slightly, unsure why Minaga would invite them if this was in any way related to the Pantheon of Life. Unless it wasn’t directly related to the Pantheon, but...
+
+“A reunion,” Minaga said, spreading out his arms. “One attended not only by yours truly... but a second familiar Unique Lifeform.”
+
+Dina’s eyes lit up upon hearing that, as she leaned forward with excitement. “The Fallen King... they succeeded?”
+
+“Fallen King?” Minaga said with a frown before sighing. “Sadly, I fear the Fallen King is gone for good...”
+
+Dina’s excitement instantly faded as she now just looked confused. Meanwhile, the Sword Saint had quickly seen through the Unique Lifeform’s antics, and luckily, he didn’t keep Dina in suspense for too long.
+
+“But do not fret, instead, you can meet this new guy called the Golden Forest King. I know, I know, the name leaves much to be desired, but I swear he’s a pretty swell guy when you get to know him. Actually, on second thought, he can be a bit of an asshole, can’t he? You should know, you did spend a few decades stuck with him in a World Wonder,” Minaga said, clearly enjoying being able to deliver the good news.
+
+Despite throwing a few angry glances towards Minaga, Dina was clearly happy as she turned to the Sword Saint. “We should hurry up and recover. The King is at Jake’s residence, right?”
+
+“I would assume so,” the Sword Saint said, finding it amusing that Dina purposefully avoided speaking to the Unique Lifeform.
+
+“If you want, I could help you freshen up a bit faster,” Minaga offered as a gift of peace. “Wouldn’t want to be the last ones to arrive. I already got another clone fetching Sylphie, and it would be super embarrassing if you took longer than the little hawk.”
+
+“Fine, we’ll take you up on the offer,” the Sword Saint answered for both of them as Minaga gladly waved his hand. Instantly, the Sword Saint’s body was entirely mended inside and out, with even his resource pools getting filled up a good deal. The Unique Lifeform couldn’t cure the backlash from their boosting skills, but being a bit weaker shouldn’t be a problem if they were just going to a reunion party.
+
+“All done! You two ready to go?” Minaga asked. “As this is an S-grade clone, we will need to use official teleportation channels.”
+
+“Sure, and let’s head back,” the Sword Saint nodded. While he wouldn’t say he and the King ever got particularly close, he had missed his fellow member on the World Council, and it would be good to reunite with another also in dereliction of his political responsibilities.
+
+--
+
+Elsewhere on the Great Planet Jake’s personal residence was located on, another clone of Minaga had gone to fetch a certain Sylphian Hawk. Contrary to the Sword Saint and Dina, who had both been fighting with their lives on the line all this time, or Jake, who had either battled B-grades or trained his skills intense, Sylphie had been having a quite... different experience.
+
+“Ree!” Sylphie screeched as she flew through the turbulent torrent of winds, feeling it embrace her body and empower it.
+
+“Ree!” a chorus of other bird-like spirits screeched as they all flew after Sylphie, their glorious leader. Leading a flock of hundreds, Sylphie traveled through the massive tornado, flying against the wind as they slowly climbed it toward the portal leading to the true World Wonder known as the Vortex Pinnacle.
+
+The flock of birds continued upward, growing closer and closer as the intensity of the winds grew more powerful. Eventually, some of the spirits had to give up and stop their ascent, but Sylphie kept going strong.
+
+Even as the final other C-grade spirit surrendered, she kept going, now only surrounded by B-grades. At this point, it was even getting hard for her, but Sylphie had already decided she wanted to break her previous record this time around, so beat her record she would.
+
+As another minute passed and Sylphie rose several kilometers higher, even some of the B-grades had to drop out. Sylphie was still leading the flock, but the stronger B-grades would clearly be able to overtake her if they so desired. However, they allowed her to keep leading as the tiny hawk simply refused to surrender.
+
+Eventually, her body began to almost lose its form. Due to how intense the winds were, holding onto one’s physical form was extremely difficult, and if any of the spirits found themselves dispersed, they risked taking extreme damage from being caught up in the winds of the Vortex Pinnacle.
+
+Yet Sylphie soldiered on until she reached a point where even Minaga began to feel a bit worried. Not enough to step in, as the Sylphs of the domain would do so if they deemed it necessary.
+
+Pushing herself a little further, Sylphie struggled before she also found herself forced to give up and allowed the wind to blow her back down towards the ground. As she tumbled through the air, Sylphie gave out a triumphant screech, making it clear to all she had surpassed her prior record.
+
+While tumbling, a blue spirit bird with four eyes and weird tentacle-like appendages sticking out here and there appeared beside her, also tumbling down.
+
+“Hey Sylphie,” Minaga, in a hastily constructed bird transformation, spoke.
+
+“Ree!” the hawk responded, for some reason not at all surprised at seeing the Unique Lifeform there.
+
+“Yeah, I’m good, thanks,” Minaga responded, unbothered despite spinning roughly eighteen thousand degrees every second. “I’ve come to fetch you for a reunion party.”
+
+“Ree?”
+
+“Yeah, there should be snacks.”
+
+“Ree, ree?”
+
+“Oh... oh yeah, good call. We’ll fetch some of those on the way.”
+
+“Ree.”
+
+“Not gonna ask how you already know that, but sure, let’s head off right away.”
+
+With those words – and a polite telepathic message to the Sylph god in charge of the domain – Minaga teleported the two of them away halfway tumbling down the tornado, able to take them all the way back with this clone as it had been his god one... only taking a slight detour on the way to pick up some very important party snacks.

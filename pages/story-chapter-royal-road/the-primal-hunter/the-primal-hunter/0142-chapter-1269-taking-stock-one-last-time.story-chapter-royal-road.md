@@ -1,0 +1,155 @@
+---
+id: 64347f74-d97f-53e7-a33c-180f6775c246
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1269 - Taking Stock One Last Time"
+slug: 0142-chapter-1269-taking-stock-one-last-time
+partOf: the-primal-hunter
+position: 142
+ownLength: 2667
+unit: words
+ownProgress: 2667
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3119433/chapter-1269-taking-stock-one-last-time"
+royalRoadId: "3119433"
+markedReadAt: "2026-06-29T19:34:47.802Z"
+---
+
+Jake sat in meditation, recovering his energy to continue slaughtering the Aginian B-grades within Minaga’s wonderfully construction dungeon. He had already killed more than a dozen, and he had a feeling he would soon have enough experience for that fated system message to pop up, informing him he was ready to evolve.
+
+Alas, it had not arrived yet, and after his last hunt, he had to sit down and take a breather. He could also have just continued to mindlessly hunt, potentially putting himself in a too dangerous situation, but that would be pretty stupid. Thinking more about it, wouldn’t it be downright hilarious if the Chosen of the Malefic Viper died while on the cusp of evolution because he got too impatient and couldn’t wait an extra day?
+
+A lot of people probably wouldn’t find it as funny as Jake, so for their sake, he chose still to approach this hunt with his usual serious demeanor. While the B-grades he was hunting were weak, they were still B-grades, making them pose a legitimate threat if Jake messed up too much.
+
+The dungeon Jake was currently in was the same one he’d done with Casper, though with a slight variation. Rather than having him appear inside a house, Jake had instead appeared already within the middle section of the Grand Labyrinth, close to one of the large open rooms where a ziggurat would usually be. There wasn’t one there, yet Minaga had still put plenty of B-grade Elite Guards for Jake to shoot at. How kind of him.
+
+While meditating, Jake did something he felt like he should do before evolving: took stock of his current full status menu. He wanted to see how much he’d grown over the last few years as he’d gained the last few levels and finally reached peak C-grade.
+
+Opening the status, Jake quickly read it over while taking note of the changes since the last time he had a good look right around when he left the Pantheon of Life and returned to the Order of the Malefic Viper.
+
+Status
+
+Name: Jake Thayne
+
+Race: [Human (C) – 329 --> 349]
+
+Class: [Arcane Hunter of Horizon’s Edge – 332--> 349]
+
+Profession: [Heretic-Chosen Alchemist of the Malefic Viper – 327--> 349]
+
+Health Points (HP): 344,062/344,062 --> 414,087/414,087
+
+Mana Points (MP): 584,732/584,732 --> 687,111/699,718
+
+Stamina: 329,537/329,537 --> 302,099/387,675
+
+Stats
+
+Strength: 40033 --> 45477
+
+Agility: 49928 --> 56146
+
+Endurance: 26363 --> 31014
+
+Vitality: 27525 --> 33127
+
+Toughness: 22015 --> 26510
+
+Wisdom: 37423 --> 44782
+
+Intelligence: 30241 --> 36288
+
+Perception: 64921 --> 80740
+
+Willpower: 33860 --> 40790
+
+Free points: 0
+
+Titles: [Forerunner of the New World], [Bloodline Patriarch], [Holder of a Primordial’s True Blessing], [Dungeoneer XV], [Dungeon Pioneer XV], [Prodigious Slayer of the Mighty], [Kingslayer], [Nobility: Duke], [Progenitor of the 93rd Universe], [Prodigious Arcanist], [Perfect Evolution (D-grade)], [Premier Treasure Hunter], [Myth Originator], [Progenitor of Myriad Paths], [Perfect Evolution (C-grade)], [Nevermore Challenger All-star], [Peerless Conqueror of Nevermore], [Sacred Prodigy], [Dragonslayer]
+
+Class Skills: [Supreme Stealth Attack (Epic)], [Splitting Arcane Arrow Rain (Epic)], [Bestial Hunter’s Tracking (Epic)], [Piercing Cursed Arcane Fang (Epic)], [Avaricious Arcane Hunter’s Arrows (Epic)], [Archery of Expanding Horizons (Ancient)] [Arcane Powershot (Ancient)], [Arcane Awakening (Ancient)], [One Step, Thousand Miles (Ancient)], [Horizon-chasing Big Game Arcane Hunter (Ancient)], [Mark of the Horizon-Chasing Arcane Hunter (Ancient)], [Penetrating Arcane Arrow of Horizon’s Edge (Ancient)], [Relentness Hunt of the Avaricious Arcane Hunter (Legendary)], [Arcane Supremacy (Legendary)], [Unseen Hunter Arcane Hunter (Legendary)], [Lone Hunter of Horizon’s Edge (Legendary)], [Protean Arrow of Eternal Horizons (Legendary)], [Timeless Focus of the Apex Hunter (Legendary)], [Fangs of Man (Legendary)], [Unblemished Arcane Arrows of the Horizon (Legendary)], [Eternal Shadow of the Primal Hunter (Mythical)], [Primal Gaze of the Apex Hunter (Mythical)], [Moment of the Primal Hunter (Mythical)], [Event Horizon (Mythical)]
+
+Profession Skills: [Path of the Heretic-Chosen (Unique)], [Grimoire of the Heretic-Chosen (Unique)], [Alchemist’s Purification (Inferior)], [Brew Potion (Uncommon)], [Craft Elixir (Rare)], [Concoct Poison (Epic)], [Soul Ritualism of the Heretic-Chosen Alchemist (Ancient)], [Malefic Viper’s Poison (Ancient)], [Arcane Curse Manifestation (Ancient)], [Blood of the Malefic Viper (Legendary)], [Sense of the Malefic Viper (Legendary)], [Wings of the Malefic Viper (Legendary)], [Touch of the Malefic Viper (Legendary)], [Legacy Teachings of the Heretic-Chosen Alchemist (Legendary)], [Pride of the Malefic Viper (Legendary)], [Scales of the Malefic Viper (Legendary)], [Fangs of the Malefic Viper (Legendary)], [Core Manipulation of the Primal Hunter (Legendary)], [Divine Bargain of the Malefic Viper (Mythical)], [Sagacity of the Malefic Viper (Mythical)], [Heretic-Chosen’s Invocation of the Malefic Viper (Mythical)], [Palate of the Malefic Viper (Mythical)], [Alchemical Flame (Mythical)]
+
+Blessing: [True Blessing of the Malefic Viper (Blessing - True)]
+
+Race Skills: [Endless Tongues of the Myriad Races (Unique)], [Legacy of Man (Unique)], [Wisdom of the Hunter (Unique)], [Identify (Rare)], [Anomalous Arcane Soul (Mythical)], [Sage’s Meditation of Enlightenment (Sacred)], [Shroud of the Primordial (Divine)]
+
+Bloodline: [Bloodline of the Primal Hunter (Bloodline Ability - Unique)]
+
+--
+
+Regarding the stats, Jake had definitely made another great leap, with especially Perception having increased a lot after Jake started dumping all his Free Points into it. Jake had started feeling a little uncomfortable from Agility getting so close to his Perception stat, but he’d luckily removed such a gross sight from his status menu. He simply refused to see the day when Perception wasn’t by far his supremely highest stat, and why would he ever want that? Perception was the best stat, after all.
+
+Another source of stats was Jake’s improved titles, with Dungeon Pioneer now maxed out, and, definitely more importantly, Mythical Prodigy had been upgraded to Sacred Prodigy. That alone had granted Jake a bunch of extra flat stats, but even an additional 10% to all stats over the title before, and in all honesty, this title alone had resulted in a bigger stat increase than all the levels. Or at least close to it. Jake couldn’t be arsed to do the math.
+
+Jake had also gained the Dragonslayer title, though he still wasn’t sure if that was a good or a bad thing. Bad because it told all dragons who laid eyes on Jake that he’d killed a dragon before, probably making many of them innately hostile, but also good, because it sounded really cool to call himself a Dragonslayer. So, yeah, all things being equal, a nice additional title to have.
+
+Regarding his skills, Jake hadn’t had that many upgrades since the last time he’d checked, but they were all important. Well, besides maybe the first one. Jake had only a single class skill improved this time around, with Superior Stealth Attack becoming Supreme Stealth Attack, going from rare to epic. Not the most exciting, but actually a pretty significant upgrade if Jake said so himself.
+
+He had considered working on upgrading other skills, especially those he used a lot. Arrow Rain, Arcane Arrows, Arcane Powershot, One Step, Thousand Miles… these were all skills core to Jake’s fighting kit, yet none of them had been upgraded for a long-ass time. Jake wouldn’t say he’d neglected them, but he’d never purposefully worked on improving them either, perhaps to his own detriment.
+
+Yet at the same time, Jake didn’t regret not working to upgrade them more actively. A part of him even purposefully held back on doing so, as a perhaps delusional part of him believed that, given enough time, these upgrades would all manifest themselves on their own. Since he used the skills all the time, Jake got innately better at doing so, and he wanted only to improve them after he was thoroughly familiar with each skill, at which point he could upgrade them with full clarity.
+
+Jake also wanted to avoid taking any of them down a suboptimal upgrade path, especially something like Arcane Powershot. That skill was Jake’s bread and butter, and as a core part of Jake’s Path, he wanted to ensure it had a foundation worthy of following him all the way to godhood. Even now, Jake was fully aware that his ancient rarity Arcane Powershot surpassed many legendary skills in pure power simply due to Jake’s familiarity with it.
+
+Should he want to, Jake believed he could upgrade the skill within a week. The same proved true for several of his other core skills, besides probably One Step, Thousand Miles. With that skill, Jake was totally fine just pushing for any improvements, as that skill has a very thoroughly defined upgrade path already.
+
+Alas, ultimately, Jake chose to go with the more natural and instinctive upgrade path for his core skills. He also had a strong feeling that at least one of them would upgrade during his class evolution, and he trusted that the system would only upgrade them into something fitting Jake’s Path.
+
+Moving on to Jake’s profession skills, a lot more had happened there. Jake had succeeded in creating a Bane Poison, upgrading his Concoct Poison to epic rarity in the process, thoroughly marking Jake as not only a pretty good Heretic-Chosen, but even a decent alchemist.
+
+Of course, there was also his recent upgrade to Arcane Flame, where the skill jumped from common rarity straight to mythical, constituting Jake’s biggest skill upgrade in one go ever.
+
+However, equally as important, if not more so, Palate of the Malefic Viper had been successfully repaired after Jake’s oopsie and even became a mythical rarity in the process. Technically, this was Jake’s most important skill upgrade of them all, as without it, he would likely not even have been able to evolve in the first place, as having a damaged soul and broken skill wasn’t a healthy recipe for evolution.
+
+Of course, in connection with fixing Palate of the Malefic Viper, Jake had also gained the race skill that earned him his Sacred Prodigy title: Sage’s Meditation of Enlightenment. It was a skill that didn’t have any noticeable immediate effect outside of giving the title and allowing Jake to regenerate resources faster when recovering, but he knew that it would prove incredibly important in the future. Plus, it was related to the First Sage, and when had anything related to the First Sage not proven itself incredibly important?
+
+Looking back, Jake believed that despite not that many upgrades, he’d still made a nice final push to reach peak C-grade. Could he have done more? Upgraded more skills? Tried to hunt even more dangerous monsters? Sure, but the enemy of good is perfect, and Jake was pretty damn good if he said so himself.
+
+After finishing his recovery, Jake opened his eyes and stood up. Cracking his neck, he pulled out his bow and flew into the air, having already located his next prey with a Pulse of Perception. A group of Elite Guards was patrolling in the open area ahead, and with great vigor, Jake got into position.
+
+Arcane Awakening was fully activated right off the bat as Jake saw no reason to hold back. This was just a slaughter for him to get that last bit of experience that would push his race to level 350.
+
+Jake fully charged an Arcane Powershot and unleashed it, striking from stealth without any of the Elite Guards being aware of his existence. The casual patrol of the guards was cut short as a torrent of arcane energy, spearheaded by an arrow, tore through the Labyrinth and struck the guard walking in the front.
+
+The poor Aginian was blasted apart, his entire upper body blown away by the destructive blow. His three pals reacted right away, looking for their attacker, but all they found were more arrows pelting them from afar as Jake unleashed a barrage of arrows, quickly activating Timeless Focus to further speed up his assault.
+
+After getting their bearings, the remaining three Elite Guards charged toward Jake with their usual impressive speed. They turned into blurs as they dove into the rain of arrows, defending themselves as well as they could, but the arrows bent and curved, striking them repeatedly despite their high defenses.
+
+Last time Jake did this dungeon, he had been with Casper, and while doing it with the Risen had certainly made the dungeon overall easier and sped things up, it had meant that Jake’s Lone Hunter skill hadn’t been active for the vast majority. Such was no longer the case, and along with him having gotten a few more levels, the Elite Guards who didn’t stand a chance during his last visit had a far worse time.
+
+A second Elite Guard was blown back before he even reached Jake, his body covered in arrows. The two remaining guards arrived at Jake right then, striking one from each side. Jake didn’t even move as he charged an Arcane Powershot, taking aim at one of them as he used Primal Gaze to freeze his opponent.
+
+The guard stopped mid-air as Jake continued charging his Arcane Powershot just a little longer to ensure it would deal lethal damage. At the same time, the second guard attacked from the other side, but while he was mid-swing, he suddenly found himself pushed back as a shadowy figure emerged from Jake’s body and stabbed him in the chest.
+
+With Eternal Shadow buying Jake a moment, he had enough time to unleash his Powershot, which proceeded to blow out the mid-section of the Elite Guard he’d frozen before.
+
+And then there were two.
+
+One Elite Guard was heavily injured from being the main target of Jake’s arrow barrage, while the second one promptly cut down Jake’s shadow, only to get blasted back as Jake unleashed a large arcane explosion through a kick.
+
+With yet another bombardment of arrows, Jake finished off the critically injured Elite Guard rather quickly, using another Primal Gaze and what little Hunting Momentum he’d built up, before turning back to the final remaining one. This guard was the strongest of the bunch and had been saved for last on purpose.
+
+Still not in the mood for wasting time, Jake opened his mouth and spoke two words.
+
+“Event Horizon.”
+
+He once more got a glimpse of a world far beyond his own reach as the Elite Guard was marked as his Event Horizon. The guard was temporarily confused by Jake’s skill, buying the hunter enough time to land the first arrow.
+
+Stumbling back, the Elite Guard tried to defend itself while advancing, but Jake’s assault was relentless as arrows filled the sky, coming from all directions, yet always finding their target. The B-grade didn’t even manage to reach Jake before spiraling toward the ground, getting pelted by arrows all the way down, dead prior to even landing.
+
+You have slain [Aginian Elite Guard – lvl 361] – Bonus experience earned for killing an enemy above your level
+
+Jake confirmed the final of four kill notifications as he put away his bow. However, he didn’t deactivate his boosting skill but instead turned around and rushed straight back to where he’d come from.
+
+He didn’t hold back from spamming One Step as he teleported through the Grand Labyrinth for a little while before finally reaching his target. Landing on the magic circle, Jake quickly got a prompt, which he readily accepted, teleporting him back out of the dungeon.
+
+Minaga was waiting on the other side, but contrary to nearly every other time they met, the Unique Lifeform didn’t say anything. Instead, he just gave a knowing nod as Jake shot toward the teleportation station, quickly activating it, taking him to Haven.
+
+With Unseen Hunter already active, no one disturbed Jake as he rushed back to his lodge. He landed right in front of the porch, and after giving the small eels in the pond a quick look and confirming someone had stolen some of his bananas again, Jake went inside.
+
+Only now did he deactivate Arcane Awakening, but even as the wave of weakness came from doing so, Jake didn’t care. Instead, he walked into his bedroom and took a seat on the familiar bed he only sat on for very special occasions.
+
+This being one of them, as that final kill notification hadn’t come alone, but had brought what Jake had waited for with it.
+
+Race Evolution Requirements Met

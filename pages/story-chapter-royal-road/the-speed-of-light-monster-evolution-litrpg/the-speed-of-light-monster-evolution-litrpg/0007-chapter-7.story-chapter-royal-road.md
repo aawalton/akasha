@@ -1,0 +1,169 @@
+---
+id: 11c85feb-024a-50e4-8031-c1b5a65eed3e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7"
+slug: 0007-chapter-7
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 7
+ownLength: 1808
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525572/chapter-7"
+royalRoadId: "2525572"
+---
+
+Tachyon began again following the trail of tasty yummies that grew below the tall brown sticks. That was at least until she received a new notification.
+
+You are leaving your registered Controlling Stone’s area. Warning, this may result in your stone being conquered by other monsters or tutorial participants.
+
+Loss of control of your Controlling Stone will result in loss of increased stats and daily point payouts.
+
+Annoyed, Tachyon returned to the stone with only a slightly filled bag of tasty morsels.
+
+When arriving back at the stone, she noticed more nearby monsters approaching. And with a quick stomp with a loud neigh, she was able to disperse the gathering low levels.
+
+She now understood why the wolf was so adamant about staying with the stone. The moment she left it would seem monsters would gravitate to the controlling stone’s area to take control of it. Whether that was for the buffs, because they were compelled to, or perhaps the brown box that appeared with the very nice things inside. She had no idea.
+
+But for Tachyon, she was hardly interested in the small buff right now. It certainly wasn’t worth more to her than a full bag worth of blueberries, grapes, and raspberries. Or the most recent find of cherries. Oh, but grapes were great. She liked the taste of grapes.
+
+She looked irritatedly at the stone pillar. Brushing her nose against it in annoyance of the conundrum.
+
+That was when another screen opened.
+
+Tutorial Controlling Stone Leaderboard
+
+#1 - Sonic Gale Hawk: 10
+
+#2 - Kelpie: 5
+
+#3 - Nightfang Bear: 5
+
+#4 - Silverback Two-tailed Ape: 5
+
+#5 - Firefur Buck: 5
+
+#6 - Hypno Frog: 5
+
+…
+
+#16 - Lightfoot Mare: 1
+
+Tachyon looked curiously at the new screen trying to decipher it. She didn’t like how she was in last place on the board and how there were fifteen other names ahead of her.
+
+Her eyes were drawn to the numbers behind the names. They couldn’t be the number of points she had, she was sitting at 10. Could it mean the number of Controlling Stones they owned?
+
+Tachyon snorted. Did that mean some Hawk had ten stones under its control when she only had one?
+
+She shook her head. She would not be sucked into play the games of whoever brought her here. At least not for now, she had more tasty treats to gather.
+
+And until her bag was filled with enough food that she was satisfied. She couldn’t care less about some leaderboard.
+
+Okay, she cared a little bit about some leaderboard.
+
+Decidedly, she left her controlling stone as she went in her previous direction.
+
+First, she would gather food. If she came across another stone along the way, she would conquer it. And that was that.
+
+Perched on top of the Greater Controlling Stone, he looked down from the mountain.
+
+The pinnacle of E-Rank, there was of course no other monster to contest him for this prize.
+
+He was the apex, the hunter, the strongest and fastest monster in this space.
+
+The only E-Rank to be placed in the tutorial, the Sonic Gale Hawk.
+
+He was taken from his world abruptly while in the middle of hunting which caused him no small amount of irritation. However, the benefits he was receiving from this place were well enough.
+
+The hawk looked down at his talons, seeing brand new black tipped metal claws. No matter where you were, it was extremely difficult for monsters to gain appropriate equipment. He knew this best.
+
+They relied on their own natural weapons the most, unable to gain beneficial equipment like humanoid races. But this tutorial had given him tailored equipment right away.
+
+The metal fit snugly around his talons, it was sturdy and lightweight. The equipment essentially felt like it wasn’t even there. And the status boost from the title and buffs that the stone gave were immense.
+
+He was still irritated that he was removed from his home. But a new hunting ground was always interesting. And the top of the mountain here, was now his domain.
+
+Tachyon had noticed two things as she gathered goodies along her path.
+
+One was that monsters were incredibly hostile in the wild. Admittedly, she should have guessed after her first encounter with the wolves, where they couldn’t be reasoned with. But how was she supposed to know after being locked up for years in the arena?
+
+At least out here they had a choice to fight or not, but even when given an out, many of them chose to try and kill her.
+
+As she gathered her morsels, she had come across two more controlling stones and many monsters gathering around them.
+
+She had beaten all of those monsters handedly as none of them were above level 10 or F-Rank, which to be fair, was slightly surprising.
+
+There were so many monsters, that if any of them fought each other she expected at least a few to reach F-Rank and evolve by now. It had been a few hours and as she mentioned, monsters were a plenty.
+
+Not to mention that when you took control of a controlling stone, you got a big beefy portion of experience to help you.
+
+Which had helped her also gain a level, bringing her to level 14 and 1 level away from a new skill.
+
+She had been able to practice more with her magic and Leg Strength skill now for the several hours it took to gather her food. And now she wouldn’t call them second nature, but she was at the very least well-versed in activating them and manipulating her magic. That and she had figured out that she could change the boring balls of lights into cuter, carrot-shaped magic that will blow you up from the inside lights.
+
+Tachyon was also very happy to say that she could sense ambient mana in the surroundings better. The fluctuations in particular helped her find her way in this huge expanse. And more importantly, helped her identify new and tasty berries like the ones she just found.
+
+Wolverine Pomegranates [F-Grade, Common]
+
+Fruit known for their brown furry skin that contains sweet and nutritious seeds within.
+
+Consuming this fruit gives a temporary +1 to Agility for 1 hour. (Does not stack)
+
+Can be used in cooking, crafting, and alchemy.
+
+The fruit was on a whole new level compared to the grapes, which were great and all, but these, the taste was impossible to describe for her. She had tasted nothing like these fruits before. And the buff was just a bonus. Tachyon would eat these even if there was no benefit.
+
+Secondly, as she perused the surroundings, she had lost control of her first Controlling Stone, which sucked of course. But also wasn’t the biggest deal to her, in fact she was interested in seeing if reclaiming control later would net her another piece of equipment.
+
+From the other two Controlling Stones, Tachyon had received two more pieces of equipment from conquering them. One was sadly a dud. A small short sword that she couldn’t use.
+
+What was she supposed to do with it? Hold it in her mouth and swing it around?
+
+But thankfully, the second one was more useful and if she had to say a welcomed gain.
+
+Steel Tipped Cuirass [F-Grade, Uncommon]
+
+A sturdy leather cuirass that has embedded steel tips for defense and offense. Reinforced to withstand impacts while also being perfect for puncturing those that attempt to harm you.
+
++2 Strength and Resistance.
+
+Tachyon wasn’t happy about how the thing had looked much like spiked rope. But touching it with her nose allowed her to equip it without help. And when she used her charge skill, it helped by leaps and bounds when she slammed into enemies.
+
+She did get herself a little bloody, but it was expected when fighting.
+
+As a part of conquering the other two Controlling Stones, Tachyon had noticed that she was going in a large circle around the big pile of dirt in the center.
+
+It seemed to her that there was denser mana the higher up on the dirt pile. She assumed that was where the stronger monsters may be defending other Controlling Stones.
+
+And at the very top, she could feel something always watching her. But at the same time it seemed disinterested. Almost as if she wasn’t worth their time.
+
+Was it annoying to have eyes drilling into the back of your head all the time? Of course. Could she do anything about it right now? Nope, not a damn thing.
+
+From what she felt from the whatever or whoever it was at the top. It reminded her of the human from outside the arena. And there was no way she could fight something like that right now.
+
+So, she had continued to stick to her plan. Gather tasty food beat the living crap out of whatever tried to get in her way.
+
+Rounding the big dirt pile, she would pick her fruits and berries. Notice some very unfriendly monsters guarding a white Controlling Stone and then begin another fight.
+
+This would repeat for several more hours as she followed the trail of mana and sweet treats in the tutorial.
+
+The next group of monsters she met were a group of small monkies. Sadly they were weaker than the wolves and even with the experience from conquering the pillar, she did not receive a level. However, the item she received from the brown box was worth more to her than everything she had gotten so far.
+
+One-hundred and One Ways to Bake a Magic Cake [F-Grade, Common]
+
+A recipe book designed to be easy to follow for the novice chef and baker. The book includes recipes for mana infused and rare ingredients for any material within F-Grade.
+
+Using this book may give the user the Cooking Profession.
+
+Tachyon beamed at the description window as the book went into her bag of holding. But alas, her smile quickly turned into a small sob.
+
+Why you may ask?
+
+Well, Tachyon didn’t have any cooking equipment. And even if she did, she was reminded once more of a problem. She didn’t have hands or opposable thumbs.
+
+I wonder if my evolutions will eventually have hands… Or at least someway for me to hold things to cook? She thought in delightful anticipation.
+
+She gave a sigh and put the book to the back of her mind. It would just have to be further motivation to increase in strength later on.
+
+A few minutes later and a few more bushes of berries into the bag. Tachyon stumbled on another Controlling Stone This time it was going to be a much more troublesome fight.
+
+Surrounding the stone, perched on the top of the stone as well as in the trees were black feathered birds.

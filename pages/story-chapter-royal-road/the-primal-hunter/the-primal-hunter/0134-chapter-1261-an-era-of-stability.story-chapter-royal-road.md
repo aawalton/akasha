@@ -1,0 +1,137 @@
+---
+id: b498b921-f18b-5526-a0e2-bb1d8e72ece0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1261 - An Era of Stability"
+slug: 0134-chapter-1261-an-era-of-stability
+partOf: the-primal-hunter
+position: 134
+ownLength: 3125
+unit: words
+ownProgress: 3125
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3084296/chapter-1261-an-era-of-stability"
+royalRoadId: "3084296"
+markedReadAt: "2026-06-29T19:35:13.897Z"
+---
+
+Learning from one’s mistakes was the bare minimum for a competent person... so Jacob had to admit he’d begun to question if he really was as competent as he’d first believed himself to be.
+
+So many times he’d found himself surrounded by people who exerted influence, and so many times, it had resulted in the situation spiralling into disaster. In nearly all of these instances, Jacob had known the ending wouldn’t be good, sometimes due to his abilities as an Augur, but in just as many cases, it was simply because he knew that what they were dealing with wasn’t something the Holy Church in the ninety-third universe was capable of handling.
+
+The Holy Church was an absolute behemoth of a faction, rife with internal divisions. Even these internal factions sometimes had internal disagreements, leading to splinter groups that all worked to further their own influence. While the Holy Church was a faction that promoted the group over the individual, the system necessitated a certain level of ego and individualism that couldn’t be ignored.
+
+That resulted in many individuals with significant influence also having large egos and wanting to grow even more powerful. Their Paths revolved around their influence, and the more control they gained, the more Records and experience they would receive, giving them plenty of incentive to hoard influence.
+
+Of course, seeing as they were part of the Holy Church, their Paths also required them to actually be good leaders and provide well for those they were meant to rule. If they did a bad job, it didn’t matter how many people they affected, and most of them were also priests or carried other similar titles, meaning they had to follow the edicts of the Holy Church.
+
+This was also part of the reason why the Holy Church didn’t crack down on internal competition amongst the leadership, and Jacob also suspected this was why the Holy Mother hadn’t sought to crush all internal strife. It had some value, as it did help eliminate complacency and push everyone to do their best, but it could also easily end badly. A tightrope had to be walked, and when it came to the ninety-third universe, more specifically, Earth... the Holy Church had fucked up badly to say the least.
+
+The faction had a playbook they followed, and truth be told, the leaders on Earth had followed that to the letter in the beginning. This had allowed the Holy Church to expand and gain influence quickly, but it had also laid the groundwork for its eventual downfall.
+
+By far, the biggest mistake was siding with Ell’Hakan over the Chosen of the Malefic Viper. To many, this was seen as merely a strategic decision in which the Holy Church weighed the pros and cons and chose the best option. It was an unfortunate outcome that no one could have predicted... except Jacob, who had seen that ending coming from several light-years away.
+
+Alas, at the time, Jacob’s influence had been undermined, and he had been more or less forced to follow the plans of others who thought they knew better. Jacob had spoken more with the Holy Mother and others who followed her, which had more or less confirmed that the Primordial had allowed them to run wild and prove how incompetent the rulers of Earth had been.
+
+And now... now Jacob found himself in the Andromeda Galaxy. The galaxy was slightly larger than the Milky Way, though the number of inhabited planets were somewhat similar. The system’s arrival had kept much of the universe’s celestial framework in place, though it had also altered much, and it was even believed that planets had been moved in or out of galaxies.
+
+The Andromeda Galaxy, being the closest to the Milky Way, was naturally considered the best staging ground for their neighbor should it ever decide to invade and try to expand into the Milky Way. In fact, when Jacob arrived with all the others from the Milky Way, thus also expanding the forces and inhabitants of the Andromeda Galaxy, discussions quickly arose about how they could one day take back the Milky Way.
+
+To Jacob, that was strike one.
+
+With the Andromeda Galaxy entirely dominated by the Holy Church, a sense of superiority had arisen among the many World Leaders who believed their faction was the strongest and that none could stand against them. They didn’t even see the need to respect that the Church was not welcome in the Milky Way, and were preparing to send spies to start the slow social takeover and spread their influence.
+
+Strike two.
+
+Then, as many neared or even reached B-grade, discussions about the upcoming system event regarding the Seat of the Exalted Prima were sparked. With the Holy Church already ruling the galaxy, the only question was who would ultimately end up claiming it. There were a lot of Administrator Candidates in contention... so many that greedy thoughts that claiming only one Seat of the Exalted Prima wouldn’t be enough.
+
+Considering the superiority of the Holy Church and the fact that they had one massive united army, who would dare to oppose them in this entire region of the universe? The Andromeda Galaxy was the largest, and the other galaxies were far from as united and would easily fall under the influence of the largest faction in the multiverse. They had everything going for them, and sure, there were other powerful factions that the Holy Church couldn’t risk offending too much, but surely, with proper negotiations and compromises, they would agree to the Holy Church’s demands and fall in line. Even the Milky Way, which was only united by a feeble alliance between different factions under the rule of the up-and-coming Order of the Malefic Viper, couldn’t face the entire Andromeda Galaxy...
+
+Strike three.
+
+Jacob realized that mistakes were about to repeat themselves. That the World Leaders of the new galaxy were about to make the same unwise choices, that their greed and desire to expand their influence would once more only harm the Holy Church, but more importantly, the innocents who were part of it.
+
+The decisions of these World Leaders weren’t necessarily wrong in most other contexts. Their plans would work the vast majority of the time, and the Holy Church’s soft power was indeed unmatched, which was how they had become the largest faction in the multiverse.
+
+However, their decision-making was flawed when it came to the Milky Way. The Holy Church’s playbook didn’t address how to handle a situation like that. Everything Jacob heard proposed would only end in disaster and more needless suffering... so he decided to stop allowing the Holy Church to repeat the same mistake it had made before.
+
+Jacob truthfully wasn’t someone who wanted influence or power just for the sake of it. He only saw getting those things as a necessity to do good. With influence and power, he could help more people and have a greater positive impact than without them. However, to get power and influence, he would have to compete and act selfishly.
+
+While it was no doubt an arrogant statement, Jacob truly believed he was surrounded by ignorant fools who had no idea what they were doing. He believed that the most selfless thing he could do for the Holy Church and all its members wasn’t to try to convince them to do better or offer honest advice. Instead, it was to be fully selfish, crush all opposition, and take a position where he no longer had to convince people to do anything.
+
+As an outsider from a defeated galaxy who’d – in the eyes of many local World Leaders – fled there to survive, this was no doubt a tall order. He would face much opposition and have a hard time gathering any support... at least, that was the case until the pathway between universes truly opened.
+
+Experienced leaders and personnel trained by the Holy Church from other universes flooded the ninety-third universe, all specialized in this period of the integration. Leadership structures were shuffled, and amid the chaos, Jacob took advantage and began acting selfishly.
+
+With the Holy Mother’s full approval and backing, Jacob began placing loyal supporters in important positions while relocating those he deemed incompetent or difficult to work with. As his influence expanded, World Leaders started coming to him, and as an Augur and someone recognized by the Holy Mother, it wasn’t hard to gather more support from these new-world leaders, many of whom were already struggling with the responsibility and expectations of the massive faction.
+
+It was a gradual takeover, but one that the World Leaders who opposed Jacob couldn’t stop. A few tried, but their means of fighting back were limited, and far more leaders recognized the winds of change and fell in line. In Jacob’s mind, he merely did what had to be done, and in the end...
+
+“Thank you for your support,” Jacob said with a light smile and a nod as he reached out and shook the elf’s hand.
+
+“It’s the least we can do, and I’m confident this is the right choice,” the elf said, shaking Jacob’s hand, mimicking the Augur’s smile.
+
+Behind that smile were resignation and a bit of resentment. Understandable, and Jacob knew that he was the subject of much hatred from people like this man, but such was the burden he’d chosen to bear, and he still believed that in due time, they would understand that this was indeed the right choice.
+
+“My Lords, if you would both sign the decree here...” a priest in white robes said as he walked over, knelt, and presented the golden document.
+
+“Of course, and please stand,” Jacob said, motioning for the woman to get up. She looked hesitant before nodding and standing up with a smile. Jacob signed the presented decree, and after a moment’s hesitation, so did the elven World Leader.
+
+The elf looked at Jacob and sent a telepathic message, not wanting his words spread to the masses observing this historic event – either in person or through the many magical livestreams shown all across the galaxy.
+
+“For your own sake, I hope you know what you’re doing,” he said, also signing the decree while still having a smile on his face.
+
+“And I hope you will come to understand why this had to happen,” Jacob sent in return as the two of them stood side-by-side, smiling in front of the cheering masses.
+
+“Your fear will be our downfall, and we will be a laughingstock across the multiverse. Since when did the Holy Church fear other factions? Since when have we merely rolled over and surrendered? Your failure in your home galaxy and your connection to the Chosen of the Malefic Viper cloud your judgment, and we will all be the ones paying for it,” the elf continued while waving happily.
+
+“I see the world with clarity and understanding. I’ll not dare claim to always make the right choices, but in this case, my heart does not have a shred of doubt. We will not repeat our mistakes,” Jacob continued their subtle argument.
+
+“No, no, we wouldn’t have, but now, we won’t even get the chance to right your wrongs,” the elf insisted on having the final word. Jacob could have countered, but chose not to, as he just continued the performance.
+
+“Under the benevolent eyes of the Holy Mother, the decree has been signed and witnessed,” the priest spoke loudly as he held it up. “May the vision of the Augur, guided by his Patron, lead us toward the light.”
+
+Jacob bowed his head and released his aura throughout the room, being careful not to use it to intimidate. Having recently evolved to B-grade – in no small part due to how busy he’d been assuming control of an entire galaxy – he knew few of the observers could handle his aura.
+
+“Thank you, everyone,” he said, projecting his voice throughout the large cathedral and the many recording devices sending it across the galaxy. “Know that I do not take this trust and responsibility lightly.”
+
+Jacob sighed as he turned toward the masses and smiled before continuing his brief speech.
+
+“Not much time has passed since most of us felt our world completely change, and since then, this has been an era of strife, conflict, and chaos. Many of our dear ones have fallen or been left behind by the changes... but I swear that I will do my utmost to make sure no one is left behind. That the era of chaos has come to an end, and we shall enter one of stability and peace. Conflict remains inevitable and is a part of this new world we now find ourselves in, but it does not have to be chaotic. We can face conflict with wisdom and training, even if I know the mere notion of battle still frightens many. I understand why. But know that we can face conflict with order, chaos with stability, and that even if death should come for us, peace shall follow. As long as the Holy Mother is in your heart, and your faith is by her side, all are welcome in the eternal afterlife. So join me in facing the future, not with fear, but with a willingness to adapt and welcome the changes. Join me in allowing us all to become our best selves, and through that, create the world we all want to live in until it’s our turn to arrive in the blessed Holyland.”
+
+As Jacob finished, he let the silence settle, allowing his words to resonate within the cathedral’s hallowed halls. Shortly, people started clapping, while many simply prayed, knowing this was a moment for silent contemplation.
+
+With a final bow, Jacob retreated, his role for now done. He had lots of work to prepare for the upcoming Seat of the Exalted Prima event. The original plan had been for the Andromeda Galaxy to try to claim the Milky Way’s Seat alongside their own, but Jacob had quickly changed that. Now, the plan was instead to support other galaxies while ensuring they could even get their own in the first place, as no one knew exactly how an Administrator Candidate could claim ownership of a Seat of the Exalted Prima.
+
+Entering the cellar of the large cathedral, Jacob met Bertram in the hallway, leaning against the wall with his arms crossed.
+
+“Surprised no one tried anything,” the Guardian said as he stood up straight.
+
+“I’m not,” Jacob smiled in response as the two started walking down the hallway. “In such a setting, no one with enough sense to become a World Leader in the Holy Church would dare make a fuss.”
+
+“People can be surprising and act unpredictably,” Bertram shrugged.
+
+“True,” the Augur sighed. “Speaking of unpredictable, what’s the word from Kindroth?”
+
+While the Holy Church was officially gone from the Milky Way Galaxy and Jacob had shut down plans to infiltrate and slowly try to regain control of it, that didn’t mean he had entirely cut off all connection to the galaxy. Kindroth, the elven World Leader of the most populous planet in the Milky Way Galaxy, was a follower of a god who often worked with the Holy Church, despite not being a member, and that working relationship had extended to his followers. While he didn’t directly work for Jacob, he did help provide information and keep the Holy Church up to date, allowing them to keep the semblance of an existence in Jacob’s home galaxy.
+
+“Things seem to be going well for them. They’re still dealing with what’s suspected to be remnant followers of Ell’Hakan and Yip of Yore, but they’re handling it,” Bertram answered. “As for Jake, the latest news is that he recently did a dungeon with Casper before returning to Haven, after which Kindroth doesn’t know anything. I think it’s a safe bet he’s working on his profession as he’s yet to evolve.”
+
+Jacob nodded, everything indeed being as they expected. Okay, he was a little surprised to hear that Casper and Jake had done a dungeon together, but it also made him a little happy. The two of them had always gotten along, and Jacob was glad to hear that they had the opportunity to spend some time together.
+
+“With that covered, have you had a chance to look through that crystal you got last week yet?” Bertram asked in a teasing voice. “Now that you’ve reached B-grade, people are starting to find it weird you haven’t found one yet...”
+
+Jacob glared daggers at his Guardian, who just chuckled in response.
+
+“What? I’m just a Guardian; such things aren’t expected of me,” Bertram shrugged. “And I’m sure you can find at least a few pleasant ladies on that list. Even if you’re not interested, just doing something should buy you some time.”
+
+The poor Augur wanted to protest, but kept quiet, just closing his eyes and sighing. He really wasn’t interested in any kind of relationship, but the external pressure to have one was growing. While it wasn’t anything that was forced upon anyone or a requirement of any kind, relationships, primarily with the aim of producing children, were highly encouraged by the Holy Church, and as the leader, people expected Jacob to set an example. Until now, he’d been able to use the excuse that he wanted to focus on reaching B-grade first, but that one naturally no longer worked.
+
+With resignation and another teasing glance from Bertram, Jacob at least entertained his guardian as he took out the damn crystal while walking down the hallway toward the teleportation circle. The crystal was filled with what he could only describe as magical, overly detailed dating profiles, and going through them genuinely made Jacob feel weird. Sure, a lot of them seemed nice, but he really didn’t want to give anyone false hope either.
+
+He was just skipping through names when he suddenly saw a familiar one that made him stop.
+
+Inera?
+
+The daughter of a Grand Master, leading a band of Templars, and was himself in B-grade. Reading that name brought back many memories of the Tutorial and the period just after, when he and Bertram had spent time with Inera and the Grand Master before returning to Earth.
+
+In the profile, he saw that she was C-grade, and without thinking much, Jacob infused a bit of energy into the crystal, conveying that he was willing to meet her. If for nothing else but to catch up and hear what the woman who’d helped him a lot in his early days was up to... while also getting a lot of people off his back. Hopefully, it would at least buy him some time.

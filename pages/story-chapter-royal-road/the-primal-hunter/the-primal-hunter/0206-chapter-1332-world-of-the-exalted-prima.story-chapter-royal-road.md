@@ -1,0 +1,149 @@
+---
+id: 12b3cee1-c33f-5830-ad34-173aed3ddcf1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1332 - World of the Exalted Prima"
+slug: 0206-chapter-1332-world-of-the-exalted-prima
+partOf: the-primal-hunter
+position: 206
+ownLength: 2635
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3524629/chapter-1332-world-of-the-exalted-prima"
+royalRoadId: "3524629"
+---
+
+Jake walked between the colorful trees as he made his way into the clearing with all the Administrators sitting around chatting. As could only be expected, everyone quieted down when they noticed his approach and turned towards him.
+
+Miranda was the first to speak as she gave him a good look from top to bottom. “Went and got yourself an equipment upgrade?”
+
+“May as well enter the next phase of this event as ready as possible,” Jake answered, walking over.
+
+“I see. It looks good,” Miranda said with a nod. “Arnold’s handiwork, I take it?”
+
+“Indeed,” Jake confirmed. “But enough about me. Anything happened here during my absence? Have others left?”
+
+“No, we all stayed behind and discussed what comes next,” Miranda said, waving her hand. “The fact that we Administrators are still here means we must play a role in the upcoming event, and it’s best to ensure now that we’re all on the same side. Unlike galaxies ruled by a singular monolith, we have representatives from many different factions, which could put us at a disadvantage when meeting those who are fully united.”
+
+Jake nodded as he briefly looked around. “Hopefully, that won’t be a problem. Everyone still in the Milky Way Galaxy should be mostly on the same page. If not, they’re free to step down and leave. From what I can see, it’s entirely possible to renounce one’s Administrator role.”
+
+“We’re all smart people here, so I’m sure things will turn out fine,” Kindroth said in a calming voice, speaking for all the World Leaders and other influential people of the galaxy. “We might even be able to turn our melting-pot identity into a strength. While it limits our potential allies, it also makes it less likely for others to target us. I doubt other factions will see a need to make the Milky Way Galaxy and the Order an enemy when they already have plenty of others to deal with, and they even risk just giving their actual foes new allies.”
+
+“True enough,“ Jake nodded as he peacefully took a seat once more opposite Miranda. There was no reason to threaten or throw his weight around anymore, and from the looks of it, Miranda and Kindroth had everything handled.
+
+“By the way, when I returned to the Seat of the Exalted Prima, I...”
+
+Seeing no reason not to, Jake shared what he’d learned with the others about his new privileges as a Chief Administrator, leaving only a few things out, such as the surveillance camera stuff, which he kept vague on purpose, as such an ability could come in handy later on.
+
+Instead, he primarily focused on the existence of the teleportation gates and the many areas of the Seat of the Exalted Prima that one could explore. Jake hadn’t even bothered going close to everywhere in the large space station, and encouraged the others to do so if they didn’t want to sit around for a couple of days waiting for this part of the system event to end.
+
+Quite a few took Jake up on his offer as they went to explore the Seat of the Exalted Prima. Miranda also ended up curious about this control room Jake mentioned, as she perhaps picked up on Jake not sharing everything one could do there.
+
+Kindroth ended up staying within the Administrator’s Terrace alongside quite a few other Administrators. Jake also considered leaving, but ultimately decided he could meditate wherever and that perhaps staying around others would make them less frightened of him.
+
+Thus, he decided to do a bit of healthy meditation, diving into his Soulspace, where he took some time to properly inspect and try to interact with Eternal Hunger. The mythical cursed weapon took the shape of his Eternal Shadow as it sat cross-legged within his internal world, looking as if it were meditating.
+
+It was a big difference from when it had been a chimera that Jake had to keep locked down to prevent it from rampaging around. The Sin Curse seemed almost calm now, even if it had grown significantly since the time Jake had first crafted Eternal Hunger.
+
+With every kill, it absorbed some small portion of his target’s soul, empowering itself and gaining more Records. Jake had killed a lot of powerful people who had quality Records, so while every random kill hadn’t done much to fuel the already powerful curse, it had grown by a substantial degree. Of course, being a Sin Curse, it would never be satisfied but just keep growing in power, which was something Jake had initially been a bit wary of.
+
+When he did the dungeon with Casper, the Risen had warned Jake that making the Sin Curse too powerful could become a risk due to its influence on his soul. Usually, housing a curse like this was a constant battle of suppression, a lot like it had been initially with Eternal Hunger.
+
+Yet after it merged with Sim-Jake and helped form the Eternal Shadow skill, all aggression was gone. Shit, Jake could barely feel the innate sense of hunger from the cursed being within his Soulspace either. It seemed that no matter how powerful the curse grew, it wouldn’t have any negative effects on Jake, which really didn’t make any sense based on all the research Jake had done and what Casper had said.
+
+Not that his Bloodline doing stuff that didn’t make sense was anything new. It was almost expected at this point that it would bring about unforeseen changes and never-before-seen skills that didn’t align at all with the norms of the multiverse.
+
+Anyway, the Sin Curse manifestation not being affected by anything seemed like a good thing on the surface as it was growing stronger with time, but it did also mean that it was “locked” in a way. Jake couldn’t do much to affect the Eternal Shadow skill or see any method to improve it. It was as if the Records of the skill weren’t fully accessible to him, which, again, really made little sense.
+
+It was obviously related to the Origin of the skill being partly Sim-Jake, so his best bet was that the concepts related to simulations could help give Jake some insight. If not, he feared he would eventually have to try to “break” the skill and reform it into something more manageable, but Jake really didn’t have good experiences when it came to messing with powerful skills.
+
+Time passed surprisingly quickly as Jake tried to analyse Eternal Hunger as best he could, and soon enough, he noticed that everyone else in the outside world had returned to the Administrator’s Terrace. He slowly emerged from meditation and let his senses return, just in time to hear Miranda speak.
+
+“Should be within the next couple of minutes unless the other voting periods were longer than a day.”
+
+Opening his eyes, Jake responded. “Even if they were, it shouldn’t be that much longer.”
+
+Miranda seemed a little surprised at Jake’s response as she raised an eyebrow and gave him a knowing look. “You’re always frighteningly aware of your surroundings, aren’t you?”
+
+Jake understood the assignment as he shrugged. “What can I say? I’m the worst person to organize a surprise party for. Assuming you want it to be a surprise.”
+
+It was a light-hearted response that still very much communicated Jake’s level of absurdity. Usually, meditation was considered a rather risky endeavor, as one had to sever all senses while using the skill, so for Jake to still be aware despite using Meditate was very abnormal.
+
+“Duly noted, no surprise parties for you, then,” Miranda joked along. “Though I do find myself tempted to try, and even though I know it’ll be-“
+
+She didn’t get any further, as a system message finally popped up in front of them all, making her shut up instantly. Good thing she did, because Jake wouldn’t have continued listening as he quickly scanned what the system had thrown their way this time around.
+
+From a quick initial look... it seemed like things were finally about to get started for real.
+
+The Chief Administrator Selection has successfully concluded across the 93rd Universe.
+
+With all Chief Administrators elected, the Exalted Prima believes the universe is ready to experience the World of the Exalted Prima. Access to the World of the Exalted Prima has been granted to all Administrators and Chief Administrators.
+
+The World of the Exalted Prima is an original simulated reality created by the Exalted Prima. The Exalted Prima thus determines the rules of the world and has created certain rules that all within must adhere to.
+
+To enter this simulated reality, one must enter through the Seat of the Exalted Prima, using the private rooms available. While within the World of the Exalted Prima, one’s true body is kept absolutely safe within the Seat of the Exalted Prima.
+
+While immersed in the World of the Exalted Prima, experience can be earned at a reduced rate.
+
+Rewards unique to the World of the Exalted Prima may be obtained within, granting certain bonuses only usable in the simulated reality. Nothing obtained within the World of the Exalted Prima can be brought into reality unless otherwise specified. This applies to both tangible and intangible rewards.
+
+Dying within the World of the Exalted Prima will result in losing access for a minimum of thirty (30) days, but this lockout period may be extended dependent on the circumstances of the death.
+
+The Exalted Prima wishes you luck and looks forward to seeing your expression within his world.
+
+For a dozen seconds, the entire Administrator’s Terrace was silent as everyone read the message several times, with no one keen to be the first to speak. There was a lot of information within this small message, but it basically boiled down to one thing:
+
+They now had access to a simulated world created by the Exalted Prima.
+
+Seeing as no one else seemed keen on speaking, Jake decided to go first. “Seems like our best course of action is not to delay and just enter the simulation.”
+
+“I happen to be in full agreement,” Miranda said as she stood up and motioned toward Jake. “After you, our Chief Administrator.”
+
+Jake gave her a small smile as he stood up and led their large group towards the gateway. It was kind of good Jake had explored before, as he quickly opened the portal leading to the many private rooms available. These private rooms were located in a long hallway that had more than a thousand small rooms in it already, and Jake had a feeling that there could be more, dependent on how many were able to enter the World of the Exalted Prima.
+
+“We might not know what’s within this simulation, but hopefully, we will not be separated upon entering,” Miranda said as they entered the hallway. “If we are split, simply progress as the system intends, and we should be able to meet up, assuming that’s even a possibility.”
+
+“And if it isn’t, continue on your own and prove you’re worthy of being Administrators,” Jake said, speaking to all the others following him, giving them what he believed to be encouraging words.
+
+There really wasn’t a need to say more as they all scurried into their own small, private rooms. Jake entered a random one and, using his Sphere of Perception, watched as others entered their rooms as well.
+
+In the center of the small private room was a metal platform with magical scripts on it, and as Jake walked up and stepped on it, a system message appeared.
+
+Enter the World of the Exalted Prima?
+
+Before accepting, Jake watched as no one around him disappeared, but instead seemed to fully freeze after stepping on the metal platforms. It was as if their time had frozen, which Jake guessed was what happened when one entered the simulation.
+
+He also recognized that all the private rooms locked once someone entered, in that the entrance simply disappeared, sealing off every room fully. Seeing no reason to delay further, Jake accepted the prompt as his vision shifted.
+
+In the next moment, Jake saw light and colors as soft ground appeared beneath his feet. Beside him, people appeared one by one, but Jake barely had time to register his surroundings before yet another system message popped up in front of him.
+
+Welcome to the World of the Exalted Prima.
+
+You find yourself in a world created and controlled by the Exalted Prima, and while here, you must adhere to certain rules. Going against the rules may result in exclusion from the World of the Exalted Prima or other punishments.
+
+The World of the Exalted Prima is a persistent simulated world inhabited by those capable of entering from the many Seats of the Exalted Primas spread throughout the 93rd Universe. Each Seat’s Galaxy has been granted a starting territory.
+
+As the Chief Administrator of the Milky Way Galaxy Seat of the Exalted Prima, you are in control of the territory assigned to your galaxy.
+
+Due to your galaxy’s performance in prior system events, your territory has been designated a Tier 1 territory, granting access to more resources and a greater area of influence. More information can be found at the Territory Beacon placed in the center of the Milky Way Galaxy Territory.
+
+If this Territory Beacon is destroyed, the Milky Way Galaxy will lose its territory. If any member of your galaxy destroys other Territory Beacons, the territories assigned to that beacon will become part of the Milky Way Galaxy territory. The power of the Territory Beacon is dependent on the total area it controls.
+
+The Exalted Prima has decreed that a Preparation Phase will start out the competition between galaxies. During the Preparation Phase, no one can leave the assigned territories of their galaxies. Once the Preparation Phase is over, the competition shall begin in earnest.
+
+Preparation Phase duration: Seven (7) days.
+
+It was yet another long system message that contained a lot of information. Information that finally gave some context as to the purpose of this World of the Exalted Prima. Turning around, Jake found himself standing right in front of a large pillar that was nearly a hundred meters tall and looked more like some modern art installation. It was filled with magical scripts from top to bottom and was made entirely of some kind of glossy metal.
+
+Jake also noted that, as he stood there, he was somehow vividly aware he was within a simulated world. Everything felt normal. The large, barren plain they stood on was reminiscent of what Jake had seen on several planets before, and the peaceful wind and faint heat from the sun were fully realistic. Yet Jake knew this all wasn’t real. It didn’t feel like this knowledge came from Jake’s Bloodline, making him think this was something everyone felt.
+
+Regarding the system message itself, Jake had a lot of thoughts, but he didn’t have much time to consider them as the person next to him spoke.
+
+“So this is what we have to protect,” Miranda said while looking at the Territory Beacon, which had appeared right next to Jake, perhaps due to her assignment as Jake’s second-in-command. “Doesn’t seem that fragile, at least.”
+
+“It isn’t,” Jake said, getting a strong feeling from the large beacon.
+
+“But that doesn’t mean we shouldn’t make proper defenses,” Miranda continued, having clearly already started formulating a plan in her head. “Say, can you see if this Territory Beacon has any special functions? I don’t seem to have access to anything.”
+
+“Sure,” Jake said as he mentally reached out to the Territory Beacon using his authority as the Chief Administrator, and...
+
+Yeah, that was another huge wall of text from the system right there, as the Territory Beacon had a lot of functions.

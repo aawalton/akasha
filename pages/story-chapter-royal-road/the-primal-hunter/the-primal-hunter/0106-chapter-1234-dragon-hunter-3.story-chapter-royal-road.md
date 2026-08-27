@@ -1,0 +1,123 @@
+---
+id: 9db036cf-d48d-5b39-8e76-d11164328fbf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1234 - Dragon Hunter (3)"
+slug: 0106-chapter-1234-dragon-hunter-3
+partOf: the-primal-hunter
+position: 106
+ownLength: 2719
+unit: words
+ownProgress: 2719
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2945886/chapter-1234-dragon-hunter-3"
+royalRoadId: "2945886"
+markedReadAt: "2026-06-29T19:32:37.536Z"
+---
+
+Jake wouldn’t say he was that experienced in dealing with healers. Usually, when he did encounter one, they were part of larger parties and significantly weaker than him as an individual. This allowed Jake to focus and kill the healer rather quickly before dealing with the rest of the party.
+
+Thinking back, the only time Jake had ever “fought” a healer in a one-versus-one scenario was when he faced off against Eron in the Treasure Hunt. Seeing as Eron was a living cheat who was functionally impossible to kill, forcing Jake to instead seal him, he couldn’t exactly rely on his experience from back then.
+
+Though, to be clear, Jake didn’t believe Yrelstromoz was that dedicated a healer. She was just a dragon from the Lumenflight who knew a bit of light-based healing magic, but he didn’t get the feeling it was her focus. In fact, very rarely would a True Dragon from the Lumenflight dedicate themselves to being the best healers possible, as healers tended to only work well in larger groups, and True Dragons were inherently arrogant and individualistic. Going by Yrelstromoz’s personality, Jake couldn’t see a world where she had selflessly learned how to mend those around her.
+
+No, Jake instead guessed her healing magic was limited mostly to healing herself and likely not something she could do very efficiently. Moreover, now that she had taken the form of a True Dragon, Jake felt the lingering Dragonsbane Poison finally awaken and start to take root. It had yet to fully activate due to lack of accumulation, but once he had inflicted a lot, any magic–healing included–would become a double-edged sword.
+
+“It does make sense, I guess,” Yrelstromoz spoke again, Jake still feeling the lingering healing magic mend a few of the last wounds left over from when she was in humanoid form. On that note, wounds didn’t translate one-to-one, and any damage done to her humanoid form would be way less noticeable once she assumed her true form.
+
+“What other peak C-grade could possibly push a True Dragon to undo their Polymorph but a Chosen hailed as one of the greatest geniuses in the history of the multiverse?” she continued, Jake genuinely unsure if she was praising him or herself.
+
+He also saw no need to correct her wrong assumption about his level, seeing as he wasn’t quite peak C-grade yet.
+
+“Even then, you remain a C-grade. No matter how powerful you may be, your grade limits you. Perhaps you can slaughter inferior B-grades with ease, but do you truly believe I couldn’t when I was at your level? My only guess is that the Malefic One seeks to teach you a lesson about just how powerful we True Dragons are, and who am I to reject such a request?”
+
+Yrelstromoz’s arrogance seemed to have only grown after she assumed her True Dragon form, but compared to before, Jake found it way less offensive as she did actually have the aura to back it up. It was still hubris that Jake would gladly take advantage of, but he knew it wouldn’t be a one-sided affair anymore.
+
+“Then please, teach me the folly of my ways… or be the prey that marks me a dragonslayer,” Jake answered, infusing his own voice with Willpower as he met arrogance with arrogance.
+
+His words marked the beginning of the second stage of the fight. In the blink of an eye, the air was filled with golden orbs of light, and Jake retreated back as arcane energy erupted from his body as he drew his bow.
+
+More than a hundred beams shot at Jake at once, but he responded by summoning his Wings of the Malefic Viper and using them to block and dodge as he bought himself time to charge an arrow for a little while.
+
+Not finding immediate success, Yrelstromoz upped the ante. The two curved ivory horns on her head began to glow as mana spiked once more, a magic circle about the size of a small town forming in the sky.
+
+It pulsed once immediately, sending down a shockwave of light with physical force. Jake was forced to release his Arcane Powershot and address the attack. He instantly raised two hands and summoned an arcane barrier above himself to hopefully block the blow.
+
+The barrier was instantly broken, but Jake managed to nullify most of the attack. Still, Jake was sent flying downwards from the impact of the mass-scale magic. All around him, the shockwave continued downwards, smashing into the ground and flattening the slight curvature on a large part of the crater.
+
+There were only two places the shockwave had been nullified: at Jake and where his arrow had been in mid-flight. The destructive arcane energy enveloping it, alongside the concepts of Penetrating Arrow and Unblemished Arrows that were both infused into the blow, allowed it to shake off the shockwave and continue its flight mostly unimpeded as it soon reached its target.
+
+Jake feared he would see his attack stopped in some way or fail to do any noticeable damage, but it seemed that he had underestimated his own offensive prowess. Yrelstromoz looked like she had believed her large spell would stop the arrow, and when it failed, her hastily constructed barrier did little to help as Jake’s Arcane Powershot blasted straight through and into her side.
+
+The level of satisfaction Jake felt as he saw Yrelstromoz get blasted to the side on impact was nearly indescribable. It only got better when he felt a nice dose of Dragonsbane Poison make its way into her system through the newly formed hole in her body.
+
+However, as the dust cleared, Jake realized that despite the impact looking impressive and causing her to slide several kilometers across the ground, the visible damage was minimal. The arrow had penetrated through her scales, but the arcane explosion and remnant energies from the Arcane Powershot had failed to get past the True Dragon’s ludicrous innate magic resistance.
+
+Before Jake could follow up with another arrow, he was reminded that the many orbs of light were still a thing as he was bombarded with searing beams. Individually, they did little and were easily blocked, but Jake noticed that if several beams struck him in the same spot simultaneously, the damage was significantly amplified. Some powerful concepts were undoubtedly at play, as it couldn’t be explained by anything else that made sense to him.
+
+This meant Jake was forced to focus on dodging rather than blocking, as he’d learned about this property of the light beam the hard way when one of his wings was pierced straight through, and he’d nearly lost an ear to his failed attempt to block several dozen beams at once.
+
+Not wanting to entirely lose his momentum, Jake took what potshots he could while dodging the many beams, finding solace in the fact that Yrelstromoz was burning through mana like there was no tomorrow. Sure, he was running Arcane Awakening at full power, which did put him on a timer, but he felt that the dragon had been doing the same thing right from the moment he triggered her life-saving skill at the start of the fight.
+
+Jake’s Arcane Powershot before seemed to have quite a psychological effect on Yrelstromoz as she dedicated a lot of energy and time to blocking all of Jake’s arrows, giving him space to shoot even more. To make matters worse for her, Jake’s arrows were not exactly easy to avoid, as they were incredibly fast and he loved to curve them all over the place. Seeing as the body of a True Dragon wasn’t exactly on the smaller side – Yrelstromoz measuring more than thirty meters in length – dodging wasn’t easy either.
+
+Luckily for Jake, he found his stable arrows could barely get through Yrelstromoz’s scales if she didn’t put up any other defenses. He wasn’t even considering trying for the destructive variant, and when he attempted a Splitting Arrow, only to find them all deflected by her scales, it was clear he would have to focus on quality over quantity.
+
+While even these single arrows failed to do a lot of damage individually, each did represent another dose of Dragonsbane Poison inflicted. Yrelstromoz didn’t seem to have noticed either, and as Jake’s arrows did so little damage, she barely bothered to block but preferred to just heal.
+
+Now, Jake was afraid Yrelstromoz would find it odd that Jake wasn’t using any poison, considering he was the Chosen of the Malefic Viper, so he did mix in the occasional arrow that had regular poison on it rather than his Dragonsbane. This definitely seemed like a good choice, seeing as she cleansed this poison incredibly quickly whenever she was inflicted, allowing his Dragonsbane to go under her magical radar.
+
+Jake’s goal was to continue stacking his poison and accumulate Hunting Momentum and all other advantages he could get from the fight dragging on, but Yrelstromoz wasn’t going to make that easy.
+
+Having realized that just taking arrows while failing to land successful counterattacks was a bad strategy, Yrelstromoz switched from being defensive to suddenly being way more aggressive.
+
+Right as Jake teleported back and prepared to loose another arrow, the dragon he was aiming at disappeared, having turned into a beam of light. With his Hunter’s Mark and sphere, he tracked her movements, which really wasn’t that necessary considering she was charging straight at him.
+
+Flapping his wings, Jake retreated back while releasing his poison mist into the beam of light. Right before she reached him, Jake released the string of his bow and switched to katars just in time.
+
+Yrelstromoz became corporeal and was instantly hit with a close-range arrow that penetrated deeper than the ones he’d shot earlier. However, the dragon didn’t even react as she brought down a massive claw towards Jake.
+
+He tried to dodge back, but suddenly the claw sped up several times over and was upon him in an instant. Due to his precognitive danger sense, Jake still barely avoided the blow, but he found himself in a bad position to avoid the follow-up.
+
+Forced to block, Jake was slammed in the side by a dragon claw. He used one of his wings right at the very last moment, but it was torn through quickly as the sharp claws made contact with his katars before sending Jake flying in an explosion of light that hurt a great deal.
+
+Now it was Yrelstromoz’s turn not to give Jake any reprieve as she spun around, her tail made of pure light as it swept straight for him. He barely managed to shoot out a blast of arcane magic that sent him downwards and out of the tail’s path… only to have a magic circle appear right beneath the direction he was dodging.
+
+A blast of physical light struck Jake hard, sending him spinning through the air uncontrollably. Yrelstromoz was upon him right away again, another claw coming down from above, but the seemingly dazed Jake used the momentum of his already spinning body to smash his katar into the descending claw.
+
+Jake would definitely have broken something if not for his upgrade to Fangs of Man, making his forearms impossibly tough and allowing him to withstand the rebound as a shockwave of arcane energy and light pushed the two of them apart.
+
+Yrelstromoz took a moment to heal her damaged claw, which had a hole in its middle, allowing Jake to pull out his bow again and turn this back into a ranged battle, something he would much prefer.
+
+While the Lumenflight were dragons wholly focused on magic, they were still dragons. All True Dragons were naturally peak monsters even in physical combat, in part due to their overwhelming magic. While the Wildflight took this concept to extremes, all dragons had bodies constantly infused with high levels of energy, effectively giving them a powerful passive boosting skill that raised all physical stats significantly.
+
+The one Jake was currently facing was naturally the same, something he had already confirmed with Sense of the Malefic Viper. That’s also why her flesh was so damn tough that even if Jake got through her scales, his arrows barely managed to penetrate.
+
+This wasn’t to say Jake wasn’t confident in melee; he just believed ranged combat was advantageous to him, even if Yrelstromoz also preferred sticking to magic. Her sticking primarily to magic also meant she would burn through her mana faster, which was only good for Jake.
+
+Nocking an arrow, he took aim right as Yrelstromoz was also done healing herself. She noticed Jake’s incoming attack and turned into a beam of light once more to dodge, but Jake patiently waited as he charged his Arcane Powershot and only released it the moment she appeared once more, much to her surprise.
+
+The projectile struck the dragon right in the chest, dealing pretty good damage as Yrelstromoz was shaken from the impact, allowing Jake to land another three arrows before she mustered a proper response.
+
+Unfolding her wings, both of them began to glow with golden light as they seemingly began to grow. Her wings expanded from only a few dozen meters in length to a hundred meters, then a thousand, until they seemed to cover Jake’s entire vision.
+
+During this, Jake shot more arrows, but a constant flux of magic around Yrelstromoz managed to block his potshots, and due to his growing danger sense, Jake didn’t dare to risk committing to any larger attack.
+
+This proved a wise choice as only a moment later, both wings began to close in as Yrelstromoz flapped them towards him. An utterly gigantic wave of light swept toward him, blasting Jake with a powerful wave of physical light once more; however, he knew this wasn’t the real attack. While Jake was still flying backward, blocking with both katars in front of him, the two wings gave up another pulse as they exploded, releasing another wave of light that turned into tens of thousands of smaller beams that all started bending and swirling before locking in on the one target in front of them:
+
+Jake.
+
+Immediately, he detected that these had the same concept as the orbs before, which meant that while individually these beams would do little damage, should he get struck by too many at the same time, he would be in trouble.
+
+With so many attacks coming at once and little time to react, Jake activated Pride of the Malefic Viper as he took dominion of his immediate area. Hundreds of arcane orbs appeared in an instant, exploding immediately and bathing the entire area in destructive arcane mana.
+
+Jake flew out of the explosion a moment later, instantly attracting all the beams as they shot for him. He tried to dodge them and managed to avoid several hundred, but there were simply too many, and eventually he was struck… only for his body to disperse into black curse energy.
+
+Yrelstromoz’s confusion was clear as she was unable to comprehend what had happened. Having lost their target, all the beams continued shooting into the sky before rapidly dispersing before the dragon had time to locate the real Jake. She released a brief flash of invisible light, but it was already too late.
+
+Within the lingering destructive mana from the explosions earlier, an Arcane Powershot erupted from the hidden Jake, shocking Yrelstromoz. Not only because she’d failed to detect that he had been hiding in it and charging an attack, but by the power of the blow, as Jake’s brief period of hiding had allowed Stealth Attack to activate yet again.
+
+Jake watched as Yrelstromoz was blasted back with yet another large wound on her body. Having to use Eternal Shadow – a skill with a great surprise factor – already hurt a little, but as Yrelstromoz healed herself, Jake felt it.
+
+He couldn’t suppress a smile as he saw Yrelstromoz’s eyes open wide, her own healing seemingly not working the way she wanted it to. Through Sense of the Malefic Viper, Jake reveled in the sensation he got from the True Dragon. Within her body, all the mana inhabiting this creature of magic had long been infected, and now enough toxins had finally accumulated. In other words…
+
+Dragonsbane Poison had officially kicked into effect.

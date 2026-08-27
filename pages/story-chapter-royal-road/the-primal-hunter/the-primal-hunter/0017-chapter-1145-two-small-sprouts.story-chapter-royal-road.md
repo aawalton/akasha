@@ -1,0 +1,169 @@
+---
+id: 480deab9-d15c-5a2b-b605-cb705ccbcc7d
+page-type-slug: story-chapter-royal-road
+title: " Chapter 1145 - Two Small Sprouts"
+slug: 0017-chapter-1145-two-small-sprouts
+partOf: the-primal-hunter
+position: 17
+ownLength: 3183
+unit: words
+ownProgress: 3183
+publishedAt: 2025-08-06
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2496970/chapter-1145-two-small-sprouts"
+royalRoadId: "2496970"
+markedReadAt: "2026-06-29T19:29:47.937Z"
+---
+
+As the gods were discussing the future of the very multiverse itself, one of the people at the center of it all was busy doing something far more important. At least from his perspective.
+
+“Five of them,” Jake insisted, a severe look on his face.
+
+“No!” the person he was doing business with rejected his offer. “Two!”
+
+“Only two? Now that’s just ripping me off. Four should be fair, and honestly, even then, I feel like I’m taking a loss,” Jake crossed his arms.
+
+The other party looked in thought for a moment before coming up with a counteroffer. “Eleven for four!”
+
+“Eleven rather than ten? Hm... alright, that seems doable, but know that you definitely won this exchange,” Jake sighed as he took out eleven of the beast cores he’d collected and traded them for four pieces of amber.
+
+The Warpsnatcher seemed happy enough with the trade and went to put its new loot in its rightful pile as Jake said his goodbyes and went towards his alchemy lab. The pieces of amber were worth a lot more to Jake than the beast cores, as he could melt down the amber and use it to create what would hopefully be an improved rejuvenation potion.
+
+Amber was, essentially, the crystallized blood of trees. When it was first formed from resin, it had been filled with life energy, but after entering the waters around the Grand Lakes, it had been further infused with powerful water affinity mana. Water and life affinity often went hand in hand and complemented one another nicely, and combined with other regular herbs, which were also filled with life energy, this amber was a great catalyst.
+
+Entering his alchemy lab not too far from where the Warpsnatcher had set up its lair, Jake got to work. With his class now a fair deal ahead of his profession, Jake wanted to get his alchemy up to speed. He also still had one more skill selection remaining in this grade, and being the greedy boy he was, Jake wanted to see it sooner rather than later.
+
+Of course, one way to get levels was to upgrade his Malefic Viper Legacy skills, and Jake did plan on doing that, too. In fact, working on this rejuvenation potion was part of it. Jake only had Blood and Fangs of the Malefic Viper left to upgrade, and while he already had some thoughts about how he could upgrade Fangs, he was honestly a bit stuck with Blood.
+
+Checking out the skill, it did a lot, just like all the other Legacy skills, but that was part of the issue with upgrading these.
+
+[Blood of the Malefic Viper (Legendary)] – The blood of the Malefic Viper is a toxin more deadly than most poisons and the lifeblood of an immortal being. Allows the Alchemist to infuse their blood with energy to turn their blood poisonous, imitating their Patron and even carrying traces of the True Blood of the Malefic One within. The blood can be used as an ingredient in alchemy or as a deadly weapon against your foes. The nature of the poison is determined based on the Records of the Alchemist. Allows your blood to carry more energy than usual, including vital energy, passively speeding up regeneration. This effect is further amplified when consuming a health potion or other sources of beneficial vital energy. The blood’s toxicity level is based primarily on Vitality and Wisdom but receives an increase from all physical stats. Increase in natural regeneration based on the total health pool. Passively provides 3 Vitality per level in Heretic-Chosen Alchemist of the Malefic Viper. May your blood be forever the bane of all that wishes you harm, and that which brings you eternal life.
+
+As the skill was right now, it had three core components. The first and definitely most important one was to turn his blood toxic. Jake’s blood was a decent enough poison in its own right, and sometimes he did use it when he wanted to avoid “wasting” any of his crafted ones, but the true value of his blood came during crafting.
+
+Jake’s blood was a brilliant ingredient in pretty much anything he made outside of potions. Even with these, he used his blood in his Malefic Potions, but as Jake was the only one who could use those, he also crafted other variants that others could use here and there.
+
+For poisons, his own blood had pretty much replaced the use of water. Which, yes, did mean Jake could easily bleed out several liters every crafting session, but he was kind of used to it by now.
+
+The two other functions of the skill were an increase in regeneration and the ability to make health potions better. Not in that they restored more, but in that they did their thing faster and more efficiently. These two functions definitely did go hand in hand.
+
+Finally, there was technically also the passive stats given by the skill – perhaps its most overpowered aspect – but Jake didn’t need to consider that part when working on an upgrade. It was just part of the deal.
+
+Jake had put a lot of thought into how he could upgrade Blood of the Malefic Viper, and he saw one of two directions to take the skill. One was to make it better at creating blood to use in alchemy, while the other was to further pursue its ability to increase regeneration, or perhaps even tag on an additional ability to the skill.
+
+Deciding on a direction wasn’t easy, though. There were pros and cons to both, and even if Jake did choose to focus on regeneration, the toxic blood would become more potent simply due to the skill upgrading. Of course, so would the regeneration if he focused on toxic blood.
+
+Either way, Jake decided that the best approach would be to become more familiar with both aspects of the skill before he would fully decide. Creating and fully understanding rejuvenation potions was just one part of that, and one of the most approachable things Jake could work on right away.
+
+Compared to other potions, rejuvenation potions were rather unique in that they needed far more balance than any of the others. If one simply mixed a healing and a mana potion, one would end up with a really shitty-tasting drink that didn’t restore either resource. Jake knew this from personal experiments.
+
+Yet with rejuvenation potions, all three energies could exist in harmony within the same bottle, and once consumed, would restore all resources equally. Of course, it would restore a lot less than a dedicated potion for any of the individual resources, but overall would give more.
+
+The reason Jake believed understanding rejuvenation potions was important was to comprehend the nature and concepts behind this balance. Because there was another thing that was capable of containing all three energies at once, all in harmony:
+
+His own body.
+
+As well as his blood.
+
+Jake’s blood naturally contained vital energy, as all blood tended to. However, when he infused it with mana through Blood of the Malefic Viper, that didn’t mess up the vital energies within at all. If Jake wished for it to retain its Vitality-based properties, he totally could, which was a big part of why Malefic Health Potions were a thing.
+
+Finally, seeing as inner energy – also known as Stamina – constantly coursed through his body, it too was seamlessly merged with his blood. Understanding how his own blood worked seemed like the most straightforward way to learn how a skill called Blood also worked.
+
+That’s why Jake got to work with his usual way of learning how to craft things properly: being an utterly wasteful rich kid with more money than sense. Rather than waste time on theory and all that jazz, Jake just tossed in the ingredients and tried with no regard to how much he wasted.
+
+Like that, Jake worked for the next couple of days, sometimes taking breaks in between to meditate and continue studying the tome left by the First Sage. Upgrading his Meditate skill was also something on his to-do list, but it wasn’t something he could force. He still had plenty more time before he evolved to B-grade anyhow.
+
+Jake also dedicated some time to check in on the Cradle to see the progress with his Soulflame, and things were looking better than ever. There were several powerful Arcane Soulflames within, and while the appearance of a Supreme Soulflame was never guaranteed, Jake held hope.
+
+After a full week of wasting ingredients and studying, Jake was close to success with the rejuvenation potion, but that was when Artemis returned. She had been gone for longer than Jake had expected, and when he went to greet her after finishing his craft, he felt that she seemed slightly... different. It was subtle, but something about her demeanor had definitely shifted.
+
+“Hey, welcome back,” Jake said, walking into the living room where Artemis had decided to read a book while waiting for him.
+
+“Well, thank you,” she smiled. “Though, sadly, we’ll have to leave again shortly. Nature’s Attendant needs your input to get the process of creating that bow of yours going.”
+
+“Already? That’s pretty fast. I thought he would need more time to prepare things, considering the raw materials involved,” Jake commented.
+
+“I do want to remind you that he’s an existence second only to the Mother Tree herself,” Artemis pointed out. “This also isn’t the first time he’s used materials provided by the Mother Tree for his crafting.”
+
+“Is that flower staff he carries around made with her assistance?” Jake asked curiously. Nature’s Attendant always walked around with the same staff, and Jake could definitely feel it was no ordinary weapon. In fact, it felt more like it was its own separate living entity.
+
+“No, it’s an artifact he obtained a very long time ago,” Artemis shook her head. “I’m not really certain about its origins or how powerful the staff is, but what I do know is that its sentient and has enough power even without a wielder to kill someone at my level.”
+
+“So a scary flower staff,” Jake nodded. “Anyhow, we should get going, shouldn’t we?”
+
+“We definitely should,” Artemis nodded as she stood up and stretched. “Teleport incoming.”
+
+Jake didn’t resist as, in the very next moment, he was swept up by space magic and found himself transported to appear right in front of a large wooden manor that stood in the middle of a forest.
+
+Far above them, the crown of Yggdrasil formed the sky, and based on the fact that Jake saw a wall that extended endlessly to both sides, not too far behind the manor. He quickly guessed they were right at the trunk of Yggdrasil.
+
+“You should knock,” Artemis nudged him.
+
+“Is this where Nature’s Attendant lives?” Jake asked with surprise. The manor was fairly large, sure, but it was still just a three-story building that didn’t look overly impressive. The entire thing was made out of stacked logs, and while there were some decorations there, it definitely didn’t look like the home of a god.
+
+Before Artemis even had time to answer his question, Jake realized that it definitely wasn’t his house... because there wasn’t one. With his sphere, Jake should be able to see the inside of the manor, and even if the inside had been spatially expanded to the extreme, Jake should still be able to at least see that.
+
+However, all he saw behind the front door was nothingness. Void. There was no interior, just a set of walls encasing the void itself.
+
+“No, not at all,” Artemis chuckled. “This door in front of you serves as an entrance point to Nature’s Attendant’s personal garden. A portal, if you will.”
+
+“Is it his Divine Realm?”
+
+“Something like that,” Artemis neither confirmed nor denied.
+
+“Alright, alright, keep it a mystery,” Jake chuckled as he finally knocked on the door. After three knocks, the door slowly began opening on its own, but rather than seeing wooden floors and a nice foyer to put your coat and shoes, he saw grass on the other side. Yet the first thing Jake noticed wasn’t what entered his eyes but his nose.
+
+A powerful scent of flowers washed over Jake, and his Sense of the Malefic Viper skill went insane. Without even thinking, Jake stepped through the door and entered an entirely different world, as an endless, lush garden extended out as far as the eye could see.
+
+“Beautiful, isn’t it?” Artemis asked, having followed in after him. “In this garden, you can find nearly any herb found in the multiverse, many of which you would be hard-pressed to find anywhere else. There are even those that can only be found here.”
+
+Artemis walked up next to Jake as she motioned for him to follow as they started walking.
+
+“As we’ve talked plenty about, the Pantheon of Life cares about maintaining nature and preserving the balance. In that pursuit, we are also big on conservation, and not just of animals, but of anything that possesses life, including plants. This entire garden is also the biggest conservatory of extinct herbs and plants in the entire multiverse, and before you ask, yes, sometimes a few of these extinct herbs are cultivated specifically to be sold off.”
+
+Jake took a few deep breaths as he walked, which was when he detected something rather unexpected. He turned towards a certain direction as his Sense of the Malefic Viper had picked up a familiar energy, Artemis following his gaze.
+
+“Yes, the Malefic Viper has also contributed to some of the plants found here, including a few that are of his own creation,” Artemis shared. “The malefic affinity is one I will admit I have little to no understanding of, outside of the fact I would like to avoid coming into contact with it, but that’s also what makes it so interesting when a plant can exist with this affinity.”
+
+“Right,” Jake nodded as he looked ahead. The two of them were walking on a road of grass, lined by fields of flowers on both sides, as they approached a clearing in the middle of the field. There, Jake already saw the familiar old man standing, his staff embedded in the ground a bit away.
+
+Jake saw that next to Nature’s Attendant, two small sprouts had already appeared, and even from a distance, he felt a distinct aura from each of them. One of them was teeming with overpowering life energy and, despite being nothing more than a sprout, looked as if even a hurricane caused by Stormild herself couldn’t make it bend.
+
+Meanwhile, the other gave off a far different kind of aura. This one was more aloof, yet aggressive. As if it refused to even acknowledge that the small sprout next to it was in any way comparable to it. Seeing the two of them side by side, he didn’t doubt that, had they been actual children, they would already be fighting.
+
+“What are your initial thoughts?” Nature’s Attendant spoke, having noticed what Jake was looking at.
+
+“They... don’t seem to get along,” Jake commented in an unsure voice.
+
+“Heh,” Nature’s Attendant chuckled. “You’re completely right. One is like an immovable object, unbending and uncompromising. Meanwhile, the other is aggressive, wanting to move forward like an unstoppable force. Two opposites, for sure.”
+
+Jake nodded, already realizing the source of the two sprouts. One was created using Jake’s old bow, while the other had come from Yggdrasil. It was incredibly subtle, but Jake still detected the auras of their origins, and he genuinely wondered how the god wanted to combine these.
+
+Well... it turns out he wasn’t. Jake was supposed to be the one to do that.
+
+“They will certainly need a guiding hand. But I will not be the one to do that, only their true owner can have that job,” Nature’s Attendant smiled. “Both of them are like children who constantly want to compete, so they need a firm parent whom both respect. A parent that, be it an immovable object or an unstoppable force, can take on either, or better yet, both at the same time.”
+
+“What do you need me to do?” Jake asked as he walked closer.
+
+“Be that parent to them,” the god smiled. “Parenting can be either difficult or easy, and luckily for you, I believe all that’s required of you in this case is your mere presence. Your job here is simple: merely infuse your energy into the soil that both plants occupy. Let them feel your presence. Soak in your mana. Place your hand on the circle.”
+
+As he said this, a magic circle appeared, covering the entire clearing and even the surrounding fields of flowers.
+
+Jake nodded as he knelt down and placed a hand on the ground, right in the center of the circle that Nature’s Attendant had pointed out. Right as he did so, he felt a connection to the land itself, and within it, two energy signatures. They were not sentient, but more like pure instinct.
+
+The moment they noticed Jake, he felt the aggression from one and an indomitable will from the other, which only made him smile as he infused his energy. At first, neither sprout seemed receptive, at least not until Jake also unleashed his aura upon the clearing. Both seemed frightened for a moment, just long enough for both to let down their guard and take in a sliver of his energy.
+
+Having gotten a taste of Jake’s energy, both sprouts had a complete reversal in their attitudes as both began craving it. Jake obliged as he infused more and more energy into the formation, the two small sprouts eating it up like there was no tomorrow. Soon, over a minute had passed, and Jake just kept pumping in resources, draining all his pools at once, even his health pool.
+
+Yet the two sprouts, each no larger than a finger, just kept chugging away. Both grew a little from this massive infusion of energy, but sadly for them, their drinking fountain had a limit.
+
+Nature’s Attendant waved his hand as the formation disappeared, severing Jake’s connection to the two sprouts. Breathing heavily, Jake looked up at the god.
+
+“I... think they... wanted more?” he said through labored breathing.
+
+“All things in moderation. I think they’ve had quite enough for today and need a bit to digest it all,” the old man chuckled. “Besides, I also think you need a moment to rest.”
+
+“I’m... no... I’m not fine,” Jake said as he tried to stand up and instead began falling over, only to be caught by Artemis.
+
+Feeling delirious and tired, Jake looked at Artemis. “I’m gonna take a little nap, okay?”
+
+“Sweet dreams,” she smiled and shook her head as Jake gave her a big smile before he allowed his consciousness to slip and passed out from sheer exhaustion, having once more experienced what it felt like to have his resource pools down to single digits.

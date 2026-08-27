@@ -1,0 +1,155 @@
+---
+id: a0311ce0-4151-5ee9-806f-8339dead1192
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1197 - An Una-Void-Able Gamble"
+slug: 0069-chapter-1197-an-una-void-able-gamble
+partOf: the-primal-hunter
+position: 69
+ownLength: 2730
+unit: words
+ownProgress: 2730
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2740651/chapter-1197-an-una-void-able-gamble"
+royalRoadId: "2740651"
+markedReadAt: "2026-06-29T19:31:27.190Z"
+---
+
+Divine Bargain? Jake felt it wouldn’t help jack shit. His Umbral Cloak? The Shadow Realm didn’t overlap with the void, making the cloak inactive. None of Jake’s skills would work in a situation like this, simply due to how weak he was compared to those who stood before him.
+
+The formation covering them all blocked any and all contact, and as the skills Jake possessed were part of the system, they were naturally also affected by the barrier meant to seal them in. If something like Divine Bargain helped, he was confident that everyone else besides the King would also have been able to at least notify or send a proverbial flare into the multiverse to alert their divine supporters.
+
+Even if they could send a weak signal toward their gods, chances were the formation would still be able to block them. It could block even Artemis and any attempts she made to reach the outside, meaning it had to be of an incredibly high level.
+
+Taking everything into consideration, Jake saw only two potential solutions. The first one was to actually do as the god said. To surrender and buy time that way, with the assumption that Villy and other Primordial-level figures would be able to do something once out of the barrier.
+
+However, even that seemed like a bad idea. These masked gods had to have taken precautions against exactly that. Perhaps they planned to seal Jake and the others within a hidden space, or maybe they wanted Jake to do whatever they wanted him to do immediately within the barrier. In all cases, they had to realize they were on a timer.
+
+At some point, as long as Jake and the others were alive, the masked gods would be tracked down. Leaving them alive for too long was thus simply too risky an option. As Jake looked around the room, they all seemed to also realize this as Jake spoke.
+
+“I have one gamble, but I have no idea if it will work, and it may end up just dooming us all here and now,” Jake said to the others in the room.
+
+“Then at least this brief third chance at life would have ended at my own choice,” the Forest King said.
+
+The Sword Saint just nodded, Dina looking nervous but ultimately also agreeing. Sylphie had been quiet for a while, but even she realized the gravity of the situation as she let out a low screech of approval.
+
+Jake nodded and gave them a solemn smile. “I suspect this won’t end well for me no matter the scenario.”
+
+With those words, Jake took out an item from his spatial storage and, without further hesitation, drew on his Primeval Origin Energy. Time was running out, as the vessel would soon be breached, giving Jake no further time to consider matters.
+
+Holding the object in his hand tightly, a whisper of Primeval Origin Energy soon entered it. At first, Jake felt no chance at all, but as he kept channeling his energies, something seemed to stir within the item.
+
+Jake kept clenching the small black bead tighter, hoping his gamble would pay off as he sought to awaken the Origin within. Right then, the vessel was about to be breached, and to buy just a moment’s more time, Jake made a drastic decision.
+
+He had seen how the vessel could be opened from within, likely as an emergency function, and, with the others looking on with bated breath, Jake unlocked the vessel's hatch.
+
+An opening appeared, and before Jake could even register any movement, the god appeared right in front of Jake. He saw a smile on her face beneath her mask as she spoke.
+
+“I’m glad you finally saw sense.”
+
+She didn’t sound quite smug, but more like this was indeed the only possible outcome of this situation. He also took note of the fact that she indeed hadn’t tried to break through the barrier still covering the inside of the vessel despite having an opportunity to.
+
+It was likely she feared accidentally killing Jake in the process, as the moment he was exposed to the void, he would perish. So she would need to not only break in but shield Jake the moment the barrier was down. In the event that Jake resisted, it could quickly result in his death and them having wasted their efforts.
+
+The god in question raised her hand toward the barrier, and she summoned a small magical shield herself to cover the entrance of the vessel. Her actions were very cautious, not out of fear for her life, but fear that everything wouldn’t go according to plan.
+
+Perhaps she thought Jake was hesitating when he was actually deep in thought as she spoke again, this time at least trying to sound a little comforting.
+
+“Just accept my hand, and I swear none will die this day.”
+
+Jake was still infusing Primeval Origin Energy into the item hidden in the palm of his hand, and he needed more time, so he tried to buy at least a little.
+
+“You said you wanted to speak with me... well, here I am,” Jake said, not having to infuse his voice with power as with the vessel open, all effects that stopped anything leaving the vessel had been deactivated.
+
+“I also believe I’ve said all that needed to be said,” the god said, her words indication she was at least a little impatient. Jake, on the other hand, felt like he had a lot more time upon noticing the fighting between Artemis and the other gods pausing.
+
+Jake considered his approach as he tried something bold that he hoped would work, in part because it wasn’t a good strategy for someone in his situation. “Let’s just put all the cards on the table. You clearly need me for something, and you need me to actively participate in helping you, so let’s reach an agreement where we both at least benefit from all this nonsense.”
+
+The god tilted her head a little, her smile beneath the mask broadening. “I’m listening, Harbinger of Primeval Origins.”
+
+“I want you to properly promise that everyone here will be kept alive, as I may still need them in the future,” Jake said in a slightly haughty tone. “Additionally, I’m not gonna help you totally for free. Seeing as I don’t know which faction you’re from, I guess details would have to be determined later, but I want something to help strengthen my Path. Powerful alchemical ingredients or artifacts for transmutation. Perhaps exclusive first rights to a few dungeons, as my Dungeon Pioneer title could need some work. Of course, preferably a bit of everything, as I know the ware I’m offering is invaluable.”
+
+From what Jake knew from his recent dinner date with Artemis and interactions with many others, his reputation in the multiverse was indeed that of a young master with a sense of ego and arrogance only surpassed by his Patron.
+
+Anyone not entirely up their own asses would realize that Jake wasn’t in a proper situation to negotiate. However, that didn’t mean the god wouldn’t entertain him. If Jake was correct, they never planned on having him survive long enough to cash in on any promises, so why would it matter what they agreed to? All that mattered was placating the delusion, arrogant Chosen, until he was done helping these gods.
+
+“Bold of you to try to negotiate, but we’re not entirely unreasonable,” the goddess said, continuing to smile as she seemed to consider the matter. “While I’m not able to make all promises, I can agree to some of them. However, all payments will happen once you’re done assisting us. Got to make sure you’re not just trying to take advantage.”
+
+“I could say the same thing,” Jake said smugly. “But fine, I’ll be magnanimous. Just know that if you need my help again in the future, I don’t do discounts for return customers, especially not to those making such rude introductions.”
+
+“Apologies, but the circumstances demanded it,” the god said halfheartedly, still humoring the delusional Chosen. In her mind, she likely found it more funny than anything that Jake had tried to wrestle back some semblance of control over his life and situation, despite the fact that he truly had no cards to play outside of threatening to end his own life as an act of resistance.
+
+“It can be forgiven if things are acceptable from here,” Jake said with a nod. He was starting to reach the end of his bullshittery as he tried to get on to more things to say... but that was when he felt it.
+
+“All the details can be determined once we are out of here and in more comfortable surroundings,” the goddess spoke again, motioning with her hand once more for Jake to take it. “The sooner we leave, the better. For everyone involved.”
+
+Jake slowly nodded and smiled. “You’re right.”
+
+He took a step forward and reached out his hand, holding the pitch-black marble in his hand. At the same time, he also stepped backwards, his reality splitting in two as Eternal Shadow activated.
+
+Instantly, the god noticed Jake was up to some trickery. Jake’s Eternal Shadow instantly froze the moment it exited the barrier... but its hand had gotten out, and as the entire cursed manifestation faded, the small marble was revealed.
+
+A multi-layered barrier from the god immediately covered the marble, sealing it in entirely. There was no hesitation in the goddess’s actions at all, as if she had expected Jake to do something like this.
+
+“I will admit, I would have been disappointed if you hadn’t tried to do anything,” the god chuckled as she floated the sealed marble closer. “What is this? Some hidden treasure? Whatever it is-“
+
+The marble within the barrier had a small crack form on its surface, stopping the god from talking for a moment before she looked more curious than anything else.
+
+“A treasure of the void? Whatever it is, I think it’s broken,” the god said, floating the marble off to the side as her smile faded, and her tone turned serious. “Now, enough playing around. There is a limit to my patience, and you have just about reached it.”
+
+Jake kept looking at the marble, feeling his connection to it remain as he also detected the faint changes within. “Aren’t you curious about what that is?”
+
+“Not really,” the god said dismissively. “Your attempt to buy time is utterly meaningless.”
+
+“Vision of Oras,” Jake said in a calm tone.
+
+The god frowned and looked over at the barrier... only to see the crack in the marble expand and open up, revealing a pupil staring back from within as a deafening voice echoed throughout the void.
+
+“I SEE YOU.”
+
+The smile on the god’s face faded in an instant as she looked at Jake, who was now smiling behind the barrier. She raised her hand, but before anything more could happen, the void shook.
+
+Jake felt his sense of perception shift as the world distorted for a moment. The darkness of the void began staring back at him as countless eyes opened within the endless nothingness, making Jake’s eyes bleed and hurt as he nevertheless forced them to stay open.
+
+More eyes filled Jake’s vision as he felt groans from within the vessel, as all the others experienced the coming of the Void God. A sea of eyes fell like a waterfall over them all, folding and expanding infinitely and filling everything within sight. Even the walls inside the vessel weren’t spared. The enchantments were capable of holding back even beings surpassing Godkings, yes, but in front of a Void God, they failed entirely to withstand such might.
+
+As the influence of the Void God was felt, his aura soon arrived. It was utterly oppressing, and Jake saw the god standing in front of the vessel look upwards, eyes wide. Jake also looked slightly up and saw that the entire void above them was taken up by one massive eye of swirling darkness staring down at them.
+
+Upon seeing it, Jake was forced to close his eyes as he stumbled back into the vessel, raising an arm in front of his eyes to shield them. An incredible headache rocked his head, and he felt like he needed to throw up as he knelt on the floor before he lost balance.
+
+At the same time, a voice full of power echoed in all their heads.
+
+“Vision cracked, sight gained. Interference, influence, expectations. Seekers of that which is not theirs.”
+
+The voice of Oras sounded as if it echoed within Jake’s mind. Through his sphere, he saw that in front of the vessel, all six masked gods had gathered. The masked woman, who had tried breaking in earlier, seemed to gather her courage as she spoke to the Void God.
+
+“Eminence of the Void, we seek no quarrel. Our actions are independent of you, and we apologize and wish to offer compensation if our presence has disturbed you.”
+
+Countless eyes shifted, blinked, and all gazed upon the god. Jake saw her shiver merely from having them all observe her at once, but she tried not to let it show as Oras spoke again.
+
+“Quarrel. Intent. Relevance, null,” the Void Dweller said, a sense of dismissal in his voice. “Promises made, futures seen, planned, predicted. He Who Hunts, compensations owed, all ordained as oaths are fulfilled.”
+
+As with the last time Jake heard the overpowering voice of the Void God, he had a very hard time understanding what the Void Dweller was actually getting at, but at least it looked like the masked gods were also perplexed.
+
+Still, the leading masked god gave one last attempt. “The honored Void God truly has no cause to interfere, and I hope that-“
+
+“Denied.”
+
+As one, all the eyes opened wide as each gave off a glow of energy. Millions upon millions of eyes filled the world as a loud sound of glass shattering echoed through the void. The moment it did, Jake felt the shift immediately. Oras had effortlessly dismantled the barrier that had trapped them, something the gods also noticed as the leading god yelled toward the sea of eyes.
+
+“Oras! You do not even know who we are, who we represent, yet-“
+
+“Immaterial.”
+
+The swirling mass of eyes began to close in all around them, the many masked gods now being the ones finding themselves trapped. Jake could only watch through his sphere as the world seemed to close in all around the gods, escape an impossibility when faced with the power of a Void God operating within its domain.
+
+Right then, Jake also felt signs of another aura closing in, one full of bloodlust and a presence that seemed to erode even the void itself. The masked gods saw that their time was truly up, and there was nothing more they could do.
+
+Jake knew that his gamble had paid off, yet it didn’t feel like a complete victory for some reason. It didn’t get better when the female masked god stopped staring toward the sea of eyes, but turned her attention back to Jake.
+
+Rather than rage, confusion, or any other kind of expected emotion, she instead showed what struck Jake as genuine admiration. “Well played. I see now more than ever why you’re wanted.”
+
+The god took out an odd coin-shaped item from her spatial storage and held it in her hand as she spoke again. “I do want to clarify that there was never any intention of killing you. Not now and not in the future. Of course, for the sake of transparency, I cannot say the same was true for your little friends. Alas... take solace in your victory till our Paths cross once more.”
+
+Jake wasn’t sure if he even wanted to say anything as the god just smiled and activated the coin-shaped artifact. Upon doing so, a sphere covered herself and the five other masked gods before promptly imploding, consuming everything as it did so, including the gods and even the void itself, as all six were erased from existence.
+
+The void was silent as several more auras could be felt approaching. With the barrier gone, more than a couple of gods had pinpointed their location and were about to arrive imminently.

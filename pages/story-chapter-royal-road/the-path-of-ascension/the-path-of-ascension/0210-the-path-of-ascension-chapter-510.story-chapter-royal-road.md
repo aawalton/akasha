@@ -1,0 +1,303 @@
+---
+id: 74d689ca-a3c4-50e9-916d-423211a5aa92
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 510"
+slug: 0210-the-path-of-ascension-chapter-510
+partOf: the-path-of-ascension
+position: 210
+ownLength: 6013
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3814552/the-path-of-ascension-chapter-510"
+royalRoadId: "3814552"
+---
+
+Chapter 510
+
+Matt, Liz, and Aster sat in a well appointed booth that happened to overlook one of the many training fields that the army had been allocated on the Capitol. It wasn’t spatially expanded because it had been spatially layered. That allowed the in-demand facilities, including the very valuable space, to be multipurpose without needing a rift instance, but those same enhancements precluded the addition of making the space larger than its footprint.
+
+Most of the time the facilities weren’t in such a high demand, with no more than a few in use at any given moment. But today, every layer swarmed with Tier 35s the way fresh fruit left out at a picnic would be swarmed with ants.
+
+Matt watched, knowing the mustering was far from unique. Everyone had been anxiously waiting for this moment, but now that it had arrived, those involved didn’t find a release of tension, only the weight of knowing the time had come.
+
+This wasn’t a normal war and everyone knew it. It was a population war, and the overarching goal was as simple as it was brutal. Reduce the number of immortals in the Realm.
+
+However, the Great Powers, as callous as he sometimes felt they were, weren’t going to throw away their people for no gain. If they were willing to do that, they would have allowed the growing pressures to be solved through infighting, but even the Sects limited internal competition from reaching the levels that would be required to solve the over-population dilemma.
+
+It was much more effective to fight for more resources while bleeding the excess population, tackling things from both sides. The winners suffered relatively fewer casualties and gained a few new planets, as well as an influx of higher Tier or rare resources. The losers solved their problem by virtue of having their asses kicked and taking heavier losses.
+
+Whether it was by unspoken agreement or with actual rules in place, the fighting would continue until the problem was solved one way or another.
+
+For most immortals whose only skill was fighting, they had two choices if they didn’t want to fight in the war and couldn’t get into one of the few combat oriented guilds that could earn them an exception. Join the Independent faction, where their cultivation speed would plummet, or switch to ambient cultivation. There were only a limited number of rifts set aside for  Independents in the settled central regions of the Great Powers, and they were, by design, never the best or most desirable rifts. In less tense and resource starved times, they were usually able to buy slots from normal rifts, but these weren’t those times. That meant even if they managed to buy one of the exorbitantly expensive slots, their delving frequency would never be comparable to a regular cultivator. Even ambient cultivators, with all of their drawbacks, usually advanced faster than them.
+
+But that was exactly the point.
+
+The Great Powers didn’t want people outside the societal controls they set up. The current structure worked, but only because hard lessons on both sides had paved the way.
+
+The particular hows varied between Great Powers, but they’d had enough time to figure out what worked for them. The Sects had it the easiest in that their culture made anything but fighting in the war almost unthinkable, but the others all used a mixture of incentives and force.
+
+Matt would have loved to say the Empire was closer to the Republic side of things, but they were firmly in the middle. The unbidden thought that the previous dynasty had been far closer to the Sects did little to mollify his already poor mood when he didn’t have a solution.
+
+It had taken him some time, but he realized that was at least part of his issue with this war. For so many things in his life, he either had a solution or could make one through his Talent and the strength it gave him. Overpopulation wasn’t so simple to solve.
+
+Especially not when it was exacerbated by the influx of Tier 0 skills and wide spread aura Concepts.
+
+A Tier 15 staffer came by with a tray of refreshments as they waited, but it was a good thing, as the interruption brought him out of his funk just in time for General Declan Raven to burst in.
+
+The man moved like he had a dozen places to be and only had half that many bodies. A quick scan confirmed it was his real body, but a spiritual sweep found twice that many copies of the General doing various tasks.
+
+They’d gotten the real body, and the realization finished pulling Matt out of his own head, just as it did for the others.
+
+“How are you three? Are you ready? Need any last minute items, skills, or what have you?” Matt was going to ask for clarification, but the older man didn’t give him the time as he continued right along. “This war will be different without Ascender Shadow to transport you all over the place. That means no easy rift access for extended recoveries between fights. It means you three are going to be doing what normal Ascenders deal with during wars. Running around putting out fires, or starting them as the situation requires. I hope you aren’t expecting much down time this go around. You won’t find it.”
+
+The final words were said with a surety and confidence that none of them bothered to refute.
+
+Aster took the opportunity to ask her own question. “So where do you want us? We don’t even know who we are fighting at the moment.”
+
+General Raven sighed at either the question or the interruption itself, but that didn’t stop him from answering. “If I tell you where to go, will you actually listen?”
+
+Matt felt that was a little unfair, given how well they had listened to orders in the previous war. But given the man commanded three other sets of Ascenders, he was willing to cut him some slack.
+
+“As to your not so unspoken question of who we are at war with? This information will be spreading shortly, so I don’t mind sharing with you three. It’s a two-front war this go around.”
+
+Matt felt his stomach drop out at the revelation, wondering which two Great Powers had declared on them. They had their treaties, so they should have been safe from their largest aggressors, but General Raven continued before Matt could interrupt, his expression never faltering.
+
+“We are honoring a defensive call to arms from the Clans against the Federation, while also defending against an attack from the Collective.”
+
+Liz cocked her head at the information as confused as Matt and Aster felt, but she also thought further than them. “Wait, what? The Collective? Our high Tier relations with them are cordial. Did something change?”
+
+General Raven just blinked at her twice, his expression not changing before he replied. “I am not informed of such things, Ascender Legion. If I had to speculate, the Collective attacked us because we have a decent relationship with them, not the other way around. What I do know is that while it was mentioned, very few of our high likelihood plans revolved being called into the expected Clans-Federation war. In fact that brings us around to my main point. Our current high level orders are to hold the border with the Federation, but not to provoke anything. We will not be advancing or assisting the Clans in the upcoming conflict beyond what splashes onto us. The army's main focus will be on the Collective. At least at first.”
+
+“Which is why you wanted us to be prepared to fight for long stretches?”
+
+General Raven nodded once, the gesture firm and decisive to Aster's question. “Correct. We have two teams of pinnacle elites ready to act as your back-up. Yvette and Halford are tied to you until, well, try not to break them too quickly if you can manage it. Let me remind you that we no longer have our teleporter to help reduce casualties, and Tier 35 elites are even more valuable than Tier 25’s. Combine that with the fact that our best healers won’t be flirting with the frontlines in this war any more than they did the last, and you three need to remember that not everyone heals like you. Be careful. Don’t over extend yourself, if not for your own sake than for the people whose job it will be to die as they try and rescue you.”
+
+Until they had their Aspects, they would be at a disadvantage, but not an insurmountable one. Nor was it a surprise.
+
+Matt connected with the room's projector and pulled up a map of the Great Powers as seen from chaotic space. The millions of interconnected worlds that made up the Great Powers seemed almost small when presented as dots of lights with thin lines connecting them, but that was only because the true scale was hard to grasp.
+
+He highlighted and zoomed in on the two regions of three dimensional space that amounted to settled space where the Empire bordered the Clans and Federation, and the same thing for the area where the Collective and the Federation lingered.
+
+Due to the way the innermost border regions could change hands between wars, there was actually a gap that prevented the battlefields from becoming one contiguous line. In theory, that could be a good thing, given that they were ostensibly ignoring one half of the battlefield. But he doubted things would be so simple.
+
+They were still at war with the Federation despite the truce, and Matt didn’t think they’d be willing to ignore them.
+
+General Raven must have felt the same, because his words nearly matched Matt’s thoughts. “In fact, as of right now, our only asset currently on loan to the Clans will be you three. However, given that they already have an Ascender team, we have deemed you needed on the Collective battlefield more than with them. We will have to send troops once we’ve secured our borders, but we are hoping that after a few decades of non-interference, the Federation will be too embroiled in their war with the Clans to pay us any mind. Sadly, that still requires we repel any attacks they do decide to launch at us in the meantime.”
+
+He started directing the projection and Matt moved it as requested. “As for you three. The army’s main goal is to see you three get your Aspects as soon as possible. If sitting back here is your preferred method, plant your asses. If it's getting out there and butchering random non-elite Tier 35’s, go ahead, we won’t stop you. That’s ultimately the crux of this issue. You're already specialized for what this war requires, which makes coverage easy. To that end, we don’t need to assign additional personnel to ensure your missions will be completed like in the last war. So we won’t. Those teams can be better utilized elsewhere. Our job is simply to ensure you don't get ganged up on by a half dozen teams of pinnacles all at once. It means you very much can just do as you please and still advance the war effort.”
+
+“There was a distinct lack of fighting other elites in that very short list.”
+
+General Raven didn’t sigh as he circled a finger around several worlds in the project, but he might as well have given his tone as he responded to Aster’s unspoken question. “These are what we expect to be the highest contested regions. For your knowledge, this area is one of King Rusty’s aura farm clusters and a place we are prepared to hold should the frontlines collapse. Correspondingly, that’s where we expect the most Collective initial elites to be deployed. If you want to challenge yourselves, go there.”
+
+He put so much emphasis on the word challenge it almost sounded like a curse.
+
+Matt thought it sounded like a great idea.
+
+He had zero interest in fighting random Tier 35’s who were simply trying to eke out a future, let alone butchering them. Fighting enemy elites, on the other hand, sounded right up his alley. At least, theoretically. Flashes of Eric and Morgan made even that application of his power and prowess distasteful, but it was all he could do.
+
+After all, even if he could say no and refuse to fight in this war, all that would do was shift the burden onto someone else. He didn’t like it, but he’d do his part.
+
+Just on his own terms and in his own way.
+
+He didn’t think it made any real difference, but it was the only one he had.
+
+General Raven must have seen similar thoughts in the others, because he stopped trying to convince them, and started briefing them on high value targets the Empire wanted them to focus on.
+
+Some were simple kill orders with Tier 35 elites of all types slated for death, should the opportunity arise, but they were a small minority. They did have a fairly good relationship with the Collective after all, and most cultivators only got on that list by doing something horrendous within Empire borders. Most priority levels weren’t quite on the level of what Maven had, though all were close. Yet some still managed to be worse.
+
+The second list of names were still targeted at the general elites, but they were slated as high value captures, with killing being a secondary, but acceptable, outcome.
+
+The last list was the one that Matt personally took the most interest in, due to its strategic significance. General Raven and the others had seen fit to highlight the worlds the Empire was interested in capturing should they end up on the offensive and holding significant ground.
+
+The Collective not only had their own smaller aura farm within range of the border, but also a Tier 24 world they’d only collected a few dozen years before the war started. It was, like many things, a product of its time. Now, instead of getting rerouted deeper into the Collective’s heartlands as the winds of chaotic space shifted, it was on the table for redistribution at the end of the war.
+
+Other things were nice, but a single mid-Tier world like that equated to a new marquess. A new hub world would justify additional worlds being grabbed for the earls needed to oversee the viscounts. They, in turn, would need to rule over the tide of barons who would be required to govern the countless low Tier worlds needed to keep the spiderweb firmly bound together.
+
+And that was one mid Tier world during a time where resources were already stretched thin.
+
+There were even several high value areas in the Federation, though they were warned against going after any of them until they were cleared to break the silent armistice. They might not have taken the warning seriously, but he backed it up with a personal message direct from Manny to all of the Generals, warning all of them of sparking conflict in the first few decades.
+
+Their plans decided, they skipped the speeches and formations by virtue of leaving.
+
+At Tier 25, they’d been given a nicely made ship specially built for Allie to teleport it and its occupants around at will.
+
+At Tier 35, they’d been given a nicely made ship specifically built around Matt’s ability to generate mana.
+
+The first thing he noticed about the ship was its engines. In fact, most of the ship was its engines. Eighty four percent. Of the remaining sixteen, a paltry two were dedicated to the ship’s weaponry, while another nine were dedicated to the ship’s shields and defences. The final five percent was the absolute minimum they could dedicate to the crew and general living space.
+
+Given the different use cases for the ships, he wasn’t too surprised their new ship was much larger than the one Allie had been hauling around, at almost eighty times the tonnage. He was even impressed until he saw the comically large thrones scattered throughout in all of his favorite places to lounge between battles. The command deck, one of the three private workshops, and the engine room itself. Each and every one was inlaid with more mana conduits than was reasonable for anyone but him and his augment.
+
+Aster’s titters as she inspected the spikes and baubles earned her a glare, but a longer inspection confirmed that most of the protrusions weren't purely for show, which somehow made it all that much worse. If they’d been cosmetic, he could have cut them off himself. Given the complexity of the ship and its components, he wasn't willing to risk it.
+
+The crew were all seasoned Tier 35’s with applicable Talents and/or Domains for their roles, combined with oodles of time honing those skills. There wasn’t anything more they could ask for.
+
+Almost a twentieth of the hundred person crew even had their Aspects, which technically made those soldiers elites, even if they were the lowest ranking of elites. That was fine, as they weren't exactly fighters, even if they could hold their own in a rift thanks to their advanced Domain.
+
+For the average Tier 35, the difference between having an Aspect and not was night and day.
+
+While not every Tier 35 elite necessarily had an Aspect, every Tier 35 who had an Aspect was an elite. For the average soldier, the difference was that important. Without all the armies’ safety nets, an Aspect was only safe to make at Tier 43. As Ascenders, they could skip the line to use the safety nets multiple times if they wanted to, but the average soldier didn’t have that luxury.
+
+They either risked death or waited in enormous queues.
+
+Despite all of that it was worth it.
+
+An Aspect against an Intent wasn’t as dramatic a gap as Aiden’s Authority, but the practical differences were the same for most people. At the same level of power, when all other things were ostensibly equal, a Domain stage was pivotal.
+
+It was why Yvette and Halford’s teams were assigned to them.
+
+Matt took what he knew would be his common spot, letting the chair attach itself to the conduits in his augments.
+
+Few places or applications considered fifty million mana a second as an idling cost, but when the ship got moving, he understood the need for the protrusions on the chair.
+
+As the ship’s acceleration pushed the mana draw past a half billion mana a second, they reached the limits of even enhanced Tier 35 conduits. At that point, the extraneous protrusions blinked to life as they acted as secondary, and then tertiary, stabilizers. Together, they kept the flow of mana to a manageable glow rather than a raging river of energy as it burned through the channels that were supposed to be containing it.
+
+Captain Barns and the rest of the command staff looked a little flustered at the glow illuminating the back of the room, but Matt just shrugged as he spoke to the room at large. “I can’t really stop or prevent that. I can probably hide it with an illusion, but we all know why that would be a bad idea.”
+
+None of the seasoned veterans needed something that simple explained to them, and he knew they'd settled in quickly enough after a few days once the unusual had time to become commonplace.
+
+Out of everything Matt wanted to say, the only thing he could manage was that the ship was fast. There was no denying or obfuscating that. However, no ship, no matter how speedy, was comparable to instant teleportation, and he couldn’t help but chafe at the reports of the war that trickled in as they passed by nodes in chaotic space.
+
+If they’d still had Allie on their team, they could have responded to every report of a lost battlefield before they’d fallen and helped every push. Or, that's how he felt. Realistically, he knew that wasn’t how things would have played out, but their manual travel grated on all three of them.
+
+They were only able to watch as the initial stages of the war kicked off across the Realm.
+
+The Federation and Clans war started in a spectacular fashion, with the Federation breaking through the frontline and gaining a foothold in each of the three most important Tier brackets: Tier 15, 25, and 35. It wasn’t much in the grand scheme of things, given they’d made over fifteen full scale incursions, but it did explain why Manny hadn’t wanted to interfere.
+
+Thankfully, their aggression to the Empire wasn’t nearly as well coordinated. Or existent for that matter. There were no dedicated armies ready to punch through lightly defended spots or capture important hub worlds that would allow deeper access.
+
+Most of the border troops on both sides held their defensive stations, mirroring the Empire’s stance of non-escalation. At least for the most part. There were fights as individual units moved on both sides for raids of opportunity and general sabotage, but on the scale of the Great Powers, anything less than a full scale army was nothing to worry about.
+
+The Collective border wasn’t as fortunate.
+
+The war there hadn’t kicked off with aggression, rather a slow methodical escalation as the two Great Powers brought troops in from all across their lands and funneled them into the border planets.
+
+The Empire, knowing war was possible, if not likely thanks to the lack of truce with the Collective, had armies stationed and ready to react all across their borders, but their stance was passive. They could have struck out and occupied some worlds before their opposition arrived in full force, but they moved to meet the Collective troops on the border worlds, only aiming to take the fortress worlds and take a defensive stance.
+
+Those low Tier uninhabited worlds became charnel houses as armies of various Tiers traded possession back and forth in the month it took them to reach that region of the border.
+
+Their ship slowed down as they reached the frontlines to receive updates, but the Tier 20 local army's current orders were to hold their ground and wait for reinforcements to arrive from deeper in the Empire. That wasn’t in line with Matt, Liz, and Aster's strategic or tactical goals, so they slipped along the border to reach one of the Tier 35 battlefields. They didn’t exactly pick a random one, but given the ever expanding warfront, it didn’t exactly matter which one they went to until the peak and pinnacle Elites arrived from the core regions.
+
+The trio entered the real space border world without interference, but they weren’t trying to hide their presence either.
+
+Their ship and the pinnacle elite teams were there for backup or cover should too many hostile pinnacle elites arrive and try to overwhelm them, but they hoped that wouldn’t be necessary. Especially not this early into the war.
+
+While there could be pinnacle elites already on the border, most such people were important enough that they’d been near their respective Great Powers’ heartlands. And as he knew from recent personal experience, the Great Powers were large enough that travel was a hassle without an Ascender level teleporter.
+
+If all went according to plan, they should have beaten most of the strongest elites to the frontlines. That meant they had time to get their feet wet in the new bracket without the fear that two or three teams of pinnacles would descend on them out of nowhere.
+
+That was their only real worry.
+
+As Ascenders without Aspects, they were generally still on par with pinnacle elites, but where they could previously reliably win those fights, it would now be far dicier. There were plenty of tales of newly T35 Ascenders forced to retreat when faced with a Pinnacle that was particularly skilled or suited to counter the Ascender and they didn’t want to be another such example.
+
+Conversely, that also meant the best place to hone themselves was right where they were.
+
+Matt sighed as he exited the ship and into the comforting emptiness that was space.
+
+It was big and there wasn’t much in it to break, unlike planets that seemed to be made from tissue paper and wishes. Sure, the planet was only a un-terraformed Tier 8 planet as befit an unsettled border world, but the outer system had been fortified by what a quick analysis told him had been both sides, indicating the fortress had changed hands more than once already.
+
+The Collective currently held the all important fortress world that sat at the outermost edge of the central star’s gravity well, far away from the things the Great Powers considered important, which made it an ideal battlefield. Combined with them being in a border world without a permanent population, things couldn’t be better.
+
+Both armies bustled with activity as they appeared over the uninhabited planet that housed the teleport tethers, but a [Portal] put them next to the Empire’s troops where they recovered, a few thousand miles away from the fortress world.
+
+A Captain rushed over, prepared to give them a readiness report, but Aster deflected him by speaking first. “We are going in this one alone, so long as there aren’t any new elites.”
+
+When he confirmed there hadn’t been any new attention, matching what Matt had pulled from the army intel units, they got moving. He was already working on hacking the enemy’s systems, but he took pains to not get detected.
+
+While the Great Powers surely knew he’d integrated his [AI], he didn’t want to give them any more data than he had to on how powerful his Insight was this early in the war. He’d make them work for every data point, just as they’d do the same to him.
+
+Matt hoped that so long as he kept his usage limited during the early parts of the war, they might let their guards down in the later half, no matter how unlikely that was. A part of him knew that he’d probably end up brute forcing some issue before the end, but he didn’t want to give the game away too early.
+
+As they approached, the Collective army shuffled their formations under the barrier of blue that shrouded the planet, but they didn’t retreat as the three of them entered the no man's land between the armies.
+
+Liz sent out an offer of surrender, but Matt wasn’t surprised when no one accepted it. This was a population war, and the Collective no doubt had orders against such deals, but they still sent out the offer.
+
+They weren’t beholden to the Collective command structure, and even if they were, they didn't particularly care. By sending out the offer, anyone who did flee could use them as an excuse. It might not change anything this soon into the war, but it was all the mercy they could give.
+
+Whatever the case may have been, this army seemed to be willing to try their luck. Or at least, the commander was. They’d have to see how that worked out for them.
+
+Matt already had an inkling on how it would play out.
+
+Withdrawing his blade from its special storage ring, Matt flew forward towards the shielded planet, gaining both speed and mass with every moment and mile. Rather than decrease his weight as he normally did, he flipped those mechanisms and pushed the other way with all of his might.
+
+His augment had fully encased his bones, and the first enhancement that came after made moving the increased weight feel effortless. That feedback was false, as that very same part of him told the story of the strain his actions put on his body.
+
+He wasn’t quite planetary heavy, but he was close.
+
+When he reached the halfway point the planetary defensive cannons opened fire, unleashing tens of millions of mana with every single attack. Rather than dodging, he activated his half mixed amalgamation of [Cracked Phantom Armor] and [Archmage’s Presence] and took the initial salvo without slowing down or deviating from his path.
+
+Aster used the wash of energy to cover her casting the merge of [Tailwind] and [Swift Strides], she called [Grace of Wraith]. The merged skill bolstered both his speed and maneuverability, but rather than take advantage of the secondary effect, he only sped up further. As they got closer, she also took over dispelling and redirecting as many of the cannon shots as possible, letting him concentrate on his primary target.
+
+His spiritual perception wasn’t strong enough to pierce the shields and observe the troops' expressions, but he doubted the Collective’s cultivators were any less confused than the Empire ones who hadn’t yet understood what he was doing.
+
+Matt’s longsword didn’t twinkle or shimmer as it landed on the planetary shield. There wasn’t enough light this far out, and the barrier of mana wasn’t so wasteful as to be illuminative.  The sword simply was.
+
+A moment later, the shield could no longer claim the same thing.
+
+From transparent, to translucent, to opaque, to gone, the planetary shield’s transition was almost instant, even to a Tier 35’s perception.
+
+He didn’t stop there. He couldn’t.
+
+Matt slammed into the Tier 8 ground and its layer of Tier 35 fortifications sword-first. Neither made any difference.
+
+He was only able to bring his momentum to a halt a quarter of the way into the smaller than normal planet’s crust, well after he’d punched into the network of mana conduits and channels that powered the orbital shields and cannons. His impact and the devastation he’d caused was still transmitting through the planet as it protested the new crater he’d created.
+
+Liz didn’t help the situation as over a hundred winged copies of her followed him planetside under the cover of Aster’s [Cracked Ice Canopy] that turned them into a snowy comet. When they got under the still absent shield layer, they engaged anyone foolish enough to continue fighting now that they’d breached the outermost defences. He also felt his bond picking at the smaller building shields, but that was a slow process she only managed when she was otherwise unbothered ,which wasn’t often.
+
+Matt moved through the ground. He didn’t burrow, or dig, or even use spells to open his path, he didn’t need to. He simply flew through everything, letting his body carve his way through sheer physical power. He reached the surface just in time to receive the effect of [Astral Path], along with the Lizzes.
+
+Every enhanced movement caused streamers of illusions to follow behind them, and Aster didn’t waste a single one as [Illusory Summons] multiplied their presences further.
+
+Clones of Matt split off and ahead of him, attacking and ‘killing’ combatants, while others started casting magical attacks. While most of the first deaths were managed through Aster’s own skills masquerading under the illusions, the second wave were far more practical. While he hadn’t figured out how to make it so his flash-cast liquid mana stone talismans could be activated by the others mid-combat, he had figured out how to do so if he made them well in advance.
+
+Aster had mountains of mana stone talismans in her spirit space, and had gotten very good at bringing them out and mixing them into her illusions for devastating effect. She had her own spells that she did use, such as [Icicle], [Airsnow], [Wind Lance], but the talismans allowed her to focus on her role as a support while still inflicting major damage on the scale of an army.
+
+After a few cycles of real and fake, even the best prepared enemies would slip up and block when they should have dodged, or vice versa, which was all the mistake she needed.
+
+Matt had just barely reached a bunker he’d been picking up orders from when a Liz slammed into and through a nearby wall as she fought a large bronze badger that kept burrowing through solid objects to get away from her.
+
+While Aster kept the general army off balance, Liz was aiming for the active leadership and any elites she could identify. Half of her bodies harassed and corralled them so they couldn’t launch a coordinated counterattack during the panic, while the other half acted as mid range mages casting spells and curses alike.
+
+Taking the cue from the badger, he decided to forget the well defended entrance and its fortified door and ran at the wall.
+
+The wall crumpled around him as easily as the shielding had, but Matt didn’t let that stop him.
+
+His longsword moved in large wide sweeping motions as he preserved his momentum between each attack. He was bombarded by dozens, then hundreds, of spells, as the defenders tried to pivot and react, but it didn’t do them any good as he cut his way deeper to where he felt the defending army’s leader.
+
+Or at least their general, which amounted to the same thing.
+
+Matt found two teams of high elites defending General Oask, but didn’t let that change his plans when he saw no one on either team were reported to have particularly noteworthy Talents or Aspects.
+
+The instant he had a visual confirmation, he slammed everyone with a wave of [Telekinesis] hard enough to cause confusion, but not so much that he disrupted their formation as he crashed into it.
+
+One of the frontliners tried to deflect Matt’s longsword upward, but the blade didn’t waver in its path as it blew through his sword arm, armor, torso, and finally the horrified defender next to him who’d been prepared to cover his opposite flank.
+
+Matt didn’t move to deliberately finish them off, letting them activate earth aura escape talismans and disengage.
+
+The backline fighters, two mages, a crossbowman, a dagger wielding fighter who blended into the wind, and a support that comprised the two high elite teams looked aghast at losing their primary melee fighters in one blow, but that didn’t stop them from launching more attacks in an attempt to slow him down.
+
+Matt felt one of them muster and use an Aspect that tried to mire him down in the most viscous of mud, but he already had his momentum, and as such, their attempt was doomed to fail.
+
+Their Aspect lasted three steps before he felt something tear and the support dropped to their knees, clutching their head and screaming as they bottomed out on willpower and continued anyway.
+
+He tried to keep his attack away from heads, but one of the mages still died as they tried to dodge and ended up getting in the way of his knee.
+
+When he finally came to a stop before General Oask, he reached out his left hand and grasped the woman’s skull without putting any pressure into the movement. He wasn’t trying to be nice, but he knew that following such violence with a measure of control was the best way to strike fear into even a seasoned combatant.
+
+“Surrender, or die so I can ask your replacement to do so. This battle is already over.”
+
+Matt could see the confusion flit across her face at his words, but he didn’t care as the system’s Collective forces surrendered en masse, just before his hand tightened.
+
+Three minutes and eleven seconds.
+
+It wasn’t a record, but it had to be close.
+
+Less than an hour later, before the cleaning and repairs to the fortress world were finished and they returned to the Empire encampment, they felt two new presences enter the local real space.
+
+Matt checked the arrivals before eyeing Liz and Aster.
+
+Peak Collective Elites had arrived. Reinforcements that realized they were far too late.
+
+They may have been skeptical about the [Portal] that opened up in front of their ships, but Matt summoned the exit far from himself and the battlefield. He was genuinely trying to get their enemies there faster.
+
+He didn’t want more reinforcements to arrive before they finished.

@@ -1,0 +1,193 @@
+---
+id: 1da05fa8-bad1-5ee2-a879-4133f96082e6
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 475"
+slug: 0175-the-path-of-ascension-chapter-475
+partOf: the-path-of-ascension
+position: 175
+ownLength: 5084
+unit: words
+ownProgress: 5084
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3099462/the-path-of-ascension-chapter-475"
+royalRoadId: "3099462"
+markedReadAt: "2026-06-29T19:33:46.883Z"
+---
+
+Chapter 475
+
+After agreeing to work together, Matt and Liz spent a few days preparing before they grabbed a few of their people and joined the nobles on their way to the Capital.
+
+One of those preparations was Matt trying to get Aster to join them. However, she was mid-experiment trying to formulate a stable Level five ‘Space Ice’ mana, and didn’t want to waste the travel time actually traveling. He, along with Zack and Titan’s Torch, helped as much as they could, but similar to when Liz went through the process, a lot of the hard work was reliant on repetition and perseverance.
+
+Allie and Zack both offered their help to his own cause as needed, but Matt temporarily declined. While he knew that he wasn't solely responsible for creating the aura diversity problem, now that he’d seen a path towards a solution, he didn’t expect others to sacrifice their limited time.
+
+He offered the same to Liz when they stood before the [Portal] he’d opened to the noble’s ship. “You know you don’t have to come with us. I know you planned to boil yourself again soon and I don’t want to delay that.”
+
+Phoenix Liz, who’d been napping on human Liz’s shoulder, cocked her head hearing what Matt said, but she didn’t comment.
+
+Instead human Liz shook her head. “It's fine, the herbs won't go bad and Aster agreed to get Allie to drop them off. Given how everyone is already starting to congregate in anticipation of the higher Tier explorers arriving, I figure I might be able to buy a few additional ingredients. Then it's an upgrade to what I was already going to do.”
+
+Catching and squeezing her hand, Matt was silently remembering her sacrifice when Liz grinned. “That, and I want to be there when we solve this problem to rub it in mom and dad’s faces.”
+
+Rolling eyes, Matt moved to step through the [Portal]. “You know they will just be happy for us?”
+
+“So? That just means we all get to celebrate. Best kind of win.” Liz sniped right back and he didn’t have a response, giving her the win.
+
+Which she gloated on even as they started traveling to the Capital.
+
+They spent nearly half of the journey refining their plan, their demands, and what things they were willing to compromise on, as well as how far they were willing to in each case. None of them were under any delusion that ninety nine percent wouldn’t be thrown out by the end, but everyone was determined to succeed. He was fairly sure several cared more about the success itself than their cause, but he didn’t hold it against them as they were still earnest in their efforts.
+
+Their first plan was to leak their plans. Plans that culminated in an official Imperial Petition where they could force their changes through. They’d either need the Royal in charge to agree and force the issue, or eighty percent of the affected parties on their side. The nobles hadn’t been willing to announce that from the outset as they couldn’t or wouldn’t risk the backlash of a failed Imperial Petition might cause where Matt and Liz didn’t really care too much.
+
+Which was why they started stacking the deck.
+
+Using spies and various news contacts, they deliberately spread the news that they were worried about the trends relating to aura exclusivity. For the well informed, this was nothing new when coming from Palustris. But when news spread that Matt and Liz were teaming up with the Empire's strongest hereditary noble families to address the issue, the various factions started taking notice.
+
+Their next steps were to once more ‘leak’ several key pieces of information. The most important leak was a still image of Matt presenting before the nobles with a projection conveniently listing out his key points for convincing Manny to not hold back when solving the problem. Having already agreed to not use his original plan, the nobles had far too much fun carefully tweaking Matt’s presentation to have the most abrasive language possible without tipping their hands.
+
+When that leak was ‘verified’ by Matt and Liz firing the staff member who’d taken the picture, every faction with a vested interest in aura took notice. Having remotely made their plans, they had to trust that no one found out that the person who’d taken the picture was one of the Empire’s undercover agents who needed to cycle out anyway.
+
+Once the information spread, they ceased their stirring and waited for a reaction even as they rushed to the Capital on what he learned was one of the Dobrescu family’s yachts. While traveling, Matt specifically took time to study their opposition in detail now that he had access to the nobles' various channels. Alone, none of their information impressed him. But combined, it was a step above anything less than a directed Imperial probe.
+
+Unlike a lot of business types, aura rifts were wide instead of tall. While everyone involved was at least a Tier 30 organization by the required start-up capital, the newness of the underlying industry meant that instead of a few high Tier factions dominating, there were hundreds of similar strength businesses with a few outliers who were larger.
+
+Matt, along with most independent economists, considered it semi-inevitable that once the easy pickings dried up, the most affluent of the factions in the aura space would start to gobble up the lower Tier and smaller organizations who only had a patent or two under their belts. There hadn’t been an entirely new industry in a long enough time that no one was entirely confident in those guesses, usually it was about offshoots developments, but it seemed likely with the current trends.
+
+And if there were going to be entities left standing, it wasn’t hard to see who would come out on top. Between the corporations, guilds, and noble families who’d decided to try their hands at aperology, there were three main pillars when looking solely from a quantity of aura related patents. He was personally peeved that two of the three were Talented organizations, led or primarily staffed by those with a related Talent, but he was also aware enough to know having a one third being purely science driven group was a rarity at the highest Tiers.
+
+Sadly, he also disliked the New Horizons Institute of Applied Aperology more than any of the other aperology organizations, thanks to their overly aggressive and predatory contracts. Currently, they were the fastest growing thanks to their catalog, which had the most specialized aura type recipes out of any faction. It didn’t help they’d copied his guilds general reward structure and found massive success.
+
+In the end it boiled down to a few simple truths.
+
+Aura was complicated.
+
+Aura related products were a magnitude more complicated.
+
+Aura potions and their resulting Concepts were even more complicated than most potions, given their life altering implications.
+
+While he hadn’t paid much attention at the time, he did remember as alchemy companies started releasing aura potion variations with slightly more targeted effects. It hadn’t caused too much of a stir back then because the more specific potions' abysmal success rates made them uneconomical. However, with profit on the line, New Horizons had bridged the gap by creating more specific variants of aura from the outset.
+
+It was also the long term solution for the problem Matt envisioned, as it meant a cultivator could slant their Domain from the bottle instead of having to put in decades of work to bring their Concept away from a baseline elemental effect. Theoretically any Tier 15 had the time, but as was becoming more and more apparent with every passing day, most people found that even breaking their Domains wasn’t enough to fully erase the after effects. When they tried to make their own Domain, they found it much harder as they tried to deviate from what had been nestled in the core of their very being for hundreds of years.
+
+On the other hand, starting with a fire-heat, or fire-burning, or an even more specific effect such fire-lingering didn’t sound like much of a change, the additional starting focus gave cultivators another lever to push, which was all most people needed. With more targeted starting potions, not only was breaking a Concept and reforming it into something less elementally related easier, fewer people felt the need to break their Concepts at all, making it the best of both worlds.
+
+Or it would have been, if everyone had a wide catalog of more specific potions to purchase from, but reality wasn’t as accommodating as he would have liked. Developing the more specific aura potion recipes was hard, but creating a rift that produced a specific and repeatable secondary effect was more luck than science at this stage in aperology.
+
+The mountains of mana stones Titan’s Torch’s burned through daily could attest to that, but that was where the Talented aperologist came in.
+
+When potential vast fortunes were on the table, the stodgy aperologists climbed down from their self made thrones and started companies, guilds, or any other organizational structure they felt best suited them and got to work trying to leverage their Talents into making something repeatable.
+
+Few were truly successful, and those that were were generously rewarded as they sold their recipes. But they quickly realized they didn’t necessarily need to create a repeatable recipe if the client was wealthy enough. By partnering with people who had a method to copy a rift, even a partial success could be copied every few months and turned into a profit, which was why there were so many variant potions. Without their Talents, creating the original rifts would have proven impossible in the first place.
+
+Matt was actually happy to see Talented aperologists assisting the field instead of hindering it. He was less happy with their decisions to limit how many base versions of the aura rifts they made as a way to limit how many copies were able to be distributed. That kept the price of each copy high as well as its resultant aura.
+
+However, that same ease of creation was why there were so many factions in the Empire with entangled interests when they’d discovered less than a hundred base types of aura available at all.
+
+Once more, the Talented led the field when it came to pushing into more complicated aura types. That was how the other two corporations were able to stand up to the juggernaut that was the New Horizons Institute of Applied Aperology.
+
+By abusing the control their Talent’s gave them, the aperologists of Aura Sky and the alchemists of Killian’s Tankard took two different approaches to aura potions aperology, letting them stand tall with smaller catalogs than New Horizons.
+
+Killian’s Tankard tackled the more specific aura potion variants via their targeted alchemy recipes. Originally an alchemy business of little repute, Killian developed a separation function that allowed his company to extract specific variants of aura out of the whole. It was stupidly wasteful and ultimately proved more academically interesting than practical, but once his foot was in the door, Killian leveraged his position to merge with an aperology corporation and dove in leveraging his alchemy skills.
+
+They hadn’t seen quite as much success with aperology as they did alchemy, but they had two base aura rift patents, seven variations rift patents, and dozens of potions patents competing with several of the Tier 40 alchemy companies.
+
+The Aura Sky corporation, on the other hand, was a bit more traditional in that they were led by Mackenzie Harrington. Who, despite being a Tier 45 and able to ascend, had jumped into the aura fad like anyone else. She was also the person they suspected was going to be their largest problem going forward.
+
+A first generation noble by her own right, as well as being a staunch supporter of the academic system, Mackenzie had long since been on Matt’s shit list, given her propensity to protect her monopoly on higher Tier rift creation. To her credit, credit he didn’t want to give her, there was zero evidence or even an indication she was part of any secret society, or even the Cabal.
+
+Having either would have made everything they were about to go through, much much easier. Even though he didn’t like her or her business practices, she hadn’t done anything wrong.
+
+Which was exactly why they’d spread rumors and waited to see everyone's reactions. Sadly, their reactions were to pretend like the news didn’t exist, which propelled them to start phase two of their plan.
+
+One by one, half a dozen companies and guilds tried to reach out to them, wanting to ‘talk about the future’. But none of them were from the larger guilds, so they continued to wait.
+
+It wasn’t too difficult to stir up a mild level of publicity, but the nobles were correct when they said most of the general population didn’t care about the specifics, so long as a path forward was available. However, most wasn’t everyone, and with a couple of carefully crafted leaks and articles highlighting the existing data, the news started to gain traction despite the other side's efforts to downplay it.
+
+Once it had a life of its own, they sat back and waited until a smaller aura company talked to their local media. The entire thing was a soft ball with the ‘hardest questions’ perfectly segwaying into yet another talking point, but none of that mattered. The moment they had a response, they were able to counter actual talking points instead of having to guess.
+
+Hating what he knew he had to do, Matt agreed to several interviews on the Capital to ensure their first message spread as well as possible.
+
+Walking out of the makeup room and onto the stage, he waved to the cameras and the crowds behind them. Continuing to his seat, he kept his smile wide and honest, his body language easy and relaxed to prevent it from being read as over eager or desperate. He was relaxed because there was nothing to stress him, as this was a casual interview.
+
+Not because he’d agreed to be given a softball interview with everything planned ahead of time, but because he was willing to see this through to the end. One interview of discomfort meant little in the face of his determination. Though, in the spirit of having a good interview, they’d agreed on some talking points from the outside and he’d given the studio a week to work on their questions and gather their own intelligence.
+
+Rebecca Young smiled at Matt as he sat down, though he could barely see it with her long, porcelain colored hair twisted into a topknot that then fanned out into her signature half-hidden look. However, her grip was firm without showing off her five Tier advantage, and they both paused for a moment to ensure there were good still images for later distribution.
+
+Her voice was mellow as she got them started. “Good afternoon Ascender Titan, it's a pleasure that you reached out to us after the recent media blitz regarding the aura potions, and your very vocal comments about how the situation should be rectified.”
+
+Matt was already nodding before she finished speaking. “Thats exactly right, I’m not happy and I feel no reason to hide it. We have a problem as well as a ready made fix, but a few individuals' self interest seem to outweigh everyone else's interests.”
+
+Rebecca rocked back at his final words, raising a hand to her hair veil, “A very forceful response Ascender Titan, but the various businesses involved in aura development paint a very different picture. We’ve taken the time to highlight some of the core differences each side presents. One of the largest and most fundamental differences seem to be that they say there isn’t an issue with the more limited Concepts that have been recorded coming from aura potions. How do you respond to such a claim?”
+
+“I find that claim absurd, as it is false. Thirty percent of people who break their Concepts find themselves locked into their original element when they go to reforge their Concept. What else can that be considered if not an epidemic? Now that the basic elements are freely available and most people driven enough to reach Tier 4 can buy the potion, even if it takes a few years for them to actually receive it, advancing the elemental compatibility as well as the secondary effects becomes much more important. We need to ensure that our people are not being limited by the very tools meant to elevate them. That is what I and the nobles I partnered with seek to rectify. The first four independent studies done on the topic already warned of the phenomenon, and each of them concluded that the situation would only become worse if countermeasures were not taken. Looking at the numbers, they most certainly haven’t gotten better."
+
+Rebecca gestured with her off hand and the screens around the studio flipped to show various breakdowns of the reports Matt was referencing. Reading everything himself to make sure no one had tried to make a last minute change, he also found curated responses and analysis of each report performed by vetted companies with a good reputation so viewers could make their own opinions.
+
+Most would never bother to look any deeper, but the old adage of pounding the facts when they were on your side was as true now as it ever was, and he didn't mind causing a racket. It, however, wasn’t the only thing he was trying to pound. Facts were often less persuasive than emotions, so he didn’t intend to rely solely on dry information to get his points across.
+
+When Rebecca dropped her hand, the screens went back to show the show's logo as the cameras focused back on them. “While those reports back you up Ascender Titan, there were others that were less doom and gloom. Do you believe they are wrong, fabricated, or are you implying something more sinister might be afoot?”
+
+Matt shook his head making sure the cameras could see it. “I think the reports speak for themselves. Even the ones published or sponsored by the various aura related factions all acknowledge there is a problem. No matter how much they try to obfuscate the issue, deflect responsibility elsewhere, or downplay it, they can’t hide the facts from the people suffering from the limited availability of aura potions. They are out there, and every time a new report, or a new spokesperson downplays the situation, they are minimizing the very people they hurt. I implore you to ask your friends and family who delve if they’ve run into the issue, or if they know of it. You might be surprised how close some of these people are.”
+
+Rebecca leaned forward as she hit something he’d known was coming. “Saying these businesses are hurting people is a big accusation Ascender Titan, when you yourself publicized these methods originally.”
+
+Matt met her veiled gaze without blinking. “I won’t pretend or shy away from such questions because yes, I do feel a level of responsibility to everyone. That is why I’m trying to push for alternatives, find solutions, and implement them.”
+
+Rebecca raised her non-dominant hand a second time and the screens changed to the image they’d deliberately leaked. “Are these your demands, Ascender Titan? Few third parties would call these suggestions anything but onerous. Possibly overreaching in their scope.”
+
+Matt leaned forward slightly as if he hadn’t seen the image before, squinting as he read off the captured projection. “Demand that every aura-related recipe for potions and rifts be published free of charge after the ten millennia patent? I don’t remember talking about any of this in the context you seem to be describing, but then again, this was a leak from a private meeting, so you can’t really take it at face value. This was part of a list of things that while nice, are ultimately impractical to implement in the real world.”
+
+Even with the curtain of porcelain hair obscuring her face, Matt could tell Rebecca didn’t believe a word he’d just said and pushed, “These are still very aggressive demands to throw at companies, guilds, and noble families that are in good standing who, both directly and indirectly, help their communities. They create new jobs and pay local taxes as well as widening the availability of aura related products. Isn’t that the very thing you are asking for? What situation could the listed things be raised in where they weren't at least mildly provocative? If that wasn’t what you are aiming for, what are you?”
+
+Finally getting the question he’d been waiting for, Matt raised his own hand, changing the displayed images showing a different slide. This time, he showcased the current solution. One he found tolerable and the nobles only found mildly overreaching. In short, it was a decent middle ground.
+
+“This is our framework for an aura reform we wish to see implemented Empire wide. At the same time we developed this, we tried to reach out to the various aura related businesses for their input, but they declined to comment or offer their own suggestions.” In reality, they’d asked for a meeting from the three largest companies and they’d declined, even though all of their leadership were already in the Capital.
+
+When he was sure he had everyone's full attention, he finished, “In short, we aim to remove the exclusivity clauses from all existing contracts and ban them going forward.”
+
+Hearing a murmur ripple through the crowd, Matt continued trying to walk a fine line between confident and arrogant. “I understand everyone's resistance to such a large change. It's a big step that has rarely been done before, but we don’t suggest it lightly. We also aren’t demanding it without compensation. We, the noble families pushing this measure, are willing to negotiate paying part of the existing contracts buy out clauses. We are also offering to allow them to add a flat fee to aura potions or any other products made from aura to ensure the companies and their patents are viable long term. We are also willing to allow the patents to be extended by fifty percent to fifteen thousand years, rather than a flat ten.”
+
+Rebecca looked into her palm reading something off of her AI before she looked up. “Ahhh, I was wondering why that sounds remarkably familiar. Is that not similar to the model your own duchy has adopted? Not allowing exclusivity clauses but allowing flat fees? Are there any further modifications away from your baseline? I must say that in our research, most aura companies said they disliked operating in your duchy because of such rules.”
+
+Matt sighed dramatically before smiling again. “Many of them are based on what Liz and I have done, but not as much as I’d have preferred. Instead, our aim was to create a system that would both better handle the rapidly adapting field that is aura and everything related to it, so we don’t have to do this again. From the outset, we tried to craft a framework that will allow for rapid widespread adoption of new aura types, without hampering a businesses ability to make a profit. Every decision is made with that in mind.”
+
+They spent several minutes going through the listed points, but Matt truly did think they were being more than fair. They started by offering to pay five percent of every existing contract's cancellation fees, which was more than generous in his option.
+
+Manny hadn’t used the precedent to retroactively modify contracts, but both of his predecessors had. More relevant to their current situation, neither of them had been so kind as to offer any kind of compensation when they did so. He and their collection of nobles were also very aware that they were not a Tier 50 or anything close. Limited to politics, they felt it was smart to offer some level of reparation.
+
+Against Matt’s initial judgment, the nobles even went as far as offering to allow the aura companies to add a flat fee on each unit of aura pulled out of the rifts. He thought such an allowance was overly generous, though it proved its worth when its existence seemed to surprise Rebecca, who spent ten minutes diving into various sub clauses, helpfully getting a lot of the information out there for the average viewer.
+
+They moved on before it became too dry, but by the time they were done, he conceded that the nobles had been right. Giving up that concession lightened up the mood for the following points, which might have come under heavier scrutiny.
+
+Like Matt’s idea to hardcap the price of aura potions. It had been shot down, but Liz managed to navigate a good middle ground that left everyone upset about something.
+
+Their current plans said any additional fee couldn’t be more than twenty percent of the baseline cost of the potion. That extra expense would balloon the cost of the potions, but it wasn’t so burdensome as to put most potions out of reach for most people. The rarer aura types would always be more expensive, but as the rifts themselves spread, their prices would drop until they reached a happy medium.
+
+“I see that you still demand no exclusivity clauses. What do you have to say about the possible invention of more volatile aura types that might need to be restrictive? Several have raised such points, and I can’t say I love the idea of void Domain users running around willy-nilly."
+
+Matt let some of his chagrin shine through at the comment about void aura. “That sounds like a good problem to have, considering we have hardly touched level 3 mana types, let alone something as complicated as void. But to answer the original question, I have to say it's more deflection from the other side. Talents themselves are dangerous. Just ninety two years ago we had an incident where an awakening went badly and the protective measures weren't enough. Over thirty people died. Many young and with their whole lives ahead of them, simply caught at the wrong place at the wrong time. No one sensible is saying we need to stop awakening everyone because of occasional accidents large enough to bypass the existing restrictions. It's the same with aura. The Empire has measures to protect the public safety. We don’t need companies restricting access to their own goods using such a flimsy reason. They can’t say they are both protecting everyone from the dangers of their own product while also constantly advertising how useful their particular aura potions are over their competitors.”
+
+They exchanged a few more back and forths with Rebecca keeping to their prepared talking points, letting Matt relax slightly, but it didn’t last for long as they were wrapping up the interview.
+
+Having gotten through most of what he wanted to mention, Matt said something she’d said earlier, "Earlier you said we don’t need to wait for higher authority, but might want to. I disagree. We are the Empire's newest generation of dukes. If not us, then who? There is a reason our leaders rotate and always have. Stagnation sets in otherwise, and I think that's important for everyone to remind ourselves of every once and a while.”
+
+When he mentioned stagnation he saw her twitch slightly, so he refrained from standing. It was the correct choice, as instead of starting to send him away, she asked, “One last thing before you go, Ascender Titan. Your previous comment triggered the thought, and now I must ask. Why not wait until the Emperor has returned? With his ear, all of the obstacles we just talked about could be waved away with a single thought. So why act now? Can it really be as simple as stagnation? Most would just wait, would they not?”
+
+Matt settled in making a show of getting comfortable, looking at Rebecca for a short moment before letting his gaze travel to the crowd, then the cameras where he let his wandering end.
+
+“Thats a very poignant question, so thank you for asking. I think it encapsulates part of my issue. We have a solution already presented before us. It's there, it exists, but we can’t use it because of previous misunderstandings. It's easy to say something like ‘let's grandfather these original companies patents with the old system. It will make everything easier.’ but will it? I don’t know, maybe that would be good enough. Maybe the Emperor can use his wisdom and foresight to see a perfect solution that makes everyone happy, but he's not here. By that same token, the Empire is more than its Tier 50, it's more than its royals or nobles, it's the people. I’m also one of those people, you are, your family is, my family is. We are in this together. So I ask you, when I see a problem, and I see a solution, what should I do?”
+
+Letting the moment hang, Matt continued his expression somber and serious. “My answer is to act in the way I best see fit. That’s why I’m here. I’m doing what I can. I believe I’ve showcased my stance and demonstrated why I’ve reached my conclusions, all backed up by unbiased data from multiple sources. But it has to start somewhere. I’m offering to be that somewhere.”
+
+As the moment passed, Matt forced a smile out and shook Rebecca’s hand before walking off the stage.
+
+Phase three had been started, and now he’d need to finish seeing it through. No matter how much he’d love to return to his and Liz’s Capital suite, he had three more interviews today and four tomorrow.
+
+Checking his [AI] and seeing the messages already pouring in, Matt set an alert for any messages from New Horizon, Aura Sky, or Killian’s Tankard. The moment he got even one of them to nibble, they could skip directly to phase five, but he was confident they couldn’t remain idle too long.
+
+Not with all of them on the Capital. As big as the Tier 47 world was, Matt could make enough noise to drive them out of their burrows.
+
+That was when the real battle would begin.
+
+He’d always wanted to call an Imperial Petition.

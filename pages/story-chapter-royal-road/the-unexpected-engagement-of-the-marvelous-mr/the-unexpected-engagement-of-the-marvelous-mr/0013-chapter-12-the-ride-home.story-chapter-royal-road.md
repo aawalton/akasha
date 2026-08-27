@@ -1,0 +1,359 @@
+---
+id: 684c3267-277e-50f6-b7f7-9aa421f14e9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12 - The Ride Home"
+slug: 0013-chapter-12-the-ride-home
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 13
+ownLength: 2785
+unit: words
+publishedAt: 2022-06-02
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/919164/chapter-12-the-ride-home"
+royalRoadId: "919164"
+---
+
+Lucas Haley went in to work early most mornings. That Saturday was no exception. If he walked slower, it was because he’d stayed up late the night before, thinking. But it was a beautiful morning, and he enjoyed seeing the street come to life.
+
+He walked into the police station at a quarter to eight. Ten minutes later he burst out the front door without his hat. He jumped the stairs and landed by a startled cabby.
+
+“Does it drive?” Haley wasn’t shouting, but it was a near thing.
+
+The cabby bent to pick up the rag he’d dropped. “Sure it drives. I was only cleanin’ her. You wanna hire? You don’t mind it’s a car?”
+
+“I prefer it.” The policeman jumped into the back seat. “Get me to Mayr Street. As fast as you can.”
+
+The cabby, who’d crawled into his place at the wheel, jerked around. “Mayr? That’s clear across town!”
+
+Haley glared at him. “As fast as you can.”
+
+The cabby shook his head, but he released the brake and pulled into the nonexistent traffic.
+
+They made good time, but as the driver had pointed out, it wasn’t a short drive. Haley had plenty of time to worry.
+
+He peeled one hand open while grabbing the paper with the other so it wouldn’t fly away. He read the letter again.
+
+Dear Inspector Haley,
+
+Circumstances have forced me to decamp my most recent hideout, but I have left something there for you. I recommend you go there quickly, as the package is quite valuable and, by now, very uncomfortable.
+
+Yours, ever,
+
+Ryce Penn.
+
+Haley could still feel his leg ache from when it had slammed into his desk as he’d stood up too quickly. He’d picked up his phone and tried to stay calm as the operator connected him.
+
+“Mr. Taylor,” he’d said, “this is Inspector Haley. I apologize for calling so early, but if you would be so kind as to put my mind at ease—” His rush of words faltered; now he had to force each one. “Would you check to see if Lady Serrs is in her room?”
+
+When the butler finally returned, his answer was tense and shaky. “Inspector? She’s not there. Her bed is disturbed, but it hasn’t been slept in.”
+
+“I understand,” Haley said. “I think I might know where she is, and I have reason to hope she’s safe. You’ll be hearing from me shortly.”
+
+Penn had included an exact address, directions to a specific room, and a key. The inspector grabbed it all and bolted from the room, leaving several baffled policemen in his wake.
+
+The chief inspector was pulled from his uneasy reverie when the cabby called back for directions.
+
+“Pardon?”
+
+“Mayr’s a big street, sir. Anywhere in particular you want to go?”
+
+Haley gave him the address. When they arrived at the building, the inspector jumped from the car.
+
+“Stay here,” he said.
+
+“But, sir—”
+
+“I’ll need you in a minute.”
+
+The cabby shrugged. A man who glared like that probably knew his own mind.
+
+Haley drew his gun and barged into the building without bothering to knock. A glance showed the main floor was abandoned. Since he wasn’t going to search every corner, he kept his firearm ready as he climbed the stairs.
+
+He went to the room the letter mentioned, fitted the key into the lock, and opened the door.
+
+As the morning light fell into the room, he saw Eleanor’s eyes flash toward him. His shoulders relaxed, and he let out a sigh.
+
+Eleanor was sitting up on bags of what must have been flour. There was so much of the white dust in the air, the sunlight looked like a blocky prism. She rose to her feet.
+
+“Miss Serrs?” he said.
+
+The apprehension in her face disappeared. “Mr. Haley.”
+
+She looked so relieved, so happy it was him, he finally realized that he must have appeared as nothing but a silhouette to her.
+
+“It’s me, Miss Serrs.” He put his gun away, stepped into the room, and came up to her side so the light would fall on his face. “Are you all right?”
+
+She tried to nod and almost managed it. Knowing that meager response wouldn’t be enough, she said, “I’m not hurt, but…please…I’d like to leave this room.”
+
+“I have a car outside. I can take you home. Do you mind cars?”
+
+“No.” The weak remnant of a hysterical humor brought a half smile to her face. “I don’t mind cars.”
+
+He led her outside into the daylight. She paused on the threshold to take a deep breath and feel the sun shining down on her. Haley waited for her, then he guided her over and helped her climb into the back seat. He joined her there.
+
+“Where to, sir?” the cabby asked.
+
+There was a pause, then Haley said, “Second Aubrey Park Lane, but go by way of Rose-Green.”
+
+“I take it we’re not in a hurry?”
+
+“No.”
+
+The cabby nodded and started off.
+
+They had gone two streets before Haley broke the silence.
+
+He said in a subdued voice, “Did Penn compromise you?”
+
+Eleanor felt a stab of irritation and shame. She spoke loud enough to drown them out: “Are you trying to ask if we reached a mutual agreement or if he raped me?”
+
+For a second, all that could be heard was the sound of the car engine.
+
+“I’m sorry, Mr. Haley,” Eleanor mumbled. “I’ve shocked you.”
+
+“If you prefer plain speaking, I can oblige you, Miss Serrs.”
+
+“I think I’m too tired for anything else. No, he didn’t rape me. He didn’t hurt me in any way. Other than his refusal to call me Lady Serrs, he behaved like a perfect gentleman.”
+
+“A perfect gentleman! Does a perfect gentleman lock a woman up against her will for hours?”
+
+“That was my fault.” She wouldn’t look at him.
+
+“How? How could it possibly be your fault?”
+
+“I was stupid. I didn’t think what it would mean if I came to him. I didn’t realize that I was essentially revealing his hideout.”
+
+Haley’s entire chest cavity seized up. His organs must have been in place—he felt his heart resume working—but everything between his ribs felt empty.
+
+“You went to him.”
+
+Eleanor nodded. Her eyes were still fixed to the front.
+
+“How did you know where to find him?”
+
+Eleanor brushed the tip of her nose with a finger. “The smell.”
+
+Her voice had been growing incrementally softer, until the last two tiny words sounded like raindrops. At the same time, Haley’s voice had grown incrementally harsher.
+
+“Explain.”
+
+Eleanor took a breath so she could speak louder. “When he was in my room, his clothes smelled like wheat flour. Yesterday I went to the Quotidian and found Martin Jones—”
+
+“Jones says he doesn’t know Penn’s hideouts.”
+
+“He doesn’t. But he knows where Penn comes to meet him. In the past three months, it’s mostly been on the east side of the city. There are only two mills on the east side, and only one had recently suspended production.”
+
+Haley put a hand to his forehead and pressed on his temple with his thumb.
+
+“You’re not yelling at me,” Eleanor said.
+
+“You get yelled at enough,” he snapped. There was a painful silence. “I’m sorry. I had no right to say that.”
+
+“Plain speaking, Mr. Haley.”
+
+The inspector’s hand dropped away from his head. “You didn’t tell me about the flour.”
+
+“I answered all your questions—”
+
+“So that makes me the fool for not specifying I wanted to know not only what you saw and heard, but also what you smelled?”
+
+“I didn’t know—”
+
+“Don’t feign ignorance, Miss Serrs. You’ve demonstrated your intelligence too many times. I won’t fall for it.”
+
+Eleanor’s lips pressed together until they were nothing but a pale line.
+
+Haley continued, “You knew I would have wanted that information, and you willfully withheld it from me. Why?”
+
+Eleanor risked glancing at him, but she couldn’t read his face. Instead she looked down at her hands and found they were tangled together. With nothing else to fidget with, they’d found each other.
+
+“I wanted to ask Penn a question,” she said, “and I thought he’d be more likely to give me a simple answer if he wasn’t in your custody.”
+
+She was so focused on the sensation of her thumb pushing across her opposite palm, it took her a while to realize that the inspector hadn’t responded. She looked up and saw him watching her.
+
+When their eyes met, he said, “Did you learn anything?”
+
+“Penn didn’t send out the invitations.”
+
+“Is that what he said?”
+
+“I believe him. His surprise—what he said—I don’t think he did it. I wondered, after…the night we met…but now I know.” Eleanor felt a hollow laugh bubble out of her mouth. “He thought I had a lover—that I was using him to force my father to allow me to marry. That’s very clever, don’t you think? Had you thought of that, Mr. Haley?”
+
+“No. I hadn’t.”
+
+“Neither had I. I doubt it would work.” She put her hands to her face and took a deep breath. Then she sat back in the seat.
+
+“Did you learn anything else?”
+
+She shook her head. “I asked him if they might have been sent by any of his enemies, but he only laughed at me. I’m inclined to think he’s right, but—but I don’t see how.”
+
+“What do you mean?”
+
+“Have you ever read Dr. Watson’s articles?”
+
+Haley hesitated, but it sounded like an offhand question. He doubted he was about to be censured for wasting his time with The Strand.
+
+“I have.”
+
+“Mr. Holmes makes it sound so easy, but I tortured my brain all night, and I can’t understand it. I have so little to go on. Who could it be? It seems too cruel to be a joke, but I can’t imagine why someone would do this to me.”
+
+“What about your three suitors?”
+
+Haley watched as Eleanor’s open, if troubled, face drained of all color and expression.
+
+“How do you know about them?”
+
+“Your father told me. I asked if there was anyone who might bear a grudge—”
+
+“A grudge? How? Why? I don’t know what my father told you, Mr. Haley, but that’s ridiculous.”
+
+“Miss Serrs, you refused three men!”
+
+“So? My father was far more angry about me refusing those proposals than the men were. If there’s a grudge, it’s on his side, not ours.”
+
+“A man may feel constrained to hide his feelings because of the situation. Just because none of them seemed upset to you—”
+
+“You know nothing.”
+
+The inspector’s unfinished sentence was thrown to the back of his throat. He’d seen Eleanor terrified, hurt, baffled, and lost in shock—but he’d never heard that edge in her voice before. There was something buried there, and it was buried deep. He was almost afraid to disturb it.
+
+In his most gentle voice, he said, “Can you explain it to me?”
+
+There was a long silence.
+
+“Mr. Haley, I won’t have those men defamed. All three are good men. They came to me with their suits, each one was as polite and considerate as any woman could ask for, and I turned each one down as politely as I could, so they left me alone—never trespassing on my time or patience. They are not my enemies.”
+
+“Why did you turn them down?”
+
+Another silence.
+
+“Can you compel me to answer?”
+
+The inspector grimaced. “It’s all right, Miss Serrs. You don’t have to answer.”
+
+“Thank you.”
+
+“But your father is pressuring you to change your mind and take one as a husband?”
+
+“Yes. I had hoped the matter might be closed, but—no.” She briefly put a hand to her forehead. “I don’t know why he persists. Does he expect me to propose to them? Or does he honestly expect them to drop everything and come back if I give the word?”
+
+“Which one would you call for?”
+
+“None of them.”
+
+“Hypothetically, for the sake of the investigation, if you had to—”
+
+“None of them.” Eleanor raised her eyes and looked straight into his. “Mr. Haley, I fight this battle every day with my father. Please don’t make me fight it with you.”
+
+The inspector swallowed. “I won’t.”
+
+She released him from her gaze. Haley turned and stared out at the streets.
+
+By that time, most of the city was awake. The carts and vendors were setting out their wares. Pedestrians nodded to each other as they walked along under the trees. More carriages were out on the road, and, occasionally, they saw another car. Lanes and avenues fell behind them as the tension in the cab gradually eased.
+
+They were almost to Aubrey Park when Eleanor said, “You’re French.”
+
+The inspector glanced her way, then turned to face her. “Half French.”
+
+“Your father’s side?”
+
+“Did Penn tell you that?”
+
+“Why did you move here?”
+
+Haley shifted, but it wasn’t the seat that was making him uncomfortable. Still, he didn’t want to deny her. She couldn’t know what she was asking, and their rapport had suffered enough that morning.
+
+“I like this country,” he said. “I spent a lot of time here as a child, and I wanted the chance to make a life for myself.”
+
+“As a police officer?”
+
+Haley nodded.
+
+“Couldn’t you do that in France?”
+
+“It would have been complicated.”
+
+“May I ask why?”
+
+Maybe it was because her curiosity was so innocent, or maybe it was because he felt, with twisted amusement, that she might understand as few others could—but for whatever reason, he found it much easier to answer than usual.
+
+“Because of my father.”
+
+“Was he a criminal?”
+
+Haley’s lips twitched up at the edge. “That would depend on who you asked.”
+
+Eleanor lowered her eyes. “I’m sorry. I know it’s none of my business.”
+
+“It’s all right. You see, my father is…politically active.” He glanced over when the expected follow-up question didn’t come. Eleanor seemed puzzled. “Miss Serrs?”
+
+“I do read the papers, but I don’t remember.” She looked up. “Would I know him?”
+
+“His name is Guy de Laval.”
+
+Silence.
+
+“Oh. I see.”
+
+More silence.
+
+“Then Haley?”
+
+“My mother’s name. I don’t deny my heritage if asked, but I prefer not to announce it.”
+
+“Well, Mr. Haley, may I congratulate you on your impressive escape?”
+
+Lucas laughed. It rolled out, loud and happy. He hadn’t felt that light in years.
+
+Still grinning, he said, “I think you’re the most improbable person, Miss Serrs. No one has ever said that before.”
+
+Her smile was sweet and subtle. “I can imagine that most people would wonder why you gave it all up to be a policeman.”
+
+“But you don’t?”
+
+“I’m wondering how you accomplished it.”
+
+“Being the third son didn’t hurt. My parents were willing to support my decision. They may not have understood my wishes, but…they tried.”
+
+“That was kind of them.”
+
+“Yes,” he said quietly. “I suppose it was.”
+
+“Do you ever regret it?”
+
+Haley gazed at her for a second, then turned away. “It’s harder than I thought it would be. In many ways. But, no, I don’t regret it.”
+
+“I’m glad.”
+
+They arrived at Second Aubrey Park Lane. The inspector jumped down and helped Eleanor to the street.
+
+After she thanked him, he said, “Do you want me to come in with you? Maybe I can help explain—”
+
+“Thank you, but I’d rather you didn’t. This was my doing. It would take a special kind of coward to try to dodge the consequences of their own choices.”
+
+“Your father…”
+
+Eleanor spoke into the space left by his hesitation. “My father will be angry, yes, but please don’t misunderstand; he’s never laid a hand on me.”
+
+“There are other punishments—”
+
+“And they’ll be mine to face.”
+
+Haley did his best to check his expression. “Please let the duke know I’ll stop by around five to get your complete statement.”
+
+“We’ll be expecting you then.”
+
+Haley started to lift his hand, but then he remembered he wasn’t wearing a hat. He nodded his goodbye to her instead.
+
+Lucas waited until he saw the front door close behind her before climbing back into the car. The cabby let out a whistle, waved his arm, and pulled into traffic.
+
+“Where to now, Inspector?” the cabby called.
+
+The car was at the end of the street before Haley answered.
+
+“Police headquarters, please. Station Four.”
+
+The cabby took the turn he needed. “Are we in a hurry this time?”
+
+The series of clicks sounded especially loud since the revolver was being cocked right by the cabby’s ear. He felt the cold touch of metal on his skull.
+
+“No, Mr. Penn. Not particularly.”

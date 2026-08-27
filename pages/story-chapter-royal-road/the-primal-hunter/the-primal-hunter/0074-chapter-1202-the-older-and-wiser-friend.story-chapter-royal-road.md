@@ -1,0 +1,155 @@
+---
+id: cabe0e97-82a7-5157-aa6d-21af13d1d2f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1202 - The Older & Wiser Friend"
+slug: 0074-chapter-1202-the-older-and-wiser-friend
+partOf: the-primal-hunter
+position: 74
+ownLength: 2761
+unit: words
+ownProgress: 2761
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2760725/chapter-1202-the-older-wiser-friend"
+royalRoadId: "2760725"
+markedReadAt: "2026-06-29T19:31:36.548Z"
+---
+
+So... yeah, exposure to the void wasn’t recommended for C-grade mortals. In fact, it was already considered pretty damn impressive that Jake and the Sword Saint had managed to stay conscious despite Oras unleashing some of his power.
+
+Besides his Bloodline definitely playing some kind of role, Jake guessed his constant exposure to the void through his void lollipop had also inadvertently helped raise his resistance to the place.
+
+As for the Sword Saint... well, the fact he was fine probably came from another peculiarity of the void. The first time the old man had traveled through the void, he had gained inspiration from it and even tried to integrate the void into his swordsmanship before realizing it was too early for him to attempt such a thing.
+
+Everyone saw the Void Gods differently based on who they were. The Sword Saint’s mindset was one that Jake would say operated at a pretty high level, just based on how damn talented he was at comprehending complicated concepts.
+
+Of course, even the Sword Saint hadn’t found the experience of witnessing Oras in action pleasant, but there were some damn freaks out there who could stare at a Void God while being all fine.
+
+Someone like Arnold wasn’t affected negatively when traveling in the void or even looking at Void Gods due to his... unique mind. Sure, if he were exposed directly to the void, he would still instantly die, but could look at it with no problem.
+
+Okay, granted, even Arnold would have a bad time if he closely studied a Void God for too long, but not because of his mind being unable to comprehend what he was looking at. To him, it would be more like how one felt after reading a complicated calculus book for half a day, and after looking up, would feel all groggy and see random numbers everywhere.
+
+The state the King, Sylphie, and Dina found themselves in couldn’t be said to be quite that harmless, as the three of them indeed soon awoke. Dina was the first of the three to wake up, something that surprised Jake a little, as he had honestly believed the King to be first.
+
+Of the three, the Golden Forest King definitely had the most powerful soul, yet he ended up being the last to awake, with even Sylphie awaking with a loud screech not long after Dina.
+
+The two of them were naturally confused about what was going on, forcing Jake and the Sword Saint to explain what had gone down after Oras had been summoned. Dina seemed to instantly accept the situation after realizing a Void God had been the cause of her mind shutting down, while Sylphie swore that the next time she would be totally fine.
+
+It ended up taking nearly an entire half an hour more before the Unique Lifeform finally stirred. Jake was already waiting by the side of the King and literally looked down on him as the wisps of soul light sparked in the eye-holes of his mask.
+
+“Wakey wakey princess,” Jake grinned, the King’s attention instantly landing on him. It took the Unique Lifeform a few more moments before he spoke.
+
+“That was the Void God Oras, correct?”
+
+“Sure was,” Jake said with a nod. “My gamble paid off and...”
+
+Jake proceeded to give a quick overview once more, wanting to get the King up to speed as fast as necessary. After his explanation, the King was quiet again, considering his words.
+
+“Unknown enemies... powerful backing... certainly not a matter for the likes of us to deal with,” the King knew his own limitations. “It was good the Void God agreed to assist; if not, I do fully believe my brief return to life would have promptly ended again, and I fear the killing blow of a god wouldn’t be something I had any way back from. I would hope a deity could finish the job properly.”
+
+“Yeah, I prefer not to think about it too much,” Jake waved the Unique Lifeform off. “As you said, that’s a matter for the gods to consider or deal with. I think we mortals have enough problems ourselves to handle already. Speaking of problems... I would be kind of embarrassed if I were you. Out of our entire Nevermore group, you handled this the worst by far. The Sword Saint wasn’t even knocked out, while Sylphie and Dina woke up a while ago, and we’ve just been waiting for you.”
+
+The Unique Lifeform glared up at Jake. “You do realize the stupidity inherent in the statement you just made, do you not? What kind of Void God is Oras? He’s a being embodying the very concept of observation. Of seeing. You four, how did you observe Oras? With your eyes, no? Now ask yourself, how did I foolishly attempt to see the Void God? How much more did I inadvertently observe in the moment his presence overtook the void? How much more incomprehensible information entered my mind and soul compared to you?”
+
+“Wow, so your excuse is that you don’t have eyes,” Jake joked back, snickering at the King. Did the Unique Lifeform totally have a point? Of course. He didn’t see the world using eyes like everyone else had, but instead used a unique method of soul perception. While what Jake saw using his eyes had already been headache-inducing, he could only begin to imagine what the King had seen... actually, scratch that, he didn’t even want to try to imagine.
+
+“I do indeed have a superior method of observing the world compared to the rest of you, and in this rare instance, that proved a detriment.”
+
+Deciding to no longer lie down, the King floated himself out of the bed he was in and turned toward the living room where the others were relaxing. Oh, and by the others, Jake meant Dina, Sylphie, and the Sword Saint. After people had started to wake up, the two gods had left to leave the mortals to talk on their own without having to deal with the presence of two gods weighing down on them.
+
+“Well... things didn’t exactly go as planned, but I guess we got here in the end,” Jake said as he also looked toward the living room. “Luckily, it doesn’t sound like there’s any big welcome ceremony or anything, so we’ll be going straight to my place. After that, I don’t know what you all are planning.”
+
+“I shall return to Earth,” the King said. “Despite a faint apprehension about traveling through the void once more, I deem it best I return and fulfill the duties I took upon myself by being part of the World Council.”
+
+“Yeah, the Sword Saint said something similar,” Jake nodded. “Sylphie also mentioned she wants to go back and visit her parents. As for Dina and me, I believe we both have some business in the Order, but once that’s all dealt with, I’ll likely also go home for a bit.”
+
+The King nodded as the two of them went into the living room to join the others. With everyone awake now and feeling a little better, all they needed was for the gods to return and handle the teleportation.
+
+Speaking of gods... Jake wondered where the two of them had gone and what they were doing.
+
+--
+
+Artemis was nervous, to say the least. Sure, she’d been in the same room as the Malefic Viper several times before; this was her first time being alone with him. Before this era, all she had known about the Viper was the stories told about him and what the gods she’d spoken to, who’d lived back when he was active, conveyed.
+
+While there were many opinions of the Malefic Viper, one thing they all shared was the sentiment that one should never get on the bad side of the Primordial. He was a god with dozens of stories revolving around vengeance, and while some gods prided themselves on taking the high road and acting superior, the Malefic One happily went as low as he had to if it meant accomplishing his goals.
+
+He was ruthless, callous, cruel, and in the eyes of many downright evil. If all the Primordials were ranked by the general mortal of the multiverse on a scale of “good” to “evil,” the Holy Mother would take the first spot and the Malefic Viper the last. He was feared for a reason, and in all honesty, Artemis had never even imagined she would meet the Malefic Viper, much less spend time around him.
+
+She had seriously considered rejecting his suggestion that they go elsewhere to allow the mortals to be on their own for a while during their wait. However, Jake had seemed to think it was a good idea, and Artemis ultimately agreed, which was how she found herself in a second living room absolutely identical to the one she had just left.
+
+“My guess is that the Unique Lifeform will take quite a bit longer to wake up, courtesy of his method of perception,” the Malefic Viper spoke shortly after they appeared there. “That being the case, what do you want? What’s your poison?”
+
+Artemis took a moment to gather herself as she looked at the Viper, who smiled.
+
+“I’m talking spirits. Unless you do want one of my personal concoctions,” the Viper said. “Though I can’t promise it will be quite as rewarding as the last tonic you ingested.”
+
+“Oh,” Artemis said. “I’ll just have whatever the Malefic One has on offer, thank you. I also do want to once more thank you for the gift that-“
+
+“Save it,” the Malefic Viper waved her off dismissively. “I already told you; any credit goes to Jake. Without him being in the picture, why would I ever bother helping out someone who struggled to reach Godqueen on her own?”
+
+Artemis wanted to say something, but didn’t really have a rebuttal as the Viper continued.
+
+“Then again, the fact that you so easily broke through with a little push does show you had the ability to. Perhaps you were just lacking that one fortuitous opportunity, which I guess meeting Jake through your image in the Nevermore Challenge Dungeon ended up being,” the Primordial continued as he summoned two bottles of liquid and threw one of them toward her.
+
+She caught it and suppressed her desire to over-inspect the bottle as she took a small drink, finding the contents surprisingly delicious. After taking a small swig, she nodded.
+
+“It may just be the luckiest encounter I've had since reaching godhood,” she said, knowing that hiding her thoughts on the area wouldn’t make any sense. “I’ve found myself progressing at a whole new pace after meeting Jake.”
+
+“Yeah, he tends to have that effect on people,” the Malefic Viper said, taking a drink himself. “Which brings me nicely to my next question... is that why you want to pursue a relationship with him?”
+
+Artemis was taken aback and stared at the Viper, who looked back at her with rather cold eyes.
+
+“Don’t get me wrong, I don’t really intend to get involved in Jake’s private life more than he allows me to, but I still want to see myself as the older and wiser friend who’s watching out for him in case bad actors try to take advantage,” the Primordial continued as he smiled. “However, going by your reaction to my question, that doesn’t seem to be the case.”
+
+A cold sweat ran down Artemis’ back as she remained taken aback. She hadn’t even considered the notion that she could be the one possibly taking advantage, considering she was a Godqueen and Jake was a C-grade mortal. The very idea seemed ludicrous... even if Artemis did have to admit that so far, it felt like Jake had helped her more than she had helped him.
+
+“I will also say, things have a funny way of working out,” the Viper continued. “Through my tonic, you managed to evolve to Godqueen, but if you hadn’t, it was entirely possible recent events wouldn’t have ended as well as they did.”
+
+Artemis could only nod slowly at that. If that clash in the void had happened before she became a Godqueen, she for sure wouldn’t have survived.
+
+“Now, come on, loosen up a bit, you’ll be the premier delegate from the Pantheon of Life going forward, and I’m sure we’ll share the same space plenty of times in the future, both in private and professional settings,” the Malefic One said in a casual tone.
+
+“I do apologize. I’m not used to interacting with Primordials,” Artemis said, just being honest about her situation.
+
+“Better adapt, then,” the Viper smirked. “Let’s not have things be too awkward in the future. It would be a darn shame if the two most important people in Jake’s life didn’t get along.”
+
+Artemis once again slowly nodded as she mustered up the courage to ask a question she had genuine wanted to know the answer to for a long time: “This may be presumptuous to ask, and I know Jake’s point of view, but I also want to ask you... Do you truly view Jake as a friend first and foremost? An equal?”
+
+Despite having heard it several times, and even considering Artemis’ own relationship with Jake, a part of her still found the notion hard to accept, so she felt like she needed confirmation from the Primordial himself.
+
+The Viper raised an eyebrow and answered rather coldly. “If I merely saw him as my Chosen, would I bother even attempting to know you? From my point of view, your most extraordinary trait is your ability to attract Jake, and if not for that, you would just be another god not worthy of consideration. So yes, I do genuinely view him as a friend, and by extension, I’ll acknowledge you.”
+
+“I guess I can only thank the Malefic One for his honesty,” Artemis said, not exactly sure how she should feel about the far superior god being so curt.
+
+“No reason to beat around the bush, now is there?” the Viper shrugged as he finished his bottle.
+
+Artemis also took another big chug, just enjoying the spirits she doubted many other Godkings or Godqueens would ever have the honor of experiencing. The more she considered everything, including the fact that she was currently sitting in a room drinking what she assumed to be beer with the Malefic Viper, she once more had to confront just how much Jake’s presence in her life had changed things.
+
+Even though she tried to help Jake as much as she could, she knew that he would likely always end up helping her more without even trying to. He was like a wellspring of Records that didn’t have a turnoff faucet.
+
+“I’ll try my best,” she eventually said.
+
+“Good enough,” the Viper smiled and leaned back. “Do also remember that getting in my good graces would be your best move.”
+
+Again, to Artemis, that went without say-
+
+“I know all of Jake’s most embarrassing moments, and as his best buddy could be convinced to share,” the Primordial grinned.
+
+“That... is something I may be interested in hearing more about,” Artemis said, genuinely curious.
+
+“All things in good time,” the snake god chuckled.
+
+The two of them were mostly silent for the next while, as Artemis still felt incredibly awkward, even if she definitely tried. What little conversation they did have ended up being of the professional sort, as that was way more comfortable for her.
+
+Eventually, the Unique Lifeform finally awakened, being the last just as the Malefic One had predicted. Upon seeing this, the Viper stood up and stretched while letting out a loud sigh.
+
+“Oh well, back to work,” he said, even throwing in an exaggerated yawn.
+
+Artemis tried to ignore it and nodded as she also stood and prepared to rejoin Jake and the others. The Viper lifted his hand, mana mobilizing, but before he teleported them away, he turned to look at her.
+
+“Ah, Artemis, one last thing,” the Malefic Viper said, his tone casual and with a smile on his face. “Do be a good partner, alright?”
+
+He didn’t need to speak the implied threat behind those words, making a cold shiver run down Artemis’ spine as she nevertheless stood her ground.
+
+“I thought you said you wouldn’t get involved in Jake’s private life more than he allows?”
+
+The Malefic Viper raised an eyebrow as his smile deepened. “See? We’re already getting along! Now let’s go.”

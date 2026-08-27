@@ -1,0 +1,415 @@
+---
+id: 46409ae4-0a8e-5dcb-a7cc-9360117eaee0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 - Haley and Fitzmon"
+slug: 0035-chapter-34-haley-and-fitzmon
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 35
+ownLength: 3390
+unit: words
+publishedAt: 2022-06-25
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/935364/chapter-34-haley-and-fitzmon"
+royalRoadId: "935364"
+---
+
+The next morning, Haley went to the office where Fitzmon worked. Either the marquess was a busy man, or he had a well-trained staff that knew how to help him dodge calls and appointments. The inspector thought an unannounced visit might be harder to avoid.
+
+He walked in and presented himself to the man at the front desk. The secretary paled when he heard Haley’s name.
+
+“I’ll be a moment, sir.”
+
+He returned with a tall, skinny man behind him. From the immaculate suit and confident smirk, Haley thought he could guess who he was about to meet. Very few people feel confident when they’re faced with a policeman.
+
+“Good morning, Chief Inspector. I’m Ryan Geary. We’ve never talked, but perhaps you’ve heard my name. I work as the legal adviser to Duke Aubrey-Serrs and Marquess Fitzmon.”
+
+Haley said “good morning” because telling a lawyer to fuck off was a bad idea.
+
+“Now,” Geary said, “if I may inquire—”
+
+“You may not.”
+
+The lawyer let out a dry laugh. “Now, Inspector Haley, you know that, as a lawyer, I have the right to ask—”
+
+“Neither of your clients are under arrest. If I do arrest one of them, I’m sure you’ll receive a call. In the meantime, I will be speaking to Marquess Fitzmon about the murder of Dominic Winfield, and if you really are representing him, maybe you can tell me if he’d rather do it here or down at the station.”
+
+“Inspector, you’ve already spoken to my client—”
+
+“That was on a different matter. You can’t bluff me, Mr. Geary.”
+
+“And we won’t be threatened!”
+
+Haley pulled a paper out of his jacket pocket, opened it, and held it up. The lawyer stared.
+
+Haley said, “I didn’t realize a presumably innocent man would find answering a few questions so threatening. Judge Honeysett was a little surprised too, but when I explained the circumstances to him, he agreed that it would be important for me to talk to the marquess and issued a warrant to exactly that effect.”
+
+The inspector handed Geary the paper.
+
+“He included his number on the bottom in case you wanted to call to verify its authenticity.” The inspector leaned in and muttered, “For your sake, Mr. Geary, I hope that Fitzmon doesn’t get arrested. I can’t imagine how bad it would look to a jury that I had to present a warrant before he’d even talk to me.”
+
+“It isn’t like that,” Mr. Geary mumbled as his eyes scanned the page. “The marquess is an important man. If any policeman could walk in off the street and demand to talk to him—”
+
+“I had no idea His Lordship had that many run-ins with the law.”
+
+The lawyer glowered at him.
+
+“Now,” Haley said, “is someone going to take me to the marquess, or are you going to continue impeding my murder investigation?”
+
+Geary nodded to the man at the front desk, and Haley was led inside.
+
+In all fairness to Fitzmon, Haley had to admit the place looked busy. People walked around with earnest expressions on their faces. Groups of men were gathered around various tables, looking down at papers and arguing. The people still at their desks were so focused on their own work, they didn’t seem to notice the clamor around them.
+
+Haley’s escort led him over to a side office, knocked, then opened the door.
+
+Haley stepped inside and realized he’d interrupted a small conference.
+
+There were three men in the room, aside from the marquess. They all stared at Haley, as if waiting to hear what he had to contribute, but Gervase Fitzmon frowned and looked back down at the huge map laid over his desk.
+
+With strained civility, he said, “Good morning, Chief Inspector. I presume you’re here to talk to me?”
+
+“Yes, Your Lordship.”
+
+“Can you wait? This won’t take long.”
+
+Haley found a chair off to the side and sat down. Two minutes later, the map was rolled up and the three men left the office. Fitzmon followed them to the door. He leaned out to say something to his secretary, then came back in and threw the lock.
+
+“There. That will give us some privacy.”
+
+Fitzmon motioned for Haley to join him over at his desk.
+
+As the Inspector switched to a closer seat, he said, “A new construction project?”
+
+“Yes.” Fitzmon settled into his chair. “It’s rather important to me. Aubrey-Serrs is still the major investor, but he’s left me in charge of overseeing the project.”
+
+“Is the company always so hands-on?”
+
+“Very much so. That’s why I asked to work with the duke. He and I share the same philosophy when it comes to investing.”
+
+“What’s that?”
+
+“Don’t invest in something you can’t see or touch, don’t invest in something you know nothing about, and no one takes better care of your money than you do.”
+
+“Then I take it you didn’t invest in the Russian diamond mine that wiped out Lord Massey?”
+
+Fitzmon abruptly stopped and stared at the inspector. “Does this have to do with Winfield’s murder?”
+
+Haley was surprised by the question, but he did a better job hiding his reaction. “Did Mr. Winfield invest in that?”
+
+“I think most of Massey’s friends did. Winfield and I fluttered a little on the chance it might be something, but we were skeptical. I don’t think either of us were surprised when it didn’t pan out.”
+
+“Was it a blow to either of you?”
+
+“I didn’t like it, but it did help reinforce why I do things the way I do.”
+
+“And Winfield?”
+
+“He was calm and accepting. The man knew how to take his losses, I’ll give him that.”
+
+“Does that include losing Eleanor?”
+
+Haley had wanted a reaction, and he got one. Even from across the desk, he saw the marquess stiffen, and when Fitzmon spoke, there was an undercurrent of emotion in his voice—but what he said came as a surprise.
+
+“Chief Inspector, I doubt you know her well enough to call her that.”
+
+At any other time, Haley might have enjoyed the irony of the just rebuke, but the intensity of the marquess’s disapproval seemed out of place.
+
+“Forgive me,” Haley said. “I’ve been spending a lot of time interviewing the people close to her, and they all refer to her by her first name.”
+
+“That doesn’t change your standing.”
+
+“You seem a little possessive of her.”
+
+“She’s my friend. And I know Eleanor well enough, I believe I have the right to speak on her behalf when she’s not receiving her due respect.”
+
+And I’ll bet you’re just hoping I’ll ask if she gave you leave to call her that. Instead, Haley asked, “Do you love her?”
+
+“I’ve already told you I don’t. I’m not in the habit of lying to the police.”
+
+“Did you love her when you were courting her?”
+
+“Not particularly, no.”
+
+“What did you think of her?”
+
+“I thought she was polite and nice, but I also found her shy.”
+
+“Intelligent?”
+
+“Not particularly.”
+
+“What did you two talk about?”
+
+“Can you tell me what this has to do with Winfield’s murder?”
+
+“Later, yes.”
+
+The marquess jerked back from the unexpected answer. A second passed, then he said, “When I wasn’t trying to woo her, we mostly talked about my work. She found it interesting.”
+
+“And when you were trying to woo her?”
+
+“That’s none of your business.”
+
+“I’m afraid I’ll have to insist.”
+
+Fitzmon’s voice rose: “You seem very invested in this, Inspector. Maybe someone should be asking if you’re in love with her!”
+
+The silence that followed that statement was long and cold. Fitzmon was beginning to regret his outburst when the inspector finally spoke.
+
+“Your Lordship, I understand from Lady Serrs that her suitors told her they loved her. I’m trying to figure out if she was lying.”
+
+The marquess dropped his eyes. “She’s not lying. I did say that.”
+
+“If you didn’t love her, why would you tell her you did?”
+
+“Because that’s what you do when you court someone. You say what they want to hear: compliments, praise, sentiment—whatever it takes to win them over.”
+
+“Because even though you didn’t love her, you wanted her for a wife?”
+
+“Eleanor Serrs would be a good wife for any man. Only an idiot of the highest order could fail to see that. She’s well-mannered, well connected, and from one of the finest families in our country.”
+
+Haley lapsed into another silence, but this one was thoughtful rather than ominous.
+
+Fitzmon decided to prompt the detective: “Now can you tell me what any of this has to do with Winfield’s murder?”
+
+The inspector raised his eyes. “Dominic Winfield is the one who sent out the wedding invitations, and we have reason to believe his murderer knew about the plot. That means I have questions for everyone in the broken hearts club.”
+
+A slight frown appeared on Fitzmon’s face.
+
+“Did you meet with them every week?” Haley asked.
+
+“Most weeks. There were a few times I was working.”
+
+“Why did you go?”
+
+“Baron Comtess invited me.”
+
+“I understand that he was hoping to encourage you and Massey to get along after you learned the earl had been courting Lady Serrs.”
+
+“Yes, that’s right.”
+
+“Were you angry?”
+
+“No man likes to find out he’s been displaced.”
+
+“But you agreed to go to the club meetings?”
+
+“It’s probably not very generous of me, but I was consoled by the fact Massey’s suit went no better than mine. I found him to be less awful after a while, but the main reason I went was because I’m friends with Edward and I enjoyed Winfield’s company.”
+
+“You don’t seem surprised by the idea that Winfield sent out the invitations.”
+
+“It was either him or Massey, and, frankly, Ryder couldn’t afford them. It makes sense it was Winfield.” Fitzmon tapped his finger on the desk several times. “All the same, I am a little surprised. I wouldn’t have thought he was conceited enough to think she’d pick him.”
+
+“Maybe he didn’t think of Massey as competition.”
+
+Fitzmon gave Haley a look to show he knew the bait for what it was and didn’t think it deserved an answer.
+
+Haley said, “Did Winfield have any reason to think you would refuse Lady Serrs?”
+
+“What do you mean?”
+
+“Did you ever say anything about not liking her or being angry at her?”
+
+“Have you already talked to Massey?”
+
+Haley didn’t understand why it would matter, but he was curious to see where it would go. “I have.”
+
+Fitzmon leaned back, placed his elbows on the arms of his chair, and put his hands together. “I don’t know what Massey’s told you, but I hope you’ll allow me the chance to explain myself.”
+
+Haley nodded for the marquess to continue.
+
+“Massey is more disinterested and mellow than most people, and he knew that I had been rejected when he approached her, so he was prepared for her rebuff. When I courted her, I was very serious, and I wasn’t prepared at all.”
+
+“You thought she loved you?”
+
+“I wasn’t certain, but I could tell she didn’t dislike me. When she refused my proposal, I was…upset. Someone like Massey could easily mistake my anger at the situation as anger toward her.”
+
+“You weren’t angry at her?”
+
+“No.”
+
+Haley watched him for a second longer than Fitzmon was comfortable with.
+
+“Were you angry at Duke Aubrey-Serrs?” Haley asked.
+
+“I was frustrated that Aubrey-Serrs had misjudged his daughter’s temperament, but I don’t blame him for her refusal.”
+
+“Do you still hope to marry Lady Serrs?”
+
+“I wouldn’t refuse her if she came to me, but at this point, I have no particular hope for that. It’s been over two years since she’s refused me, and there’s no sign of her changing her mind.”
+
+Something ticked in Haley’s brain, like the hand of a clock being held back. He’d heard that turn of phrase before. From Massey.
+
+“Did the earl tell you about his conversation with Duke Aubrey-Serrs?” Haley asked.
+
+“Which one?”
+
+“The one where the duke expressed his displeasure that Massey was giving his attention to another woman.”
+
+“He told me the night it happened.”
+
+“What did you think of it?”
+
+Fitzmon glanced toward the door. “Can I tell you this in confidence?”
+
+The inspector’s eyebrows rose. “Does it need to be kept in confidence?”
+
+“I want to keep working with Duke Aubrey-Serrs. I value what we have here, and I wouldn’t want to upset him without reason.”
+
+“I take it you disagree with him?”
+
+“I think His Grace overstepped his bounds. Massey was refused, and he’s enough of a gentleman, he won’t press an unwelcome suit on a woman. He shouldn’t have to wait.”
+
+“What about you? Why are you waiting? You must be the most sought-after bachelor in society.”
+
+The marquess didn’t bother denying it. “I’m busy with work.”
+
+“So the duke has never had to talk to you.”
+
+Fitzmon answered in a quiet voice that Haley found difficult to read: “No, he hasn’t.”
+
+The inspector decided to change the subject. “You don’t deny knowing about the plot for sending out the invitations?”
+
+“That would be pointless. You’ve talked to Massey, so I suspect you know all about it.”
+
+“Not everything.”
+
+“What would you like to know?”
+
+“Who thought of it.”
+
+“We all did. It was myself, Winfield, and Massey. We had been drinking, and Massey, who’s usually the first to complain about the situation, joked about forcing her to marry one of us. I pointed out that her father had more influence over her than we did, then someone—Winfield, I think—proposed sending out the invitations to see if the duke would make her show up. Then I—”
+
+The marquess stopped and eyed the inspector. “Haley, you understand that this was all meant as a joke?”
+
+“Please go on.”
+
+Fitzmon sighed before he continued. “I said that it was bad psychology to try to force her into it, and that we should pick someone she hated so she’d rather marry one of us. It was Massey who came up with the brilliant idea of picking someone the duke hated instead.”
+
+“Brilliant?”
+
+“Eleanor doesn’t hate many people. The duke is more discerning. And forceful.”
+
+“And that’s when you started discussing possible bridegrooms?”
+
+“Yes.”
+
+“I understand you and Massey were competing to find the best possible man for the job.”
+
+“It might have been in poor taste, Inspector, but I never meant for anything to happen. It seemed like a harmless outlet for my frustration, and it was an interesting question.”
+
+“You never seriously considered doing it?”
+
+“Of course not! It was nothing but a game.”
+
+“Did you think it would work?”
+
+“No. But then, I never considered using Mr. Penn’s name. If Winfield was still alive, I think both Massey and I would have to bow to him as champion.”
+
+When the marquess felt Haley eyeing him, he decided more of an explanation was in order.
+
+“You see, there was always a fundamental flaw in our devious little plan; the moment the invitations were published, all the prospective groom would have to do is deny he’d ever sent them, and the whole thing would fall apart. Of all the men in the world, I think Winfield chose the only one who might have been willing to play along.” Fitzmon shook his head. “Watching it unfold was awe-inspiring.”
+
+“Why didn’t you tell me all this the last time we talked?”
+
+“Inspector, the last time we talked, you asked me if I knew who had sent the invitations. I answered you honestly.”
+
+It was clear that Haley didn’t approve of this form of honesty. It was equally clear that Fitzmon didn’t care.
+
+Haley said, “If it had worked and Lady Serrs was forced to pick from one of her suitors, who do you think she would have chosen?”
+
+“Me.”
+
+“Even though she refused you?”
+
+“Eleanor refused all of us, so there’s no reason to think she prefers any one of us over the other. If there’s no strong personal preference, I think most people would choose me over Massey.”
+
+There was a short silence.
+
+“I said I didn’t find her particularly intelligent,” Fitzmon said. “I never said she was stupid.”
+
+“I meant the question to include Mr. Winfield.”
+
+The marquess shook his head. “She wouldn’t have chosen Winfield.”
+
+There was something about the offhanded assurance of his answer that struck like a needle, piercing through all the haze of half-thought questions, lodging itself in Haley’s mind. As his certainty grew, a chill crept over him.
+
+“You’re the one who told her, aren’t you? You told her about the bet.”
+
+Fitzmon could sense the intensity behind the accusation, despite the fact the inspector had tried to keep his voice composed. It only took him a moment to entertain, then discard the idea of pretending he didn’t understand.
+
+“I did,” he said.
+
+“Why?”
+
+“I thought she deserved to know.”
+
+“Why, Fitzmon?”
+
+“She deserved to know! With myself and Massey, she knew her father had approached us. It was only fair that she knew why Winfield had approached her.”
+
+“And you told her as soon as you found out?”
+
+The marquess hesitated. “No.”
+
+“Why not?”
+
+“Because I didn’t think it would matter. I thought she would turn him down—”
+
+“But when it looked like his suit was going well, you told her.” Haley had to swallow back his disgust. “Did you know Dominic Winfield was in love with Lady Serrs?”
+
+“I suspected something of the kind, but that doesn’t change what he did.”
+
+“Did you hate Dominic Winfield?”
+
+“Not at all! I had nothing but respect for Winfield.”
+
+“And yet you undermined his courtship with the woman he loved.”
+
+“That courtship was based on a lie. You can’t claim a prize by cheating.”
+
+“She’s not a prize! She’s a person! Did you even think about how it would hurt her?”
+
+“Oh, come on, Inspector! She didn’t love him! Do you honestly believe that any woman in love wouldn’t be able to overlook something like that? She’d have created a thousand excuses before I finished telling her.”
+
+“And you think that makes it all right?”
+
+Both men stopped to take a breath and calm themselves.
+
+It was Fitzmon who spoke first: “Chief Inspector, it’s obvious you don’t approve of what I did, and I admit I didn’t know it would hit Winfield that hard, but I don’t regret my decision, and I would do it again.”
+
+“Did Winfield know you told her?”
+
+“I don’t know. I only spoke to Eleanor. Whether she told anyone, I couldn’t say. If she did tell Winfield, he never mentioned it to me.”
+
+“Where were you on Wednesday night?”
+
+“I was here, working.”
+
+“At night?”
+
+“It’s normal for me to work late.”
+
+“Can anyone confirm you were here?”
+
+“I believe Malcolm was here until seven-thirty. Then I was alone in the building.”
+
+“Do you still live at your father’s house?”
+
+“I do.”
+
+“What time did you get home?”
+
+“Eleven. I ran into our housekeeper as I was on my way to bed.”
+
+“Then you didn’t hear about Lady Serrs’ kidnapping?”
+
+“By the time I learned about it, she was already safe. The duke came in late the next morning—which is understandable—and I was able to give him my sympathy then and ask how she was doing.”
+
+As the silence stretched on, Fitzmon added, “Are there any other questions?”
+
+“Not at this time, Your Lordship.”
+
+Fitzmon stood up. “Then if you’ll excuse me, Inspector, I have work to do. If you think of anything else, I’ll leave instructions with my secretary to bring your calls to me immediately.”
+
+Haley left without another word. A man had been waiting to show him out, but he might as well have been a shadow for all the inspector noticed him.
+
+When Haley got outside, he stood in the middle of the sidewalk and let the city move around him. The noise and chaos of it was somehow comforting. As he allowed his eyes to rove over the figures in the crowd, he realized he was looking for anyone who might be Penn. He wasn’t sure if he wanted a chase or if he wanted to ask the thief for a favor—a little simple violence that was denied to him—but, like always, Penn wasn’t where he was supposed to be.

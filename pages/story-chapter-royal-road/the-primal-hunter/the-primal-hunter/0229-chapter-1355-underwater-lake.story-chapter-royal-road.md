@@ -1,0 +1,141 @@
+---
+id: 310b3639-0051-5e4d-b753-117b55bb7bc4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1355 - Underwater Lake"
+slug: 0229-chapter-1355-underwater-lake
+partOf: the-primal-hunter
+position: 229
+ownLength: 2912
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3685132/chapter-1355-underwater-lake"
+royalRoadId: "3685132"
+---
+
+Fucking shitty-ass design by who must be an incompetent moron, Jake cursed internally, not caring if he was insulting the system, the Exalted Prima, or anyone else. Whoever or whatever was the cause of this travesty deserved no respect or consideration, as their sin outweighed any good they could ever have contributed to existence.
+
+There Jake was, just wanting a cool, nice swim to chill a little after flying through the insufferably hot desert, and sure, he had been allowed to take a dip, but this most certainly wasn’t what he’d imagined or hoped for.
+
+Continuing to curse internally, Jake quickly put on some clothes despite being underwater, not wanting to be caught out naked by some random monster swimming around in this watery hellscape.
+
+Expanding his senses and using Pulse, Jake was even more annoyed as he saw that he was surrounded by water in all directions, but at least he spotted what looked like a seafloor directly beneath him.
+
+Wanting to get out as quickly as possible, Jake didn’t hesitate as he started flying downwards, which instantly made him frown.
+
+Wait.
+
+Jake pushed his speed further, and it almost felt as if the water parted in front of him, allowing him to go faster. Still a lot slower than outside the water, but way faster than the last time he’d found himself submerged like this. He also realized the reason almost immediately.
+
+Primal Spirit of Man, you goddamn treasure of a skill, Jake grinned, knowing it was due to his increased resistance to environmental effects that he wasn’t as affected by the water when moving through it.
+
+When moving through air, he’d already noticed that he wasn’t as affected by friction before, and going through water was kind of like going through air; water was just a lot denser and offered far more resistance. So in the same way that Primal Spirit of Man allowed him to ignore a good portion of air resistance, it also allowed him to ignore some of the... water friction? Didn’t know the term, and quite frankly, he didn’t care to.
+
+This discovery was huge and made the negatives of underwater combat way less prominent than before, though it was definitely still annoying as hell. Plus, this was only when dealing with purely the environment. He knew that creatures specialized in fighting underwater could often manipulate and “claim” their surroundings, which would significantly nerf Jake’s Primal Spirit and make the water a way bigger problem.
+
+And unfortunately for Jake, he felt plenty of such monsters hidden in the depths below at the seafloor. There weren’t that many swimming around, and Jake expertly dodged them all while using Unseen Hunter, really not intent on fighting anything in the water if he could avoid it.
+
+Down at the seafloor, Jake spotted many large monsters crawling and slithering about. He observed what looked like mirrored, crab-like creatures with faces, claws, and all that on both sides, while the others looked like a mix of an eel and a snake. More eel, though, as Jake didn’t feel any semblance of familiarity with them as he got closer.
+
+Still not wanting to fight anything, Jake landed on the seafloor soon after, hoping his boots would help him detect anything. Once more, he was unfortunate, as he didn’t pick up anything. He didn’t know if it was because his boots didn’t work in this kind of environment or that the treasure wasn’t considered “earthbound,” but in either case, it was just another reason to hate this place.
+
+Using Pulse, Jake detected two places of note on the seafloor, both nearly identical to one another. That was part of the reason he hoped his boots could help him decide where to go, as there really wasn’t anything calling him to either.
+
+Both of them looked like small coral and seaweed forests with an odd lake in the middle. Jake knew that underwater lakes were a real thing even before the system, and, if he recalled correctly from a nature documentary he watched way too long ago, they were called brine pools and formed because the “lake water” had high concentrations of salt.
+
+Were these brine pools? Jake could confidently say they definitely weren’t because salt had fuck-all to do with these weird underwater lakes, which was also why he’d continue referring to them as underwater lakes.
+
+Standing there on the seafloor, Jake also tried to see if there was anything beneath the sand underfoot, but if there was, his Pulse couldn’t reach it. The sand seemingly continued endlessly downwards, and while there were a few sea creatures hidden in its upper layers, there was nothing more than a few kilometers deep.
+
+After contemplating for a little while and having wasted enough time evaluating his surroundings, Jake just headed towards one of the two underwater lakes randomly. He had chosen it for no particular reason, but it appeared that his unconscious intuition had once more come in handy.
+
+Not long after moving towards his chosen underwater lake, something happened at it. To Jake’s surprise, two humanoid figures emerged from beneath the lake, seemingly spawned from it. However, based on their movements after appearing, they didn’t look like monsters or even NPCs.
+
+Portals? Jake questioned immediately, seeing no other good explanation for how these two had appeared. He continued observing as he closed in and saw them also orient themselves as one took out some small disc-like object. After looking at it for a moment, the two surprisingly started heading straight towards his direction, making Jake momentarily question if they’d detected him.
+
+However, he quickly realized that wasn’t the case. They weren’t headed for him, but in the direction he’d come from. Jake wondered why for a moment and considered his options. He could continue to observe them to see where they were going and what they were up to... or he could fight his inner wish to stay hidden and reveal himself to just ask them outright.
+
+Under usual circumstances, Jake would have gone with the former, but his hatred of this damn underwater part of the Central Domain overwhelmed his asocial side, making him decide to do what he usually wouldn’t. He continued flying on a collision course with the two humanoids, whose exact race he couldn’t determine using only his spherical perception.
+
+When he got closer, though, he narrowed his eyes and used Identify on them one after another.
+
+[Human – lvl 355]
+
+[High Elf – lvl 357]
+
+Both of them were men, and they seemed rather relaxed while moving quickly through the water. At least they were until the moment they detected Jake, who had deactivated Unseen Hunter. While he wasn’t blasting his aura, he wasn’t hiding it either, and the two quickly reacted as the human summoned a wand and cast some magic to hide them away. Space magic, even, which made Jake wonder why the two hadn’t just teleported through the water, but he wasn’t going to question things like that.
+
+Needless to say, their attempt at stealth was wholly ineffective, as Jake purposefully shifted his flight angle directly towards them as they tried to slowly move away, signaling that he had already noticed them.
+
+The two of them clearly had some kind of discussion before quickly agreeing to stand their ground. Jake saw the one with the wand start conjuring some sort of magic, and to avoid dealing with an annoying situation while also despising being submerged, Jake decided to make it clear that any defenses would be a complete and utter waste of time.
+
+He unleashed his aura, focusing on his identity as the Chosen of the Malefic Viper. His presence instantly caused the two to pause, look at each other, and exchange a few words before, surprisingly, looking much calmer. By the time Jake reached them, the two stood respectfully side-by-side, ready to greet him.
+
+Jake stopped in front of the two who stood with their hands cupped, both bowing as Jake started floating in front of them.
+
+“We greet the Chosen of the Malefic One,” the high elf spoke respectfully. Something like water was not really an obstacle to speech. “My humble name is Jakop, ranger of the Pantheon of Life. This here is my companion, Kasper, also from the Pantheon.”
+
+After resisting the urge to comment on their names, Jake acknowledged them with a nod. “I don’t believe introductions are necessary on my part. To not waste the time of either party, I noticed you two arrived here through what appears to be some sort of portal. I’ve just arrived in this underwater area, and seeing you two, I hoped to gain some useful information about this place.”
+
+By now, Jake had naturally concluded that this underwater level wasn’t just a space generated for a trap, but somewhere a bit akin to the desert or jungle. It was another area to explore, perhaps to encounter treasure. That, or it served some function Jake hoped to learn from these two members of the Pantheon of Life.
+
+“If we can be of any assistance, we’re more than happy to,” the elf said with a smile. “We discovered this place about an hour ago, and after consulting with some allies of ours, we confirmed this is a space vaguely connected to the desert. There are these underwater lakes that appear to connect to oases in the desert, allowing one to travel across them using what’s essentially a portal network, with this place being the nexus. What’s more, the distance traveled in this space is several times less than how far one has to go in the desert. Oh, and while we’re not fully confident yet, we believe that the locations of these underwater lakes also correlate to the oases above, so mapping out this area would also mean mapping out the desert.”
+
+Jake had expected to get a little bit of useful information, perhaps just a clue; however, it turned out these two knew a lot and in an hour had already discovered a damn lot about this underwater shithole. It was truly amazing what one could learn simply by asking other people. Who could have known that communication could be so powerful?
+
+Anyway, Jake nodded stoically in acknowledgment, the thought of informing Miranda of this quite valuable information not even crossing his mind as he was too busy keeping up his persona as a cool and collected Chosen.
+
+“I see,” Jake said solemnly. “Outside of the Central Domain, how large are your Territories? Do you have a powerful alliance established?”
+
+“We are both Chief Administrators who are part of an alliance that has a total of one-hundred and three Territories in it. The combined area we control is substantial, though I doubt it’s anything compared to what the Chosen has conquered,” the elf said, still being the only one to speak as the human seemed a lot more nervous.
+
+“Sounds like you’re doing good work. Keep it up,” Jake nodded again. “Though I can admit I’m unsure my Territory surpasses your alliance’s right now. We have no allies yet, and only one Vassal led by a Chosen from the United Tribes.”
+
+He just had to humble-brag, and it clearly worked as the high elf looked surprised for a moment before smiling and nodding along, as if Jake making a Behemoth submit and become his Vassal was only to be expected.
+
+“I will not hold you two up anymore. Continue, and if our paths cross again, I may just get the opportunity to return the favor,” Jake said, being a bit careful with his words as he didn’t want to outright say he owed them a favor. Villy kept telling him not to make those kinds of promises, as words held power and all that.
+
+“Being allowed to assist the Chosen of the Malefic One in any capacity is an immense honor in itself,” the elf said, bowing once more, with the human also doing so half a second later.
+
+Not needing to have the last word, Jake gave one final nod before he stepped down and teleported away, proceeding to shoot through the water as fast as he could without using any boosting skills. He saw the two looked after him with impressed looks, which made Jake feel relieved, as that had to mean he’d left the kind of impression he wanted, right? Anyhow, Jake slowed down a little once he felt their gazes could no longer reach him, letting out an exhausted sigh.
+
+Trying to act like a proper Chosen is damn hard, Jake complained internally, not even sure if this was how a proper Chosen was supposed to act. Damn water level, making him socialize.
+
+Hurrying towards the underwater lake, Jake wanted out as soon as possible, making him speed up again after just slowing down. It would take him a few minutes to reach there, and he naturally kept an eye on his surroundings while traveling. It was just a few minutes, though, so surely nothing big could happen in such a short time span, right?
+
+... right?
+
+As could almost only be expected from the terribleness of a water level, things already had to go sideways. As Jake was not even thirty seconds from reaching the lake that would allow him to escape, his Pulse picked up something odd. Within the endless seabed, towards the edge of his Pulse range, there was some kind of disturbance. A second one confirmed it, alongside the fact that this disturbance was moving directly up through the sand towards the lake.
+
+It was like a long, moving figure made of distorted space that traveled through the sand at insane speeds, and soon, it reached the range of Jake’s sphere, allowing him to see its ascent in real-time. He was not even five seconds from the lake, practically already in it and free from this watery nightmare, when the distorted figure reached the lake from below.
+
+Jake reached out his hand as the entire seafloor erupted, a massive blast of sand mixed with fragments of broken space getting launched upwards as the entire world seemed to distort. Making matters worse, the entire lake was consumed by the ascending figure, gone as a creature more than a hundred meters long had emerged from beneath the sand, now no longer a being of distorted space but one of flesh and blood.
+
+Jake could only stare in disbelief as the lake was gone, and all he saw was the destruction left by the enormous monster that he unfortunately knew he wouldn’t get much out of punching.
+
+“Whoo, we made it!” a far-too-familiar voice echoed through the area as the large creature wriggled with joy, the surrounding space quivering and shaking in response. “Oh, hey Jake, fancy seeing you here. Okay, that’s a lie. I kind of knew you would be here and wanted to catch you by surprise, and wouldn’t you know it, I found a hole I could use to break into this place and popped right through it!”
+
+“Sandy...” Jake muttered. “You ate it... the damn way out of this place.”
+
+He barely registered the giant space worm, as all he could think about was the disappearance of his only known means of escape.
+
+“Hm? Wait, it makes so much more sense now why there was a hole I could use! I should really ask Tom for advice before just making decisions like this... I did make sure he also became an Administrator to enter with him, and it would be such a waste not to make use of one so brilliant,” Sandy said, going off on a tangent. “But! In my defense, it wasn’t my fault. I was just following directions, I swear! So blame this guy instead!”
+
+Sandy proceeded to open their mouth and spit out a small creature that fumbled through the water, waving its small paws around before disappearing, only to reappear on top of Sandy’s body, covered in a bubble that seemed to keep the water away. The little guy looked toward Jake and raised his two paws into the air in greeting.
+
+“Hello!” Jasper said, waving happily.
+
+Jake stared, doing a quick double-take as he used Identify on both.
+
+[Cosmic Genesis Worm – lvl ?]
+
+[Shimmershroud Planeswarper – lvl ?]
+
+He couldn’t see their levels, but he felt both of them were higher than his. That really wasn’t his biggest question right now, though.
+
+“How the hell did you two end up as a team?” Jake asked, wondering if they’d met outside the Central Domain or had stumbled on one another inside. Okay, that maybe wasn’t the biggest question, but it was Jake’s first thought when he saw Sandy spit Jasper out.
+
+“Is that really important right now?” Sandy asked. “I believe dealing with our pursuers is much more pertinent, but that’s just me.”
+
+“Pursuers?” Jake asked, and just then, from right below where the lake had once been, where space was still unstable, he felt new, powerful distortions, as if someone were trying to force their way through, following the destructive wake left by Sandy breaking into this place.
+
+“Yeah, would you believe this Jasper guy? He totally stole this super important-looking thing right under the noses of a bunch of dragons, beastkin, humans, elves, beasts, undead, robots, elementals, and a variety of other monsters... really nasty business overall. They were so mad at him that they didn’t even notice I took all the other stuff they’d been arguing over!”

@@ -1,0 +1,123 @@
+---
+id: 0a04295b-d367-5379-ad4d-f69ef9afe134
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1217 - Depths of the Unknown"
+slug: 0089-chapter-1217-depths-of-the-unknown
+partOf: the-primal-hunter
+position: 89
+ownLength: 2903
+unit: words
+ownProgress: 2903
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2836145/chapter-1217-depths-of-the-unknown"
+royalRoadId: "2836145"
+markedReadAt: "2026-06-29T19:32:05.118Z"
+---
+
+Following the one thousand people who had participated in Jake’s lesson within his Order proved more interesting than Vilas had first expected. Initially, he had only looked for any suspicious activity, but it had inadvertently turned into a study of the effects of Jake exposure.
+
+It was entirely expected that even if there were something suspicious among the students, they wouldn’t have done anything overt quite yet. Even if they didn’t know they were being tracked, there had still been a lot of focus on them following the lesson from various people. Some wanted to form closer relationships with them, while others wanted to know whether Jake planned to offer more lessons in the future.
+
+Especially, one rumor sparked a lot of intrigue, as some began to wonder whether the Chosen might be looking to take in a disciple. It wasn’t uncommon for those who reached peak C- and B-grade to start taking on people, especially non-humans, as passing down Records was a core part of their Path.
+
+Vilas gladly spread these rumors through subtle channels, as it provided a good cover for more overt surveillance, given that most would assume all intrigue was due to the lesson. To clarify, the Viper wasn’t involved with starting the rumor, which had come from Jake’s final words, making the rounds, where he talked about perhaps meeting some of the people there again.
+
+A lot – perhaps overly optimistically – interpreted this as meaning that Jake planned on approaching someone who attended the lesson. Of course, the Viper knew that wasn’t the case, but it was still a fun rumor that he very much enjoyed the fallout of.
+
+As a bonus, Jake wasn’t affected in the slightest as he hadn’t even left his residence for years. He was far too busy working on his Dragonsbane Poison to bother even thinking about taking on a student. In truth, even if he wanted to take someone on, the Viper doubted he was entirely ready to do so. At least Vilas would like to vet the disciple in question and make sure they were someone Jake’s very free-range teaching style suited.
+
+One of the unintended effects of this increased attention on all the students was that knowledge surrounding Jake’s Bloodline began to spread. It was already known that he had a unique presence and that this presence could affect others to some extent, but now those interested had just been given a sample size of a thousand who had experienced his presence in a relatively intimate environment.
+
+While the effect Jake’s aura had on these students was nothing compared to those who spent a lot of time around him, it was still noticeable. Sure, they weren’t all suddenly borderline immune to the presence of gods, but they could now far more easily handle being around those in their same grade who were stronger, and even showed signs of increased resistance towards those at higher grades, though it was far more subtle.
+
+Watching these results, Vilas couldn’t help but consider whether he should have his Chosen participate in semi-regular lessons that just involved him flaring his aura and allowing the students to build resistance. It would do the Order good and help elevate many of the more talented students, but the Viper also knew convincing Jake wouldn’t be easy.
+
+Additionally, there were still some uncertainties about whether Jake would experience any negative effects from providing this resistance training. Not to those affected, but to Jake himself.
+
+While it stemmed from his Bloodline, what Jake essentially formed were Records within all those present whenever he allowed them to experience his presence. While it was entirely possible that Jake didn’t actually impart those Records, but simply stimulated those present to form these Records themselves, no one knew quite yet.
+
+What’s more, Jake didn’t exactly make it easy to find out.
+
+Seeing how exhausted Jake was after giving the lesson, the Viper’s initial reaction was that there was some out-of-the-ordinary impartation of Records, as Jake was unrealistically tired, considering his near-peak C-grade state. Yet after a short rest, he was pretty much back in peak condition, something that didn’t correlate with having imparted too many Records, as recovering from something like that tended to be a long and arduous process.
+
+This forced the Viper to consider that it was also entirely possible that Jake had actually managed to drain himself of mental energy in just a few hours, all from doing a relatively simple lesson in front of a few D-grades. The notion that it took so much out of his Chosen to socialize did feel a little embarrassing, but the more he considered every factor, the more likely it seemed to be the case.
+
+Ultimately, even if it proved itself to be one-hundred percent risk-free for Jake to perform presence-training sessions, the Viper still wouldn’t force him to. This time around had been an exception, but generally, he preferred to just let Jake do as he wanted.
+
+Not that the Viper felt like he had any reason to feel sorry for his dear Chosen, who had been burning through high-level alchemical ingredients at a stupid rate, gladly taking full advantage of his poor Patron.
+
+However, at least the investment did not seem to be entirely a waste, as the Viper watched Jake finally complete his first batch of Weak Dragonsbane Poison. For a bane poison, it was still pretty bad, but as a poison in general, it was impeccable, especially when factoring in that it came from a C-grade. Jake had also chosen a good design for how the poison itself would work, targeting the mana of the True Dragon he would eventually hunt.
+
+Speaking of his would-be target, finding one had proven to be quite a challenge. Unsurprisingly, the Dragonflights didn’t have an army of potential prey just sitting around waiting to be hunted down, but remained incredibly protective of their kin. Sure, if the Viper came to them and asked personally, he could probably make them force a True Dragon to act as the villain, but Vilas knew that wasn’t what Jake wanted.
+
+No, he wanted a True Dragon that was genuinely an asshole and someone he would be willing to hunt down even if they weren’t a True Dragon. Finding such a True Dragon while also making sure they weren’t too powerful or even too weak had taken more than three years, so far, and while a few candidates had been found, not one of them had struck the Viper as perfect quite yet. Oh, and those he did find acceptable often hit a snag of some kind.
+
+There was one from the Darkflight that had killed his still-maturing C-grade little brother before he could grow into a True Dragon due to his own insecurities. This dragon was weak and knew his brother would be superior, so to retain his parents’ favor, he killed his brother before he could evolve. An action that had naturally backfired, especially after the dragon also killed several other whelplings in an attempt to cover up his actions. The entire scenario ultimately resulted in the dragon being arrested, but before Vilas could even finish evaluating whether this dragon would be a good target, the mother of another slain whelp killed him.
+
+Another potential target was a True Dragon from the Emberflight who was a bit too keen on fire and loved setting things ablaze even when he shouldn’t. The Emberflight didn’t step in for a while despite the widespread destruction of the dragon, but when they did, they found him in an odd state where he attacked everything on sight, seeking only to burn anything that could move. After being easily restrained, the other dragons found they couldn’t dispel this effect and feared it was self-inflicted, leaving them clueless about how to help.
+
+On the surface, this appeared to be good prey. It was a berserk dragon that needed to be put down, yet the Emberflight themselves weren’t comfortable killing. So they needed someone to step in and get the job done. Perfect, right?
+
+Except the Viper passed this one for a reason Jake would surely appreciate: the True Dragon was too weak.
+
+From the Viper’s investigation, the dragon had lost all sense and was just a bundle of instinctual destruction. While the raw magical prowess of a True Dragon was enough to make it incredibly dangerous, this lack of control and thought made it far weaker. Even the Wildflight, who were all about making their bodies as powerful as possible, stayed away from skills that affected their minds negatively. Active control of mana and magic was incredibly important, and for Jake to face a dragon without just a crucial thing… yeah, he probably wouldn’t even feel like he’d fought a genuine True Dragon even if he won. Due to that, the Viper looked elsewhere, keeping his standards incredibly high.
+
+Time passed as Jake continued to improve his bane poison, spending longer and longer periods in meditation, working on that upgrade. It shouldn’t come as a surprise that Vilas cared far more about that one than his bane poison crafting. However, he tried not to think about it too much so he could be pleasantly surprised whenever Jake finally found success.
+
+If Jake realized the true purpose of Meditate as a mere C-grade… now that would certainly be something. The Viper wasn’t even sure such a thing was possible, as he’d never heard about it happening before, which only made the prospect more exciting.
+
+While continuing to watch Jake and tend to his own projects, the Viper kept getting reports about True Dragons, but discarded most as they didn’t fit the criteria he’d decided on. However, as he looked through the reports that day, one of them stood out as he raised an eyebrow.
+
+The Lumenflight, huh?
+
+--
+
+Jake floated in the air, the large tome left by the First Sage suspended in the air in front of him. He reread sections of it repeatedly, allowing the knowledge within to freely pass through his mind and manifest into his Soulspace as odd shapes and images surrounded him on all sides.
+
+He felt as if he’d read everything available in the tome thrice over, yet some aspects of it still didn’t feel entirely right. Jake was one hundred percent confident in some things, but other aspects somehow still eluded him despite seemingly being just within reach.
+
+What Jake did know for certain was that the core of the Meditate skill was all about deepening one’s connection with one’s inner Truesoul to hasten regeneration of resources. This was the core aspect of the skill and the reason why Meditate was considered the best recuperation skill in the multiverse.
+
+The only thing that rivaled and even surpassed it in places was the act of sleeping. In fact, over the last couple of years, Jake had come to believe that this wasn’t a mere coincidence.
+
+No matter how talented the First Sage was, he still needed inspiration from somewhere, and as a human born before the system, he naturally had to sleep for the majority of his life. After the system, the Viper’s teacher would no doubt have noticed the incredibly regenerative effects of sleeping.
+
+While there was still some uncertainty, Jake suspected that at least part of the Meditate skill was founded on the concept of sleeping. Before the system, sleeping was a necessary bodily process that regulated and performed a whole slew of functions that Jake was far from educated enough to understand, much less explain. All he knew was that pretty much all living things had to sleep, and if they didn’t, well, they would have a very bad time.
+
+With the system, sleep stopped being a necessity, yet it remained an ability that those who knew how to sleep retained. Jake knew that someone like the Forest King or even Vesperia wasn’t capable of sleeping, and while some rare creatures learned to do it through a lot of struggles, chances were those two would never learn how to.
+
+Jake had wondered for a while why the system even allowed people who grew out of needing sleep to retain what became a borderline overpowered ability, but after some thought and inspiration from the tome, Jake came to understand why… and kind of how meditate and both sleep were even allowed to work in the first place.
+
+One thing that had bothered Jake was why Meditate worked. All active skills Jake had, even something like Identify, required some kind of resource to use. It had a kind of cost. Yet, Meditate appeared to be the sole exception, as it had the opposite effect of cost and instead accelerated regeneration.
+
+But… that wasn’t entirely accurate, was it? Because Meditate did have a downside, just not one that people usually associated with being considered a cost. All Meditate skills, even the variants like the Sword Saint’s, required one to sacrifice something while using the skill:
+
+One’s senses.
+
+What Jake had come to realize was that Meditate ingeniously redistributed parts of one’s soul by taking away from the aspects allowing external perception and focusing them on the aspects of the Truesoul that allowed passive resource regeneration, thus speeding it up. All done by the system in a fashion that was naturally obscured by the very action of using the skill in the first place.
+
+When sleeping, one took this concept a step further by even cutting off one’s own consciousness. One paid with no longer being awake and was rewarded with the ability to regenerate faster, and meditating was essentially a middle ground between being fast asleep and wide awake.
+
+Jake couldn’t outright confirm his theory, but he was extremely confident that this was the case, and the knowledge provided by the First Sage’s tome backed him up. With what he knew now, Jake was confident he could create a far more powerful version of his current Meditate skill simply by amplifying this aspect, because there was one thing that set Meditate apart from sleeping:
+
+It was a skill provided by the system.
+
+Sleeping was not a skill. Sleep skills did exist, such as Vampiric Slumber, one that some vampires used to stay alive for longer and effectively put themselves in stasis, which nicely proved Jake’s point that they could clearly do more than just regular sleep.
+
+When something became a skill, it meant that the system directly stepped in and provided assistance, allowing one to earn even greater rewards at the same cost. Jake’s Serene Soul Meditation had the system help Jake calm his mind while meditating. Perhaps there was some minor cost in slightly reduced regeneration, but whatever the cost, Jake knew he wasn’t paying full price.
+
+If all Jake wanted was to make a super meditation skill that allowed him to regenerate resources far faster and even amplify the soul-enhancing effects to allow the skill to passive heal his soul, he could do it right now. However, he was far from satisfied with this but wanted something more.
+
+Going by the Legacy of the First Sage, Jake also knew there was more. A deeper meaning to the Meditate skill that Jake had yet to realize. One that went beyond merely enhancing regeneration… perhaps even beyond his own soul and Truesoul.
+
+That day, with Jake floating in his Soulspace, he felt that he was closer than ever. He felt as if he channeled the Records of the tome through himself and that he understood more than usual. Perhaps it was his own delusion speaking from having spent too long going over the same things repeatedly, but he remained determined.
+
+Closing his eyes within his Soulspace, Jake focused on the sensation of meditating and the faint stream of Records from the tome being channeled through his soul. His breathing calmed, and in the outside world, Jake’s body relaxed more and more.
+
+He tried to delve as deep into the Meditate skill as possible, trying to cut off everything and connect with the skill to fully understand every aspect of it, and as he did… he felt something. Realized something. His instinct took over, and he jumped at it, all hesitation gone. With this epiphany, something finally seemed to click into place.
+
+The Tome of the First Sage responded, giving off a subtle glow as the pages within lifted themselves up before tearing off and turning into streams of pure Records that entered Jake, who couldn’t even feel what was happening. In fact, he couldn’t feel much of anything anymore.
+
+His perception of his own Soulspace had completely faded. He’d retracted his sphere to nothingness. Stopped feeling his own body. Severed everything he could to seek as deeply into himself as possible.
+
+Soon, the only sign he was even alive was his stable breathing. When that stopped, Jake sat in complete stillness. His mind was empty, his senses gone, and even his Bloodline was silenced, seeking toward the depths with him. He had entered a state far more profound than any meditation he’d ever heard of. Gone deeper than the deepest sleep. What was left of Jake’s existence sought toward his Truesoul, what was commonly believed to be the deepest core of one’s being… and through that, one layer further down. To somewhere perhaps no C-grade had ever gone before, with Jake’s only guide being his subconscious instincts born of his Bloodline and the Records of the First Sage.

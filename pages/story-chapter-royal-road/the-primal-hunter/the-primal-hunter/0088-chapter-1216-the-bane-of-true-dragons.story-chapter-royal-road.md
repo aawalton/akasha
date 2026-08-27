@@ -1,0 +1,152 @@
+---
+id: dc6a72d4-deac-5ecd-b510-f8c7e1416167
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1216 - The Bane of True Dragons"
+partOf: the-primal-hunter
+position: 88
+ownLength: 2889
+unit: words
+ownProgress: 2889
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2833145/chapter-1216-the-bane-of-true-dragons"
+royalRoadId: "2833145"
+markedReadAt: "2026-06-29T19:32:03.193Z"
+---
+
+Jake truly had no way of telling what would come first. On the one hand, he saw daily improvements to his poison crafting, while on the other, he felt as if he was on the precipice of finally having that all-defining realization that would allow him to upgrade his Meditate skill.
+
+One was a slow and steady process of incremental improvements, while the other was a sudden enlightenment, making it truly unpredictable. Undoubtedly, the Meditate skill would be the most impactful of the two, but Jake didn’t feel that he could force it in any way, and that even if he spent more time actively trying to get the upgrade, it wouldn’t help.
+
+No, it was better for him to just continue working on his Dragonsbane Poison while fishing for the Meditate upgrade in between. Jake felt that his connection to the Meditate skill was stronger whenever he was low on resources, as the increased regeneration naturally had a larger effect.
+
+Like this, weeks turned to months, as he soon crossed into the one-year mark since he began this semi-isolated training. He didn’t meet anyone or even speak to other people, as Jake had chosen to fully dedicate himself to the craft, allowing no distractions, no matter how bad a friend or partner that made him.
+
+Not that he believed Artemis had anything against his actions, as the only thing he’d heard about her was through a small message Villy had included with an ingredient delivery, wherein she encouraged him and nothing more. This didn’t surprise him, as a few years truly were nothing to a god.
+
+Soon, one year became two as he continued his isolation. Jake’s bane poison crafting was making rapid progress as he’d already made several variants, slowly working his way towards the Dragonsbane Poison. Scalekinsbane Poison had been the first he’d made, followed by Jake wanting to make a more specific one. He’d considered making a Humansbane Poison using his own blood, but decided against it as he instead made a bane poison targeting the creature he was perhaps second-most aligned with Records-wise:
+
+Snakes.
+
+It ended up being surprisingly easy, as it only took Jake a couple of months to go from Scalekinsbane Poison to making his very first batch of Snakesbane. With that, he was one step closer as he focused on the Records more and more with every craft, narrowing down the Records further.
+
+Jake considered making a Wyvernsbane Poison or maybe even a bane targeting some variant of winged snake, but he ended up instead making a type of bane poison in a whole other direction.
+
+What he made next was an Elementalsbane Poison instead. One thing that set true dragons apart from most other beasts and scaled creatures was the sheer amount of magical prowess they possessed.
+
+True Dragons were the top race of monster casters in the multiverse outside of rare and unique variants. Every True Dragon was a master mage capable of extreme levels of mana manipulation, and their natural ability to learn new spells was simply off the charts.
+
+That’s why Jake wanted to create a bane poison focused all around Records that had to do with mana, as he’d found himself facing troubles when trying to use Record-infused parts of dragons directly.
+
+To be fair to Jake, this was something he’d predicted would happen. He was fully aware of his own limitations, which was why he’d made certain preparations before he even tried to begin crafting the Dragonsbane Poison.
+
+Jake knew that if he had a hard time manipulating and focusing the Records in the poison, a lot of them would go to waste. There were several ways to alleviate this issue, but each approach came with its own set of problems.
+
+One method was, of course, for Jake to just get good, which would definitely be the most time-consuming. As a C-grade, manipulating the Records of B-grade True Dragons was borderline impossible, and while he could certainly get better and more efficient with time, he knew just how much time it would take. While Jake was okay with spending a few years working on the poison, he would prefer not to take a few dozen years.
+
+A second method was to use more ingredients containing these Records. For Jake to add some dragon’s blood, extract what Records he could, and then evaporate the rest before adding more. This method made the crafting process take a lot longer and require a lot more focus, which Jake was okay with, but he couldn’t keep up with the resource demand. Once started, Jake couldn’t pause the concoction, and as things were, he simply didn’t have enough energy to use this prolonged method, but would run out of mana and even mental energy before he was done.
+
+This led Jake to use a third method that he was uniquely capable of pulling off, thanks to the Malefic Viper’s backing. Usually, in a bane poison, one would use some of the cheaper parts of monsters, as one truthfully didn’t need that many Records, but that was when one crafted with grade-suitable ingredients.
+
+Jake needed more Records from his ingredients… ones with more quantity and quality, which was why he did something that would make most other alchemists spit up blood due to just how wasteful it was:
+
+He used the most expensive and Record-dense parts possible. Dragon’s Hearts, the eyes of certain True Dragons, infused bones from Wildflight dragons and other sorts of ingredients that no one would ever be dumb enough to use in a one-time poison. It would be like using pure gold to craft a doorknob just because Jake found the softer metal easier to work with.
+
+The ingredients Jake used for his experimentation were ones that would regularly be used to craft both legendary and even mythical equipment for B-grades, but Jake didn’t have any intention of caring about that at all, as he wasn’t paying for anything.
+
+Okay, Jake did have some conscience and only began using these truly expensive parts when he felt as if he had a chance to actually succeed, while using the cheaper stuff during regular practice sessions.
+
+As mentioned, Jake felt this was a long process of incremental improvements. He first started using parts of True Dragons to craft Scalesbane Poison – a very slightly less focused version of Scalekinsbane Poison – to get more used to working with the ingredients.
+
+After feeling comfortable, he stepped it up and made the Records increasingly focused by the day. Again, a long process that ended up taking several months, and it wasn’t long before Jake had been in self-isolation for just a tad over three years, during which he’d burned through what he reckoned was Earth’s entire planetary budget.
+
+It was especially in the last two months that Jake had spent the majority of these funds as he’d begun trying to craft the Dragonsbane Poison in earnest, which meant using the truly expensive stuff.
+
+Even though Jake was confident and improved by the day, it still ended up taking longer than he’d first expected, but in the end, he knew he would get there.
+
+On this particular day, Jake went in with full resources, while well-rested, and with a mana potion ready to go the second he started getting low in resources. He threw in the ingredients one by one, doing what he’d already practiced hundreds of times before, creating a near-perfect mixture for the Records of the True Dragon parts to bind themselves to.
+
+Calming his nerves, Jake added the shrunken Dragon’s Heart when it was time to do so. Inside the mixture, the heart began getting dissolved as Jake focused on extracting the Records and fusing them with the liquid.
+
+His mana was rapidly being drained as he was forced to make up for his C-grade energy’s lacking potency with sheer quantity, but he kept a calm mind as he slowly went through the extraction process.
+
+The entire process was extremely inefficient, with Jake only capable of holding onto perhaps one-thousandth of the Records, but he already knew this was the case as he could only keep going.
+
+Minutes passed with the heart growing even smaller over time, with the concoction teetering on the edge of turning unstable at all times, with Jake barely hanging on by the edge. He’d already used everything in his arsenal, including his Invocation of the Malefic Viper, and after consuming the mana potion and starting to run low again, Jake feared he was still lacking.
+
+However, as his mana went below a thousand points remaining, things clicked into the base, and by the grace of the system, full stability was reached. A faint pulse of energy was emitted from the cauldron as Jake faintly felt like he heard the roar of a dragon from within.
+
+He would have classified it as a delusion born from exhaustion if he didn’t also feel the aura given off by the poison resting in the cauldron. It was incredibly weak, yet Jake clearly felt the aura of a dragon within, making him smile from ear to ear as a notification also informed him of his success.
+
+You have successfully crafted [Weak Dragonsbane Poison (Epic)] – A new kind of creation has been made. Bonus experience earned
+
+Jake kept smiling, not at all caring about the “weak” portion of the Dragonsbane Poison. While still in C-grade, Jake wouldn’t even bother trying to make a bane poison that wasn’t classified as weak, especially not after Villy told him that those not tagged as weak tended to be of ancient rarity of above, something Jake was at least a few hundred years short of being able to make.
+
+Carefully bottling the poison, Jake ended up with two poisons, which he already knew weren’t enough, but with one success under his belt, he was far more confident making more.
+
+Using Identify on the Dragonsbane Poison, Jake could only nod along as he read the description, finding himself more than satisfied.
+
+[Weak Dragonsbane Poison (Epic)] – Dragons, the apex of mana and magic, legendary creatures who stand at the pinnacle of power, yet even they have a bane. Deals significant damage and spreads throughout the target, inflicting body and soul simultaneously. The poison will be triggered and inflict incredible damage whenever the affected target uses mana. This poison is significantly more effective on entities with Records identifying them as dragons, while completely ineffective against those that do not. Bane poisons directly bind themselves to the Records of affected creatures, making it incredibly difficult to heal.
+
+Unlike the far more generalized bane poisons Jake had crafted in the past, this one wasn’t only more targeted at dragons specifically, thus resulting in it being more potent, but the increased targeting had also allowed Jake to focus the effect to be something specifically effective against dragons.
+
+In alchemy terms, the effect this poison inflicted was commonly referred to as Mana Allergy. It would turn the dragon’s own energies into something that would harm it, and Jake knew that, seeing as it would be a dragon, it wouldn’t really have any choice if they wanted to use mana or not.
+
+Well, alright, if his target chose not to use mana, Jake had a feeling he would be in for a far easier fight than first imagined. Far more realistically, the dragon in question would just take the damage while working to rid itself of the poison. That, or try to kill Jake before the poison had time to do too much damage.
+
+But, enough theorizing about the battle to come. For now, Jake just felt satisfaction with his success as he was one step closer to starting his dragon hunt in earnest. Naturally, this period of alchemy had also resulted in quite a bit of experience, despite Jake not actually making much.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 341 - Stat points allocated, +35 Free Points
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 342 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 337 - Stat points allocated, +45 Free Points
+
+Jake was all fine and dandy with two more levels in just a bit over three years. Definitely worth the massive resource cost that he had a god sponsor. What’s more, he still had some very expensive ingredients left that he had already made plans for how he wanted to use.
+
+While he had succeeded, Jake wanted to refine the poison a little more. While he wouldn’t be able to increase the rarity, he could still increase the quality and potency of the Weak Dragonsbane Poison to ensure he entered his first fight with a True Dragon carrying arrows coated with the best damn poison he could make.
+
+After putting away the poison bottles, Jake went to rest and meditate.
+
+Oh… I guess the Dragonsbane Poison did come first, huh? Jake was reminded as he sat down and entered meditation. He still needed that one moment of inspiration that he, for some reason, now felt was even closer than before.
+
+Once Meditate was upgraded and Palate fixed, it was time to leave his isolation, and by that time, Villy would have found a True Dragon deserving of having a hunter sicced on them – assuming he hadn’t already located one.
+
+“Yrel, you need to-“
+
+“Yrelstromoz,” the True Dragon sneered, correcting the woman sitting opposite her.
+
+“Yrelstromoz, then,” the older woman said with a voice full of resignation. “Just come home with me, alright? Stop this nonsense already and see sense.”
+
+“I already told you to leave me alone,” Yrelstromoz said, her energy rising.
+
+The other woman released a bit of her own aura, instantly squashing Yrel’s own. “You cannot continue like this. The elders are already angry about your actions, but if you return now, you may get away with limited punishment.”
+
+“You’re just convincing me more to stay the fuck away,” Yrelstromoz crossed her arms, reigning in her aura as she knew she wasn’t capable of threatening the other party. Despite Yrel’s immense power as a True Dragon, the woman in front of her was kin and higher level, thus understandably stronger.
+
+“Also, punish me? For what?”
+
+“Do you have any idea how many you’ve killed over the last couple of decades?” the other True Dragon asked with narrowed eyes.
+
+“No one?” Yrel asked, genuinely confused until she realized what the other dragon was getting at. “No one that counts, anyway.”
+
+“That demeanor is exactly why you need to return with me.”
+
+“You seriously think I deserve to be punished because of… what? What exactly is my crime here? See, this is why I can’t stand people like you, acting as if you’re better just because you take pity on inferior creatures,” Yrelstromoz scoffed.
+
+The other True Dragon looked conflicted before sighing. “This is your last chance. If they hear of one more instance of you acting out, I fear the elders won’t tolerate it. You risk being expelled from the Lumenflight, and if that happens, we… I… can no longer protect you. Even if I promised your parents to do so.”
+
+“Protect me?” Yrel said, recoiling in disgust at the arrogance of the other dragon. “Do I need protection? No. I’m not stupid and will just stay away from places I shouldn’t go. Or are you going to insist that I return with you to be punished and potentially suffer the same fate as my parents?”
+
+“What happened to them had nothing to do with-“
+
+“Spare me the excuses and just leave me alone already, for fuck's sake,” Yrel slammed the table hard enough for it to crack while also breaking the floor tiles below. “I’m done with you, done with the Lumenflight, and done doing what I’m told. I’m not a fucking whelp anymore but a True Dragon, and if you can’t treat me like one, then I don’t need the Lumenflight.”
+
+“If that’s truly how you feel… then I’m done here,” the other woman sighed as she stood up while leaving a token floating in the air between them. “But I would be remiss if I didn’t try one more time. I plead with you. If you trust me, please use this token and reach out at any point. You can still walk a worthy Path and have a future worth having. I sincerely hope you reach out, but no matter what choices you make, they will be your choices, so I guess all I can say is… good luck to you.”
+
+“I don’t need luck,” she scoffed, waving off the annoying dragon. The woman looked at her with a look of disappointment, which only pissed off Yrel even more, especially when she realized the damn woman wouldn’t leave before she took the token.
+
+Even after the other True Dragon was gone, Yrel’s mood didn’t improve, and the more she thought about it, the angrier she grew. Clenching her fists, she kept replaying the conversation in her mind, cursing the woman whom she once called an aunt and the pathetic Dragonflight that felt like nothing but a collar around her neck, restraining her freedom.
+
+Calling her incensed would be an understatement.
+
+You know what? They say I’m acting out? I’ll show them what acting out really looks like.

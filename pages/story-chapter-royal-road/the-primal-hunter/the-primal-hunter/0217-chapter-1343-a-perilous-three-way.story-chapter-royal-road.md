@@ -1,0 +1,121 @@
+---
+id: f7345bf7-bb3c-5e5d-9556-891e42a59650
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1343 - A Perilous Three-way"
+slug: 0217-chapter-1343-a-perilous-three-way
+partOf: the-primal-hunter
+position: 217
+ownLength: 2618
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3612652/chapter-1343-a-perilous-three-way"
+royalRoadId: "3612652"
+---
+
+Jake had been incredibly unlucky once more, not being the one to stumble across a Territory actually worth fighting. As they expanded, it became inevitable that they would encounter increasingly powerful factions that were also busy expanding their Territories.
+
+That’s why Jake wasn’t surprised when he heard William’s group had encountered powerful resistance, even if he was miffed he hadn’t been the one to receive such a blessing.
+
+“Are we aware of which faction they’re from?” Jake asked, relying on Miranda’s special Jake-communication skill. Statistically, they were most likely to encounter the Holy Church, and honestly, it was surprising they hadn’t bumped into any Territory from the faction yet. Well, assuming they hadn’t actually met them already, but had just destroyed their Beacon without realizing it. Then again, Jake reckoned a faction like the Church would yell loudly about where they were from.
+
+“Demons, presumably from the Nine Hells. And not the Hell where your buddy the Cerulean Demon Prince is from. These are the big, bulky demon kind, primarily using fire magic,” Miranda answered, making Jake raise an eyebrow. He had a lot of factions in mind that he believed it could be, but truthfully, the Hells hadn’t been one of them.
+
+The Nine Hells were a major faction of the multiverse, yes, but they were also relatively isolated from all the other forces. Their main forces resided within the Nine Hells, a special set of Minor Worlds not unlike Venus. If Venus were infinitely larger and there were nine of them, that is.
+
+Jake wasn’t clear about exactly how large each of the Hells were, but he knew they were all utterly gigantic. Large enough for demons to be born in one and reach godhood without ever setting foot in the outside world.
+
+This isn’t to say they didn’t influence the outside world. Demons had the unique racial trait of being able to influence others across universes, forming pacts and bonds not unlike a Blessing between a god and a follower. The bonds demons made tended to be far more influential, though, and often the warlock in question – the person who formed the pact – could directly channel a portion of the demon’s power to make themselves stronger.
+
+Pacts could also be formed with monsters, creating demonic variants that were closer to demons than whatever they’d been before. Heck, some even referred to demonic variants as just demons, though many argued the equivalence was false, as they lacked many of the inherent racial skills one associated with demons.
+
+Jake’s most notable encounter with a warlock was way back when he helped out Carmen and first went to the gambling and debauchery city of Paradise. The guy hadn’t been very strong and was killed easily, but it had at least been a memorable encounter simply due to its uniqueness.
+
+Perhaps that’s why, despite them not being what Jake expected, he still felt quite excited learning he was going to be facing demons soon.
+
+“Big fire demons, eh? Sounds like a lot of fun,” Jake responded with a smile.
+
+“I figured. William and Holstred are currently retreating away from the demon’s Territory; however, they don’t seem keen on giving up and are chasing. They are trying not to lead them back to the Beacon, but they may just beeline here, in which case we’d definitely need the help. I’m confident in defending us for a while, but I’m far from done setting up my own rituals, and currently, I’ve mostly prepared ones designed to buy time,” Miranda said, giving a bit more context.
+
+At the same time, she also sent Jake a mental image of where he had to go. It really was great that Miranda’s special communication skill worked after so many other similar abilities had stopped functioning. Shit, ever since entering the simulation, Jake hadn’t even been able to feel Sylphie’s location through their Union Oath, and while that could be because the Sylphian Hawk hadn’t entered the system event, Jake simply didn’t see a world where she hadn’t.
+
+“I’ll pick up my pace. How about Tramon? Do you have a way to notify him, or do we just let him continue doing his thing?” Jake followed up.
+
+“Who?” Miranda asked, confused.
+
+“Tramon. Big guy, covered in scales, quite the nasty frost breath in the morning. Pretty sure you two are familiar,” Jake explained teasingly.
+
+“Oh, the former Northpeak Wyvern. Yes, let’s just have him continue expanding our Territory. No reason to put everything on pause just because we’re suffering from a demonic invasion,” Miranda answered, pausing for a few seconds. “Also, I must say, I’m proud of you. After hearing his new chosen name, I had fully expected you to shorten it to Frostie or, if you wanted to at least partly respect what he wanted to be called, Montie.”
+
+“What? Me? I would never do such a thing!” Jake protested, having already started his return trip as he was constantly accelerating... also, how hadn’t he thought of Montie? That would have totally worked! Oh well, too late to change it now, so Tramon was allowed to stay Tramon.
+
+Picking up his speed further, Jake pushed himself as he flew across the land while interspersing One Step to go even faster. Usually, Jake was just flying or only using One Step, not really trying to go as fast as he could, but now, he was in a rush and held nothing back, even going as far as using his boosting skill on the stable 30%. It would burn out his stamina faster, but that wasn’t something a quick potion or two couldn’t fix.
+
+“I’ll keep you updated if anything changes,” Miranda informed him before cutting off the connection, having her own work to attend to.
+
+Jake sped through the now far larger Territory belonging to the Milky Way Galaxy over the next few hours, with Miranda occasionally sending Jake updates on William and the demon invaders’ location. His speed was definitely the highest of those he’d entered the simulation with, and he also only now realized that his Primal Spirit of Man actually helped him travel a lot faster than usual.
+
+The skill granted him resistance to environmental effects, and things like wind resistance counted as a detrimental environmental effect. That allowed him to push himself faster, which was good, as it really took longer than he’d wanted to reach his destination.
+
+It was fortunate that William and company hadn’t been on the exact opposite side of his Territory, allowing Jake to get there quicker, though this definitely showed that they needed to set up some Outpost Beacons and Teleportation Nodes to better traverse their growing virtual empire.
+
+As Jake only had about a quarter of the journey left, Miranda contacted him again, sounding a little more worried than before.
+
+“The situation has changed; it’s not only demons now,” she told him, sounding like she was getting information in at the same time as talking to him. “United Tribes. They also have a force there, and not a minor one. They’re led by a Behemoth.”
+
+Hearing this definitely made Jake raise an eyebrow, and a massive grin appeared on his face; unknowingly, he started moving just a little faster out of sheer excitement. Jake had read a lot about Behemoths, but had never met or even seen one before.
+
+Behemoths were top-tier variant beasts that were comparable to True Dragons and Phoenixes, though unlike those two, Behemoths focused entirely on sheer physical prowess. They sometimes had slight magical abilities and could manipulate earth to some extent, but it was nothing compared to their ability to tear things apart with unrivaled might.
+
+“I’m going there as fast as I can... any update on what the Behemoth is doing?” Jake asked curiously, seeking a clearer mental image of what he would be facing.
+
+“No idea, but going by what Behemoths usually do, it’s probably tearing our allies and demons apart effortlessly,” Miranda answered, trying to hide her annoyance at Jake’s rather irrelevant question. At least she was for a moment until she suddenly corrected herself. “Actually, scratch that. Holstred just let me know the Behemoth only got momentarily involved and is now hanging back, allowing their fellow members of the United Tribes to fight instead.”
+
+Hearing this only made Jake more excited. The Behemoth thought the demons and William’s group were too weak to get involved, eh? Had to mean it was on the stronger side, even for Behemoths, as William was no slouch either... though he was good at hiding his power, and Jake guessed that the metal mage wouldn’t go all out unless he absolutely had to.
+
+“Let’s just hope things are still ongoing when I arrive,” Jake said, and after getting one final positional update from Miranda, she cut the connection again. One fortunate thing about a third party getting involved was that the chase had stopped, and they were no longer diving into Jake’s Territory. Instead, the three forces had met at an intersection among them, in what would likely become a decisive battle that would eliminate two major Territories.
+
+Getting rid of a Behemoth this early on in the event would be a bit sad, as they really were that rare. No one seemed to fully know why they were so rare, but one explanation seemed to be the lack of a relatively straightforward evolution path for monsters to get there.
+
+Scaled beasts like lizards, snakes, or the like, evolving into wyverns and then True Dragons was a well-known Path. Bird monsters that leaned further into certain magics and comprehended certain concepts were also known to give birth to phoenixes, and phoenixes had a unique ability that made their population relatively stable.
+
+Meanwhile, Behemoths didn’t have that. Could a bear monster become a Behemoth? Technically, but no one knew what the requirements were. All that was known was that it had to be a mammal-like monster focused on physical might – a descriptor that fit many beasts, yet barely any would ever get the chance to become Behemoths.
+
+That’s why nearly all Behemoths came from natural births, but there was also a problem there: finding mating partners. Dragons and phoenixes could lay eggs, making it a lot more consistent and controlled. Eggs took a long time to hatch, but there wasn’t the same element of randomness that natural production leading to pregnancy entailed.
+
+Meanwhile, Behemoths had to mate with another Behemoth and hope a pregnancy would result from it. Sometimes one did, but most of the time, the powerful solitary monsters with Paths revolving around smashing things weren’t the best at settling with a mate for a long time, trying to start a family.
+
+As a result, most Behemoths that had children ended up mating with other races, resulting in beastkin if with an enlightened or some variant of beast if with another monster.
+
+Fortunately, even if the Behemoth fell within this virtual world, the multiverse wouldn’t lose such a rare creature. Not to say Jake wouldn’t dare hunt down a Behemoth in the real world... he’d never claimed to be into conservation, now had he?
+
+It still ended up taking Jake another twenty minutes before he finally spotted something in the distance. He saw flashes of light and sensed many powerful presences, as if a rather chaotic battle were ongoing. Probably because there was a large battle taking place.
+
+When he got a  little closer, he got a better look and saw the three clearly defined factions taking part in the battle. On one side were William, Holstred, and pretty much every other B-grade Administrator besides Lillian, Miranda, Kindroth, and Tramon from the Milky Way Galaxy.
+
+They were currently fighting a mix of random demons and beastkin, and the fight honestly didn’t seem that intense from a distance. William was barely taking part, with Holstred leading the Milky Way’s forces. Instead, the metal mage seemed more focused on two other presences.
+
+Not too far away was a faction of red demons, all bathed in flames, led by what appeared to be an archdemon of some kind. At least it looked like one as it floated in the air, surrounded by orbs of dense flames, not engaging in battle directly but merely watching the biggest threat, a bit the same as William.
+
+Towering above the battlefield, the Behemoth was a monstrous sight to behold as it stood on two legs, floating in the air as it observed the battle below. Its rugged hide and fur were studded with jagged spikes that protruded from its back and shoulders, glinting fiercely whenever it shifted. Each of its massive hands ended in three elongated, razor-sharp claws, capable of rending anything with a single swipe, though they appeared to also somehow be retractable, allowing the monster to punch with blunt force if it so desired. The creature’s imposing presence was clear evidence of its role as an apex being among the United Tribes.
+
+It quite literally looked down on them, flying so far up in the air that Jake knew the resistance was no joke at that height. What’s more, it probably had to bear far more pressure than Jake did on account of its size.
+
+The Behemoth stood at what Jake estimated to be roughly five hundred meters tall, making even the large Tramon look like just a small lizard in comparison. It was a size so huge it appeared detrimental in combat, but Jake knew it wasn’t necessarily so. In fact, based on what he knew, this size could be turned into a massive advantage in battles with smaller foes.
+
+Jake, taking advantage of not being noticed yet, used Identify on the massive Behemoth, confirmed it was indeed one, though to be fair, so did its aura.
+
+[Jagged Edge Behemoth – lvl 358]
+
+Having little insight into Behemoth variants, Jake had no idea if this was considered a powerful kind of Behemoth, but he believed it was in the higher tiers simply due to how powerful it felt. While Jake couldn’t get a completely accurate assessment while the Behemoth was merely observing, he still trusted his judgment.
+
+Turning his attention to the other noteworthy creature present, allowing Jake to confirm he was indeed dealing with a type of archdemon. An Archfiend, to be precise.
+
+[Vermillion Archfiend – lvl 361]
+
+Anything with “arch” in its name tended to be on the stronger side, especially Archfiends. They were pretty much the leaders of the demons, and while they were below the Demon Lords, Demon Lords were such rare existences that Archfiends tended to be the ones in charge in any given situation.
+
+These were definitely two noteworthy opponents, though they didn’t appear super invested in fighting right now. Instead, all sides let their weaker comrades take the front, with even some peak C-grades mixed into the combat. If the true elites stepped forward, these weaker Administrators would quickly find themselves turned into blue motes of light, but some tacit agreement to sit back and enjoy the show had apparently been reached.
+
+For the United Tribes and demons, this probably seemed fine, but Jake quickly realized that of the three sides fighting, the ones from his Territory were definitely doing the worst. Holstred was holding his own, but he was outnumbered, and many of the other Administrators were very much on the weaker side. They were also outnumbered, with several likely already dead. Or, well, kicked out of the simulation for a month.
+
+Jake had truly arrived at a perilous three-way, where the Milky Way Galaxy was clearly the weakest side present... until now, that is. Because when a situation was chaotic, what was better than adding the Chosen of the Malefic Viper to the mix?

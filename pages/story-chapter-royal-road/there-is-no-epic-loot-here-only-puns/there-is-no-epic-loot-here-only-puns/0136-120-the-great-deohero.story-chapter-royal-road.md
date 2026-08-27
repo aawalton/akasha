@@ -1,0 +1,309 @@
+---
+id: b8da746b-751c-5c72-a5a9-8e9c55a31c18
+page-type-slug: story-chapter-royal-road
+title: "120: The great DEO...Hero?"
+slug: 0136-120-the-great-deohero
+partOf: there-is-no-epic-loot-here-only-puns
+position: 136
+ownLength: 4503
+unit: words
+publishedAt: 2020-06-11
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/508867/120-the-great-deohero"
+royalRoadId: "508867"
+---
+
+A prophecy, told to the people long ago, spoke of the tall beings. Those that came from the outerworld. Their very existence made them stand out like red beetle paint against pale wood. Some tall beings had already long disappeared in the distant past. The most well known recurring in many tales was the dark warrior. Unlike their race, a close knit community with minor variants, the tall beings came in many extreme shapes. Some had curving jaws like animals, others had fibres on their head as bright as gold, and some defied comprehension as they donned a truly alien form.
+
+Their language seemed to be a crude version, or perhaps an imitation, of the Great Mother’s voice. Unlike her soothing direct connection, the tall ones used harsh words and volumes to transmit their intent. What exactly that intent was would never be clear, but their actions were sufficient to understand the fundamental aspect.
+
+They sought to challenge their world, perhaps out of pleasure or due to some instinctive drive. They played the puzzles, somehow impressed the brave heart of Sir Fran, and now... some were here once more. Unlike the Dark Warrior or the Burning Gold or the Flowing Ice... these tall beings seemed weaker, unrefined to an extent that made the whispers of the prophecy ring louder.
+
+The thrum started, merely distracted by new steeds gifted to them by the Great Mother. Those would be addressed soon, but the entire grove was gathered in the City. A shuffle of the elder, the first of them all, stepped towards the plateau that overlooked the majority of the city.
+
+He waved a hand as the Priest, the Tinker, and the Fungalmancer stood guard behind him, his loyal advisors.
+
+From his hand spores came out in distinct patterns and with increasing frequency before abruptly slowing. The language of the Deep People was not something anyone could learn, but they also admired the way their demi-gods seemed to be able to converse in the tall one’s languages.
+
+The King, Mushy, was able to even match the tall ones in power and keep them safe. The dark whisperer of Maestro could not be ignored and if the tall ones stumbled upon his dark dream-like domain, their escape was not assured, and the creator child, Missy, spoke rarely but with great wisdom.
+
+The Elder spoke of the Great Mother’s relic. How it was vibrating, a hint that the time of trials was upon them. Their holy duty was finally here.
+
+The Elder waved a hand and intricate spore patterns revealed that the last testing of the gold fire fibres were complete as he looked at the priest, who nodded, her own pattern expressing complex ideas and notions.
+
+Most didn’t quite follow the gestures as the Priest explained how fire was the burning of... air? The Priest was the expert of all things magical and mystical, but she also seemed to draw on a hidden wealth of knowledge from the Great Mother. Usually, this kind of babble came from the Tinker...
+
+The Priest must have seen their cloud of confused spores, because she sighed and simplified her message, her spores making much greater  sense to the viewers. She had discovered a way to use the fibre from the Tall Being of Burning Gold to unlock a hidden potential inside themselves. She was able to tap into the great network of the Mother and saw a path not yet taken for them.
+
+The path of the Purifiers.
+
+The Elder nodded before he turned the conversation back to the main topic.
+
+The Prophecy. The great words that were told to them many, many days ago, passed down by oldest to youngest through spores, taking many hours to spread to the four corners of their people.
+
+The words of the Great Mother.
+
+Only the Elder and the Priest could quite understand it and it’s translation was not quite simple to Spore.
+
+From above comes a great importance. Outsiders from the world beyond, arrive with unforeseeable souls. Reflect them like the moon is reflected on water. They will seek the treasure. Halt them not, but test them so. Kill them not, but slow them so. If they reach the key to the underworld, they must pass because their end is assured. Grieve for them, for they know not their doom.
+
+These words were held with great importance.
+
+In actuality, what Delta had told them was:
+
+“If people come in, treat them like they treat you and if they get the key after passing your non-lethal tests? Just let them go, they’re going somewhere far worse,” then she chuckled nervously and left.
+
+Many of the Deep People had peered inside the sealed chamber. Using their blessed tunnels, they saw the great evil that rested there. The Wither.
+
+Some scholars debated if it was called the Wither or the Whine... no one knows since none dare get close to the Doom and it had become a taboo to mention the Wither outside circles of Delta bloom powder.
+
+A cult dedicated to the Dark Singer would slyly tell others that their dark god and the doom speak like old friends. Since the Dark Singer Maestro was quite popular the cult were, in truth, dedicated lovers of music who walked around with decorations of a single eye, or paint that matched Maestro’s dark design. They even tried to mimic using a cane like the giant singer.
+
+The Elder raised his hands and the public watched with interest as the immortal Elder, Priest, Tinker, and Fungalmancer spoke as one, reciting their prophecy once more. No one knew if they were immortal, but in the ten generations of the Deep People since their creation, these unique beings had not withered and died, returning to the earth.
+
+From above comes a great importance. Outsiders from the world bey-
+
+There was a loud thump and yelp from a Tall Being that echoed through the tunnels that were dedicated to funneling sound as an early warning system.
+
+There was silence and everyone looked to the Elder who was just nodding. A puff of spores showed his slightly nervous energy.
+
+The Prophecy had arrived.
+
+---
+
+Deo licked his lips as he felt a strong craving for cookies or some fried meat. The ride through the jungle had made his odd mood fade and the strange little pig in his arms was exhausted from dragging them the whole way.
+
+He stood up slowly and winced at the way his rump felt after it had been dragged across wild bushes, rocks, and herbs with thorns. He had fallen into some hole and the way up seemed far away, but the image of a soft looking cave with moss and flowers growing in rings all the way to the top where sunlight gently filtered down made the place look really nice rather than terrifying.
+
+Delta was nice like that. She made things nice when she didn’t have to.
+
+“Hello?” he called, feeling the vibrations in his throat as he spoke. He went for gentle and quiet as not to spook anything. He looked down at the cute little pig with a mushroom cap on its head.
+
+“Hello. I’m Deo. Sorry for making you kidnap me. I wasn’t quite myself,” he told the thing and it seemed to be sniffing him. He wondered what it sounded like. Was it oinking? It was making some noise as it vibrated in his arms. He felt a slight shake in the ground and he turned to the source and saw a dark wooden door concealed in the shadows opening down the middle, it swung towards him and split into two doors.
+
+Deo’s mouth dropped open as an envoy of little mushroom people walked cautiously out before three groups burst into twirling dances with long banners weaved from threads and plant stuff! The group on the left seemed to be waving little flags showing the symbol of black mushrooms and mushrooms with light in them joining as one and light firing into the sky. They danced shyly and away from Deo. The right group was mostly a dark mix of purples and elegance. They strode towards Deo with little twigs and bowing in elegant moves, their flags showed a blazing eye above a stick.
+
+The middle group was the strangest, but also the best. Little legs carefully shuffled left and right as they hid inside little jars and pots, making them look like those funny crabs that lived in shells. One jar had a flag glued to their pot that showed a crown on a pot.
+
+Deo began to clap and applaud but they weren’t done! He gaped as something began to weave around the groups. It was like a long sheet with yellow painted mushrooms glued to the back like a giant worm mushroom made of gold that at the very front, a single little mushroom posed with his hands on his hips.
+
+It looked really new and some of the paint hadn’t dried yet.
+
+This was like a surprise event that people stumbled across in dungeons, Grim had told Deo about them! He fished around in his pocket and pulled out a honey soaked coin. He presented it slowly with both hands. The little heroic mushroom took it slowly in return before it held it up with a squeak and ... puff of spores. Deo inhaled slightly and he felt-
+
+Relic...gift...tall...success!
+
+Deo blinked back as he rubbed at his nose as the strange cloud seemed to go right to his head. Mum always told him that he could smell out any flower in the garden blindfolded, he guessed that was working against him now.
+
+Just like when he always knew when his Dad had a drink before coming home or when he could taste when Mum used the cheaper chocolate in her cookies. His senses were top notch! Except for the one that wasn’t.
+
+But Deo always said you should appreciate things you have over those you didn’t! That’s why he loved hugging people when they spoke. He could feel their words.
+
+The puffs were coming faster and he inhaled as they smelled really... orange.
+
+Trial... come for the...maze of... to doom?
+
+It was a mix of many spores and it was slightly confusing. But Deo was smelling... words? He focused and tried to make puffing noises with his mouth and they all looked at Deo for a moment as if waiting.
+
+Deo had one eye closed and was puffing his cheeks as he spoke.
+
+“He...loooo!” he puffed and waited.
+
+---
+
+The Priest watched the strange Tall Being seem to have some sort of inner organ failure.  She conveyed her sadness to those closest.
+
+He was puffless, expected, but it was still sad to see, but she was gifted with the power of understanding Tall Beings, somewhat. She walked closer with the Elder to listen.
+
+Listening with their bodies instead of feeling emotions tinge the air with intent via the spores that entered their body was always uncomfortable.
+
+She leaned in as the Tall Being tried to shrink down to make itself less intimidating. A gesture that would go over well as the hidden spear warriors above in the flowers would have easier access to the back of his neck if this turned out to be a trick.
+
+The young outsider seemed to be saying...
+
+Greetings! She quickly told her people this and they all danced and waved, making the outsider bare its teeth but also with a nod.
+
+She informed her people that bared teeth was like the Great Mother. Friendly, not threatening. The Mother’s always shined her love and affection so her expressions were all so clear, not these beings.
+
+She winced as the being spoke with such force that the spore clouds were momentarily disrupted. It deafened them and caused a moment of disconnect that was quickly reestablished.
+
+The Elder looked to her and she sighed. Right, she had been the one keen to practise the actual speaking part of the Tall Ones. She inhaled and boomed out in her mighty tone.
+
+“We wecamel, tall bean!” she said regally. To most, it would sound like a little squeak that would melt most hearts.
+
+The Tall Being didn’t react at all. She shared a look with the Elder and he looked puzzled. The Priest flushed with spores that showed she was getting flustered. She had been practising!
+
+The Tall Being inhaled then looked strange. He waved a hand and spoke quickly. The Priest stared as his words came slowly.
+
+Do...not...sad...I...hear...not.
+
+It was a terrible translation of his massive speech, but it was the best she could do. Curiously, she sent a direct puff to the being. Usually considered highly rude as it excluded one’s fellow Deep One out of a conversation, she used it now to send a message. Slowly, the Being inhaled through his strange little beak mouths.
+
+Then he spoke back in his own language. He was clearly now trying to select his words carefully. It was almost like he had experience talking to someone who didn’t understand his language.
+
+I...consume...your...song. I...hear...you.
+
+The Priest moved closer, transfixed by this talk with an Outsider.
+
+She puffed and he vibrated back.
+
+Her language and his.
+
+Communication.
+
+I am... Zero? No...
+
+The thing had named itself and she stumbled back in shock as the sounds mostly lined up in direct translation!
+
+This Tall Being was calling itself...Hero! Or something so close to it that even spore talk was making it sound the same!
+
+The Elder frowned and told her it could be Diro or Neo. The Priest was having none of it. The chances of this Being having such a name arriving on the same day as their God of Devouring Evil was too much coincidence!
+
+She turned and spoke to her people.
+
+---
+
+Deo was so happy to be making new friends with these cool little guys. He chuckled as they ushered him into their cool amazing city that was building to the walls of a large underground chamber.
+
+“Thank you... thank you,” he said kindly as various little mushroom people dropped petals in his path or tried to offer berries at him. They directed him to three carved statues of mushroom people that kind of looked familiar and a fourth statue above them of a cursing snake of mushrooms looming down like a scary snake.
+
+“I can wait here for my team?” he asked and the spores were almost dizzying in praise, excitement, and something about... freeing his heart so it revealed its glory?
+
+Ah, they must mean a trial or some test!
+
+---
+
+The Fungalmancer and the Tinker shared a look, privately using direct puffs to share words.
+
+The Fungalmancer was sure they should tell people that Tall Beings did not simply remove their hearts. Tinker scoffed.
+
+Hero was so new they weren’t sure what he exactly was, but the Priest was going overboard.  The Tinker knew the best way to build a trap to actually hurt Tall Beings. Fungalmancer knew how to breed and cultivate both healing and poisonous skills, able to draw on the Great Mother’s knowledge of ‘biology’.
+
+‘Dieology’ the Tinker corrected. For knowing how to kill Tall Beings was the only reason to know this stuff. The Fungalmancer decided not to get into this old argument.
+
+The Tall Being was in danger and the Great Mother would not be pleased, but trying to overthrow the Elder and Priest would basically incite civil war between believers. Harm not didn’t count if this Tall Being would just pop his heart out like Hero and be fine, but trying to convince people that he would die would need proof.
+
+Tinker was most direct.
+
+Just get the Great Mother here to sort it out.
+
+Fungal wanted to push him off the ledge. As if it were so easy. They were group monsters. Their actions only counted as a group and such division might mean they won’t reach the Mother unless they were united.
+
+Tinker, again, was direct.
+
+Then find someone who wasn’t so limited. Leave the City and speak to the Frogs, the great Sea Serpent, the silent ghost, the bees! Fungal was concerned.
+
+Their travelling speed and means of communication made it difficult. The Bees might understand or they’d spend some precious time trying to explain as Priest removed the Being’s heart in some misunderstood way of trying to see his real form.
+
+So, a plant or mushroom being would be better...
+
+The Tinker was almost casual when he spored back his answer.
+
+The Doom would understand them. Fungal froze and then nodded slowly. The Doom would, but would they survive to return? The Tinker was rather blunt.
+
+Their lives meant little. The life of an outsider which they swore not to harm was in danger from their own blind worship. Disappointing the Great Mother was a fate worse than the unknown earth.
+
+Fungalmancer agreed after a moment. They were quick to move as a wreath of golden flowers were placed on the Tall Being’s head with great purpose.
+
+---
+
+Unseen by Grim and an exhausted Kemy, a tunnel opened up and two Pygmy Mushrooms rushed off into the jungle on the newly obtained steed of a Pigglecap.
+
+----
+
+Hero eyed the cloud of wailing despair and sickly fumes. Some sort of ghost or malicious energy that slowly moved towards him like mist. Sets of armour in the hall hissed and melted into pools of silver and rust as it passed by.
+
+Physical attacks and corruption would be pointless here and this thing might actually out-pace his own regeneration if it had him at the center of its mass. He flexed his hand as he had time to call upon the system to relay his information to him.
+
+Hero. Wandering Raid Boss.Conditions: Have a force identified as an ‘Invading Army’ with intent of harming the Dungeon core attack the Dungeon.
+
+This dangerous lifeform is able to infect and corrupt different strains of life to serve his command and turn wasted resources of the enemy back at the foe. This being was created by Dungeon Core Delta with great emotional conflict and deeply wishes for your forgiveness.
+
+Known powers include:Infect body. Infect a body and overtake it for yourself.Alter appearance: Appear as a human or other.Infection: Infect a target with spores and have your will overtake theirs.Calamity Wave: Give up all pretense of humanity and spread endlessly.Inheritor of Delta’s Heart: As blessed by Delta, you-
+
+He smiled as he reread that last line and then rolled his neck.
+
+“Sorry, pal... Someone’s counting on me,” he pointed a hand as coils of mushroom from his mane wrapped around his arm. They began to slowly light up in a mix of light and black light. The deafening peel of air being vaporised sounded out as Hero pushed his hand forward.
+
+The ghost shrieked and Hero twisted as he plucked a mushroom off his back and it transformed into a familiar grey mushroom. In his other hand, a mushroom turned dark red and began to burn.
+
+He threw both and the resulting explosion dispersed the ghost back into the ether. He saw metal suits of armour being controlled by more ghosts marching towards him. He grimaced. They had stopped throwing skeletons and zombies at him and now he had to work with automatons.
+
+Which aren’t exactly corruptible.
+
+With a narrowing of his eyes, his entire back turned into Gutrot Mushrooms.
+
+Save for the exception of the middle most mushroom which burned red. His body shot forward as his heart erupted out the back in an escape motion, quickly spawning new mushroom tendrils. His old body exploded against the rushing metal, igniting the tunnel and shaking the entire fortress.
+
+Without a body he changed up his tactics,eight main tendrils thickened and he became a central  heart, guarded by eight legs, focusing as the drain on his energy was immense. On each knee joint of his new body, a tiny Mushroom Spitter monster formed. The glaring creatures that once upon a time turned into Mushy and Maestro all rotated like turrets to target the surviving armours as their sickly green eyes lit up.
+
+He scuttled up the walls until he was hanging above them and his new monsters began to rain down acid on the metal, melting them as he plowed through the remaining resistance.
+
+Hero moved down the hall with increased speed as a massive door tried to block his path. The acid seemed to make runes light up and just run off. Using protection magic against him now?
+
+Wise, but perhaps too late. He looked around and broke down... reforming into a massive boar with large tusks. He charged and the physical blow shook the door hard and tore open tiny little crack. Hero saw it repair itself and couldn’t be too mad.
+
+After all, if he was allowed to unfairly regenerate? Then he couldn’t be mad when others did it. But it did leave him with a slight dilemma. Or did it...
+
+He frowned as he hit upon a mushroom blueprint Delta hasn’t used outside testing. He shrugged as he was sure it would do the trick,
+
+---
+
+Inside the room, the Bone Commander rattled orders for the mages to keep the spell going. They had to stall the Beast as long as they could.
+
+One of the mages gave a warning of alarm as their channeling magics became erratic. The door that was the target of many protection, warding, and repairing spells was decimated as something continuously ground it down.
+
+A chunk of the door peeled back to show a massive maw of mushrooms and darkness. An unnatural wind sucked at the room’s contents as it pulled the door apart. The darkness was even consuming the ambient light somehow! Mages were drawn in, magic and air followed and even sound.
+
+None escaped the hole in space itself.
+
+The commander slipped and was gone.
+
+---
+
+Hero lowered the tiny little black piggle that was attached to his mane with a thin rope and stared with awe. He held the pig to his own face and smiled.
+
+“I am humbled to know that Delta can end even me if she tries. You are something I cannot fight,” he nodded and felt better knowing he was not unstoppable, as arrogant as that sounded. The pig blinked.
+
+“Oink?” it said back. Hero put it under one arm, not willing to end it so soon. It was good company!
+
+---
+
+Brother was amused. He watched as skeleton bits, parts of a door, and a few other things were shot into the abyss like cannonfire, raining down on his personal space. He melted down everything for mass.
+
+The creature was amusing, but losing mass from his body-world to a blackhole would cause weight issues down the line. Brother did not fancy being a size zero at the end of the day. A slight tweak and boom, it was a wormhole back into the world!  He picked up a skull he had yet to consume and tapped it.
+
+A black heavy sphere floated out of it and Brother held it.
+
+“Tch... its this bad?” he asked aloud. The seed turned slowly, the energy almost hissing at his presence.
+
+“Yeah, yeah... but you thought you’d be safe from us. Idiots, we’re trying to save you. Being part of lil’bro isn’t exactly going to be a fun experience,” he told the seed. The seed from the member of the Silence didn’t answer since it wasn’t actually conscious nor truly sentient. It was what one would consider a cell of a human or beast. A mindless little worker.
+
+And if these followers were cells? Then the leaders and those of Durance would be akin to embryos or clots.
+
+He crushed the seed and slowly, the black powder turned back to inert colourless dust. He focused and the dust shot off into the world tunnels around him.  From one twisted talented mage, four to five average kids would be born. Then again, they could be five amazing kids if genes, luck, and mana got involved, but who really knew?
+
+He eyed the tiny ball of blackness of their brother that was left behind. From parent to child, a seed reproduced, but it was a needy thing, it wouldn’t reproduce if the potential child was weak and once a healthy and potentially strong child was conceived? The seed infected them enhancing their potential to fearful heights.
+
+If two parents had three children and two were normal healthy kids and the third was some strange savant of magic or such? Then that child had inherited the majority of the child seed vs the tiny portion the normal child had managed to absorb by luck. The seeds drove them to constantly seek more challenges, to sharpen their powers, and gather with other infected over time in groups. Most ended up developing strong skills or talents or even new fields of knowledge.
+
+However, most seeds would be taken by monsters or Dungeons over time. The true issue was the Pure Seeds. The strongest remnants of the Little Brother that don’t reproduce so much as jump hosts. These caused people to actually feel the Abyss and the space between. To feel him.
+
+Those were the nutters who formed cults and ended up being a damn pain. Brother sighed,shaking his head. Silence was only alive for a short while but his creations were still making a mess. Pure Seeds felt his hate and madness, they went insane and wreaked havoc, started up groups and gathered ripe seeds.
+
+The whole purpose was to slowly create a whole race of powerful infected humans who would be bursting with ripe seeds and when enough seeds ripened...
+
+A whole new birth would begin.
+
+He sat down in his fishing chair and stared at the large cavern. He closed his eyes and felt his skin breaking as he was mined. He felt his trees and hair being brutally burned or cut for material. He felt pockets of poison seeping into him and making him itch.
+
+He felt that damn tree digging deeper and deeper like a parasite. He felt more and more of himself being lost in shape as Dungeon’s spread more land. Soon, maybe not too soon, Brother would just... vanish. He wouldn’t be himself anymore after his original shape was gone.
+
+Sister was giving more and more to make more Dungeons, establish safe connections to other dimensions where gods and goddesses could be called upon, each connection costing her a mote of her own light.
+
+They were both sad candles giving it all to repent for the fact they were lonely and just wanted a little brother.
+
+He nodded once.
+
+“If you break it, then you fix it. Running away is kind of dickish,” he stretched. Besides, if he did fade, he left a bunch of super critters around the world for people to fight. That should be fun, right?
+
+He felt a tug on his fishing line and began to whistle a jolly tune.

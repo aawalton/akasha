@@ -1,0 +1,127 @@
+---
+id: bb766b44-57b9-56ee-861a-96c8842a2df5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1233 - Dragon Hunter (2)"
+slug: 0105-chapter-1233-dragon-hunter-2
+partOf: the-primal-hunter
+position: 105
+ownLength: 2662
+unit: words
+ownProgress: 2662
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2942548/chapter-1233-dragon-hunter-2"
+royalRoadId: "2942548"
+markedReadAt: "2026-06-29T19:32:35.615Z"
+---
+
+Jake had approached the fight with an abundance of caution, far more so than usual. True Dragons held high esteem in his mind, and he wanted to show one the proper respect he believed they deserved.
+
+His senses also let him know that Yrelstromoz was no doubt an incredibly powerful creature. All of that resulted in Jake not being too offensive and holding himself back despite being able to take things up a notch easily. With his boosting skill running on full power right from the beginning, Jake was roughly at his strongest already, yet he had been cautious and not displayed his full power to avoid committing too much to any attack.
+
+However, Yrelstromoz’s entire demeanor and approach to the fight so far pissed Jake off. His initial attack had indeed been mostly nullified in a very impressive fashion, but everything after that had just been a disappointment.
+
+Just starting with how she looked was stupid beyond belief. Yrelstromoz was wearing a set of gaudy armor. She was a True Dragon. A monster. Monsters and equipment didn’t really mesh, seeing as they couldn’t get stats from equipment, and based on how easily his arrows pierced through it, this wasn’t some special armor specifically made for monsters.
+
+No, it was more like a fashion statement. The armor wasn’t “real” but just there for show. It offered little more function than a nice dress, and the only defensive properties her armor carried came from the energy she infused into it. Just summoning a constant set of barriers would have had roughly the same effect.
+
+Some monsters could have armor with an actual effect – such as Scarlett’s dress of snakeskin – but that armor was essentially part of their bodies and integrated using the Polymorph skill. Yrelstromoz evidently didn’t have anything like that.
+
+Then there was her sword. Again, monsters using weapons could be a thing, but only if the weapon was summoned using a skill or specifically created by the monster. Her current sword was neither and was essentially just a large crystal with a handle attached. A sword that she even wasted time, effort, and resources infusing with energy to make it look cooler.
+
+All of that wasn’t even mentioning how she actually fought. She had no fucking idea how to use a sword; that much was clear. Even if she did know, it didn’t fit her powers at all and would still be incredibly stupid. From everything Jake knew about her, she was effectively a caster, yet she was “having fun” swinging her big crystal sword around, thinking she was playing with some stupid C-grade who tried to bite off more than they could chew.
+
+True, Jake had held back, but for her to still underestimate him like this and believe he wasn’t even worth taking halfway seriously… yeah, Jake was offended to say the least.
+
+So, yeah, he would gladly show her the result of underestimating him.
+
+Yrelstromoz didn’t even notice as Jake’s demeanor changed. Neither did she seem to find it odd when he put his bow away and a katar appeared in both hands.
+
+She wanted a melee fight? Fine, Jake could have a melee fight with her if she so desired. If she didn’t want to take him seriously and use her actual strengths, Jake would respond in kind, with the big difference being that he was more than competent in both ranged and melee combat.
+
+The dragon, who seemingly was still just waiting for Jake to burn out, wasn’t at all ready when Jake stopped retreating and firing potshots, but instead stepped down, only to appear right in front of her.
+
+Her instinctive response was to release an explosion of light, but Jake’s passive barrier from Arcane Awakening, as well as the scales hidden beneath his armor, nullified any damage it could do, not allowing it to stop his momentum at all.
+
+Jake punched forward, striking Yrelstromoz in the stomach as Eternal Hunger pierced straight through her “armor” and into her flesh. The True Dragon’s eyes opened wide, and she tried to pull back and swing her sword, but Jake had already landed another punch in her raised arm before she had any chance to attack.
+
+In a panic, she turned into a beam of light and flew backward, only to have a katar punch her in the back as Jake had easily predicted where she would dodge to, the dragon’s inexperience in actual combat showing once more.
+
+Groaning, she spun around while swinging her sword, but Jake dodged under it and, using a mana platform beneath his foot for leverage, landed a very satisfying high kick to her jaw, sending her flying upwards.
+
+Still not giving her any time to stabilize, Jake pursued, his two katars a storm of cuts and stabs as he gave her no time to rest. Yrelstromoz tried to fend him off, but the only damage she managed to do was emotional as Jake’s disappointment grew.
+
+Jake couldn’t figure out her thoughts at all as he just kept pummeling her. Did she seriously still think Jake was on the brink of collapse? Didn’t she have the ability to properly assess how much damage she had taken? Perhaps she was just a masochist, actually hoping for the sweet embrace of death?
+
+No matter the case, Jake didn’t let up and tore through the True Dragon, her armor peeled off piece by piece, as it broke apart at its seams. Yrelstromoz tried to fight, swinging her useless sword over and over again in between dodging back.
+
+Her frequent flashes of light did little more than annoy Jake, as he was waiting for her to show more. Finally, after nearly a full minute of Jake absolutely dominating, the arrogant dragon seemed to realize Jake wasn’t slowing down.
+
+Right as he was about to land another hit, her body exploded with light once more, with far higher intensity than before. The flash carried a sense of physicality, forcing Jake back, and just as he was about to continue his assault, he found himself forced to dodge as a powerful beam of light shot straight for his head.
+
+“You… who are you!? What are you!?” Yrelstromoz screamed, her level of energy growing. In the very next moment, the sky was filled with orbs of light, giving Jake a sense of danger from all sides. Through the distorted space caused by her odd explosion of light earlier, Jake saw an angry-looking Yrelstromoz pointing a finger down towards him, her body filled with wounds from Jake’s earlier assault.
+
+As for her question, Jake’s only response was to attack again, not believing she had proven herself worthy of an answer quite yet. More than a thousand beams of light shot at him, forcing Jake to teleport half a dozen times before he got close to Yrelstromoz.
+
+Rather than swing her sword, she raised a palm and summoned a magic circle that exploded with another odd light wave that carried physical force. Jake met it head-on, infusing one katar with destructive arcane mana. He punched into the wave, resulting in a second explosion as the two energies nullified one another, allowing Jake to continue his charge and stab Yrelstromoz in the chest with his second weapon.
+
+He landed yet another stab, but one Yrelstromoz had seemingly predicted as six magic circles appeared – one above, one below, and four to each side – all of them teeming with power.
+
+Not even a blink of an eye later, they all flashed, bathing Jake and Yrelstromoz in light that burned into Jake and once more blinded him. Through his sphere, he saw Yrelstromoz’s hands be enveloped in energy and take the shape of claws as she tried to swipe his face, but seeing as he didn’t really need his eyes, Jake easily responded.
+
+With one katar for each incoming attack, he met the claws and stabbed her through both wrists, stopping the incoming attempts to lacerate his face off. Once more, the dragon was taken by surprise, and it certainly didn’t help when Jake head-butted her straight in the nose, breaking it in the process.
+
+She tore her arms loose and stumbled back, sweeping out a hand as a wave of piercing light forced Jake back and even forced him to block so his face wasn’t hit, resulting in a few small puncture wounds on his arm.
+
+Evidently, she could do some damage when given the chance, but Jake had no desire to give her too many chances as he exploded into action yet again.
+
+The two of them barreled through the skies as Yrelstromoz tried to use her magic time and time again, but no matter what she did, Jake either took minimal damage or none at all, while he, in turn, landed blow after blow.
+
+Due to the high tempo of the fight so far, not much time had actually passed since Jake’s initial opening attack, yet Yrelstromoz looked more than a little haggard by now. Her armor had long been bent and broken all over, the sword had been blown away and was probably still tumbling toward the ground below, and the number of wounds on her body was nearing a hundred.
+
+Meanwhile, Jake only had a few burns and puncture wounds here and there from when she landed a minor claw-swipe or laser. Jake could have taken less damage if he had been willing to be less aggressive, but he had no desire to switch up his current approach.
+
+His anger, born from Yrelstromoz not taking him seriously, had far from subsided. Even if she had now switched away from her stupid sword and melee fighting style, she evidently still wasn’t that serious yet despite the accumulating damage. This only made Jake’s anger persist, and it wasn’t helped by another very annoying discovery.
+
+Despite all the poison he had inflicted, Jake noticed that his Dragonsbane Poison wasn’t having any effect. In fact, even if he had injected so much into her system, Jake could barely feel it, and what he could feel was slowly dispersing on its own.
+
+This naturally made Jake worried his Dragonsbane Poison had somehow been crafted wrong or that she wasn’t a genuine True Dragon, but soon he realized he was mistaken. Dragonsbane Poison was made to counter dragons, and Jake’s variant relied in part on infecting certain aspects of a Dragon’s Soulshape that had to do with mobilizing and moving magic.
+
+In other words, for his Dragonsbane Poison to have any effect, the target needed to have the Soulshape of a dragon. He needed her to actually be a dragon and not just in her humanoid Polymorph form… something Jake still couldn’t fucking understand why she hadn’t entered yet.
+
+Was she just going to lose and die without ever assuming her true form? Was she truly that arrogant and stupid? Jake knew the damage she had taken wasn’t just something surface-level that didn’t actually matter. She had lost a lot of health points, and she couldn’t go on like this for too long before the damage to her physical body would begin to hamper her movements.
+
+Jake really couldn’t understand how the mind of this dragon worked, but if she really didn’t want to enter her true form, fine. She would die. Of course, Jake hoped she would respond non-moronically, so he moved to present her with the choice.
+
+After another brief exchange where Jake naturally dominated the tempo, he created a large opening that he took full advantage of as he went for a lethal blow. Deflecting one of her clawed hands, she was left wide open, an opportunity Jake didn’t miss as he attacked with Piercing Fang.
+
+Jake’s katar stabbed deeply into her body, dealing significant damage. Yrelstromoz tried to push him off, but not before Jake unleashed a Venom Burst using Fangs of the Malefic Viper, resulting in a large explosion of pure poison that ravaged through the True Dragon’s system.
+
+She screamed in pain and once more exploded with magic as an utterly massive beam of pure light erupted from her body. Jake tried to dodge upwards, but a second beam was released instantly before he had time to teleport again, forcing him to block.
+
+This wave also carried the concept of physicality, forcing Jake upwards as it seared his body. Gritting his teeth, Jake infused his body with destructive arcane energy and fought back as he stopped himself from being pushed back while dodging out of the beam to the side.
+
+Free to attack once more, Jake erupted into motion as he shot downwards toward Yrelstromoz, who was momentarily distracted by the large festering wound in her midsection. She saw Jake right before he reached her and was about to respond, but Jake was a split-second faster and activated Primal Gaze.
+
+She froze in body and soul, her magic pausing and her defenses dropping, allowing Jake to reach her. Eternal Hunger mercilessly slammed into her face, penetrating through her cheek and out the back of her neck before Jake’s fist and katar handle impacted her face and sent her flying down towards the planet below.
+
+Not slowing down himself either, Jake had already let go of his katar and put his hand around her face as he sped up their descent. While descending, his hand began to glow dark green as he activated Touch of the Malefic Viper, pumping toxins into the True Dragon’s body as they barreled toward the planet far below, passing through several layers of clouds on the way.
+
+Their descent only sped up further as Jake accelerated, pushing Yrelstromoz down as she struggled in vain to free herself. Before she managed to, they blasted through the final layer of clouds, revealing the ground below mere moments before impact.
+
+Jake smashed Yrelstromoz’s head into the rocky planet like a meteor, causing an impact that could be detected even on the other side of the globe. A gigantic crater formed around them, and the canyons and mountains all around were destroyed as a result, creating a deep bowl-shaped arena for what was to come.
+
+Still grasping her head that had a katar sticking through it, Jake looked down and made eye contact with Yrelstromoz, who stared up at him with the one eye that hadn’t already begun to rot away. Jake was ready to continue his assault and had expected to see a mix of disbelief or maybe even fear in her eyes… but instead he saw a look of recognition.
+
+“You’re the Chosen of the Malefic Viper,” she said with a mouth full of blood, her voice oddly calm and devoid of doubt, making it clear it definitely wasn’t a question, merely a statement of fact.
+
+Jake was about to respond, but he didn’t get the chance as his danger sense warned him. Without hesitation, he shot backward, and just in time as a beam of light descended from the heavens onto Yrelstromoz.
+
+Recalling Eternal Hunger, Jake stood ready as he felt a change from within the beam of light.
+
+“I would apologize for failing to recognize you, but seeing as you attacked me, I think we’re way past that,” Yrelstromoz spoke, her voice growing slightly deeper with every word. “Knowing who you are… fighting you with all of my power would not be a dishonor.”
+
+After a final flash of light, the beam disappeared, revealing a True Dragon standing where it had once been. Her entire body was lined with muted yellow scales that reflected the sunlight, her two wings stretched as if she hadn’t taken this form for a long time, and her aura had reached a new level.
+
+What also immediately struck Jake was the complete lack of wounds in her true form, but as Jake felt the remnant mana emanating from the magic she’d used on herself during the massive light beam, he remembered something else rather important:
+
+The Lumenflight was also known as the Dragonflight with the best healers.

@@ -1,0 +1,387 @@
+---
+id: b318ad9f-c6da-5bc8-adcb-3946b42e6ca1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 - Using Death As A Whetstone"
+slug: 0002-chapter-2-using-death-as-a-whetstone
+partOf: the-stubborn-skill-grinder-in-a-time-loop-book
+position: 2
+ownLength: 5944
+unit: words
+ownProgress: 5944
+publishedAt: 2024-03-19
+link: "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/1559937/chapter-2-using-death-as-a-whetstone"
+royalRoadId: "1559937"
+markedReadAt: "2026-06-29T20:04:06.648Z"
+---
+
+Orodan wouldn’t be caught unaware this time. Yes, he was up against an archer a whole tier above him, but that only made the prospect of success all the sweeter.
+
+Scarmorrow was the closest town to Ogdenborough. Orodan’s hometown had no temple of its own, so those seeking faith and assistance from the Cathedral of the Prime Five would often venture here with the local temple in mind. The town was well-off and otherwise rather peaceful, with the exception of rumors of the disappearance of some children a month ago. But the Cathedral had resolved the issue quickly and kept the matter hush.
+
+He exited the Temple with his sword and shield drawn, ready for combat. Even then he just barely saw the great arrow coming in time. He put his shield in the way and braced for impact with all the strength he had.
+
+The difference between Apprentice and Adept was not only a numerical one, but a qualitative one as well. As one progressed further along the road of mastery each skill level at higher echelons became dramatically more impactful.
+
+The difference between Sword Mastery 9 and 10 for example wasn’t anywhere near the difference between Sword Mastery 35 and 36. Each level of the skill was qualitatively more powerful at the higher end of the scale. To that end, the benefit in raising a group of a hundred conscripts to level 10 in Spear Mastery was considered pathetic versus raising a talented warrior from level 35 to level 36 in the same skill.
+
+And the qualitative difference between Orodan’s 24 Shield Mastery and his assassin’s 50+ Archery Mastery made itself known painfully as the great arrow pierced right through his shield and it was only a last-minute movement to the side that allowed him to merely lose the use of his left arm as the great arrow cleanly dismembered it.
+
+[Shield Mastery 24 → Shield Mastery 25]
+
+Gains could be made even in failure.
+
+Orodan’s new Pain Resistance skill was paying off, as even level 1 allowed him to mostly take the edge off a frankly debilitating amount of pain. He cursed and dashed into the same alleyway in-between two houses and had his sword at the ready in his right hand.
+
+As expected, the assassin dropped down into the alleyway from above and this time drew double daggers which they were dual wielding.
+
+Orodan put up a decent enough struggle with one arm, but the difference between an Apprentice and an Adept was a harsh reality. He received a dozen stab wounds within the span of a second, most of which he couldn’t even react to.
+
+Martial skills in tandem with Physical Fitness and Combat Mastery elevated warriors beyond the level of the average person. The untrained civilian could perhaps deliver one or maybe two quick strikes a second. He could deliver and react to four, maybe five or six blows a second if he truly tried.
+
+Against the assassin though, a dozen a second was almost double his speed and he stood no chance in a trade of blows, yet.
+
+As he fell to a knee while holding his throat and gurgling on his own blood from the stab wound in his throat, Orodan once again mustered as much rage and bitter, spiteful willpower as he could and attempted to lash out and fight as hard as he could.
+
+[Sword Mastery 35 → Sword Mastery 36]
+
+[Dying Struggle 1 → Dying Struggle 2]
+
+[Bleeding Control 1 → Bleeding Control 2]
+
+[Pain Resistance 1 → Pain Resistance 2]
+
+Two dozen more stab wounds later as he was about to have his vision darken and the loop reset, he got an interesting message.
+
+[New Skill (Rare) → Unyielding Vitality 1]
+
+With the acquisition of the skill, he felt a bit of invigoration. Not enough to stave off death, but enough to be noticeable. Whatever vitality his body held, whatever blood flowed through his veins, he felt as though it extended further. He could now push his existing vitality harder and get more out of it.
+
+The coup de grace stab to his head sent him to the darkness where he saw the Quest failure message.
+
+A keening wail ringing in the night sky awoke him and Orodan clenched his fist and decided he would die as many times as necessary in order to defeat this opponent.
+
+That damned archer would be the whetstone that Orodan would sharpen himself against.
+
+***
+
+For the sake of saving time and getting to the fight as soon as possible, Orodan’s loops now consisted of blitzing through his routine as quickly as possible, Sprinting to the Temple and proclaiming loudly that he was a prophet who had a vision of the battle of Ogdenborough and promptly leaving.
+
+Somebody in the Temple was an informant for House Argon and in the know, but he just couldn’t narrow it down to who it was. Even if he spent no time inside the Temple at all after making his proclamation, he’d always be met by the assassin right outside the Temple.
+
+The next five attempts went similarly, although he did make gains in his skills across the board. Any attempts to target the flask of acid on his enemy’s belt like he somehow managed the first time, were a no-go. Partly because the assassin wasn’t nearly so careless when Orodan was armed and ready to trade blows in melee combat, and partly because Orodan was a warrior who refused to take the easy way out, even if it was against a superior opponent.
+
+He was stubborn and refused the easy way out.
+
+The tenth loop onwards was when the assassin started taking him seriously and went all out right from the get-go. Maybe it was the fact that Orodan’s Sword Mastery had reached level 40 and his Shield Mastery had hit 30, but the assassin no longer toyed with him and instead fought to immediately kill him.
+
+Ten loops of struggle had netted him more gains than he’d ever experienced in his life. A part of him wasn’t sure if he was just a natural talent who shone when exposed to true struggle, or if life and death battle was just that good at bolstering his understandings of combat.
+
+This was also the point where Orodan felt that he was starting to remember and learn his opponent’s fighting style and moves. That, and his increasing skills, signified a benchmark where he was able to start barely trading blows with the man for brief moments at a time without dying. Even if he was on the losing end of these exchanges.
+
+Unfortunately, the sudden display of competence did not make the assassin happy. Given the man’s choice of sending a great arrow at him to start with every time, it was no surprise that the daggers he fought with were not his specialty. So, this led to the man suddenly leaping backwards and deciding to return to peppering Orodan from range as befitting an archer.
+
+Furthermore, running into the alleyway for cover wasn’t as viable an option when the assassin was serious.
+
+Great bows were powerful weapons of war, and a great arrow fired from one was more than capable of piercing through multiple houses when fired by an Adept-level archer.
+
+It was however, great practice for Unyielding Vitality, Pain Resistance and Bleeding Control, as the archer treated him like a porcupine and blasted holes in him from a distance.
+
+The fifteenth attempt had an interesting message for him.
+
+[New Skill (Uncommon) → Perfect Parry 1]
+
+It was the result of somehow managing to perfectly deflect one of the assassin’s great arrows in such a way that even though it carved a streak of damage across his shield, it didn’t outright pierce it for the first time and instead the projectile was deflected, and its trajectory veered off to the side.
+
+The county militia’s equipment wasn’t bad. It was decent enough by Apprentice-level standards. But his shield wasn’t capable of standing up to a great arrow from an Adept level archer who could pierce multiple buildings in a single shot. The materials were far too shoddy for that.
+
+Still, this was another hallmark moment from where on Orodan began to occasionally Perfect Parry the great arrows of his foe.
+
+A few attempts were ended early as he mistimed the skill, but he started getting a better handle on it as the attempts went on. Plus, this was the first active combat skill Orodan had learned.
+
+Passive skills were the backbone of a warrior, but what separated the average from the great, even within the same tier, were active combat skills. Two warriors could be equivalent in all else, but one who possessed an active combat skill would win nine times out of ten. Active skills were simply too much of a difference maker.
+
+This alone right now, could see him transferred to Trumbetton, to the headquarters of the county militia. They were always on the hunt for talented warriors, and someone with the Perfect Parry skill would qualify as a talent worth raising. It was an Uncommon rarity skill too!
+
+Many battles and much death went by. Twenty-nine loops passed.
+
+And on the thirtieth loop he gained another skill when he decided to sheathe all his weapons and tried purely dodging the great arrows right from the start of the fight.
+
+He dodged to the left and actually avoided the oddly curving great arrow for once.
+
+[New Skill (Uncommon) → Evasiveness 1]
+
+Unfortunately the next one got him, but at least he’d acquired the skill. In subsequent repeats he received more than a few great arrows to the face in attempting to grind the skill.
+
+Finally on the forty-third attempt, he managed to get an interesting reaction out of his killer.
+
+For this attempt Orodan had already displayed his improbably good melee combat prowess and caused his training partner to leap away and begin the ranged peppering phase of the fight.
+
+Unfortunately for the man Orodan’s ability to Perfect Parry his great arrows alongside his Evasiveness skill meant that for the first time not a single one of the thirty great arrows the man fired managed to touch him.
+
+A part of what led to this great result was Orodan genuinely knowing the man’s projectile speed and firing patterns inside out by this point. It wouldn’t be so easily replicated with anyone else. But Orodan still felt proud of himself for the accomplishment of evading every one of an Adept-level archer’s shots while being merely an Apprentice himself.
+
+“Hah! You’re out of ammunition! Now come down here and fight me like a man!” Orodan yelled as he pointed his sword tauntingly at the assassin. A mad grin on his face.
+
+The cowardly archer didn’t feel the same way however and because his feelings were undoubtedly hurt, he decided to be a spoilsport and throw the flask of acid he had on his hip for the first time.
+
+Orodan evaded the flask, but not the explosion when it touched the ground.
+
+[Pain Resistance 18 → Pain Resistance 20]
+
+And as his flesh melted and he practically began disintegrating, Orodan reflected that it was a new and entirely unpleasant sort of pain which he wasn’t capable of properly feeling the first time around.
+
+***
+
+It was now the forty-forth attempt and Orodan was determined to teach this man a lesson.
+
+As he set foot outside the Temple he almost automatically stepped to the side, making sure to move an extra inch to account for the archer’s ability to influence the arrow’s path while it was mid-flight.
+
+He used Perfect Parry on the following arrow with minimal damage to his shield and then quickly ducked into the alleyway between the two nearby houses. In the initial phases of the fight, the archer never took Orodan seriously enough. Consequently, until he revealed his strength, the assassin wouldn’t begin firing through houses to kill him and would instead be open to humoring his mark in what should’ve been a one-sided melee.
+
+The assassin dropped to the ground in front of him shortly after and drew his two daggers.
+
+A furious melee ensued.
+
+Sword and shield met dual daggers. Attacks were blocked, footwork was maintained to keep him at optimal range, and for once Orodan managed to actually trade blows evenly for the first time. He almost felt as though he could push him back if the exchange went on. The assassin’s dual daggers met with Orodan’s sword and shield in a blitz of blows that caused powerful winds to erupt outwards from the collisions. A sign of a battle between two Adepts.
+
+Which was incredible, as he wasn’t an Adept. Not quite. Yet, he could still hold his own against one despite being a tier lower.
+
+The speed difference between him and his opponent was no longer as great as before. While the assassin could launch a dozen strikes a second, Orodan could now launch ten a second himself. And the remaining gap was bridged by his use of a shield and the Perfect Parry skill at opportune moments to seriously throw the man off-balance.
+
+Strictly speaking, Orodan wouldn’t claim to be better than an Adept, but he knew the archer’s moves over more than forty loops of battle. And he was a sword-and-shield wielding warrior up against a dual-dagger wielder. A natural advantage in a trade of blows as the shield guarded him and his longer sword afforded him a reach and power advantage. He also had an active combat skill, something the archer seemed to lack. Altogether, he was capable of jumping a tier to fight this foe.
+
+Soon, Perfect Parries followed by shield bashes began to wear his opponent down and at a critical moment Orodan lashed out with a fist which connected crisply on the man’s jaw.
+
+His Physical Fitness was now at 31 due to the constant battles and physical exertion. How it carried over across repeats, Orodan did not know, but he was appreciative of it.
+
+His punch backed by 31 Physical Fitness and 28 Unarmed Combat Mastery, despite the gap in numbers between them, still sent the man stumbling backwards due to the clean hit, and soon enough the assassin decided to back off and decide he was going to play by what he was good at.
+
+The man leapt onto the roof and drew his bow.
+
+Great arrows began to fly towards Orodan, however each one was calmly and methodically deflected via Perfect Parry or simply evaded. Soon enough, out of frustration the assassin decided to throw the acid flask at Orodan.
+
+And in return…
+
+…Orodan decided to throw his shield right at it.
+
+[New Skill (Uncommon) → Shield Throw 1]
+
+As soon as he threw the shield, he didn’t bother waiting to see the result. He dove away to cover as a loud shattering and hissing noise rang out and a deadly looking green smoke erupted. The smoke wasn’t too contagious and lazily drifted down to the ground where it settled into a thick liquid which chewed through more than a foot of the dirt road before it lost efficacy. His shield was utterly disintegrated of course.
+
+“Now get back here and let’s finish this fight!” Orodan yelled as he angrily waved his sword.
+
+The assassin was taken aback and remained silent for a moment before speaking.
+
+“Are you really that same rat Orodan Wainwright who would ask for beatings every day in the plaza?” A grizzled voice asked, and it confirmed that this archer was definitely one of House Argon’s enforcers.
+
+“One and the same! Now get down here and face me like a warrior! Let me show you that you messed with the wrong kid back then!” Orodan declared, but to his utter surprise the assassin simply clenched his fist and shook his head.
+
+“I don’t know how the hells you got so strong… but you won’t live long you damned street rat, nobody in this stupid town will,” The man proclaimed and then… leapt away.
+
+Orodan took a second to do a double take at the absurdity of how the situation ended, and then attempted to give chase.
+
+“Hey! Get back here! You owe me a conclusion to this battle!”
+
+A fruitless endeavour as the assassin had Adept level abilities and while Orodan might have fought him to a standstill and prevented his assassination attempt, chasing him down while having inferior levels in skills was another thing.
+
+“Damn it! I’ll get you next time!” Orodan roared and swung a fist at a nearby stall, breaking it in half. His Physical Fitness had come a decent way since the beginning of his attempts at beating that cravenly archer.
+
+He mentally called his Status screen forth.
+
+[Name: Orodan Wainwright
+
+Age: 17
+
+Title 1: Sword Apprentice
+
+Available Titles:
+
+One Who Has Experienced DeathShield ApprenticeCombat ApprenticePhysical Apprentice
+
+Skills:
+
+Unyielding Vitality 11 (Initiate - Rare)
+
+Perfect Parry 21 (Initiate - Uncommon)Evasiveness 18 (Initiate - Uncommon)Dying Struggle 14 (Initiate - Uncommon)Shield Throw 1 (Initiate - Uncommon)
+
+Sword Mastery 46 (Apprentice)Shield Mastery 37 (Apprentice)Combat Mastery 32 (Apprentice)Physical Fitness 31 (Apprentice)Unarmed Combat Mastery 28 (Initiate)Cleaning 27 (Initiate)Pain Resistance 20 (Initiate)Laboring 18 (Initiate)Bleeding Control 17 (Initiate)Sprinting 16 (Initiate)Club Mastery 15 (Initiate)Maintenance 8 (Initiate)Repair 7 (Initiate)Thievery 6 (Initiate)Intimidation 6 (Initiate)Deception 4 (Initiate)
+
+Blessings:
+
+Warrior’s Heart - Increased talent and learning rate for all warrior related skills as determined by Agathor]
+
+Let it not be said that Orodan’s stone-headed approach to brute forcing an issue didn’t have results.
+
+Three new uncommon skills and a rare skill; alongside many skill increases which made him an apprentice in Shield Mastery, Combat Mastery and Physical Fitness. Hells, he didn’t even know that Uncommon and Rare skills had their own little section on the Status until now.
+
+It just took dying over forty times.
+
+Orodan took a moment to reflect on the fact that his life had just changed immeasurably. Previously he was a hard worker with slightly above average talent, but now with the ability to time loop and all these skills, he had essentially changed his lot in life within the course of a day’s worth of battle altogether.
+
+Unless one had a Blessing, a Bloodline, or was a supreme talent, advancing from a fresh Apprentice at 30 to nearing the Adept-level threshold of 50 at the mid-40s was something that took at least a year of dedicated training for the decently talented; and many years for the average person. And Orodan had just crossed that gulf within fifty attempts, via the circumstances that let him loop.
+
+Nobody else could match this insane rate of learning, and if people knew how fast he could grow in skill… they might be willing to kill him or worse. Life and death battles were widely agreed upon as the single best way to raise skill levels, however it was incredibly risky, and the rate of skill gain was commensurate with the danger to oneself in these battles.
+
+Coddled rich youths attempting to kill slimes and goblins with someone overseeing their safety experienced growth rates slightly higher than regular training. Whereas soldiers who survived hellish battles and situations often came back with incredible gains which changed their lots in life. Such was the System which governed all aspects of life upon their world.
+
+But who could dare to consistently train the way Orodan did? For him, dying meant nothing as he’d just reset back to being awoken by harpies in the deep night. So, having almost fifty life and death battles within the course of a single day and dying in forty-three of those fights held no consequences.
+
+In fact, right at this moment based on his talent and age alone, Orodan could leave the Volarbury county militia behind and apply to the Capital Guard or an academy. While not at the level of a prodigy, he would certainly qualify as being called a very good talent if he were to undergo the examination right now for the average academy.
+
+But was that even what he wanted? To merely be a great talent in an average academy?
+
+No.
+
+Orodan’s ambitions extended higher than simply attending an academy. Maybe one day once he had resolved the issues of this calamitous day, he’d think about sitting down and attending classes in a structured environment. But an academy lacked the edge of death and real experiences that were allowing him to advance so quickly now.
+
+He changed his active title to Combat Apprentice, and for the first time in forty-four loops, moved on from the damned Temple.
+
+***
+
+Orodan managed to make it to his local barracks in Ogdenborough with time to spare before roll call. Physical Fitness was a skill that naturally lagged behind by ten to twenty levels for almost everyone but the most insane of people. And even Orodan who was considered a very hard worker with a high level in Physical Fitness wasn’t exempt from this.
+
+But having 31 Physical Fitness now made running between towns dramatically easier for him. The additional two levels he gained in Sprinting during his battles against that Argon archer-assassin now made what was a half-hour’s travel, into a sprint he finished in less than ten minutes.
+
+He went straight for Sergeant Woodgard’s office and knocked on the door.
+
+“Come in!” a man barked from inside.
+
+Orodan walked in and saw the man swamped with paperwork and looking rather stressed.
+
+“Sergeant, I’d like to report a crime, sir,” Orodan said and stood at attention.
+
+“What the bloody hells, Wainwright! It’s Liberation Day, a half-hour before shift and you want to put more on my plate?!” The man barked, but not with any real venom. He then sighed and continued. “Well? Out with it.”
+
+“On the way back from the Temple in Scarmorrow this morning I was attacked by an enforcer of House Argon who tried to kill me. I managed to fight him to a standstill and get away, but I overheard something about a plot of theirs to smuggle Guzuharan raiders into Volarbury County via the tavern at Eversong Plaza,” Orodan finished, and he noticed the Sergeant’s face getting redder by the second.
+
+“So that was you?! Wainwright, why the flying fuck are you fighting the men of a noble house in another town?! Do you understand how much work you’ve created for me?! I’ve been hearing reports about that fight for the last half hour!” The man roared with spittle flying from his mouth. He then calmed himself for a moment and spoke more calmly. “But… eyewitness reports are conflicting as the county militia got there well after the fact. Some reports say it was an Adept-level fight, some are saying it was at least high-level Apprentices doing battle. So… care to explain why you’re coming to me claiming to have fought off someone that’s on the cusp of reaching Adept-level at least?”
+
+“Sir, if you pull out the Observer orb, I can show you,” Orodan calmly explained, and to his credit Sergeant Woodgard stopped his usual angry tirade and simply pulled the orb out, seemingly interested in what he was about to see.
+
+Observer orbs were commonplace. It was the artificers’ solution to making the common Observe spell that diviners and nobles used available for widespread use. It was a technological innovation widespread across the continent and beyond. As long as the individual voluntarily placed their hand on the orb, the reading would show up on a mana-powered display.
+
+Orodan placed his hand on the orb and after a moment the readings began to display. Titles and skills were what was displayed. Available titles were not shown only the ones someone chose to display. And neither were Blessings, although any competent diviner, or a priest of the relevant divinity could detect Blessings if in close proximity to someone.
+
+“Alright… now let’s see here…” Sergeant Woodgard muttered and began to look through the display. And then he promptly froze.
+
+He remained silent and his face made a range of different expressions before he finally spoke.
+
+“Combat Apprentice?” He quietly asked in the most subdued voice he’d ever heard from the man. “Apprentice level in Shield Mastery and Physical Fitness too? Three Uncommon skills and a Rare skill? Two of which are active combat skills…”
+
+“Yes sir,” Orodan happily replied, although he wouldn’t deny he was feeling at least a bit smug and enjoying Sergeant Woodgard’s reaction and complete change of demeanour.
+
+“This is…” He stopped for a moment to gather himself. “Your last examination at the Observer orb was over a year ago when you first signed up with the county militia… and your skills, while promising, weren’t anywhere near this at the time.” Sergeant Woodgard slowly spoke, almost taking care not to talk out of turn.
+
+Truthfully, to Orodan while this was initially amusing, it was now slightly awkward.
+
+Sergeant Woodgard was essentially now treating him as though he was a superior that couldn’t be spoken down to.
+
+Which… in a sense wasn’t an unwise attitude. Orodan used to be the second strongest member of the barracks, but now he currently was the most powerful person by a ridiculous gap. He could legitimately fight against an Adept level combatant and hold his own given all his skills, and the active combat skills he had.
+
+In fact, only the nearest mounted unit might have individuals that could beat him one-on-one at this time. And not just the rank and file among them but the mounted unit captains who were Adepts would be needed to take him on.
+
+But most glaring was his Combat Mastery skill, sitting at 32, which gave him a massive advantage over most people at the same level. Combat Mastery was an amplifier type skill which determined someone’s combat instincts and how good they were at fighting in general.
+
+It governed technique, instincts, reflexes and an understanding of the flow of combat. It was an amplifier on almost everything a warrior had available to them in a fight. And most people at the Apprentice level were lucky to have it exceed 10. Even Orodan originally having it at 11 was considered quite excellent in the context of the militia and indicative of his rough upbringing.
+
+The world was bigger than just the Volarbury county militia however.
+
+But 32? Level 32 Combat Mastery alongside everything else shown on the display?
+
+Sergeant Woodgard did not want to offend such an individual. And he certainly believed Orodan now about his earlier claim about fighting a near-Adept level member of House Argon. And if he knew the truth, that he’d fought a full-on Adept level individual, he’d tread even more carefully.
+
+“Well then… allow me to congratulate you. I’ll immediately put in for your transfer to Trumbetton, they’ll likely want to sponsor you for entry into the academy in Trumbetton given your talent and age. You can take the rest of the day off… fully paid of course,” Sergeant Woodgard said, with a very deferential tone of voice.
+
+“Thank you, sir, but I’d like to remain on-shift and assist with today, particularly with the matter involving House Argon I just spoke of,” Orodan replied.
+
+Sergeant Woodgard nervously bit his lip and seemed as though he wanted to pull his little remaining hair out.
+
+As much as the Republic of Aden claimed to be a… republic; the Volarbury county militia were primarily funded by and under the authority of House Firesword whose base of power was in Trumbetton, the largest town in Volarbury County. And the leadership of every barracks in the county knew that Burgher Ignatius Firesword, the head of the noble house, was a seeker of talent who expected the county militia to deliver all talented youth to Trumbetton where they would be assessed and sent to academies or placed under apprenticeships as suitable.
+
+It was a decent system which led to a good life for aspiring youth, where if they displayed exceptional talent in the martial arts they would be sponsored to enter a martial academy and serve the Volarbury county militia in a specialized unit, or serve House Firesword directly depending on the needs of the House.
+
+And Orodan’s talent would be considered great even within an academy. So the Sergeant was truly nervous about allowing Orodan to risk himself doing even simple patrol work. Especially now that the Observer orb had been used and records were automatically sent to the Militia Headquarters in Trumbetton. The Sergeant would be under heavy scrutiny for not immediately delivering such a talented youth to Trumbetton for a better future and superior tutelage.
+
+“Look… this is genuinely above my paygrade. If I don’t immediately take you off the roster and put in for you to go to Trumbetton, I’ll be in big trouble. Please be reasonable… surely you’re aware of how talented you are for your age? Can you not see how badly I’ll be disciplined if I don’t immediately send you to headquarters for further examination?”
+
+This was without a doubt, the most awkward situation Orodan had been in. Sergeant Woodgard, the man whose face went red with spittle every time he roared orders at militia… was actually speaking softly and pleading with Orodan to understand his position.
+
+Orodan sighed.
+
+“Alright sir, I’ll agree to the transfer,” he replied.
+
+He truly didn’t want to put the Sergeant in a miserable spot, so he quietly agreed to the transfer. Plus, although his warrior spirit protested avoiding the fight… him being near Eversong Plaza in this loop was tantamount to committing suicide, and it would drag the county militia into a potential fight as well. His own death was one thing, but to see his troop harmed by association didn’t sit well with him.
+
+House Argon undoubtedly knew that their enforcer had failed to kill him and they now knew who he was.
+
+Frankly, it was truly lucky that he even survived the run back to Ogdenborough from Scarmorrow without any other enforcers trying to go after him.
+
+Showing his face in Eversong Plaza this loop would just end in him being killed on the spot as there were way too many enemies present and House Argon already showed that they had no issues acting publicly and trying to brazenly have him murdered right outside a Temple.
+
+***
+
+Orodan was in the back of a rather nice-looking horse drawn carriage, with members of the mounted unit flanking him on multiple sides as they rode for Trumbetton.
+
+The escort was sent in by the Trumbetton headquarters of the Volarbury County Militia who diverted an additional troop of ten riders specifically for his escort. Apparently once they received the transmission of his Observer orb readings, they immediately insisted on it.
+
+The ride was smooth, and the members of the mounted unit were oddly respectful with an accompanying captain who was an Adept-level spearman introducing himself as Keharion Taj; saying he looked forward to working with Orodan in the future.
+
+Talent really did change everyone’s tune.
+
+Orodan wondered for a second why the county militia would waste such resources on simply transporting a private like himself and then recalled that training even one talented youth to the level of an Elite was worth more than training a hundred Adepts. And given Orodan’s current skill levels and the Blessing he hadn’t even disclosed yet… becoming an Elite was definitely in the cards across his lifetime. And this was without factoring in his ability to go back in time.
+
+Noon went by and the announcement came and went, with the battle of Ogdenborough undoubtedly being underway.
+
+Orodan had done his best to inform the mounted unit of his ‘prophetic vision’, and they passed the message onto the headquarters of the militia at Trumbetton. And the reaction was… nil?
+
+Nothing changed in the response of the militia, their patrols weren’t stepped up, and there was no impact whatsoever. Which Orodan found highly suspect. There was undoubtedly foul play involved. Either House Argon or maybe even House Firesword in Trumbetton was in on it?
+
+It was an hour since the announcement and surely the battle had been won by now?
+
+Suddenly, Orodan felt a tremor, and the horses did too as they bucked and were terrified.
+
+And in the distance, many hours away, Mount Castarian… moved.
+
+And the peak of the mountain which Orodan thought was massive enough, shifted as something emerged and wore the peak atop its head like a mere cap.
+
+Multiple metallic arms pulled themselves free and Orodan watched on in amazement and wonder as whatever this machine was, it was almost divine in nature.
+
+It had a humanoid face, and finally stood tall appearing like a humanoid metal golem, except, as tall as a small town’s length as its head went past the cloud layer.
+
+It was utterly gigantic at a scale Orodan had never seen before.
+
+It had a brilliant red jewel on its forehead, and it began to glow very ominously.
+
+And then it flashed red.
+
+A wave of approaching red destruction was the last thing he saw.
+
+[Quest Failed → Battle of Ogdenborough - You have died]
+
+***
+
+A keening wail ringing in the sky awoke him.
+
+[Quest Bestowed → Battle of Ogdenborough - Defeat the Novarrians and their allies as they attempt to activate and commandeer the ancient war machine beneath Mount Castarian]
+
+He brushed past the quest messages that showed themselves and simply thought to himself…
+
+“…so that’s the ancient war machine the Quest talks about.”
+
+It was an unpleasant fact to learn that the Republic would always lose, and the war machine was fated to awaken without any intervention.
+
+It seemed there was no escaping the day until this Quest was resolved. Yet, Orodan had absolutely no idea how to go about fighting such a thing which was bigger than Mount Castarian to the point that its head broke through the cloud layer.
+
+Orodan doubted even a group of the Republic’s rumoured Master-level combatants could bring that thing down. He was starting to understand why a Quest had been bestowed upon him in relation to this machine’s awakening. In the history of the continent the times Quests were issued to certain remarkable individuals was when the very sanctity of the world was somehow threatened, or a great disaster would befall the people.
+
+It was just hard to think of himself, the Apprentice-level warrior as being of the same cloth as one of those great and remarkable individuals who the world bestowed Quests upon in history. But then again, he had seemingly infinite tries to get it right. Orodan had heard of nobody else with such a strange ability.
+
+He was a bull-headed individual with a propensity towards violence and straightforward solutions, and it seemed as though this situation truly was tailor-made for someone like him. The stories that the matrons would read to him had scheming and smart individuals who would undoubtedly try to plan, gather allies and maximize their odds of success via diplomacy in these situations.
+
+Orodan unfortunately, was not one of those individuals. His pride wouldn’t allow it and he genuinely believed that the only way to complete this Quest was brute force and personal power.
+
+And on the note of his personal power and advancement; he had already advanced to the point where he could fight off a low-level Adept and survive against them. The archer-assassin outside the Temple in Scarmorrow was beginning to provide diminishing returns near the end.
+
+So, it was time to find new foes to sharpen himself against. And Orodan knew just the nearby town to spend the next many loops doing so in.
+
+A nearby town full of the troops of House Argon.

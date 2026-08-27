@@ -1,0 +1,129 @@
+---
+id: 6c2a708b-5a51-54f3-8405-981b1e41b471
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1246 - The Concept of Death"
+slug: 0118-chapter-1246-the-concept-of-death
+partOf: the-primal-hunter
+position: 118
+ownLength: 2685
+unit: words
+ownProgress: 2685
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3005291/chapter-1246-the-concept-of-death"
+royalRoadId: "3005291"
+markedReadAt: "2026-06-29T19:34:15.183Z"
+---
+
+“Then I guess I shouldn’t disappoint,” Casper answered with a smile as he began walking towards the in-construction Grand Labyrinth. His steps were slow and steady at first, but after a couple, a familiar dark energy began emanating from his body right as he disappeared.
+
+He reappeared in the distance, having used some kind of movement skill. Once there, he crouched down and touched his hands to the ground while speaking, and after a solid minute, he got up again, threw Jake a glance, and used his movement skill yet again.
+
+Jake had already activated his Unseen Hunter skill by now, so while Casper could still see him due to already being aware of his presence, the B-grade Casper was about to engage wouldn’t be able to.
+
+He watched with interest as the Risen picked out his target and raised his hand to summon a large black wooden stake, which emanated curse energy. Jake didn’t question that Casper still used wooden stakes, as hey, if it worked, it worked.
+
+Casper took aim at one of the Construction Golems that was more isolated than the others, and without further ado, he released his attack. It flew straight for the B-grade robot, which only managed to react at the very last moment before getting hit.
+
+He’s got a stealth attack skill… yet he didn’t bother with a powerful opening strike, Jake noted. He didn’t believe this was because Casper didn’t have any better way to start the fight, so he guessed this was part of the Risen showing off what he was capable of.
+
+The wooden stake slammed into the golem, smashing it into the ground as the stake exploded into splinters that embedded themselves in the metal body of the B-grade. They didn’t actually penetrate the metal exterior, but simply phased into it as if they had, making Jake guess that these splinters weren’t physical in nature, but closer to fragments of pure curse energy.
+
+This initial opening attack didn’t seem to have done much damage, though, as the golem was quickly back on its feet and located Casper. Without any hesitation, it sprang towards the Risen with impressive speed from what looked like spring-loaded legs.
+
+At the same time, its arms also transformed into weapons. Well, more construction tools, really. The right hand turned into a spinning drill while the left became a pickaxe, both tools perfectly capable of also serving as weapons, though Jake did question how these two were useful when constructing a labyrinth well.
+
+Not wanting to waste mental energy in thinking about stuff like that, Jake kept watching as the golem approached Casper. As it flew towards him, the Risen summoned black stakes around him and shot them towards the B-grade, landing several, though it looked like they didn’t do much besides embedding more of these black splinters.
+
+Casper quickly began retreating as his foe got closer, continuing his barrage of attacks that did little to slow down his foe. Being a golem made of metal, this construction worker surely had a high level of toughness, despite being a bottom-tier B-grade, leading Jake to question whether Casper was struggling to do any meaningful damage. He also wondered exactly how the Risen would overcome the fact that curses tended not to work very well on things like golems and elementals.
+
+Fortunately, he would get his answer soon, as Casper retreated straight back to where he’d spent a minute setting something up earlier. The golem naturally continued simply to chase after him, even shooting a few laser beams on the way to try to stop its foe, though it was clear that the construction golem had little going for it when it came to ranged combat.
+
+When it went above where Casper had made preparations before, the Risen finally made him move. He stopped and placed his palms on the ground, and just then, a magic circle lit up under the B-grade.
+
+A restrictive force stopped its movements as Casper’s body exploded with an odd turquoise energy, and behind him, a projection of a female ghost appeared. The magic circle also took on the same color as the energy Casper and Lyra released before it started funneling into the golem, which had its flight stopped in its tracks, as if suspended in zero-gravity.
+
+All the small splinters absorbed the ghostly energy and began glowing, before suddenly, all at once, they all explosively grew into full stakes. In an instant, the Construction Golem turned into what looked like a very failed attempt at the Sword Box magic trick, where someone had forgotten the box and switched the swords for wooden stakes.
+
+However, upon closer inspection, Jake realized these stakes weren’t physical. They were ethereal and had a ghostly aura, making Jake frown as he began to think the attack hadn’t proven as effective as he first thought. Perhaps he was right, but what happened next let him know that this was most certainly still a bad time for the B-grade.
+
+The golem tried to move, but as it tried to reach forward, its arm instead distorted weirdly before folding at a one-eighty angle, breaking it in the process. The same happened with its leg as the body of the golem warped and broke, its limbs twisting and distorting as Casper controlled the magic circle.
+
+Unfortunately for the Risen, he wasn’t capable of finishing the B-grade that easily, as it erupted with energy as its feet transformed into what looked like thrusters that then proceeded to shoot out fire down into the magic circle, exploding it.
+
+Casper looked more annoyed than perturbed as he quickly raised his hands before putting them down again… only for a second magic circle to appear, this one shooting up a ghastly light before equally ghostly chains shot up to wrap around the golem.
+
+The golem tried to escape as it increased the output of its thrusters, and as it did, the chains started breaking one by one, but Casper had evidently only tried to slow it down temporarily anyway, buying him time to make a follow-up attack. Or, more accurately, for Lyra to make a follow-up attack.
+
+His locket began glowing again as the full body of his ghost girlfriend appeared. She emerged from Casper’s body after floating behind it before and shot towards the golem. As she did so, Jake also finally saw what kind of monster Casper was harboring, and her aura was enough to make Jake frown slightly.
+
+Stronger than I expected, he noted, and upon using Identify, he realized how she could appear so strong.
+
+[Blightwraith – lvl 349]
+
+It seemed that Casper was holding Lyra back and not the other way around. Seeing her at this high level did confuse Jake, though, as he’d assumed there would be some restriction limiting her level to Casper’s own or something similar, but evidently, that wasn’t the case.
+
+Then again, Jake admittedly had no idea how the bond between Casper and Lyra worked or how it was even possible. He knew that Lyra essentially counted as a guardian of Casper, meaning she didn’t register as her own individual when it came to things like dungeons or system events.
+
+In that vein, it was reminiscent of beast masters or certain other classes that could have a limited number of creatures under their control. A tamed beast naturally still had its own Truesoul and existed as an independent creature for the most part, but this kind of existence always came with severe restrictions.
+
+Progress would be tied to the master in the relationship, and perhaps most importantly, should the master die, so would all creatures tied to them. That’s also why targeting the summoners or beast masters themselves tended to be the best strategy when taking them down.
+
+Of course, there were also those who didn’t form that kind of bond with their companions. Those with relationships closer to the one between Jake and Sylphie, where they simply worked together and, over time, developed skills that worked in concert with one another. Thinking about it, this seemed to be the kind of Path Hawkie and Mystie had chosen to go down.
+
+Whatever was going on with Casper and Lyra didn’t really fit into what Jake knew. She was both one with Casper and yet entirely independent. Moreover, from what Jake understood, she was actually bound to the locket around his neck, with the locket itself then being bound to Casper. So, there was a degree of separation there.
+
+This separation seemed minor as it was just one extra step, but Jake wondered if that didn’t mean Lyra could potentially live on even if Casper died. Moreover, perhaps it meant that it would one day be possible to separate herself from the locket and become a fully independent entity.
+
+Obviously, Jake could only speculate about all these things, and as he did, he had to remind himself why Lyra even existed. The Blightfather, the Primordial who had created the entire race of Risen and was known as the God of Death, had personally created the locket and “resurrected” her. For a Primordial to create something Jake couldn’t even begin to understand was only, well, understandable.
+
+Shaking his head to get all these distracting thoughts out of his mind, Jake decided to just enjoy the show as Lyra closed in on the restricted Construction Golem. Jake was watching carefully to see what she would do or what kind of attack she would unleash, but rather than do anything flashy, she simply flew into the golem… disappearing.
+
+Jake frowned before he understood.
+
+Bold… but effective.
+
+The golem’s body instantly began emanating a sense of decay, and as it still struggled to get free of the chains binding it, death came for it. Its body began to rust and corrode as parts of it fell off, the chains tore into its body as its metal turned brittle, and the energy it gave off started dwindling at a rapid rate.
+
+Despite everything, the B-grade continued struggling, but there was no escape when the attack was quite literally coming from within. Lyra had directly entered the body of the golem, turning herself into pure energy that encompassed everything.
+
+Casper, for his part, stopped channeling energy into the magic circle as he stood up with a sigh. Cracking his neck, he held out his hand and summoned a long wooden stake that may as well have been a simplistic spear.
+
+He walked toward the golem that was slowly being destroyed by Lyra, and when it noticed him, it jumped to attack the one tangible target within its reach. It erupted with the last of its power, but Casper gladly met it as he stabbed his spear-like stake into the ground, angled toward the charging golem.
+
+Jake saw the Risen smile as the Golem flew straight toward the sharp tip of the stake. From the looks of it, the B-grade tried to dodge, but Jake guessed Lyra messed with the golem, making it unable to avoid impaling itself.
+
+The stake easily broke through the brittle black and rusting metal as the B-grade was stabbed right through the head and skewered out its back. Right then, Lyra also exited the golem, Jake scanning her as best he could.
+
+Consumed a lot of energy, that one, Jake noted. Entering the B-grade’s body had indeed been bold and quite energy-inefficient. Lyra had essentially turned herself into a toxic mass of energy that entered the body of the golem, destroying it from within. A strategy that had worked well on a golem like this with a weak body and soul, but if she tried the same thing on Jake… yeah, she wouldn’t like Jake flooding his own internals with destructive arcane energy. She would definitely do some solid damage, but in the end, would likely be able to do more using other ghost magic methods.
+
+It barely needed to be mentioned, but the B-grade was well and truly dead after impaling itself, and Jake watched as the rest of its body fell apart into rusty bundles of metal.
+
+After confirming their success, Jake took a step as he teleported towards them, and shortly, he appeared in front of the two.
+
+“Not bad,” Jake said with a smile as he couldn’t help but go over and poke the pile of metal with his foot. It crumbled even more at the mere touch, all material integrity entirely gone.
+
+“Thank you, and sorry for not properly introducing myself earlier,” Lyra answered as she bowed her head. “I would shake your hand, but, you know.”
+
+Jake chuckled a bit and shook his head. “A pleasure, and it sounds like you’re taking good care of Casper. I know he can be a handful.”
+
+“Hey, I also take care of her,” Casper protested, crossing his arms. “Anyway, any deeper thoughts on the fight?”
+
+“It seemed a bit too easy for you two,” Jake praised the ghost and Risen pair. He knew that Casper continued to grow in power and that, with Lyra by his side, he also had certain unique advantages of his own, but he still surpassed Jake’s expectations with how easily they had slain a B-grade, even if it had been a weak B-grade.
+
+“I won’t lie and say it was hard,” Casper shrugged.
+
+“I guess that title of Ghost King wasn’t entirely unwarranted,” Jake said with a small smile. “Though I do have one question. When killing that golem, I naturally noticed plenty of curse energy, but besides that, I mainly detected death affinity magic. This may just be me speaking from ignorance, but it seemed way more effective on a non-living entity than I thought it would be.”
+
+Casper looked at Jake a bit as he considered the question. “Yeah, I would say you’re pretty spot-on when you said you may be speaking out of ignorance.”
+
+Jake was very tempted to punch the guy in the throat, but luckily for Casper, his girlfriend saved him just in time.
+
+“Death is a far more complicated concept than merely being the antithesis of life energy,” Lyra explained. “Death is both a state of being and a transformative process. Yes, while it’s true that the most common expression of death is through the layman’s definition of the end of life, the concept is far broader than merely that. It’s the process of something ending, changing into a state of nonexistence. Death is when stars burn out and disappear, when a river evaporates and turns into a canyon, or when metal rusts and corrodes, turning brittle before eventually falling apart. In some ways, you can say death is not only the transformation of life, but the transformation of existence into a state of death. Compared to many other concepts, it just happens to be primarily focused on erasing the one thing all entities share that allows them to be classified as alive: souls.”
+
+Jake had expected a brief answer that would leave him with plenty of follow-up questions, but instead, he got a far more in-depth explanation than he’d imagined. It definitely gave him some food for thought, though it still left him with some questions.
+
+“If death is the end of existence, how come undead beings can even exist?” Jake asked, knowing this was definitely a far too complex question for C-grades to possibly know the true answer to.
+
+Casper looked in thought for a moment, and as Jake was fully prepared for another semi-joking answer, he got a very genuine one that also allowed the Risen to get around knowing the answer to something that complex himself.
+
+“While I would love to sound as knowledgeable and insightful as Lyra, I’ll just parrot what my Patron said instead: the Risen are not dead; we are undead. Beings who once met death, embraced it, and found existence after the fact. But being undead still means we are susceptible to death. That we exist. We are not immune to the concept; nobody and nothing is. Everything can die, even the gods and Primordials, and one day, perhaps even the multiverse itself shall experience the true finality of death.”

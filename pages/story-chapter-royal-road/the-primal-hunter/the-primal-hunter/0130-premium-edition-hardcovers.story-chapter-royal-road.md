@@ -1,0 +1,25 @@
+---
+id: fd5f8036-1fb6-536e-b390-708315a407bc
+page-type-slug: story-chapter-royal-road
+title: "Premium Edition Hardcovers"
+slug: 0130-premium-edition-hardcovers
+partOf: the-primal-hunter
+position: 130
+ownLength: 226
+unit: words
+ownProgress: 226
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3063580/premium-edition-hardcovers"
+royalRoadId: "3063580"
+markedReadAt: "2026-06-29T19:35:06.348Z"
+---
+
+As a few of you have hopefully already knew, today is the launch of the long-awaited Collector’s Editions of books 1-3 of The Primal Hunter, which is now live on BackerKit, along with tons of exclusive items. Stickers. Enamel pins. Standees, and a lot of other stuff. Signed and numbered editions will be available. Books 1-3 are going to be bound in hardcover, sewn in, with deluxe sprayed edges and on archival-quality paper. Pretty much the goal was to go for quality to actually make them worthy of being called premium editions.
+
+The campaign will also host objectives as “boss fights”, and there’s a squishy, huggable creature in it for everyone if those objectives are met. One of those marketing things on the platform to give this project flavor, I’m told.
+
+Link: https://www.backerkit.com/c/projects/vault-comics/the-primal-hunter-deluxe-collector-s-box-set?ref=zogarthcrew
+
+ALSO: If you are subscribed to Patreon, there are some extra bonuses. To obtain them, you must:
+
+Finally, I want to thank you all for your continued support, and I hope this campaign becomes a great success. I know many have asked for something like this for a long time, so hopefully it goes well. Plus, the better this does, the bigger the chance is that we can do a follow-up with more books. Oh yeah, I've also done a Reddit AMA today if anyone wants to give that a look. Link: https://www.reddit.com/r/litrpg/comments/1r74y6f/hey_rlitrpg_im_zogarth_author_of_the_primal/

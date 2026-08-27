@@ -1,0 +1,121 @@
+---
+id: bec06068-a77c-528e-a1da-2b3d4ed58bdc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1319 - Reflecting On Questionable Diplomacy"
+slug: 0193-chapter-1319-reflecting-on-questionable-diplomacy
+partOf: the-primal-hunter
+position: 193
+ownLength: 2615
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3444301/chapter-1319-reflecting-on-questionable-diplomacy"
+royalRoadId: "3444301"
+---
+
+The “proposal” by the Great Sea Serpent lingered for a while, and the limit of a year where Jake would still remain confined to the Minor World seemed to reassure all the other A-grades present, making them all back down.
+
+Which left only one person remaining with the possibility of protesting.
+
+“What say you, human? Do you agree, or offer an alternative that all can accept?”
+
+Jake was honestly unsure if the Great Sea Serpent was genuinely asking Jake if he agreed, or if this was just another semi-rhetorical question that one really couldn’t say no to. He didn’t think the peak A-grade would just kill him outright if he refused, but he also had no intention of pissing him off while still not knowing what the serpent’s endgame was.
+
+However, he also didn’t want to come off as too meek or subservient, as that would only hurt him later. There were certain lines that he would never allow to be crossed, and he sure as fuck wasn’t going to let them think that anything even vaguely reminiscent of a Soul Contract was ever going to fly.
+
+So, after thinking for a while, Jake nodded slowly.
+
+“One year... and I hope everyone will have wised up during that time, and won’t actively try to end the existence of this world through their ignorant actions,” Jake said in a slightly scolding tone, taking a lot of pleasure from the Lich and a few other A-grades clearly not liking being spoken to like that. But what were they gonna do with the massive Great Sea Serpent watching over the situation?
+
+Agreeing to a year also wasn’t going to cause any problems, as Jake truthfully only had to hold on for roughly two months before he would be able to leave for the Seat of the Exalted Prima Chief Administrator event. Hopefully, he would find a way not to return to where he’d entered from through that event.
+
+Even without the event, if given some freedom, he believed he would be able to set up a ritual circle that could help him escape through the void with Villy’s help. It was a risk that the Great Sea Serpent could somehow recognize the nature of the ritual, but sometimes one had to take risks, and the chances of that happening were quite low. The ritual to teleport through the void was too complex for even a peak A-grade to understand, and Jake still had no bloody clue how the ritual worked; he just knew how to put it down, as if tracing another person’s drawing.
+
+Of course, these two options assumed that Jake would have to escape at all. While the Great Sea Serpent seemed to act selfishly and also intended to make use of Jake, it was still a snake, and Jake was still the Chosen of the Malefic Viper. Getting the peak A-grade fully on his side should be entirely possible... assuming he wasn’t already.
+
+Because Jake also got the feeling that Villy could be involved in all this somehow, or at least that the Great Sea Serpent knew more about Jake’s identity than it let on. There was an undertone in its words that was a bit too respectful, even for someone wanting to make use of him. He didn’t want to read too much into that and presume things he shouldn’t, but the scenario of the peak A-grade already being an ally was certainly a possibility.
+
+“Thus, an agreement has been reached. Over the next year, converse with those who lead, discuss possibilities, and when the time comes, let us reconvene with wisdom.”
+
+The entire world seemed to move next as the massive body of the coiled-up snake that surrounded them shifted, its dark orange, almost brown, scales still filling Jake’s vision to all sides, making him wonder if he was even seeing the actual physical body everywhere, or just a barrier that appeared identical to scales.
+
+“Human, as per your consent, you shall accompany me now. Do not resist, and have my reassurance that you shall emerge safely at our destination.”
+
+In the next moments, Jake felt a pull that he knew he could resist. Yet he also knew that the only reason he could resist it was due to the Great Sea Serpent allowing him to.
+
+Knowing there was nothing to be gained from resisting, Jake allowed himself to be whisked up as he disappeared from the entrapment of powerful A-grades and into... the belly of a massive snake?
+
+Jake suddenly found himself within what looked like a large circular chamber entirely made of scales. Even the floor was one giant scale, with the dome-shaped ceiling naturally just as scaled.
+
+Through his sphere, Jake quickly realized that he wasn’t actually in the physical stomach of the Great Sea Serpent, but instead some kind of internal space. Beyond the scaled walls, Jake saw only dense energy and a mixture of spatial concepts, making him believe that should he break through the wall of scales, he would likely be forcibly expelled into the real world. That was how these spaces tended to work, after all.
+
+This “stomach” gave Jake the vibes of Sandy’s, but far inferior in concept. Sandy essentially had a collection of small Minor Worlds within their stomach, while this was far simpler. It didn’t even feel that secure, and he wouldn’t be surprised if most high-tier A-grades could relatively easily break out. Of course, to Jake, there was no way out, and he was completely and utterly trapped and at the mercy of the peak A-grade.
+
+Right then, the voice of the serpent echoed within the chamber.
+
+“Recover for now, and we shall speak when you are revitalized.”
+
+Having nothing better to do and not enjoying the sensation of a damaged soul, Jake sat down and crossed his legs as he meditated to recover more quickly. Fortunately, the sacred rarity skill was quite overpowered even in B-grade, and it rapidly mended whatever damage the Horned Slayer had inflicted. Also taking into account how much harder it was for A-grades to heal themselves, the Venusian had definitely come out of this worse for wear.
+
+Still, it would take at least a day of fully focused meditation for Jake to be back in top form, and that was a very optimistic estimate. With his eyes closed, Jake fully entered the state of meditation and severed all other sensations, also choosing to take this time to reflect on everything that had gone wrong.
+
+It was pretty damn clear, based on how things had gone, that Jake had massively fucked up with his approach in this Minor World. Throughout, he’d believed things had gone pretty well, as everywhere he went, people were friendly and willing to work and talk with him, but now he realized that was only because they saw his usefulness. They saw him not as a person, but more like a living opportunity.
+
+With that perspective, it made sense why they needed to somehow control this opportunity. It was far too risky to let it run free and do whatever it wanted, especially when the opportunity also posed a potential danger.
+
+He also had to remember the kind of beings he was dealing with. All these A-grades were definitely old, at least thousands of years old, if not tens or even hundreds of thousands of years. They also lived in a world where they were close to the peak of power, and even if they could try to understand the concept of something far more powerful than themselves, they couldn’t fully, no matter how much they tried.
+
+Also, despite what Jake said, they still saw him as just someone who’d barely made it to B-grade. From the Archweaver and partly the Shaman, it was clear that there was a culture of appreciating talent and those with potential, but it was far from the level of the rest of the multiverse. There weren’t the same norms and culture that placed limitations on how one could deal with those considered talents, either. Instead, the Venusians and Arachnecs had both shown a clear willingness to send far more powerful members of their race to cause a slaughter, even targeting those significantly weaker.
+
+Finally, and perhaps the most important reason why Jake had fucked up... he’d relied too much on status. On his status as an Envoy that could lead them beyond the Boundary, and then later on, he’d tried to leverage his status as the Chosen of the Malefic Viper, which again hadn’t worked, as they couldn’t fully comprehend what that meant, no matter how much Jake tried to explain. Also, even if they could understand, why would they believe a newly evolved B-grade saying that he had the backing of a being capable of wiping out their entire world? It sounded almost like a childish lie in retrospect, and while they had confirmed this was the truth through the Venusian capable of telling if he lied, that only meant it was Jake’s interpretation of the truth. Not a fact.
+
+Logic dictated that even if they killed Jake, they would have to compensate his faction to some extent, assuming they truly sought revenge. Surely, they wouldn’t simply move to wipe out an entire Minor World just because of one B-grade?
+
+Of course, the plan had never been to kill Jake, and that had definitely seemed like an absolutely last resort. The terms they had offered were likely even considered incredibly generous from their perspective, and the price he’d had to pay was extremely low, having to only show up on a set schedule while helping bring them beyond the Boundary.
+
+They couldn’t possibly imagine the level of offense Jake would take to what was, in their eyes, probably a very reasonable proposal. One that was even temporary. Jake would just have to help them out for a few years while getting plenty of benefits, making it all worth it for him.
+
+But reality was that Jake would never sign anything limiting his own freedom. Especially not a Soul Contract. They could spin it however they wanted, but he would rather die than ever give up something so fundamental to his being. Even if he wanted to compromise, Jake knew, deep inside, that if he ever did so, it would compromise his entire Path and likely even mean that godhood would be out of the question for him in the future. And this was even if he ended up getting free of the contract in the future.
+
+Jake continued to consider everything that had gone wrong and considered reaching out to Villy, but in the end decided not to. The snake god hadn’t reached out to him either, which made Jake feel more and more that the Great Sea Serpent’s appearance had something to do with Villy.
+
+Time passed, and after roughly thirty hours, Jake had finally managed to heal his soul to an acceptable level. Full recovery would still end up taking at least another week, during which he could fight mostly normally, but overusing his boosting skill or taking more mental attacks could quickly lead to problems. Unfortunately, these kinds of small lingering soul injuries just had to heal with time, showing one of the few downsides of getting stronger.
+
+The soul simply got harder and harder to heal, and the knowledge that the Horned Slayer would likely spend at least a few years with lingering issues did bring some comfort. Jake’s recovery speed as a B-grade was already incredible, but that was only to be expected from a sacred skill.
+
+Opening his eyes, Jake stood up and stretched, naturally still finding himself confined. As expected, his movements instantly caught the attention of the massive serpent that had swallowed him.
+
+“Your recovery is remarkable. Surpassing any being I have seen before.”
+
+Jake didn’t say anything to that, despite feeling like bragging about his great meditation skill. That kind of behaviour hadn’t served him well, so he chose to only speak when he really had to.
+
+“Wariness is healthy. Required for survival. But you have my word that you can relax. Now, would you like to return to the world outside once more?”
+
+One thing Jake had noticed was that the Great Sea Serpent had never done anything directly related to Jake without asking permission first, perplexing him a little, but also strengthening his belief that this peak A-grade knew a lot more than he let on.
+
+As for his response, Jake nodded in agreement, and on cue, he felt his vision shift as the massive snake spat him out.
+
+In the next moment, Jake felt solid ground beneath his feet. He also immediately felt that the environment had undergone a massive change. Jake was standing within a cavern entirely devoid of the poisonous mist usually filling the Minor World, though that didn’t mean there were fewer toxins all around him. Far from it.
+
+The level of toxicity was far more intense within the cavern, having improved more in quality than in quantity. What’s more, Jake felt it enter his body through his scales and was incredibly easily absorbed, Palate having a feast every single moment Jake spent there.
+
+With a Pulse, Jake scouted his surroundings, and at first, he thought he was inside a tall, upside-down mountain or something, but soon he realized. To the sides, beyond the walls of stone, was a dense liquid that filled everything, and even with his max range, he couldn’t even begin to see the surface.
+
+In other words, he was likely now somewhere deep beneath the ocean he’d heard so much about. A fitting den for a Great Sea Snake.
+
+He also discovered something else as he spread his senses. Turning his head, his gaze met two orange eyes that somewhat resembled his own, though his were decidedly more bestial, while the snake’s were unsurprisingly more reptilian.
+
+“You detected my presence, even when I did not intend for you to. A feat I would believe impossible, but with the existence of the multiverse, perhaps I should broaden my horizons significantly.”
+
+Only a few dozen meters away was the Great Sea Serpent, now shrunk down to be less than fifty meters long, also allowing Jake to finally get a good look at the peak A-grade. Its dark orange scales looked almost bronze now, perhaps due to the natural lighting from glowing crystals lining the ceiling of the cavern, and the serpent’s body was decidedly simple.
+
+He just looked like a big snake, not much different from a pre-system serpent, just bigger.
+
+Having taken a moment to fully get his bearings, Jake responded as he nodded. “Every single native of this Minor World will have to if they want to survive the world beyond the Boundary.”
+
+“Yes... indeed we will,” the Great Sea Serpent said as it looked at Jake while remaining coiled up. “But I have said enough, have I not? I can see you have questions. Ask.”
+
+Jake did indeed have a lot of questions, but he was also reluctant to ask, as anything he did ask would inevitably reveal information that could potentially be used against him. So he really wanted to ask something that wouldn’t reveal too much. After a bit, he ended up settling on something that shouldn’t reveal too much, if anything at all.
+
+“How did you learn of what was happening at the Boundary?” Jake asked carefully.
+
+The Great Sea Serpent looked at him for a moment before seeming happy with his question. “Yes. That is the right question, and hopefully my answer can help alleviate your justified caution. Even if my explanation may not be satisfactory. Perhaps you’ll even find it nonsensical.”

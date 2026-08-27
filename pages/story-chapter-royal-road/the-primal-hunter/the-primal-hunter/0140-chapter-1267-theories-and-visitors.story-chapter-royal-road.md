@@ -1,0 +1,165 @@
+---
+id: 5eee159f-cce9-54f9-8101-ff9a70b799b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1267 - Theories & Visitors"
+slug: 0140-chapter-1267-theories-and-visitors
+partOf: the-primal-hunter
+position: 140
+ownLength: 2953
+unit: words
+ownProgress: 2953
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3112172/chapter-1267-theories-visitors"
+royalRoadId: "3112172"
+markedReadAt: "2026-06-29T19:34:44.199Z"
+---
+
+Jake’s Race Evolution Quests had always been a big mystery, as it implied he wasn’t entirely human. All creatures born in the multiverse by natural conception had a natural grade at birth, determined by the power of their parents.
+
+For something like high elves, it was C-grade, and for a child to be born naturally at that grade, the parents needed to be one grade higher. So two C-grade high elves would give birth to a natural D-grade, two B-grades would give birth to a natural C-grade, while both A and S-grades would also cap out at producing a C-grade child.
+
+The peak races of the multiverse, like True Dragons, were born as natural B-grades and required two A-grade parents. Meanwhile, humans were solidly a mid-tier race in that regard, with their highest cap being D-grade. In other words, no matter how powerful a human’s parents were, the child would at most naturally grow to D-grade after birth.
+
+The way to tell that a person would naturally grow to a parent-determined grade was through them passively gaining experience just by being alive... and the lack of evolution quests.
+
+This was a hard rule with no exceptions. At least not until now.
+
+Jake knew both his parents, and he could confirm they weren’t secretly at a higher grade. Moreover, while Jake didn’t get any evolution quests, he didn’t quite fit the description of someone naturally of a higher grade.
+
+He didn’t get any passive experience just from life, but had to level up like any other human. This in itself should shut down the theory that Jake was naturally of a higher grade from birth... yet the lack of a Race Evolution Quest was also definite proof he was indeed of a higher grade naturally.
+
+There was no doubt that this was an unprecedented situation, and he was very interested to also hear what the Viper thought, considering the Primordial surpassed Jake in every aspect when it came to the system and how it worked.
+
+“So, we both agree that this is obviously linked to your Bloodline, right?” Villy asked.
+
+“Can’t see it being anything else,” Jake nodded in confirmation.
+
+“Yeah, no, me neither. Anyway, while you definitely know your Bloodline better than I could, I believe the source of these lacking evolution quests stems from your ability to manipulate Primeval Origins,” the Malefic Viper began.
+
+“Using this energy, you can spark growth in Records of other creatures, potentially allowing them to evolve to never-before-seen variants of their race. Just a bit of this energy is enough to have a profound impact on another’s soul and Path, which got me thinking... out of everyone, who’s the most affected person by your Primeval Origin Energy?”
+
+Jake couldn’t help but smile as he and the Viper clearly had thought on the same track as he answered. “Me.”
+
+“Precisely. You’re under constant passive influence from your own Primeval Origin Energy, and seeing as it can cause growth in Records and create variant evolutions for other creatures, why should you be any exception? In fact, shouldn’t the impact on your own Path be far more noticeable than anyone else's? I believe it indeed is, and your evolution to C-grade proved it, as while you evolved as a human, you didn’t exactly evolve as a standard human, now did you?”
+
+Jake continued to nod, the Viper still right on the money with what Jake was also thinking. He recalled that upon evolving to C-grade, he had indeed received a system message he doubted any other human had ever seen, at least not with their race name remaining simply ‘human’.
+
+“Congratulations! You have successfully managed to evolve into C-grade as a variant evolution.
+
+All future potential variant evolutions will be blocked due to Origin.”
+
+Unlike Jake’s Evolution Quests, this system message wasn’t vague at all, but made it extremely clear that Jake had become a variant evolution of a human and that he couldn’t get any other variant evolution in the future.
+
+However, despite this clarification, Jake didn’t think many things made sense at the moment. He was a variant human, yes, but at the same time, he was also just a human. His stat gain, level pace, and everything else made it clear he was a human. Even other skills referred to him still being a human, and like all others of his race, he had to pick a Path skill – the one where he picked Path of the Hunter – when he evolved to C-grade.
+
+So, while Jake indeed wasn’t what Villy referred to as a “standard human,” he still very much remained human. Perhaps more human than anyone else.
+
+“Yet despite being a variant evolution that’s seemingly at a naturally higher grade, you don’t show any of the traits usually seen in those cases. No one can tell that you aren’t just a standard human, not even Valdemar, who’s deeply connected to the Records of humanity, which means I can conclude that you are indeed just a human. At your core, anyway,” Villy continued, putting into words much of what Jake had thought about.
+
+“This oddity made me consider that maybe you aren’t actually a being of a naturally higher grade. You are essentially just a regular human with a very minor mutation that’s not even recognized enough by the system to have any effect as you progress through the grades in a regular fashion. Instead, I believe this variant evolution only affects something at the core of your Truesoul,” the snake god kept theorizing as Jake remained very interested in hearing what the Primordial concluded.
+
+“Then, for the big question, why don’t I have any evolution quests?” Jake asked with a raised eyebrow.
+
+“See, that is the tricky part, but my theory is that while you weren’t a variant evolution that was naturally a B-grade the day you evolved to C-grade... the same isn’t true now. In fact, it only came true earlier today when you reached level 349,” Villy shared his theory.
+
+Jake was silent for a moment before he smiled and chuckled. “Great minds do indeed think alike.”
+
+“You saying that feels like an insult to me, but sure, continue that thought. Do you agree with my little theory?”
+
+“I do in broad strokes, yeah. As we also both agree, the causing factor of all this is clearly the Bloodline, which brings us back to one fascinating trait of my Bloodline that, despite studying Bloodlines a lot, I’ve not seen any mention of. Something that, when I casually mentioned it to you way back in the day, you told me to never speak out loud to anyone,” Jake said, but before he could continue, Villy cut him off.
+
+“Don’t say it out loud; we both know what you’re talking about. And yes, I also believe that the two are intrinsically tied together,” the snake god said, his tone quite serious.
+
+Jake nodded, the Viper not even wanting Jake to say it, confirming that the Chosen and Patron were indeed thinking of the same thing.
+
+During the many talks Villy and Jake had, the thing Jake remembered the Viper being the most stern about Jake never mentioning to anyone was what happened with his Bloodline upon evolution.
+
+As Jake evolved, Jake’s Bloodline also evolved, expressing itself by granting him more Perception. The mere fact that Jake’s Bloodline gave a percentage boost to a stat was already something the snake god found unprecedented, but the fact that it evolved was what Jake and Villy both seemingly believed was intrinsically tied to Jake’s weird variant race.
+
+Bloodlines naturally grew with a person as they evolved, but it didn’t evolve. It didn’t change. Jake’s Bloodline, on the other hand, was capable of evolving and improving itself as Jake also grew stronger, which was the clue that made Jake and Villy reach the conclusion they did:
+
+His Bloodline and, by extension, Jake were both in a constant state of evolution. With every level, the Bloodline moved a tiny step closer to evolution. When Jake reached the peak of a grade, it finished accumulating all the Records required to once more evolve alongside Jake himself. That was why Jake didn’t get any Evolution Quests... because by the time he reached the peak of a C-grade, his Bloodline had already made his race grow to a variant race that was naturally of a higher grade.
+
+At least, that was the working theory. It would be a bit funny – and incredibly saddening – if this theory were immediately shut down upon Jake evolving without his Bloodline following suit, but Jake really couldn’t see that happening.
+
+“I guess all there’s left to do is actually evolve,” Jake said, concluding his and Villy’s little theory-discussion.
+
+“Indeed. On a completely unrelated note, when you return to the Order of the Malefic Viper, both Duskleaf and I would like to have a little chat with you,” the snake god said.
+
+Jake was momentarily confused until he quickly realized why, making him smile. “I guess I shouldn’t be surprised that both of you are interested in seeing it.”
+
+“Eh, I’m halfway okay with just watching you use it and trying to figure out everything about it on my own, but Duskleaf was very insistent, and you know how he gets when it’s anything alchemy-related. Just remember to at least get some kind of compensation from him if you allow my dear disciple to dissect it,” Villy said in a casual tone.
+
+They were naturally talking about the newest alchemical wonder, which no self-respecting alchemist would want to get a good look at: Jake’s new Supreme Arcane Soulflame. Soulflames were an enormous field of study, and based on Duskleaf’s own vast expertise with Soulflames, it was no wonder he wanted to see what Jake’s new flame was capable of.
+
+As an Arcane Soulflame, it was naturally unique, and seeing as Jake’s arcane affinity was already one he’d noticed many powerful figures found interesting to study, he could definitely see why any alchemist, especially a fanatic like Duskleaf, wanted to lock Jake in a room for observation.
+
+“I’ll definitely not show off my goods for free,” Jake said half-jokingly. He had no idea what he would even ask Duskleaf for, or what he would be willing to give, but all in good time. He wouldn’t return to the Order before he was B-grade, anyway.
+
+“Just don’t hand out samples of it. I saw how you could divide parts and make them fully solid, which should make it possible to give these crystalized parts of your Soulflame away, but doing so will come back to bite you in the ass. The size of the flame is finite if you fail to reabsorb it, and while you can regenerate what’s lost, it takes a lot of time and energy to do so. Especially with a Supreme Soulflame,” the snake god gave a little warning for the road. “Anyhow, you get to B-grade, so I can hear about what sorts of interesting evolution options you get. Who knows, maybe there will even be a funny quirk with this evolution caused by your incredibly entertaining Bloodline.”
+
+“I’m not sure if I hope to see that or not,” Jake shook his head. He already felt there was a lot to deal with without Bloodline shenanigans.
+
+“In either case, evolutions are always entertaining. I miss those days. It was fun to suddenly grow arms and legs. A very novel experience,” the snake god spoke with nostalgia in his voice. “Speaking of evolutions, say hi to your guests for me, and goodbye!”
+
+Jake didn’t even get the chance to say anything before Villy severed the telepathic connection between the two. He sat there confused for a few moments as he released a Pulse of Perception, seeing no visitors anywhere. As he was still surprised, he suddenly picked up an aura from above his lodge, making Jake quickly go outside as he did indeed have a visitor.
+
+In the airspace above his lodge, space cracked and shattered, creating a hole in reality through which a long gray monster slowly made its way out, definitely doing so in a dramatically slow fashion. Its skin glittered in places with what looked like starlight, and a powerful aura fell over the lodge that made Jake narrow his eyes.
+
+The newcomer also regarded Jake as a voice echoed in his head.
+
+“What do I spy? A mere C-grade dares stand in my presence without falling to his knees in sheer reverence!? The absolute audacity!” the familiar voice said in the smuggest tone Jake believed he’d ever heard.
+
+“I apologize, oh magnificent space worm,” Jake said jokingly as he smiled and used Identify on his best buddy worm.
+
+[Cosmic Genesis Worm – lvl ???]
+
+Seeing that Sandy had evolved to B-grade wasn’t a surprise at all. In fact, he was pretty sure the worm had evolved a while ago, something he soon had confirmed.
+
+“Apology accepted... and now apologize for being so damn slow with that alchemy stuff of yours. I’ve been sitting on standby to make my grand entrance for over a year already, but Miranda kept telling me not to disturb you,” Sandy said in an annoyed tone.
+
+“Hey, that’s not my fault,” Jake defended himself, crossing his arms. “I’m sure you could have done plenty of productive work in the meantime.”
+
+“Oh, I did, but I still like to complain!” Sandy answered without a shred of shame in their voice. “Arnold and I have gotten really tight lately. He has a lot of good stuff, and he truly appreciates my wormy arts.”
+
+“Glad to hear that,” Jake chuckled, not at all against the two getting closer. He also wouldn’t find it odd if Sandy’s Patron, Snappy, had also encouraged being close with the mad scientist. As a follower of Oras – assuming follower was even the right word – Arnold was fully neutral, so there were no downsides to having a good relationship with him.
+
+“I’m glad that you’re glad. But do you know who isn’t glad? Someone else who had to wait even longer than me to make their grand entrance, oh, and I don’t think she’s happy that we're bantering, delayed her even further,” Sandy said, Jake immediately realizing who the space worm was referring to as he felt an aura in the distance.
+
+There wasn’t even anything within Jake’s Pulse of Perception range, yet a mere moment later, Jake saw a green blip approaching, and within moments, it arrived. Before even feeling the aura of his second visitor, Jake knew this wasn’t speed any C-grade he’d ever seen could accomplish, telling him that Sandy wasn’t the only one who’d evolved.
+
+The familiar green figure stopped in the sky, floating there while giving off a powerful aura that seemed to warp the wind itself in all directions. Innately, Jake knew that the bird he was looking at was in control of all the wind mana around them, having put the very concept under her dominion.
+
+“Ree!” Sylphie screeched loudly, as if to announce her own brilliance as she flapped her wings quickly.
+
+Visually, she looked the same as before, if maybe a bit leaner in some places. Sandy hadn’t changed much either, but with Sylphie, it was barely discernible that she was now a fully grown Sylphian Hawk, as confirmed by Identify.
+
+[Sylphian Hawk – lvl ???]
+
+“I really am falling behind you two,” Jake said with a smile as he looked up at Sylphie. She also looked down at him before disappearing, only to reappear instantly sitting atop his head as wind mana gathered.
+
+Reaching up, Jake scratched the little hawk, making her flap her wings in joy, forcing Jake to push down a chuckle as he also felt a bit of relief. A part of him had feared that Sylphie would change a lot after reaching full maturity, but it seemed like he didn’t have to worry about that.
+
+A lot like Stormild, her elemental nature shone through, making her innately more childish and flighty than a normal beast. This isn’t to say she wasn’t as smart as other monsters; it just meant that becoming more “mature” wasn’t a prioritized development goal.
+
+“Ree!” Sylphie declared, in complete agreement that Jake was indeed falling behind.
+
+“Yeah, you’re real weak, kind of embarrassed to even say I know you,” Sandy also chimed in kindly.
+
+“Oh? Want me to test your defenses after I evolve?” Jake asked with a smile.
+
+“Ah, sorry, my schedule is all filled up; we’ll have to do it either today or not at all,” Sandy quickly clarified.
+
+“Ree?” Sylphie asked, tilting her head.
+
+“No, no, I’m good, thank you,” Sandy quickly clarified that they didn’t need Sylphie to test their relatively newfound B-grade defenses either.
+
+Jake just smiled, though he had to admit... this felt weird. He had known Sylphie throughout her life and had always been stronger than her, even though she sometimes overtook him in levels. However, now, with the sensation the Sylphian Hawk gave off, Jake had no confidence he would win if they got in a fight. In fact, he didn’t believe it would even be a question of whether he could win, but more about whether he would be able to escape whole.
+
+Compared to the True Dragon Jake had killed, the current Sylphie was on a whole other level.
+
+Closing his eyes, Jake sighed before speaking. “Seeing you two... yeah, it’s about high time I also evolved.”
+
+All he needed was one final level to trigger the actual evolution.
+
+And he was sure Minaga would happily allow Jake to do a quick in-and-out of his little Labyrinth to get that done sooner rather than later.

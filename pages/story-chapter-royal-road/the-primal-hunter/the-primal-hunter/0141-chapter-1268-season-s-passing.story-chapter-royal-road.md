@@ -1,0 +1,165 @@
+---
+id: c4855cc0-9d45-5865-9bff-6425672e1d87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1268 - Season's Passing"
+slug: 0141-chapter-1268-season-s-passing
+partOf: the-primal-hunter
+position: 141
+ownLength: 2802
+unit: words
+ownProgress: 2802
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3116100/chapter-1268-seasons-passing"
+royalRoadId: "3116100"
+markedReadAt: "2026-06-29T19:34:46.008Z"
+---
+
+The Sword Saint sat with his legs crossed and his sword placed across his lap, not meditating, but with his eyes wide open as he watched from atop the small mountain. He saw the green treetops extending into the horizon; the river running down the sides of the mountain as ice melted, and much of this water entering a lake before evaporating, forming clouds that once more drifted toward the mountain, only to fall as snow and rain.
+
+Animals filled the idyllic valleys below, not a single powerful creature anywhere in sight. The strongest one could find was a recently evolved E-grade, but they tended to stick by themselves, hiding away in caves or sleeping in clearings no other monster dared enter.
+
+As time passed, the temperature began to drop, and the trees lost their green color, with leaves shedding from their grand crowns just a few months later. When winter came, the valley was covered in a layer of snow, making most of the monsters hide away as the temperature got low enough for ice and snow elementals to appear. These elementals fought amongst themselves and any other monsters they came across, but they also proved to be prey for some, especially the E-grades.
+
+When winter started coming to an end, and the temperature rose, all these elementals sought out the mountains, where it was cold enough for them to survive and perhaps even grow in power, to one day reach E-grade themselves.
+
+New leaves grew on the trees, the river started flowing once more, and with the arrival of spring, another cycle of seasons had begun once more. Miyamoto watched all this as he sat there atop the mountain, his passive aura enough to scare off any creatures on this planet, where not even a single D-grade could be found.
+
+Time kept passing as the cycle continued until it was summer, then fall, winter, and spring yet again. With every passing year, another full cycle was completed, and with it, the world grew just a little bit.
+
+Like this, years passed as the Sword Saint never moved, only took in the environment and watched this cycle repeat itself eternally.
+
+In an entirely other space, two figures kept a good eye on the C-grade’s contemplation, one of them doing so while cleaning the internals of a small wristwatch. The other was what Jake would have recognized as a hobgoblin, who was just lazing around, though he did have a bunch of already assembled watches behind him.
+
+“He’s just watching time pass, huh?” the hobgoblin, who also just happened to be a god, asked curiously.
+
+Aeon didn’t even look up as he answered. “In part, yes.”
+
+“But not really, right?” the hobgoblin smiled as he shifted slightly, making what looked like ethereal sand move around him. “His Transcendent is weird. Related to time and seasons, yet also intrinsically tied to himself.”
+
+Aeon just nodded, using a miniature pincer to place the tiny cog into its slot.
+
+“I can see why it’s hard to figure out how to train someone like that, but throwing him in on a time-dilated planet like that is one way, I guess,” the hobgoblin casually shrugged. “Do you believe it’ll work? We all know how notoriously hard it is to do, yet you expect a C-grade to succeed?”
+
+“I do,” Aeon confirmed, putting the final touches on the watch. “He’s an old soul. He has the patience, will, and ability to do so.”
+
+“If you say so,” the hobgoblin said, still a skeptic. For good reason, too.
+
+He was trying to make the C-grade Sword Saint do something even gods had no confidence in accomplishing. No, something most gods couldn’t even try to accomplish, as they didn’t meet the basic requirements:
+
+Being a Transcendent.
+
+Despite Transcendences and Bloodlines often being compared as both were considered abilities “outside” the system, they were vastly different from one another. A Bloodline was an innate augmentation of the Truesoul and the person with it, and while becoming a Transcendent also led to a mutation of the soul representing this new status, it was far less pervasive.
+
+What’s more, a Bloodline heavily affected the person with it at all times. Bloodlines shaped the personalities of the people around them, with no real way to separate the two. Meanwhile, a Transcendent was entirely the opposite: it was born from who the person was.
+
+However, far more importantly was what it meant to become a Transcendent. To get such a status, one needed to have made a Transcendent Skill.
+
+Key word: skill.
+
+And skills could be upgraded.
+
+That was exactly what Aeon Clok, the Primordial of Time, had tasked the Sword Saint with doing before evolving to B-grade. It truly was a ludicrous expectation of a mere human who’d recently been integrated into the system, yet the Primordial seemed assured he would succeed.
+
+The hobgoblin god questioned his old master, but after looking at the human for the last few years, he began to understand where the belief came from. Few could do what the C-grade was doing, even among gods. At least not without having an Avatar or something else going on, because, man, the hobgoblin could only imagine the boredom felt by the old-looking human.
+
+Usually, when one sat in a place for so long, it was during meditation. Meditating was a bit like being half-asleep when it was over long periods, and it was easy to disconnect oneself from reality and merely allow time to pass by without noticing.
+
+That wasn’t what the human was doing. In fact, he was doing the exact opposite. His eyes were open, his mind clear, and he experienced every moment of every day without even blinking as he took in the changes of the world around him. It took respectable mental fortitude to do something like that for several years, and it required a mind built for it. Some people, no matter how much training, would never be able to do it, as something like that simply wouldn’t fit their Path.
+
+The hobgoblin had only come by for a visit and spent some casual time there, but from the human’s point of view, it had far longer, and based on him having already sat there when the god arrived, he’d likely been going for years already. Being able to do something like that...
+
+“I can see why you say he has an old soul,” the hobgoblin smiled. “Say, how long has he been sitting there? A decade?”
+
+Aeon only briefly looked up as he was putting the glass screen back on the watch, after ensuring both dials were working perfectly.
+
+Seeing the lack of recognition of his question, the hobgoblin raised an eyebrow. “Longer? Two decades? Three? Man, I would have been bored to death by now, and if you’d done that to me when I was your Chosen, I would have turned heretic real quick.”
+
+“No, you would have kept trying as long as you could before acting like you suffered a mental breakdown to escape, and I would have allowed you despite knowing you were faking it,” Aeon said, not even looking up this time.
+
+“Okay, true,” the hobgoblin chuckled, feeling all melancholic after remembering the good old days. “But you didn’t answer. How long has he been sitting there?”
+
+Aeon looked like he needed a moment to think before answering. “Six, closing in on seven.”
+
+“Decades?” the hobgoblin said as he truly pitied while also respecting the human. Most would have gone insane or just gotten up to leave or at least stretch by now, so for him to just sit there and experience the change of seasons for so long was-
+
+“No, and to clarify, he was the one who asked to do this,” Aeon answered, looking toward the projection showing the C-grade human meditate. “Centuries. In total, it’s been 689 years and 124... 125 days since he first sat down.”
+
+The hobgoblin needed a moment as he looked at Aeon in disbelief before his gaze drifted back to the human just sitting there. “That... if his mind survives something like that... what do you expect to come out on the other side?”
+
+Aeon once more didn’t hesitate much as he joined the hobgoblin in observing the man known as the Sword Saint.
+
+“My next Chosen.”
+
+Power was truly a corrupting force, turning good friends and family into bullies who didn’t at all respect that their elder wasn’t also a B-grade specialist in speed. Jake tried to keep up as the bird and space worm flew ahead of him, both having way too much fun speeding up and slowing down as poor Jake struggled in vain not to fall behind.
+
+“I thought you wanted to get to B-grade soon? Why so slow?” Sandy asked tauntingly as the worm teleported next to Jake before flashing again and teleporting ahead.
+
+“Ree!” Sylphie also screeched as she flew by Jake’s side, making sure to always be just a little bit ahead of him. Not by a lot, but by enough to make it sure she could have left him in the dust at any moment if she so desired. Yeah, the two of them were really being bullies, and Jake had no idea why he agreed to do this with them when there was a perfectly good teleportation station in Haven.
+
+Okay, he did know why he agreed. Feeling the auras of Sylphie and Sandy had given him some insight into just how much their B-grade evolutions had impacted them, but traveling with them like this told him far more.
+
+As natural B-grades, they had both been adolescents in the eyes of the system, still in their growing phase, until they finally reached their current evolution. Jake had already known it would theoretically be the case, but seeing was believing as he realized just how much stronger the two had become from one evolution.
+
+This was the culmination of all their growth, and a massive milestone for most people in the multiverse to reach. Moreover, because the two of them had worked hard during their growth period, they far exceeded the norm for monsters in similar situations. It was the difference between a naturally strong monster that didn’t put in much effort, like Yrelstromoz, and a genius who’d upgraded several skills and accomplished a myriad of feats.
+
+One also couldn’t forget the massively impactful titles. Someone like Yrelstromoz likely didn’t have any titles worth mentioning, while Sylphie and Sandy both likely had a few, with Sylphie definitely having more, in large part due to their Nevermore trip.
+
+Jake was still looking forward to truly seeing what the two were capable of, but he doubted he would be able to fully appreciate it without evolving himself. Even if Jake went full power, he wasn’t confident in breaking through Sandy’s defenses, at least not based on what he’d seen so far.
+
+Sylphie casually threw some wind blasts toward the worm at times, each of them powerful enough to get a reaction from Jake’s danger sense, telling him he really should dodge those if one went his way. Meanwhile, Sandy was entirely unbothered, just tanking them while thanking Sylphie for scratching an itch.
+
+Fortunately for Jake, neither of them had been able to grow much after reaching B-grade, primarily due to them spending all this time getting used to their new powers rather than leveling.
+
+Additionally, being fully grown now, progress would become slower for both of them, even if their Paths wouldn’t change much. Sandy was still a glutton, all about eating everything between heaven and earth containing adequate energy, while Sylphie was a bird of prey that needed to hunt and kill to gain experience. They could also grow from improving their skills, but that remained secondary to the primary drivers of their Paths.
+
+Them not suddenly leapfrogging Jake in levels at least made him relax a little, and honestly, wasn’t he keeping up with them pretty well, considering they were monsters? Monsters tended to grow faster than enlightened races, especially monsters with a naturally higher grade. And no, based on his latest theory regarding his race, Jake chose not to put himself in the same category as those two.
+
+While flying and thinking about this, a thought did strike Jake. “Did anything special happen during either of your evolutions? Something you reckon I would want to know about, perhaps even related to me having a hand in your evolution?”
+
+Sylphie just tilted her head, seemingly not sure about his question, while Sandy seemed to actually think about it for a little before answering.
+
+“I don’t think so, but on the other hand, how would we know? I don’t know about Sylphie, but this was my first time evolving to B-grade, so I can’t exactly compare it to anything else. All I can say is that I didn’t have an evolution option but just became a fully grown-up space worm, and during the evolution itself, I had my fill for the first time in what feels like forever. I didn’t detect a projection of you nodding approvingly during the evolution if that’s what you’re asking about,” Sandy said, making it pretty clear at least the Cosmic Genesis Worm hadn’t experienced anything weird.
+
+“Ree!” Sylphie also very helpfully confirmed there hadn’t been a ghostly Jake cheering during her evolution either.
+
+“That’s good to know,” Jake muttered, as Sandy did have a good point. Even if their evolutions weren’t standard, how would they even know? The answer was that they wouldn’t, not unless the difference was something obvious. If not, the explanation could just as well be that their races were unique, and that was just how their evolutionary process worked.
+
+The three of them kept chatting a bit more as they kept flying, the two of them obviously traveling casually, while Jake had to push himself to try to keep pace with the two damn B-grades. While Jake did complain, at least their speed did mean Jake and company arrived in Labyrinth City pretty damn quickly, though still slow compared to if Jake had just taken the damn teleporter.
+
+“So this is Labyrinth City,” Sandy said as they got close enough to see it. Well, in Sandy’s case, use their weird spatial sense to observe it.
+
+“Sure is,” Jake nodded.
+
+“Cool. Never going here again. Who even cares about dungeons in the first place? They pretty much all ask you to kill stuff and hide away all the goodies, locking them behind some dangerous boss. Way easier to just borrow the tasty stuff from those who’ve already done the dungeon.”
+
+“Ree?” Sylphie asked.
+
+“Big Hydra did ask me about that, but no, I’m not into eating corpses. Just not really my thing. I prefer eating live stuff and then having them produce more food for me inside my belly. Something that also doesn’t work with dungeons, as you can’t bring live stuff out of it without doing silly things to make it happen,” Sandy answered.
+
+“Ree?” Sylphie followed up as the two started talking while Jake flew down near the entrance to the dungeon. Landing, he looked around, waiting for a while before a head popped out of a wall nearby.
+
+“Back to give more bad reviews?” Minaga’s projection asked in a sulking voice.
+
+“No, just here to visit the B-grade section of the dungeon for a little while. Just to get my final level,” Jake answered with a smile.
+
+Minaga glared at him. “What do you think I’m making here? The dungeon you and Casper experienced was specifically prepared for your testing, not something publicly available. Do you really think you can just come and go, entering an in-construction high-quality dungeon complex as you please?”
+
+Jake looked at Minaga for a few seconds before the Unique Lifeform spoke again.
+
+“... step on the teleportation platform, you can leave again once you’re done through the magic circle you initially appear on...”
+
+After he said this, a magic circle appeared on a nearby circular platform, glowing with energy.
+
+“Hey, at least you’re getting four and a half stars for customer service,” Jake said with a bright smile.
+
+“Wait, why only four and a half?”
+
+“See you two later, I’m going for my last level!” Jake turned and yelled up to Sylphie and Sandy, who seemed to be discussing a race to the room.
+
+“How do I get that last half a star?”
+
+Jake walked onto the magic circle and quickly accepted entering the dungeon, intent on quickly killing as many Aginians as he could to allow him to evolve as soon as possible.
+
+“Hey! I’m open to suggestions over here, and wou-“
+
+Without further ado, Jake accepted the prompt to enter the dungeon, and in he went to start one final slaughter before it was B-grade evolution time.

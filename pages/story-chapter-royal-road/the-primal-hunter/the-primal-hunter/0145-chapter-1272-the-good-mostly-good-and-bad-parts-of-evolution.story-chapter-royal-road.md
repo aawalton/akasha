@@ -1,0 +1,167 @@
+---
+id: a3da01a3-b35a-5b8f-9479-34998c086067
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1272 - The Good (Mostly Good) And Bad Parts of Evolution"
+slug: 0145-chapter-1272-the-good-mostly-good-and-bad-parts-of-evolution
+partOf: the-primal-hunter
+position: 145
+ownLength: 3056
+unit: words
+ownProgress: 3056
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3137144/chapter-1272-the-good-mostly-good-and-bad-parts"
+royalRoadId: "3137144"
+markedReadAt: "2026-06-29T19:34:53.387Z"
+---
+
+With one absolutely overpowered skill out of the way, Jake proceeded with his evolution as he checked some of the other system notifications he hadn’t gone through. He’d been too distracted with the Spirit of Man skills to even consider anything else, and only now saw that the massive increase in power and stats hadn’t only come from his new race skill, but a fully expected title.
+
+[Perfect Evolution (B)] – You have undergone a perfect evolution to become a B-grade human. +1980 to all stats.
+
+While the Perfect Evolution quests were gone, that didn’t mean the title stopped existing. It was more that everyone should know by their B-grade evolution what a Perfect Evolution was. At least that was Jake’s working theory.
+
+Moving on, Jake had gained one more expected upgrade to his Bloodline. Yes, Jake did realize how utterly ridiculous that statement was. The fact that he by now expected to see something everyone else would consider impossible said a lot about Jake’s current Path and mental state. That, or after Primal Hunter’s Spirit of Man, he was just out of surprises.
+
+Bloodline Ability Evolved
+
+The evolution has stirred your Bloodline, allowing it to evolve along with you.
+
+Bloodline Ability Upgraded: [Bloodline of the Primal Hunter (Bloodline Ability - Unique)] – Dormant power lies in the very essence of your being. A unique, innate ability awakened in the Bloodline of Jake Thayne. Grants the Sphere of Perception. Grants an improved sense of danger. Grants access and allows usage of Primeval Origin Energy (Jake Juice). Enhances all instincts and intuition. +30% to Perception.
+
+Jake’s Bloodline had evolved exactly as expected, adding another 5% to Perception yet again. However, it had also added a sentence to the description about granting access and allowing usage of Primeval Origin Energy. Though, to be fair, Jake wasn’t certain whether the description had updated just now or had been saying that for a while.
+
+As a reminder, Bloodline abilities differed significantly from regular skills in the description department. Rather than the description telling Jake what his Bloodline could do, it instead only reflected Jake’s own realizations and thoughts about it… something brilliantly emphasized by the very out-of-place Jake Juice thrown in there.
+
+Did Jake find it objectively funny, seeing that term thrown out by the system? Yes. Did he realize that seeing it there was entirely Jake’s own fault for often mentally referring to his unique energy as Jake Juice? Also yes. Did he have any regrets?
+
+Nah, not really. He found it more fun than anything else, and what he called it didn’t have any effect on what it did. Besides, the official name was still clearly Primeval Origin Energy, as others besides Jake knew that term, and while Jake was awesome, he didn’t believe he could personally warp the Records of the mysterious energy to change the name to Jake Juice officially.
+
+Maybe one day, but hopefully, Jake would be more mature by then, not making up funny names for his own skills. Jake was only going to hope for it and not put any effort into changing, so the chance of that happening was nil, but hey, even if it officially became Jake Juice, it would still be objectively hilarious.
+
+As Jake was entertaining himself with his juvenile thoughts, he suddenly saw something that actually mattered: the timing of Jake’s Bloodline Evolution. Everything he’d gone through hadn’t come fully chronologically, but instead, he now saw that his bloodline had evolved right when Jake selected his first Spirit of Man skill, subsequently making the system bug out and eventually adapt, offering him Primal Hunter’s Spirit of Man.
+
+This answered why things had happened the way they did. It didn’t overly matter, but knowing was still nice.
+
+With all these notifications out of the way, Jake only had one more left. Perhaps the most important one.
+
+’DING!’ Race: [Human (B)] has reached level 350 - Stat points allocated, +135 Free Points
+
+With this level, Jake knew his time in the weird system void was about to come to an end. He also knew what that meant as Jake mentally braced himself and began actively reining in his senses to avoid a massive overload the second he appeared back in his lodge.
+
+Sighing deeply, Jake was as ready as he could be when he felt the system whisk him back to the real world. Despite getting himself as ready as he could be… Jake still wasn’t prepared.
+
+The moment he appeared back on his bed, his own senses assaulted him with way too much stimuli for him to handle. Fortunately, while the influx of information was far worse than any evolution before, Jake had more tools to deal with it, as he immediately focused all he could on activating his Meditate skill.
+
+As he did, Jake felt at least some level of calm as his mental state was uplifted to a whole new level, his soul practically expanding. What’s more, it cut off most of his senses, giving him room to breathe and focus on one thing at a time. One source of sensory overload at a time.
+
+Usually, when Jake evolved, his Sphere of Perception was the only thing really causing him trouble, but this time around, it had been everything all at once. He heard sounds he didn’t even know existed, was instantly blinded, smelled so many things it gave him nausea, and even the fabric of the bed felt so weird that Jake couldn’t fully comprehend it with his mind. It had all just been too much.
+
+With meditation, Jake had cut off all his senses except for a scarce few, including his Sphere of Perception, which he chose to focus on first and foremost. His senses expanded, allowing Jake to see everything several kilometers around him as Jake purposefully didn’t suppress it.
+
+While in C-grade, Jake purposefully kept his sphere to only a few hundred meters to around a kilometer around himself at all times, while he used Pulse of Perception if he needed to see further than that. Pulse could reach several hundred kilometers, maxing out at around five hundred kilometers.
+
+Now, as Jake allowed his Sphere of Perception to expand, he quickly reached a hundred kilometers with the mental strain yet to truly set in. Rapidly, it kept growing, soon reaching two hundred kilometers in radius. Due to how geometry worked, every kilometer added was a massive increase in volume covered by the sphere, yet somehow, he still didn’t find himself struggling.
+
+Only when he reached three hundred kilometers did Jake feel the stress begin to set in, making him stop the expansion and mentally lock down this range for the skill. He allowed himself a moment to mentally recover as he grew more familiar with the new range of his Sphere of Perception; the information flooding his mind and being automatically filtered at all times.
+
+It was an odd state, where Jake ”saw” everything that happened in the massive Sphere of Perception, yet he didn’t actually register the vast majority of it. If he purposefully thought about looking for something specific, he suddenly became aware of anything like that instantly, such as when he thought about whether anyone was fighting within his sphere.
+
+He saw people sparring in backyards, people exploring the forest that Haven was placed on the outskirts of, and even a guy getting arrested while trying to fight back. Jake was hyperaware of all those people, but the second he stopped focusing on them, he no longer actively recognized what they were doing.
+
+Again, very weird and hard to describe, but the point was that Jake could see and was aware of everything for three hundred kilometers in all directions, at all times. His Sphere of Perception had grown significantly compared to before, making him recall the words of the First Sage when Jake had met him.
+
+Back then, the First Sage had told Jake that he should be able to handle the full brunt of his Bloodline when he reached B-grade, and it seemed like the man was mostly correct. Ignoring the fact that Jake’s Bloodline had also evolved, of course.
+
+After getting used to his current status quo, Jake did one more experiment. Preparing himself mentally, Jake unleashed a Pulse of Perception at its full range. Immediately, Jake felt a small spike of pain, but alongside it also came a snapshot of everything all around him for… damn.
+
+While he couldn’t perfectly judge the full distance, he estimated his new Pulse range to be in excess of two thousand kilometers. While it wasn’t massive compared to the growth of his Sphere of Perception, it was still utterly enormous, and what’s more, he believed that as he progressed through B-grade, it would only keep growing.
+
+Jake again took a few moments to relax and calm his mind before slowly stopping his Meditate skill, allowing his senses to return one by one. At first, it was tough, and Jake forcefully muted it, allowing himself to adapt quickly.
+
+As he continued releasing his senses one by one, it became clear that during his moment of meditation, he had already, for the most part, automatically adapted. He still gave himself plenty of time to fully get his bearings before opening his eyes and letting out a big sigh.
+
+He knew he wouldn’t be fully back to normal from the sensory overload this quickly, but luckily, he had something great to distract himself. Alright, calling it great felt weird, considering it was a kind of sucky thing, but, alas, it was a part of evolving.
+
+Skill Rarity Adjustment Initiated.
+
+As your power grows, so do your Records. What may have been an achievement before is now only to be expected, and what may have seemed rare before may now merely be uncommon. Thus, an adjustment is needed to reflect your progress.
+
+All skills will be adjusted to your current grade, resulting in potential downgrades in rarity. All functionality of the skills will remain unchanged. Some skills may be adjusted without affecting their rarities. This may or may not result in increased difficulty of further rarity upgrades.
+
+No one liked having their skills downgraded, even if technically one didn’t lose anything besides feeling like their skill list looked less cool on their status menu. In fact, it could be argued that having a skill downgraded was beneficial, as it often made upgrading it again easier.
+
+Jake still didn’t like it, though, but alas, it was something that simply had to be done, so with a heavy heart, Jake kept reading, hoping it wouldn’t be too bad.
+
+Profession Skills:
+
+Note that some skills that did not experience a downgrade in rarity did have their relative rarity lowered.
+
+Rarity Adjusted:
+
+[Arcane Curse Manifestation (Ancient)] --> [Arcane Curse Manifestation (Epic)]
+
+--
+
+So, it wasn’t that bad. Jake genuinely had to double-check to confirm it had indeed been only one skill downgraded. A small part of him had feared seeing the Malefic Viper Legacy skills downgrading, but nope, they had all stayed right where they were.
+
+As for the skill that had downgraded… yeah, Jake got it. He had barely used that skill, so seeing it get downgraded was almost to be expected. Still, he found it a bit odd that no other skill had downgraded, as he knew having at least a few was considered standard, but as he read all his skills, he kind of understood why none of them had their rarity changed.
+
+Rarity Unchanged: [Path of the Heretic-Chosen (Unique)], [Grimoire of the Heretic-Chosen (Unique)], [Alchemist’s Purification (Inferior)], [Brew Potion (Uncommon)], [Craft Elixir (Rare)], [Concoct Poison (Epic)], [Soul Ritualism of the Heretic-Chosen Alchemist (Ancient)], [Malefic Viper’s Poison (Ancient)], [Blood of the Malefic Viper (Legendary)], [Sense of the Malefic Viper (Legendary)], [Wings of the Malefic Viper (Legendary)], [Touch of the Malefic Viper (Legendary)], [Legacy Teachings of the Heretic-Chosen Alchemist (Legendary)], [Pride of the Malefic Viper (Legendary)], [Scales of the Malefic Viper (Legendary)], [Fangs of the Malefic Viper (Legendary)], [Core Manipulation of the Primal Hunter (Legendary)], [Divine Bargain of the Malefic Viper (Mythical)], [Sagacity of the Malefic Viper (Mythical)], [Heretic-Chosen’s Invocation of the Malefic Viper (Mythical)], [Palate of the Malefic Viper (Mythical)], [Alchemical Flame (Mythical)]
+
+--
+
+Besides his Malefic Viper Legacy skills, about half of the other ones couldn’t be downgraded by design, such as Concoct Poison and Brew Potion, or the unique skills, which couldn’t be downgraded, while the other half were skills that he had either recently gotten or had actually used a lot during C-grade. The only real candidates for downgrades were Soul Ritualism, Legacy Teachings, Core Manipulation of the Primal Hunter, Divine Bargain, Invocation of the Malefic Viper, and his new Alchemical Flame.
+
+The last two options, Jake didn’t even consider them legitimate candidates, as one was the capstone skill of his profession in C-grade, while the other was his recently gained Supreme Soulflame. With all the other ones related to the Malefic Viper, he also couldn’t see them downgrade either. Soul Ritualism had downgraded when Jake evolved to C-grade, but he had managed to upgrade it once during the grade and had now maintained the upgrade, probably due to having actually used the skill quite a lot. In fact, he felt he had been close to making it legendary before evolving.
+
+Then there was Legacy Teachings, a skill Jake hadn’t exactly used a lot outside of that one lesson he had at the Order, yet it still hadn’t degraded. This one was a little surprising, but in some ways, not really, as while Jake hadn’t used the skill, that didn’t mean he hadn’t gained a lot of Records related to passing down Records, in part due to his recent evolution. Besides that, there was only what, Core Manipulation of the Primal Hunter? Yeah, no way anything with Primal Hunter in its name would be downgraded.
+
+In conclusion, his profession had survived the B-grade downgrade nearly unscathed, and he hoped to see the same as he moved on to his class.
+
+Class Skills:
+
+Note that some skills that did not experience a downgrade in rarity did have their relative rarity lowered.
+
+Rarity Adjusted:
+
+[Supreme Stealth Attack (Epic)] --> [Supreme Stealth Attack (Rare)]
+
+[Splitting Arcane Arrow Rain (Epic)] --> [Splitting Arcane Arrow Rain (Rare)]
+
+[Bestial Hunter’s Tracking (Epic)] --> [Bestial Hunter’s Tracking (Rare)]
+
+[Piercing Cursed Arcane Fang (Epic)] --> [Piercing Cursed Arcane Fang (Rare)]
+
+[Penetrating Arcane Arrow of Horizon’s Edge (Ancient)] --> [Penetrating Arcane Arrow of Horizon’s Edge (Epic)]
+
+[Unblemished Arcane Arrows of the Horizon (Legendary)] --> [Unblemished Arcane Arrows of the Horizon (Ancient)]
+
+[Relentless Hunt of the Avaricious Arcane Hunter (Legendary)] --> [Relentless Hunt of the Avaricious Arcane Hunter (Ancient)]
+
+--
+
+Okay, compared to his profession, Jake’s class had gotten absolutely destroyed by downgrades. Seven skills had been downgraded, and to make matters worse, four of them had been epic rarity, meaning Jake now had four rare skills.
+
+Then again, he wasn’t that surprised. Of the four, the only one that made him raise an eyebrow was Supreme Stealth Attack due to how recently he’d evolved that one, but at the same time, he understood. When it came to the other three, Jake recognized he’d neglected upgrading them.
+
+As for the three final skills, two of them were primarily passive in nature, while Penetrating Arcane Arrow was more or less always just an arrow-buffing effect he added to his Protean Arrows. With all three of them, he had admittedly not been working on upgrading them either, but had just been happy with their functionality.
+
+While watching the skills being downgraded was definitely a bummer, it was also a good reminder of which skills to focus on upgrading once he got back to hunting. He definitely wanted to get rid of those rare skills sooner rather than later, even if he knew himself well enough to know he’d quickly get sidetracked and end up neglecting one or more of them.
+
+Moving on, Jake quickly checked the list of unchanged skills, not really finding any skills that he was surprised had survived the downgrade.
+
+Rarity Unchanged: [Avaricious Arcane Hunter’s Arrows (Epic)], [Archery of Expanding Horizons (Ancient)] [Arcane Powershot (Ancient)], [Arcane Awakening (Ancient)], [One Step, Thousand Miles (Ancient)], [Horizon-chasing Big Game Arcane Hunter (Ancient)], [Mark of the Horizon-Chasing Arcane Hunter (Ancient)], [Arcane Supremacy (Legendary)], [Unseen Hunter Arcane Hunter (Legendary)], [Lone Hunter of Horizon’s Edge (Legendary)], [Protean Arrow of Eternal Horizons (Legendary)], [Timeless Focus of the Apex Hunter (Legendary)], [Fangs of Man (Legendary)], [Eternal Shadow of the Primal Hunter (Mythical)], [Primal Gaze of the Apex Hunter (Mythical)], [Moment of the Primal Hunter (Mythical)], [Event Horizon (Mythical)]
+
+--
+
+The only skill Jake had considered at risk was maybe Eternal Shadow of the Primal Hunter, as Jake hadn’t done anything to upgrade that skill ever since he got it, but again, it had Primal Hunter in the name, so he couldn’t really see it being downgraded. Maybe Arcane Supremacy could have also been downgraded, but the skill still felt strong enough to keep its legendary rarity. Okay, perhaps One Step, Thousand Miles could also be considered…
+
+Shaking his head, Jake got rid of such silly thoughts as he was just glad no more skills had gotten downgraded, and that none of his mythical skills had been touched in this entire round of system terrorism. Regarding race skills, they didn’t experience downgrades, at least not for humans. They did for monsters, as they only had race skills, but likely in part due to how limited they were for humans, there wasn’t a downgrade round for them.
+
+Feeling a lot better in the sensory department after distracting himself by going through his downgrades, a thought suddenly struck Jake: had Arnold evolved to B-grade yet? And if he had, should Jake pay a visit and tell him to get fucked if the guy had any mythical skills downgraded?
+
+No, that would just be silly! It was way too far to the moon, and Jake didn’t think there was a publicly accessible teleportation circle leading there, so sadly, he had to shelve that idea. That left Jake with a choice between doing three things now.
+
+Firstly, he knew a certain snake god was waiting and really wanted to have a conversation with Jake about his recent race evolution, but then again, he also had a class and profession to evolve…
+
+Decisions, decisions, decisions.

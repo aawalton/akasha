@@ -1,0 +1,59 @@
+---
+id: afe63e77-9118-5b11-9f1f-2cd9b7ed4b1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46 - Another Letter"
+slug: 0047-chapter-46-another-letter
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 47
+ownLength: 466
+unit: words
+publishedAt: 2022-07-06
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943052/chapter-46-another-letter"
+royalRoadId: "943052"
+---
+
+Sunday, July 16, 1899
+
+My darling Eleanor,
+
+Yesterday I happened to be passing by Saint Jerrum’s Cathedral around two o’clock. You weren’t there. Considering all that’s happened to you and your family, I wasn’t surprised, but I was a little disappointed.
+
+Haley was there, standing at the top of the stairs, looking over the crowd. I have no doubt he was waiting for yours truly. At the time I was masquerading as a feeble old woman (you would have loved the costume), and the sight of him caused me to drop my bag. So what did that kind gentleman do but come down to help me pick up my things! There was one tricky moment when he looked in my eyes and I wondered—he looked so sympathetic—but then he tipped his hat to me and went back to his post.
+
+That damn man seems to know me better than I know myself. Maybe I should have asked him why I was there. I wonder if he could have told me.
+
+I find myself thinking about you a lot. My first fiancée! I know you don’t like that joke much, but I appreciate the times we laughed about it together. Please know I’m serious when I say that I hope you at least think of me as a friend.
+
+I wish the best for you. May you have all the happiness you’re owed, and all the kindness you’ve shown others. And I hope that when you see me in the street, if you recognize me, you’ll call to me—though, maybe not too loud. And not if Haley’s with you.
+
+Yours, ever…
+
+Penn screwed the letter up into a ball and threw it as hard as he could against the wall. Then he leaned back in his chair and scowled at the miserable desk in front of him. It was a broken bookshelf.
+
+He shoved his chair away, stood up, and kicked it.
+
+“Stewart!”
+
+There was the sound of footsteps, then the door opened.
+
+“Mr. Penn?”
+
+“What do you say to stealing something? Something big.”
+
+“How big?”
+
+“How old is the child-queen?”
+
+“Fifteen, unless I’ve missed a year.”
+
+“Too young for jewels yet.”
+
+“Well, yes. And then there’s the fact that you’re talking about stealing from the queen.”
+
+Penn pointed at him. “The regent has a wife, doesn’t he?”
+
+Stewart came over and put his arm around the master thief’s shoulders. “All right. All right. We need to do a big fancy job. That’s fine. Let’s get out, we’ll get a pint of something, and we can talk over possible marks.”
+
+“Thank you, Stewart. That sounds good.” Ryce let out a loud sigh, then said, “How do you always know what I need?”
+
+“You get like this sometimes, Mr. Penn, and a little thieving always puts you right.”

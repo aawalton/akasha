@@ -1,0 +1,131 @@
+---
+id: 0ad11998-8aa3-59ed-92d2-de34c98376ab
+page-type-slug: story-chapter-royal-road
+title: " Chapter 1144 - The Future of the Multiverse"
+slug: 0016-chapter-1144-the-future-of-the-multiverse
+partOf: the-primal-hunter
+position: 16
+ownLength: 3144
+unit: words
+ownProgress: 3144
+publishedAt: 2025-08-05
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2494214/chapter-1144-the-future-of-the-multiverse"
+royalRoadId: "2494214"
+markedReadAt: "2026-06-29T19:29:46.026Z"
+---
+
+Artemis did not leave the domain of Yggdrasil with Jake. Instead, she was to stay behind and assist Nature’s Attendant in planting the seed that would one day turn into one part of Jake’s new bow.
+
+Her staying behind also gave the goddess some courage to ask a question that had been bothering her for a while. From her own perspective, she knew why she treated Jake the way she did. She had a natural attraction due to his Path, and he appeared in her eyes like the apex of hunters. He was a natural, and that was something irresistible about his demeanor and aura.
+
+For gods or even those who just lived long lives, physical appearance was barely a factor to consider when discussing attraction. Instead, personality and presence were what truly mattered. The aura someone gave off when entering a room said far more about a person than their physical appearance. Everyone who wanted to was good-looking by default, but one couldn’t easily fool others with the aura they gave off.
+
+And Jake... Jake had an aura that made it easy to mistake him for a god superior to even Artemis herself. At least at times. If he hid his level and focused on it, she suspected he could impersonate a god well, at least for a time. Oh, and he would, of course, be in quite a pickle if an actual god tried to test his aura and accidentally crushed him with their energy-fueled presence.
+
+Despite all this, he was unmistakably a mortal. Yet, despite this indisputable fact, Artemis saw Yggdrasil and Nature’s Attendant both treat him better than even other gods. Even if he was the Chosen of the Malefic Viper, a fellow Primordial, it just didn’t truly make any sense to Artemis.
+
+Perhaps she was inspired by Jake’s bluntness, or perhaps it was a momentary lapse in judgment, but shortly after Jake had been teleported away, she turned to Nature’s Attendant and just straight up asked him.
+
+“If I may... why do you treat Jake like this? Why are you acting towards him almost as if he’s an equal?” she asked Nature’s Attendant. Instantly after asking, she felt a tang of regret, but at that point, it was too late.
+
+Luckily for her, the second-in-command of the Pantheon of Life didn’t seem offended by her bluntness, as he just smiled. “You’ve been a god for a fair amount of time, haven’t you?”
+
+She nodded, indeed having a few eras under her belt.
+
+“During this time, you must have met your fair share of mortals. Geniuses beyond compare. Those who stood at the pinnacle of their generation. Tell me, when you recall all of them, do any of them remind you of the Viper’s Chosen?” the far older god asked her.
+
+“In some aspects,” Artemis muttered. “They all had the same level of confidence. Arrogance, I would almost say. Of course, Jake is different in that this confidence doesn’t crumble even before gods, while the regular genius would still find themselves suppressed by the natural order. He is unique when one considers that, as well as the abilities he has shown as a Harbinger of Primeval Origins.”
+
+Artemis almost didn’t mention that last one as she wanted to avoid that topic if possible. As a high-ranking member of the Pantheon of Life, she had a responsibility towards her faction, and it was expected of her to share pertinent information when obtained.
+
+That’s why Jake had put her in a rather difficult position when he revealed some of the truths of his Harbinger of Primeval Origins ability. However, she had already decided that what was imparted in confidentiality would remain confidential. Jake had trusted her with that knowledge, and she had no intentions of betraying that trust, even if her keeping it a secret could be looked upon unkindly by the top brass of the Pantheon of Life.
+
+“It’s true he does have many unique aspects to him, while others remain rather par for the course,” Nature’s Attendant nodded. “But I think the most unique thing about him is the situation he has put us gods in. We are all so used to the universal law of suppression. I expect my aura to have a profound effect on those significantly weaker than myself, and I approach the interaction with that in mind. I correct my demeanor as much as I can to still make the other person comfortable, even if I rarely succeed.”
+
+“But with Jake, that’s not a thing,” Artemis muttered.
+
+“Precisely so. Talking with Jake is like talking with a being that possesses equal or even superior power to me. I don’t need to correct how I act and make it suitable for a mortal. There is something unique about that, and something I think most of us gods miss. The fact that this ability also seems to extend somewhat to others is a massive bonus. Just take yourself as an example. You are far more casual now than you usually are, and with every time we meet, it gets better. Even with Dina, I now feel like I’m talking to my granddaughter without her being filled with fear that she’s trying hard not to show,” Nature’s Attendant said with a big smile on his face.
+
+“I understand that, but I’m still not certain why that means you, the Mother Tree, and even the Malefic One have chosen to treat Jake almost like an equal,” Artemis kept voicing her thoughts.
+
+“Tell me, dear, why is the biggest difference between a god and a mortal?”
+
+“Immortality,” Artemis answered without any hesitation. Another obvious answer would be power, but some peak S-grade mortals could battle even weaker gods, yet no matter how powerful an S-grade got, time would still spell their doom.
+
+“Right,” Nature’s Attendant nodded. “But gods still die. All the time. Tell me, you seem to have gotten a good understanding of Jake so far, so how do you think he would meet his death? Alone at home in a bed after his lifespan expires, or with a weapon in hand, fighting a too powerful foe?”
+
+“The latter, obviously,” Artemis said, shaking her head.
+
+“I concur entirely,” Nature’s Attendant smiled. “I, too, believe that he will either die trying to achieve greatness, or he will ascend and stand alongside the gods. Complacency and passivity are simply not in his nature.”
+
+“That doesn’t guarantee godhood, though,” Artemis sighed. There simply was no guarantee. There had been more top geniuses of the multiverse who had failed to ascend to godhood than she could count. Even if they tried with every fiber of their being to attain immortality, for some, it would just never come.
+
+“No, and his chances of ascension still remain slim even should he retain his current momentum, but so what?” Nature’s Attendant asked. “We already agreed he has only one of two fates. Godhood or an untimely death in pursuit of it. With that in mind, what do you think the pros and cons are to us treating him like an equal?”
+
+Artemis considered his question for a while before speaking. “Pros are a good relationship, obviously. Cons is naturally the opposite of that. Looking down on Jake would make him view you incredibly unfavorably. However, to play devil’s advocate, I could argue another con is the appearance and personal slight a god may feel from recognizing a mortal as one of them. It feels almost like an insult to a god’s Path to recognize a mere mortal’s as comparable to theirs. It undermines everything they’ve been through to earn the respect they currently have.”
+
+“Right,” Nature’s Attendant nodded. “For the cons, I do agree to some extent. It does hurt the ego a little talking to someone so much younger, weaker, and less knowledgeable like he’s equal in standing to you, but honestly? I can accept it. As gods, we need to consider things on a far wider time scale than mortals, especially when you’re a god leading a major faction. We need to consider not just this era, but the one that comes next. Now consider the pros and cons again, but rather than the here and now, how you will think back on your actions during this time and era in the future.”
+
+It didn’t take long for Artemis to realize what he was getting as she nodded. “I see...”
+
+“Good,” Nature’s Attendant smiled. “I didn’t need to think for long about how I wanted to treat Jake, and neither did Yggdrasil. Taking a small hit to our ego now for potential benefits in the future is more than worth it.”
+
+“Right,” Artemis nodded.
+
+She finally understood what Nature’s Attendant was getting at, and it made a lot of sense... perhaps because her thoughts had already been somewhere similar. Before Jake had arrived at the Pantheon, and even during her time in Nevermore, she had considered deeply if she truly wanted to pursue something more with Jake or just keep what had happened inside the Colosseum of Mortals as a glimpse of what could never be.
+
+Ultimately, she decided the pros did outweigh the cons. In the event that Jake should die as a consequence of being a mortal, Artemis would still have a memory she could look back at with fondness and sadness. It would be regrettable for sure, and she could see herself cursing herself for ever getting emotionally involved, but she knew that given the eternity afforded by immortality, she would one day be able to truly have it be nothing more than a distant memory.
+
+However, in the unlikely event that Jake went all the way... well, Artemis had a lot of thoughts if that happened. Which was why she treated Jake the way she did right now. She had to assume he would make it to godhood, or she would ruin what could be if he did, because there was no way he would accept her treating him as lesser than herself... something that was admittedly one of his more attractive traits.
+
+It appeared that gods such as Yggdrasil and Nature’s Attendant had the same mindset. Well, besides the part about finding him attractive. If Jake died on his Path, the most they would have lost was them feeling a bit uncomfortable at times. Even then, they had still ultimately helped the Chosen of another Primordial, and based on the Viper’s attitude so far, he was sure to look fondly upon those helping his Chosen.
+
+Meanwhile, if Jake did make it to godhood, they would have a powerful ally. Or, at the very least, they wouldn’t have set themselves up with an incredibly dangerous future enemy.
+
+“There is one more reason, though. We talk a lot about mortals failing to reach godhood as a result of complacency, but I believe we, the gods, are far worse sinners in that respect,” Nature’s Attendant spoke after a few moments of silence. “Especially we, the oldest.”
+
+“What do you mean?” Artemis asked, genuinely unsure of what he was getting at. From her point of view, he and Yggdrasil were always busy doing one project or another. They were never slacking off. Sure, a lot of what they did was something that wouldn’t pay dividends for a long time, assuming it ever would, but such work was also important.
+
+“Yip of Yore,” Nature’s Attendant said with a sigh. “He was... how to put it... a wake-up call. To many of us. This is something I don’t share with you lightly, but there was genuine concern even amongst some of the top factions as Yip rose to power and only kept rising.”
+
+Artemis remained quiet as Nature’s Attendant began pacing back and forth.
+
+“When Yip broke all records and became a Godking, we looked at him as if he were some interesting curiosity. When he broke through that barrier and entered the Empyrean Steps, some began to take him more seriously. When he began walking those Steps, it became a concern. In less than an era, he had caught up with and surpassed many who regarded themselves as part of the old guard. Gods who had been around since the first few eras.
+
+“Some viewed Yip as a sign of hope, which confused many of us. Hope against what? That’s when much of the resentment that had been hidden came to the fore. It’s in our nature to expand our factions, claim territory, resources, and recruit those we deem worthy, but this left many of the gods unwilling to serve other gods in the dust. They felt suppressed, undermined, and they began to resent those of us who monopolized everything. With Yip at their helm, they believed they had found a god capable of standing up to even the Primordials.”
+
+“They were obviously wrong,” Artemis shook her head.
+
+“No,” Nature’s Attendant said in a stern voice. “They were not. And that’s the true cause for concern. Yip of Yore was impatient. He had barely lived for a full era before he foolishly tried to kill the Malefic Viper of all gods. Now, imagine if Yip had been smarter. What if he had waited for another era? Five more? What if he had honed himself and fully realized his Path before aiming for the throne? If he had... things could have gotten dangerous. Very dangerous.”
+
+“You’re saying that- “
+
+“Another Yip of Yore will rise, of that, there’s no doubt,” Nature’s Attendant said as he looked at Artemis. “And there is a good chance the next genius who will make a meteoric rise has already been born. In fact, it may be the hunter we just met. So far, his performance has already surpassed Yip of Yore even when they were the same grade, and if he continues that growth...”
+
+Artemis had considered Jake becoming a god, but a part of her had somehow not considered what kind of god he would become. It was normal for new gods to be a lot weaker than the older ones, and even if they could catch up somewhat, given enough eras, they would be playing catch-up forever. However... Nature’s Attendant was right that Yip had seemingly broken that balance entirely. By the time he died, he had already been a god that surpassed Artemis several times over. If Jake indeed became a god that matched or surpassed Yip, the caution of the other gods made a lot more sense.
+
+“You want to ensure the next rising star isn’t antagonistic towards us,” Artemis said. “No, better than that. You want that person to consider us an ally already, or, at the very least, to recognize our respect for the new generation.”
+
+“We are merely positioning ourselves for a change that is inevitable,” Nature’s Attendant nodded. “You have already seen some of the young geniuses from this new generation. I’m not even talking about the Chosen of the Malefic Viper, but those from his planet. Several of them are candidates to become another figurehead for the younger gods, and in the rest of the new universe, there is no lack of such candidates. Ell’Hakan, the former Chosen of Yip, was also a monstrous genius in his own right and only fell because he made an enemy of one superior to himself.”
+
+“And a rising tide raises all boats,” Artemis muttered. “The competition amongst the generation will allow them to spur one another on to reach even greater heights. The Records will echo among them, creating an even stronger effect as they inadvertently help one another.”
+
+“Dina has already experienced this,” the second-in-command of the Pantheon of Life said with a small smile. “Those fifty years in Nevermore were far more beneficial than I can even imagine. Not just for her immediate growth, but the Records from the connections she formed will help her Path greatly.”
+
+“I will admit, I know little about Jake’s party members outside of the cursory,” Artemis confessed. “Well, I know Dina, and I’ve heard much about Sylphie, but the swordsman and the Unique Lifeform, not so much.”
+
+“Yes... the swordsman,” Nature’s Attendant said. “A Unique Lifeform is a Unique Lifeform. Powerful by default, as is their birthright. However, that swordsman... I cannot quite find the words to describe him. He is overshadowed by his proximity to the Chosen of the Malefic Viper, but we cannot overlook or forget about him. Doing so would be a grave error.”
+
+“He’s that powerful?” Artemis asked with some surprise. “I understand he’s a Transcendent, but from what I know, it’s not an overwhelming one. Glimpse of Spring, I believe it’s called?”
+
+Nature’s Attendant smiled and shook his head. “The hint lies in the name. Glimpse. I’ve not been privy to it, but during his battle with Umbra in the Colosseum of Mortals, he fully unleashed it. Afterwards, the recording has been sealed, and the Court of Shadows refuses to share any information. All I do know is that afterwards, the swordsman’s danger rating in the Court of Shadows’ internal system was upgraded and is now equal to that of the Chosen of the Malefic Viper.”
+
+Artemis frowned as she recalled the otherwise unassuming old-looking swordsman. Besides looking old, Artemis hadn’t picked up anything else special about him besides perhaps his calmness. She had seen the recording of her image losing to him in the Colosseum of Mortals, and from that alone, it was clear he was an extremely skilled swordsman, but still. The highest danger rating from the Court of Shadows was not easily achieved.
+
+“Anyhow, enough talking about the future of the multiverse,” Nature’s Attendant said. “Instead, let us go plant a seed to further the relationship between the Pantheon of Life and the person who seems to be at the center of this new era. I also wouldn’t want to hold you here for too long, so you can get back to him.”
+
+Artemis nodded as she and Nature’s Attendant teleported away toward the personal garden of the god. This conversation had been very clarifying to her, and she also felt that she was considered closer to the absolute apex of the Pantheon of Life than ever. Perhaps some of their thoughts and concerns also extended to her now, if she truly did continue to grow closer to Jake.
+
+However, so did the expectations and hope she suspected Yggdrasil and Nature’s Attendant both held toward her. It was almost funny to consider the impulsive and emotional decision to pursue Jake that both her image in Nevermore and her true self outside had made would somehow become part of the considerations made by Primordials and other apex beings regarding the future of the entire multiverse.
+
+Seeing her own recent progress after many years of stagnation, she also began to think that perhaps the rising tide of the new generation was a lot higher than even the top factions realized.

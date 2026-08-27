@@ -1,0 +1,141 @@
+---
+id: 3e89bd13-e022-5e31-97fe-c585df0c6484
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1239 - Dragonslayer"
+slug: 0111-chapter-1239-dragonslayer
+partOf: the-primal-hunter
+position: 111
+ownLength: 2809
+unit: words
+ownProgress: 2809
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2968231/chapter-1239-dragonslayer"
+royalRoadId: "2968231"
+markedReadAt: "2026-06-29T19:32:47.248Z"
+---
+
+Jake entered meditation and allowed his senses of the world to fade away, which also had the lucky side-effect of removing any sense of pain. This allowed Jake to focus fully on recovery while also going through his system messages, of which he had quite a few.
+
+He also reflected a bit on his conversation with the aunt of Yrelstromoz and noted that she called him a Dragonslayer towards the end. In truth, he had found that a bit odd, especially the way she’d said it.
+
+It sounded like both praise and a slight warning at the same time. He had found it pretty damn weird, at least until he saw his system notifications and saw one sitting there right at the top. He hadn’t even noticed it before now… but apparently, Dragonslayer was an actual system-recognized title.
+
+Title Gained: [Dragonslayer]
+
+[Dragonslayer] – Slay a dragon. This title marks you as someone who has successfully slain a True Dragon in single combat. Wear it with pride, for all shall know of your feat, for better or worse. Dragons can innately sense that you have slain one of their kin. Grants negligible resistance to the Draconic Language skill.
+
+Jake read the description and noted that it didn’t really seem to do much of anything. It reminded him a bit of the Kingslayer title he’d also obtained back when he killed the King of the Forest. The benefits of the Kingslayer title were notoriously weak, as nobility-based skills tended not to work on powerful people, anyway. Such skills tended to be population-wide, and in fact, having resistance could prove detrimental rather than beneficial. At least Jake had never benefited from his title as far as he knew.
+
+However, that didn’t mean the Kingslayer title was useless… it just didn’t necessarily help the one who had it much. Instead, it was a title others could sense, serving as a warning. A system-recognized King could recognize that Jake had slain another king before.
+
+In the same vein, this skill would allow other dragons to know Jake had killed a dragon. It felt more like a mark on his existence, telling other dragons he was a potential target for revenge more than anything, a bit like if one were branded a heretic.
+
+Not that Jake particularly cared if dragons were butthurt that he’d killed one of their kind. He seriously doubted any dragons would dare raise an issue with the Chosen of the Malefic Viper over something like that, so Jake would wear the title with pride. Besides, it did make Draconic Language less effective on him, even if the effect was minuscule.
+
+Overall, he found the title odd and would ask Villy about it later.
+
+Moving on, Jake had naturally also gained some experience, but before that, he checked out the kill notification as he was curious exactly what level Yrelstromoz had been. He expected her to barely be B-grade… and he couldn’t have been more right.
+
+You have slain [Luxellian Dragon – lvl 350] – Bonus experience earned for killing an enemy above your level
+
+She had indeed barely evolved and hadn’t even gained a single level after becoming a B-grade. Likely her Path had been too broken, and it was only due to her heritage that she’d even become a B-grade in the first place, as all she had to do to get there was stay alive.
+
+As for her race as a Luxellian Dragon, Jake believed it was one of the most common dragon races from the Lumenflight – as common as a dragon could possibly get, anyway.
+
+Yrelstromoz had no doubt been a weak True Dragon, but she had proven herself a True Dragon in the end. Even the curse she tried to place on Jake at the moment of her death had some real heft behind it, and if not for Eternal Hunger making him borderline immune to curses at that level, he would have been in for a bad time.
+
+The system also agreed that, despite her relative weakness, it was a good kill. At least he wasn’t going to complain about the experience gained.
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 333 - Stat points allocated, +50 Free Points
+
+…
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 337 - Stat points allocated, +50 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 339 - Stat points allocated, +45 Free Points
+
+…
+
+’DING!’ Race: [Human (C)] has reached level 341 - Stat points allocated, +45 Free Points
+
+Five class levels, while toward the end of C-grade, were pretty damn good, especially when one considered his prey had only just been B-grade. Jake had killed a lot of B-grades that were higher level without even getting close to getting a level from them.
+
+Seeing his level-ups and that his race was now level 341, he wondered what Yrelstromoz would have thought if she knew a level 338 had killed her. For a C-grade human to kill a True Dragon was already a massive feat, but to do it while not even at peak C-grade yet had to be even more impressive.
+
+Though truth be told, Jake felt that if he’d been peak C-grade, this fight would have been too easy. While those levels wouldn’t offer a massive boost in power, they would most certainly have mattered.
+
+Not that Jake planned on putting it to the test. He wasn’t planning on hunting more True Dragons for now, though who knows about the future. Jake felt about True Dragons a lot like he felt about hunting other humans or enlightened races. It felt weird to do. Yes, Jake knew this was incredibly hypocritical, seeing as finding any B-grades outside of elementals and some rare other types of monsters who weren’t sapient was pretty damn hard.
+
+Either way, Jake moved on as he had one more important thing to check out: his gift for allowing Yrelstromoz’s aunt to take her body. Jake didn’t have super high expectations or even put much consideration into his loot from the fight, especially not with how many rare and expensive dragon parts he’d gone through to make his Dragonsbane Poison… yet he found himself pleasantly surprised when he finally Identified it.
+
+[Light-touched Luxellian Dragon Heart (Mythical)] – The heart of a Luxellian True Dragon, touched and empowered by her kin mere moments after death. Contains the focused Records of a Luxellian True Dragon, granting it incredibly potent energy of the light-affinity and even the true essence of a dragon. Has many alchemical uses, but be warned that manipulating the inherent power within will not prove easy.
+
+Normally, the Dragon Hearts Jake used for his alchemy were of legendary rarity, and in many cases, it wasn’t even the full heart he used but just parts of one. He’d expected to see another legendary item at most from Yrelstromoz, but it appeared that he had severely underestimated the effects of whatever the aunt had done.
+
+As for what he would use it for, Jake legitimately had no bloody clue. He considered eating it with Palate, but he still had half a desolate-ridden World Core to get rid of first. While it was an option to get rid of that core now, and it would likely even be the smartest move, Jake stubbornly wanted to keep it in there and at least get enough benefits from breaking his Palate skill while eating it to make himself feel a little better about his questionable decision-making.
+
+Jake also only really now thought about how this was probably his first major fight like this that hadn’t resulted in any skill upgrades. Usually, he got at least an upgrade or even two during scenarios like these, but this time, nothing.
+
+Not that it should come as a surprise. Mid-combat skill upgrades were meant to be extremely rare and something some people never even experienced. Jake remembered talking to Dina in Nevermore, and she mentioned how that wasn’t really a thing for her.
+
+Instead, she would get inspiration for her skill upgrades during the fight, then consolidate those insights into an upgrade afterward — and, as Jake understood it, this was actually intentional. It was an approach to skill upgrades she’d been taught.
+
+It was similar to how Jake had purposefully not wanted to upgrade his Meditate skill before going straight for the massive upgrade he ended up with. Others took it to what Jake would call extremes and didn’t want to get any skill upgrades without proper forethought behind them. In some cases, people even avoided upgrading a skill even if they could because they didn’t want to take it down a certain path.
+
+Logically, it made sense. Getting a “bad” skill upgrade could result in making it far harder to upgrade it in the future, especially if one got unwanted aspects mixed into the skill. Take Jake’s Arcane Powershot. If Jake got an upgrade where he mixed in, say, the dark affinity or something like that to make the arrow explode in a big cloud of smoke, the skill would now contain Records related to that affinity.
+
+While that could make the skill stronger now, it would also muddy the skill’s future upgrade path and risk making it an amalgamation of too many things at once that didn’t necessarily work that well together. In instances like those, Arcane Powershot could even end up weaker than what Jake wanted it to do, despite being a higher rarity.
+
+Not that all this logic had ever stopped Jake from mid-fight upgrades before. Jake had embraced his instinctual side when it came to upgrades, especially combat skills. While he could be the type to sit down and plan out upgrade paths to his skills, Jake just isn’t that kind of person and trusted that even if he messed things up here and there, he could always get back on the right track if he continued to trust in his own instincts.
+
+With all that said, Jake would have liked a skill upgrade, but alas, if it didn’t come, it didn’t come. He was overall happy with how things had gone, and was especially pleasantly surprised by Event Horizon.
+
+He’d barely even gotten to use it, but that one arrow he fired after using the skill kept replaying in his mind. The sheer level of speed and power the mythical skill added to his shot was unlike anything Jake had seen before, and the knowledge he was barely scraping the surface of what the skill would one day be capable of doing only made everything all the better.
+
+The skill definitely also had some downsides, though. Firstly, there was the cost of resources. It had not been cheap to use and had drained Jake of way more stamina and mana than he’d first believed it would. Secondly, it was a skill that worked only on one target, and Jake believed it could even prove detrimental if he used it against multiple opponents at once. While a target was designated as his Event Horizon, Jake couldn’t really attack anything else using his ranged attacks, as everything sought toward the horizon automatically. Canceling the skill didn’t seem possible either, forcing him to wait for its expiration.
+
+None of this would be a problem if Jake could do more than merely glimpse the Event Horizon, a day he was most certainly looking forward to.
+
+For now, he was just happy with what he had as he sat in meditation while recovering. His new Meditate skill came in handy once more, and while he was tempted to take a peek at the Gate of Enlightenment, he held himself back, seeing as he was on a foreign planet in the middle of nowhere.
+
+Hours passed as Jake recovered, his body healing pretty damn quickly. After about four hours, Jake felt a lot better, though he was still far from being in top form. Opening his eyes, Jake cracked his neck before standing up. He floated upwards to get out of the crater Yrelstromoz had formed when she crashed into the planet, and as he ascended, he got a good look at the devastation caused by the fight.
+
+As far as the eye could see, the environment was completely destroyed. Craters and holes filled the ground everywhere, and several large fissures had opened up here and there. Looking into the horizon, he saw that several mountains had their entire tops cleaved off by one of Yrelstromoz’s beams. His choice to make her fight on the other side of this planet had definitely been a good one, because if they’d fought near the lake with the holiday resorts, there would no longer be any holiday resorts. Maybe not even a lake.
+
+“In case you’re wondering, they are mid-evacuation right now after unidentified seismic activity and powerful shockwaves of energy echoing all the way across the planet,” a voice suddenly spoke behind Jake. “Also… there was one casualty. Not due to the battle, mind you, the guy was just an old as fuck E-grade who drank way too much and poisoned himself to death.”
+
+“Glad to see you caring enough for the civilian population to keep track of them,” Jake said as he turned around and saw the familiar snake god floating there.
+
+“Oh, I don’t; I just thought it would be a funny and topical icebreaker,” the Primordial shrugged.
+
+“Fair enough,” Jake smiled as he thought of something. “Wait, is it fine for you to appear here like this? Won’t it cause any problems?”
+
+Jake remembered the Viper talking about how he couldn’t just pop in when Jake wasn’t in territory controlled by the Order of the Malefic Viper. For example, he couldn’t just choose to teleport into the domain of the Pantheon of Life whenever he wanted, as that could cause quite an uproar.
+
+“This entire part of space is free real estate, and the closest major faction with any claim is the Lumenflight,” Villy answered casually. “Did I probably make a lot of gods whose senses cover this area panic? Yes, yes, I did. Do I care? No, no, I don’t.”
+
+“Now that’s also fair,” Jake chuckled, shaking his head. “Say, speaking of the Lumenflight, there really won’t be any problems, right? I’m sure you say, but Yrelstromoz’s aunt stopped by and took the corpse, and while it feels like they won’t try for revenge… You never know.”
+
+“I can’t say someone with a personal relationship won’t try to get revenge, but I can say that the Lumenflight won’t,” the Viper shook his head. “Didn’t I tell you that she killed the kid of some demigod from the United Tribes?”
+
+“You did,” Jake nodded.
+
+“Yeah, so she was dead meat anyway,” Villy said. “You seriously think she would have ever gotten away with shit like that? She would likely have died sooner if I hadn’t more or less reserved her for your hunting pleasure. If I were you, rather than the Lumenflight being mad at you, I would be scared of the Court of Shadows, as I may or may not have snatched one of their contracts.”
+
+“Oh,” Jake muttered. “Alright, yeah, makes a lot of sense. I did question whether her punishment would really only be that they threw her out of the Lumenflight.”
+
+“From the Dragonflights’ side of things, it was the only consequence,” the snake god explained. “It’s just that the second she was thrown out, she lost all the protection they afforded her while putting a target on her head… speaking of a target on her head.”
+
+Villy waved his hand and took out a token before throwing it to Jake.
+
+Catching it, Jake looked confused down at it. “What’s this?”
+
+“The one to contact to cash in the bounty,” the snake god said, his tone making it sound as if Jake’s question had been the dumbest thing he’d ever heard.
+
+“Yrelstromoz had a bounty on her head, huh…” Jake muttered.
+
+“Obviously,” the Viper shrugged. “As I said, she was a very dead dragon from the moment she pissed off the United Tribes and got kicked out of the Lumenflight. I genuinely believe that aunt of hers when she said she was thankful you were the one to kill her niece. If she had to die, it’s a least more respectable to be killed by the Chosen of a Primordial rather than a gang of regular bounty hunters, or worse yet, the Court of Shadows, where your corpse would just be left floating in the Shadow Realm.”
+
+“I guess,” Jake said with a shrug. “Anyhow, you got any comments on the fight?”
+
+“Eh, for the most part, it was as I’d expected, though I do have one minor question,” the Viper said casually before his demeanor changed and he turned more serious. “Was that Event Horizon thing really a class skill?”

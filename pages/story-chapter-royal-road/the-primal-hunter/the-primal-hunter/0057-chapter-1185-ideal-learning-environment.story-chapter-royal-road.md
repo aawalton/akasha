@@ -1,0 +1,161 @@
+---
+id: 1d74b847-f582-5d41-8fb8-febbb10947d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1185 - Ideal Learning Environment"
+slug: 0057-chapter-1185-ideal-learning-environment
+partOf: the-primal-hunter
+position: 57
+ownLength: 2778
+unit: words
+ownProgress: 2778
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2696448/chapter-1185-ideal-learning-environment"
+royalRoadId: "2696448"
+markedReadAt: "2026-06-29T19:31:04.288Z"
+---
+
+He sure isn’t holding anything back, Jake thought to himself as he used One Step to teleport away from the barrage of arrows that descended from above. When they hit, the ground exploded as a massive crater opened up, forcing Jake to teleport one more time to get away without being caught by any of the debris.
+
+After stabilizing, Jake glanced at his opponent up in the sky as he confirmed he was indeed just fighting a C-grade.
+
+[Beastkin – lvl 348 – Greater Blessing of Artemis]
+
+The beastkin was a large man, clearly descended from a tiger of some kind. He stood at just above four meters tall, and the bow he wielded barely qualified to be called a bow and was more like a ballista, going by its size. Of course, it was still hand-drawn like a real bow, as Artemis would never bless anyone if their weapon was even crossbow-adjacent.
+
+Jake was thrown out of his thoughts as another arrow flew toward him, this one even faster than those prior. Each arrow looked to be made of solid metal, which was likely a requirement for what made them so powerful.
+
+Shooting toward the sky to dodge, Jake felt his own body being weighed down simply from being in the trajectory of the attack. This forced him to respond by covering himself in a faint layer of arcane energy so he could properly dodge and loose a retaliatory shot.
+
+Right after he released his arrow, the one he had just dodged struck the ground, creating another massive crater as the entire moon seemed to shake from the impact. Shortly after, Jake’s own attack arrived, forcing the beastkin to summon a layer of energy that stopped the arrow dead in its tracks.
+
+With a light smile, Jake made it explode, taking the beastkin by surprise and forcing the C-grade back. Jake had done little to no damage, and his opponent quickly recovered, nocking another arrow.
+
+From the string being drawn alone, Jake felt his own body grow heavier once more, but he responded by also getting into position and drawing himself. He released his arrow first and had another two airborne by the time the beastkin was fully done drawing his string.
+
+Another incredibly powerful arrow was released, making space itself slightly implode in its wake. It encountered Jake’s arrows soon after, breaking through them one by one as each exploded once hit.
+
+Despite his arrows being destroyed, Jake kept shooting with no intention of dodging. The arrow continued toward him; however, just before it struck him, Jake’s final arrow managed to blow it apart entirely, nullifying the attack.
+
+Jake looked to the sky and saw the beastkin grin, making Jake respond in kind as both drew their bows once more. Soon after, the sky of the barren moon was once more filled with the explosions of arcane mana and the subtle quakes of space caused by powerful gravity magic.
+
+Skipping back a bit, Jake was naturally in the midst of experiencing the promised archery sparring from Artemis, and this was his first opponent so far. Before going into it, Jake had several questions, including whether her helping him directly like this could risk exposing that they were closer than most assumed, but she had shut that down pretty quickly.
+
+“It’s well known that I’m one of the people meant to make your stay in the Pantheon of Life comfortable, including my role to assist you in improving your archery, so me helping you like this is the opposite of suspicious.”
+
+As for Jake’s fear that people could read something from how Jake and Artemis interacted, she also had a brilliant way to avoid that: they wouldn’t ever see Jake and Artemis together. In fact, they wouldn’t see Artemis at all.
+
+Instead, things had been way simpler. Jake had just been teleported to the moon, with a quick briefing on the opponent he was about to fight, likely to help Jake know what to look for. A bit later, another person was teleported there. After some polite greetings from which it was clear his opponent already knew why he was there and had also gotten a quick briefing on what Jake could do, the two had just gotten right into it.
+
+Jake had also been a little afraid his opponents would maybe hold back since they were afraid of turning Jake into an enemy by potentially “embarrassing” him, but so far, the beastkin hadn’t shown himself to give a single shit about that.
+
+When it came to the rules of engagement, they were simple. All skills besides defensive and movement skills were banned, including ones for boosting and even bow-related skills like Powershot. Jake and his opponent could rely only on their archery and other passive skills to hopefully get an advantage over the other.
+
+As for their battleground... well, Jake still felt a little sad about not taking over Earth’s moon, so Artemis offered to just have them fight on some other moon in the vast territory belonging to the Pantheon of Life. There were countless completely barren ones just floating around, sometimes equally barren planets, and wanting to at least get some kind of moon trip, Jake agreed to fight on one.
+
+And that was pretty much all the setup behind Jake finding himself fighting an archer using gravity-infused arrows on a moon. Genuinely one of the most enjoyable ways to spend his time, according to Jake.
+
+He had quickly realized that when it came to pure power, Jake’s opponent outmatched him several times over. The arrows he shot were all infused with gravity magic, but even without it, they were large and insanely heavy. That’s also part of the reason why the beastkin was a lot slower at shooting.
+
+While Jake’s Arcane Arrows instantly conjured an arrow to shoot, the skill used by the beastkin was slower, but summoned more powerful ones. Jake did learn that the beastkin could also summon his arrows faster, but if he did so, they would be far weaker and not capable of taking full advantage of his stats.
+
+That was another difference between Jake and the beastkin. While Perception was Jake’s highest stat by a fair margin – as it should be – Agility was his second highest, making him quite fast.
+
+The beastkin, on the other hand, had gone fully into Strength. Mind you, Perception was still his second-highest stat, but in part due to his Lineage as a Beastkin, he just got way more Strength per level up than usual.
+
+Besides that, both of them had a decent amount of magical talent, with Jake naturally having a lot more, courtesy of his Path as an alchemist. The beastkin was no slouch, though, and used several defensive skills based on his gravity magic to nullify Jake’s blows, and he could even change his own gravitational orientation, allowing the beastkin to dodge around simply through thought. This method also partly bypassed the relatively low Agility of the beastkin, so a pretty smart strategy.
+
+However, perhaps the coolest thing was how the beastkin infused his archery with gravity magic. More accurately, the stats behind it. Similar to Jake’s archery skill, it was primarily based on Perception, with Strength a secondary stat to amplify it.
+
+Jake hadn’t even considered that Perception could be a stat that empowered gravity magic, at least not directly. However, it appeared that the stat could influence far more things than he’d first expected, and that knowledge was exciting in its own right.
+
+Ultimately, Jake didn’t end up getting anything tangible out of this first fight. The beastkin’s archery had some obvious weaknesses, primarily lying in how slow he was to attack compared to Jake. Also, while he could be a tricky guy to hit while dodging, he more often than not found himself forced to block hits rather than avoid them, which put a definite limit on what kind of opponent he could handle.
+
+Their duel ended up taking around an hour before Jake managed to land enough arrows for Artemis to step in. Rather than teleporting in, she decided to make her presence known through her aura descending upon the celestial object.
+
+“Enough, we shall stop here. Yljultar, your archery has grown once more, but you remain rigid in both Path and mindset. Expand your approach and be willing to integrate more concepts than simply gravity into your arrows. There are many universal ones that could still...”
+
+Jake listened attentively as Artemis gave a quick archery lesson to the beastkin, who was down on his knees, totally ignoring his injuries as he stared at the sky with a face full of reverence.
+
+While Jake didn’t believe he could learn much from hearing a lesson made for another, he still wanted to see if he could, and either way, he wouldn’t be enough of a dick to complain. In fact, Artemis being a good Patron to these people who had come to help him train archery only made him feel better about the entire ordeal.
+
+In the eyes of these C-grades, having their Patron directly approach them with a task and then even compensate them afterwards had to be seen as a massive opportunity. Even if what Artemis spoke to them about never manifested into anything they used in their Path – a highly unlikely outcome – just the Records they would gain from a personal lesson by their Godqueen Patron was more than worth it.
+
+After Artemis was done speaking and her presence faded away once more, the beastkin Jake had just learned was called Yljultar turned toward Jake and bowed deeply. “I thank you for this duel, and I wish the Chosen of the Malefic One success on his Path.”
+
+“Likewise,” Jake nodded respectfully. A second later, the archer was teleported away, leaving Jake alone back on the empty moon floating in the darkness of space with only a distant sun providing any lighting.
+
+At least he was alone for a moment until a familiar wood elf goddess appeared.
+
+“He held on longer than I thought he would,” Artemis said from right behind Jake. “Last time I checked in on him, he was far more of a glass cannon who could do impressive damage but often found himself pressured and forced to use an expensive escape skill of his to survive. His defenses have definitely improved.”
+
+“I can only imagine how dangerous he could be in a war or something like that,” Jake muttered. “Those arrows carried some serious power.”
+
+Turning to see the many new craters covering the surface of the moon, it looked like it had just suffered from a meteor shower, with some of the larger craters over a dozen kilometers in radius. All from arrows shot only using passive archery skills.
+
+“Too much at times,” Artemis sighed. “They lack efficiency and are often hard to use when fighting in a party.”
+
+“I can see that,” Jake nodded. “Who’s my next opponent?”
+
+“A far more classical archer,” Artemis said with a smile. “One that’s a good deal stronger than the last one.”
+
+“Now you’re getting me excited,” Jake grinned.
+
+“Happy to please,” the Godqueen chuckled. “But you should recover fully first to meet her at full power.”
+
+“Probably wise,” Jake nodded as he sat down. Right before entering meditation, he looked up at the goddess. “Say, how many opponents have you got lined up?”
+
+“Hopefully enough,” Artemis just answered with a sly smile. “See you a bit later... oh, and try not to get your ass kicked.”
+
+With those words, she disappeared, leaving behind a small crystal containing some surface information on his next opponent for Jake to study during meditation. As he hadn’t used his boosting skills, it didn’t take long before Jake was ready once more, and when he was, he stood up and nodded toward the sky.
+
+“All good to go.”
+
+A few seconds later, space rippled as, a few dozen meters away, a figure appeared. It was a wood elf like Artemis, wearing expensive-looking leather armor and already holding a bow that made Jake do a double take.
+
+She’s not weak.
+
+[Wood Elf – lvl 338 – Divine Blessing of Artemis]
+
+Ten levels lower than the beastkin but still thirteen above Jake himself. Compared to her last opponent, he could tell she was far superior right off the bat.
+
+While he was observing her, she also gave him a good look before cupping her hands and bowing. “I greet the Chosen of the Malefic One.”
+
+“Pleasure to meet you,” Jake nodded. “And thank you for taking the time.”
+
+“Your gratitude is entirely unnecessary; it should be me thanking you for allowing me to spar with the Chosen,” she said respectfully. “I hope my skills are sufficient to serve as inspiration.”
+
+“I’m looking forward to finding out,” Jake smiled as he waved his hand and summoned his own bow. “Ready when you are.”
+
+“Excuse me, then,” the wood elf bowed and stood up straight again. Jake waited for her to make the first move. From the information crystal, he knew she specialized in a mixture of wind and nature magic; however, her way of utilizing these two common affinities was quite unique.
+
+The result of her Path was that she had one aspect that far surpassed pretty much everyone else her level:
+
+Speed.
+
+Jake moved according to his danger sense as the arrow was in flight, roughly the same time he saw her move. She had only raised the bow slightly as the string had seemingly been pulled back on its own, as an all-wood arrow appeared and was loosed in an instant.
+
+Dodging the first arrow, a second one came right after, this one manually drawn by the wood elf and containing even more power than the first. He also dodged this one as he released an arrow of his own, right as he saw another two arrows already in flight toward him.
+
+In a swift movement, the wood elf dodged Jake’s arrow as he also moved away to avoid being hit. The two shot two dozen arrows after each other over the next few seconds – the wood elf shooting three for every one Jake got off – and this exchange finally allowed Jake to see what she was doing.
+
+Her bow was practically alive, the string a vine, and the wood bending on its own to release arrows in between her manual shots. It was almost as if the bow mimicked her movements in an even faster fashion, making her shoot twice as many arrows, even if these echoed ones were weaker.
+
+Moreover, these arrows came at Jake like the wind, curving, twisting, and more than a little difficult to keep up with. Not to say Jake couldn’t keep up, the problem was that he didn’t get many chances to retaliate without risking being struck.
+
+His decision to fight on a barren moon had definitely come back to bite him in the ass. Under usual circumstances, there would have been environmental obstacles he could use to defend himself and obscure his opponent’s vision while relying on his own sphere and pulses to keep track of the other party, but that wasn’t an option with his current choice of battlefield.
+
+All he could do was keep up and try to read the pattern of his opponent’s attack to hopefully find more openings... which was when he noticed something else unsettling:
+
+She was getting faster.
+
+The wind energy seemed to grow in intensity, the arrows growing faster. Meanwhile, the bow she wielded took in more and more energy. Jake was forced into summoning barriers to deflect the incoming arrows, but found them unable to block the attacks fully.
+
+Jake felt like he was caught in the middle of a storm with arrows raining down on him from all sides, curved and manipulated by the wind as his opponent just kept getting faster and stronger with every passing moment.
+
+It was to the level where Jake began to question if his opponent wasn’t actually using a boosting skill... which was when he heard a voice in his head.
+
+“I think I forgot to tell you... She recently had an impressive epiphany, and in a surprising turn of events, her first-ever mythical skill turned out to be her archery one!” Artemis said in an amused voice.
+
+That explanation certainly helped clarify things as Jake was sent stumbling back, an arrow sticking out of the side of his shoulder as he failed to dodge in time, with more than a dozen additional arrows already headed straight for him with ever-increasing momentum.
+
+Truly, the setup for an ideal learning environment.

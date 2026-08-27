@@ -1,0 +1,177 @@
+---
+id: 7d17cc78-3bbc-524a-b0d8-5df3fa0ef327
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1170 - \"It's a date.\""
+slug: 0042-chapter-1170-it-s-a-date
+partOf: the-primal-hunter
+position: 42
+ownLength: 2762
+unit: words
+ownProgress: 2762
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2643406/chapter-1170-its-a-date"
+royalRoadId: "2643406"
+markedReadAt: "2026-06-29T19:30:35.428Z"
+---
+
+Artemis instantly noticed something was wrong because of the familiar voice and tone as she looked up and saw Jake smile goofily back at her, instantly confirming to her that this wasn’t the Viper.
+
+“What’s happening?” she asked, genuinely confused. She knew Jake had just recently gotten a new skill related to his profession, and upon seeing Jake emitting the aura of the Malefic Viper, she assumed it was one that allowed him to function as a conduit for his Patron.
+
+However, now that assumption seemed very wrong, seeing as Jake chuckled loudly.
+
+“No need to be alarmed. I was just testing something out with the Viper,” Jake said as he took a deep breath and spread the aura even more than before. Artemis felt the passive suppression of a superior god, as if the Viper had indeed descended upon his Chosen. Despite this not being the case logically, she still reacted instinctively.
+
+“Did you uncover another loophole? If so, this may be your most powerful one yet,” the Forest King spoke as he entered the room properly after realizing it was just Jake cosplaying a Primordial. “The combat applications of being able to embody a god would be tremendous if for nothing else but the shock factor.”
+
+“Yeah, about that,” Jake chuckled. “I’m walking around at a steady pace for a purpose, you know? Because if not, I’m afraid I may overexert myself.”
+
+“Shouldn’t you stop?” Artemis asked with concern. “You are embodying an aspect of the Malefic Viper and channeling the Primordial through yourself right now, right? If so, that can’t be good for you.”
+
+“I’m doing something like that, yeah,” Jake nodded. “And it’s taking quite the effort to keep it going. At least I’m in no shape to fight while keeping it rolling, that’s for sure.”
+
+“What I’m worried about isn’t your current state, but what happens when you release it,” Artemis said, getting more concerned with every passing second Jake kept the skill going.
+
+Being able to possess one’s blessed as a god wasn’t anything unique. As long as they had a skill that allowed them to channel the god, they could be used as mouthpieces for limited durations. However, doing this took an extreme toll on the mortal’s body, and the longer it was done, the worse the backlash would become.
+
+It wasn’t at all uncommon for mortals to die after having a god possess them, as their souls risked crumbling under the pressure. The strain on the mortal also depended on the god, both in the sense that it got harder the stronger the god was, but it also depended on whether the god had skills or abilities to better channel their power through mortals.
+
+“I get your concern for sure,” Jake nodded. “But I’m good. Genuinely. Besides the pressure I’m under, which makes it difficult for me to properly display my power and the constant drain on my energy reserves to keep it going, there are no other drawbacks. At least not right now.”
+
+Artemis continued to look concerned as Jake kept smiling, clearly happy his silly little experiment—one that Artemis could only begin to imagine the future consequences of—succeeded.
+
+--
+
+As Jake was having fun playing his prank on the household, he was also having a nice conversation with his Patron to evaluate matters.
+
+“I would say it’s working quite well. In fact, I’d go as far as to say it’s better than expected,” Villy shared his thoughts as Jake kept Invocation active.
+
+“Hey, my soul isn’t actively being destroyed by your aura, and I’m not even draining myself dry of resources in mere seconds, so it can’t be called a total failure,” Jake somewhat agreed.
+
+“Come on, neither of those things would have happened! At most, you would have been knocked out cold for a few days or weeks for your soul to recover after experiencing extreme shock,” the Viper joked. “Anyway, you reckon you can keep it going for quite a while, eh?”
+
+“Definitely,” Jake confirmed. “But it does drain a lot more energy than Pride usually does, and the limitations of Invocation still apply, making it more unstable with time. I reckon more powerful gods will be able to detect something is amiss if I keep it going for more than five minutes.”
+
+“Keeping it going for more than that would also be extremely suspect, as usually mortals can’t channel their gods for even close to that long. With your Bloodline and powerful soul, it can be excused why you can handle it, but five minutes is already pushing it, so I won’t really call it a drawback,” Villy said.
+
+“And you’re all good on your end with doing this? No negative consequences for you?” Jake wanted to make sure.
+
+“None. I’m not really doing much different from if I possessed an actual faithful of mine,” the Viper said. “Unlike you, who refuses to yield control to your Patron even when he grants you the honor of descending upon your soul.”
+
+“Hey, I’m pretty sure a certain part of me wouldn’t be very inviting if you actually tried to channel your will through my body,” Jake said.
+
+“True, true. Nearly makes me want to try it, but I’ll be nice and not poke the Bloodline,” Villy chuckled. “Alright, now. When you feel any level of instability begin to occur, deactivate Invocation to see what happens.”
+
+“Aight,” Jake agreed as he returned more of his attention to the real world.
+
+“Hey, Artemis,” Jake said to the Godqueen who’d been observing him with a mix of interest and concern. “I’m gonna deactivate the skill soonish, and I’m unsure what will happen then. I assume nothing bad, but if I do accidentally knock myself out, can you at least make sure I have a safe landing?”
+
+“I’m nearly inclined to make sure you hit the floor face-first,” Artemis said, crossing her arms.
+
+“I could assist by providing a downward force to ensure his face impacts the floorboards before the rest of his body,” the Forest King helpfully offered.
+
+“You two are so nice to me,” Jake smiled, knowing it was definitely his fault for playing a prank on them. “Anyway, let’s wait and see if I’ll need to regrow my teeth.”
+
+With that, they waited as Jake kept channeling Invocation to empower Pride of the Malefic Viper.
+
+For clarification, what Viper and Jake had done was for Jake to not only channel Invocation but also use Pride of the Malefic Viper to create a domain infused with his energy. During this, the Viper would purposefully be involved and use a slightly modified version of his ability to channel himself through his blessed. This resulted in Jake being fed specific Records through their connection, which caused Jake’s aura to mimic that of the Malefic Viper perfectly.
+
+To an outside observer, they would believe the Malefic Viper was currently possessing Jake and channeling his power through him. Meanwhile, Jake would remain in full control, even if everyone else thought he was the Malefic Viper.
+
+Now, this wouldn’t allow Jake to trick people into thinking he was capable of using the power of the Malefic Viper. Again, channeling one’s divine power through mortals and speaking through them wasn’t anything novel, only the part where Jake remained in control and didn’t have his entire soul and body fried whenever he did it.
+
+However, that didn’t make it useless. Quite the opposite. Even if Jake couldn’t make people think he was capable of unleashing the powers of the Malefic Viper, he could make them think they were speaking to a Primordial, and if Jake knew one thing about the relationship between mortals and gods, it was that mortals got weird when gods were directly involved.
+
+Mortals, much less other gods, would hesitate to attack a Chosen being possessed by his god, as by doing so, they risked angering the Malefic Viper himself. Even if they had intentions to attack, they would usually do it after the possession ended, as while it was ongoing, they likely couldn’t attack even if they wanted to.
+
+The suppression a mortal would feel was enough for them to be completely unable to attack in nearly all cases. Another reason why waiting for the possession to end was smarter was due to what came after. Jake’s enemies would likely see it as a great opportunity for the Viper to first possess Jake, as it was common knowledge that the mortal would suffer a period of weakness akin to overusing a boosting skill, even in the best of cases.
+
+An expectation Jake soon learned could be another advantage, as he finally felt Pride begin to turn unstable, making him deactivate it and Invocation simultaneously.
+
+Upon doing so, the aura of the Malefic Viper slowly dispersed from the room, and Jake saw Artemis ready to move in case Jake collapsed, making him smile as he looked at her.
+
+“Knew you wouldn’t let me down,” he said, giving her a big thumbs-up.
+
+Artemis stared at him as the aura completely disappeared, a look of confusion on her face. “You’re fine?”
+
+Jake grinned as Arcane Awakening fully activated, flooding his body with power. “More than okay... as I said, no drawbacks or consequences whatsoever.”
+
+“Besides not being able to activate Pride of the Malefic Viper again for a time,” Villy accurately pointed out.
+
+Deactivating Arcane Awakening again, Jake felt more post-use weakness from that brief usage of his boosting skill than he’d felt from Invocation. While it would definitely be a niche use of Invocation, this meant Jake could potentially use it as a way to take an opponent by surprise when they expected him to be weakened.
+
+“Truly nothing?” Artemis asked to make sure, looking a bit doubtful.
+
+“I would advise against questioning Jake’s ridiculousness. It leads to nothing but headache and annoyance,” the Forest King chimed in. Jake was surprised at seeing the Unique Lifeform interacting so casually with a Godqueen, but he only saw it as a good thing.
+
+“Perhaps you have a point,” Artemis sighed. “I would advise against too many experiments like that, though.”
+
+“Why? We just established there were no negative side effects?” Jake asked, perplexed.
+
+“Because Jasper is scared out of his mind in the cellar,” Artemis pointed out.
+
+Jake had naturally noticed and just nodded. “That sounds more like an argument to do more experiments. The more we expose Jasper to that kind of thing, the more resilience he’ll build up. He can’t be a scaredy-cat forever.”
+
+“Fairly confident he can be. From what I know of Warpsnatchers, they’re all super cautious creatures who always play things safe. I would go as far as to say that being afraid of frightening things is a core part of Jasper’s Path and a huge driver of his survival instinct,” Artemis explained.
+
+“I still think it’s good to learn to overcome one’s own instincts and emotions,” Jake said.
+
+“I would listen to the hunter on that one,” the Forest King said. “I’ve seen the result of Jake fully giving in to his instincts.”
+
+“What happened?” Artemis asked curiously.
+
+“I died,” the Unique Lifeform answered nonchalantly. “Now, let me get back to my training. Preferably without any auras of Primordial’s descending to interrupt me.”
+
+“No promises,” Jake grinned as he waved the King off, leaving just himself and Artemis left in the room. Villy had also disconnected the telepathic connection, as they had nothing more urgent to talk about.
+
+Artemis stood there in thought for a while before she muttered her thoughts out loud. “I still have a hard time seeing the Malefic One agreeing to play some silly prank like that. It simply doesn’t fit the image I have of Primordials...”
+
+“Totally understandable,” Jake said with a loud sigh. “Even I cannot comprehend the profound thoughts of the Malefic One. We may refer to it as a simple prank, but in truth, I’m certain it’s all part of the Primordial’s greater plans in a grand game of ninth-dimensional chess concerning the destiny of the entire multiverse.”
+
+“I have an even harder time understanding what kind of god could endure having a Chosen like you,” Artemis chuckled. “Then again, how silly am I to willingly take you as a partner?
+
+“Or maybe you two are just some of the wisest gods in the multiverse who are capable of perceiving my awesomeness,” Jake grinned jokingly.
+
+“If thinking that makes you feel better, sure,” Artemis said, shaking her head. “Anyway, I should get going soon. Nature’s Attendant requires my presence at your bow formation. Speaking of which, I believe it will be ready soon.”
+
+“Ah, I was wondering. It has been a while since the last time he asked me to stop by and infuse energy,” Jake said, pleasantly surprised. Hearing her mention that the bow was soon ready, Jake was also reminded that his time at the Pantheon of Life was likely approaching its end.
+
+All he really had left to do there was Jasper’s ritual and fully finishing the bow ritual. Everything else he could do elsewhere, especially the poison research. While working on his toxins, it would be better to be either on Earth or the Order of the Malefic Viper.
+
+As a reminder, due to the Pylon of Civilization and Jake being the World Leader of Earth, he received a very small bonus to resource regeneration and non-combat experience gained while within the sphere of influence of a Pylon of Civilization he controlled.
+
+Meanwhile, at the Order, Jake was in the territory of the Malefic Viper, which had some subtle effects on Records gained and whatnot. It again wasn’t a lot, but every little bit mattered when one spent years upon years doing alchemy. Admittedly, the Order also had the advantage of being faster to get ingredients when making poisons, as their supply lines were superior to the Pantheon of Life in that regard.
+
+Seeing as his time at the Order was soon coming to an end, Jake considered if there was anything else important he still had to do... which was when he remembered something.
+
+Turning to Artemis, he smiled. “Say, we’re officially a couple, right?”
+
+“Are you sure there aren’t any side effects to that skill before? Because you seem to be suffering from memory loss,” Artemis said sharply.
+
+“Just wanted to confirm,” Jake said cheekily. “Seeing as it’s official, would you mind joining me for a couple’s thing?”
+
+“Now you’ve gotten me curious,” the Godqueen said, raising an eyebrow.
+
+“You see, I have a standing dinner invitation from this nice couple of hunters I met in the Hunting Grounds,” Jake said with a big smile. “I did them a favor, and they promised me a nice dinner in return. And I made sure to get a plus one.”
+
+Artemis looked at Jake for several seconds before just smiling. “You know what? Sure. So, who are these nice hunters you encountered on your adventures?”
+
+“They’re called Keerla and Solana, and trust me, you’re gonna love them,” Jake said. “In fact, I know you approve of at least one of them, considering you’ve blessed her.”
+
+Jake’s date for the upcoming dinner was silent for a moment before shaking her head. “This is incredibly silly, and I feel a little sorry for those two, considering I’m sure they invited you over so casually before realizing you’re the Chosen of a Primordial, much less that you would bring me along.”
+
+“Can’t see how that should disqualify me from getting a nice dinner,” Jake shrugged.
+
+“No, no, it doesn’t,” Artemis chuckled. “And if you promised, I guess you did sow a karmic seed. Better to not leave such things untouched, no matter how minor they appear.”
+
+“Yeah, exactly,” Jake nodded along, as if he’d totally considered that.
+
+“Also, I should definitely disguise myself or something...” Artemis sighed as she looked a bit troubled for a moment. “Why am I suddenly feeling nervous about something this stupid?”
+
+“Because it’ll be our first official date?” Jake said.
+
+“I want to say that’s not the case, but it probably is,” Artemis sighed. “Either way, whatever happens, it’ll be a novel experience. So go ahead already and reach out to set up a time for us to come by.”
+
+“It's a date,” Jake said gleefully and gave her a quick peck on the lips before he took out the wooden plaque he’d gotten from Keerla way back in the Hunting Ground, in case he wanted to reach out.
+
+Artemis just shook her head in amusement before she teleported away to not keep Nature’s Attendant waiting longer than necessary.

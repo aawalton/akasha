@@ -1,0 +1,35 @@
+---
+id: d4dce9e5-04c2-528c-9e78-c586b6372ec2
+page-type-slug: story-chapter-royal-road
+title: "Webtoon Is Out!"
+slug: 0010-webtoon-is-out
+partOf: the-primal-hunter
+position: 10
+ownLength: 428
+unit: words
+ownProgress: 428
+publishedAt: 2023-12-18
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/1446981/webtoon-is-out"
+royalRoadId: "1446981"
+markedReadAt: "2026-06-29T19:29:34.780Z"
+---
+
+Hello there, ladies and gentlemen, the genderless, and eldritch beings who are yet undecided.
+
+Coming in today with a bit of an announcement. My Webtoon has officially been released on Webtoon.com!
+
+Link: Webtoon.com
+
+Very exciting day all around, despite my morning being screwed up by the power company deciding to cut a cable, forcing me to work on my laptop for a few hours while trying to restore a Word file. But enough about that, Primal Hunter webtoon hype!
+
+The webtoon does have some story and artistic changes (Jake is definitely less in shape, and wearing glasses was not in the original version), but so far, the response seems pretty good. At least, I hope people like it, as people not liking stuff related to your story sucks. Even if I was not that involved in the creative process, as you people already keep me busy posting chapters all the time, I, needless to say, still want it to do well.
+
+This leads me to the utterly shameless part of this announcement/marketing-like post. I implore you, my loyal readers, to go forth to Webtoon.com, click on the novel, and give it a read. Even if you don’t feel like reading it or are critical of the adaptation, at least help your good friend Zogarth out and give the story a follow and a rating. Also, on a totally unrelated note, did you know even 9-stars is considered low on Webtoon? Crazy, right, that you need 10-star ratings to not be considered bad. It would really suck if Webtoon decided the webtoon is bad, as that would mean no more seasons and less money/exposure for me. I like both those things. So getting 10-star ratings would be really nice. Where was I again?
+
+Oh yeah, and if you wonderful people would also leave some comments shamelessly shilling the fact there is also a book version of the comic, I would find that entirely acceptable. Encouraged, even.
+
+Also, I may as well put this here and do a double-whammy announcement. I am taking off the 25th and 26th of December as well as Jan 1st. So, yeah, there will be a few chapters in between Christmas and New Year for all you greedy bastards. That’s three days I could have totally taken off, so view that as a nice little Christmas present! Only rude people don’t return gifts, and the only thing I want this year is for the webtoon to do well. Anyway, that’s all for today.
+
+Merry Christmas, Happy Holidays, and blessed (True Blessing) Promote-My-Webtoon Day.
+
+- Zogarth

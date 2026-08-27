@@ -1,0 +1,207 @@
+---
+id: bd640ba1-4a84-5fe2-aa71-2f22dacf5266
+page-type-slug: story-chapter-royal-road
+title: "Ch: 114 Extra Pt2"
+slug: 0146-ch-114-extra-pt2
+partOf: the-runesmith
+position: 146
+ownLength: 3286
+unit: words
+publishedAt: 2023-03-06
+link: "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/1130858/ch-114-extra-pt2"
+royalRoadId: "1130858"
+---
+
+Kervin’s Point of View:
+
+The new walls of Spotted Creek Village shinned in the summer sun. Our group had returned a week earlier than usual, yet the wall had seemingly doubled in scale since then.
+
+I’d never seen a village come together to this degree before, or any group of people outside a large business or the military, for that matter. While the rest of the world slowed down due to the invasion, this village chose to expand, and they were doing better because of it.
+
+Villages were tight nit communities where everybody knew each other, but that didn’t mean they agreed on everything. There had to be at least some pushback by individuals for diverting so much manpower to such a project, and yet the walls have only grown that much faster since I last saw it.
+
+Compared to Spotted Creek Village, the rest of the world was a chaotic mess that was only starting to be cleaned up. Businesses were slowly reopening again, but there was a visible hole left behind by those who could afford to flee Scholl’s invasion.
+
+There was a considerable level disparity between those who left and those who stayed. The people who fled were those with levels and skills, those who had the money, and those who were managing and guiding the rest. For every high-leveled person who fled, there were a dozen lower leveled workers left behind with no one to report to or lead them. Scholl was bringing in people to fill the power vacuum, but that took time.
+
+Thanks to Scholl's focus on farming and food production, people weren't starving, but being hyper-fixated on one thing didn't magically improve everything else.
+
+Even with everyone rushing to help in the fields, there were more people than jobs. It sounded weird out loud with there being fewer people now, but with their bosses gone, only a few knew the ins and outs of running a business. People needed to learn what to buy, what taxes they were expected to pay, or even little things like who was now in charge of the abandoned stores.
+
+Then there was the uncertainty of what would happen next. The average person wasn't sure if all this was temporary or if Scholl was here for the long haul. Many thought Scholl would eventually retreat. Then the people who once ran everything would return and retake everything they left behind. People were scared they would be blamed for siding with Scholl and that they took over their bosses abandoned businesses.
+
+There needed to be a tangible change, and soon. The people needed to be assured that they could step up without fear of later repercussions. Boss Giovanni was at the forefront of trying to get things moving again, but it took more than one or even five business leaders to change things.
+
+Other than the food, supplies were still limited. The ore, nails, and ingots we previously purchased from Aaliyah were a drop of water on an inferno threatening to spread.
+
+Like every other business, Silver Heard had more staff than needed. Thankfully Giovanni wasn’t one to make snap judgments and hadn't fired the extra people, even though it would've saved him quite a bit of coin if he had done so.
+
+All the wagon operators were still working, but most of us were moving perishables for Scholl. Other than myself, only two other carts were dealing with other goods, and our carts were often less than half full. I had thought it would take a while to sell all the junk I had hoarded in my house; now, I wished I had gathered more.
+
+In every village, we were swarmed by people begging us for goods we simply couldn't offer them. It didn’t matter if Aaliyah didn’t have much to sell us; I was asked for anything and everything she could spare at more than a healthy markup.
+
+But that was the thing; inflation was running rampant, with everything but food rapidly increasing in price. Moreover, most of the villages Silver Herd dealt with were farming villages. So, while Scholl offered tax credits for their food and the people technically made more, they weren't getting any actual money. At least not enough to cope with the rapidly inflating prices.
+
+The people needed a peace treaty signed, yesterday. And though I knew it was important for the community, I couldn’t help but worry about what happened after that. Once the peace treaty was signed, everything would eventually return to how it was. Maybe a few things would be different under Scholl, but that wasn’t bad.
+
+No, what I feared was Aaliyah leaving. It was going to happen eventually, but the idea scared me. Thanks to her, I was somebody now. Boss Giovanni knew my name and asked me for my opinion; I didn't want to go back to how everything was before.
+
+"Hey, it's Kervin!" I hear somebody shout. I am pulled out of my thoughts and see Aaliyah’s older brother, Richard waving me and my cart over through the construction site. "Are you back early, or have I lost track of time?" He asks, trying to understand why we are here.
+
+“No, you’re right,” I hide my feelings behind my merchant’s smile. “The wall is coming along nicely,” I make sure to build repour through small talk.
+
+“Well, everyone’s working hard," He beams down at me with an almost blinding smile. Just like his little sister, he obviously enjoys what he does. Or do I have that backward?
+
+"I'm sure," I lightly comment as I watch a group of people using logs to roll a large stone into place.
+
+“I will admit, we’ve been moving slower than I would like on account of Aaliyah being gone."
+
+“That would most certainly do it,” I answer without thinking before Richard's words pierce the daze I was in. "What was that!?" I turn on the young man with eyes, the sizer of dinner plates.
+
+“Oh, with my sister gone, it’s been hard getting all the stone and steel we need," he lazily comments while directing the villagers.
+
+“No, wait, back up to that second part,” I nervously ask him to repeat himself, but he waves me off.
+
+“Sorry, but they need some help over there,” he points to where a budding wall was being assembled. "Go see Del; he might have some stuff for you,” is the last thing he says before walking away from our group.
+
+“Did he just say Aaliyah isn’t here?” I nervously turn toward Lurte, Ryiba, and Reel, hoping I somehow heard her brother wrong.
+
+Lurte and Ryiba looked just as confused as I was, but it was Reel’s look of horror that really freaked me out.
+
+“Please tell me this is one of your jokes,” I walk over and grab Reel by his shirt, professionalism be dammed.
+
+“I haven’t heard anything about her leaving!” Reel is so panicked he doesn’t even comment on me grabbing him.
+
+Letting go, I turn around and run towards the closest worker. “Excuse me, do you know where I can find Aaliyah?” I ask the sweaty man hauling a large log.
+
+The villager doesn't notice my quick approach, so my sudden calling out to him startles the man causing him to flinch away from me and drop the piece of wood he’s carrying. “What the!” He howls in anger. I have barely enough time to jump back before the wood crushes my foot, and in doing so, I miss the man grabbing for me. "What's your problem, guy?" He pulls me in close and yells in my face.
+
+“I’m terribly sorry,” I try to apologize.
+
+The villager looks me up and down with visual confusion on his face. "Wait, merchant Kervin?" He thankfully recognizes me.
+
+“The same,” I try to gently pry his fingers from my shirt. His grip is too firm for me to do anything, but he notices what I'm trying to do and, to my joy, releases me from his hold.
+
+“I almost punched you,” he grumbles as he lets me go.
+
+“And I would’ve let you,” Reel Comments to my side, startling both of us.
+
+The villager is shocked to see my bodyguard materialize seemingly out of nowhere, but he quickly catches himself before humming in agreement and focusing back on me. “Sorry,” he gruffly apologizes.
+
+“It’s my fault,” I take the blame as I should, but I had more important things to discuss. "I'm sorry for stopping you and causing you to drop your work, but might I inquire about Aaliyah? As you can understand, I have business with her,” I fish for information.
+
+“Del’s apprentice?” The man questioningly rubs his beard. “Haven’t seen her for almost two weeks, maybe longer. Heard she left for some reason.”
+
+For a second, I feel like I'm about to topple over.
+
+“Hey, man, you ok?” The concerned villager notices my change in demeanor.
+
+"Fine," I lie, trying not to topple over.
+
+“You, sure?” He asks again before uncertainly motioning to the log on the ground. “Because I need to get back to work.”
+
+“Yes, sorry for wasting your time," I slowly back away from the man and walk in a zombie-like state back to my cart, where Lurte and Ryiba are waiting.
+
+“What do I do now?” I mumble despairingly.
+
+"We're going to check in at Del's place; that's what we're going to do," I hear Reel say directly behind me as he nudges me back onto my cart.
+
+I wanted to say, 'what's the point' but the look on his face kept me from voicing my inner feelings. Reel had this intense look about him, and I was reminded why he was with me in the first place. Reel wasn't just here to guard me, he was sent to oversee Aaliyah’s movements in the village, and somehow, she left without anyone noticing.
+
+No one said anything as I ushered my bivol through the village and down the path to Del-Razen’s hut. Like the village, the path had grown since the last time we'd been down it. The path was twice as wide as it used to be, and the dirt was much more compacted than usual, making it the smoothest part of our journey.
+
+We quickly traveled down the road and approached the familiar clearing; only the familiar duo wasn’t there to greet us. Master Del was at the anvil, shaping a piece of glowing metal, but Aaliyah was nowhere in sight. In her place was a villager I vaguely remember meeting last time we were here but couldn't place his name. I think it was Frank. It didn't matter; he was shoveling stone into what I knew to be a smelter.
+
+“Master Del!” I call out from atop my cart, but he doesn’t acknowledge me. I call out again as I direct my bivol over to where I usually park my cart, but again, there is no response.
+
+It isn’t until I dismount and start walking over to him, repeatedly shouting his name, that the stone kin looks up from his work with fire in his eyes. "I hear you!” He angrily shouts at me. “Can’t you see me working?”
+
+"I deeply apologize," I start saying as he returns to his work. Is he ignoring me? “Where is Aaliyah?” I ask.
+
+“Gone,” is the only thing he says as he hammers out a nail at lightning speed. With two taps of his hammer, he turns a stretched-out ingot into the shape of a perfect nail, and with a third hit, the metal splits, and the nail falls into a waiting bucket of water next to the anvil. The water hisses as the small piece of steel rapidly cools, and I see the bucket is over halfway full with completed nails.
+
+What am I doing, focusing on nails!? "What do you mean gone?" I focus on what's important.
+
+"As in, not here," he continues to brush me off. He spares me a sidelong glance, and seeing that I wasn't moving, he continues talking. “She left with Tabitha thirteen days ago.”
+
+“Then they’re headed for Scholl,” I lifelessly fall backward onto my ass.
+
+“That can’t be,” Reel chooses now to step in. "I or one of the other numbers would've noticed her being moved." Reel was so worked up that he wasn't even trying to hide his identity.
+
+Del casually glances at a fuming Reel and shrugs his shoulders. "You must not be as good as you think.”
+
+I swear, I can see him contemplating pulling a dagger on the man, but that's when the person working the smelter decides to step in. “Isn’t that enough?” He says, looking straight at Del. Del-Razen grunts at the man, but he doesn't refute what he says. He then turns to me with a smile on his face. "Sorry about him; he's been grumpy since the two left on their trip."
+
+“Have not,” Del-Razen refutes the man’s claims, but anyone could see the man hit the nail on the head.
+
+“Excuse me, but can you please explain?” I’m practically begging at this point.
+
+“Aaliyah and Tabitha went exploring in the Endless Forest,” he tells me as he offers me a gloved hand.
+
+“And you?” I ask as I take his hand.
+
+"Frank," he smiles at me. Guess I remembered him more than I thought. "I'm filling in here while Aaliyah’s gone. Someone has to help Mr. grumpy pants,” he again gestures to Del.
+
+"You call me that one more time, and I'll throw this hammer at you," Del-Razen brandishes the hammer in his hand like a throwing axe. "And I don't need your help," he huffs as he returns to work.
+
+Frank pretends to look scared for a second, but his smile never fades. “I can’t do much,” he explains. “But I’m able to keep the smelter going. Speaking of which, if we’re going to keep talking can we do it over there.”
+
+We leave Del-Razen to his work and follow Frank to the smelter. I can't get as close due to the heat, but we can still converse. "They went into the forest?" I asked again to be doubly sure she wasn't heading for Scholl.
+
+Frank nods, and to the side of me, Reel buckles over in laughter. "How can you find this funny?" I yell at him.
+
+"It's either that or I stab somebody," he laughs out, causing all of us to take a step back from him.
+
+"So, they'll be back?" I turn back and ask Frank. "Do you know when?"
+
+“Not a clue,” he tells me as he works the billows.
+
+“Why in the gods was everyone so vague,” I curse.
+
+“Asked someone on your way here, eh," Frank nods in understanding. "Don't hold it against people; most don't know where she went, just that she was on a trip with Tabitha. The two left before anyone noticed; it was over a day before people finally asked where either was. I think she didn't want to make a big deal about it.”
+
+"Not a big deal," I parrot. "She willingly went into a magic-dense region."
+
+“Yeah, but with Tabitha,” Frank points out to me, and I'm forced to acknowledge that was an excellent point.
+
+But why did she have to pick now of all times? I groan while rubbing my head in frustration. “I was hoping to buy more from her." I wanted to kick something in frustration, but other than people, only the smelter was nearby, so I had to contain my frustration.
+
+Frank clicks his teeth, and he gives me a remorseful look even though it wasn't his fault. "I don't know about that. As I said, we’re pretty backed up without Aaliyah around. My buddy Lloyd is in the mines leading his crew to keep up the supply of iron and stone. You would need to talk to Del to find out if we have anything we can spare.”
+
+Just great. Could things get any worse for us? Not only did I get the scare of a lifetime, but there was nothing to buy! I hang my head in disappointment.
+
+"You came here to buy?" I nearly jump out of my skin when I hear Del-Razen's voice behind me. As I turned in place, I saw Reel snickering at me, meaning he was aware that the man was approaching us and didn't say anything. "You're here to buy?" He repeats after I wait to answer him.
+
+Straightening out my clothes, I try to catch my breath and give the man the best merchant smile I can muster, given the situation. "We are indeed," I politely bow. It had been a long time since I tried dealing directly with Del-Razen. In the last few years, everything's gone through Aaliyah, so I forgot how difficult it was to deal with the man in person.
+
+The Stone-Kin isn't impressed with my display and outright ignores my bow. "You said you wanted to purchase something?" He repeats with a cold stare.
+
+“We’ll take anything,” I forgo my usual strategy of back and forth, knowing full well that it would just make the man harder to deal with. “Nails, ingots, well even take the ore as is,” I gesture to the pile of ore next to the smelter.
+
+"Oh?" Del-Razen's eyes narrow menacingly, and I feel a shiver down my spine. "And how badly do you need it?"
+
+Gulping, I search for the right words. “We’ll pay double," I hold up two fingers. We stare at each other until I nervously raise a third finger, “Triple?”
+
+Del-Razen just shakes his head. I’m about to tell him I can’t go any higher than that, despite inflation, but that’s when he says something that leaves me speechless. “That’s not what I’m asking. I’m asking, what will you do for the supplies you need?” There was a sparkle of mischief in his gaze. I wanted to say anything but knew that would be a bad idea.
+
+“Well,” he pushes.
+
+I consider activating all my merchant skills to escape this situation, but that didn’t help me before. I’ve leveled a lot over the years since I last tried them on him, but something told me they wouldn’t have that much effect.
+
+“What are you proposing we do?” I finally give in and wait for the preverbal punch in the stomach. Or, who knows, maybe he'll actually punch me in the stomach.
+
+“The three of you will work for me for a few days," he grins.
+
+“Work for you?” I repeat, not expecting that kind of demand. But wait, "three?" I looked around only to see Reel had mysteriously disappeared.
+
+“If you’re looking for the annoying stealthy one, he vanished a while ago,” Del-Razen tells me.
+
+“Of course he did,” I sigh, resigning myself to my fate. “You really need our help?”
+
+"I don't need anything," Del-Razen shamelessly barks. "But if you want your ingots, you must work for them. So let's see if you can get your merchant hands dirty for a change.”
+
+Aaliyah, you better bring something amazing back from the Endless Forest for me to sell. To Lurte and Ryiba’s dismay, I hold my hand out. “You have yourself a deal.”
+
+I try to ignore the stone-kin’s devilish smile by internally justifying what I'm getting myself into. This scare with Aaliyah was a wake-up call; time was running out. She would be gone soon, and if she weren't around, I’d need to deal with Del from now on. I was aware of his distaste for merchants, so if this gets us talking, I'll prove he can trust me.
+
+Throw whatever you want at me, Del-Razen, Kervin of Silver Herd, will prove to you he's no ordinary merchant.

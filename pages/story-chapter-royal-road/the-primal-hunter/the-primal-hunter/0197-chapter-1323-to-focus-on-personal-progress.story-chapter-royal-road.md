@@ -1,0 +1,133 @@
+---
+id: 576e8b6e-d962-5843-b1ff-bd3a03b8e4fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1323 - To Focus On Personal Progress"
+slug: 0197-chapter-1323-to-focus-on-personal-progress
+partOf: the-primal-hunter
+position: 197
+ownLength: 2783
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3465265/chapter-1323-to-focus-on-personal-progress"
+royalRoadId: "3465265"
+---
+
+Based on how fast Villy responded, the snake god had definitely expected Jake to reach out sooner rather than later. When the connection was formed, Jake didn’t say anything right away, but just sat there awkwardly for a moment before muttering:
+
+“So...”
+
+“So indeed,” the Viper responded, sounding casual as always.
+
+Jake sighed and shook his head. “I should start out by thanking you. If you hadn’t predicted this would happen, things wouldn’t have ended well.”
+
+“Well, having known you as long as I have, you are indeed pretty predictable in some things. However, more than you being predictable, those natives are. I’ve dealt with scenarios like this more times than I bother to remember, and the outcome is often the same. I did tell you how I would have handled things for a reason, back then.”
+
+“Yeah, I should have listened and just bailed when I had the chance,” Jake sighed. When he’d left with those five Arachnecs and five Venusians beyond the Boundary, he had the opportunity to escape. He could have simply gone to Earth or visited the moon, where Arnold resided. However, he’d foolishly believed he was doing well diplomatically and could make friends with everyone, which he evidently couldn’t. Though funnily enough, he did manage to make all the factions more friendly toward each other, especially now that the fear of the Great Sea Serpent was present.
+
+“That would have been the smart choice, but I’d never expect you to make the smart choice. If you did, you would be a very boring Chosen,” Villy said in a joking tone. “Not to say this shouldn’t be a learning experience for you. Which begs the question, what did you learn?”
+
+“To keep my mouth shut and not share information without properly thinking things over,” Jake sighed, shaking his head. “Especially not in a world like this, where I’m entirely on my own. Well, not entirely on my own, as if I were, I would have been fucked.”
+
+“A fine lesson, I guess, but not really the most important takeaway,” the snake god said in a slightly disapproving voice. “You’re close, though.”
+
+Jake frowned a bit as he considered what the snake god had said. After a few seconds of thinking, he realized what the Primordial was getting at. “That I was too weak to truly explore this Minor World in the first place when I don’t have the backing of the Order available.”
+
+“Closer. Good enough, I guess,” the snake god said, sounding like he couldn’t expect more from Jake. “Plans and schemes are good. They can give you an advantage. Manipulation and deceit are the same, but they are ultimately just auxiliary tools. Ultimately, the most important thing is power, and I do understand that, due to your Bloodline and whatnot, you missed something very important: you are a lesser being who should not be treated as an equal in their eyes. You treat them as equals, but they never saw you as such.”
+
+Jake instinctively wanted to protest, as he didn’t even like to imagine being treated as an inherently inferior being, but he knew that he couldn’t argue against it. The attitudes of the many A-grades at the Boundary had been polite, yes, but they had all just seen Jake for what he could provide, not as a person. Something he’d already realized back then. If he hadn’t come with the ability to bring them beyond the Boundary, they wouldn’t even have bothered talking to him. Moreover, if he hadn’t at least said he came from a major faction from the multiverse, they would have likely been entirely okay forcing him into a far worse Soul Contract.
+
+“In the multiverse, you are treated with respect because you’re my Chosen, and in some cases because of what you can provide as the Harbinger of Primeval Origins. However, have no doubt that without my backing, you would find yourself in a very difficult situation due to all the factions wanting something from you. The Bloodline Accords would stop them from going too far, but they could still pressure you in other ways that teeter on the line of breaking the Accords. Of course, I don’t doubt you could find strong backing even if it wasn’t with me, but have no doubt that you would need this backing. If not, most A-grades would gladly treat you worse than the natives of this Minor World, who still showed caution due to the mystery of the multiverse lurking as a threat behind your existence.”
+
+More uncomfortable truths that Jake couldn’t in good faith argue against.
+
+“You’ve seen quite a few of my own adventures of the past, right?” the Viper followed up, taking a slightly more casual tone. “Do recall my approach. I often resorted to deceit and tricked others, but in every instance, I always had the power to handle the situation or at least flee if things turned south. Unlike you, I didn’t have any backing and could only rely on myself. In this Minor World, you are in a similar scenario. In other words... You should never have gotten involved with this world in the first place.”
+
+“Yeah,” Jake muttered and let out a loud sigh. “You’re probably right. It was incredibly risky for no real gain.”
+
+If Jake had wanted to grind levels, he could have done it in so many other places that weren’t sealed off Minor Worlds with ignorant natives that he didn’t at all understand, who also happened to be far more powerful than himself.
+
+“Finally, and this might seem a bit contradictory, I wouldn’t be too hard on myself if I were you, nor would I dwell on this matter much,” Villy said, surprising Jake a little. “You suck at schemes. You suck at tricking and manipulating others socially. Sure, you can do it a little, but it’s definitely not your forte. While this may appear to be a weakness, I wouldn’t view it that way. You are simply not that kind of person, and becoming someone who gets ahead through schemes and deceit would go against your Path. There is power in recognizing who you are and embracing it, rather than trying to rid yourself of all perceived weaknesses. Your instinctual mindset, impulsive approaches, and reliance on intuition run counter to being a schemer, yet they are also among your greatest assets. In summary, do not change yourself into becoming something you are not.”
+
+Jake silently listened as his Patron gave him some actual advice regarding his Path, and he wasn’t quite sure how to take it. A part of him found it natural to want to improve and rid himself of any obvious shortcomings, but he also knew that the Viper definitely had a point. Jake’s approach had always been to keep things simple and take complications as they came, and trying to be a scheming planner who made contingencies for whatever could go wrong simply didn’t fit who he was as a person.
+
+After a bit, Jake let out yet another sigh and nodded. “You’re definitely right. It does feel a little wrong knowing that others will have to make up for my shortcomings, though.”
+
+“If they didn’t, their Paths would be empty, and I’m sure that witch of yours prefers getting work from you, despite often thinking otherwise,” Villy said, back to being in a more joking mood. “Besides, you also make up for their shortcomings, and by the time you reach the peak of power, could your lack of scheming really be considered a downside? Just crush whoever dares to scheme against you.”
+
+“That’s gonna take a while, though,” Jake chuckled.
+
+“Fortunately for you, you have plenty of time,” the snake god said. “Anyhow, I’ll leave you to your matters once more. One final thing, though. Consider returning to the Order before your involvement in the Seat of the Exalted Prima event begins. Not for anything specific, but simply because having an absolutely safe point of return eliminates many potential dangers.”
+
+“I was planning on making a teleportation circle,” Jake confirmed with a nod. “Should I inform the Great Sea Serpent about my plans?”
+
+“Do as you will. The serpent strikes me as very useful and should prove solid help while within this Minor World. Once outside, I also believe he will be able to instantly evolve to S-grade and become a fairly powerful variant. Reaching his level of power within a sealed-off Minor World with limited Records couldn’t have been easy, so he’s rather talented,” the Viper said. “See you soonish, but no need to rush back. Enjoy your future vacation world a bit first!”
+
+With those words, the Viper severed the connection, leaving Jake alone in the slightly damp cavern once more. He took the next couple of hours to mentally refresh before he got to work on putting down a magic circle capable of bringing him to the Order of the Malefic Viper. Still with the help of Villy, of course.
+
+Creating the circle ended up taking about three days, the process being a bit different from usual, as Jake had to modify his existing knowledge to make up for him now being B-grade. He had to make it stronger on his end, which took more materials. Fortunately, Jake was a bit of a hoarder and had everything he needed.
+
+With the teleportation circle down, Jake felt a lot more comfortable. It meant that with less than a dozen seconds’ notice, he could leave the entire Minor World through the void. Hopefully, he wouldn’t need to escape but simply leave when it was about time to do the Seat of the Exalted Prima system event.
+
+For now, he wanted to do something else, though. Since gaining the skill, Jake had neglected getting a proper meditation session in, and given the circumstances, this seemed like the perfect time. Perfect environment, too.
+
+He could peer at the Gate of Enlightenment while his body could refine the surrounding toxins using Palate, strengthening the skill and granting him Records. Perhaps he could even use the absorbed Records to inspire him before the Gate of Enlightenment, but only time would tell.
+
+Sitting down in the center of the teleportation circle, Jake checked one final time that it was ready to be activated at any point before closing his eyes and allowing his consciousness to drift into deep meditation.
+
+He appeared in his Soulspace and quickly made his way towards the Gate of Enlightenment from there, already feeling that the journey was far easier now that he was B-grade compared to before. The experience was still overwhelming, as even B-grades were not meant to interact with the Gate, but if Jake could manage in C-grade, so could he manage now.
+
+Standing in front of the Gate of Enlightenment, Jake felt his mind wander as he focused on the myriad concepts faintly leaking from the gate, letting his instincts and intuition guide him rather than taking a pre-planned approach. As he’d just talked about with Villy before, Jake wasn’t the calculating type, so why bother thinking too much when his guts were a far superior guide?
+
+--
+
+The first part of the Administrator Test had been a sped-up version of the Tutorial. Miranda had passed that stage quite smoothly, primarily due to her party members being competent – William especially – which had naturally made her believe that the second part of the test would be related to what happened shortly after returning to Earth.
+
+That was not the case.
+
+Instead, the second stage had brought Miranda and company to an entirely new place that none of them recognized. What’s more, rather than being at a lower level or with restricted skills, they all appeared in their true forms, making it doubtful if it was even another simulation or perhaps a new world created by the system for this particular system event.
+
+However, given that the original system message regarding the event stated the test would take place in a simulated reality, Miranda assumed the second level would do the same.
+
+“I see something in the distance,” Holstred said, looking into the horizon from the small hilltop they’d appeared on.
+
+Before he could say anything more, the system message telling them their objective appeared.
+
+Administrator Test is continuing. Stage two: Starting Anew.
+
+Objective: Consider the circumstances of the Unnamed City and take whatever actions you deem necessary. This stage will last for thirty (30) days.
+
+“I guess that’s the unnamed city you’re seeing,” Miranda commented, not able to actually see what Holstred was talking about herself.
+
+Regarding the objective, it was vague to say the least. Beating the Tutorial was a simple goal, but this time around, there was nothing definitive telling them what to do. Which didn’t help when one considered that this was an Administrator Test, where no one knew what they were even being tested on.
+
+“What’s the plan?” the frost wyvern asked as he squinted, also trying to see the city that it was clear only Holstred could see. And maybe William, but Miranda doubted he necessarily used his eyes to perceive its location.
+
+“We approach the city,” Miranda said, seeing nothing else to do before turning to William. “Can you go ahead and scout it out before we go any closer? I would like to know what we’re walking into.”
+
+William nodded. “Alright, I’ll be back as soon as possible.”
+
+With that, he jumped off the hill and shot into the distance, disappearing from sight soon after as he activated his stealth skills. As for Miranda, she sat down and was joined by Lillian, who took out some refreshments. Holstred and the wyvern also soon sat down, as they would stay put and wait for William to return.
+
+The point of appearance in system events tended to be safe zones, and not knowing what was up with this Unnamed City, it was safest for them not to all approach it as a group. William had the highest chance of making it away if it happened to be inhabited by powerful beings. Should William face a perilous situation and die, it would only be a simulation and wouldn’t mean any real loss. The only person who had to survive was Miranda, after all.
+
+Was this overly cautious? Perhaps, but the system message still struck Miranda as weird. It told them to consider the circumstances of the city and then take action, and wasn’t it entirely possible that those circumstances were that it was filled with B-grades far more powerful than their party?
+
+In the end, her caution proved unnecessary, as William returned with a surprising discovery.
+
+“I didn’t detect a single presence above D-grade,” he said, frowning a little. “However, there are formations in the city that I doubt even C-grades could have made. I would say it’s a safe assumption that there are B-grades involved with the city; there just aren’t any of them there right now.”
+
+“Yet no C-grades?” Miranda asked, perplexed. “Anything else of note?”
+
+“It’s a shithole,” William said very curtly. “Lots of negative karma floating about. Whoever is in charge isn’t very popular, and the citizens aren’t happy.”
+
+“I see,” Miranda muttered, having quickly gotten an idea of what kind of place this was. “A city in disarray, ruled either by someone incompetent or malicious, with us having the option of stepping in and taking action to propel change.”
+
+“How will the system judge whether whatever approach we decide on is the right one, though?” Lillian asked. “What would someone worthy of being an Administrator do?”
+
+Miranda considered it for a while before looking towards the city again. “I guess we’ll find out. For now, let’s head there and decide after a careful investigation.”
+
+A couple of days later, after having covertly investigated the Unnamed City and gotten familiar with the frankly dystopian metropolis, Miranda reached a conclusion. The city, which was reminiscent of a world undergoing the industrial revolution without any workers’ rights, truly was a horrid place, with the citizens discontent and the leader incompetent, which was probably why Miranda’s answer to the objective was surprising:
+
+She decided to leave the city and spend the remaining weeks of this Administrator Test stage far away from everything, getting more familiar with her skills as a B-grade, joined by the other four who did the same.
+
+From beginning to end, they never truly interacted with the city, but instead ignored its existence, as Miranda had concluded that dealing with it was an utter waste of time. Her chosen action had been inaction, as in the end... wasn’t doing anything besides focusing on personal progress an utter waste of time given where they were?

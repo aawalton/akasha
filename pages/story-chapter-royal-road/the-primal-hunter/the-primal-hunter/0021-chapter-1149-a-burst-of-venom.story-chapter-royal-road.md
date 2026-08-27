@@ -1,0 +1,131 @@
+---
+id: fb5c6f2c-0cab-59d9-b0de-a08cb5bc4a7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1149 - A Burst of Venom"
+slug: 0021-chapter-1149-a-burst-of-venom
+partOf: the-primal-hunter
+position: 21
+ownLength: 2922
+unit: words
+ownProgress: 2922
+publishedAt: 2025-08-12
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2512400/chapter-1149-a-burst-of-venom"
+royalRoadId: "2512400"
+markedReadAt: "2026-06-29T19:29:55.216Z"
+---
+
+Jake’s connection with the concept and name Fangs was a long and storied one, and so was his quest to upgrade the final Malefic Viper Legacy skill. He had faced many issues along the way, but now, every piece had finally fallen into place.
+
+Thinking back, when Jake really considered it, he couldn’t help but find the name of his melee skill funny. Fangs of Man. Knowing its origin only made it funnier. Jake was fairly confident that the name came from Valdemar randomly shouting it out when using the skill against Villy back when they were both in S-grade, and since Valdemar was Valdemar, he naturally decided to name it after the cool thing he shouted. At least that was Jake’s interpretation of things.
+
+Fangs of the Malefic Viper was a name that made a lot more sense. For most venomous snakes, their fangs were their only weapons against both prey and predators. It was also one of the most deadly weapons any creature natively possessed.
+
+Poison was a much-feared affliction to everyone, even after the system arrived. Jake himself remembered back in the beginning of the Tutorial, where a bunch of badgers had proven incredibly lethal due to their venom.
+
+Of course, possessing Palate of the Malefic Viper, Jake wasn’t affected by most poisons anymore. However, that didn’t mean he couldn’t recognize just how powerful poison could still be, especially for monsters who had an incredibly potent innate toxin.
+
+Scarlett, the Alabaster Crimsoneye Snake, possessed a venom that Jake was not confident in overcoming, considering its sheer toxicity. Not even if they were the same level. Monsters simply had too large of an advantage when it came to using venom, seeing as the venom was literally a part of their body.
+
+This fact allowed monsters to constantly refine and improve the poison over time. Moreover, it enabled them to store it in greater quantities and release it all in a single, incredibly lethal attack.
+
+Meanwhile, Jake inflicted poison by coating his weapons in it and very slowly making it build up. Compared to a snake that could bite someone and deliver an entire payload directly into its opponent's body, Jake was far worse.
+
+Jake recognized and knew this... which meant he had also been considering a way to address the issue. Moreover, Jake had considered how to upgrade Fangs of the Malefic Viper for a long time. However, both the problem and the advantage of the skill were its extreme simplicity.
+
+Fangs of the Malefic Viper essentially just revolved around making poison Jake inflicted better. It did so that all poisons Jake created were more effective when injected directly into another entity, and the only alterations Jake had made to it were for the skill to recognize his melee weapons as fangs. This had further allowed him to excrete poison out from his katars, but it wasn’t the same as what something like a snake could do.
+
+All it did was coat the weapon in poison. On the other hand, Jake had seen how a snake injected all their venom. Their teeth had small holes, so that the instant they bit down, poison could be directly injected in large quantities.
+
+Now, snakes did also coat their fangs in venom passively after injecting a foe, as some always tended to linger on them afterwards, but that was just a nice little bonus. Having his only real way of inflicting opponents with poison equivalent to a snake’s “nice little bonus” wasn’t something Jake particularly liked.
+
+He had tried before to see if he could somehow inject more poison at once. So far, the only truly effective method had been through special Protean Arrows, but even there, Jake tended to focus on increasing the power of the arrow itself and not on the toxic payload it contained.
+
+After some experimentation, Jake also became very confident that with his current upgrade Path, he had no way to apply Fangs of the Malefic Viper more directly to ranged attacks, making him refocus more on the melee aspect of the skill. More specifically, the part about turning his weapons into fangs.
+
+Being able to excrete poison out of the weapons seemed like it would allow him to release far larger quantity of poison at once, with little modification. However, he quickly came to learn that it wasn’t so easy. Yet Jake had kept trying over the years, occasionally conducting small experiments when not busy with other tasks, going all the way back to Nevermore.
+
+So far, it had been failure upon failure. That’s until his latest few skill upgrades. Jake had identified a few major obstacles to his upgrade idea, one of which was the feeble nature of the human body and the slightly lackluster connection between his hands and his katars.
+
+Even if his katars were considered part of Jake’s Soulshape due to Fangs of Man, that didn’t mean they were as much a part of it as his actual body. The connection was ultimately artificial, as it was caused by a skill. That being the case, Fangs of Man being only ancient rarity had become a limiting factor for Jake when it came to upgrading Fangs of the Malefic Viper.
+
+The amount of poison Jake would have to transfer into the katars at once to release a meaningful toxic payload simply hadn’t been there. Another problem had been the delivery time.
+
+There was a good reason snakes had their venom glands located in their heads and close to their fangs. Even after the system, this remained the same. Due to this proximity, the delay between deciding to inject a large payload and actually injecting it was nearly instantaneous. If Jake wanted to create a somewhat similar effect, he would have also to store the toxin close to his fangs.
+
+Seeing as his fangs were his katars, Jake would have to store the toxic payload in his hands. Storing a lot of energy of any kind in one body part was bound to put it under stress, and as the fight with the Chimera had proven, Jake’s hands already suffered enough stress during combat. This meant that all Jake would have done by forcing his hands to store a large amount of poison would be to make them more vulnerable.
+
+Jake’s Fangs of Man upgrade had fixed all these problems. The skill now being legendary rarity meant it better matched Fangs of Man, and the new additional effect of the skill made his hands far more durable when wielding katars. Jake, achieving this higher durability by having the powers of his weapons echo back into his hands, also further strengthened his weapon’s identity as part of his Soulshape, as his hands and weapons truly did seem to become one now.
+
+With that challenge overcome, Jake believed a Fangs of the Malefic Viper upgrade was just around the corner... except he then ran into another problem. Sure, his body was now able to handle what he wanted it to do, but did that mean he could do it? The answer here turned out to be no.
+
+Even if he attuned his body to function more similarly to the fangs of a snake, he still lacked the natural ability to produce and control the injection of the venom. He didn’t have an entire physical part of his body dedicated to the process, and he wasn’t keen on trying to somehow make one through evolutions either.
+
+When it came to the production of the venom, Jake had once more run into an issue. The venom passively created from Fangs of the Malefic Viper to coat his weapons came from Blood of the Malefic Viper. That’s to say, even if Jake somehow did manage to inject a relatively large amount of venom at once, all he would be injecting was his own blood, which, while a good venom, was still rather lackluster.
+
+That’s where his newly gained Blood of the Malefic Viper came in. With this upgrade, Jake could now control his blood far more profoundly than before. While it didn’t allow Jake to outright carry out his plans, it served perfectly as a bridge to make it possible. The increased control and ability to decide which kind of toxin he was creating was a good enough start for Jake to get experimenting.
+
+With his two upgrades under his belt, it was time to upgrade his final Malefic Viper Legacy skill.
+
+After he had upgraded Blood of the Malefic Viper, Jake had a good rest before he got straight to work, trying to upgrade Fangs of the Malefic Viper. He didn’t need to do any more crafting or preparations. He just had to execute his plan and experiment until everything fell into place.
+
+Holding both katars, Jake closed his eyes and shadow-boxed as Fangs of Man activated. With the increased durability of his hands, Jake began to infuse mana into the blood contained within them consciously.
+
+At the same time, he tried to contain the blood in his hands. Not in that he wanted to fill them up with blood and make them swell, but by ensuring that whatever blood was within his hands remained the same toxic blood he was currently infusing.
+
+Jake failed over and over again as several small issues reared their ugly heads, but Jake wasn’t discouraged. Upgrades were never meant to be easy, after all.
+
+Still, this one would prove to be far easier than most prior ones. Rather than having to learn much new, it was all about finding the right way to take advantage of the tools he’d already forged for himself with prior upgrades.
+
+Days passed by as Jake kept getting closer and closer to a proper result. One of the things he improved was to acquire actual things to hit. Jake ordered target dummies by the hundreds, each made of a disturbingly realistic flesh-like substance. He hit these over and over again after he’d spent time trying to prepare a toxic payload, and finally, only eleven days after he upgraded Blood of the Malefic Viper, he found success.
+
+Stabbing forward with Eternal Hunger, Jake felt the powerful toxin having accumulated sufficiently. His katar penetrated into the flesh dummy, and the moment it did, Jake unleashed the toxin he had hidden away.
+
+From the katar, a flower of blood bloomed as it was shot out, as if the katar had dozens of invisible holes. The total amount of blood released wasn’t even that significant, but the violent way in which Jake released it made the entire flesh dummy explode, the pieces sent flying, decaying in mid-air from the death affinity poison Jake had unleashed.
+
+Before all the rotting pieces of oddly realistic fake flesh hit the ground, Jake was struck by a notification confirming his success. With a big smile on his face, Jake checked his notification and saw the upgraded version of the skill.
+
+[Fangs of the Malefic Viper (Legendary --> Legendary)] - When born, the Viper had limited weapons to fight with, yet it prevailed only with its fangs. Its bites the deliverer of death. As a human, you have integrated these concepts and made them your own, proving that you, too, have fangs. Allows any part of your Soulshape viewed as a weapon to function as fangs, making it possible to excrete venom through them, and passively empowers any toxin upon your fangs. This effect is further amplified when biting with your canines. When baring your fangs, you can accumulate venom to unleash in a devastating Venomburst Strike, inflicting an empowered toxin upon your foe. The potency of all toxins is dependent on Blood of the Malefic Viper. Additionally, all poisons you have crafted or created are significantly more effective when injected directly into the body of your foes. Passively provides 9 Strength per level in Heretic-Chosen Alchemist of the Malefic Viper (C-grade variant). May your fangs be the harbingers of death, a single touch spell certain doom.
+
+Jake read the description and saw that not much had changed besides the obvious. He did find it interesting that the system called what he’d just done Venomburst Strike, seeing as that was what Jake called it inside his head to better visualize the attack. That was one of the tricks from the First Sage’s tome. Names held power, so naming your own techniques or moves could help you learn them more easily or even make them stronger.
+
+Either way, besides that, the description had been cleaned up a bit in a few places, with some more flavor text here and there. Then there was the increase in stats, which was a much-welcome bonus. Jake always felt like his Strength was lacking behind, as whenever he clashed with foes, he always found himself on the losing side. Alright, it may have been a factor that Jake usually only clashed with enemies far superior in level to himself, but still, it would be nice not to be pushed around too much.
+
+Outside of the upgrade itself, Jake also got a nice extra level, which was much appreciated, if also entirely expected.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 316 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 318 - Stat points allocated, +45 Free Points
+
+He could claim to be disappointed at only getting one level, but seeing how easy the upgrade had been to get, he really didn’t have the grounds to. Besides, Jake was more than happy that he’d achieved one of his goals he’d set out for himself before it was time to evolve to B-grade.
+
+Upgrading every Malefic Viper Legacy skill was something he naturally just had to do, and he’d even managed to get one of them to mythical through the help of the First Sage. Of course, saying he was all done with his Legacy skills would be quite facetious, as Jake still had one major issue to deal with regarding them.
+
+Despite it not being a problem in his day-to-day, Palate of the Malefic Viper remained broken. Jake would be lying if he said he wasn’t nervous about it remaining a broken skill, but he also believed in himself to be able to fix it.
+
+Perhaps more importantly than believing in himself, he believed in the tools the First Sage had granted him to help heal his own soul. The old master of the Malefic Viper had clearly been able to fix Jake’s soul if he’d so desired, but had instead optioned to make Jake do it himself as part of some lesson.
+
+Jake was already well underway in learning this lesson with the study of the tome within his Soulspace. He wasn’t all the way yet, but he was getting there. For now, he would just be happy with what he’d achieved.
+
+After spending the next few minutes cleaning up rotting pieces of fake flesh from the floor, not to make the room, which he’d randomly chosen as his training room, too disgusting, Jake headed back to the living room to rest and fully recover his resources. Doing so was also a good opportunity to engage in a bit more meditation and reading from the First Sage tome.
+
+On the way there, Jake went over plans in his head. He felt like he was getting close to B-grade, despite technically still being a good distance away. However, he felt that it was still good to ensure he got everything done by the time he maxed out his class and profession so he could fully focus on any potential evolution quest, even if it would be optimal to simply have already completed said quests during his preparation phase.
+
+Hunting down a dragon should at least make doing the class one easy, right?
+
+Before he could kill a dragon, Jake still had a way to go, as he’d struggled with some weak Chimera that barely knew how to fight.
+
+Once Jake had fully recovered, he returned to his usual schedule of alchemy, meditation, visiting Nature’s Attendant, and spending quality time with Artemis here and there, although she was only ever available with an avatar, as her real body was occupied.
+
+Like this, days turned to weeks turned to months as Jake burned through alchemical materials like there was no tomorrow. It hadn’t been one of his original plans, but with all his recent improvements to his alchemy, Jake had resolved himself to also get an upgrade to his Concoct Poison skill before evolving.
+
+To achieve this, Jake had started working on a new type of poison that was considered a notch harder than the ones Jake regularly made, and doing something new definitely paid off. In about four months, Jake had significant results... if one ignored the waste of materials, that is.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 317 - Stat points allocated, +35 Free Points
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 318 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 319 - Stat points allocated, +45 Free Points
+
+Two levels had ticked in, and Jake was already working toward a third one, as his daily rhythm was broken that day. Artemis had come by only a few days after she’d fetched him to visit Nature’s Attendant for the bow business, and the moment Jake saw her, he had a good idea what this was about. Her words confirmed his suspicion.
+
+“The Mother Tree has asked for your presence.”

@@ -1,0 +1,161 @@
+---
+id: 984703c8-2f78-54e8-93cd-6346c85a84c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1281 - A Ludicrous Skill For A Ludicrous Existence"
+slug: 0154-chapter-1281-a-ludicrous-skill-for-a-ludicrous-existence
+partOf: the-primal-hunter
+position: 154
+ownLength: 2912
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3200419/chapter-1281-a-ludicrous-skill-for-a-ludicrous"
+royalRoadId: "3200419"
+---
+
+The pink flamingo that wasn’t actually a flamingo leaned back and looked at Jake curiously. “You know, there are a few things that can truly shock me, but you have shown yourself to be capable of pulling it off.”
+
+With those words, the Viper shotgunned two beers using his fangs, impressively not spilling a single drop on the couch. When he was done, he tossed both bottles over his shoulders, where they simply disappeared before Villy put on his game face. “Okay, hit me.”
+
+“So, as you guessed, this experience-increased effect that affected the entire Order of the Malefic Viper indeed did come from the Spirit of Man skill I got after evolving,” Jake began, the Viper nodding along. “As per the description, it increases experience gain of all those deemed my kin, comrades in arms, allies, partners, or subordinates.”
+
+Villy frowned a little as he nodded. “Alright, that is impressive. Usually, such a skill is far more limited, but it seemed to include... wait, it says it affects everyone deemed your kin... does that include all humans? It shouldn’t be able to, but neither should you be able to affect everyone part of the Order.”
+
+Jake politely gave the Primordial time to consider the implications of what Jake had said. He couldn’t confirm that the skill actually affected all humans, but he suspected it did. Granted, the effect was definitely negligible, and someone like Valdemar helped all other humans far more simply by existing and radiating his Records throughout the multiverse. However, that shouldn’t downplay the significance of this, as just the mere fact that a newly evolved B-grade could affect an entire race was massive.
+
+“I have already confirmed that this new Spirit of Man skill of yours has a higher impact on people based on how close you are to them, with someone like me getting affected the most. Duskleaf’s Chosen, too, as well as several other members in the Order you’ve formed relationships with,” the Viper ruminated out loud. “So if you do affect the entire human race, the effect will be incredibly small, likely even smaller than what the members of the Order received...”
+
+After a few more seconds of thinking, the Malefic Viper shook his head and gave Jake a look. “Alright, I can definitely see you've got a Spirit of Man skill surpassing anything I’d heard of before. I’m aware they vary widely in power, but still, this seemed almost too good. I take it the skill also lets you pass down Records more easily? Fairly certain all Spirit of Man skills include that.”
+
+“It does,” Jake confirmed. “And to clarify, it also increases my own experience gain.”
+
+“I see,” the Viper nodded. “Under what circumstances?”
+
+“All circumstances,” Jake shrugged. “However, it’s increased when doing profession-related activities or hunting, as well as amplified yet again if these things are done alongside other humans.”
+
+The Viper frowned as he was once more in thought for a few moments. “It sounds like the skill you got is a fusion of several Spirit of Man skills I’ve heard about before.”
+
+“It one-hundred percent is,” Jake nodded in confirmation.
+
+“Well, I can definitely see why you prefaced this conversation with the skill being better than expected; just the implications of its existence are-“
+
+“I’m not done,” Jake interrupted the snake god.
+
+“I know it also gives stats, but-“
+
+“That, too, but there’s more besides that,” Jake shook his head, unable to hide a smile. “Didn’t I already tell you this might be the most overpowered Spirit of Man skill in the history of the multiverse? Wouldn’t be worthy of that title if all it did was give a few stats and increase experience gain.”
+
+“Alright, my interest suddenly improved drastically,” the Viper said, leaning forward. “Shoot.”
+
+“My skill also increases resistance to all environmental effects, allowing me to adapt to new environments more easily.”
+
+“All environmental effects? It doesn’t have-“ the Viper began as Jake kept talking.
+
+“It also increases resistance to all types of damage experienced by any other entity with the Spirit of Man skill.”
+
+“What do you mean that it-“
+
+“Also, when I’m not wearing adequate equipment to get all the stats my soul can usually bear, this skill will automatically make up the difference, at the cost of an insignificant upkeep in stamina,” Jake continued. “So that’s about 50,000 stats right there, pretty much for free, and peace of mind from always having to get better equipment that gives stats.”
+
+The Viper didn’t even say anything as Jake happily continued.
+
+“Oh, and as you said, it gives stats. I reckon you know how it works: the skill gives a 10% bonus and extra stats per level, with it working partly retroactively. I, of course, also get this,” Jake said with a cheeky smile. “Though, of course, rather than being limited to a mere six stats from the two Spirit of Man skills picked, I just get it in all of them.”
+
+Silence dominated the room for several seconds before Jake let out an exaggerated sigh.
+
+“Unfortunately, I only got to pick a single Spirit of Man skill rather than two, as all my options were replaced with this one. I know how important you’ve said having more skills was in the past, and that one should be careful about merging several together unless absolutely certain that’s the best way forward, but as I said, there was sadly only one option.”
+
+Villy just looked at Jake, who kept smiling.
+
+“At least the one Spirit of Man skill I got was pretty decent,” Jake grinned. “Or does the Primordial disagree?”
+
+The Viper remained silent for several more seconds, actually making Jake a bit nervous before the snake god spoke. “I assume warning you against liberally sharing details about this skill and your evolution in general isn’t necessary?”
+
+“No,” Jake shook his head. “And I’m also fairly certain that others can’t even detect that I have a variant race evolution. Maybe due to Shroud of the Primordial, but-“
+
+“It’s not due to that,” the Viper shook his head. “I also want to correct you. Others can detect it; however, it’s akin to the natural suppression of power that everyone usually feels anyway. Strong humans give off a different presence than weaker ones, so I wouldn’t be worried about anyone suspecting you have a variant evolution; they’ll more likely than not just assume your aura comes from you being at the top of your race. Something you admittedly are.”
+
+“Those mirror my thoughts,” Jake said, as he couldn’t help but smile a bit again. “Any comments on the actual skill?”
+
+Villy sighed, shaking his head. “You also did some research on common Spirit of Man skill variants, right? In that case, you should also have reached the same conclusion as I: that your skill is effectively a fusion of many Spirit of Man skills. How many, I can’t tell, but it must be a lot. It’s not all of them, though, but just a select few, perhaps the ones deemed beneficial for your Path. I could theorize far more, but I really don’t see the point. All I will do is reiterate that you should keep the existence of this skill under wraps, though you may be forced to reveal some of its aspects.”
+
+Jake frowned at that. “What parts, and why?”
+
+“Let me start by saying you should never volunteer any information unless absolutely necessary. The part about not needing stats from equipment is something you can freely share, but there’s no reason to say it comes from a race skill. Others may reach that conclusion on their own, but never confirm or outright deny anything. The same as true for all other parts of the skill except for one,” Villy said, looking sufficiently serious.
+
+“The part about granting experience is something that affects others, and those who are capable of detecting it are also smart enough – or have smart enough people around them in Valdemar’s case – to put together that it’s from a Spirit of Man skill. To clarify that point, just as I detected my Order being affected by your skill, so do I suspect that both Valdemar and Aeon felt when you got the skill and affected all of humanity. The two of them included. On that note, I do believe all human gods likely felt it, though they’ll be unable to determine the source if they aren’t skilled in karmic concepts. Even then, they would have to pierce Shroud of the Primordial to track anything back to you, so they shouldn’t be a problem.”
+
+“But some can pierce Shroud,” Jake frowned.
+
+“Indeed,” Villy nodded. “As fellow humans, Aeon and Valdemar will definitely have realized the change from your new Spirit of Man skill, though I can’t say for certain they are able to pinpoint you specifically as the source. Even if they could, I doubt they’ll do anything about it or even see the need to bring it up. No, who I think matters far more is Eversmile.”
+
+Jake was about to question whether he would have really noticed, as the skill definitely wouldn’t affect him, but considering it further, the bastard was the foremost master of karma in the multiverse. He had likely noticed the collective shift in all of humanity and effortlessly identified Jake as the source.
+
+“As for whether he’ll act on it, I can’t tell,” the Viper shook his head. “Eversmile is unpredictable even at the best of times, and his curiosity borders on obsession. We already know he finds you an object of intrigue, and this certainly won’t help. When it comes to the question of whether he’ll take any overt actions, I fortunately believe the answer is no. So far, you’ve continued to be interesting all on your own, and he likely wants to avoid directly interfering and continue observing you from afar.”
+
+“Not sure if I find that comforting to know,” Jake muttered. “But I do wonder... I’ve never really felt him observing me, outside of situations where we’ve been in the same space.”
+
+“Because he knows you would be able to tell,” the Viper shook his head. “Rather than observe you directly, he instead keeps track of what happens in your wake. How you affect those around you. I also believe he can still easily see your karmic bonds without you being aware.”
+
+“Yeah, definitely not comforting to know,” Jake sighed.
+
+“I would warn you that should you suddenly start being far less interesting, there would be a risk of Eversmile actually taking action, but I doubt you’d know how to not be interesting even if you tried,” Villy said, joking a bit to lighten the mood.
+
+“Hey, I can totally be boring if I want to,” Jake protested with a light smile, fully aware that his version of being boring would likely still be interesting to Eversmile. “Anyway, back on topic. Any other things I can’t hide?”
+
+“No, only the experience and equipment thing,” Villy shook his head. “Everything else may as well come from class or profession skills, even if someone is able to identify that you have skills doing those things. Then again, even if whatever they did told them it all came from the same human racial skill, and you confirmed this to indeed be the case, no one would believe you; they’d doubt their own abilities, and call bullshit.”
+
+Jake couldn’t help but smile at that comment. “Does that mean you agree with my assessment that this might just be the strongest Spirit of Man skill in history?”
+
+“I’ve at least never heard of anything as ridiculous,” the Viper shook his head. “Usually, the system seems to have a sense of balance, but clearly that doesn’t include you. Rather than a human, you’re more like some weird Unique Lifeform, just also without all the usual issues Unique Lifeforms come with.”
+
+“What can I say, I am indeed rather impressive,” Jake grinned shamelessly.
+
+“And it all seems to stem from that Bloodline of yours,” Villy accurately pointed out. “It’s almost tempting to set you up with a few hundred wives and have you produce an army of elites. If you were part of pretty much any other faction, they would definitely have already tried doing that starting in C-grade.”
+
+“Glad you didn’t waste everyone’s time with something silly like that,” Jake shrugged. “Anyhow, did you have any questions about my evolution, or is it my turn to start?”
+
+“Hold your horses, I still have a few things I’d like illuminated,” the Viper held up a hand. “First of all...”
+
+Over many additional beers, Villy continued asking Jake about details regarding his new evolutions and what he’d gained through them. Jake answered most questions, holding back information where he didn’t see the need to share, but overall, he was pretty open about most things.
+
+Soon enough, it was finally Jake’s turn to ask some questions of his own. Most of them were just clarifying questions, and he did ask about Artemis, as he wanted to visit her to celebrate his evolution, but she was sadly busy and wouldn’t be available for at least the next couple of months.
+
+Towards the end, Jake only had a few burning questions he really wanted the answer to. One of the most important ones, naturally, was related to the most important thing right now...
+
+“How long are you supposed to cosplay as a pink flamingo-looking bird? And are you allowed not to wear it if some other gods come to visit, or should I find a way to invite a couple of Primordials?” Jake asked, trying to sound as serious as he possibly could.
+
+“As a newly evolved B-grade, don’t you have anything better to do?” Villy sighed, ignoring Jake’s question entirely.
+
+“Fine, keep your secrets,” Jake chuckled, also finishing his last bottle of beer. There were more bottles, but Jake feared he would actually get drunk if he had more. “As for plans... not sure, honestly. The next part of the Exalted Prima system event should start soonish, but there’s no set timeline, so all I can do is prepare, but I doubt I can do much that will have an impact outside of maybe working on upgrading a few skills or getting better equipment.”
+
+“You go figure out what you need to do,” Villy waved him off. “But if you want my advice, then try to upgrade a skill or two. Oh, and spend some time meditating; that should help things progress more smoothly. I’m sure you’ve noticed your increased ability to detect and comprehend concepts that came from your evolution. Take advantage of that.”
+
+“Alright,” Jake nodded. “Can you send me to my place?”
+
+“Sure,” the Viper nodded. “And remember, no need to reveal anything if you don’t have to. Not even to someone like Artemis.”
+
+“I won’t share needlessly,” Jake answered, looking a bit more serious. “But I’ll decide when it’s needed.”
+
+“It’s your life,” Villy shrugged. “Now go have fun, and see you soon enough. We will need to have a little strategy meeting regarding the Seat of the Exalted Prima system event.”
+
+Jake was only halfway through a nod as space magic enveloped Jake’s body, and a moment later, he found himself sitting on the couch back in his own residence, empty beer bottle still in hand.
+
+After taking a moment to orient himself, Jake chuckled and stood up. He stretched and cracked his neck before sitting down again as he considered what he wanted to do now.
+
+Vilas sat alone after Jake’s departure, and the moment he had sent his Chosen away, the snake god manifested a thought, making the stupid costume he’d been wearing become undone.
+
+With that, one bet had been paid, and Duskleaf should get off his ass.
+
+As for his recent talk with Jake... Vilas had to admit he’d underestimated Jake this time around. That Spirit of Man surpassed anything the Primordial had even imagined, and it truly entered the territory of being overpowered. It was the kind of race skill that shouldn’t even be possible, yet here they were.
+
+What’s more, Jake clearly still didn’t see just how ludicrous it was. While they downplayed its current effects a lot and reiterated how it didn’t really have any noticeable impact on anyone besides the people closest to Jake... that was here and now.
+
+But what would happen when Jake reached A-grade? S-grade? Godhood? With every step he grew in power, this skill would grow with him, its effect amplifying on everyone it affected, gods and mortals alike.
+
+People like Valdemar already had profound impacts on the human race due to their power, but neither had a skill like this that positively affected their entire race. Their influence was almost entirely due to their Records passively affecting the rest of their race.
+
+If Jake reached their level of power with this kind of skill... also, what would happen if more skills like this existed at the same time? If Jake’s offspring also shared his variant human evolution, would they get the same Spirit of Man skill? Would they stack together? Perhaps simply amplify each other slightly, ultimately still creating a far stronger effect?
+
+There were so many implications to consider, and honestly?
+
+Vilas was here for it. He was looking forward to seeing what kind of chaos Jake’s ludicrous existence could bring to the multiverse, and was more than happy he had front row seats.

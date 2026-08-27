@@ -1,0 +1,155 @@
+---
+id: 42e58479-11ac-5781-9998-83b462234dd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1213 - Evaluating Feedback"
+slug: 0085-chapter-1213-evaluating-feedback
+partOf: the-primal-hunter
+position: 85
+ownLength: 2649
+unit: words
+ownProgress: 2649
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2818491/chapter-1213-evaluating-feedback"
+royalRoadId: "2818491"
+markedReadAt: "2026-06-29T19:31:57.548Z"
+---
+
+Jake woke up a few hours later, having gotten in a good nap to recharge his mind. He still felt oddly tired, but he reckoned things would return to normal sooner rather than later. One thing was for sure: teaching that lesson had taken far more out of Jake than he had expected, and he definitely found life-and-death battles far less stressful.
+
+But, Jake also had to admit that he felt proud of himself for having gone through with it. He even felt that it had gone better than expected, though he had definitely messed up by going overtime by nearly two full hours. Now that he had time to think about it more, he really hoped that none of the students present had other classes planned that they missed and only stayed out of politeness.
+
+As the Chosen of the Malefic Viper, he also knew that no one dared to act normal around Jake, especially not regular students of the Academy and members of the Order. Even if they had other pressing matters, they would have likely stayed out of pure politeness, a thought that only made Jake feel even worse.
+
+The more he thought about it, the more he dreaded looking at the recording he’d made of the entire auditorium. It was taken with the objective of allowing Jake to review if he had made any mistakes, but also so he could see the genuine reactions of the students after he left.
+
+Jake took a deep breath as he checked his token and saw that the recording was still ongoing, as Jake hadn’t stopped it. As a side note, lessons usually couldn’t be recorded, as teachers didn’t want them to be spread illegally, but Jake had easily broken this rule with the Viper's help to set up so he could record the entire auditorium at once.
+
+Checking the most recent part of the recording, Jake saw that a few new students he didn’t recognize were now in the auditorium, making him realize they were there for a new lesson that was about to begin shortly.
+
+Stopping the recording instantly, Jake began scrolling back. He had to focus to take everything in; the recording wasn’t anything as simple as having a camera on the wall, but was instead a full three-dimensional scan of the entire auditorium, picking up every sound and movement made by every person present. It was a lot to process, but with the mind of a C-grade, it wasn’t that bad.
+
+After a couple of minutes, Jake was finally back to the time right as he left the auditorium. He watched himself say his final words- cringing at the sound of his own voice all throughout — as he mentally prepared himself for what the many students would do once the teacher left the room.
+
+If he went by his own days as a student, half of them would be gone within thirty seconds, storming out the door to freedom. Jake halfway expected to see something similar, but instead, no one seemed to do much for several seconds after Jake left.
+
+The entire auditorium was oddly silent as the majority of the students even had their eyes closed. A few had movements of mana around them, while others had small magic circles summoned on the ground right in front of them.
+
+It took nearly a full minute before the first person spoke. It was two scalekin who entered each other’s sections and began speaking while isolating sound – something Villy’s incredibly intrusive surveillance technique effortlessly ignored.
+
+Jake nervously listened to their words as the first one asked the other about his thoughts. To his relief, the second scalekin expressed that while he didn’t believe what was taught fit into his Path, he’d still found the experience incredibly enlightening, something the other one instantly agreed with.
+
+Still feeling nervous, Jake focused on the second conversation that took place, this one between three different students. They discussed the contents of the lesson, and one of them even began bragging about how he totally understood exactly how to do it, but just lacked the necessary stats. Nothing negative about Jake, though.
+
+He continued peeking, and despite feeling a little creepy for doing so, Jake kept watching the recording for another hour to see all the reactions he could. To his genuine surprise, no one said anything negative at all, with many even mentioning how the lesson turned out to be a lot better than expected, with even more excitedly clamoring at the fact that it had dragged out.
+
+Of course, it was entirely possible some of them were feeling less than positive, but just kept it to themselves. Jake expected this to be the case for a few, with the main suspects amongst those who left the earliest.
+
+Not everyone had acquaintances in the auditorium or made fast friends during the lead-up, so they left pretty quickly, many of them with looks on their faces Jake couldn’t quite tell if represented a good or bad experience.
+
+Overall, as Jake reached the end of the recording and everything he wanted to see, he felt even more proud of himself for how well the lesson had been received. Seeing them actually discussing the subject of the lesson itself and not just that Jake was the teacher, though there was still a lot of that, told Jake he had done something right. Hopefully, they had all benefited greatly and would look back on it with positive memories in the future.
+
+However, Jake did notice one small potential problem. He noticed that every single person he’d given a reward token during the lesson was approached afterwards with placating words and big smiles. They all seemed to have the same goal in mind, too:
+
+To buy the token Jake had gifted.
+
+In his defense, Jake had seen something like this coming, which was why he had settled on those tokens as the rewards. He wanted the rewards to be meaningful but also not too valuable to make others want to rob them, which was also why he had the Viper ensure that the second the recipients got their tokens, all the points within would instantly be absorbed into their Academy Tokens.
+
+This would, at least in Jake’s mind, mean that the tokens were more or less useless. He still wanted the tokens for the theatrics of handing them out, as just waving his hand and saying something had received a bunch of tokens would have looked lame.
+
+What Jake hadn’t taken into account was that the people wanting to buy the tokens didn’t care that they were now inert but wanted the physical objects themselves. These tokens were just small circular stones with a diameter of a finger with a carving on them, nothing more.
+
+Yet people were hounded to sell these useless tokens… which only made Jake feel weirder when not a single person agreed to sell, but held onto the weird stone as if it were a priceless heirloom.
+
+Alright, sure, Jake had guessed some people would still care about these tokens and keep them as souvenirs, but he’d definitely underestimated just how much people cared. Granted, it didn’t help that Villy had insisted on carving a unique symbol on each that belonged only to Jake within the Order, but still.
+
+He just hoped people wouldn’t be too weird about the tokens… or get into unnecessary trouble because of them.
+
+--
+
+“It didn’t disappear,” Vendoli said with wide eyes as he stared at the object in the female beastkin’s hand.
+
+“No,” Chalette said, a massive grin on her face as she held the small token the Chosen of the Malefic One had personally handed her.
+
+“Have you-“
+
+“Hundreds of messages already,” Chalette answered, already knowing what Vendoli wanted to know.
+
+“You can’t really blame them,” the human sighed. “I take it you’re keeping it?”
+
+“My dad would literally kill me if I sold it off, and I’m pretty sure he’s already bragged to all extended family by now,” the beastkin grinned as she kept admiring the token. It didn’t look that impressive, but it had a unique design with the motif carved on it, like the robes the Chosen had worn.
+
+Vendoli was a little surprised at hearing how fast her dad had moved, seeing as it was only a couple of hours after the lesson had concluded, but then again, he understood the excitement, and he would probably also have called everyone he knew to brag if he’d been given a token. Not that it would have been that many, as he wasn’t exactly close to his family.
+
+“I haven’t even asked you yet!” Chalette suddenly said as if she’d just remembered. “Did you get anything out of the lesson? I’m not gonna lie, I’m pretty sure I only managed to succeed because of my high Perception.”
+
+As the descendant of an avian beast that focused on Perception, Chalette naturally had a high stat, and coupled with her already being pretty good at formation in the first place, Vendoli couldn’t help but agree that she had been particularly suited for this lesson.
+
+Vendoli himself wasn’t that good at formation in comparison, but was more of a classic alchemist with potions and poisons, though he did dabble in some other areas. Not to say he didn’t get anything out of the lesson.
+
+“I don’t know why, but I feel oddly invigorated,” he said as he looked down at his own hands. “My head feels clearer, and I’m not even registering your aura anymore. I still feel it, mind you, but I don’t have that small lingering sense of fear in the back of my head.”
+
+“Really?” Chalette asked, seeming oddly excited at hearing that as she smiled.
+
+“Yeah, it’s wondrous. I had heard that those who experienced being in the presence of the Chosen underwent some kind of qualitative change allowing one to resist auras, and that this effect even seems to exist on the planet he rules, but I hadn’t expected it to be that effective,” Vendoli continued.
+
+Chalette was quite a bit stronger than himself, so it wasn’t surprising that Vendoli had already found himself instinctively intimidated when near her. She was getting pretty close to C-grade while he still had a fair deal to go, and she was also a far better fighter, while he was more of the scholarly type.
+
+“Maybe it’s because you’re human?” the beastkin woman theorized.
+
+“Perhaps,” Vendoli nodded. “Though we can’t really know. Maybe others also experienced similar levels of growth; at least everyone seemed excited while leaving the auditorium.”
+
+“Oh, definitely,” Chalette agreed as she seemed to hesitate for a moment before speaking. “Say, seeing as you’ve gained some newfound presence resistance, how would you feel about going to my celebration dinner with me? Of course, it’s fine if you have other plans.”
+
+“I… let me guess, your big brother will be there?” Vendoli asked, a bit nervous. Her brother really didn’t like him; at least, he always glared at him and told him to stay away from his sister for reasons Vendoli still didn’t understand.
+
+“My dad, too,” Chalette said, scratching her hair nervously.
+
+Yeah, he didn’t like Vendoli either, but usually it wasn’t that bad if a certain factor was fulfilled. “How about your mother?”
+
+“Her too,” she confirmed, making Vendoli sigh in relief. She tended to be a calming force that allowed Vendoli to exist in the same space as the rest of them, and she was always nice to him. She also kept talking about how her dad had to accept his “little girl growing up,” which he wasn’t quite sure what she meant by, as, of course, everyone grew up.
+
+Yeah, anyway, her family was definitely weird, and while he did find them intimidating, he ultimately agreed. “Alright, I guess I can come.”
+
+“Great!” she said with a cheerful smile. “I’ll send you the details, so be sure to be there!”
+
+“Okay, okay,” Vendoli said, raising his hands in defense. “I’ll go back to my place and hopefully try to fully digest the lesson properly.”
+
+“As long as you don’t forget,” Chalette said with a nod before she touched her hair and once more looked a little nervous. “Do wear something nice, alright?”
+
+“Hm? Oh, sure,” Vendoli agreed, thinking that would only be polite.
+
+Chalette nodded once more, uncharacteristically happy as she took her exit while Vendoli also took his leave, as the lesson by the Chosen still dominated his mind. Looking at his own status, he also couldn’t help but consider…
+
+Maybe I should throw some more points into Perception?
+
+Thinking about it, his few friends had mentioned something similar at times while calling Vendoli “dense and oblivious,” for reasons he still didn’t fully understand, but maybe it truly was an issue of not having enough Perception.
+
+Ultimately, Jake couldn’t really do much if people got too overzealous about the tokens he’d given out, and could only step in if anyone took things too far. Hopefully, the overly respectful demeanor most showed toward him would also extend to the gifts he’d given out and allow the recipients to live in peace.
+
+Watching all the records had been a little mentally tiring, but the fact that no one shit-talked him made Jake feel a lot better. He still had a lot of doubts, but he didn’t regret having gone through it. The Viper had indeed been right that this was a good thing for Jake to go through, not that he would ever admit that to the god… even if said god was about to come fishing for such acknowledgment.
+
+As if having read Jake’s mind, space in the living room distorted for a moment before the familiar scaled figure appeared, holding what looked like a large wine bottle with a red ribbon tied to its neck.
+
+Jake looked at the god, who stood there with a big smile as he pointed towards the bottle.
+
+“You actually brought wine?”
+
+“I brought a wine bottle,” the snake god answered.
+
+“Does the wine bottle contain wine?”
+
+“What a silly question, of course the wine bottle contains beer,” Villy scoffed. “Also, I brought two wine bottles.”
+
+As he said this, a second bottle appeared on the table, this one without a ribbon.
+
+“Does the second wine bottle also contain beer?” Jake questioned.
+
+“See, that’s an interesting question, because what is beer really? I would argue that, seeing as you ingesting the contents of that bottle would result in your immediate death, there’s not beer inside it, but a deadly toxin. Of course, from my perspective, I would define the contents as beer, assuming that-“
+
+“Great clarification, thank you,” Jake cut off the snake god, who chuckled and threw him the bottle with the ribbon on it.
+
+“No problem, I just wanted to avoid any unnecessary confusion,” the god said as he sat down and popped his bottle open. “Now, I would genuinely want to congratulate you on having successfully completed your first lesson. No joke, pretty proud of you, even though I know you didn’t particularly enjoy the experience. I continue to hold fast to the opinion that it was good for you. Good for the students too, it seems.”
+
+“Thanks, never try to force me into being a damn teacher ever again,” Jake said in a pretty serious tone, as he also opened his own bottle and took a large chug. After drinking and feeling a little refreshed from the golden liquid within, he asked a question he wasn’t sure he even wanted the answer to. “So, for the big question… how did I do in the opinion of the Malefic Viper?”
+
+Even if he wasn’t confident that the students would ever give him a genuine evaluation, he at least trusted that the Viper would, as he prepared himself emotionally to receive the feedback of the evil snake god.

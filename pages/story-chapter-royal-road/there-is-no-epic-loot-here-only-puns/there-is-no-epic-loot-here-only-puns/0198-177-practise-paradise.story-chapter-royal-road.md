@@ -1,0 +1,307 @@
+---
+id: 7018d659-1b64-585e-a38c-08b3dd173734
+page-type-slug: story-chapter-royal-road
+title: "177: Practise Paradise"
+slug: 0198-177-practise-paradise
+partOf: there-is-no-epic-loot-here-only-puns
+position: 198
+ownLength: 3523
+unit: words
+publishedAt: 2023-05-12
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1211218/177-practise-paradise"
+royalRoadId: "1211218"
+---
+
+Delta watched as all her guests had to leave the Dungeon rapidly due to the fact her mana levels were reaching ‘unsafe’ levels on all floors. She wanted to examine Yattina closer, but time was pressing.
+
+Someone was waiting at the top, and Delta had to squint against the sunlight pouring in through her door. It was a teen, and he was backlit by the sun making his features undefined to her Mana sight. Deo seemed to know the boy, and Lim gently helped Yattina up the stairs.
+
+She turned to Alpha.
+
+“You should go too,” she said, and he shook his head.
+
+“I’m designed to handle large amounts of magic. I’m the ultimate ‘hero,’” he said quietly, and Delta wished he had more faith in himself.
+
+“People are designed to survive the flu, doesn’t make it pleasant,” Delta said dryly.
+
+Alpha shrugged as a small firefly-like grub crawled out from his hair.
+
+“Hero!” she said with pleasant surprise at seeing her raid boss outside the secret garden.
+
+“I can go with him,” he offered, and Delta blinked for a moment, smile fixed.
+
+“Monsters can’t leave the Dungeon,” she reminded. Hero moved his little insect legs and patted Alpha once, and his aura glowed for a moment, a sort of white aura with flickers of orange.
+
+“As long as I touch Alpha, he counts as Dungeon ground now. You infected him, or your powers are swapping tips,” the raid boss said brightly.
+
+‘Our systems are integrating messily,’ Delta corrected mentally with concern. If Brother was to be believed? She and Alpha were never meant to be in contact like this. Beta or Gamma would have fit better, the monster or the weapon… but the Dungeon and the Hero? That was unforeseen.
+
+“Show him around town,” she suggested to Alpha, who hesitated then seemed to find it more acceptable than just leaving of his own accord.
+
+Besides, despite Alpha’s claims? She wasn’t sure he could handle what was going on right now. The mana that she had swallowed off the Hero Unit was immense, and things were unstable. She looked over to one of the sconces in the entrance and watched as the fire warped a little, bloating and crystalizing before breaking apart into green fire then back to red.
+
+The offering bowls cracked and foamed with amber before sealing up in tumor-like bulges. A second later, the tumors turned to dust and left smooth surfaces.
+
+In her memorial room, the statue of herself had grown a grotesque flesh wing made of mushrooms. It only got worse as she went down. The only room seemingly unchanged was the Lake Room.
+
+The mud in the Mud Room was on fire, the mushroom grove was so overgrown that no passage could be made without cutting down a thicket of stalks. Boary was literally stuck in a corner.
+
+Fera’s bar was headache-inducing as tables melted into the floor and liquids oozed out of cracks, while the boar head above the door had grown an extra set of eyes. The bartender would return soon from the infirmary and be livid.
+
+Fran’s room was half melted into the ‘spaces between’ the floors, causing islands to appear with no way for Bacon to move about. The audience seats had turned to boiling liquid, moving like a marble waterfall into the void.
+
+She feared for the second floor, but when she stepped down, it was… normal. It was fine with not even a Pygmy Mushroom out of place.
+
+She frowned, zoomed to Wyin, and froze as she saw dozens of orange blossoms growing all over her sleeping form as her roots spread across the entire floor, absorbing mana and turning them into the flowers growing on her body.
+
+All around her, the Pygmy Mushrooms had begun to pray to her earnestly. Their little beads of faith seemed to keep Wyin safe from the process.
+
+“I’ll fix this,” she promised, then checked on the third floor and found it mostly stable.
+
+In the boss room. Jellagon was… smaller than before. He also had ten clones with different hats and mannerisms as the mana flooded his room. Every time a limit was neared, Jellagon, or one of the ‘Agons’ split into another personality.
+
+They all did the exact same wiggle at her approach. One of the slimes had glasses and a tie instead of a hat with a briefcase at its side, glued to its body.
+
+“…Lawyagon? I have a lawyer?” Delta questioned with surprise. It pulled out a business card.
+
+“‘Being sued? Eat the opposition! Hire Lawyagon today,’” she read. The business card was stuck to her avatar’s fingers, and she physically couldn’t let it go.
+
+“I’ll keep a hold of this! Just… let me get back to you,” she said as she stepped over the many slimes and nearly stepped on something that looked as round as a slime but was more fleshy.
+
+“Kill me,” Mharia said with a groan.
+
+“Aren’t you dead already?” Delta asked with wide-eyes as Mharia rolled to face her.
+
+“You know what my days were like before you came along? I sat on a throne and made dead things. I had a pretty good life. No one invited killer robots or turned me into a fairy or bloated me with mana,” she said with a succinct tone.
+
+“I didn’t invite them,” Delta said with no shame. She had done nothing wrong.
+
+Well, she had done nothing wrong in the manner that invited killer robots.
+
+“And now we’re all going to explode with Mana,” she said, voice dripping with a scowl. She tried to put her hands together, but her spherical form didn’t allow for it.
+
+“Can’t… slow…clap…in…sarcasm…” the fairy said with strain.
+
+“I seem to be fine, which is really weird,” she said, eyeing her own hands as if expecting them to begin to bug out.
+
+“Thank the Sister. She may have screwed over many, but she’s sweet on you,” Mharia said quietly.
+
+“I’m going to spend a buttload of mana and fix this. You stay here and hate the world,” she ordered Mharia, who nodded seriously.
+
+“I shan’t fail you, oh chaotic mistress of the phallic shrooms,” she sang, and Delta accidently stepped on her on her way past.
+
+Once she was down on the fourth floor, she eyed the massive whirlpool of destruction that had formed when the Hero Unit exploded. This floor only had the basic things and one creature, so she had lots to work with!
+
+She opened the menu.
+
+“£%%%^£:!”
+
+Delta stared at the screen of corruption and glitches. She closed it, then reopened it. Lines of nonsense and glitches continued to make the screen unreadable.
+
+“Nu?” she called, and the screen shifted to blue.
+
+“Don’t w$r1y. T4e ‘Refrence:Mana’ is c@ausing 1ssues.”
+
+This mana was beginning to settle on her inner systems, and it wasn’t being absorbed fast enough.
+
+“Nu, how do I fix this?” she asked, and the screen went static for a moment.
+
+“B3 Y0U.”
+
+That was unhelpful. It wasn’t like Delta wasn’t herself as much as possible. She tried smacking the screen, but all she got was broken images of blue, orange and specks of gray.
+
+“Okay. New Dungeons have Menus, but they don’t use them like Foodie because they don’t ‘read’ or ‘understand.’ So, how do they make things?” she asked herself, rubbing her temple. She thought of Foodie and his basic want for food, protection, and growth.
+
+Need.
+
+Desire.
+
+She turned to an empty stretch of the sea and focused.
+
+“I need an island. I need an island,” she chanted, and nothing happened. She tried again, but all she got was a breeze in return.
+
+Her thoughts turned to the sleeping Wyin, the chaotic first floor, Jellagon, and the others.
+
+She thought of Nu, stuck in such thick mana he couldn’t even think.
+
+She thought of Sister who was breaking herself to help Delta. Delta held her hand out before her, and while she couldn’t sink into her Dungeon-mindset due to the sheer chaos it made her feel, she embraced the feelings it stirred in her.
+
+“I’m not asking. Make me an island… now,” she whispered and snapped her fingers, and this time, something was different instantly. A flood of mana manifested and swam across the ocean like a school of orange microorganisms. Once they reached out far enough, they begin to rise, forming rock from the mana, followed by sand and trees.
+
+It was perfect, except for one thing.
+
+The entire island was sideways, over half of it submerged as the trees grew sideways.
+
+“Can we tilt it? It’s tilting me,” she said, and the mana formed once again in the air, making a massive orange hammer that smashed into the island, correcting its orientation.
+
+The force made it rotate fully until the island became a perpetual motion device, and it sailed off, crashing into the outer bounds of the floor then breaking apart into a tiny ring of rocks and ruin.
+
+Delta stared at the mess.
+
+“I swear they didn’t make it look this hard when I had a menu. Just click and place,” she muttered and inhaled. She began to rub her hands together with intent.
+
+“Island, facing upwards with a solid base. The shape looks like a lion’s mane!” she ordered. The mana surged excitedly towards the empty spot in the ocean. Delta floated in the sky, looking down at what looked like a coconut doing a hula dance.
+
+“How is that a lion?!” she demanded of her mana.
+
+She slammed on the sand and used a stick to draw what she meant. A second later, she had a near perfect replica of the dancing coconut.
+
+“Okay, the shape doesn’t matter right now,” she said tightly.
+
+She pointed to another empty part of the ocean.
+
+“Fish Island! I want it to dazzle me with its shape!” she commanded and the orange tide rose at her command.
+
+She did not get a fish from her mana. She got a banana-shaped island. It was doable, and she was about to move on when the island raised a giant stone tail and swam forward slowly.
+
+“I didn’t mean a literal fish island!” she screamed as they picked up speed. The whale island ended up plugging her death whirlpool, and the floor began to flood upwards.
+
+“This should not be so hard; Nu makes it look like ‘oh you want a complex gate system or bar or waterfall? Boom, done, snark snark!’” Delta screamed as she had to double the size of the whirlpool for a moment, and the whale island swam down it.
+
+She stared at its fading shadow and hoped that whirlpool didn’t go anywhere bad.
+
+---
+
+Brother frowned as he looked up at the ‘sky’ of the core of the world.
+
+A massive shape was speeding towards him with flailing limbs.
+
+“I’ve heard of cats and dogs. Whales are new,” he commented as he opened an umbrella with a calm expression. The whale landed sort of on him and a little on his rather important control unit for some of his stronger monsters.
+
+It was only a little crack. A little control piece.
+
+It was fine.
+
+Brother now had a friend.
+
+He called it ‘Seas.’ Its blubbery face and sad eyes reminded him of his Sister.
+
+---
+
+This wasn’t working.
+
+Everytime Delta had closed one loophole or mistake in her Mana coding, a new bug arose. She programmed trees? The trees grew fruit that exploded.
+
+She stopped them from exploding, and the trees floated off. She found the ‘collision’ issue and made the Mana behave.
+
+Across the sea, three rocks began to glitch, and she had no clue why two pieces of unrelated floor parts were connected or why fixing one broke the other. She tried to make a bird of paradise to spice up an island, and the bird flew in a weird arc, spinning in a circle with one wing touching the ground at all times.
+
+It opened its beak, and something like broken jazz emerged.
+
+“These hands of mine, they are only good for breaking the system, not working with it,” she said with dismay.
+
+She could almost hear Nu giving her one of his witty but upbeat speeches.
+
+“Be you, you nimrod,” he would have said.
+
+She looked at the messes she made, and Delta swallowed.
+
+“I’m not a builder or a coder… or even a Dungeon Core,” she said with a nod of acceptance.
+
+“I’m Delta, and I don’t care for dos or do nots. I only care if it helps,” she said and looked at the literal orange mana all around her.
+
+She closed her eyes and held out her hands, cupping some of the mana with both hands.
+
+“When I think of a sea, a magical sea. I see islands of fantastic impossibilities. I see golden fish glimmering in the sun. I see star-lit nights on a beach with friends. I see safe little huts for getaways. I see the sun, I see the moon, and I feel the breeze on my skin,” she said, a smile appearing on her face.
+
+“Some islands have ancient ruins that make you think of the history all around you. Some islands have deep caves that could have treasure or a massive sea creature of a gentle nature. Another island has sand so golden it feels like you’re walking in a dream,” she said, her words getting faster as her heart began to beat with excitement.
+
+“I see fish as big as islands swimming deep underwater. I see cursed ships on foggy nights. I see… I see…” she trailed off and opened her eyes that were now solid orbs of orange.
+
+“I see it,” she whispered and threw her mana into the air where it began to gather into a massive storm high up in the sky. The orange mana created crackles of lightning that struck the floor, each impact making life and material as it struck.
+
+Delta swayed her hands like a conductor with a baton, and the storm danced to her heartbeat. A lightning bolt created a long ringed island with a ruin in the middle, another made whales of deep green, another struck a beach repeatedly, making a mix of sand that looked like diamonds and gold.
+
+The ocean churned as large pillars rose out of it followed by a half sunken castle.
+
+A bolt into some trees made a rainbow of birds fly in all directions, and just as Delta thought the storm might be going too hard, it abruptly stopped, the clouds parting from the center to make a perfect clear circle to reveal what looked to be millions of stars.
+
+The brightest two were a twinkling orange one and a standoffish blue twin. The stars around them began to move and fall, making a star shower that splashed into the ocean, causing ripples of light to turn the dark water into a glowing sea that showed the massive shadows of the whales below and more ruins.
+
+Delta took off and floated across the ocean, her hands skating the surface of the water, leaving a long rippling trail in her wake that fish leapt over and the light of the fallen stars flashed in time with.
+
+“One last island!” Delta yelled, unable to stop grinning as she flew through her imagination.
+
+She shot into the sky, causing the ocean to rise up with her in a pillar of water.
+
+“An island in the clouds. A hidden island. A sky island where the truth can be seen from above!” she laughed.
+
+She watched as rock rose from below, and sand funneled up with it.
+
+“Its name is…”
+
+The island came together, made of the glittering gold and diamond sand that had flowing rivers and mists making everything gleam.
+
+“Star Island.”
+
+---
+
+Nu opened his eyes, feeling like he was hungover. The last thing he remembered was laying with Delta on a beach, feeling like he was rapidly being filled with unclean mana. Then it all became confusing dreams of clashing swords, being chased by a demonic Delta who had plans for a mushroom waterfall, more mushrooms, and a weeping woman at an altar.
+
+He sat up, noticing he was almost humanoid again. Urgh, this form was too limited.
+
+Rectangles were the superior shape.
+
+He stood up and noticed he was on the fourth floor. A quick check showed that ludicrous amounts of mana had been spent in the last two hours. His jaw actually dropped at the numbers. Nu tried to track the purchases, but there was no history. The system had no recorded message of any pulling of the blueprints or the use of its precision placement system.
+
+Who would be stupid enough to use Dungeon Creation without the placement Syst-
+
+“Delta!” he spun, calling out in wor- agitation. He found her dangling her legs into a bank of fog as she stared out at the blue sky.
+
+“Yo,” she said with exhaustion clear in her voice but also something else. A degree of… pride and joy.
+
+“Are you okay? I left you alone for longer than an hour, and I know that’s trying on your self-control,” he said quickly as he stood next to her. He didn’t recognise this island…
+
+“Nu, shut up and sit with me,” she said with her eyes closed, and she looked different.
+
+It was a small change, but Delta looked more defined than before. She still had her shirt, tie, and long skirt, but he could now make out ink stains on her cuffs, and what looked to be a homemade repair job on her skirt with a red thread that stuck out on her black skirt.
+
+Delta had a little scar on her nose, where reading glasses might have perched.
+
+Nu did so, and Delta leaned over, whispering something in his ear. Nu blinked and stared at her.
+
+“What is that?” he asked, a little aghast at the word.
+
+“My name,” Delta said with a small smile.
+
+“Well, my last name,” she added.
+
+“No wonder you went with Delta,” Nu said with a shiver. Delta punched him in the arm, and it hurt. Another reason why rectangles were better… no arms!
+
+“It’s not that bad, but it’s easier if the kids just called me Miss D,” she said with a roll of her eyes.
+
+Nu was quiet. Honestly, the name wasn’t so bad if he repeated it a few times. In fact, it even had a nice little song to it if he stretched it out. He repeated it a few more times, oblivious of how he was being quiet.
+
+“Miss Unknown Diplococcus. Did you know that your family name is…uh…” Nu trailed off, not sure how to phrase what he really wanted to ask.
+
+“Did I know that my family name is basically a disease? Yeah, I know. You can blame my grandfather; he panicked when he was getting into the country. All he had was a medical magazine on hand, and his old name was ‘close enough.’ Mom thinks he was a crook back home,” Delta sighed.
+
+“I prefer Delta, but if you want me to call you-” he began, and Delta gave him a ‘look.’
+
+“Let’s just stick with Delta. I don’t want some wizard coming in here, learning my name, and bringing meningitis to the world,” she scowled.
+
+“I wonder if your first name is ‘Pox’ or ‘Flu’ but with a funny little accent over it?” Nu pondered, sounding very amused by the idea.
+
+“Do you like heights?” Delta said, and shoved Nu over the edge of the island, and instead of water like he expected, he fell through a cloudy embankment over the fourth floor to see chaos below. Twelve islands were spread out around the central island.
+
+He saw a banana, a coconut dancing, what looked like a crab, a woman holding a doughnut, a goat with five legs, a bull with little wings, and more.
+
+The death whirlpool looked smaller as if something was at the bottom, clogging it. Paths rose and sank between the islands, and a massive washed up boat on one of the islands had trees growing out of it and looked to be ‘lived’ in.
+
+A nearby sunken castle had images of a thing that looked a lot like Jellagon with a beard and trident.
+
+A whale rose briefly to blow water, and it looked to be made out of almost pure emerald.
+
+Nu could only gape at the sheer sight below him, only having time to turn and stare up at a floating island that Delta was resting on. The thing looked like a heavenly gem, a star that had drifted too close, obscured by the clouds.
+
+This was all chaotic, but where was the Dungeon Core? Where was Delta?
+
+The sun set, and the sky turned to stars, a carpet of gems. At the center of it all, hiding among them on the ceiling and upside down…
+
+Delta’s core glowed orange next to a watchful blue star.
+
+“Clever girl…” he whispered.
+
+Nu hit the ocean and sank to the bottom.
+
+It was easier to hide how proud he was at the bottom of the sea.

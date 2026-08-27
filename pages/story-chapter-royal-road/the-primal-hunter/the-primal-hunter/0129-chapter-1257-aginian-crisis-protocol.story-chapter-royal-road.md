@@ -1,0 +1,145 @@
+---
+id: 59b0c45e-f0a1-5e83-9f43-238e7f4cd27f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1257 - Aginian Crisis Protocol"
+slug: 0129-chapter-1257-aginian-crisis-protocol
+partOf: the-primal-hunter
+position: 129
+ownLength: 2877
+unit: words
+ownProgress: 2877
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3063309/chapter-1257-aginian-crisis-protocol"
+royalRoadId: "3063309"
+markedReadAt: "2026-06-29T19:34:36.446Z"
+---
+
+Jake jumped backwards, making use of the space opening up to create some distance between himself and whatever would appear in the Labyrinth Master’s stead. Casper also started preparations of his own, taking advantage of the visual spectacle from the phase transition.
+
+Stopping and starting to charge his Arcane Powershot, Jake also began to make modifications to the Protean Arrow he’d created within his quiver. It was originally designed for the flesh and blood dungeon boss, but based on current developments, that wasn’t what they were gonna face in the last phase.
+
+He kept watching as the blue lightning bolt lit up the area, funneling energy into the corpse of the Labyrinth Master. Simultaneously, the many tiles on the ground also activated once more, the energy they had absorbed earlier streaming towards the boss to empower it further.
+
+The body of the Labyrinth Master slowly began to rise into the air, bathed in insane levels of energy that shot down from seemingly nowhere. By now, all the flesh had been stripped from the cyborg’s body, leaving a borderline skeletal robot. As energy descended, Jake noticed that where the heart should be, there was instead a core of some kind that had begun glowing brightly. As both the C-grades were wondering what Minaga had cooked up for them, the voice echoed once more.
+
+“Damage to vessel: Critical. Repairing essentials. Upgrading. Charging Core. All features unlocked.”
+
+Right on cue, the body started repairing itself, replacing many of the places where flesh had been before with even more metal as the Labyrinth Master went from cyborg to robot, or perhaps more accurately, golem. The glowing core’s light was eventually hidden by metal covering the entire chest of the boss. Slowly, the lightning bolt subsided, fully revealing the golem.
+
+The golem’s arm moved robotically as it reached out to the side, the gunlance below flying up into its hand, crackling with electricity.
+
+[Aginian Crisis Protocol Golem  – lvl ???]
+
+Without any further warning, the entire golem’s body erupted with a thunderous sound, releasing a shockwave of electricity in the process.
+
+Jake responded as he loosed his Arcane Powershot, an explosion of arcane energy sending his arrow shooting forward. At the same time, Casper, who was still in melee, was pushed back by the shockwave released by the newly awakened Aginian Crisis Protocol Golem, but not without activating the trap he’d laid.
+
+To Jake’s surprise, the sphere of magical seals from Seal of Enervation appeared once more, the Risen having seemingly reactivated the curse despite the Labyrinth Master having died. Unfortunately, Jake’s poison was all gone, and his Aginiansbane was effectively useless as it was made to destroy members of the Aginian race and not their mechanical creations.
+
+Right on time, too, as Jake’s Arcane Powershot impacted the golem right in the chest. The boss was sent flying back from the impact, but Jake could only frown as he realized that his attack hadn’t even left a mark on its body. Instead, he’d struck a small barrier right above its exterior that absorbed the entire attack.
+
+It reminded him way too much of the Altmar Census Golem he’d fought way back then, so that wasn’t good news. Fortunately, it looked like Casper’s curse had still worked despite the barrier, and hopefully, it would even make it faster to breach through said barrier.
+
+Jake and Casper quickly exchanged a glance, sharing the sentiment that this third phase was likely going to be annoying. However, neither felt any particular fear as they both got to work. Nocking another arrow, Jake started attacking as Casper enveloped himself in curse energy and sent a wave of cursed stakes toward the golem, which had stabilized itself after being pushed back by Jake’s opening attack.
+
+Raising the gunlance, it fired, shooting out a beam of lightning toward the Risen. Casper quickly moved to dodge, but he was a bit too slow and was struck on his left side. His ethereal body was sheared off, and immediately, Jake knew that the Risen had actually taken quite a bit of damage.
+
+A rain of arcane arrows struck the golem before it could shoot again, all of them exploding as the air was filled with destructive arcane energy. The passive barrier naturally blocked everything, but Jake confirmed that the golem consumed energy to do it, even with a weak attack like this.
+
+With this realization, Jake kept shooting arrows that split into multiple, seeking only to fill the entire arena with destructive energy. Not only did this consume the energy of the golem, but it even helped Casper not be attacked, as he could use the arcane energy to avoid the detection of the B-grade.
+
+The Risen retreated, wanting to avoid the lightning as he placed down traps in his wake. It didn’t take the golem long to pursue, having seemingly designated Casper as its primary target as it chased out of the destructive energies, straight toward him.
+
+It passed through several newly laid traps, getting itself wrapped in black chains that barely slowed it down as they swiftly broke. During its charge, the gunlance it had been holding transformed, morphing into a long and thick sword instead of the semi-ranged weapon.
+
+Swinging the sword, a crescent wave of lightning energy erupted forward, sizzling across the tiled ground as it closed in on the Risen. Casper summoned a cloud of ghostly energy to defend himself, but the lightning quickly tore through it. The Risen had the electricity wash over him, groaning in pain as he definitely took some serious damage once more.
+
+That’s when Jake remembered something that he really should have considered earlier... ghosts were weak to lightning. It was their natural weakness, and despite Lyra being a Blightwraith, she was still a variety of ghost and couldn’t escape this natural affinity weakness.
+
+With Casper being in their merged form, he was also at least half a ghost, meaning he shared this weakness. Perhaps that was why the Risen quickly used his movement skill to propel himself backwards as he made himself fully corporeal once more, retracting the ghostly energies floating around him into his body.
+
+Jake helped as much as he could by bombarding the golem with arrows, but the barrier made it hard to do much. The B-grade didn’t even try to dodge as it merely tanked everything with the singular goal of killing Casper.
+
+It swung its lightning-wrapped blade several more times, sending out crescent waves of lightning that Casper tried desperately to avoid. At the same time, it continued to close in, and no matter what Jake and Casper threw at the damn thing, it didn’t seem to give a damn.
+
+Soon, it caught up with the Risen and started swinging rapidly. Casper tried to dodge and block, but the golem was faster and stronger than the Labyrinth Master had been. He did what he could, but Casper was continually pushed back and took damage, even when he fully blocked attacks, as explosions of electricity erupted with every blow.
+
+He tried to run and get away several times, but the golem wouldn’t let him. Watching this, and seeing how utterly useless his arrows had been, Jake knew he had to do something else. Putting away his bow, he didn’t hesitate to use One Step and flap his wings as he propelled himself down toward the two figures fighting below.
+
+Casper was durable, yes, but he was entering dangerous territory as Jake approached. He had been slashed several times, his body full of injuries, and his resources were being drained rapidly.
+
+At full speed, Jake arrived. He slammed straight into the side of the golem’s body, landing two Piercing Fangs at once as he encountered the annoying barrier. Fortunately, the impact was enough to send the golem sliding back, allowing Casper to desperately use his movement skill and even chug down a potion to help his resource situation a little.
+
+The golem regarded Jake for a moment, only to promptly activate the same movement skill shown by the Labyrinth Master before. Its body shimmered and warped as it went straight around Jake, going for Casper again.
+
+Reacting quickly, Jake chased after and used One Step to get ahead. The golem still tried to get around Jake, but he read its movements and kicked right where it went. He hit the side of the golem, deactivating its movement skill and knocking it slightly to the side, but needless to say, a kick didn’t do much in the damage department.
+
+“We just need to buy time!” Casper yelled from behind as he tried to place more traps while running to avoid being caught.
+
+“I know!” Jake yelled back while charging toward the B-grade again.
+
+As Casper had said, time was on their side as long as they could avoid the golem’s relentless attacks. The B-grade was burning through its energy rapidly, and it didn’t seem to have any ability to recover. The shining core was overcharged to the extreme, but it didn’t matter as the golem was never meant to “survive” this encounter.
+
+From the beginning, it was just the reanimated body of the Labyrinth Master. A solution created by whatever was behind that female voice to kill whoever had managed to take down the Labyrinth Master.
+
+All that attacking the golem did was reduce the amount of time it could remain operational, as when it ran out of power, it would naturally perish. The problem was that as things stood, Casper would be the one to perish first.
+
+The golem felt unreasonably strong and fast, especially when one considered it was afflicted with the Seal of Enervation, weakening it substantially. With the curse, Jake could at least keep up somewhat and try to stop the damn thing from attacking Casper all the time.
+
+It kept trying to just get away from Jake while going after Casper, but the traps he placed slowed it just enough for Jake to keep up. Seeing as the damn thing didn’t even try to attack Jake, he changed his approach a little, putting away both katars and going in barehanded.
+
+Right as the golem was about to cut through another mass of chains from Casper’s traps, Jake jumped at it. He wrapped his arms and legs around it from the back, pressing his hands into the golem’s body as they both started glowing with a dark green light.
+
+The barrier was sizzling everywhere it made contact with Jake’s body as the passive defenses of Arcane Awakening were constantly under assault. It was nothing compared to what happened when Jake pressed his hands toward the barrier, though, as the air crackled and whipped from the malefic energy rapidly corroding the golem’s defenses.
+
+Just like with the Altmar Census Golem, Jake found that his Touch of the Malefic Viper was a great counter. Barriers like these appeared impenetrable and often had no limit in blocking powerful individual blows, with the only limit being the golem running out of energy. However, constant stress could compromise its integrity. Especially when that constant stress took the form of Touch of the Malefic Viper, an attack that integrated the malefic affinity and could corrupt and corrode anything and everything.
+
+The single-minded golem tried to ignore Jake and keep chasing Casper, but the hunter finally got a response when his hands broke through the barrier and he made physical contact with the golem’s body.
+
+Pressing hard against the chest of the golem, rust began to spread around the palms of his hand as corruption set in. For the first time, the golem reacted to being attacked, instantly stopping its pursuit and exploding with energy to wrestle Jake off.
+
+Scales already covered Jake’s body, and his hold was too strong for him to be thrown off by something like that, so he only hugged the golem tighter. Having failed to easily shake Jake off, the golem swung its sword into its own body, trying to cut off Jake’s hands.
+
+This finally forced Jake to disengage his assault, and the moment he lifted his hands, the barrier reappeared, covering the two large rusty handprints on the golem’s body. The sword slammed into the golem’s own body, rebounding on the barrier as the golem quickly tried to swing again, its arm twisting in an unnatural way until it could even hit its own back.
+
+Forced away entirely, Jake jumped off the golem just in time to avoid the sword. Jake felt that he’d done some serious damage and consumed a lot of the golem’s energy, and he was fully prepared to repeat what he’d just done if the boss continued to only target Casper.
+
+For a moment, he had hope that the B-grade switched target to Jake as it swung its sword toward him again, releasing a wave of lightning that Jake quickly jumped over. However, it didn’t do any kind of follow-up but spun around and charged straight for Casper again, much to Jake’s annoyance.
+
+He instantly used One Step to pursue and quickly got close as the golem naturally ran into even more traps set by the Risen. Jake was just about to wrap himself around the damn thing again, but while he was still in mid-air, the female robotic voice sounded out yet again.
+
+“Core Overcharge: 150% approved.”
+
+Jake’s danger sense reacted as the golem’s body erupted with lightning, sending out a shockwave of electricity that washed over him. His scales crackled and sizzled from the energy, but Jake managed to avoid damage as he was only forced back.
+
+However, as the voice indicated, the golem had done more than just explode. Lightning now wrapped around its body from top to bottom, and the B-grade felt even more powerful than before as he stepped down and shot toward Casper.
+
+The Risen couldn’t keep up with the golem’s speed before, and now he was even more screwed. Jake saw a flash of concern on his friend’s face and didn’t hesitate as he spoke.
+
+“Event Horizon.”
+
+Once more, Jake glimpsed the horizon as the golem was made his sole target. The ring of light appeared around it, but perhaps most importantly, that brief glimpse had made the boss stop moving, buying Casper even more time. Jake could see the Risen was obviously preparing something, and Jake was all-in to help him do whatever he was trying to do.
+
+This use of Event Horizon wasn’t the most exciting, but it still made Jake’s arrows stronger for a while as he started shooting, curving his arrows around to strike the golem in the side. Before, they could barely make the golem react, but now the impacts were powerful enough to make the boss stumble with every hit, helping Casper at least a little.
+
+Jake also tried to help further as he used Eternal Shadow, sending his cursed self sprinting forward toward the golem. His arrows slowed the boss down enough for his Eternal Shadow to reach it and strike it in the leg with a Piercing Fang, making the B-grade stumble for a moment.
+
+More arrows kept striking the golem, disrupting it repeatedly, but the B-grade continued to close in on Casper, who had stopped moving and was down on one knee. There was a ritual circle around him that pulsed with energy that made even Jake feel eerie.
+
+He saw that the Risen still needed a bit more time, making Jake grit his teeth as he looked directly at the golem while continuing to shoot. He activated Primal Gaze, instantly feeling that the golem’s soul was weaker than he’d expected. The boss froze for a moment right as an arrow struck it, and without the ability to stabilize itself, the B-grade was sent flying to the side for a moment.
+
+Right as it could move again and was about to swing its sword and attack Casper from afar, it was hit with yet another Primal Gaze and arrow combo, disrupting it yet again. Jake was already feeling the strain, but he was forced to use Primal Gaze a third time, making his eyes burn as he feared using the skill a fourth time would be a terrible idea.
+
+However... it had been enough. A black smoky aura was emitted from the ritual circle beneath Casper, and when the golem swung and released a crescent wave of rolling lightning, it simply washed over the black smoke harmlessly.
+
+In the middle stood Casper, with no sense of joy or accomplishment on his face. Instead, black trails of tears ran down his cheeks as he looked toward the golem.
+
+“I’m sorry, Lyra,” Casper faintly muttered, a look of regret and pain in his voice. Lyra appeared above him, with a sad yet comforting look on her face. She closed her eyes as all the black smoke funneled toward her, turning her entire body black.
+
+Jake felt her aura fade away, and with a voice full of pain, Casper spoke in a croaky voice.
+
+“Necropolis of Loss.”
+
+Lyra’s body disappeared entirely, exploding in a wave of black smoke that seemed to consume all of existence as it washed over all of them in an instant, as the energy of cursed blight enveloped the world.
+
+... and that’s when Jake learned Casper already had a complete Domain Skill.

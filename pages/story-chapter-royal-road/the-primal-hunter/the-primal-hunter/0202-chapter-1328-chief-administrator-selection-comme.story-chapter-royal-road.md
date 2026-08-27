@@ -1,0 +1,179 @@
+---
+id: 7e673615-23e3-5ac1-90bd-5fcb8fc6aead
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1328 - Chief Administrator Selection Comme"
+slug: 0202-chapter-1328-chief-administrator-selection-comme
+partOf: the-primal-hunter
+position: 202
+ownLength: 2885
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3497002/chapter-1328-chief-administrator-selection-comme"
+royalRoadId: "3497002"
+---
+
+There really wasn’t much anyone could do to prepare for the upcoming Chief Administrator Selection, so they all just sat back and waited for the hour to expire. The tension was also pretty low, as everyone knew this system event wasn’t going to be any kind of competition, but already had a foregone conclusion.
+
+No one dared to compete with Jake, and if Jake somehow couldn’t claim the title, Miranda was next in line, with probably Lillian right after that. Trying to compete against Jake and the Order was a good way to find one’s planet experiencing a rather unfortunate future. Not that the person would be alive to experience any of the repercussions.
+
+Shortly, the countdown expired, and finally, it was time to see what kind of system event was in place to select the Chief Administrator. The entire Administrator’s Terrace turned perfectly quiet the moment the system notification appeared, as Jake and everyone else carefully studied it.
+
+Chief Administrator Selection for the Milky Way Galaxy Seat of the Exalted Prima is now commencing.
+
+The Chief Administrator will be selected through voting. Each Administrator is given one vote. Votes can be freely given to any other Administrator, or won through a number of Challenges available. Challenges will take place within simulated reality, and both sides must have at least one vote to stake in the Challenge. The simulated space for Challenges is highly time-dilated, so no Realtime passes during each Challenge.
+
+Voting will begin in one day (24 hours).
+
+The Chief Administrator is successfully selected if a single person receives more than 50% of the total votes.
+
+There will be a maximum of three rounds of voting. After the second round of voting, Challenges can no longer be rejected, though the challenged party can choose which Challenge will be conducted, with the challenger having only one veto. Upon conclusion of the third vote, the Administrator with the most votes will be given the Chief Administrator title, even if the 50% threshold is not reached.
+
+First vote in: 23:59:59
+
+Towards the end of the description, Jake was already starting to feel a little miffed about his current situation. This wasn’t some massive event, and would at most last three days, but Jake still thought it sucked that he effectively didn’t have to participate.
+
+“Well, this turned out simpler than expected,” Miranda said after a few seconds, getting the attention of everyone. “I presume it doesn’t need to be said that in a day, we’ll all simply vote for Lord Thayne and have this matter be over with. Unless there are any dissenting opinions?”
+
+To the surprise of no one, there wasn’t a single person present who dared speak up and announce their intention to claim the World Wonder for themselves. Jake did notice a few subtle glances towards Kindroth, but the elf quickly squashed any doubt as he nodded.
+
+“That does indeed sound like the most straightforward solution,” he said with a smile. “If we want to ensure things proceed without any hiccups, perhaps we should even transfer all our votes either to Ms. Wells or Lord Thayne himself.”
+
+“It’s fine,” Jake also decided to speak up. “I’m sure we’re all on the same page here.”
+
+It was a rather subtle warning that no one should try anything dumb. At the same time, Jake didn’t want everyone to transfer their votes away, since the system-mentioned Challenges required a vote, and given that they had a day before voting time, why not have some fun with the system-offered entertainment?
+
+“I agree, let everyone instead use their votes for these Challenges,” Miranda said. “A bit of healthy competition has never hurt anyone, and who knows, maybe there are some unmentioned benefits given to those who gather a lot of votes.”
+
+With that little announcement, it was pretty much open season to just enjoy the event, even if it wouldn’t change anything. All the votes would go to the same person, no matter who gathered them, but that didn’t mean they couldn’t have some fun during this day.
+
+As for the Challenges one could issue, there were five in total, though in reality, there were kind of infinite, given the last one.
+
+Challenge 1: Combat
+
+Challenge 2: Insight
+
+Challenge 3: Social
+
+Challenge 4: Creation
+
+Challenge 5: Custom
+
+Out of the four preset ones, only one directly mentioned combat, while the other three seemed more profession-related, though the Insight one could go either way. The custom option was very self-explanatory, and with a bit of mental probing, Jake saw that one could effectively create whatever kind of Challenge one wanted, though they all appeared to be time-limited to one hour in the simulation.
+
+Miranda, who sat next to Jake, turned towards him and spoke. “So, am I right to assume you want to test out these Challenges, if for nothing else but to experience the simulated realities they provide?”
+
+“You would be entirely correct,” Jake nodded. “Just wondering which one I wanna do.”
+
+“If you want to, I’m sure you could try all of them,” Miranda shrugged. “I’m sure there are plenty of people more than willing to donate their votes.”
+
+“I guess,” Jake muttered. “Well, let’s start out simple.”
+
+Looking behind Miranda, Jake locked eyes with a young-looking man who looked less than keen as he realized what Jake wanted. “So. William.”
+
+The metal and karma mage looked very reluctant as he sighed. “You are far more powerful than I am, so I don’t really see the point. Assuming you want a combat challenge.”
+
+“I want to see how strong you actually are,” Jake said, having wondered about that for a good while. He knew William was strong, and Miranda had said plenty of times that the mage was incredibly competent, yet in front of Jake, William was incredibly meek and never gave off any kind of impressive vibe.
+
+Was it a bit of a dick-move to ask him for a duel just for Jake to sate his own curiosity? Maybe, but this was as good an opportunity as any to probe the guy. Also, despite knowing William’s history, Jake still didn’t at all trust him. Not even necessarily due to William himself, but because of the god of whom he was now a heretic . Eversmile clearly knew about William and the fact that he was now a heretic, yet the Primordial didn’t care at all and hadn’t even mentioned William the few times Jake and Eversmile met.
+
+“Very well,” William reluctantly agreed, unable to escape the peer pressure from Jake asking him openly. The many observers of Jake and William’s interaction also looked quite interested, but unfortunately for them, the Challenges didn’t turn out to allow audiences.
+
+Issuing the challenge took nothing more than intent, and William promptly accepted it.
+
+Initiating Challenge 1: Combat.
+
+Starting simulation. Your true body will be safeguarded within the Administrator’s Terrace during the challenge.
+
+The setting for the challenge has been randomly generated.
+
+Jake felt his vision shift as he also subtly felt his real body remain sitting exactly where it had always been. In the next moment, Jake found himself standing on a large floating boulder, and a few hundred meters away, William had also appeared.
+
+Through his Sphere of Perception, Jake saw that a couple of hundred kilometers below them was a large plane of water, while floating rocks filled the entire area. Some of them had water spilling out of them, but oddly enough, it floated upwards roughly half the time, which made a little more sense once a Pulse confirmed that the sky was also somehow a plane of water.
+
+“Quite the fantastical battleground,” Jake said, glad to see that the system had a sense of style and hadn’t just simulated a barren moon, a large empty plain, or something else boring and unimaginative like that.
+
+“Yeah, it’s not bad,” William muttered as he looked toward Jake. “Why did you single me out for this duel?”
+
+Jake was a bit surprised at the question, as he assumed the mage would have already figured that out. He was supposed to be smart, wasn’t he?
+
+“I think it’s pretty obv-“
+
+He didn’t get further as the rock beneath him exploded, shooting up shards of sharp metal. Jake quickly responded by dodging, as he also couldn’t help but grin, having realized William only spoke to try to catch him off guard.
+
+The metal mage didn’t at all look surprised that his sneak attack had failed as he unleashed a storm of metal wires that diced up all the floating boulders separating the two of them. At the same time, basketball-sized metal spheres appeared floating above his shoulders and head, each of them humming with power.
+
+As a response, Jake whipped out his bow and went on the offensive as he retreated away from the storm of metal wires. Shooting a few quick arrows, William was forced to defend as the metal spheres liquefied and took the shapes of metal discs that blocked Jake’s arrows.
+
+Jake tried to bend the arrows around these metal discs, but the discs changed shape to keep getting in the way, resulting in Jake’s attack failing, making the hunter smile a little inside. Blocking Jake’s arrows wasn’t something most B-grades could do, especially not in such an effortless manner as the metal mage kept up his own attack.
+
+The storm of wires closed in, making Jake respond as he unleashed an explosion of arcane mana, hoping to disrupt it. Unfortunately, he found his mana effortlessly cut through, making him instead simply continue retreating until the wires just weren’t long enough to reach him anymore, forcing William to pull them back.
+
+A few dozen arrows were already in flight once more, weaving through the scattered rock fragments as they made their way towards the mage, and Jake couldn’t help but look forward to seeing what else William had in store. He wasn’t serious at all yet, but he also didn’t believe William was.
+
+William floated, surrounded by rock fragments and protective discs, as he spread out his hands. Jake felt the activation of a tremendous amount of mana, and his eyes opened wide as the entire world seemed to change at William’s behest.
+
+Within many of the boulders was some amount of metal, and now, William was seemingly reaching out and controlling all of it at once. Not just in his immediate surroundings, but even around Jake, who was well over a dozen kilometers away by now.
+
+As Jake saw the metal slowly emerge from all the boulders and take shape, he couldn’t help but feel a little nostalgic.
+
+Back during the Tutorial, Jake had found it decently difficult to deal with William manipulating several daggers at the same time. Now, Jake was far stronger and could easily handle a few flying daggers.
+
+Unfortunately – or perhaps fortunately, dependent on perspective – William wasn’t just controlling a few flying daggers anymore. Simultaneously, tens of thousands of daggers were formed as they all slowly turned towards Jake, making him smile.
+
+That is some monstrous mana control.
+
+As one, all the daggers moved, imploding towards Jake’s position from all sides. One would think these daggers that were just formed from environmental metal would be fragile; however, not only had William created them all, he’d also infused each with a bit of his own energy, making them far more durable.
+
+To muster a proper response, Jake had to get a little serious. As the daggers closed in, Jake unleashed Pride of the Malefic Viper, and as the first dagger got within ten meters of him, it simply disintegrated.
+
+Hundreds more reached Jake in the next millisecond, all of them suffering the same fate as Jake dismantled every single dagger daring to enter his domain. About fifteen thousand daggers were dismantled and destroyed within two seconds before William stopped sending them to their doom and instead had his sea of metal weapons ascend, where they began to gather.
+
+Taking the opportunity, Jake released a few more arrows toward William, who still used his metal discs to defend himself. He was doing pretty well, but Jake also upped his tempo as more and more arrows began circling the mage and striking him from all sides.
+
+Above Jake, the daggers had soon gathered as they started merging, with ten becoming one. Their size didn’t change, but the density of metal and mana sure did, so even if the total number had been reduced tenfold, the danger each represented had increased at least a hundred times over.
+
+Deciding to meet these daggers head-on, Jake took aim at the sky as he nocked an arrow and pulled back the string right as the more than five thousand remaining empowered daggers fell down toward him like deadly rain.
+
+Loosing his arrow, Jake sent off his own rain as the arrow split into more than a hundred shortly after leaving the string, and in the next few moments, Jake released several more Rains of Arrows up towards the torrent of daggers.
+
+Shortly after, the first arrows met daggers as the sky exploded with destructive arcane mana and metal fragments. The entire simulated world shook as thousands of explosions stacked together, yet the two people responsible had already moved on to other avenues of attack.
+
+Jake charged an Arcane Powershot with the intent of breaking through William’s defensive discs as the metal mage summoned five vertical spears in front of him. A hand grew out of each spear, and soon enough, five metal avatars appeared, each brandishing a spear and charging towards Jake’s position.
+
+With the explosions still above him, Jake unleashed his Arcane Powershot towards William, who had already prepared himself to defend. Two metal avatars tried to block his arrow, but both were blown away, with one losing the arm holding the spear, making it instantly disintegrate.
+
+The three metal discs stacked themselves in front of William right before the arrow struck. The first disc was blasted through, but surprisingly, the second one managed to fully stop the Arcane Powershot, with the third one still behind, entirely untouched.
+
+Jake slowly nodded in approval as three metal avatars wielding spears charged toward him, and around William, mana was stirring once more as he prepared to summon another onslaught of magic.
+
+So far, the fight had perhaps seemed relatively equal; however, there was one vast difference between the two of them. William had used a boosting skill from the very beginning of the fight, while Jake hadn’t touched his yet and was far from serious. Sure, William also clearly had more to show, but he still felt the need to boost himself to try to keep up with the stat disparity between the two of them.
+
+This should be good enough, Jake mentally noted as Arcane Awakening stirred and activated at the stable 30%. Instantly, the momentum of the fight turned on its head.
+
+A dozen arrows were released in quick succession, each far more powerful than the one before, as Jake sought to utterly overwhelm William with superior firepower. At the same time, he avoided the attacks the metal mage tried to retaliate with, not giving his opponent any pause as hundreds of arrows were soon loosed.
+
+William tried to defend himself, but at some point, Jake saw that the guy kind of just stopped trying, perhaps realizing he’d have to reveal more cards than he felt comfortable doing.
+
+“I surrender,” the mage said in a calm voice.
+
+Without further ado, the entire simulation came to an end as a system message popped up in front of Jake’s eyes for a split-second.
+
+Congratulations on winning the Challenge. You have gained 1 vote.
+
+Votes available: 2
+
+And then, before Jake could even fully go through it, he was back sitting inside the Seat of the Exalted Prima. He took a moment to fully orient himself before throwing William a look.
+
+“Well, that was anticlimactic.”
+
+“I apologize,” William just muttered, not hiding how much he’d been against the Challenge in the first place. Jake wanted to give him more shit, but decided to just let it rest as he sighed.
+
+He couldn’t say it had been entirely a waste of time. Based on their brief “fight,” William truly was a prodigy when it came to mana control. He could manipulate so many things at once, all without showing any obvious flaws, and he did so with high efficiency.
+
+Was William still a lot weaker than Jake? Yes. He was also much weaker than people such as Carmen, the Sword Saint, Vesperia, and many others considered true geniuses. At least Jake believed he was, but he also knew he hadn’t seen everything William was capable of.
+
+William still had his karmic magic, after all. A concept that was profoundly complicated and difficult to even understand, meaning it could likely also display means that were hard to deal with, even for those significantly stronger than William on paper.
+
+“About two seconds, by the way,” Miranda commented. “That’s how long the Challenge took from our perspective. I assume it was longer on your end? Honestly, it's hard to tell with how the two of you are acting.”
+
+“A tad bit longer,” Jake chuckled, looking at Miranda as he smiled. “Now, how about we find out what this Insight challenge is all about?”

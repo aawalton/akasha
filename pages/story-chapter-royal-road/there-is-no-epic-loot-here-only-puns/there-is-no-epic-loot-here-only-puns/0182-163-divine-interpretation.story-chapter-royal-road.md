@@ -1,0 +1,309 @@
+---
+id: 8479db4e-14cb-5b10-ad87-f4bdadb4b646
+page-type-slug: story-chapter-royal-road
+title: "163: Divine Interpretation"
+slug: 0182-163-divine-interpretation
+partOf: there-is-no-epic-loot-here-only-puns
+position: 182
+ownLength: 3339
+unit: words
+publishedAt: 2022-09-18
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/996604/163-divine-interpretation"
+royalRoadId: "996604"
+---
+
+Taking her time, she walked forward from the entrance, making sure her new doormat was slightly tilted so it would annoy some people on the way down. It would help them adjust to the fun later by breaking them on this little bother first.
+
+Delta tried to be helpful.
+
+The first issue Delta wanted to handle was Muffet. The Ghost Spider was amazing, but due to some ‘unfair’ practices used by Fairplay, she struggled. Such as some of the people using tactics that included using some sort of weight magic to prevent them from being manipulated by her webs.
+
+Smaller fighters straight up had some sort of anti-crowd control spell they could use sparingly. It repelled foreign magic attached to their body, like Muffet’s web. That didn’t even account for the fact that while Muffet was one of the strongest monsters on the first floor, she was still from a time when Delta was still floundering with her second floor. A little upgrading wouldn’t go amiss.
+
+“Is Muffet going to change?” Quee asked, the half-humanoid/half-spider asked with concern as he emerged from the spider room to greet her. Delta gave Quee a smile of reassurance. She tended to forget that sometimes when she focused on a task, her ‘intent’ could be sensed by her monsters.
+
+“Change is good, but this is more like getting new socks than Muffet changing, herself. She’s just going to slip into something more comfortable,” Delta announced brightly. This made Quee go quiet for a moment.
+
+“Should I change?” he asked. Delta blinked at him.
+
+“In what way?” she responded as they moved into the spider room together, pausing to do the twenty-second long dance greeting to the many spiders.
+
+Delta slipped on the third movement in the fifth stanza and accidently implied she had come to explode into chocolate. The spiders all had a good chittering giggle at this.
+
+To think… Delta used to run screaming from these goofballs.
+
+“Well… I used to be that woman. That spider queen,” Quee said slowly and Delta’s mind went blank for a second. Quee… remembered his past self?
+
+“Would I be better going back to who I was? She was stronger than me… could do more things,” he asked, looking at his human-hands. The noise in the room went quiet as Muffet and the Royal Spider Court listened intently.
+
+“Do you want to go back to being ‘her’ because you think it’s what you should be? To be valuable or useful?” Delta asked quietly as she bent down and her shirt creased a little as her long skirt brushed the ground, creating a little breeze.
+
+Quee held his hands to his bare chest and bit his lip.
+
+“I guess so. No one has found my gate and… you’re a woman too! Muffet is too… should I be as well? I don’t know,” he admitted. This had been on the spider-boy’s mind for sometime, it seemed.
+
+“No, you don’t need to change again. Who you are now? The person (or spider) who you’ve become? That’s valuable and worth celebrating. You’re not useless simply because you haven’t been tested,” she smiled and brushed Quee’s hair back into a ponytail, allowing a spider to use a web to keep it up.
+
+“I, for one, love who you’ve become even if you’re still figuring things out,” she promised and stepped back.
+
+Quee smiled and inhaled once.
+
+“I hope to meet some intruders soon and liquefy their insides in your honor! Master Maestro promised he’d make a unique battle theme for me! It’s going to have guitar riffs!” he said excitedly before scuttling to the berry tree to take one for a snack.
+
+Delta would need to explain to the spider that she didn’t have much use for people melting on the inside Movement caught her eye, and Delta turned to the dark corner of the room. It was a familiar form. Mharia stared at Quee without her usual disdain for existence. She almost looked…
+
+Ah. Delta knew that look.
+
+She shook her head and turned back to Muffet who was waiting patiently.
+
+“Let’s see what we can whip up!” she said, and Muffet gracefully bowed with her four legs curling around her body. Delta hummed as she opened up her menu. She stared at the mana limit bulging to near bursting.
+
+Her DP was nothing to sneer at either thanks to Waddles’ new ‘hobby’ of knife collecting. She stopped humming as a brand new line appeared in the menu.
+
+Muffet: Spidergeist Queen of the Web-CourtWorld Lore: The spreading rumors coming from this Dungeon speak of the White Dancer. An unseen room guardian found on the first floor. Tales from scared adventurers and delvers speak of their limbs being wrestled from their control, forced to dance for the amusement of spiders. The tales whisper that if one has a full set of ‘Royal Web’ garments made by this queen, they can obtain new powers and understand the secret language of the spiders.
+
+Bonus: Seed drain rate increased by 2% when Muffet defeats adventurers. This bonus will be nullified if Muffet becomes defeated on an average run.
+
+“…What?” Delta blurted out, taken completely aback Nu appeared as if summoned by her confusion.
+
+“Oh… did that finally unlock?” he asked, his text on screen coming off as far too calm.
+
+“Wah?!” Delta babbled, pointing at the World Lore with panic.
+
+“It’s a feature, not a bug… I know it’s surprising, but they do exist. As people come in and explore, they share tales. People gossip, and stories spread. Now, seeds are the source of most adventurer’s powers, which we are to cleanse of Little Brother taint and replace with Bro and Sis Mana,” he lectured, and Delta stared at him. Nu was being all smug now since it was Delta on the back foot for once…
+
+“But seeds are not inert cores of power. They’re interwoven with souls, hearts, wills… So if you supply such a seed with a challenge of an ‘unbeatable’ boss or challenge, the seed yearns to overcome it. It exposed itself more when face-to-face with that threat. Seeds want growth, as do their hosts,” Nu said and trailed off.
+
+“They’re just gamers doing LARP,” Delta mumbled into her hands.
+
+Just gamers-
+
+---
+
+“?”!!$$, I can see the handheld under the desk, come on now,” Delta said with a small smile.
+
+THE.VOID put the thing away in his bag, looking WRONG.
+
+“Sorry, Miss D.”
+
+Delta just nodded. She had started learning a lot about video games to interact with the students. Sadly, a lot of what she was learning was a little dated…
+
+And a lot of it was confusing. Why was one game titled fourth in the series here, but sixth in Japan?
+
+What was ‘griefing’?
+
+She still hadn’t figured out what Ligma was, but she felt she was getting close…
+
+BeTA complained about having ligma a lot. Delta was getting worried.
+
+She looked up, and the VOID was in her face. It was consuming her. Screaming in pain, wrath, rage…
+
+“To be divine,” it whispered in rage.
+
+“Is to burn.”
+
+---
+
+The orange Dungeon Core on the fourth floor cracked rapidly, but just as fast, blue veins filled in the damage, steaming as the process taxed the system.
+
+Sister looked at it from her chair in the void, her various screens covered in mushrooms and vines. A lot of the precise functions she controlled were slowly being removed from her domain, but she could still keep Delta together with a little help from Nu.
+
+This was one of the concerns she had when she and Brother made this design to integrate a living human soul into a core.
+
+While Delta rapidly outperformed in all areas to Sister’s joy and delight… She was still a human soul tasked to cleanse the seeds of the abyss.
+
+It was bad enough that each seed contained a fraction of the Little Brother, but as she cleansed more… those fragments would continue to build up in a manner.
+
+Previous Dungeon Cores could simply break them down and refine them. They were… detached in that manner. Blank slates to allow the seeds to pass through with nothing to grip to. With Delta? They have something to interface with, and Sister was not going to stand around and let her mistake continue to harm Delta.
+
+She and Brother already accepted what was going to come She closed her luminous eyes, and a piece of the stolen eye she protected formed before her. The eye burned with such power that it was the sun of the world.
+
+Gasping in pain, she replaced the taken piece with a part of her own power, shortening her lifespan by hundreds of years. If she didn’t, the sun would set faster, move differently. It would ruin farms and people’s lives.
+
+Sister… knew those were valuable. Every life was valuable.
+
+Delta taught her that.
+
+Slowly, she kneaded the fragment into Delta’s core, giving her mana veins akin to a Dungeon with over 300 floors. The act strengthened the ‘self’ of Delta beyond who she was now, but not enough to change her Like Delta said… she wasn’t changing herself, Sister was just giving her new socks.
+
+Very sturdy socks.
+
+--
+
+Delta shivered as if someone had poured warm syrup down her spine.
+
+Still, that horrible vision abruptly pulled back, and Delta was back in the spider room. Everything felt… tight. Almost as if someone had knocked down a wall in Delta’s mind.
+
+She was going to have to come to a conclusion about those visions, but not right now. Ruli could only keep those Fairplay people out for so long.
+
+Honestly, Delta was surprised they weren’t barging in already. The sun had risen an hour ago… not that Delta exactly knew ‘how’ she knew the sun had risen.
+
+She wondered what was keeping them?
+
+---
+
+“And thus, the truth was revealed that in fact, sandals with holes over the top were not a fashion crime. People just like to hate things to join in!” the girl in the fluffy white cloud robe proclaimed, her hands raised with a staff gripped.
+
+“Should we barge past?” a Fairplay scout asked, and another shook her head.
+
+“You see what her staff is? I’m afraid of where she’ll shove it if we do,” she replied. Behind her, the priestess known as Kemy also had her three companions sitting around playing cards with Ruli All of them wore bizarre clothing with slogans and images from the Dungeon.
+
+“5?” Ruli asked, and the red-head in leather thigh-high boots sighed in disgust as she tossed a card over.
+
+“And this brings me to another sacred truth of the land! Hatred to tropical fruit on dough circles! It is okay to enjoy them!” Kemy announced grandly and blazed with a white aura, making all the Fairplay members’ pale aura look gray.
+
+“What if I want to sell this picture of one of the Dungeon Monsters to someone, so they own the image and no one else?” someone held their hand up, one of the very few Mentor Fairplay members.
+
+Kemy turned to him, and her eyes ignited in holy judgment.
+
+“No.”
+
+There was a long silence.
+
+“What does that staff do, though?” someone yelled. Kemy blinked once.
+
+“It injects holy truth into the murky dark places of the world. The burning honesty will give life to new meanings!” she declared with pride.
+
+“I’ll take three,” Ruli said under her breath, getting a smirk from the other woman at the table. The leader sighed as he handed over his kings.
+
+---
+
+Muffet can now coat the ground in a thin web that adheres with every step. 20 DPMuffet’s fangs can now turn intangible before reforming at the tips, allowing her fangs to bypass most physical defenses unless enchanted. 30 DP.If any of the Court of Web is alive after Muffet is activated, they will fuse into her, granting her 5% power increase per spider absorbed. 40 DPCounter Web: Once per encounter, all Muffet’s webs become immune to low level dispelling magics for up to two minutes. 60 DP.Quee’s Role Model: At Core’s wishes or if Dungeon is in higher difficulty mode, Muffet may become a Drider Queen. In this form, she becomes equipped with two random knives from Waddles’ collection. 80 DP.
+
+“I wonder what Muffet might look like as a temporary Drider?” Delta mused before she focused on the gleeful Muffet. A ghostly after image appeared as Delta used a little of her Dungeon Mind to ‘practice’ the upgrade.
+
+Slowly, Muffet’s body became massive, growing until her abdomen was blinding and white, gold markings forming a Delta symbol on the top. Delta was a little worried about how her ‘human’ part might look.
+
+Too many times she was faced in games with a half-human spider lady using nothing but hair as decency while dodging lava barfs.
+
+She didn’t have anything to fear, as it turned out. Long flowing white hair danced around a face concealed by a veil. Her body was covered in a beautiful flowing white and golden garment like some warrior queen carved of liquid marble.
+
+The veil rippled, and the awe Delta felt turned to quiet shock as the face was a monstrous mouth with black eyes moving in sync was briefly visible until the veil reasserted itself.
+
+“You okay… with all these upgrades?” Delta asked Muffet, her voice a little faint. Muffet gave her a beautiful twirl of a simple yes. It was only five rotations, a pretty succinct response in spider language.
+
+Well, Delta could hardly say no.
+
+“This one, that one… and of course, all of these,” she hummed and purchased the upgrades. Muffet glowed for a few moments, then looked normal.
+
+But to Delta’s Dungeon senses? Muffet had gone from a white shadow to a blazing looming figure of regal violence, like a luminous storm.
+
+It was beautiful.
+
+She also had three new loot items automatically built into her. These could be won either by combat or by winning Muffet’s favor.  The Veil of the Queen had a decent enchantment to make one immune to eye magic and some gasses.
+
+The Gown of the Queen was similar in nature but prevented ghosts and spectral beings from passing through it.
+
+The last was the rarest, the Knife of Alliance. It was an ornate marble-handled knife carved to be shaped like a feather wing, and along the blade surface, spider-web veins of threads could be seen inlaid in the metal.
+
+Anyone cut by this blade would suffer ‘mortal mundane bad luck’ for an hour.
+
+Delta tried to understand how something could be both ‘mortal’ and ‘mundane,’ but the system yielded no clues.
+
+Pleased, Delta checked this room off her current list.
+
+Patch 1.1 was coming along nicely!
+
+---
+
+Yattina inhaled once and knocked.
+
+The door opened a crack.
+
+“Hello, I’m from Fairplay-” she began, and the beautifully haunting woman inside let out a scream that cracked a nearby window before she slammed the door shut.
+
+“Please! I need to speak to Deo Brawndo! It is the legendary adventurer who cleared the nearby Dungeon to floor 3 that lives here, yes?” Yattina cried, knocking again. Her reports say that this ‘Deo’ along with one ‘Grim,’ ‘Poppy,’ ‘Kemy,’ and perhaps others lived here.
+
+The city of bets and gambling, which held the records of various Dungeons showed that such people had done what Fairplay had yet to do.
+
+Get past floor 2’s entrance.
+
+“Hello!” someone said, and Yattina turned to a bright-red head child who had a lovely smile.
+
+“Can I help you?” he asked loudly, and Yattina winced, having spent all night resorting to ordering all reports in a quiet room by herself.
+
+She was working on two hours of sleep, and her glass eye was refusing to face forward in a huff.
+
+“Oh, likely not, but thank you for asking,” Yattina said miserably. The reports on the nearby Dungeon were the only things keeping her sane.
+
+Such a fascinating place, but she wouldn’t be allowed in until the scouts and blades secured the first floor.
+
+“When some adults get sad, they get ale from the pub! Do you want me to show you the pub? Miss Nina said today’s special is this meat in a crunchy crisp fold with salad and spicy sauce!” the boy said brightly.
+
+“I don’t like alcohol. The taste, the effects, or the consequences. Food might be needed…” Yattina muttered.
+
+“Come with me! I can get you a free meal because I did so many chores for the pub that Miss Nina said I could get free food. I just like helping out, and people like it now that I don’t yell so much,” he… almost yelled in excitement.
+
+“What is this meal?” Yattina asked gravely as she was herded towards… people. Lots of people in a small room.
+
+“Tasty cornbread that’s folded and cooked. I call them Tacos for short. Ta-sty Co-rnbread!” he beamed, and Yattina managed to smile back.
+
+The boy had some strength to him, it took Yattina everything she had not to simply be dragged along.
+
+“I don’t suppose you know ‘Grim’ or ‘Poppy’?” she asked, deciding to ask the boy. If nothing else, she was covering her bases. After all, it seemed Deo was a deadend.
+
+“I sure do! Are you their friend?” the red-headed lad asked curiously.
+
+“I want to interview them. For science,” she explained as she was stopped at the pub’s door by…
+
+That aura… that uniform…
+
+“Royal Knight,” she whispered in slight terror. The man with the feral look eyed her for a moment, then dismissed her just as easily.
+
+“Fairplay fools,” the Royal Knight sighed as he left the pub reeking of enough alcohol to disinfect a wound.
+
+After he walked off, the boy patted her arm.
+
+“That’s mister Zane. He’s… not nice, but he’s not as bad as that woman,” Yattina’s guide said, nose wrinkling.
+
+“I want to go back please,” Yattina said, voice tight. To his credit, the boy simply nodded and escorted her back towards the Fairplay camp.
+
+“You don’t like Royal Knights?” the boy asked slowly, gently as if Yattina was now made of glass.
+
+“My sister… is one,” Yattina whispered and held herself.
+
+Yattina felt the heat near her face…the flash of fire, the rage of summer…
+
+“My sister is Brilda of the Summer, an ex-maiden. She left Fairplay behind… left me  behind,” she said and inhaled with a shaky breath.
+
+“I’m sorry,” the boy said, and Yattina shook herself up.
+
+“No, my past is not your burden. Really, thank you,” Yattina said, trying to hand the boy some copper coins, which he rejected.
+
+“Just feel better,” he said instead and walked off with a wave of his hand.
+
+“I never got your name!” she called, suddenly feeling beyond rude. The boy turned and gave her one of those blinding smiles.
+
+“Deo Brawndo! Let’s be friends!” he called back and was gone.
+
+Deo was a nice name.
+
+She turned and took three steps towards her camp, then paused.
+
+“No,” she whispered to herself.
+
+She looked over her shoulder and stared at where the boy had been… the adventurer who had cleared the nearby Dungeon.
+
+“No, I’m too tired for this,” she announced and went to bed.
+
+She dreamed of her younger years… of her sister in glorious light, surrounded by fans and teammates… then it all turned to ash as Brilda ignited in rage.
+
+Then she turned to Yattina in the dream, reaching out with a soft hand… before a golden dungeon core snapped chains around Brilda, stealing her away.
+
+Yattina was alone.
+
+So alone.
+
+“Just feel better!”
+
+She turned to see Deo standing nearby, hand held out. Behind the boy was a massive glorious sun that cast orange light into the void.
+
+Yattina reached for the hand.
+
+She couldn’t remember if in her dream, she managed to reach Deo’s hand, but she liked to think so.
+
+Yattina hoped so.
+
+---
+
+I may not be the smartest, but I'm angling for an A in geometry. -Stew

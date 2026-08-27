@@ -1,0 +1,339 @@
+---
+id: 786608ea-40c7-5193-a01c-91df6dfe3020
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 - The Dancing Glass"
+slug: 0036-chapter-35-the-dancing-glass
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 36
+ownLength: 2555
+unit: words
+publishedAt: 2022-06-27
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/936649/chapter-35-the-dancing-glass"
+royalRoadId: "936649"
+---
+
+“And if I might ask, where are you going?”
+
+Eleanor cringed when she heard the icy question blow over her shoulder. She had managed to make it all the way to the door unseen, but now she turned to find her aunt watching her from the front stairs.
+
+“Aunt Helena! You’re feeling better?”
+
+“I was. Now I’m feeling wary.”
+
+Eleanor removed her hand from the handle and went back to her aunt.
+
+Helena continued, “You need to learn to sneak better. I would have thought that a long association with Edward would have at least acquainted you with the skill.”
+
+“I don’t suppose it’ll do much good for me to say I’m going out.”
+
+“It’s obvious you’re going out. I’m wondering where you’re going out to.”
+
+“A walk.”
+
+“That’s a convenient word that doesn’t give me any relevant information. You’re not much at lying either, but you do have a way of making the truth work for you.”
+
+“Please, Aunt Helena—”
+
+“I can’t restrain you, child. You know that. It’s no use pleading with me. If you’re determined to go, you’ll go.”
+
+“I know. I’m begging you not to tell my father.”
+
+“Why? He hasn’t ordered you to stay home. Or are you worried that he might ask you where you’ve been?”
+
+Eleanor looked down.
+
+Helena added, “Does it have something to do with the ‘no one’ that called you this morning?” When Eleanor still didn’t answer, the baroness sighed and said, “At least you’ll be accompanied by someone. Is he going to be a better guardian that my son?”
+
+“Probably.”
+
+“Who is he? Answer me truthfully, Eleanor.”
+
+“Someone who’s trying to help me find the man who killed Dominic.”
+
+“But it isn’t Inspector Haley. He’s too much of a gentleman to leave your family wondering where you are. Especially after what we’ve been through.”
+
+“It isn’t Haley.”
+
+Lady Serrs-Comtess moved her cane and took another step down.
+
+“There’s a reason you can’t tell me where you’re going?”
+
+Eleanor nodded.
+
+Another flash of the polished cane and her aunt was one step closer. “And there’s a reason you don’t want your father to know?”
+
+Lady Serrs nodded again.
+
+One last step, and they were standing level, close together, with blue eyes gazing into green ones.
+
+“And you’re not running off to meet up with a lover you know I wouldn’t approve of?”
+
+Eleanor blushed. “Oh, I know you wouldn’t approve of him, but he’s not my lover.”
+
+“Very well.” The baroness turned away.
+
+“Very well?”
+
+Helena made her way down the hall. “Very well, I won’t tell your father. Don’t forget you have an appointment this evening with Dr. Stacks. I’ll be expecting you home by eight. Will that be enough time?”
+
+“It…it should be?”
+
+The baroness stopped and partially turned to say, “And you can tell whoever is going with you that if he lets anything happen to you, I will have him hunted down and shot.”
+
+“Yes, ma’am.” Eleanor saluted.
+
+“Good girl.”
+
+When Eleanor was outside, she laughed and held up her skirts so she could run down to the front gate. The only thing better than escaping was escaping with the help of a powerful ally.
+
+As she walked down Marley street, she felt a man fall in step beside her. She glanced over.
+
+“No new face today?”
+
+“Only my regular one,” Penn said. “Are you disappointed?”
+
+“A little. My aunt wanted me to tell you that if you let anything happen to me, she’ll have you hunted down and shot.”
+
+The thief’s eyebrows jumped. “Are all the women in your family as singular as you?”
+
+“I don’t know, but we’re all women of our word.”
+
+“Then I had better make sure nothing happens to you.”
+
+“Where are we going?”
+
+“The Dancing Glass. Have you ever heard of it?”
+
+“No.”
+
+“Trust me, my darling, you’ll love it.”
+
+The Dancing Glass turned out to be a tavern. Eleanor stopped in front of it and stared at the two-story red brick building. The wood trim was all painted a dark teal, and large off-white letters on the trim spelled out the name of the place. Through the windows she could see the dark, ornate wood of the walls. People were already gathering around the tables.
+
+“Mr. Penn—”
+
+“Uh-uh-uh, beloved. Go easy on the name. It’s better known than my face.” He took her arm and pulled her through the door. “I take it this is a first for you.”
+
+“You know it is!” she hissed.
+
+“That’s a treat then.”
+
+Penn guided her through the maze of tables toward the back of the room where a huge counter took up most of the wall. Two men were behind it, wiping glasses and pouring drinks. Behind them was a nook filled with barrels and shelves full of bottles. The shelves also contained a few books and, unless Eleanor was seeing things, a human skull.
+
+Penn went up to the bartender who was pouring a beer. He had the most enormous mustache Eleanor had ever seen, but since he and his fellow bartender were in a competition to see who could grow the most luxurious lip hair, it wound up looking like a required accessory to their uniforms.
+
+The man glanced up. “Ah! Mr. Todd! Haven’t seen you in a while. Welcome back.”
+
+“Good evening, Griffin,” Penn said.
+
+“Good evening, ma’am.”
+
+“Good evening,” Eleanor mumbled.
+
+“Griffin,” Penn said, “I need to see Ralph. Is he in yet?”
+
+“Ralphie? Not yet.” Griffin finished pouring, set the glass aside, and wiped his hands on the towel he’d thrown over his shoulder. “But he’ll be here, if you’re willing to wait. He has other jobs to finish.”
+
+“How long do you think it’ll be?”
+
+“A half hour or so. We can keep you busy until then. Would you like anything to eat? Anything to drink?”
+
+“That sounds lovely.” Penn slapped down some coins. “Set us up with two glasses of your best beer. You’ll find us hiding over there.” The thief nodded to a lonely table tucked in a corner near the bar.
+
+“Yes, sir.”
+
+Penn put his hand on Lady Serrs’ back and motioned toward the table he’d claimed.
+
+As they walked over to it, Eleanor said, “The skull?”
+
+“Oh, that’s Murray. He’s the bar’s mascot.”
+
+This didn’t seem like an adequate explanation to Eleanor, but Penn seemed satisfied, so she doubted he knew any more.
+
+As Lady Serrs sat down, she asked, “Who’s Ralph?”
+
+Penn went over to his own chair. “I tracked down the egg. It’s currently being watched over by a man named Croft—”
+
+“We have to get it to Inspector Haley.”
+
+“All in good time. Before that, we need to see Ralph.”
+
+“Why?”
+
+“Because he’s the one who found the egg and sold it to Croft, and from what the old man told me, Ralph may have seen who dropped it.”
+
+Eleanor paled.
+
+“I haven’t talked to him yet,” Penn rushed to say. “I don’t want you to get your hopes up too far.”
+
+“I understand, and I appreciate the advice. But why am I here? Did he not want to see you?”
+
+“No, he was willing to talk to me, but I thought you’d want to be here, and I might need you.”
+
+“What do I have to do?”
+
+Griffin stopped by and laid two beers on the table. “Here you are then.”
+
+Penn thanked him. As the bartender left, Penn passed one of the beers to Eleanor. He took the other for himself. “Nothing at all. Just be your perfectly charming self.”
+
+The thief raised his glass and drank. Eleanor turned her attention to the drink in front of her. A cautious sniff left her puzzled; it had a light scent that was somehow familiar, but she couldn’t place it.
+
+She looked up when she heard Penn’s laugh.
+
+“Please tell me you’ve at least had a drink before,” he said. “Introducing you to the evils of alcohol would probably count as letting something happen to you.”
+
+“I drink wine with my meals.”
+
+Penn put his elbow on the table and leaned on his hand. “That’s what I get for courting a rich girl.”
+
+“Mr.…Todd, we are not courting.”
+
+Penn snapped his fingers. “That’s right! I got to skip that whole awful part and get right to the engagement.” He raised his glass. “To never courting.”
+
+Lady Serrs raised her beer. “I’ll drink to that.”
+
+Penn watched as she took her first sip. She frowned at her glass, then sipped again.
+
+“What do you think?”
+
+“It tastes kind of earthy. It’s less sour than wine, but about as bitter.”
+
+“Do you like it?”
+
+“I don’t mind it.”
+
+“I’m glad.”
+
+They were only halfway through their first pint, when Penn realized that Eleanor was staring at something over his shoulder.
+
+The thief turned to look at the rest of the tavern. Everyone was standing up. With drinks still in hand, they were pushing their tables and chairs to the side of the room.
+
+“Oh. Oh!” Penn took out his watch and glanced at the time. As he put it away, he turned to Eleanor. “Today’s Saturday, isn’t it?”
+
+“Yes.”
+
+“It’s been a long week for me. I’ve been losing track of days. Tell me, Eleanor, how do you feel about music?”
+
+Baffled, Eleanor said, “That depends on the music.”
+
+“And dancing?”
+
+“What’s going on?”
+
+“It’s six o’clock on a Saturday, and this is the Dancing Glass. Go on and grab your beer. We’re going to have to move.”
+
+Eleanor fumbled to obey him.
+
+They had barely stepped away from their chairs when two gentlemen came up to them. They greeted Mr. Todd, then shoved the table against the wall. After setting the chairs up in front of the table, one of the men caught sight of Eleanor, half-hidden behind Penn. He touched the edge of his cap and smiled at her.
+
+“Ma’am. You dance?”
+
+“I’m still finding that out, Davy,” Penn said, “and since she’s here with me, do you think I might get the first round?”
+
+“That’s up to her, isn’t it?”
+
+The other man whistled, and Davy left to go help him prepare a space for the band. While the two men worked, the newly-arrived musicians pulled out their instruments—a guitar, a fiddle, a flute, and a drum.
+
+Penn felt Eleanor touch his sleeve.
+
+“There really is dancing?” she asked.
+
+“You thought it was only a name?” Penn said.
+
+“Yes!”
+
+“Well, the patrons kept getting drunk and insisting that a place called the Dancing Glass ought to have some dancing, so the owner decided to make his money where he could, and he started paying a band to come in.”
+
+Eleanor tried to hide her excitement, but Penn could see it in her face.
+
+“Now,” he said, “before anyone else tries to steal you away, do you want to tell me if you dance?”
+
+“Of course I dance.”
+
+“As expected of someone in your station.”
+
+“But…”
+
+The drummer let out a loud whistle, stamped his foot three times, and the band started playing. The music leaped and bounced around the room. It was the happiest noise Eleanor had ever heard. She laughed.
+
+Penn had to lean in close so she’d hear him. “But what?”
+
+“But I don’t know if I can dance to this!”
+
+“Why not?”
+
+“I-I don’t know how. I don’t know the steps.”
+
+“Then I’ll teach you!”
+
+He took her hand and tried to pull her into the crowd, but she resisted. When Penn looked back, her cheeks were the reddest he’d ever seen.
+
+“Mr. Todd, I’d really rather not.”
+
+The thief took the beer from her other hand and put it on a nearby table. “Eleanor, you can tell me no, but if you do, you’ll have to tell every other man in this bar no as well. Whereas, if you let me dance with you, you’ll only have to say yes once.”
+
+“Better the devil you know?”
+
+Penn smiled. “And, darling, I’ll bet I’m the only devil you know.”
+
+This time she allowed him to drag her away from the corner and into the open space. They faced each other.
+
+He took her hand in his and put his other hand around her waist. “Really, all you have to do is skip while I lead you around the room.”
+
+“Skip?”
+
+“Eleanor Serrs, if you’re going to tell me you don’t know how to skip, I’m kidnapping you right now and taking you away to a better life.”
+
+“I know how to skip. I just—”
+
+“Good! Then here we go!”
+
+The steps were more complicated than Penn had led her to believe, but Eleanor had always been clever when it came to dancing. By the second time around the room, she knew the rhythm and the pattern. She could tell when she’d picked it up by the way Penn laughed and started throwing in more complex moves to test her.
+
+Whenever a song ended, the audience kept clapping out the beat until the band picked up their next tune. Couples fell away and couples joined them, but Penn seemed tireless, and for the first time in her life, Eleanor felt her pride pricked by a challenge.
+
+Anyway, she was a society lady. Practically all she was good for was dancing! If she couldn’t keep up with a mere thief, then what was the point?
+
+The scene rolled and twirled around them.
+
+When the next song ended, Penn called over the rhythm of the crowd, “Are you tired, my lady?”
+
+“Not really.”
+
+He grinned and twirled her around before drawing her back. She fell in step without any hesitation.
+
+At the end of the next song, she said, “Do you need to rest, sir?”
+
+Penn shook the sweat from his hair. “Not at all.”
+
+By then people were watching them, pointing them out to others and cheering them on.
+
+When the band stopped again, Eleanor, breathless, shouted over the crowd, “Are you sure, sir?”
+
+Penn, who was leaning on his own legs, took one hand off his knee to point at her. “I’ll die before you see me break.” He took her roughly by the hand and pulled her close. With his other hand on her waist and their faces close together, he said, “I’ve been training with Inspector Haley. You aren’t going to beat me, my hertis rote.”
+
+“Oh? I didn’t know Haley danced.”
+
+Penn threw back his head and laughed. Then he said, in a musing sort of voice, “You know, I can’t imagine that stick-in-the-mud would even know how.”
+
+By now, their exhaustion was affecting their dancing. They laughed whenever they stumbled through a step.
+
+“Give up!” Eleanor yelled.
+
+“Never!”
+
+The two of them only stopped when they felt a small pair of hands on their sides, shoving against their momentum.
+
+“Mr. Todd!” a young voice shouted.
+
+“Ralph!” Penn gasped as he and Eleanor broke apart. “Thank god.”
+
+Ralph turned out to be a boy no more than eleven or twelve years old. He wore a rough set of clothes and kept his flat cap on inside. He smiled slyly up at Penn.
+
+“Yeah. It seemed like you could use the help. And who’s the lovely lady?”
+
+As he spoke, the boy looked at Eleanor. She saw his eyes widen.
+
+“Holy shi—”
+
+Penn slapped a hand over the boy’s mouth. “Ah, yes. Our Ralph. He’s a precocious child.”

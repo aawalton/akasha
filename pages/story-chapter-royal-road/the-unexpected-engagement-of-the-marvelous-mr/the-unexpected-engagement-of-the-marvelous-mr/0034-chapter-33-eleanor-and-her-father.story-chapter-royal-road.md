@@ -1,0 +1,139 @@
+---
+id: 782c3811-a170-5108-916a-c32d9b7490c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 - Eleanor and Her Father"
+slug: 0034-chapter-33-eleanor-and-her-father
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 34
+ownLength: 913
+unit: words
+publishedAt: 2022-06-24
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/934619/chapter-33-eleanor-and-her-father"
+royalRoadId: "934619"
+---
+
+Eleanor always glanced down at the gap along the bottom of the door whenever she approached her father’s study. It was late, and the room was dark, so she assumed it would be empty and opened the door without knocking.
+
+The duke was sitting at his desk, holding a glass with the remains of a dark amber drink. The faint light of the reading lamp beside him was made fainter by the creamy white glass of the lamp shade.
+
+“I’m sorry, Father,” Eleanor murmured as she went to close the door.
+
+“It’s all right,” he said. “You can come in.”
+
+Eleanor stepped back into the room. “I only came for some paper.”
+
+The duke nodded to the bookshelf where his selection of paper was kept.
+
+Eleanor went over and pulled some out.
+
+As she was leaving, she heard her name, spoken softly.
+
+She looked over her shoulder.
+
+“Eleanor,” her father said, “what would you have done if I had left you alone?”
+
+Eleanor’s hands trembled, but she finished turning around. “What do you mean?”
+
+The duke motioned with the glass. “Everything. I mean…everything. What would you have done if I had never tried to set up those matches? What—what would you have done if I had accepted your answer?”
+
+Eleanor wandered toward the desk. “I don’t know.”
+
+His voice rose. “You don’t know?” But then the volume subsided. “So what’s that? I don’t know either, I suppose.” He finished off his drink and stood up. His first two steps were unsteady, but he made it to the liquor shelf and refilled his glass.
+
+Eleanor watched him without a word.
+
+“Helena says it’s my fault, that if I hadn’t interfered, none of this would have happened.” The duke returned to his desk and sat down again.
+
+Eleanor had heard them arguing earlier that evening and wondered what it was about. Volume and vitriol had poured out from around the closed door, but the words were caught behind the wood. Eleanor decided she wasn’t curious enough to listen in and made herself scarce for a few hours.
+
+“I think she’s wrong,” Duke Aubrey-Serrs announced. “I’ve been trying to figure out what else I could have done, but I can’t.”
+
+Eleanor smiled as she remembered the first time she’d ever met Haley. “Most people find it difficult to imagine themselves acting outside of their own character.”
+
+She sat down in a nearby chair. “If you had never arranged a match, I suppose I would have had to court the way other women do. Go to parties. Talk to gentlemen. Then if one of them had liked me, they would have gone to you to ask permission.”
+
+“You think that would have worked?”
+
+“It works for a lot of other people.”
+
+“You are not a lot of other people.”
+
+“Father, are you saying it wouldn’t have worked because of me or because of you?”
+
+Aubrey-Serrs’ glass halted halfway to his mouth. It clinked when it returned to the desktop. “Maybe both.”
+
+Eleanor gazed at the paper in her hand.
+
+The duke frowned. “What is it you want, Eleanor?”
+
+“I only came in for paper—”
+
+“That’s not what I meant. Why did you fight me?”
+
+It was hard for Lady Serrs to shrug. It felt as if fifty-pound weights had been tied to her shoulders. “Everyone only wants to be happy.”
+
+He scoffed.
+
+“Well, what do you want?” she asked.
+
+“I want to be obeyed by my daughter!”
+
+“Would that make you happy?”
+
+He stared at her for a long time. Then he took a drink and said, “Are you saying that you wouldn’t have been happy with any of those men?”
+
+“That’s what I thought.”
+
+“Why?”
+
+“Father, please—”
+
+“No! I want to know why.”
+
+Eleanor pressed her lips together.
+
+“And here we are again,” he said. “Stubborn girl. And yet this is somehow my fault.”
+
+“If I had told you my reasons, would you have accepted them or argued with them?”
+
+“Are you ever happy, girl?”
+
+“Sometimes.”
+
+The duke said nothing. He took another swallow of his drink.
+
+Eleanor ventured to say, “Are you ever happy?”
+
+The duke hesitated. “Sometimes.”
+
+“Like, when I obey you?”
+
+The duke’s eyes darted up to her face. When he saw her slight smile, his scowl softened.
+
+“If I was only happy when you obeyed me, I would never be happy.”
+
+“I’m glad you have other hobbies then.”
+
+“Dogs. The dogs are obedient.”
+
+“Maybe you could trade me in. A pedigree daughter might be worth a pedigree dog.”
+
+“No.” The duke shook his head and repeated, “No. Not you. I’ll keep you.” He let out a massive sigh. “Eleanor, I tried to do my best for you—that’s all I did.”
+
+“I know, Father.”
+
+The duke played with the glass in his hand and watched as the dark wave rolled from one layer of harlequin diamonds to the next. “Inspector Haley has asked to see me tomorrow evening.”
+
+“To see you? Why?”
+
+“Winfield called me the night he was murdered. He’d read in the papers that you were missing. He wanted to express his sympathy.”
+
+Eleanor’s eyebrows pulled together, but her thoughts were interrupted as the duke went on.
+
+“The anger’s different, you know.”
+
+His daughter looked up, but he was still peering at his glass.
+
+“There’s no power in it. Only poison. It’s no use being angry at a dead man. All the same…what he did to you…”
+
+The duke raised his glass and threw back his head to finish his drink.

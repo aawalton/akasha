@@ -1,0 +1,149 @@
+---
+id: 1f954579-a8e2-5231-a918-9026acc03d39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1289 - Meeting & Many Machinations"
+slug: 0162-chapter-1289-meeting-and-many-machinations
+partOf: the-primal-hunter
+position: 162
+ownLength: 2939
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3248107/chapter-1289-meeting-many-machinations"
+royalRoadId: "3248107"
+---
+
+Jake frowned as he looked around the room, questioning the current situation.
+
+Is this really it?
+
+After returning to Earth, he was quickly asked to attend a meeting in Haven to discuss the news of the system event. Jake had naturally gone as quickly as he could, and based on Miranda being the one requesting his presence, she had evidently also returned.
+
+That, or she’d been back for a while already. Either way, perhaps her being there was why he fully expected to see most of the powerful figures on Earth there; however, not quite so.
+
+“Thank you for coming, everyone,” Miranda said, regarding all those present, who didn’t really say much, at least not from Jake’s perspective.
+
+So many people were missing, including Carmen, the Sword Saint, Casper, and Caleb, alongside every single monster, even Sylphie and the Forest King. He had fully expected them all to have returned with him, yet the fact that Miranda started the meeting before they were there said a lot.
+
+At least Arnold had bothered to come. Most others were leaders of other minor forces in the galaxy as well as representatives of the major factions. Kindroth was naturally there, looking neutral and friendly, as always.
+
+“I can see what a lot of you are thinking, so allow me to clarify something,” Miranda continued. “This system event is a bit different from usual, in that with everything announced so far, the result is already a foregone conclusion for the Milky Way Galaxy. Lord Thayne will claim the Seat of the Exalted Prima as the Chief Administrator, and everyone else who takes part in this competition will only do so as a failsafe in case something goes awry. Even then, the ownership will ultimately belong in the hands of the Malefic One’s Chosen.”
+
+People around the room nodded, many of them looking towards Jake, who just sat there stoically, wearing his mask and looking intimidating as always.
+
+“With that in mind, the noticeable absence of many you would expect to see here makes a lot more sense,” Miranda continued. “This meeting simply has no bearing on them, and taking part would likely end up being a waste of time, as they cannot win. At least not here, in this galaxy.”
+
+Jake perked up a bit at that, as he suddenly realized what Miranda was getting at.
+
+Is that an option?
+
+“As per the system announcement, each Administrator Candidate is only able to compete for their own galaxy’s Seat of the Exalted Prima, and one cannot bring Administrator Candidates from other galaxies as allies... but notice something in the wording of the system. It very explicitly said current Administrators or Administrator Candidates,” Miranda said, making Jake nod as many others in the room also finally got it.
+
+“Within moments, it was discovered that Administrator Candidates can renounce their candidature at will, allowing them to function as allies for other Administrator Candidates in the selection ten days from now, no matter what galaxy they originally belonged to. This is something many are now planning, including the majority of those noticeably absent today. At least that’s what those who’ve reached out have shared, with me just making an educated guess for the rest,” the Verdant Witch said, her gaze looking across the room.
+
+“Is it believed that allies of Administrator Candidates can become Administrators themselves?” Kindroth spoke up and asked.
+
+“No one knows,” Miranda shook her head. “But I bet a lot are banking on that being the case. If not, the plan is likely to just turn a current candidate into a puppet Chief Administrator.”
+
+“Soul Contract sales have significantly spiked across the multiverse in the last hour,” Sultan, whom Jake hadn’t seen in quite a while, added. “Assumptions are that many Administrator Candidates will want to sign powerful allies, while powerful factions want Administrator Candidates in a relatively weak position to compete in signing what’s effectively powers of attorney.”
+
+“As Sultan said, even if these allies cannot claim ownership themselves, these contracts will help. They can also help defend the weaker Administrator Candidates. It’s always a question what will happen should someone with an exclusive position die, and if the role can be inherited,” Miranda said with a light smile.
+
+Jake nodded along, the situation more complicated than he initially assumed, but things made sense, and he could see why so many of those he’d expect to be there weren’t. Didn’t mean he wasn’t a bit offended that none of them had at least let him know, but he understood why they did as they did.
+
+Knowing that the Milky Way Galaxy was pretty much already locked down by Jake, everyone started looking elsewhere, most of them with factions of their own to either work for or make use of.
+
+So many earthlings were ahead of the curve, making them valuable allies in the conflict to come, so it was only natural that their factions wanted to take advantage. Especially considering what Miranda said next.
+
+“Some do theorize that, based on current trends and experience from prior universe integration events, only natives of the ninety-third universe can become Administrators,” Miranda said. “Hence, bringing along powerful natives may serve as additional chances to compete for the title of Chief Administrator.”
+
+People around the room nodded along as Jake wondered internally whether that was what the usual elites of Earth were gambling on doing. He also wondered where people had gone to compete, and with whom.
+
+For people like Casper and Caleb, it wasn’t hard to figure out. They were part of major multiversal factions, so there were probably already spreadsheets and shit assigning people to where they needed to go, optimizing personnel. Carmen, too, as well as all the members from Earth who were now part of the Holy Church.
+
+Vesperia was naturally operating as a member of the Endless Empire, but things got a bit trickier with some other people. Regarding the Sword Saint, Jake guessed that, despite Aeon not strictly having a faction, he still had followers. Same for Stormild and Sylphie.
+
+When it came to Eron and the Dao Sect, Jake had no idea. In general, he knew borderline fuck-all about the Dao Sect and wouldn’t even waste brainpower trying to figure them out right now. He did have a sneaking suspicion that he would soon get far more acquainted with them, though.
+
+Besides these people, there were some Jake had no idea about at all, though. Such as the Forest King. As far as Jake knew, the Unique Lifeform didn’t have any allies outside of Earth, so where had he gone? Was he just doing his own thing? Many questions for later.
+
+“Are there any prevailing theories on what happens after all the Chief Administrators are selected?” Kindroth asked, already thinking ahead.
+
+“Besides the overwhelming consensus that it will be a competition or fight of some kind between the many different Chief Administrators, effectively pitting galaxies against one another, no,” Miranda shook her head. “We also have no idea as to the nature of these upcoming tests, which is why sending Lord Thayne alone makes no sense. As an Administrator Candidate, I will personally take part in the event ten days from now, alongside others whom we’ll agree on as a group beforehand. There are quite a few Administrator Candidates in the galaxy, and from Earth, I assume that myself and Arnold will-“
+
+“I shall not take part,” Arnold raised a hand, motioning for her to stop. “In the most unfortunate of circumstances, I would refuse to take ownership of the Seat of the Exalted Prima.”
+
+People looked confused at the scientist for a few moments, but Miranda just nodded, not commenting on it further. “Very well. Worst case, Kindroth is already an Administrator, and I doubt the event would end with no one being selected without leaving a method to still get a Chief Administrator.”
+
+“Can C-grades take part in the Administrator Candidate test?” Jake asked, speaking up for the first time.
+
+His reason for asking that was pretty simple... Miranda hadn’t actually evolved yet. She was one level off, from the looks of things, and he also wasn’t sure if the others he knew had managed to get their evolutions in yet. He reckoned most had, but Jake currently had no way of knowing.
+
+“Nothing says otherwise,” Miranda shrugged. “The only thing we know is that Administrators need to use their Seals of the Exalted Prima to enter the Seat for the Chief Administrator event, at which point B-grade is a requirement.”
+
+Jake nodded as he shared his thoughts. “In that case, I don’t believe this Administrator promotion event is centered around raw fighting power, but rather something else.”
+
+“That does indeed seem probable,” Miranda readily agreed. “And if that is the case, there is a solid chance the Chief Administrator selection isn’t based on sheer power either, which is why it’s better to play it safe rather than sorry and have multiple people compete, even if we have already internally selected a winner.”
+
+“Seems reasonable,” Jake didn’t argue as he leaned back again, giving Miranda the chance to continue her speech. She went over a lot of information, considering the system announcement had come not that long ago, and seemed to already have a solid grasp on what most of the major factions in the Milky Way were planning. The fact that they had sent all their elites to other galaxies to assist there already said a lot, making it clear they had no intentions of competing with Jake.
+
+Very few truly powerful humans remained on Earth. There was, of course, Jake and Arnold, and after Miranda evolved, she should also be up there. Lillian looked like she would also have a shot at reaching B-grade within the next couple of months. Besides the four of them, the strongest ones who took part in the meeting were Holstred, who had surprisingly already reached B-grade, and someone Jake didn’t think much about in his daily life, but who’d also managed to evolve:
+
+William.
+
+The still young-looking man sat off to a corner of the table, not participating much but just listening. Jake didn’t purposefully pay much attention to him, but he could feel that, despite the guy’s rather fucked up history and, in Jake’s opinion, slightly messed-up Path, he was strong.
+
+Jake also knew that William slightly fit the warning Artemis gave him before he went back to Earth. Karmic magic was mysterious and hard to deal with, and it wouldn’t be odd if William had methods to attack that Jake wasn’t at all familiar with. Not that he was afraid, as he doubted even karmic magic could escape the Event Horizon. In time, hopefully, nothing in existence could.
+
+Soon enough, the meeting was over, having been a bit longer than Jake would have liked, but they went over all the important stuff.
+
+In conclusion, the event seemed a bit more complicated than Jake first assumed, and clearly, the factions across the multiverse were engaged in machinations and plans to reap the greatest benefits at the end of the day. At the same time, it was also clear that for the next roughly one-hundred and ten days, Jake had nothing he explicitly needed to do. Not outside of preparing for the Chief Administrator Selection and what would come after that, anyway.
+
+At the end of the meeting, Arnold turned to Jake and told him to seek him out at his old laboratory, where the Fort had once been. Jake naturally agreed as he stayed behind with Miranda for now, alongside Lillian, Holstred, and even William.
+
+Miranda turned to Jake and flashed him a small smile. “I guess I should also congratulate you on what seems to be a successful evolution. Sadly, we don’t have much time for pleasantries, so I’ll just inform you that I intend to take part in the upcoming event alongside the people here in this room. Assuming I evolve right on time within the next week or so, and I hope this meeting is what pushes me over the edge. If not, I'll just have to make do.”
+
+Jake considered protesting her decision to bring along William, as he truthfully still didn’t fully trust the guy, but in the end, he just nodded, believing Miranda knew what she was doing. Though he did have a question. “Pretty sure it said you could have four allies.”
+
+“The last one should be arriving shortly; he found himself a bit delayed with other matters,” Miranda smiled. “It’s someone you should find slightly familiar.”
+
+Just then, Jake felt as if she was immediately proven wrong as he locked in on an unfamiliar figure walking towards the meeting room. However, as the figure grew closer, Jake recognized the aura, and when the door opened, he felt a cold sensation spread, and he indeed knew who it was.
+
+“I greet the Chosen of the Malefic One,” the newcomer bowed towards Jake first thing. It was a tall male figure with two horns, elf-like ears, and eyes that flowed with a deep, whitish blue, seeming to freeze whatever they looked at.
+
+Jake nodded in approval as he smiled. “You’ve grown quite a lot since last time.”
+
+[Northpeak Wyvern – lvl 349 – Divine Blessing of the Everfrost Dragon God]
+
+If Jake recalled correctly, the last time he’d seen the Northpeak Wyvern, it had been level 270 or something, and had a Greater Blessing. That had not been too long after he returned from Nevermore. Seeing the wyvern’s growth, Jake guessed he’d also taken a trip to Nevermore to catch up in level, though evidently, he hadn’t succeeded in becoming a True Dragon yet.
+
+And yes, Jake was certain the Northpeak Wyvern sought to become a True Dragon. Wyverns didn’t need to become dragons, but could even stay wyverns or evolve into monsters within the same lizard-like species. However, based on the Northpeak Wyvern’s aura and the fact that he’d received a Divine Blessing from a significant figure from a Dragonflight, there really was no doubt he would either become a True Dragon or stay a peak C-grade wyvern forever.
+
+“I thank the Chosen for his recognition,” the wyvern bowed even deeper before turning to Miranda. “I also owe your witch, and have agreed to assist her in the upcoming event.”
+
+“Oh, please, you’re looking for any opportunity to become a True Dragon,” Miranda waved off the wyvern.
+
+“That’s something I can’t deny,” the Northpeak Wyvern chuckled, Jake just nodding in approval.
+
+From his dragon-hunting preparations, he knew that True Dragons that managed to evolve from lesser variants tended to be pretty damn talented and powerful, even amongst other True Dragons. That’s why Villy said that Jake trying to hunt down a True Dragon that had evolved from a wyvern would have been a great way to commit suicide.
+
+Jake still wasn’t sure they could trust this particular wyvern, and the guy hadn’t made the best first impression, but again, he trusted Miranda and her judgment.
+
+“I wish you good luck whenever you get to it,” Jake smiled. “And try to evolve all of you, okay? Being B-grade is pretty awesome, and I can definitely recommend it.”
+
+“We all plan to, don’t worry,” Miranda shook her head. “As for whether we’ll succeed, only time will tell. We shouldn’t be surprised if the evolution to B-grade becomes a serious barrier many never overcome.”
+
+“True,” Jake acknowledged. “But they should still try.”
+
+With those words, Jake started walking out of the meeting room, only briefly stopping to throw the Northpeak Wyvern a look. “You’d better be a True Dragon next time we meet.”
+
+He didn’t give the overgrown lizard any time to respond before he was out of the room. Jake quickly made his way over to Arnold’s place, which had pretty much just turned into a vetting area for his moon base teleporter, with only a few basic things remaining.
+
+The mad scientist was waiting there in front of the teleporter, sitting with his usual tablet that Jake couldn’t even see the screen of when he entered the room. From his point of view, it was just an unnaturally black color.
+
+“You’re here,” Arnold acknowledged his presence. “I simply wished to inform you that I should have the equipment ready within the next hundred days. I advise you to pick it up before leaving for the system event. All products are mostly completed, and as last time, I’ve made legguards and chest armor.”
+
+“Great,” Jake nodded with a smile. “Do also say if I can do anything for you.”
+
+Arnold looked at Jake for a moment. “Since you asked and seemingly have some downtime before it’s your turn to play a role during the system event, there is something you could do. Through scanning the solar system, there appears to be an irregular number of powerful beings, and while most are of no concern due to the distance between our planet and theirs, the same cannot be said about the two within closest proximity. Orbital patterns have shifted significantly, creating a far more consistent distance, so the travel time isn’t that long between Earth and these two planets. While I have sent drones towards Mars for scouting and potentially establishing a temporary outpost, any attempts to enter the atmosphere of Venus have been thwarted so far; hence, I’m proposing you-“
+
+“Yes,” Jake didn’t even need to hear more. Fuck yeah, he agreed. Jake had already wanted to pay Venus a little visit, giving him time to exercise a little before it was time to face what the system event had to throw at him.

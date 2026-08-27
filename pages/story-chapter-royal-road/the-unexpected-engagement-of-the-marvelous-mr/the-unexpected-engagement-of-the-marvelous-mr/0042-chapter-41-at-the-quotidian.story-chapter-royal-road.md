@@ -1,0 +1,107 @@
+---
+id: dd461e1a-c01a-5f1c-85c4-cdace46bf329
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41 - At the Quotidian"
+slug: 0042-chapter-41-at-the-quotidian
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 42
+ownLength: 753
+unit: words
+publishedAt: 2022-07-02
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/940191/chapter-41-at-the-quotidian"
+royalRoadId: "940191"
+---
+
+Martin Jones was at his desk, surrounded by piles of papers. There was a pen in his hand, but it was mostly a toy he tapped against his cheek while he read over his work.
+
+His ears dimly registered that someone was calling his name, but since it wasn’t his boss screaming at him, it didn’t seem worth acknowledging.
+
+He was forced to look up when an insistent finger thumped down on his shoulder several times.
+
+“Yes, yes. What?”
+
+“Is that how you greet a friend?”
+
+Martin Jones rose to his feet to get a better look at the man behind him. “Do I know you, sir?”
+
+“Maybe I exaggerate. We aren’t precisely friends, but we have met at least once at Jester, and I’ve written to you about one or two of your articles.”
+
+A card appeared in the man’s gloved hand. Jones took it.
+
+“My name in writing might be more recognizable to you. It’s Professor Zane Pearson.”
+
+Jones glanced from the card, to the man, to the two or three co-workers around him who were discreetly listening to the exchange from their desks.
+
+“Yes. Of course. Forgive me, Professor. I would never have expected you to show up at a time like this.”
+
+“Are you busy?”
+
+“Well, actually, yes!”
+
+“Good. Then I’m sure you’ll answer my question without wasting any time.”
+
+Jones waved a hand. “Ohh, no. No. I’d rather not answer any questions from you.”
+
+“That’s a mite bit hypocritical, wouldn’t you say? The reporter can’t stand his own medicine!”
+
+“You have me, Professor. That’s it in a nutshell. The exit is that way.”
+
+“But you haven’t answered my question.”
+
+“That was…kind of the point.”
+
+“Shall we call them liability emptors? Every city has them. I’m afraid I’m not familiar with them myself, so I was wondering if you could tell me where I might find them.”
+
+Martin Jones rolled the phrase around in his head. “Liability emptor? Why would you want to know a thing like that?”
+
+Pearson laughed through his nose. “Oh, now the reporter has questions! Mr. Jones, this is all public knowledge that any good citizen could find out with a little careful inquiry. The only reason I came to you is because I thought it might be faster.”
+
+“But they can’t possibly have anything you want.”
+
+The professor thumped the floor with his cane. “As if you could presume to say what I might want.”
+
+The two men stood there, looking at each other.
+
+“Come on now, Mr. Jones,” the professor said. “How often have I bothered you for information?”
+
+“Never. I prefer it that way.”
+
+“Then do this for me and I’ll stop bothering you.”
+
+Jones sighed as he bent down to his desk, pulled out a fresh sheet of paper, and picked up his pen.
+
+“There are three names I can give you. Each one works with a different kind of…clientele. Speirs primarily works for the poor or middle class. He’s said to be a good man. Fund—a rather ironic name, considering—tends to deal more with merchants and businessmen. They don’t like him much, but they all admit he’s fair. Altis is the last.”
+
+The reporter finished writing the name, folded the paper, and passed it to the professor.
+
+The professor said, “And what can you tell me about Altis?”
+
+“He’s discreet.”
+
+The professor raised an eyebrow. “How commendable.”
+
+“Will you go now?”
+
+“You have my thanks, and now I’ll go.”
+
+When the man was gone, Jones dropped back into his chair.
+
+“Who was that?” Wyatt asked.
+
+Jones looked over at his fellow reporter. Wyatt was a young man. He spoke quietly, and no one ever quite knew what his opinions were. He made Martin Jones nervous. His eyes were too sharp for how little he spoke.
+
+“An acquaintance of mine.”
+
+“A strange acquaintance.”
+
+“I dare say you’ll meet a few like that the longer you work this job.”
+
+“Why did you answer his question?”
+
+Damn that Penn! He’s right. I can’t take my own medicine.
+
+“Why wouldn’t I?” Jones said. “It was all public knowledge he could have learned anywhere.” Jones got to his feet. As he walked past Wyatt’s desk, he said, “There’s nothing wrong with answering a few questions.”
+
+Wyatt watched as the senior reporter left. Then he stood up and crossed over to the room where they kept the phones shut away from the rest of the noise. He closed the door and picked up a receiver.
+
+“Hello? I need you to connect me to the police station.”

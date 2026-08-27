@@ -1,0 +1,545 @@
+---
+id: 4622f72b-a57d-56ad-8c94-f5b061efb2b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 110 - Train. Protect System Space. Die. Repeat. I"
+slug: 0041-chapter-110-train-protect-system-space-die-repeat-i
+partOf: the-stubborn-skill-grinder-in-a-time-loop-book
+position: 41
+ownLength: 7835
+unit: words
+ownProgress: 7835
+publishedAt: 2026-01-03
+link: "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2908457/chapter-110-train-protect-system-space-die-repeat"
+royalRoadId: "2908457"
+markedReadAt: "2026-06-29T20:05:25.396Z"
+---
+
+“This is… an intricate device.”
+
+Orodan wasn’t sure what half of the wires and engineering did. He was an Adept Engineer, not whatever level of Grandmastery would be needed to understand this monstrosity of a device.
+
+Glowing screens of glass with warning symbols, a frame made of synthetic solidified oil of a sort, and various parts which had metal. The parts he did understand however, were the enchanted bits. And even then, he was starting to realize that there was no way he was going to replicate what Fenton had done with this thing.
+
+At some point the student had to surpass their master, and Fenton, even in his early days, always had a knack for Enchanting which Orodan never did.
+
+“You like it ser? Me and Mister W78 spent the last loop workin’ on the design. Making it’s not too much trouble. He handles the engineerin’ side, I handle the enchantin’, it works like a well-oiled gun,” Fenton explained.
+
+“Information: subject - Fenton Penny undervaluing self-contributions. Anomalous proficiency in parameter - Enchanting,” W78 beeped. “Memetic hazard counter-device now operational.”
+
+“No more corruption by that insidious thought then? Good. I was wondering if I would need to sally out and kill it at the start of the loop.”
+
+It shouldn’t have been necessary, for that wicked thing, Anomaly #3, had only come for Orodan and Alastaia after he had drawn its notice by attempting to pull something outside System space back in time. But it was still a comforting thought, knowing his allies and those left behind would be safe.
+
+So accustomed to putting out fire after fire, he had grown unused to people being capable of managing themselves without the need for his protection. A watchful part of him, continually concerned about the safety of those remaining behind, finally eased in the knowledge that this alliance of time loopers was more than capable of protecting themselves.
+
+Of course, he would still be at hand if any hostile Embodiers thought to assail them. That was his job.
+
+“No, that part we should have handled. No more corruption persisting between loops.”
+
+Clyburn Anderthorn spoke while walking up, a board and paper in his hands. Some engineers of the Collective had not been too happy to have competition in the realm of Engineering against the Unity. Traditionalists, those with pride in the methods of Lonvoron and its unversities, and so on. But not Clyburn. The man had always been one to push the bounds of what was possible.
+
+This device—though primarily the work of the Unity and its engineer-units—had certain critical parts tinkered with by the talented Blackworth engineer. A simpler way to look at it was that the Unity was better at their own brand of electrical engineering where lightning was channeled through wiring. But the Blackworth and its engineers were a notch superior when it came to the mechanical side of things and empowering their devices with that trademark magical steam of theirs.
+
+Clyburn and W78 were more than willing to be the bridge between these two separate disciplines.
+
+And it was a bridge which had come together marvellously well in the form of this device.
+
+“I’m no engineer of the caliber of you two, but from what I can glean this seems to… scramble dangerous patterns of thought?” Orodan postulated.
+
+“And fortifies the mind against what makes them so dangerous,” Clyburn explained. “The mind magic eludes me, but the High-Orast of Thazrivin was integral in helping us design something which could allow hostile thought patterns to hit someone’s mind, channel through this, and then vent into the world core.”
+
+“And that isn’t dangerous for Alastaia?”
+
+The world crown on his arm glowed subtly.
+
+“Ours is a mind different to that of the mortal being. The predators from the deep will find us as alien as our children find them.”
+
+That about explained it. For a predatory being which spread through information and targeted mortal minds, the notion of a planet with its own will was likely foreign to its very schema of predator and prey. It was a clever angle Orodan would not have considered, using the world will as a bulwark against memetic hazards.
+
+But this device did just that. All thanks to the combined minds of W78, Fenton Penny, the High-Orast and Clyburn Anderthorn.
+
+“Consider me impressed then. You all have done your work well,” Orodan praised.
+
+“And it is time for you to do yours Mister Wainwright. Though a willingness to work is something you are not short of in the slightest.”
+
+Kalemar Cosanox’s words entered alongside the man himself. The Vice-Director of the Novarrian Intelligence Service—Orodan’s personal assistant of sorts—had a large sheaf of papers in his hands. Accompanying him were several mind mages, a man whose soul was clean yet the scent of blood and sacrifice surrounded him, and additional analysts with quill and parchment ready.
+
+“The new techniques from Narictus?” Orodan asked. “I expected some refinements in the soul perhaps, not… blood. I’m not about to begin hurling the life-blood of my enemies around as a weapon.”
+
+“Nor would we expect you to, my lord,” the man bearing the scent of blood spoke, proffering his hand. “Tylestane Agraha, Imperial blood mage and ritualist, at your service.”
+
+An odd name, but he knew that the southeastern regions of Novarria had dialects, customs and naming convetions different to the more ubiquitous central and northern Imperial culture he was used to while living in the Republic. And for a mage, this man had a certain grimness to him that only hardened warriors typically had. A familiarity with pain and sacrifice. A Grandmaster too.
+
+Orodan met the hand with his own.
+
+“Your hands are not soft. You are a warrior,” he stated, not questioned.
+
+“That would be because I use my own blood, Lord Wainwright. I am no destined hero of war like yourself, but using one’s own vitality to reach greater heights in combat tends to leave little room for softness in a man,” Tylestane explained. “The mind mages accompanying us are time loopers themselves, here to ensure the memories transferred over are perfect in their clarity. But the actual knowledge acquired from Narictus is best perused by me.”
+
+“If using my own vitality is the wager, then it’s one I’ve already paid.”
+
+“Correct. Our chroniclers have it well-documented. You had Death Rage, which then combined alongside other skills into All-Consuming Rage, which is now part of your Domain of Perfect Cleaning,” Kalemar listed, reading off a record. He then shook his head. “Truly, these Celestial skills make no sense…”
+
+That, Orodan could agree with. They were entirely unique to the individual and nobody he had seen or heard of could get the same Celestial skill another had. Hells, even if the names ended up similar, he doubted the skill combination would ever be the same. They could have some weird skills under their umbrella which only the bearer themselves could understand.
+
+“I’m sure Old Man Hannegan would agree and think the same of mine as I would of his,” Orodan replied. “Now then, you have techniques from Narictus related to vitality usage? I already have All-Consuming Rage under the Domain of Perfect Cleaning.”
+
+“Yes, but that Harmony of Vitality of yours seems to be stubbornly remaining at the Grandmaster-level and refusing to advance any further no matter what. This, I believe Narictus’s secrets of blood can help with,” Tylestane spoke and then raised his hands at the sight of Orodan’s quirked eyebrows. “It is not as nefarious as I am making it sound, my lord. The ‘secrets of blood’ sounds a most ill-natured subject of study, but it is no different to you studying the secrets of the blade or the secrets of the shield. In fact, allow me to assure you that we shall be using no blood besides your own for our study sessions.”
+
+“Hmm, then that does not sound so bad. Butchering innocents and committing mass ritual slaughter are not my ways to strength.”
+
+“Nor are they the ways of strength for the werewolves of Narictus,” his instructor-to-be replied. “Indeed, ‘tis not vampires nor necromancers we have pilfered these methods from. I was part of the surface assault force while the Transcendents led battle groups deeper into the planet’s depths, and it was there that we happened upon the werewolf clans and their repositories. A shame that their world is under the grips of vampirism for these werewolves are honorable warriors and their techniques of the straightforward sort you would appreciate. Take for example, Blood Boiling and its derivative from there, Blood Rage.”
+
+Blood Boiling?
+
+He had heard of Blood Rage. Long ago, Orodan had fought a blood mage on Guzuhar, during his first visit to the northern continent of his home world in fact. He knew that among their number some had a skill which could set the blood itself to act as fuel for a furious rage. He had fought and slain many of them while facing the followers of Agorhiku; his own Death Rage at the time proving far superior.
+
+But what was Blood Boiling?
+
+“I have seen Blood Rage, it is good, but not a complete rage which amplifies all the facets of a warrior.”
+
+“Yes, my lord. Our records on Alastaia are comprehensive about the skill, but it is Blood Boiling which will truly make a difference for you. Behold…”
+
+One moment the blood mage before him was normal, and the next… his skin turned redder than an ostentatious castle banner. Like an overfull wine sack the skin cracked and then began leaking blood, and it began steaming.
+
+The man was not at all hesitant to do so, and Orodan was not so squeamish as to find the sight disturbing. More than that, his eyes narrowed in scrutiny as he closely studied the blood.
+
+It was… powerful.
+
+An observation which was soon put to measure as Tylestane’s steaming lifeblood dripped into an open bowl. The container was surrounded by the ritual lines of a magic circle, drawn in gem dust and laced with mana crystals at critical nodes.
+
+Orodan hummed in recognizance of the feat as the ritual circle flared to life… without even being activated. Just the residual power of his instructor’s blood was enough to already empower it despite the safeguards.
+
+He said a single word.
+
+“Potent…”
+
+Tylestane smiled even as he finally allowed the boiling of his own blood to abate. The man was no doubt an experienced blood mage, but even he sighed in relief and slightly wobbled as the damaging skill wound down.
+
+“This skill and rarer variants of it are what make Narictus’s werewolves so uniquely deadly in melee combat. Our Alastaian warriors have fought beasts and monsters before, larger than these lupine foes too, but the blood boiling gives them an unnatural strength which is beyond simple animal ferocity. As though their very veins have become lit with a sort of fire.”
+
+He, the student, could now see clearly where this was going and why this skill had been selected. Death Rage, which had turned into All-Consuming Rage and then been assimilated into Domain of Perfect Cleaning, was of a parallel idea. It burned his vitality to give him strength.
+
+But this… it did not quite burn the blood as much as it compressed, heated and then improved the very quality of it.
+
+It was the difference between a smelter burning coal for fuel versus compressing and empowering it so much that it glowed. In the case of Blood Boiling, the blood steamed because of just how heated and compressed it was. It roiled faster, granted more power to the muscles for each drop, and allowed the mind to think even quicker.
+
+This, if learned, would be a genuine force amplifier.
+
+“Though your body’s composition is different ever since your… restructuring of it, you still possess blood, do you not, Mister Wainwright?” Kalemar asked and he nodded in reply. He did have blood, but it moved directly between the cells and was present at all times in the amounts needed. Each cell in fact produced its own blood, just as it produced its own soul energy and could even think independently. “We believe Blood Boiling will allow you to become drastically more powerful. In fact, the information and records we have suggest that one of your obstacles, the Warrior, also uses a similar technique. It is why his skin is like volcanic obsidian. If you are to match him, this skill can give you the edge.”
+
+Who knew the Warrior also used a similar technique? Certainly not he.
+
+This was the power of an entire alliance of multiple civilizations behind him. He had the power to flick his wrist and delete a star system, but could he think and research as they did? No. Even with all his cells capable of independent thought converging upon a mental task, it would be naught but an echo chamber of himself. He could brute force certain things, but not everything. His mind was not that of a scholar, an archivist or a researcher. His was a warrior’s mind.
+
+But the people he brought into the loops were a different story. They were not mentally the same as he. Where he focused upon his own paths to strength, the benefit of ens of thousands of others who each had their own paths forward could not be overstated.
+
+This was what relying upon others could achieve. While he fought, they gathered knowledge and secrets and prepared the ideal training structure for him to learn useful skills. He could see now why Grandmasters and Transcendents remained with their factions. For no high-level individual of power was truly created in a vacuum. They used techniques sourced from others, their battles involved opponents, their training involved insights gleaned through meditation or texts written by others. All-in-all, there was no evading the fact that a powerful individual, even a hermit, benefitted in some way or another from society. And those Grandmasters and Transcendents who embraced that fact openly and cooperated would reap the most rewards from that relationship as he was now.
+
+“I will take every edge I can get. This will be good training,” he replied, sitting down in front of a stack of scrolls, papers and charts the team of scribes and scholars had put together. Fenton, W78 and Clyburn moved back to tinkering with the protective array while Orodan studied.
+
+The originals—written down to exact detail via mind and soul mages helping ensure perfect recall—were on one side and the notes were on the other. The werewolves of Narictus were a System species, thus the words he read were thankfully translated by the central rune of knowledge of his own System, but even then the wolfish peculiarities in the handwriting and script were evident.
+
+He knew that they could transform between man and werewolf form. Thus for these scrolls and scripts to be written with such savagery meant the writer had specifically chosen to write while under their animalistic half. Not uncommon for masters to rush in writing something down before the insight eluded them. Or perhaps the wolfish side gave them an understanding that their human side did not.
+
+In any case, the first text was a primer on martial ethos and how a young werewolf was meant to see themselves and their blood.
+
+There was a whole lot of philosophy about duty to the pack and the filial piety a young werewolf should have for their mother and father who brought them into the world and provided for them. Following that, duty to the clan which was seen as an extension of the basic family pack. And duty to the masters above, for the text came from Narictus where vampires and necromancers stood above werewolves who were the guard and enforcer class, but not truly the cream of society.
+
+It was an interesting look into a society he had never properly encountered in a conflict-free context, and would likely never peacefully interact with. The werewolves… did not seem like bad people.
+
+He had read texts written by vampires, particularly during his work with Silestor Lumenarin and the Cathedral on Alastaia. The foul bloodsuckers were hungry and predatory by nature; a fact evident even in their writings. He had met only one good vampire, and that was a being who rejected its very nature.
+
+In contrast, these texts written by the werewolves of Narictus were entirely… normal. They spoke of a hunger yes, but of how that could be sated through game hunted in the forests. How killing humans and other sapients for food was a form of foul cannibalism, written as a commandment. And how the ways of the clans were superior to the barbarous ways of the ferals who enjoyed living like animals.
+
+It was only halfway into a paragraph about the relationship between wolf and man and how man was expected to rise above the animal nature, that Orodan realized he was essentially reading a children’s book.
+
+“This is a book for their pups.”
+
+“Took you long enough to notice,” Kalemar spoke. “Blood arts are a common part of werewolf upbringing. If a young wolf does not have at least some combat-relevant blood skill by the time they are twenty-five years, they are considered inelegible for warrior candidacy.”
+
+And given how every one of them he’d seen on Narictus filled some sort of guard or front-line warrior role, that seemed a social death sentence.
+
+“What better people to learn blood related skills from than those who grow up in it?” Tylestane posed. “These werewolves of Clan Vale Claw learn about the ways of blood before they can even go out on hunts. Desperation and a willingness to make themselves useful to their vampiric masters has them learning early by necessity.”
+
+Necessity and desperation which led to some unfortunate outcomes at times; at least, as per the text he was reading. The author continually emphasized just how dangerous Blood Boiling was and how multiple young werewolves would die practicing it each year.
+
+It was the price of subservience.
+
+The vampiric overlords of Narictus would not train such a high-risk skill, not as culturally as these werewolves did. From the reports, it wasn’t even that high a rarity, merely being uncommon, yet even then the training process was fraught with risk. And why would it not be? It involved the compression and heating of one’s own blood to increase its very potency.
+
+Incredibly risky for young werewolves even with the aid of shamans, healers and the rare blood mage if the clan was fortunate enough.
+
+But for Orodan it looked as though it would be some excellent training.
+
+There was a time where he would have simply dove right into practicing a skill through brute force and System assistance.
+
+Those times were over. He had learned after losing his System that the best way of approaching skill acquisition and training was from the ground up, with his own insights in tandem with the base of knowledge of existing experts. Brute force repetition which relied on the System was not a good method of learning.
+
+“Alright, this seems simple enough.”
+
+He rose to his feet as he spoke, channeling a part of Harmony of Vitality which he unconsciously used often, but hadn’t directly drawn upon in a while.
+
+Vitality Manipulation.
+
+“The advantageous part about you being… you, is that where a new student might die, you needn’t care about such things,” Kalemar spoke. “Lord Agraha, if you would?”
+
+“Watch closely, Lord Wainwright. I did not have you read the texts for nothing. One’s philosophy and very ethos when compressing and burning their blood is just as important as the technique itself. As you know, blood is a part of vitality, which is a part of the soul. The mindset matters and can color the final outcome,” Tylestane declared while steaming yet again. “I utilize mana to compress, some rare practitioners use soul energy itself. Given your existing proficiency I have no doubt you can manage.”
+
+He watched closely as his instructor maintained a state of low simmer, committing the technique used to memory.
+
+Orodan thought about using soul energy. He certainly had an endless well of it. If anyone was suited to using that, it would be him. But why use soul energy at all?
+
+Blood was the end product, which was a product of the vitality running through him. Living, flowing blood was vitality. But dead blood, inert and dried, was not. Then, it was safe to say that all fresh blood had vitality, but vitality itself was not necessarily blood. Vitality had other things which were a part of it too… living flesh, bone, the matter in the brain. Orodan was just cells now, cells of bone and flesh with no organs.
+
+Thus… was vitality not just his cells?
+
+Why did he even need blood again? Why not just… cut the middle-man altogether?
+
+So Orodan used not soul energy, which was definitely the upper product from whence lower sources like mana and vitality flowed… but vitality itself.
+
+If he was going to ignite the very lifeblood of his body, it was all vitality anyways. So why dilute the product by using soul energy which he couldn’t boil?
+
+“Using vitality? That’s…” Tylestane trailed off and then the man’s eyes widened. “M-my lord… that may cause a premature end to the-”
+
+Blood. Bone. Flesh. Everything his body was made of was vitality. So why try to boil blood when he could instead boil and compress the vitality itself?
+
+The Vitality Manipulation aspect and the All-Consuming Rage aspect of his Domain of Perfect Cleaning came together, and like a lit flame hitting a stack of dry kindling… it all lit up.
+
+The werewolf text had stressed over and over that the compression and refining of blood was to be a careful act.
+
+But Orodan threw that out the window as his entire body ignited in a blaze of white fire. Not just the blood, everything that had vitality in it, from flesh, to bone, to hair. A blazing white light which nearly blinded everyone. There was no particular color to vitality really, rather, it took on the color of whatever someone’s soul naturally was. Orodan’s soul, a blinding pure white, had the effect of causing the vitality of his body to erupt in a white fire.
+
+If one was looking they might think he had made some critical elemental advancement, but this was no flame. Just his very life force being utterly ignited. Not just one part of him, all of him. From the inside out.
+
+Tylestane conjured several walls of force, however that was entirely unnecessary when an accompanying operative of the Intelligence Service threw down what looked like a valuable artifact. It caused a clear shield of divine energy to surround him.
+
+From the feel of it, the barrier could contain at least a continent-levelling attack. Inadequate for his full power but more than sufficient for this experiment.
+
+“Expensive artifact to spend over training containment,” Orodan grunted out as he burned. It was not a grunt of pain, but sheer exertion as he focused to prevent his vitality from going out of control. “You can step within five paces of me and remain unharmed.”
+
+“We are in a time loop, Mister Wainwright. Our rationing of valuable artifacts has become a little looser. Plus, I find dying quite unpleasant,” Kalemar replied.
+
+Technically untrue; he thought. Kalemar had not actually died in the loops yet. Being reset upon the death of Orodan didn’t count.
+
+“My lord, I see… you are not just compressing blood, but vitality itself. Incredible… I cannot even sense blood within your mighty body anymore. Using vitality as the mold, fuel and target of compression itself… what an absurd thing. I see the chronicles do not exaggerate your inhuman will,” Tylestane muttered. “But you are too forceful! Your compression is not allowing it to flow, you must allow it to naturally travel as the waters of a river do. Else you will reap no benefit from this torment.”
+
+Torment was a bit of an exaggeration, especially at his level of Pain Resistance. But the blood mage was not wrong in calling it so. Anyone else would have died a thousand times over, their entire pool of vitality ignited in an instant with a brilliant but lethal flash. Orodan lived only because his soul was endless and could funnel as much vitality as the process needed.
+
+His cells, technically, were dying over and over only to be instantly reformed via Harmony of Vitality once more.
+
+How did this process work? Simple.
+
+Like coal being pressured and hardened into a precious stone, the entirety of his focus was upon compressing and refining a small piece of his vitality within his chest. However, it was not mana doing the molding, nor was mana the fuel. That, and soul energy would have made the process… impure.
+
+Instead, as expected of him, he took the direct and somewhat insane route of using vitality to mold and compress vitality, while also using it as fuel too.
+
+His cells died over and over. And at certain points Orodan had to be actually restrain himself and direct things carefully so that there was no point where all his cells died at once, leading to a loop reset.
+
+Yet, slowly but surely, with vitality as both the compressing vice and the fuel source… that small piece of vitality within his chest began to compress… to refine.
+
+It was ruinously expensive. He had poured enough vitality to heal himself from one cell to whole a hundred times over, and even then it was only halfway done.
+
+After five minutes of work, the white fire surrounding him began to abate. Orodan released a breath, and at last it was done. Within him lay a refined and compressed sphere of… life.
+
+[New Skill → Vitality Refining 24 (Legendary)]
+
+A legendary-rarity skill. But the sheer effort required for so little payoff? It was…
+
+…absolutely ridiculous. That much effort for so little vitality being compressed.
+
+Someone weaker than him could, in theory, come upon the skill too. But even if he were a thousand times stronger the costs would have simply scaled up due to the increasing power of his body requiring more energy to refine. And even if he’d learned this far earlier in his journey the relative effort would not have decreased.
+
+“M-monstrous… you are… a God,” Tylestane gasped, breathless and in awe. “People speak about being endless, but in you I have glimpsed the true meaning of that. What… what are you?”
+
+“Not a museum exhibit to be gawked at, Lord Agraha,” Kalemar lightly rebuked. “Mister Wainwright would not appreciate being referred to as divine.”
+
+“O-of course, my apologies. It is just that… you generated enough vitality to power a million continent-spanning rituals. This is…” the blood mage trailed off and then shook his head. “My lord, using raw vitality to refine vitality is the realm of liches and unnatural immortals. All of whom typically require entire cities’ worth of sacrifices to do so. You just… paid the cost yourself.”
+
+“Well, I did say I wasn’t about to engage in mass sacrifice, did I not?”
+
+“You did…” the man muttered and then laughed as though seeing something he’d only heard about for the longest time but had now finally seen. “By the Gods, no… I cannot even invoke them when you make them seem like children playing at divinity. Here I had come, requested by Kalemar specifically for my talents, thinking I was going to help the time looper add an Uncommon or perhaps Rare-rarity skill to his Status. And instead you do something ridiculous. The chroniclers cannot stop bleating like goats about how you possess power enough to shake galaxies, but seeing it now with my own eyes, I believe.”
+
+“In the interest of being productive perhaps we ought to reflect on the impossibility of Mister Wainwright at a later time?” Kalemar suggested. “What rarity is that skill? What does it do?”
+
+“Legendary-rarity. As for what it does, let’s see. Can’t say the sheer price I paid to refine this much vitality feels worth it,” Orodan spoke as he focused in on that thrumming bit of refined vitality within his chest.
+
+Perhaps the skill would refine more for less cost eventually, but for now it really didn’t seem the sort of thing he could justify using mid-battle. Not when it took five entire minutes to refine so little.
+
+Then he touched the vitality. And his disappointment vanished as though it had never been there.
+
+He gasped as the sphere turned liquid and began flowing through his body. Not along veins since he no longer had any, but in-between the cells. Into the flesh, the bones.
+
+Orodan closed his hand into a fist very lightly.
+
+Everyone lurched. Alastaia and its gravity were, for a brief moment, superseded by the sheer gravity of but a gentle movement of his hand.
+
+The world crown sent him a warning pulse of query, asking what was wrong.
+
+“Damn…” he breathed out. “That’s strong. Very strong.”
+
+And also likely to kill him if he tried unleashing it in the form of a strike. Rapidly dissipating and returning to baseline too as the tremendous power of that liquid vitality sphere began decaying quick.
+
+But if he combined all of his existing toolkit and then added that strike on top? Would even the Warrior be forced to take him seriously?
+
+A portal opened, Destartes walking out with a frown.
+
+“It seems, Orodan, we will need a larger training area for your antics.”
+
+He was tempted to agree with the old wizard.
+
+Not only was this skill far too powerful to use around these parts carelessly. But he needed genuine pressure from outside to properly test and calibrate it. And perhaps a way of slowly making the gains permanent.
+
+And if pressure was what he needed…
+
+…then there was plenty of it to be found at Glyphward Fortress and beyond.
+
+#
+
+Azkar’s Gate was a chaotic, warlike and continually moving city even at the best of times.
+
+Orcs, goblins, ogres and mercenaries of other races flocked to the gate. Whether to seek their fortune as part of one of the many companies of Azkar’s Reavers, or to seek passage out of the crazed Crimson Sink Galaxy. It was not uncommon to see honor duels, impassioned philosophy debates and other raucous nonsense occurring on the streets. If not involving the orcs, then the ogres and goblins.
+
+But what was not common to see, was the city being quiet. The titular gate especially.
+
+Uriza-Vakhal, Embodier and nominal leader of Azkar’s Gate in the absence of Azkar himself, had her brows furrowed in suspicion.
+
+“Scourge.”
+
+“Vakhal,” Almyra replied calmly, referring to her moniker as Embodier.
+
+“You have come with most unexpected news,” the orc spoke carefully.
+
+“But not bad news,” Almyra replied.
+
+“No. Not bad news. But the sort of news which, when delivered by a former enemy of ours, makes an orc very suspicious. Our frontier is very clean and quiet. Why?”
+
+“Why not? Do we not all dwell within System space? Seeing Invaders removed behooves I as much as it does you. That we come with news of having met in the last loop with an offer between us is only an added benefit.”
+
+The orc did not look pleased at all. Worse, she had actively grown more and more suspicious as Almyra had perfectly recited several hidden passwords and loop knowledge back to her.
+
+“And that sack you are carrying? Do you think me a fool?” Uriza-Vakhal asked pointedly.
+
+In response, the large rolled up sack under Orodan’s arm twitched, as though wanting to say something. But Orodan’s fist silenced it with a loud thunk delivered with the free hand.
+
+“No. It is a gift for the Administrators at Glyphward Fortress when we arrive,” Orodan spoke up, remaining calm and entirely still even as the sack tucked in the crook of his arm went limp.
+
+Many of the orcs either gripped their weapons tighter or began sweating at his casual display. Perhaps that had been the wrong move? He thought he’d done well to kill two Embodiment-level Void Archons and deal severe damage to the hivemind and its collective forces in this loop, but evidently the orcs of Azkar’s Gate were still suspicious.
+
+Even Almyra had been on-board with the plan. Array directly into the breach points, kill the Invaders using prior loop knowledge and then head for Azkar’s Gate to meet with the commanding Embodier. But if anything, the Vakhal was even unhappier than he ever remembered her being.
+
+The orcish woman frowned for a moment longer… before stepping forward.
+
+Almyra tensed, as did Alagameth. Talricto was of course busy looting Invader corpses of shiny trinkets.
+
+But Orodan was not concerned as the orc walked towards him. He knew hostile intent, and this was not it.
+
+“Clash skulls with me.”
+
+In response, his forehead sailed forward and caught the orc right on the forehead.
+
+Gasps and mutters rang out…
+
+…which silenced as the Vakhal got to her feet.
+
+“You held back, warrior,” she accused.
+
+“I would not want to kill you.”
+
+Everyone around them was tense, though Orodan knew not why.
+
+Until… the orc’s mouth twitched and she proffered a hand.
+
+“Hah! We have clashed skulls and found our thoughts aligned. Time looper, Orodan Wainwright, is it?” she asked as their hands met. “You come with mad news and an even madder offer. Ten thousand time loopers? A Celestial among our number? Madness.”
+
+The nearby orcs nodded, as though the Embodier was speaking sense.
+
+“Now bring Grezka-Thal here so we can ascertain this.”
+
+The orcs in the chamber yet again grew restless but a runner did as commanded, and soon enough the orc captain Orodan had sparred last loop was before them.
+
+She had a look of curiosity and suspicion on her face as she approached.
+
+A look which was replaced by surprised as Orodan chucked the memory orb at her head.
+
+Thankfully, the orb was quite sturdy and resistant to attacks which could even break a planet, courtesy of Fenton and Griok of the Rising Spears. Otherwise Orodan wouldn’t have felt as comfortable hurling it at someone’s head.
+
+She caught it, natural when one was a melee combat specialist used to dealing with ranged attacks. But the flash of the orb lit up the entire room anyways.
+
+At least three orcs were mid-swing towards him for his supposed act of treachery when the light cleared and the familiar wave of soul energy erupted from Grezka-Thal. The standard eruption of that sheer wave of System power which could be detected far and wide. It was what had caused multiple worlds to send hunters after Orodan when he’d first acquired the Domain of Perfect Cleaning.
+
+But here and now, nobody was assailing Azkar’s Gate, the center of power for a galactically relevant faction, to abduct a Celestial.
+
+“Halt!” the Vakhal’s voice boomed, interrupting the guards.
+
+“M-my… my head…” the orc captain murmured, down to a knee. And then, she did the one thing which proved that Orodan had come with no dagger in his hand. She drew her warhorn and brought it to her lips.
+
+Reality shuddered, and Orodan was forced to quickly cut loose with a wave of his own Domain of Perfect Cleaning lest the orc’s sudden usage of her own Celestial skill kill countless people.
+
+It was an entirely beneficial warhorn. But something entirely beneficial applied at maximal power across the entire planet could spell doom for many of its lower-level individuals.
+
+Orodan felt his own soul roil heavier, with more courage and steel in it. As though he could wrestle a Boundless One on the spot and slam it upon his knee. And he knew that this much power which could affect even him would most certainly cause a soul detonation in those weaker.
+
+[Domain of Perfect Cleaning 193 → Domain of Perfect Cleaning 194]
+
+His outstretched hand, countering her Celestial skill, advanced and clamped down around the warhorn.
+
+With a yank he pulled it from her lips, causing the orc to gasp and finally come out of that Celestial trance she had been in. Understandable given what a heady and addicting feeling it was; he recalled his own Celestial acquisitions being the same.
+
+“Very good. But you cannot sound that horn without being mindful of your surroundings. We can kill people if we aren’t careful,” he calmly cautioned. “I, by erasing them from existence. You, by empowering them so extremely that their souls explode.”
+
+Uriza-Vakhal, the orc Embodier, froze as his warning sounded through the room. As did Grezka-Thal who had a look of sudden shame on her face.
+
+“My memories… the horn felt… it felt-”
+
+“Right? As though every comprehension you’ve had all your life had finally come together?” he asked. “Yes, that is how it should feel. This is no fault of yours. It is mine. Next time I will ensure you are without that horn when the orb hits. It is entirely natural for the soul to revert to seeking the skill you have the highest affinity with.”
+
+For how many times had he cleaned his way into recovering his soul and memories? One could not be blamed for doing the same here.
+
+Almyra gave him a look of concern from behind, as though wary of the fact that his highest level Celestial skill had advanced another step.
+
+How much longer till it hit 200? How much time left until it went beyond altogether?
+
+He had training to do in order to correct that gap before the imbalance brought about his ruin.
+
+#
+
+“Why are you violent?”
+
+“Why not?”
+
+“Answer cleanly. No return questions, this is not about me, this is about you. Give an honest answer, warrior.”
+
+That had been an honest answer. Orodan didn’t understand why he wouldn’t be violent, that was all.
+
+He sighed.
+
+“Because there was no room to be anything else in Ogdenborough. If I did not fight, I would have starved. I would not have been fed enough. I would have things taken from me.”
+
+Three Thals, Transcendents, sat facing him. All Transcendents were old, ancients who were at minimum a few hundred-thousand years of age. But one of them was particularly ancient and had that distinct feeling of someone who stood a chance of becoming an Embodier.
+
+It was the old one who questioned him.
+
+“And yet, you remain violent even after eking out survival. Why?”
+
+“Is this meant to be an endless string of ‘why’ style questions meant to pry me open like a can?” he asked in turn.
+
+“Yes. Now cease asking questions and answer them, warrior.”
+
+The lack of mysterious answer threw him off guard, and Orodan finally behaved.
+
+“Forgive me… my arm stirs for battle and my impatience is apparent. Thank you for taking the time to do this,” he spoke sincerely.
+
+“You are young,” one of the younger Transcendents spoke. “We had always wondered what would happen if a young soul became too powerful too early. The price of talent… a hypothetical sermon I gave once. To see it come true…”
+
+“You are correct Egrash-Thal, but this is not the subject of discussion. I will ask again, warrior. Why are you violent? Why have you remained so once survival was no longer a wager?”
+
+The old Transcendent orc was right. It was not survival. Orodan had seen refugees of war, victims of horrid tragedy, those who had escaped previously miserable lives to finally live. Those had been survivors. He was a survivor only insofar as he had survived… beyond that, his mentality was not the same.
+
+Those men and women had wound down. The fear slowly leaving their bodies as they unwound like tense rope unraveling. But they had finally tried living. Survivorship was something they had to endure.
+
+He was not violent because he needed to survive.
+
+He was violent because he liked it.
+
+“I am violent because that is who I am.”
+
+All three nodded, accepting the honest answer.
+
+“Good. A man of violence pretending to be a battered survivor is a lie which serves no one. Do you enjoy it?”
+
+There was only one answer to that question.
+
+“Yes.”
+
+Orodan was no melancholic bard. Nor was he a soldier who would sit in a tavern and tell others about how horrible war and fighting was. He liked it; he enjoyed the thrill of life-and-death combat. Horrible things happened in war, but he was one of those individuals others would call deranged for he enjoyed the fighting part of it.
+
+“Heh… too often will I see wolves pretending to be sheep. At least you do not lie, Orodan Wainwright. Why do you enjoy violence?”
+
+“I like the challenge. For me violence is… advancement. My push against the world, against my limits,” he answered, thinking back on when he’d finally acquired Eidolon of Violence. “I crave that struggle. It is… honest and makes me feel alive.”
+
+“Your violence extends to more than just fighting then?” a younger orc asked and he nodded. “Intriguing. Tell me, is sorrow part of your violence too? Pain?”
+
+Orodan’s eyes furrowed as he recalled how Pain Resistance was a part of Incipience of Infinity. How he had struggled, fought and bled. And how he had suffered loss. Adeltaj, W78, Fenton… Zaessythra.
+
+“His eyes answer enough. Good,” the old orc spoke and then rose. “Now then, you are to depart soon. You will write down your thoughts on the intersection between violence and pain and bring them to us in your next loop, warrior.”
+
+“Huh? No gauntlet for him, Thal?”
+
+“No. Look in his eyes, do you see this one flinching at pretense?” the old orc asked the younger one. He then turned to Orodan to clarify. “Normally, I would have you do an exercise… but with you it would be rather pointless. I see it in your eyes, false sorrows will not move you. And I sense you are not some young whelp who will cry and be struck with grief when decisiveness is needed.”
+
+The younger one, Egrash-Thal, sighed, as though his fun had been spoiled.
+
+“Nothing cruel. We would have had you run an honorable but guilty criminal through, and slay an ailing and old warrior who has asked for a good death.”
+
+Which sounded fine to Orodan. Why would he flinch if someone was truly guilty and had committed a crime worthy of death? And if a warrior wanted a good end and asked for a duel to the death, he would show them respect and grant it.
+
+Perhaps a hostage situation might complicate things, but he doubted the orcs were about to set that up, nor would he agree to murdering someone innocent just to test his violence.
+
+The four of them moved into an open space outside the debate hall they were in. Almyra, Zaessythra, Alagameth and Talricto were waiting. As was the item they were to deliver.
+
+“Anything useful?” Almyra asked, sounding more than a little dismissive of the orcs’ ways. “Has talking made you an Embodier?”
+
+The older orc narrowed his eyes at her but said little else, and Orodan gave her a frown of warning. Whatever enmity she had with the orcs from long ago, there was no need to bring it into this situation.
+
+“Well then, Glyphward awaits,” she said, recovering as though she’d slighted no one.
+
+The rift opened, courtesy of Talricto and the party stepped through into the deep void.
+
+Azkar’s Gate gave way to the pitch black deep void between galaxies. A void which ended in front of them where an absolutely dark barrier existed, through which no stars beyond were visible.
+
+And Orodan’s voice absolutely boomed out through the dark void, soul energy amplifying it.
+
+“Mage! Come out! I have an offering!”
+
+The sheer volume of his bellow, delivered through the Commandment of War aspect of Eidolon of Violence, caused Talricto to cling onto Zaessythra and Alagameth to conjure a spatial shield.
+
+It even caused the sack under his arm to twitch, but by now it knew better than to act disobediently when in his grasp.
+
+Five straight minutes of shouting passed. Until finally…
+
+…a gigantic fortress emerged from the pitch black surface of the System space boundary, like a leviathan surfacing from the ocean.
+
+And at the head of one of the protruding balconies, was Kalmiron, the Mage.
+
+“I smell it off you. A time looper… what do you want?”
+
+In response, Orodan unfurled the sack he was carrying in the crook of his arm to reveal…
+
+…the Prophet.
+
+Bound, beaten, battered and bruised. With a sizeable lump upon the head from Orodan’s earlier ‘handling’ of it.
+
+Let it not be said that Orodan was incapable of handling constructive criticism. He had heard and heeded the Administrators’ accusations that he was responsible for the current mess. Thus, unlike last loop, this time he felt it better to bring their busy ally along with them for the meeting.
+
+Between Zaessythra and Almyra assisting and him pummeling the zealot with his fists, it wasn’t hard to beat the Prophet bloody and knock it senseless.
+
+“You dare? Open rebellion against the System, is that what you have come here seeking? To provoke us? Then congratulations are in order for you have succeeded.”
+
+Orodan simply grinned. A feral and bloodthirsty thing.
+
+“Rebellion? I have come to extend an offer of cooperation between us and have even come bringing your wayward ally along for the ride. In fact, here you are.”
+
+The next ten minutes happened very quickly.
+
+Orodan hurled the Prophet towards Kalmiron like a ragdoll.
+
+The Mage responded quickly. They fought, and Orodan’s resistances surprised the Administrator.
+
+But that was when some differences between this loop and the last became abundantly clear.
+
+For starters, he quickly learned that bringing the Prophet along caused the Mage to fight very, very seriously, right from the start. To the point of using the full power of the Mantle right away. A power that Almyra and her Mantle were not at all comparable to with just one loop of training.
+
+And second, that having no token of Glyphward Fortress on him meant that the Mage was free to direct the gigantic fortress’s defensive batteries against him at will.
+
+And third and most fatally… that Xia was nowhere to be seen when the Mage was in such a strong position. Nor was the Warrior for that matter.
+
+As the darkness took him after he was flung out of System space and hit with two miniature black holes converging on him from opposite sides…
+
+…Orodan could only feel even more determined to beat this spellcaster without any tricks, toe-to-toe, even while he was using an entire fortress and Mantle against him.
+
+A keening wail ringing in the night sky awoke him.
+
+And Orodan had but one routine on his mind.
+
+Train. Protect System Space. Die. Repeat.

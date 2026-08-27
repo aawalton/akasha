@@ -1,0 +1,183 @@
+---
+id: ce8b4429-d404-5aa9-897f-19f596187250
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1173 - A Bow For A Bright Future"
+slug: 0045-chapter-1173-a-bow-for-a-bright-future
+partOf: the-primal-hunter
+position: 45
+ownLength: 2969
+unit: words
+ownProgress: 2969
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2655690/chapter-1173-a-bow-for-a-bright-future"
+royalRoadId: "2655690"
+markedReadAt: "2026-06-29T19:30:41.215Z"
+---
+
+Jake held his new bow firmly to get a proper feeling for it in his grasp. As he held it and tried to probe the bow further, he indeed felt the faint whispers of some instinctual consciousness within, but it was too weak to do anything. For now, it was merely a seed, which truthfully would be a good term to describe the entire bow.
+
+A mere seed for what the bow could one day truly flourish into.
+
+“How high do you estimate its level to be?” Artemis asked Nature’s Attendant as she’d also walked over to better inspect Jake’s new weapon.
+
+“Hard to say,” the second-in-command of the Pantheon of Life shook his head. “It all depends on Jake. The system-provided Records providing the Apex Hunter function are of an unquantifiable level of quality, making it all very unpredictable.”
+
+Jake barely listened to the two of them as he was too busy just holding the bow as a bit of his arcane energy entered it. He felt the energy surge into the bow and through the veins in the wood, and as it did, the wood resonated with the energy and responded.
+
+As the bow said, rather than merely conducting energy at a perfect level, the bow conducted it more than perfectly, even amplifying it. At the same time, he also saw the bow slightly change in color as he infused it with energy, faint fissures and lines of arcane energy began to appear as he continued to pour in energy.
+
+It looked almost as if the bow was about to shatter into pieces, but Jake knew there was no impact on its durability at all. In fact, it seemed more durable with arcane energy infused than without, even if that energy was of the destructive variant.
+
+Jake guessed it had something to do with the innate powers of the bow being awakened. Either way, arcane energy or not, Jake had a hard time seeing anyone being able to break it. He was even confident in blocking a Glimpse of Spring: Stormcut with the body of the bow, something he wasn’t confident his temporary Titanstring bow could do, despite being primarily focused on durability.
+
+Briefly raising his gaze, he looked at Artemis, who had been observing him. She instantly understood his look and gave a quick nod of approval.
+
+Without further ado, Jake raised the bow and put three fingers on the string. Drawing back the string, he felt the progressive resistance be absolutely perfect as an arrow appeared, courtesy of his Arcane Arrows skill.
+
+Artemis waved her hand as several small orbs appeared in the sky, and Jake instantly loosed an arrow toward one of them. Quickly drawing the bow several more times, he shot down each of them in rapid succession, getting a way better feel for his new weapon.
+
+With another nod to Artemis, she smiled as she conjured a realistic-looking image of a wyvern flying in the sky. Jake drew his bow once more, but this time didn’t shoot right away.
+
+Instead, he started charging up an Arcane Powershot, feeling the energy surge through his body as he did so. Arcane energy flooded into the bow, all of it being amplified as it did so. At the same time, the veins of arcane energy covering the bow became more striking with every passing second.
+
+Jake continued charging as the pressure built up. Arcane Powershot was a unique skill in that it had nearly limitless potential for its power. All it was limited by was Jake’s own body and the durability of the bow.
+
+With every passing second he channeled, the attack would be stronger, but the toll on both his and the bow’s body would grow. The string would get heavier, and his muscles would begin to tear until he simply couldn’t hold on anymore, at which point the Arcane Powershot would be released. Of course, Jake tended to shoot right before his body experienced failure, as going all the way to failure would also leave him weakened afterward.
+
+This time around, with his new Apex Hunter’s Bow, Jake channeled it for longer than any time prior. Something that very much surprised him, as unless the bow was the limit to his channel time, it usually didn’t matter.
+
+However, Jake realized that the bow was doing more than just amplifying the arcane energy he channeled into it. It also faintly helped him as powerful life energy echoed out from the bow and back into Jake’s body, allowing him to channel just a little bit longer.
+
+Alas, there was still a limit, and soon enough, Jake had to let go and unleash his Arcane Powershot.
+
+His entire body exploded with destructive arcane energy as the arrow soared toward the summoned image of a wyvern. The false creature roared as the energy struck it, tearing through its body in an instant, leaving a massive hole in its wake, only for the tail of pure destructive energy that followed the arrow to tear apart the rest of the wyvern’s body.
+
+Jake was breathing heavily as he lowered the bow, but to his surprise still felt the life energy within the bow resonating with his body. It didn’t provide him any life energy, but instead, it stimulated what was already within Jake, making his body heal faster from the backlash of having fired the Arcane Powershot. It was an effect not mentioned in the bow’s description, but certainly a welcome one.
+
+“Impressive power for a C-grade,” Nature’s Attendant nodded approvingly. “Especially considering that was without any boosting skill and with a regular arrow.”
+
+“You definitely do have a strong Powershot,” Artemis nodded. “Which is only to be expected, I guess. Any proper archer worth their bow has a strong Powershot. If not, they’re just wasting one of the greatest skills provided by the system.”
+
+“Thanks,” Jake said, in full agreement with Artemis. “This bow definitely helped give it some extra punch.”
+
+Jake was unsure of just how much extra power the new bow had provided, but if he had to give an estimation, it had to be around fifteen percent or so. A more quickly charged Powershot would likely be more in the five to ten percent range, but even that was pretty damn massive.
+
+Especially when one factored in that this didn’t include the Apex Hunter effect. That effect had also only gotten stronger after the bow’s upgrade, adding even more damage based on level disparity. Overall, he estimated his fully charged Arcane Powershot with a Protean Arrow had gone up by roughly twenty-five percent in power. Adding on Jake’s newest profession skill, making whatever poison he threw into the mix more potent, and Jake was nearly feeling sorry for the poor B-grades that would fall during his Path to B-grade.
+
+“I take this reaction of yours to mean you’re satisfied?” Nature’s Attendant asked with a smile.
+
+“Oh, definitely,” Jake confirmed without a shred of hesitation.
+
+“Good, I would think less of you if you weren’t able to recognize its potency,” Nature’s Attendant nodded. “Now, I do wish to give you some more practical knowledge about it. Seeing as I made the bow using this relatively unique crafting method, it differs from those you usually use quite a bit. This is primarily expressed through its ability to grow with you, but also the possibility of it getting a full ego one day.”
+
+“Like Bobo?” Jake asked, remembering Dina’s living armor.
+
+“Potentially, though Bobo is a unique case,” Nature’s Attendant explained. “Bobo is fully sentient and has been since creation. Due to Dina having a version of my Bloodline, she was able to inject Records related to it into the plant, resulting in Bobo. All done with my guidance, of course. In your case, I naturally didn’t feel confident guiding you on how to apply either your arcane affinity or Bloodline, as I do not have adequate understanding of either.”
+
+“That makes sense,” Jake muttered, looking down at the bow. “But there’s still a chance the bow can one day get a full-on ego? Like... a talking weapon?”
+
+“If I may,” Artemis chimed in. “I have a difficult time seeing that happen.”
+
+“Oh? Why is that?” Nature’s Attendant asked with interest, with Jake naturally also giving her a curious look.
+
+“Because it’s Jake who made it,” Artemis began her explanation. “His Path is far more instinctual than nearly any I’ve ever seen before, and it’s only natural his bow will be similar. With that in mind, his bow will naturally adapt in a direction where it becomes the most efficient at what it does. In that evolutionary development, I have a hard time seeing the bow ever encountering a situation where dedicating energy to maintaining an ego will be more efficient than empowering other aspects of itself. Instead, if I see anything ego-related developing, it will be its instincts strengthening to perhaps one day border on sentience, but that would be the limit.”
+
+Jake listened as he looked down at the bow and started nodding halfway through. While the idea of having a talking bow did seem neat, in the grand scheme of things, what was the point of it? How would it make the bow better at killing shit that it could talk? No, it made far more sense for it to develop its ability to work in tandem with Jake’s instincts to make them the best hunter in existence.
+
+“Hm, I cannot argue against that analysis,” Nature’s Attendant muttered. “I do suppose you have a far more intimate understanding of Jake and his instinctual side than I do.”
+
+Artemis threw her superior a glare, which only made the old god chuckle.
+
+“Is there anything more I have to be aware of?” Jake asked, helping his girlfriend out by quickly getting the conversation back on topic.
+
+“Just a few more basics. In order for the bow to grow, you need to actually use it in combat, which I suppose won’t be a problem for you. Secondly, you may reach a point where the bow requires external assistance to keep up with your growth, but I also suppose you will find a solution there. Besides that, there truly isn’t much more to consider, only that I hope the bow will serve you well and do so for a very long time,” Nature’s Attendant answered.
+
+“You should add that due to you being the creator behind the bow, you also benefit as it grows,” Artemis added on, getting a small revenge on Nature’s Attendant.
+
+“Minor insignificant benefits,” the god waved the notion off.
+
+“Right now, yes, but who’s to say what the future brings?” Artemis shrugged.
+
+“Hopefully, at least one dead dragon,” Jake joked, truthfully not caring much that Nature’s Attendant could potentially benefit from Jake using a bow the god had helped make. Same as how he didn’t care that Arnold benefited from Jake using equipment made by him. It was a win-win situation in Jake’s mind.
+
+“Once your preparations are complete, that is,” Artemis added on.
+
+“Certainly,” Nature’s Attendant nodded in agreement. “If you tried to kill a True Dragon right here and now... I’m not saying victory is impossible, but it will require you to do something truly extraordinary and for the dragon to be far weaker and more incompetent than the rest of its kin.”
+
+Artemis slowly nodded along with those words, making Jake clarify.
+
+“I know, I know,” Jake sighed. “My deadline is just to kill one before I evolve to B-grade. Still got a couple dozen levels to go before then, so don’t worry. I at least won’t consider it before I have a proper Dragonsbane poison.”
+
+“Good call,” Nature’s Attendant nodded with approval.
+
+Jake also nodded as he looked toward Artemis. “Should we take our leave? Not gonna lie, testing out the bow right away was perhaps a little excessive. I’m feeling pretty damn drained.”
+
+It shouldn’t come as a surprise, but the final parts of the ritual had really wrung Jake dry of energy. His subsequent testing of the bow hadn’t made matters better, especially not as he limit-tested Arcane Powershot. At least he hadn’t been dumb enough to activate his boosting skill, because if he had, there was a big chance Artemis would have had to carry him home.
+
+“Sure, I don’t believe we have more we need to discuss?” Artemis asked, throwing a questioning look at Nature’s Attendant.
+
+“No, I believe we’re finished,” the old god responded. “I also have to get back to Duskleaf. Oh, and before you ask, no, I’m not going to share anything about what we’re working on. Some things you’re both better off not knowing.”
+
+“I wasn’t going to ask,” Jake said bluntly, making Nature’s Attendant chuckle and shake his head.
+
+“Yet you are curious,” the god said, getting the last word before he teleported away, leaving Artemis and Jake behind.
+
+“Ready to go?” she asked.
+
+“Beam me home,” Jake said.
+
+Artemis looked at him with a frown. “I assume that means yes, but I have no idea what it actually means.”
+
+“You need an omniscience skill... or my translation skill needs to get better at conveying references,” Jake muttered.
+
+“If it’s any comfort, the translation did convey your intent. The words just didn’t make a lot of sense,” Artemis shook her head before she teleported the two of them back to Jake’s palace.
+
+“Also, from my understanding, omniscience skills shouldn’t allow you to understand references like that,” Artemis added once they appeared in the living room. “At least not the usual ones I’ve heard of... but then again, it shouldn’t be surprising if the Malefic One has one superior to those I know. I remember the Mother Tree mentioning that he’s likely the being in the multiverse with the highest Wisdom. At least he used to be.”
+
+“Maybe he still is?” Jake shrugged. “Speaking of... You reckon Yggdrasil is the one with the highest Vitality stat?”
+
+“I have no idea,” Artemis sighed. “Ultimately, who has the highest stats is a relatively useless discussion, as these stats express themselves differently from being to being. Even if the Mother Tree had lower Vitality than a human, she would surely have far more life energy than one.”
+
+“I guess,” Jake said, fully aware that it ultimately didn’t matter. Still... “Doesn’t mean I won’t aim to be the being with the highest Perception in the entire multiverse.”
+
+“The All-Seeing one might give you competition there,” Artemis chuckled, referring to the Void God known as Oras, who also happened to be Arnold’s Patron.
+
+“Actually, do Void Gods even have the same stats as others?” A thought struck Jake.
+
+“I assume so, but I don’t know,” Artemis admitted. “I’ve never directly interacted with a Void God.”
+
+“Really?” Jake asked with surprise. “Never? You’re a Godqueen. I find it hard to believe you’ve never bumped into one when making your way through the void, considering how many journeys you must have taken through it.”
+
+“One doesn’t merely bump into a Void God,” Artemis chuckled, shaking her head. “Very few gods have ever interacted with one, and the vast majority of us would like to keep it that way.”
+
+Jake kept looking at her with doubt as Artemis stared back at him, a look of realization in her eyes.
+
+“You’re about to tell me you’ve met a Void God, right?”
+
+Scratching the back of his head, Jake hesitated to answer.
+
+“Wait... multiple?” Artemis looked genuinely gobsmacked.
+
+“... just two,” Jake muttered, remembering the time he’d traveled to his Chosen reveal party with people from Earth and had been intercepted by Oras and one other Void God.
+
+“How and why?” Artemis asked, not even giving Jake any grace despite being tired from the whole bow ritual thing.
+
+“Well, Oras, because he blessed a friend, and I guess we’re both Perception fans,” Jake said. “As for the other one... it was just kind of there? Looked like a mess of shifting cubes or something, real weird that one. Didn’t even bring a gift like Oras did.”
+
+Admittedly, Jake was fucking with Artemis by adding that last part.
+
+“... what do you mean gift?”
+
+“For my Chosen reveal party,” Jake said as if it were obvious before proceeding to take out the void lollipop he’d been using to keep his Perception all topped up after every level up.
+
+[Vision of Oras (?)] – A small bead containing Records and energy created through unknown means by the Void God, Oras. This item has been bound to the Chosen of the Malefic Viper, Jake Thayne, and cannot be used by anyone else. Consuming this bead grants +125812 Perception. Directly consuming this item may cause adverse effects. Beware, staring into the small bead may grant you visions of the void.
+
+Also, yes, the amount of stats it gave from Jake instantly consuming it had more than doubled since he’d gotten it. In retrospect, Jake didn’t think this was because the item had gotten stronger, but because the system estimated Jake could get a few more stats before consuming the orb would inevitably blow him up... or implode him... definitely kill him.
+
+Artemis stared at the orb for several seconds before letting out a big sigh. “What can you even do with that thing?”
+
+“Get Perception,” Jake said, sparing Artemis the knowledge that Jake used it as a lollipop. He would save that one for later.
+
+“I want to ask more, but I won’t,” the goddess had seemingly surrendered. “If I were you, I would go get some rest. When you’re back in top form, testing out that new bow of yours seems pertinent.”
+
+“Definitely up for that,” Jake concurred as he prepared to go have a lie-down, but not before smiling at Artemis. “Just for a little, though. We have a dinner date to attend, after all.”

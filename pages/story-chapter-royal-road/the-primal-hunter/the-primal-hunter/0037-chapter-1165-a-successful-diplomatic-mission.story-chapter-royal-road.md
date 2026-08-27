@@ -1,0 +1,163 @@
+---
+id: 3013cbcf-b123-51a7-8c88-f193fe3e096a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1165 - A Successful Diplomatic Mission"
+slug: 0037-chapter-1165-a-successful-diplomatic-mission
+partOf: the-primal-hunter
+position: 37
+ownLength: 2898
+unit: words
+ownProgress: 2898
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2625487/chapter-1165-a-successful-diplomatic-mission"
+royalRoadId: "2625487"
+markedReadAt: "2026-06-29T19:30:26.077Z"
+---
+
+Having taken some time to gather his thoughts, Jake reckoned there were a few things he had to get done. Seeing as Artemis had left to talk with Yggdrasil and Nature’s Attendant about things getting official, Jake reckoned he should also inform his Patron of it.
+
+And, no, it had nothing to do with Jake wanting to at least brag a little to his scaled friend.
+
+When Artemis had returned and covered the palace in barriers, Villy had also been cut off as he already had a difficult time spying inside the territory of the Pantheon of Life, but now he was back to looking again, which also made it easier for Jake to mentally reach out.
+
+It didn’t take long before he got a response, either.
+
+“Well, well, well, what do we have here?” Villy said in an amused tone. “You look a little tired there, buddy. Been a long day, eh?”
+
+“Actually, it turns out that time flies when you’re having fun,” Jake shot back. “And am I to assume you’ve just been sitting around waiting for me to reach back out so you can hear all the gossip?”
+
+“Saying I’m just sitting around feels a bit hurtful, considering this avatar’s primary function is to communicate with you,” Villy responded. “But your curtness can be forgiven in exchange for a little gossip abou-“
+
+“Sounds like I’m gonna remain unforgiven, then, as I’m not gonna share any details,” Jake shut the notion down.
+
+“Jake, what do you take me for?” the Viper began, acting all offended. “Would I love to hear all the juicy details? Yes. Of course I would. Do I expect to? No, definitely not. Rather, I would like to know what happened afterwards, as I know something did happen.”
+
+“And why are you so certain about that?” Jake asked curiously.
+
+“You’re my Chosen. Our karma is linked. I felt a powerful shift in yours and a slight strengthening between my own and Artemis, and just now, also between myself, Yggdrasil, and Nature’s Attendant.”
+
+“We did have a discussion,” Jake confessed. “A serious one.”
+
+“So my guess was correct. Things have been made official?” Villy asked, though he clearly already knew the answer.
+
+“Yeah,” Jake nodded. “Though I hope you can respect that I’ll keep the details of the discussion between me and her.”
+
+“Fair enough, and totally what I expected,” the Primordial said, not even trying to pry. “I guess congratulations are in order?”
+
+“Thanks?” Jake responded, a bit unsure.
+
+“Are you happy with it? It’s not a small commitment, but something you have to actually take seriously. It’s also more than simply something between two people, but representative of the relationship between two factions. I guess what I’m saying is that you need to be as serious and dedicated to this as I believe Artemis is, or cut things short before it develops into something problematic,” the Malefic Viper said, far more serious than Jake expected him to be.
+
+He had thought this talk would be the Viper teasing Jake about getting a girlfriend, but the fact that even his snake god buddy took this so seriously really made it hit home that this wasn’t a small commitment.
+
+It was good that he had taken a few moments before gathering his feelings, allowing Jake to respond with an answer he was confident in.
+
+“I’m serious, too,” Jake said.
+
+“Do you love her?”
+
+“I... think I do? Maybe?” Jake said, having needed a second to answer that one. “Truthfully, I don’t think I’ve ever been in love before, so I couldn’t tell you definitively. I also know that my emotions aren’t exactly normal compared to other people, primarily on account of my Bloodline. But I do know for sure that I like her.”
+
+“I guess that’s good enough for now,” the Viper said, returning to his usual jolly tone. “In that case, I shall indeed congratulate you on bagging a hot wood elf Godqueen girlfriend! Quite the achievement, if I say so myself, especially for a C-grade. Damn proud of ya!”
+
+Jake smiled at Villy being back to his usual self. “Yeah, I caught a good one.”
+
+“And you won me a bet!”
+
+“... why am I not surprised you had a bet about that?” Jake sighed. “So, how much did Duskleaf lose?”
+
+“Duskleaf? I didn’t bet with him!” the Viper said in a happy tone. “No, I won one against Aeon this time around, so vastly superior haul as that guy can cough up a way better prize.”
+
+“Did you seriously bet with another Primordial on whether I would get into a relationship? Also, why the hell would he even agree to that bet? How did it even come up?” Jake asked, having many questions indeed.
+
+“The bet was whether you or that swordsman would manage to get into anything official with a god first. Not gonna lie, I thought I was going to lose, as your competition is frighteningly competent in that area, but luckily for me, he’s been too busy fighting,” the Viper explained.
+
+“You still didn’t tell me why Aeon would agree to a bet in that vein,” Jake pointed out, still having a very hard time seeing why a god of time would even bother betting about something like that, especially when the person in question only had a Divine Blessing.
+
+“Boredom?” Villy said, as if it wasn’t obvious. “Didn’t even take any convincing. He was on board right away, thinking it sounded interesting. Eternity is a long time, mate, something I’m sure any serious conversation with Artemis will have also touched upon.”
+
+“Yeah,” Jake nodded as he considered whether he should share the next part, but ultimately decided to. “And she kind of proposed an open relationship... and while I don’t have the statistics available, I’m pretty sure those tended to end up in disaster in my old world.”
+
+“Can’t really give you any advice on that front, besides repeating that eternity is a long time. I’m gonna be honest, I also feel like it’s her trying to show some concern towards you. You’re still just a C-grade and early on in your journey, and you’re bound to experience a lot of things as you grow, but most importantly, you haven’t lived for very long.”
+
+“Maybe it was her way of showing concern...” Jake wondered out loud.
+
+“You know how it feels like time passed a lot slower when you were a kid compared to now? That level of neural adaption will only increase, making time feel like it’s truly flying by. To you, any event happening still fills a meaningful part of your life’s story, while Artemis has experienced millions. It’s likely she doesn’t want to take anything away from you and limit your freedom in any way,” the Viper said, once more giving some serious advice.
+
+“Say, in the multiverse, is it considered common to have open relationships?” Jake asked after thinking a bit.
+
+“If you put me on the spot, I would say yes? Granted, it depends a lot on many factors, including race and culture. Some races don’t even understand relationships, but see it purely as a way to reproduce, while others are strictly monogamous. In other instances, people are brought together for political reasons, and in these situations, it’s very common for both to have lovers on the side.”
+
+Jake listened as the Viper continued.
+
+“If you’re talking more specifically about gods, it also differs. Take Valdemar, for instance. He’s been with Gudrun for so many eras and has no one else. Meanwhile, the Blightfather has had more partners than anyone would ever care to remember, including who knows how many wives throughout the years. However, one thing you see a lot with gods is that they very much separate relationships and reproduction as two vastly different things. To many gods, having children is not about emotions but about spreading their Records and Legacy to the multiverse. Due to that, many gods don’t even view the act of sleeping with a mortal as comparable to being with another god. I’ve seen gods get into fights to the death over one cheating on the other with another god, all while not having giving a shit about both parties producing dozens of children with mortals.”
+
+“That sounds messy as fuck,” Jake muttered.
+
+“Yet logical. Getting emotionally involved with every partner would be a great way for gods to burn themselves out. You can only fully invest yourself in a mortal partner and have them die on you so many times before you either become apathetic to it or learn how to protect yourself by only investing strong emotions in other immortals. Mortals simply die too fast to even enter emotions into the equation in most cases, which I strongly suspect is also the case for Artemis. I’d bet that if you told her you were interested in another god, she would object harshly and even get a little jealous. Meanwhile, she genuinely doesn’t give a shit about mortals, as chances are they’re either gonna die soon or you and this other mortal will have grown apart by the time you reach godhood.”
+
+“A bit morbid of a mindset to have, but yeah, I guess I can see the logic from an immortal’s point of view. Still, the casualness of which she spoke of open relationships took me by surprise,” Jake confessed.
+
+“If it’s worth anything, I seriously doubt she has any mortals, much less other gods, in mind either, nor will she even bother looking for any. I got out of Nature’s Attendant that she hasn’t had anyone else around for several eras, so my guess is she once more just wanted to be nice and not make you feel bad about things being one-sided, while in reality, she has zero interest in exercising that right. Think about it this way, you’re actually kind of the perfect partner with both the advantages of a mortal and a god at the same time! Besides, let’s not act as if you’d like her finding other partners, mortal or otherwise.”
+
+Jake continued to listen as he let out a loud sigh after the Viper was done. “Man, relationships really are complicated and there’s a lot of logic I still don’t understand.”
+
+He still had a lot of things to think about, it seemed, including the other more casual relationships in his life. Jake had been born and raised on Earth in a culture where monogamy was the only socially acceptable norm, and shedding that norm wouldn’t be easy, assuming it was even something he wanted to do.
+
+Because the Viper did have a point... Jake wouldn’t like Artemis coming to him and showing off some S-grade guy she’d taken a fancy to. He just hadn’t said anything because he hoped that wouldn’t happen any time soon, if ever. Objecting to it would also be very hypocritical. Hearing Villy say it had a low chance of happening eased his worries a lot, but if it ever did happen anyway... he’d worry about that bridge when he had to cross it.
+
+“Life’s complicated, and if you are in doubt, just talk to her. Genuinely. From what I know about Artemis, she’s a very curt and honest woman, and if she’s unhappy about something, she’s sure to let you know. You should do the same. She’s a god who specializes in Perception for fuck’s sake, I reckon she picks up on most things already, so hiding your true feelings on matters won’t do you any good. Not telling you to pour out every thought and feeling unprompted, but when asked, be honest,” Villy gave some more sage advice.
+
+“Alright,” Jake nodded, thankful for the Viper’s input. “Now, enough about that. I don’t wanna become one of those guys who only talk about their relationship all day.”
+
+“Damn, and I was just about to pry for details I know you aren’t going to give me... oh well, guess we’ll move onto the next order of business,” the Viper said as Jake heard him clear his throat, something that wasn’t a thing with telepathic communication.
+
+“I’ve just received word from Yggdrasil, and a new declaration of friendship between the Order of the Malefic Viper and Pantheon of Life has been successfully established and shall be announced publicly shortly. Partly because of your banger job as my Chosen on this diplomatic mission. As your Patron, I acknowledge your contributions to the completion of negotiations.”
+
+Jake was about to laugh and joke about how he’d kind of forgotten he was even part of an official diplomatic delegation when a system notification popped up in front of him.
+
+You, a mere mortal, have successfully formed a mutual bond of equals with a Godqueen, staying true to your Path as a Heretic-Chosen. You have done this under the direction of your Patron while serving the interest of the Order of the Malefic Viper, and successfully forged a stronger relationship with the Pantheon of Life – A new feat has been accomplished. Bonus experience earned
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 320 - Stat points allocated, +35 Free Points
+
+…
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 323 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 320 - Stat points allocated, +45 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 321 - Stat points allocated, +45 Free Points
+
+Jake stared at the notifications for several seconds before blurting out loud: “What the fuck?”
+
+“Huh? Why are you acting all surprised by getting a few levels for being a Chosen, successfully completing a mission personally entrusted to you by your Patron, all while doing it using your unique Path?” Villy said, definitely grinning on the other side.
+
+“That’s... bullshit,” Jake said, certain that the Viper had done some weird shit to exploit the system again.
+
+“How so? You’ve done great, and I’m being serious here. Both Yggdrasil and Nature’s Attendant like you and seem to have a lot of belief in your future potential. Enough for it to play a factor in them wanting to make a public declaration of friendship. Moreover, an undeniable bond has now been created between our two factions due to you and Artemis. When factoring in that the Pantheon of Life is recognized as a superior faction to the Order of the Malefic Viper, this is an impressive accomplishment, and if you had completed it less accidentally, I reckon the rewards would have been even better.”
+
+“This still feels like some kind of scam,” Jake insisted, feeling like those were four of his most unearned levels ever.
+
+“Think of it as you may,” Villy didn’t bother arguing. “A joint declaration of friendship will be announced, but don’t worry, it won’t contain anything related to you and Artemis. We’ll keep that under wraps for now, and it’s something you two can share on your own timeline and terms.”
+
+“Probably for the best,” Jake sighed. “And thanks. I could see it lead to a lot of annoying situations if everyone knew.”
+
+“Hey, we both know you’re gonna let it slip at inopportune times, leading to hilarity. I wouldn’t rob myself of that experience,” Villy teased him. “Seeing as you’re done with your mission, I would suggest returning to the Order of the Malefic Viper once you’ve received your new bow and wrapped up all your other projects. Once Palate is fixed, I also have the present from Yip waiting for you. Unless you planned on moving to the Pantheon of Life to spend time with your girl and have become the kind of person that neglects all his other friends just because he got into a relationship, that is.”
+
+“Eh, a lot of the stuff I’m doing. I may as well be doing back at the Order,” Jake shrugged. “So, sure, it shouldn’t end up taking that much longer. But as you said, I do have quite a few things I want to get done before leaving.”
+
+“No rush, no rush,” the Viper said casually. “You enjoy yourself now. I’ll get back to more important matters.”
+
+“Didn’t you already tell me the primary function of that clone is to stalk me?” Jake accurately pointed out.
+
+“Exactly, and when you’re talking to me, you’re not doing anything fun for me to observe,” Villy said, as if his statement made perfect sense. “See ya!”
+
+Before Jake could say anything more, the telepathic link was cut off.
+
+Alone once more – if one ignored the fact that Villy was still observing him – Jake sat back on the couch and let out a loud sigh. His head was spinning with complicated things he hated that he even had to think about. Luckily, he’d just been given something excellent to distract himself and force him to think about something else.
+
+It had come a bit earlier than Jake would have liked, as he’d wanted to make some more progress in his alchemy, but delaying it also didn’t seem like a smart thing. Ultimately, Jake reckoned he had enough Records even without fixing Palate, as he hoped and expected to get something good.
+
+Opening the system menu, Jake saw the message staring back at him as it was time for the final skill selection of C-grade.
+
+Heretic-Chosen Alchemist of the Malefic Viper profession skills available

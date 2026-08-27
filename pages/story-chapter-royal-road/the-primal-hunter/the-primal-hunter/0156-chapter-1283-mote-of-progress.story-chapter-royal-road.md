@@ -1,0 +1,131 @@
+---
+id: 98702499-14f1-5581-bc9f-e0a5762dda44
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1283 - Mote of Progress"
+slug: 0156-chapter-1283-mote-of-progress
+partOf: the-primal-hunter
+position: 156
+ownLength: 3199
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3214677/chapter-1283-mote-of-progress"
+royalRoadId: "3214677"
+---
+
+Sometimes, the best way to progress was to take a step back and reassess what one had to work with. Jake had already realized that directly using his Lesser Primeval Energy while crafting was far beyond his current abilities, making him switch to instead altering the ingredients.
+
+However, this wasn’t just as straightforward as infusing the energy into the raw ingredients. First of all, Jake’s purpose for practicing using Lesser Primeval Energy was to learn how to control the outcome, so he wanted to do more than just successfully infuse the energy without whatever he used it on blowing up. Making it not blow up was definitely an important step, but only the first one.
+
+Second, when Jake actually tried to infuse a bundle of grass, it still exploded. His problem remained very much the same as when he tried to use the energy in a mixture, just on a far smaller scale. Herbs, outside of very rare cases, didn’t consist of singular energies, but possessed several that were in balance. The grass that Jake used for potions had a strong water affinity, life energy, and a plethora of other concepts and energies perfect for making potions.
+
+When Jake then came and infused his energy, certain aspects were more affected than others, creating an imbalance, and boom, it went again. He could try to control the infusion far more carefully, but even after a few days of trying, he felt that it, too, was beyond his current abilities to do consistently.
+
+So, Jake took another step back.
+
+Rather than try to alter a herb, he instead attempted to infuse his Lesser Primeval Energy into the most basic ingredient in any potion:
+
+Purified water.
+
+It was the most basic of ingredients and something Jake could easily make himself from regular water simply by using Alchemist’s Purification on it. Using it, he removed anything he didn’t need and kept the pure, mostly affinity-less water for his potions.
+
+Which was pretty much all Jake ever used the skill for, and reading its description, it wasn’t like it was useful for much more.
+
+[Alchemist’s Purification (Inferior)] – Attempt to purify any alchemical ingredient. Purification can help remove unwanted properties from a component, making the finished mixture purer. Must have suitable ingredients. Must have suitable materials. Purification does not require any additional tools or equipment, but the skill’s effect can be amplified using certain catalysts. Adds a minor increase to the effectiveness of Alchemist’s Purification based on Wisdom.
+
+As an inferior-rarity skill, even when Jake was in C-grade, it was naturally pretty shit. From the description, it may have seemed more useful than it was, but the word “attempt” did a lot of heavy lifting, as in truth, if Jake wanted to use Alchemist’s Purification on any high-rarity item, chances were he would ruin it. Even in cases where he could successfully use the skill, the effects were minor, and honestly, he found it more useful just to remove unwanted properties during crafting using his destructive arcane energy. This became extra true after he got his Supreme Arcane Soulflame, making the process even faster.
+
+Still, it did its job purifying water, and if Jake ever wanted to go for a swim in a pool he suspected was dirty, a quick purification could also do the trick. For anything else, though, it was a dead skill.
+
+That’s why Jake had planned on merging it with one of his Malefic Viper Legacy skills at some point. Have it go the same way as Cultivate Toxin, though not necessarily merged with Touch of the Malefic Viper, even if that skill seemed the most likely candidate.
+
+Jake considered the limitations of Alchemist’s Purification and the role it played in his current abilities. Although it was largely underwhelming for rare or complex materials, its reliability with water was undeniable, offering a useful, if niche, utility in his arsenal. More than anything, the skill offered him absolute reliability when he used it on things it was actually good at. Failing to purify water wasn’t even an option, and if he used it on lesser materials, he also saw a one-hundred percent success rate.
+
+Building on this, Jake pondered whether the true value of Alchemist’s Purification lay not in its versatility, but in its absolute consistency with specific tasks. While other skills promised grander effects, few could guarantee flawless results every single time for their intended use. That certainty, even if limited in scope, was something Jake could definitely use, seeing the unpredictability and volatility whenever he used his Lesser Primeval Energy.
+
+Reflecting on this, Jake realised that having a skill that performed one function flawlessly was a rare asset to keep hold of. Sure, he could try to fuse it with Touch of the Malefic Viper, but what if he instead repurposed the skill to work with his Lesser Primeval Energy?
+
+Deep in thought, Jake opened up his system menus and went way back as he looked for something specific. A source of inspiration for what Purification could potentially become.
+
+He quickly found it, having to go way back to level 230 in his profession, where Jake had been offered an upgrade to Alchemist’s Purification. A skill he’d rejected at the time, but now he was definitely grateful it had even been an option.
+
+[Arcane Alchemist’s Grand Purification (Epic)] – Embrace your arcane affinity as you stabilize what properties you desire and destroy the unwanted. Attempt to purify any alchemical ingredient, reducing it to its most basic state while ensuring its stability. Arcane purification can help destroy unwanted properties from an ingredient, making it purer. Must have suitable ingredients. Purification does not require any additional tools or equipment, but the skill’s effect can be amplified with the use of certain catalysts. Adds a small increase to the effectiveness and chance of success of attempted purifications based on Wisdom and Intelligence.
+
+Compared to Jake’s current Alchemist’s Purification, this didn’t even seem that much better, and he strongly suspected that if he’d picked the skill, it would have undergone a downgrade to rare rarity during his B-grade evolution. He would be able to check if it did when he reached level 380 and got his first skill selection of B-grade... if he remembered.
+
+Anyhow, as Jake noted, this arcane version of the skill was effectively just regular Purification with his affinity added to it. Both served to remove unwanted properties and impurities, making an ingredient purer; however, there was still one big difference. The arcane version didn’t only remove impurities, but resulted in something Jake found very interesting.
+
+“...reducing it to its most basic state while ensuring its stability.”
+
+While Jake wasn’t necessarily a fan of the phrase “reducing it,” as that implied a loss in the transformation process, the core of this functionality was what sparked Jake’s curiosity.
+
+Primeval Origin Energy had the ability to stimulate objects, bringing them closer to their Origin, which really wasn’t that far off from reducing something to its most basic state of being. Of course, more often than not, the Origin was far more powerful than what something had originally been, making it conceptually far more potent than whatever an Alchemist’s Purification skill could ever pull off, but Jake still believed there were some similarities.
+
+Lesser Primeval Energy, as an inferior type of energy, which, funnily enough, had its Origin in Primeval Origin Energy, should have some of the same properties, even if the word Origin was gone from the same. While Jake wouldn’t expect any skill that he made to suddenly be able to reduce something to its Origin or even close to it, having it take just one step in that direction would be huge.
+
+Of course, any attempt Jake had made to use his Lesser Primeval Energy in any capacity so far had ended quite badly, which was why he also cared about the second part of what the arcane version of Purification introduced: stability. The wording of the skill suggested it ensured stability while reducing something to its most basic state, making it a transitional effect.
+
+Needless to say, being able to stabilize something during the Lesser Primeval Energy infusion process was definitely something Jake would need, so if he could find a way to combine the two...
+
+Having an idea of what he wanted to do and actually pulling it off were two very different things, though. He didn’t already have the Arcane Alchemist’s Grand Purification skill, which was probably for the best, as if he did, also introducing Lesser Primeval Energy into the process may have been harder, as Jake didn’t necessarily want to reduce something to its most basic state. Something very close to it, sure, but not exactly the same.
+
+To get the process started, Jake began with water. Having already purified it, he next attempted to infuse some of his Lesser Primeval Energy into it. Rather than make a small marble this time around, Jake conjured a cup of stable arcane energy and poured purified water into it before proceeding to put a finger inside.
+
+Infusing a tiny smidgen of his Lesser Primeval Energy, Jake mentally prepared himself to have the cup explode, but surprisingly, that didn’t happen this time around. Instead, as he poured in his Lesser Primeval Energy, Jake felt it simply seep into the liquid without doing much.
+
+As he continued, Jake felt that some kind of threshold, which would make the energy act by itself, was about to be reached, which was when Jake fully focused his mind and stepped in. Rather than allow the Lesser Primeval Energy to go haywire and likely cause another explosion, he carefully controlled it and made it merge with the surrounding water.
+
+Jake strained himself as he carefully allowed the Lesser Primeval Energy to fully fuse with the purified water, simply aiming to amplify whatever was already there. The process was slow, with Jake purposefully pouring in energy with incredible patience, and fortunately, his careful approach paid off. The purified water slowly started to be affected, and a powerful sensation began emanating from the cup.
+
+Feeling this, Jake was both elated, but he also couldn’t help but frown a little. Purified water was nearly entirely free of anything, including even its own water affinity, making it perfect for diluting liquids and serving as a perfect filler. But some small fragments of water affinity still remained, something he had only fully realized after he’d gotten stronger.
+
+Jake had honestly expected the water affinity that remained to be affected and be what rose to the surface to experience the most change, but instead, he found it pushed out and suppressed. Instead, the water started giving off a small glow, became absolutely translucent to the point where it looked almost invisible, if not due to minute amounts of light emanating.
+
+As for the liquid’s affinity now? None. Or, perhaps it was more accurate to say that it simply held the mana affinity. Jake’s Lesser Primeval Energy had transformed the purified water into what was essentially potent liquid mana. The glow given off was an expression of it actively rejecting any other forms of energy or affinities from affecting it, but it also represented it slowly leaking out energy, the liquid slowly returning to being purified water once more.
+
+“Can’t say that’s what I expected to happen,” Jake muttered, though when he thought more about it, didn’t this make sense? Even purified water had to possess some kind of energy, and for it to be pure mana was only to be expected. Through this experiment, he also confirmed something else.
+
+Without careful control and direction, Lesser Primeval Energy was incredibly volatile, almost guaranteeing an explosion when used without extreme control. Seeing this was honestly odd, as it felt almost intentionally destructive, as if it wanted to react and self-destruct both itself and whatever it interacted with.
+
+Except that wasn’t really the case. It was more that Lesser Primeval Energy was too potent in doing what it did. It wanted to bring about change way too quickly, always resulting in extreme instability, ultimately leading to all integrity breaking down and the energy scattering everywhere at once in an explosion.
+
+In that vein, it was very similar to Primeval Origin Energy, except Primeval Origin Energy felt a lot more... alive. Full of intent. It was so overwhelmingly powerful that, rather than provoke a volatile reaction, it simply forced change to begin, which could also lead to devastating consequences. Jake messing up Palate being a prime example.
+
+Lesser Primeval Energy was thousands, if not millions, of times weaker, but that also allowed Jake to at least exert some control. Even so, Jake’s confidence level wasn’t high in using it to do anything besides infusing it into water, which would just result in Jake creating liquid mana. Which was cool and all... but he could kind of just do that already by pouring pure mana into purified water in the first place. Producing pure mana wasn’t hard, but something all humans could do with a bit of effort and training, with Jake being particularly skilled at it. His Arcane Affinity did come about from pure mana, after all.
+
+Looking at the water Jake had infused with energy earlier, it had already stopped glowing after only a minute, with the powerful sensation it gave off fading in real time. After another thirty seconds, it was more or less back to being regular purified water, but Jake kept carefully observing it until all traces of his Lesser Primeval Energy infusion were gone.
+
+Nodding to himself, Jake repeated the experiment a few more times, aiming to get more familiar with successfully directing and merging the Lesser Primeval Energy with something else. To his relief, Jake successfully pulled it off over a dozen times in a row, and by scooping up some of the liquid mana and putting it inside a ball of stable arcane mana, he confirmed that the decay in potency came as a result of it simply passively leaking energy into the atmosphere. It could be viewed as the environment trying to equalize pressure, draining the energy from the liquid mana until its potency matched its surroundings.
+
+Once he was satisfied with his consistency using purified water, Jake moved on to something one step harder. No, not a herb or any other usual alchemical ingredient, but something with an incredibly stable structure without any noticeable impurities:
+
+Metal ingots.
+
+During his experiments with purified water, Jake had placed an order for some purified ingots to work on, and the order was quickly delivered, with the items teleported directly into his laboratory.
+
+Hey, if Villy wanted to actively spectate Jake’s alchemical experiments, he may as well make himself useful as payment for the viewing experience. It was definitely faster than using the token to place an order and then waiting for someone to deliver.
+
+The metal ingots Jake had ordered were all gold bars, as even after the system, gold had the wonderful property of being very non-reactive, while also possessing great mana conductivity. From what Arnold had said, there was a definite correlation between metals good at conducting electricity before the system and metals capable of conducting mana now, though it wasn’t a hard science. Plus, while gold was good at conducting mana, that was only when one compared it to other bottom-tier metals. Arnold’s many composite materials or alloys were far superior, with even the metals used far surpassing gold.
+
+Jake had chosen gold over those other metals for a good reason, though. He wanted it exactly because gold was a relatively low-tier material that also had the properties he was looking for.
+
+Following his success with purified water, Jake took one of the gold ingots and began slowly infusing his Lesser Primeval Energy. Once more, he exercised supreme patience as more and more energy entered the ingot. Jake was ready when the threshold was reached, and the reaction began as he directly controlled the Lesser Primeval Energy with as much precision as he could muster.
+
+From the center of the gold bar, a powerful sensation began to emanate, and in the very next moment, the entire ingot was flooded with energy. Jake gritted his teeth and tried to hold on, but he couldn’t control the Lesser Primeval Energy perfectly anymore. The bar began to deform and melt in places, with Jake doing all he could as the seconds ticked by.
+
+It ended up taking more than half an hour before things finally calmed down fully, and Jake let out a huge sigh of relief as he looked down at what had once been a metal ingot. He had avoided an explosion, but things definitely hadn’t gone as planned. The ingot looked broken, with all the metal having lost its luster. It couldn’t even be called gold anymore, and it was utterly bereft of energy.
+
+With disappointment, Jake ran his finger over the ingot, watching it fall apart in the process as what had once been gold turned to nothingness at a mere touch. Yet, as the broken ingot slowly disappeared in his hand, he felt something. With a finger, he carefully removed more of the broken gold until he saw it.
+
+There, in the center of the ingot, something gave off a small golden reflection. It was not larger than a speck of dust, if even that. To a pre-system human, it would have been invisible to the naked eye and required a microscope to even see, but despite how incredibly small it was, Jake couldn’t help but grin as he looked at it.
+
+After very carefully removing the rest of what had once been an ingot, he was left with only that small speck on his fingertip. The rest of the gold had turned into nothingness, but in its wake, it had given birth to something that not only Jake couldn’t help grinning at, but which he even felt the Malefic Viper carefully observe as he didn’t doubt that they both used Identify at roughly the same time.
+
+[Unstable Lesser Primeval Gold Mote (Legendary)] – A small mote of Lesser Primeval Gold. This item is unstable and will lose material integrity imminently. Unknown uses.
+
+Jake barely had time to see the message before the small mote let out a sound as it scattered into pure energy, dispersing instantly. Its existence had been short-lived, but Jake still couldn’t help but smile.
+
+It was definitely one step forward, and one thing was for sure: Jake definitely wanted the assistance of a system skill when trying to “purify” objects using Lesser Primeval Energy. Trying to freeform, it wasn’t going to be consistent anytime soon, and even then, he doubted he could ever be truly consistent.
+
+He also knew that while a part of him had hoped to just quickly bang out an upgrade to Alchemist’s Purification, that wasn’t going to happen, as Jake wanted to do this right. Alchemy took time, experimentation, and effort, something Jake wholeheartedly accepted, and he didn’t at all feel deterred as he picked up a second gold ingot to see if he could work on stabilizing the process.
+
+It was going to be hard, but when hadn’t Jake liked a challenge?

@@ -1,0 +1,147 @@
+---
+id: 876b9622-ce16-5657-86bc-c4bd45082e08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1241 - Runes of Golden Life"
+slug: 0113-chapter-1241-runes-of-golden-life
+partOf: the-primal-hunter
+position: 113
+ownLength: 2807
+unit: words
+ownProgress: 2807
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2981257/chapter-1241-runes-of-golden-life"
+royalRoadId: "2981257"
+markedReadAt: "2026-06-29T19:32:50.990Z"
+---
+
+Carmen parried the spear with her forearm, making it slide to the side as she closed the distance and elbowed the warrior in the chest. The guy let out a groan as he was pushed back, with Carmen pursuing to land another jab.
+
+However, before she had the chance to, an arrow struck her in the side and released an explosion of fire, throwing her off-course and forcing her to abandon her attack. She quickly assessed the situation and realized that while the spear warrior was the most dangerous person offensively, he was also the hardest person to take down in the opposing party.
+
+Quickly moving again, she avoided a flail that consisted of a long chain with a large spiked ball at its end that crashed down where she’d just been standing and circled the perimeter of the arena while looking for the damn shaman. After a couple of seconds, she detected him, and with a smile, Carmen infused her fist with power as she punched the ground.
+
+The entire arena erupted with rock and gravel as a humanoid figure was forced up alongside all the debris. The man quickly responded by making a few hand seals while pointing toward Carmen. Everything she’d just sent airborne suddenly began to glow with light before it shot toward her, several of the pieces merging in mid-air to create large boulders.
+
+Punching through several, Carmen closed the distance quickly, but once more she found herself stopped right before she wrapped her hands around the neck of her foe.
+
+Oh… right, second shaman.
+
+An odd aura suddenly surrounded her body, stopping all her movements as she heard the loud sound of chanting. For a moment, the world began to shimmer and change, everything warping as if she were being forcibly teleported into a separate dimension.
+
+It was a powerful skill, but sadly, the shaman had tried to use it on a Runemaiden.
+
+Several glowing runes lit up all over her body as she yelled, releasing a blast of energy that broke the spell apart. The first shaman manipulating the rocks had managed to get away, but the annoying chanting one wasn’t as lucky as the woman spat out a mouthful of blood from having her spell disrupted so violently.
+
+Carmen smiled as she propelled herself toward the shaman, who had formerly been hiding away. The spearman tried to help, but Carmen kicked the spear out of the way before throwing the guy toward an incoming arrow.
+
+The shaman desperately tried to stop Carmen again, summoning a web of chains, but the Runemaiden merely moved her hand through them, the magic within the chains breaking on contact with her skin.
+
+Wrapping her hand around the shaman’s throat, Carmen smiled and spoke. “Do you surrender or-“
+
+“I surrender,” the woman said. Carmen nodded and was about to speak again, but the first shaman and archer made their move, forcing the Runemaiden to just toss the woman to the side and dodge out of the way.
+
+Arrows fell from above, with several coming each second. Looking upwards, she saw the beastkin man floating up there, unleashing his bombardment of arrows. Dashing back and forth, she avoided them while focusing most of her attention on the shaman, who’d just finished a minor ritual.
+
+The man slammed a fist into the ground, and as he did, the entire land came alive. The rock and soil rose and shifted all around her, forming hammers and other weaponry that tried to hit her, mostly to constrain her movements. Neither the archer nor the shaman’s attacks were that dangerous to a Runemaiden, but she still had to be careful, because there were two combatants fully capable of hurting her.
+
+One of them showed her face soon after, as Carmen quickly had to dodge a club of stone to block a spiked ball on a chain flying in from the side. She was prepared for it, yet its power still ended up taking her by surprise as the Runemaiden’s arms buckled from the impact, and she was sent flying through several weapons of hard stone that scraped up her back.
+
+Smashing into the arena wall, Carmen wasn’t fast enough to get herself free before a Powershot struck her, actually managing to penetrate her skin and making her bleed. Just then, the spearman also struck, alongside the flail user, who swung down her chain from above.
+
+Seeing the many attacks incoming, Carmen decided these people deserved for her to get serious. The runes on her body began glowing again as they changed from a slightly blue hue to a red one. A rush of power went through Carmen’s body as she grinned.
+
+Right before the attacks struck her, Carmen smashed her two fists together, unleashing a massive blast of red, destructive energy. Her assailants were thrown off their game, allowing Carmen to quickly get the upper hand as she appeared in front of the flail user.
+
+The woman reacted quickly by holding up a large shield in front of her, but it mattered little. Carmen threw a fist into the shield and punched straight through as her fist continued into the chest of the warrior. Finally, her fist exploded, blowing a hole out the back of the warrior and sending them flying with half their center region gone.
+
+Despite this show of power, her opponents didn’t give up, and Carmen barely managed to avoid a thrusting spear aimed at her neck. With her increased speed, she tried to move in and finish off the second warrior, but the archer proved annoying once more.
+
+An arrow struck her arm right when she tried to land a blow, penetrating it, courtesy of her lowered defenses in this Runic Stance. However, striking her arm also proved detrimental to the spear warrior as he was still too close to her.
+
+Her entire arm erupted with energy after she was hit, sending out an explosion of destructive force that sent the spearman stumbling back. Despite the shaman trying to land his own spear of rock, Carmen managed to finally land a proper blow on the spear warrior, sending him into the far wall of the arena.
+
+Being free of the final melee combatant, the shaman could do little before he was punched into submission. Afterward, she finished the spearman, saving the annoying archer for last.
+
+Healers had already jumped in and extracted the injured by the time Carmen was done, and with a sigh, she released her Runic Stance, allowing the runes to fade away. On that note, not having a period of weakness after using her boosting skill was quite nice, though she was told that if she managed to unlock more powerful Runic Stances, temporary weakness upon expiration would be back on the menu.
+
+“You’ve gotten stronger, but you still struggle with ranged combatants if they can break through your defenses,” a voice suddenly spoke from behind, making Carmen turn around.
+
+“Yeah, I really need a better movement skill to close the distance,” Carmen agreed as she looked at the woman speaking. She was a human who stood about two heads taller than Carmen, with black hair in a ponytail so it wouldn’t get in the way. The woman didn’t wear much clothing, expressly to show off her body. Not to appeal to anyone in that way, mind you, she simply wished to show off the runic patterns covering her body with pride.
+
+“More accurately, you need to upgrade the one you already have and fully integrate what we spoke about last month,” the other Runemaiden said. “The Path of a Runemaiden is complete, and eventually, all your skills will find their Origin within the runes. Alright, maybe not all, but most of them anyway.”
+
+“Already working on it,” Carmen nodded, cracking her neck. “By the way, the Ruination Stance is definitely good for offense, but is it really worth using it most of the time? Seems needlessly risky unless you really need to speed up a fight or are battling an enemy with defenses you can’t break through, but if you are, it seems like a bad foe to fight in the first place.”
+
+“It is indeed risky, but as you said, also faster, and learning the concepts behind the Ruination Stance will allow you to empower your other offensive skills, even outside the stance itself,” the Runemaiden explained. “As you’ve no doubt noticed, something like Fist of Ragnarok relies on the same concepts to deal its damage. So yes, you might not find it wise to use the stance too much, but I would strongly advise you to use it regularly just for the training it provides. Also, let’s be honest, it’s fun to beat the living shit out of things sometimes, and the Ruination Stance is tailor-made for that.”
+
+“You know what? Fair point,” Carmen nodded, especially in full agreement with that last statement.
+
+“My points are always fair,” the other Runemaiden said before flashing a smile. “Now, that spar was a bit too easy for you, wasn’t it?”
+
+Carmen already knew what was happening as she steeled herself and put on a smile of her own. “Can you even call it a spar if you don’t lose a limb or at least break a bone or two?”
+
+The other Runemaiden didn’t respond with words, but instead simply disappeared, gladly showing off a far better movement skill than Carmen had; her speed was definitely also helped by her superior grade.
+
+Quickly spinning around to block, Carmen was punched and sent flying as she pushed down a cough of blood, a smile still on her lips.
+
+She loved these spars… even if she did usually end up with half her bones turned to dust by the end.
+
+“From the Lumenflight… a surprising choice,” the words echoed through the golden chamber. “Oh? She passed training with a good evaluation, too. Weak, yes, but not entirely hopeless.”
+
+“From what I learned, Yrelstromoz was someone who had shown talent when young but squandered it due to her own personality and groundless arrogance,” Aishalstromoz answered. “But indeed, she was a true member of the Lumenflight before her expulsion. Yet she was slain by the Chosen of the Malefic Viper.”
+
+“As expected,” the voice echoed once more as a golden shimmer went through the room. Without any forewarning, a humanoid figure appeared, wearing a golden robe with two even more golden curved horns adorning his head. “Your assessment of the Chosen was indeed correct.”
+
+“No, father, even I underestimated him,” Aishalstromoz shook her head. “I had predicted him to slay a dragon when he reached peak C-grade. Still a massive feat, yes, but from what I know, he was still more than ten levels shy when he succeeded.”
+
+The Dragon of Gold chuckled. “For my dear daughter to acknowledge a mistake so openly… You must be truly impressed.”
+
+“Is that surprising?” she shot back with a smile of her own. “I have met very few who made me feel instinctive fear, so it’s only natural he piques my interest. It’s my fortune to be in the same generation as him, as his mere existence will bring about my own growth.”
+
+Even if the current Chosen of the Malefic Viper was no danger and far weaker than Aishalstromoz, as she’d recently fully evolved to a True Dragon, she knew it was only a matter of time before he caught up. Her growth would slow down now that she was mature, while his proven speed of progress would only continue.
+
+“Should I be concerned that my daughter is showing so much interest in a man?” the Patriarch of the Regalflight asked, his tone making it impossible to tell if he was joking or being serious.
+
+Aishalstromoz couldn’t help but smile and shake her head at the question. She’d only met the Chosen of the Malefic Viper during Nevermore, during which their interaction had been brief. True, he had made an impression, and his ability to entirely ignore her passive aura skill and speak to her casually had startled her. Enough to make her blush, as she wasn’t used to people speaking so bluntly. However…
+
+“He’s not my type,” she shrugged.
+
+“A shame,” her father shook his head. “Yet personally, I find that answer soothing. Besides, best not to mix business and pleasure.”
+
+Aishalstromoz nodded, knowing what her father was talking about.
+
+“With that said, are you confident?” he asked her with raised eyebrows. “As a C-grade, he already killed a dragon. When he too evolves, and you both meet as B-grades, what will you do?”
+
+She smiled, the answer obvious. “Show him what a genuine True Dragon is capable of.”
+
+“Good answer,” her father chuckled yet again before turning serious as he looked to the side, his eyes gazing through the veil between worlds. “The Dragonflight has not gained much ground in the new universe yet, but as our kin starts to appear and it opens up, our time shall come… and the first frontier will be the battle to claim the powers of the Exalted Prima.”
+
+His aura flared, making Aishalstromoz’s knees slightly buckle under the pressure of the most powerful god amongst the nine Dragonflights. The primary reason why, despite being the fewest in number of all the Dragonflights, the Regalflight was known as the strongest. A being that could truly claim to stand at the apex… and also her overly doting father, who sometimes made it very hard to remember what he truly was.
+
+“Oh, sorry, sorry, forgot myself for a second there,” he said as he instantly suppressed his own aura and went over to her with an apologetic look on his face. He looked almost panicked after accidentally affecting her, making Aishalstromoz shake her head.
+
+“Dad… It’s fine,” she said, his face lighting up just from her being a bit more informal. Despite his current demeanor, she knew he was serious, though. With more B-grades appearing in the new universe and it opening up more and more, the time for the Dragonflights to make their power known was rapidly approaching, and as the most powerful member of this generation, it was Aishalstromoz’s job to stand at the forefront.
+
+He breathed in as the pulse of life filled his body. With an exhale, it echoed outwards as he felt them all. Lifting his hand, he summoned magic from within them all as life appeared. A human body identical to his was created, full of life, yet devoid of existence.
+
+A step toward something, but a failure in the new.
+
+The empty vessel breathed, had a pulse, and was by all accounts a living being, but the second it ran out of the inherent energy of life in its body, it would fade away. Like a human before the system arrived.
+
+In so many ways, life was truly flawed before the system compared to the new world. Life was finite by definition, and there was no true soul in the same way as there was now. For life to persist, it had to absorb the life of other things to sustain itself. One had to consume nutrients from once-living things, creating a vicious cycle.
+
+Now, that was no longer the case. As long as one had a soul, life was inherent. If the vessel was damaged, one didn’t need to consume resources from outside sources, but the soul would provide all the energy required.
+
+Evolving meant moving towards perfection, and one of the steps humans took was the removal of the requirement to eat. This proved that eating was an inherent flaw that had to be fixed. That consuming life to sustain life was a failed design.
+
+Yet… life remained finite. Even with all other flaws removed, the soul would one day run out of its ability to provide fuel. Another design failure, but one that only godhood could fix. Only gods could become immortal, after all.
+
+A universally accepted truth, yet one he refused to acknowledge. He knew how to fix the body. How to perfectly preserve life… but what was life without existence? Without consciousness to recognize it?
+
+Sighing, the man stood up. Despite his newfound power… it still wasn’t enough. But he would get there and create perfection.
+
+Walking out of the chamber, a monk was already standing outside, waiting with a smile on his face.
+
+“I congratulate the Chosen of the Daolord for his successful evolution,” the man said, cupping his hands as he bowed in recognition of the man who’d just stepped into B-grade.
+
+“Thank you,” Eron nodded toward the monk, feeling the connection of sparks as their lives were intertwined. Same as many others, with every inhale, he felt all his connections. All the life he shared. All the lives he’d touched… and as he exhaled, the billions of pulses echoed through his existence, marking them all as one.

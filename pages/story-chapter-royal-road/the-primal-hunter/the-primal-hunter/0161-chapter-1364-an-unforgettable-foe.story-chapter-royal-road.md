@@ -1,0 +1,141 @@
+---
+id: e7ca3783-c620-5e37-ae46-0f6365a569b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1364 - An Unforgettable(?) Foe"
+slug: 0161-chapter-1364-an-unforgettable-foe
+partOf: the-primal-hunter
+position: 161
+ownLength: 2791
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3742101/chapter-1364-an-unforgettable-foe"
+royalRoadId: "3742101"
+---
+
+Jake didn’t even know why he was doing what he did. Why would he randomly attack when there were no threats or enemies, and they were just waiting for a fifth person to appear and the trial to hopefully begin? However, despite this thought appearing, Jake didn’t stop as he enveloped his body in arcane energy and stomped hard, releasing an explosion of destructive energy.
+
+The Demon Prince, Valkyrie, and Chosen of the Heartsoul Daolord all retreated, giving shocked looks at his seemingly random attack. Beneath his foot, the ground cracked apart, and countless flowers were destroyed, creating a large crater all around him.
+
+“What are you doing!?” the Demon Prince yelled, flaring his aura as he frowned, joined by the other three.
+
+Jake genuinely didn’t have an answer. He didn’t know why he had stomped on the ground or what he’d hoped to achieve by doing so. Logically, he had no explanation, but that didn’t stop him as he raised a hand.
+
+“I don’t know, but I have a feeling I shouldn’t stop,” Jake simply answered as he shot out a beam of arcane energy that exploded when it hit the ground, destroying even more of the flowers.
+
+The three others exchanged glances before, surprisingly, the Chosen of the Heartsoul Daolord was the first to act as she spoke.
+
+“Burn.”
+
+Jake’s acts of destruction immediately looked like child’s play as flames surrounded them, the entire world seemingly set on fire. Floating into the air, he saw the flames extend into the distance on all sides, the golden flowers being consumed by the fire.
+
+Frowning, Jake wondered why everything was set ablaze, and so did the Valkyrie and Demon Prince as they stared at the Chosen of the Heartsoul Daolord in confusion. Jake was even about to ask why she did as she did, but before he could, she spoke yet again.
+
+“Time.”
+
+With her words, the crackling of the flames stopped as sound disappeared. It was as if a second layer of reality had been put on top of the world as they perceived two realities as one, and in the new one, Jake landed back on the ground, the flames were extinguished, and he watched himself lift his foot from the ground as it was restored, time rewound.
+
+That’s also when Jake noticed a wound on his arm, and when he did, the pain suddenly also arrived. He’d somehow forgotten the wound, making him frown even more. The others also looked around, confused, and, likely due to the efforts of the Chosen of the Heartsoul Daolord, they all had a moment of clarity.
+
+“Use any means to defend your minds!” the Demon Prince yelled as the crown on his head lit up with blue lightning, energy surrounding his body. Jake also used Arcane Awakening and Pride, with the Valkyrie summoning a golden helmet. Meanwhile, the Heartsoul Daolord’s Chosen closed her eyes and focused, the world around them continuing to rewind, picking up speed.
+
+As they were all doing what they could to shelter their minds, Jake suddenly spotted a scene that gave him pause. He saw Jasper appear, having seemingly left as he was watching a playback of the past. Seeing this, Jake immediately acted, as he also remembered the mark left by the little guy and felt his own Hunter’s Mark that he’d somehow entirely forgotten he could even feel.
+
+Destroying the mark, he notified Jasper, and right then, the magic of the Chosen of the Heartsoul Daolord came to an end, the vision of the past shimmering out of existence as they returned to a reality filled with an endless field of burning flowers.
+
+Confusion immediately struck them all in unison, but likely because they were steeling their minds and using skills to reinforce their mental defenses, the effect was, if anything, barely detectable.
+
+“Destroy everything in sight!” Jake yelled, and fortunately, no one bothered to think before acting. Attacks were launched in all directions and even towards the sky, and the entire world was filled with explosions a second later.
+
+Jake questioned why, but no one stopped acting, so he didn’t either. In fact, he sped up the destruction as he took out his bow and started shooting Arcane Arrow Storms in all directions. It seemed useless at first, but clearly something was happening as Jake suddenly remembered why he was doing what he was doing, and seemingly, so was everyone else as the Demon Prince yelled.
+
+“Keep going!”
+
+No one needed to be told that twice, and soon they succeeded. It turned out that destroying the golden flowers was only half the battle, as one of the Valkyrie’s golden spears of light pierced into the sky and, to the shock of everyone, seemed to hit something. The moment she did, Jake saw, or more accurately, remembered he could see an odd mass of energy in the sky. The others also detected it and looked up to see what appeared to be a massive jellyfish. From it extended countless small feelers that attached to the golden flowers around them, and which now also were entirely wrapped around the four of them present.
+
+Jake used Identify as he also raised his bow.
+
+[Virtual Mind Devourer – lvl 400]
+
+It was a creature Jake had never even heard of before, perhaps only of this world, seeing its name and all. Discovering a new species didn’t make him hesitate, though, as Jake instantly started charging an Arcane Powershot, with the three others also unleashing their own attacks.
+
+The Demon Prince pointed a finger towards the Virtual Mind Devourer as dozens of magic circles appeared behind him before proceeding to overlap and seemingly fold into one another, creating something far more complex before moving in front of his finger and merging into it.
+
+Not too far away, the Valkyrie called upon a massive golden lance that she took a throwing stance with as power revolved around her body. Finally, the simplest-looking attacker, the Chosen of the Heartsoul Daolord, held her hands in front of her chest before speaking, her words also serving as a call for everyone to unleash their attacks.
+
+“Cut.”
+
+A massive slash appeared across the sky, tearing into the jellyfish as Jake, the Demon Prince, and Valkyrie all attacked. The Virtual Mind Devourer was obviously not a creature made for direct combat and was unable to resist.
+
+The Chosen of the Heartsoul Daolord’s attack severed the creature in two as Jake saw his own arrow blow apart one of these two, with the Valkyrie’s taking care of the other. Finally, the Demon Prince’s beam exploded in the sky, creating a sphere of cracking cerulean energy, devouring the devourer entirely.
+
+Everything around them shook as the world itself began to crack apart like a shattered mirror. The sky was obliterated by their combined attack, and their opponent was gone, seemingly killed by it.
+
+Then the shattering stopped, and the four of them found themselves standing on barren ground in what seemed an entirely desolate landscape. There was no life, no flowers, nothing anywhere, except in one place.
+
+As they were all floating in the air, a small patch of grass lay roughly in the middle of them, surrounded by what looked like a feeble barrier. Within the barrier was what they’d all come for... a Ten-leafed Golden Flower of Abundance.
+
+Jake searched his mind and all his memories back and intact as far as he could tell. At least he remembered a fuckload of things he’d forgotten, including everything that had happened with Jasper, but also odd things. For example, he recalled Sandy, who had, for some reason, been erased from memory. Having forgotten the worm had perhaps also been tied to forgetting why the memory of what he’d been doing in the Central Domain was taken.
+
+“That was... something,” the Demon Prince muttered, shaking his head. “I have never even heard of such a creature before. Manipulating memories in such a fashion wasn’t even a possibility I’d considered.”
+
+“I concur,” the Valkyrie nodded. “Especially the part where our passive skills didn’t even seem to react to it. Or maybe they did, but we must have forgotten that they reacted in the first place.”
+
+“Doesn’t seem it worked that way,” Jake shook his head. “Now that it’s gone, I remember actually noticing the creature right away, but I immediately forgot I had, and its presence became some kind of blind spot. We are in agreement that it’s not a creature I had any prior knowledge of.”
+
+“To steal or seal away memories of us four at the same time in such a near-perfect manner quite frankly seems impossible, the more I think about it. It must have to do with this being a simulation,” the Demon Prince continued, having clearly been in thought while the others also voiced their conclusions. Well, besides the Chosen of the Heartsoul Daolord, who just nodded along for the most part.
+
+“That would make a lot of sense,“ Jake nodded. “I subscribe to the thought that it temporarily sealed away memories, and that if we’d left the simulation or died in any way, we would have gotten them all back. Well, that, or we would get them back once we killed the creature or otherwise found a way out of this space. Perhaps this world itself was tied to its power, seeing as the world changed with its death.”
+
+Jake spoke as he continued to wonder how the hell the creature had even managed to hide from him, given the existence of his Bloodline. Only now did he realize that in many ways, it hadn’t. Jake had truly detected it right away, and his intuition had constantly been subtly warning him that something was off, but he kept forgetting these things had happened. In fact, he kind of forgot to even trust his instincts for part of the encounter, which was a very scary prospect.
+
+Which isn’t to say that Jake believed the creature could fully fool him. One reason he suspected what it did had worked so well on him was its lack of outright hostility. It hadn’t really attacked any of them at any point or done any harm. Jake hadn’t lost a single health point from the encounter, and unlike the Minotaur Mindchief, the jellyfish hadn’t tried to implement ideas or false memories, making the four of them act in any way. All it had done was hide itself and seemingly sought to buy time.
+
+Buy time for what? Well, nothing, it seemed, because if some grand magic was building up to kill them all outright, Jake believed that would have served as a trigger for his instincts to warn him more. No, Jake believed that the creature had indeed only existed to waste their time, serving as a living piece of the puzzle to pass this trial.
+
+A trial that it appeared they’d passed, seeing as the Nine-Leafed Golden Flower of Abundance was right in front of them, ready to be reaped... which kind of introduced the next issue.
+
+There was only one flower and four of them.
+
+All of them had fallen silent as they looked at the flower swaying within the barrier, its leaves shimmering golden within, mixing and blending into one another, making it difficult to count them properly, though they all clearly now remembered how many leaves the flower they’d touched to enter this place had. Right?
+
+After a few more seconds, the Demon Prince cleared his throat. “Well, now, I do believe we’ve reached an impasse. Now, do allow me to start by saying we all did a good job passing the trial, but clearly, the reward must be claimed before we leave.”
+
+“And I’m going to assume you’ll graciously accept being the one to claim it?” the Valkyrie asked in a dry tone.
+
+“I wouldn’t reject the idea if that’s what you’re asking, but I’m also aware that you three won’t readily agree to such a proposal,” the Demon Prince chuckled as he looked at Jake. “Besides, the Chosen of the Malefic Viper was the one who first uncovered that something was amiss, and I do believe that without his insight, we would still find ourselves trapped.”
+
+Jake returned the demon’s look, fully aware of what he was doing. While it seemed polite and respectful to point out and recognize Jake’s contributions, it also put a mark on Jake’s back, as the Demon Prince had essentially just said that Jake was the one with the most claim to the flower, meaning he was the obstacle everyone had to get past if they wanted it.
+
+Also, pointing out who Jake was helped remind the two others that he was likely the strongest person present, meaning that if it came down to a fight, he was the biggest threat.
+
+While Jake could have been annoyed at the Demon Prince, he genuinely wasn’t, as he just smiled. “In that case, I’ll gladly take the burden of claiming the reward and getting us out of here.”
+
+He had to respect the game of the Demon Prince, who clearly wanted to contend for the reward. While the two were friendly, and Jake was still going to attend his wedding, that didn’t mean they weren’t also competitors in a system event. In fact, he would have less respect for the demon if he didn’t even try, especially seeing as they were in a simulated reality where death wasn’t a real consequence. If there was any place to fight and compete, it was in an event like this.
+
+“Now that doesn’t sound quite fair,” the Valkyrie spoke up as she smiled. “I’m not silly enough to think that I can beat any of you three, but I do find it objectionable for him to just take everything. Should at least be some kind of compensation for the rest of us, you know?”
+
+The Chosen of the Heartsoul Daolord nodded, as she also had a resolute look in her eyes. Despite being quiet and seeming meek, she was very much the opposite and appeared fully intent on competing for the loot. Unsurprisingly, really. Would someone who focused on cultivating Willpower really have a weak will?
+
+“Seems like we’re all throwing our hats in the ring,” the Demon Prince chuckled. “That being the case, how should we resolve this? What solution would everyone think is fair? I’m genuinely asking because I have a difficult time seeing how to resolve this in any peaceful way unless others are willing to back down and compromise.”
+
+Truthfully, they all already knew the answer to that one: this wasn’t going to be solved peacefully. For the second time that day, the Chosen of the Heartsoul Daolord surprised Jake as she took the initiative and spoke.
+
+“Repel.”
+
+Jake suddenly felt an incredible force pushing away from the golden flower, and it not only affected him but also the Demon Prince and the Valkyrie. At the same time, the Dao Sect disciple stepped down and disappeared, reappearing again in front of the barrier immediately after, using a very familiar skill.
+
+She reached for the flower, but before she could even touch the barrier, she had to retreat as a lightning bolt of blue energy struck the ground right where she’d been standing.
+
+Not only that, but from the bolt of lightning, the Demon Prince appeared and immediately turned to claim the flower himself, only to have an arcane arrow strike him in the side, sending him sliding across the barren ground.
+
+After shooting, Jake also sought to make his own move, but found himself forced to evade as the Valkyrie released a barrage of golden lances towards him. Jake clicked his tongue as the Chosen of the Heartsoul Daolord reached the barrier surrounding the flower again, but it appeared that she couldn’t simply reach through it. Instead, her hand slowly began to phase into the barrier, clearly demonstrating how it worked.
+
+I see, Jake concluded with a smile. Second part of the trial... battle for the loot.
+
+It appeared that it would take a while to get through the barrier, and no one present was going to let another spend that time just standing there, phasing through it. They all seemed to reach the same conclusion at the same time, and as one, four powerful boosting skills activated, a battle for the flower commenced, as-
+
+A loud cracking sound interrupted everything as the sky suddenly split open, and from what seemed like outer space, a massive version of a very familiar creature fell, making them all look up as they realized...
+
+It wasn’t dead.
+
+However, that wasn’t the most shocking, as latching onto this massive creature was a cute little cat-like creature, clawing away angrily at the jellyfish.

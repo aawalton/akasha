@@ -1,0 +1,129 @@
+---
+id: a3800a57-292d-59eb-b23e-5c121303b0f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1334 - Exploring New Territory"
+slug: 0208-chapter-1334-exploring-new-territory
+partOf: the-primal-hunter
+position: 208
+ownLength: 2824
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3543044/chapter-1334-exploring-new-territory"
+royalRoadId: "3543044"
+---
+
+Jake had already noticed it while he and Miranda used the Territory Manipulation menu, but damn, was this world flat. There was no elevation anywhere, no matter which direction Jake looked, no real plants, and nothing besides the unfamiliar short grass covering the ground. Even the soil was the same everywhere, with not even small rocks and the like mixed in. It was incredibly unrealistic, and the rest of the underground wasn’t any better either.
+
+With Pulse, Jake confirmed that the soil continued for roughly five hundred kilometers downwards, where suddenly, one would encounter a perfectly flat wall of stone. This wall of stone then continued downwards all the way to the edge of Jake’s Pulse range, and from the looks of it, could keep going for who-knows-how-long.
+
+There was no water, no caverns, caves, bones, stones, gems, ores, or anything else beneath their feet, making Jake wonder if there really was nothing to be found organically anywhere, or if everything truly had to be bought through the Territory Beacon.
+
+In either case, this world definitely felt incredibly artificial. Almost as if the system – or perhaps more accurately, the Exalted Prima – hadn’t really gone for realism at all. Jake wasn’t necessarily complaining, though. Even without the world seeming fake, everyone seemed to innately realize that everything was a simulation, which did make Jake worry about some things.
+
+Given his instinctual realization that this was all a simulation, would that mess with his Danger Sense, as technically, he was never in danger? Would Moment of the Primal Hunter successfully activate, as, again, no real danger?
+
+There were a lot of unknowns, and Jake hoped that everything would still work as usual, just as it had during the Challenge Dungeons in Nevermore. There, Jake had never been in true danger, yet all his skills had worked exactly as they were supposed to.
+
+As Jake explored, he saw some faint changes in the landscape from the direction he’d traveled, making him smile a little.
+
+Seems like Miranda is already hard at work, he thought to himself, feeling that he’d left the Territory Beacon in good hands.
+
+Continuing onwards, Jake only now realized just how large the Territory truly was. Sure, he had some idea from the Territory Manipulation, but it really hadn’t done the sheer scope justice.
+
+Jake continued to travel for over an hour at full speed before something finally started changing in the distance. Even then, it took Jake another one and a half hours to reach where this change began, as his view distance was quite frankly ludicrous, and that was all while Jake flew relatively close to the ground to ensure he could also scout if anything changed underground.
+
+The change Jake had seen was what appeared to be a mountain range that towered more than a hundred kilometers into the air. The mountains were all huge, and they seemed to form an almost perfect line, creating what was essentially a wall. What’s more, the mountains were covered with an odd fog that severely limited how far Jake could see.
+
+Flying upwards, Jake attempted to peer beyond the mountains, which worked somewhat. His Perception remained nerfed, but it was high enough so that Jake could somewhat brute-force through and still see for several tens of thousands of kilometers beyond the mountain range.
+
+What he saw was another totally barren plain. The mountain range was a few hundred kilometers wide and formed a substantial natural barrier, and Jake quickly guessed that this effectively marked the border between the two Territories.
+
+This felt more or less confirmed when Jake moved forward and encountered a large, invisible wall. Jake couldn’t detect it at all before he was a couple of kilometers from it, and when he closed in and touched it, a system message popped up.
+
+Warning! During the Preparation Phase, you cannot leave your galaxy’s Territory.
+
+So, yeah, Jake had found the border for sure. Of course, he still didn’t know for sure another galaxy’s Territory Beacon was somewhere beyond the plains ahead, but he believed he had a good method to find out.
+
+Continuing to fly upwards, Jake tested the limit for how far up one could go. The sky seemed normal and clear of clouds, making it seem as if he could just fly straight into space if he kept going.
+
+Yet after Jake had made it about two thousand kilometers up, he started to feel a change. Some form of pressure made it harder for him to ascend, as if gravity had suddenly increased. Fighting through it, Jake continued upwards for several thousand kilometers more, with the pressure growing the further up he went.
+
+At around the ten-thousand mark, Jake couldn’t fight against the tidal wave of pressure anymore unless he activated Arcane Awakening. Seeing as he had no intention of doing that, Jake stopped ascending.
+
+And to his surprise, he actually stopped. The moment he didn’t try to continue upwards, the pressure entirely disappeared, and when he tried moving to the side, it felt completely normal. However, if he tried to go upwards just a little, the pressure returned in full force. It was definitely a curious mechanic of this simulated world that gave Jake some idea, but this wasn’t the time for that.
+
+Instead, he used his newfound vantage point to try to see if he could spot anything beyond the mountain range. Unsurprisingly, he couldn’t, at least not using his usual vision.
+
+Fortunately for Jake, he had a way to improve it quite substantially.
+
+Activating Arcane Awakening, Jake felt all his stats spike by 60%, also significantly increasing his view distance. Not 60% further, as there seemed to be some kind of exponential effect on reducing view distance caused by the fog, but he could at least see a good third further than before.
+
+Even then, he failed to spot anything, making him pull out yet another card.
+
+Sight activated as Jake’s Perception experienced an explosive growth, but something else odd happened. Upon activating it, for a mere moment, Jake felt as if he saw countless lines filling the world, but they were gone just as fast as they had appeared.
+
+Jake frowned, but he didn’t have to dwell on this odd phenomenon too much, as he couldn’t keep Sight up forever. Squinting hard and trying to see as far as he could into the distance, Jake finally saw something. It was incredibly difficult to make out, but he believed he saw what appeared to be a small vertical object far in the distance, rising from the otherwise perfectly flat ground.
+
+That’s definitely a Territory Beacon, Jake told himself as he flashed a smile. Just seeing that Beacon gave a lot of information. First of all, the Territory he had been peering into didn’t even have half the radius of his own, assuming the Territories were all circular... which, when he quickly thought about it, they couldn’t be.
+
+The mountain range was a straight line, making him consider whether the Territories were instead square. When he had used the Territory Manipulation, his Territory had seemed circular, but now Jake believed he had actually only seen the current range of the Territory Manipulation. If that was the case, it also made a lot of sense why Jake thought the Territory was much bigger than it had initially appeared.
+
+Either way, Jake didn’t believe that another Territory Beacon would be placed close to a neighboring border, and if the Territories were square, hexagons, octagons, or some other shape like that, it still made the most sense that the neighboring Territory was in the center and as far from the border as it could be. Given that, the smaller size of this neighbor’s Territory meant they had to be a lot weaker than the Milky Way Galaxy. Granted, that was probably most galaxies, but he still felt it was nice to know.
+
+Also, despite not feeling like it was possible, Jake tried to be a little cheeky as he took out his bow and tried to shoot an arrow into the neighboring Territory. As could only be expected, it struck the invisible wall and disappeared into nothingness, confirming that he wasn’t allowed to act like long-range artillery and try to bombard his neighbor during the Preparation Phase.
+
+Boring, but oh well. Jake had a lot more things he needed to check out anyway, including the actual shape of his Territory.
+
+After deactivating Arcane Awakening, Jake started flying along the edge of his Territory, following the straight mountain range. After flying for about an hour, there was a change once more, but not within his Territory. Instead, he came across what he guessed was the border between two other Territories, as the mountain range started extending into the distance in a straight line, forming a T-shape with the existing mountains forming the border of his Territory.
+
+Based on the ninety-degree angle, Jake immediately guessed that all these Territories were square-shaped, and after flying for a few more hours, he pretty much confirmed this as he reached the corner of his Territory. Along the way, he spotted another border separating two Territories, indicating that Jake’s Territory was pretty damn big compared to all his neighbors.
+
+Jake noted down all the information he gathered about his neighbors as he spent most of the following day flying along the edges of his entire Territory, confirming its size while also taking brief breaks to peer into neighboring Territories. Towards the end, he even began to spot what appeared to be substantial terraforming or construction in the last neighbor he scouted, showing that everyone was hard at work.
+
+During his flight, Jake had counted eleven neighboring Territories, all differing in size, but all of them substantially smaller than Jake’s. If not, there was no way eleven could border his Territory, after all.
+
+Also, Jake had hoped that he would encounter another living being also trying to scout the border, but unfortunately, he didn’t spot a single other person. Either the invisible wall hid other Administrators, or no one else had been scouting at the same time as him. That, or they were far too busy dealing with other things and didn’t have the time to spend their entire first day of the Preparation Phase flying in a big square.
+
+With information gathered, Jake headed back towards the Territory Beacon, curious to see what Miranda and the others had been up to during his absence. Fortunately, it didn’t take him long before he spotted something on the horizon, and yeah, if nothing else, they’d sure been productive.
+
+As Jake, Miranda, and all the other Administrators from the Milky Way Galaxy entered the World of the Exalted Prima, so did others all across the ninety-third universe. Some entered with initially small Territories, others had huge ones from the beginning, but they all shared one common thing after realizing the nature of this event:
+
+Curiosity, and perhaps a bit of fear, about who their neighbors turned out to be.
+
+The vast majority of galaxies in the new universe were not monolithic, but were instead led by many smaller factions that had barely agreed on a Chief Administrator. Very rarely could one faction conquer an entire galaxy, though often one did have more power than the others, perhaps due to some divine backing.
+
+Having one of these galaxies as your neighbor was generally preferred over finding yourself faced with one of the major factions of the multiverse. Even among these factions, some were feared more than others, though.
+
+The United Tribes were generally not the kind of factions to act as a fully united front in events like these, meaning it was likely that should a galaxy be predominantly controlled by them, that didn’t mean one would effectively have to face the full faction if one got into a conflict. The Nine Hells and Dragonflights were similar in this vein, revealing one of the major weaknesses of a deeply split faction.
+
+In some ways, the Court of Shadows was also like these factions, at least when it came to sparking fear. However, rather than not counterattacking due to a lack of unity, they tended to simply cut their losses when they found themselves in a disadvantageous situation, usually viewing revenge as rather meaningless.
+
+Surprisingly, Valhal also wouldn’t be a bad neighbor... assuming one could beat them, that is. Chances were it would be a tough fight, but should one win, it was well known that Valhal would just accept the loss. Taking revenge for someone who lost an honorable fight would be a disgrace, and they would rather share a drink to remember the fallen who died fighting well.
+
+But then there were factions like the Altmar Empire. Should one invade one of their Territories, one could be damn sure they would try to funnel reinforcements there immediately, and should that not be possible, they would certainly move for what they would call – reparations. Be that in the form of utterly destroying the ones who attacked them first, or merely getting compensated.
+
+Factions like the Pantheon of Life and the Order of the Malefic Viper were also problematic to deal with, but they weren’t the largest factions. Powerful, sure, but their members were limited, and even if they wanted to get revenge, there was at least hope to fly under the radar or be too inconvenient to deal with. Still, one would avoid making them an enemy if at all possible.
+
+And then, there was the worst kind of faction. The kind of factions where fighting just one of their members effectively meant war, where they would pour in whatever resources were necessary to utterly destroy their enemies.
+
+In this camp, one found the usual suspects that everyone wanted to avoid making an enemy of. The Holy Church, Risen, Automatons, and, of course, the Endless Empire. These factions were all massive and incredibly powerful, and they were by far the most vengeful. Factions like the Holy Church also always moved with the assumption that they were morally in the right and that even if they exterminated someone who had only fought to defend themselves, they were in the right. To deny the Holy Church was a sinful act in itself, after all.
+
+Finally, there were the factions that simply made everyone hesitate. The odd ones that were powerful, yes, but equally weird and unpredictable. The Primordial Church fell under this umbrella; its members were usually seen as fanatical and sometimes even insane, which made it rare for them to organize and take over as the dominant faction, but it had happened in a few places where one or more particularly powerful figures had taken control in the name of the Primordials.
+
+Powerful, smaller individual factions associated with certain gods were also included here. Small factions controlled by Void Followers, followers of Eversmile, Aeon, Stormild, and many others who didn’t usually have big factions, but still had representation within this system event. No one fully knew their agenda or how they would act if provoked, making everyone vary.
+
+Oh, and of course, there was perhaps the most enigmatic yet powerful faction in the entire multiverse:
+
+The Dao Sect.
+
+A faction that rarely got involved in any kind of conflict, but mostly stuck to itself, even avoiding interacting with other factions for diplomatic purposes. However, that did not mean weakness.
+
+In fact, if there was one faction that even the Holy Church, Risen, Altmar Empire, Automatons, and Endless Empire would avoid getting into conflict with, it was the Dao Sect. Because whenever they had entered conflicts, it tended to end very swiftly. In nearly all cases, the other party would surrender when met with overwhelming power, and, as the mostly peaceful faction they were, the Dao Sect would accept the surrender and let bygones be bygones. Unless someone went too far, that is. In those few cases, the factions that crossed the line made history.
+
+All this knowledge of the multiversal factions was what everyone entered the World of the Exalted Prima operating based on. It was what they used to plan. However, perhaps they all seemed to forget one important thing:
+
+This was all a simulation. The usual rules and norms of the multiverse could be bent here, as death was not a true factor. Truly offending other factions by killing their members was impossible. Given that, what stopped the many factions from truly fighting with all they had? What stopped the geniuses of this generation from truly battling things out and learning from one another?
+
+In some ways, wasn’t that the greatest boon of this simulation? The ability to battle those who stood at the forefront of the generation in true duels to the death without actually risking killing one another? An invaluable opportunity for sure...
+
+One that perhaps even the most peaceful and usually passive factions would be willing to embrace, as they were known to enjoy spars.

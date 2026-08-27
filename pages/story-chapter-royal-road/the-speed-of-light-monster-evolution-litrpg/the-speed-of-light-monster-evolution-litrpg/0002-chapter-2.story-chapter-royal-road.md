@@ -1,0 +1,247 @@
+---
+id: 4f030e58-375e-5775-98f1-9be1ee803efe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2"
+slug: 0002-chapter-2
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 2
+ownLength: 2259
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525501/chapter-2"
+royalRoadId: "2525501"
+---
+
+Each of the monsters in the arena prepared to fight as the people who brought them in rushed for a wooden door. The same one they had brought them in through, and the same one Tachyon would be exiting if everything would go to plan.
+
+The door slammed shut, reverberating like a gong.
+
+To the left of her the swamp cat began using its signature skills along with the Two-tailed Ape beating its chest, a faint red glow surrounding it as it did.
+
+The swamp cat sunk into the ground, wading through the dirt as if it was water, its singular tail breaching the surface like a fin cutting through water.
+
+Tachyon trotted in place, keeping her legs limber and warmed as she waited patiently.
+
+The fight was commencing as most of the fights would when she was involved. The opponents underestimating her and-
+
+Just like that the swamp cat sprung into action, swimming through the dirt with purpose as it charged right for Tachyon.
+
+But she was ready for it. Activating her Charge skill she rushed forward, right for the stationary Two-tailed Ape.
+
+Charge - Common
+
+This skill increases your speed in your facing direction for a brief period of time.
+
+Costs a small amount of mana and stamina.
+
+Cooldown: 10 Seconds.
+
+Speed increase scales off Agility.
+
+The Ape’s eyes widened as it saw Tachyon barrel toward him, preparing itself for the impact with its arms spread wide.
+
+However Tachyon canceled the skill at the last moment, using both her forelegs to skid momentarily to then trot to the side, narrowly missing the grip of the monster.
+
+The swamp cat followed closely behind Tachyon, but was not so prudent in paying attention to its surroundings. The beast thought that the foal would be easy prey, wanting to end the fight quickly.
+
+A moment after Tachyon had dodged both the cat and the Ape. The ape had noticed the out of place furry tail sticking out of the ground. And with a guttural howl, used both hands to grab it.
+
+The strength of the Ape immediately showed as it ripped the cat from the ground like it was pulling a bushel of ripe carrots.
+
+The swamp cat was removed from its safe harbor under the arena, its face twisted in confusion and panic as it had now become the hunted instead of the hunter with nowhere to go.
+
+And without missing a beat, Tachyon repositioned for her own attack, her hooves pawing at the ground once more.
+
+Blood Doping - Uncommon
+
+This skill increases all stats by 10% for 2 minutes. And afterward leaves you in a weakened state for 1 minute.
+
+Costs a small amount of stamina.
+
+Cooldown: 3 minutes.
+
+Activating her Blood Doping skill she was now on a timer to finish off the two other monsters stuck in a brawl.
+
+She charged forward without the use of her Charge skill, but thanks to her increased overall stats she was much faster than before.
+
+The swamp cat and the Two-tailed Ape were locked in a struggle of sharp claws and brute physical strength. The swamp cat swiping and ripping in an attempt to remove themselves from the Ape’s grip. And the Two-tailed Ape swatting and throwing blow after blow in tumultuous effort to catch and hold the cat down to finish it off.
+
+And Tachyon rushed forward at the both of them unknowingly to make it even worse.
+
+Oh, she was going to make it a whole lot worse.
+
+Speeding forward as she built up momentum and galloping with more strength and speed with each stride she brought down the weight of a runaway carriage onto both of the monsters as she slammed into them.
+
+Before they could even react she had slammed her spiked hooves into the side of the Ape and the very unfortunate swamp cat that had been slammed to the ground just before Tachyon had arrived.
+
+With an audible crunch, Tachyon could hear the skull of the swamp cat splatter like a soft tomato. A familiar noise reaching her ears as she skidded to a stop.
+
+You have killed, Wild Swamp Cat Level 7. Experience earned.
+
+Congratulations! Your race level has increased to 10. +2 to AGI, +1 to STAM, +3 Free Points.
+
+New skills available.
+
+Threshold reached, new race evolutions available.
+
+Do you wish to see available race evolutions?
+
+Tachyon wanted nothing more than to just accept the new evolution and become stronger, but she had no idea if it would leave her vulnerable while in the middle of the fight.
+
+She still had room to breathe despite the Ape being her opponent at the moment. It was a mismatch for sure as she turned her head and saw the wound she had inflicted on the Two-tail Ape slowly heal.
+
+One of the two tails on the Ape glowed green and Tachyon saw the large gash her spiked hoof inflicted slowly begin to mend in front of her eyes.
+
+There was also the problem of how much higher level the Ape was compared to her.
+
+She had seen the day the Ape had gone from a regular Single-tailed Monkey, leaving the cells for a fight. And then returning as a Two-tailed Ape nearly tripling in size on its return.
+
+The crowd returned to a massive uproar as the Ape finished healing itself. Tachyon snorted in annoyance.
+
+The Ape’s healing ability was one of the reasons it was so favored for the match. That and the fact it was such a sturdy opponent compared to herself and the now deceased swamp cat. Both of which were more focused on agility and speed to deal quick decisive blows on their enemies.
+
+If Tachyon did not play the fight perfectly and also within the time her Blood Doping skill was active. She would certainly be outlasted and be pummeled to death.
+
+However, just as the Two-Tailed Ape finished healing, it began to bang on its chest once more. Only this time around it stopped abruptly, its face twisting in confusion as a line of crimson red began running down its open mouth.
+
+Was this what the man was talking about earlier? Tachyon thought, seeing an opportunity and taking it.
+
+The cooldown for her Charge was now over and she willed the skill to activate once more.
+
+Seizing the opportunity of the Ape’s confusion and whatever the man had done, she rushed forward, her gallops covering more distance than ever before as she combined both her skills to strike.
+
+In the last stretch she leapt forward, both her legs outstretched with her spiked hooves aimed right for the Ape’s chest.
+
+But the Ape regained its composure at the last moment, both of its hands snatching her legs.
+
+Tachyon bellowed a neigh as she was lifted into the air and slammed back down, her front legs bent in an awkward position.
+
+She felt the pain shoot up them, as she tried to stay focused through the searing agony.
+
+Over the crowd, she heard the muffled coughs of the Ape as it walked closer to her, grabbing at its chest, its face pale.
+
+The Ape loomed over her like a massive tree as it raised both hands shakily to the air, lines of red tracing down both sides of its mouth.
+
+Tachyon bucked on the ground, refusing to give up after enduring the insults, the pain, the confinement for so long. Her back legs kicked and whipped in an attempt to get up or rebuke her attacker.
+
+Be it a twist of fate, or whatever the man had done to the Two-tailed Ape for the fight. The Ape had become so exhausted so quickly that its body slumped forward and right into the trajectory of Tachyon’s desperate kicks.
+
+The metal affixed to the tip of her hoof found purchase in the side of the Ape’s chest, throwing it backwards.
+
+She continued to buck on the ground, unsure if she had won without the sound of the system’s confirmation.
+
+But when the Ape did not return to tower over her, she tried her best to bring herself upright. After some time, she did. Finding the Ape on the ground on its side, spasming.
+
+A sickly green liquid pouring from the Ape’s frothing mouth.
+
+Poison..? Tachyon thought.
+
+She had won the fight, but it left a bitter taste in her mouth. All the times she had won before, sure she had tricked the other monsters into underestimating her to some extent. But she had never had outside means to aid in her fight.
+
+It just felt somewhat wrong. Or unfulfilling.
+
+However, she did not have a chance to linger on the feeling. The roars of the crowd reached a crescendo. Many of them were unable to see that Tachyon had not actually struck a fatal blow, but the Ape had simply succumbed to poison.
+
+But she was running out of time now that the Ape was down and on its last legs. Soon the humans would be back to bring her to her cell and she would be confined once more. And she couldn’t let that happen.
+
+Not again.
+
+You have aided in killing, Two-Tailed Ape [F-Rank] Level 11. Increased experience earned for helping to kill a being above your level.
+
+New Title earned: Slayer of the Strong.
+
+New Title earned: Improbability.
+
+Congratulations! Your race level has increased to 11. +2 to AGI, +1 to STAM, +3 Free Points.
+
+New skills available.
+
+Threshold reached, new race evolutions available.
+
+Do you wish to see available race evolutions?
+
+She accented as quickly as possible, almost not giving the system enough time to list the possibilities.
+
+Elemental Broodsong Mare
+
+Strong Broodsong Mare
+
+Swift Broodsong Mare
+
+Lightfoot Mare
+
+Tachyon went over the four options as quickly as possible, seeing only one that would change her race entirely.
+
+What she wished for was a new beginning, an unimpeded life of freedom. To start over stronger than before. While the others sounded strong, they came with the same race of the foal that was locked away for years in a dark cell. Herself that came with scars, fears, and the past that had to endure until this moment.
+
+She knew what she was going to choose.
+
+Lightfoot Mare.
+
+Race evolution confirmed.
+
+Your race will be changed to Lightfoot Mare.
+
+Your race has increased to F-Rank.
+
+New skills have been obtained.
+
+Light Magic - Uncommon
+
+Leg Strength - Common
+
+Skill: Charge has been improved to, Light Charge - Uncommon.
+
+Please select from listed skills and skill upgrades.
+
+After Image - Common
+
+Keen Sense - Common
+
+Martial Kick - Common
+
+Pain Reduction - Common
+
+Passive Regeneration - Uncommon
+
+However before she was able to filter through the skills to select one for reaching level 10, her vision darkened.
+
+Is this what it feels like to… evolve…?
+
+Nick had nothing but the biggest shit eating grin on his face as he walked down the stairs to get to the arena.
+
+Again the little horse had pulled out a win. Well, thanks to some poison tampering, but she did make it look good just like he told her.
+
+It had been a good run. He would hype up the other monsters in the fights, then bet on the weakest horse. And it was easy as that to rake in three to one odds or better.
+
+He had made a hefty little profit if he had to say so himself.
+
+Nick passed the cells filled with the other monsters and strode with a little bit extra swagger than earlier as he opened up the doors to the arena.
+
+It was sad but the little broken horse would have to go to the proverbial glue factory.
+
+They had been keeping an eye on her for a while and she had made it to level 11 with this fight. Normally they would kill any monster that reached F-Rank. The only reason the Ape was able to live past his evolution and rank up was because Nick had slipped the promoter some extra mana coins to look the other way.
+
+And that was all so he could make his biggest score to date with the odds on this fight.
+
+Five to one odds for the horse to come in second or better. Ten to one that she would win the whole thing.
+
+Nick had made more money today than he had the whole tutorial when the integration had first come.
+
+He finally opened the doors and looked at the monster that made it all possible.
+
+The horse had gotten its legs broken during the fight, which made it much easier to secure her, so it was of no concern to Nick.
+
+It was so young when it first got here, its hair and skin a brown with light reddish hue here and there.
+
+Nick thought in passing that its real race was called something like- Broodsong?
+
+But the monster on the ground, seemingly asleep, was different. The brown skin and hair color was completely gone. It had turned to a more pale white. And outside of the splotches of blood from the fight, the specks of red were nowhere to be found.
+
+Nick approached cautiously. The horse’s head still slumped to the ground as he did. But once he got close enough, he saw the monster’s eyes snap open, two sky blue pupils staring back.
+
+They showed a level of intelligence he hadn’t seen in a monster before and he could swear he saw the monster smile.
+
+“Fuck,” was the last thing Nick said, as he inspected the monster.
+
+Lightfoot Mare Level 11 [F-Rank]

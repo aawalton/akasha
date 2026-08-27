@@ -1,0 +1,115 @@
+---
+id: c1612086-0493-5e67-a3d4-c8f33fe6f6a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1265 - Go Big Or Go Home"
+slug: 0138-chapter-1265-go-big-or-go-home
+partOf: the-primal-hunter
+position: 138
+ownLength: 2872
+unit: words
+ownProgress: 2872
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3098664/chapter-1265-go-big-or-go-home"
+royalRoadId: "3098664"
+markedReadAt: "2026-06-29T19:34:40.313Z"
+---
+
+What is the definition of a flame? Well, it’s usually the result of something burning or being ignited, often resulting in the production of heat. With the multiverse, flames didn’t necessarily need to produce heat, but could even be cold flames.
+
+Reika, the great-granddaughter of the Sword Saint, used a cold-affinity fire when she did alchemy, yet she was capable of producing the same results. In truth, heating the cauldron wasn’t actually an essential part of what the Alchemical Flame did. Instead, its most important feature was the ability to break down matter by “burning” it.
+
+Jake’s basic Alchemical Flame had been close to a regular flame of the fire-affinity, but the distinction still had to be made. The Alchemical Flame and the fire-affinity were not necessarily related to one another, even if most Alchemical Flames were of the fire-affinity. Reika was already an example of someone having an Alchemical Flame with not a trace of fire... and now there was also Jake.
+
+His Alchemical Flame wasn’t capable of innately producing heat. Instead, it was a really fucking weird flame that Jake had a hard time even calling a flame. Sure, it looked like one when he summoned and played around with it, but he quickly realized that was only when he used it in its destructive state.
+
+Mirroring Jake’s arcane affinity, his Soulflame also had two modes of stability and destruction, as well as the broad spectrum in between. When he focused on destruction, it became an incredibly potent flame, capable of effortlessly breaking down most matter. Jake tested it by summoning extremely durable metal ingots and similar objects, only to find that his flame could melt or turn them into dust in an instant.
+
+Before, his Alchemical Flame was already capable of breaking down these ingots, but it would take far longer and be messier. Speed and messiness were inherently linked, as the longer Jake took to break down a material, the more time environmental mana and even hidden affinities had to sneak in and pollute the material.
+
+Something like metal was usually in an absolutely stable state, only capable of absorbing a bit of environmental mana on its own terms, but once Jake started breaking it down, he would remove this stability.
+
+Metaphorically, it could be said that breaking down a material was like poking holes in it to sever the bonds holding it together, but by poking those holes, one also allowed unwanted energies to enter. Again, a bit of an oversimplification, but in broad strokes, that was more or less how it worked.
+
+That’s why the faster one was at poking holes, the less time it would take to reduce the material to being in a new “stable” state of matter. With Jake’s Soulflame being so fast, it was already good enough, but Jake also noticed that his Soulflame was capable of keeping unwanted concepts and energies out during the breakdown process. Not perfectly, but it did a damn good job in Jake’s opinion.
+
+Making things even better, Jake could push the flame toward stability, helping the material metaphorically “cool down” faster and settle into its new, stable state of matter.
+
+These two things alone made Jake realize that his Soulflame felt almost tailor-made for alchemy, though he was sure others had Soulflames capable of producing excellent results. Also, perhaps due to how potent his Soulflame was, it took a lot of control and attention to use it in its destructive flame state, as just a moment of fleeting attention could result in Jake just straight-up destroying whatever he was trying to break down.
+
+Jake recalled the lesson about linking Willpower with the Soulflame he had learned so long ago while in the Order of the Malefic Viper. He still vividly remembered it and the methods taught in the information crystal he’d received during the lesson. Now that he had a Soulflame of his own and didn’t merely have to imitate with his simple Alchemical Flame, Jake realized the true genius behind strengthening the link between Willpower and Soulflame, but also realized that much of what the lesson was about didn’t affect Jake.
+
+As a Supreme Soulflame, he didn’t need to have a connection that strong to get his intent across. Moreover, as the Soulflame was born from Jake’s arcane affinity, he had a level of natural control over it already and an unmatched sense of familiarity. Finally, Jake’s soul and degree of control over it weren’t at a level others could relate to. After his lesson with the First Sage, Jake’s control over his own soul had risen to a new level, and seeing as the Soulflame had merged with Jake’s soul fully, using it was effortless.
+
+Oh, yeah, and then Jake had an absolutely stupidly high Perception stat. That also helped. More Perception always helped.
+
+Moving on to Jake’s experimentation with his Soulflame, he tried taking it in the direction of becoming more stable. At first, introducing more stability into the Soulflame only weakened its ability to break down matter while also making it easier to control. It was more or less the lever he could pull to speed up or slow down the process when breaking down materials, while giving him more delicate control. Sure, he could also just weaken the flame by pouring in less energy, but by merely switching between the states of stability and destruction, Jake could keep the energy output entirely stable, introducing less variance when crafting. Switching between stability and destruction was also a lot faster than increasing or decreasing the energy he poured into the flame, especially when it came to reducing the power output, as it always took a bit for the flame to “cool” itself.
+
+As Jake moved the Soulflame toward stability, it began to lose its ability to break down matter, becoming more like an isolating physical force while still retaining the state of a flame. Jake could summon it and use it almost like telekinesis by wrapping objects in flames, which both felt and looked incredibly odd. It wasn’t just something to use as a parlor trick, though.
+
+Jake realized that, due to the nature of the flame, he could use it to isolate certain ingredients or even parts of something he was crafting. This was something Jake already actively did when doing alchemy by just wrapping ingredients in stable arcane mana during the crafting process, but using his Alchemical Flame to do so would be far more efficient. What’s more, usually when he wrapped things with stable mana, he had to constantly keep an eye on those ingredients when breaking down everything surrounding them, but now Jake could use the same flame to do both.
+
+This shift between stability and destruction didn’t have to affect the whole Soulflame at the same time, but could only target specific parts or sections of it. Moreover, Jake could split his flame entirely into different wisps that could do independent things, only limited by Jake’s own ability to control them.
+
+Shifting the flame even further toward stability, it kind of stopped even being a flame. When pushed all the way, the Soulflame became incredibly hard to control, and even moving it a little took so much effort that, after a while, it turned entirely solid. When in this state, Jake effectively created a crystalline Soulflame sculpture that looked kind of cool, but what the hell would one need a wholly solid Soulflame for?
+
+Well, Jake had some ideas, but first, he wanted to test something else: combat applications of the Soulflame.
+
+Not all Soulflames were made for combat, and if they were, they tended to be worse at alchemy. Of course, it was entirely possible to have Soulflames capable of both, and especially Supreme Soulflames were known to often excel in both alchemy and combat.
+
+Villy had mentioned once that Duskleaf, being the great alchemist he was, also had a mean Soulflame if he ever had to fight someone. This wasn’t that surprising, considering he was a god and all, but it did tell Jake that it was entirely possible to have a Soulflame that could do both.
+
+Seeing as Jake’s arcane affinity was pretty damn awesome in combat, Jake entered his experimentation with high hopes. He even began envisioning himself descending upon his enemies, wrapped in arcane flames as he raised a hand and unleashed a wave of flames that disintegrated everything in its path.
+
+With great excitement, Jake started experimenting and quickly confirmed that he would indeed be capable of unleashing destructive waves of arcane flames using his Soulflame, successfully destroying the land... all while doing little to no damage to anyone caught in the attack.
+
+Yeah... Jake quickly came to realize that while his Soulflame was pretty damn awesome at destroying passive energies, when it came to active energies – also known as energy linked to or controlled by another person – it did borderline fuck-all. Sure, it could do a bit of damage, but Jake could do more just by summoning a flame of arcane energy using freeform magic.
+
+But Jake still had hope! While it was true that his Soulflame sucked at harming others, his arcane affinity had always been incredibly durable when fully leaning into stability. Jake had even confirmed he could turn his Soulflame entirely solid, so what if he created a wall made of his Soulflame to-
+
+Never mind, still worse than freeform magic.
+
+Jake’s dreams of using his Soulflame as another arsenal for combat were snuffed out quickly, making him shed a silent tear. He tried several more ideas, but all of them were dead ends.
+
+Sadly, he just had to conclude that when it came to combat, his Soulflame was borderline useless. The only possible usage he could find for it was to create an arrow from his Soulflame and shoot it at something made from environmental mana to break through it easily, but damn was that niche.
+
+Not all hope was dead, though. Jake knew that it was possible to get skills that would allow him to use his Soulflame for combat, which meant that it should also be theoretically possible to learn how to fight with it using his own insights and abilities, given enough time. Perhaps he could find a way to change the special environmental-dismantling concept to be better against non-environmental mana, but alas, something like that would be a tall order.
+
+Moving on from combat applications, Jake returned to one idea he had for alchemy. When he noticed his Soulflame’s ability to become entirely stable, Jake also noticed something else. When it was in its fully solid and crystalline state, Jake could relinquish all control of it, and the Soulflame would just... stay.
+
+He could mentally reach out to reclaim control, but he didn’t have to actively keep it in its stable state. It was so stable that even without Jake, it would remain, something he’d never heard about Soulflames being able to do before. All summoned energy would leak some level of energy into the atmosphere, but Jake’s stable arcane mana was capable of leaking nothing at all, which was why he guessed it worked.
+
+Jake tested this a few times, and quickly, he had something he wanted to test. Something that would allow him to do alchemy in a rather unconventional way: without a cauldron. Okay, technically, there would be a cauldron, but not a regular one.
+
+Cauldrons in alchemy played very important roles and did quite a few things, but they all boiled down to granting the alchemist control over their crafting environment. Cauldrons could regulate heat and actively assisted in distributing energy infused into the creation, but they also importantly helped keep out anything unwanted from an in-progress craft. All cauldrons of any value were full of formations and whatnot to keep what was inside contained while keeping out unwanted energies and concepts from the outside.
+
+As mentioned, ingredients were prone to contamination during their refinement, so it was essential to keep the process isolated when breaking down materials and extracting the desired energies into the mixture. For low-level alchemy, this interference from environmental energies usually wasn’t enough to cause any issues, but when dealing with harder crafts, it became essential to limit all outside factors.
+
+That’s why you usually needed a good cauldron when doing alchemy, and Jake was exactly the same. He needed the formations on the cauldron to ensure he could properly infuse the mixture with energy and successfully go through all the steps of the crafting process... but now he believed he’d found an alternative.
+
+The idea itself seemed silly at first, but the more Jake thought about it, the more it seemed possible, so he got to work. Splitting off and using a piece of his Soulflame, Jake started turning it incredibly stable while still keeping it moldable. With great effort, he shaped the Soulflame into that of a cauldron before pushing the Soulflame to be fully stable.
+
+Jake nodded in satisfaction before taking a deep breath and putting his theory to the test. From his spatial storage, he took out the ingredients for a mana potion and began using his crystalline Soulflame as a cauldron, adding the ingredients.
+
+He couldn’t help but smile when he effortlessly infused energy into the mixture through the inner walls of the Soulflame. As the Soulflame was connected to Jake’s soul, he could use his Soulflame as a medium to infuse energy into things. With little effort, he could even make the sides of the Soulflame cauldron summon even more of his Soulflame to occupy its insides.
+
+It took a bit more concentration than usual, but after about half an hour, Jake successfully used his Soulflame cauldron to craft a mana potion, and what’s more, its quality wasn’t even lower than when he used his actual cauldron.
+
+To ensure it wasn’t just a one-off, Jake proceeded to craft several more potions using the Soulflame cauldron, doing so without much issue. High on success, he tried to make a few poisons too, and once more found himself able to make them, though he did notice some issues as the difficulty of his craft increased. When he tried to craft a Bane Poison, the Soulflame cauldron proved too much of a limiting factor, making Jake fail the craft.
+
+From this brief experimentation, Jake concluded that while he could craft using a Soulflame cauldron, it was harder than using an actual cauldron. For something like potions, it wasn’t a limiting factor, but when the craft got complicated, he really needed those formations inscribed upon cauldrons. Plus, it did take a bit more effort to infuse energy through his Soulflame rather than just using his hands placed on the sides of a cauldron. So, yeah, he would have to stick with a real cauldron when crafting anything that actually proved challenging.
+
+With this being the case, Jake’s idea of using his Soulflame to create a cauldron perhaps seemed dead in the water... yet Jake considered his experimentation a great success. Sure, he couldn’t replace his cauldron with one made from his Soulflame – at least not yet – but he had confirmed it was possible to use it for easy crafts.
+
+Jake knew that when it came to alchemy, one of his significant advantages was his consistency. Jake had an insane success rate compared to everyone he read about, and he couldn’t even remember the last time he had failed to craft a regular potion. That’s why he dared to do something perhaps no other alchemist would even consider.
+
+Cauldrons were all designed to be nearly the exact same size to help alchemists stay consistent when crafting, and because they were the perfect size when trying to craft. It wasn’t too small, allowing it to house all the ingredients comfortably, but it wasn’t too big either, making it harder to control everything inside.
+
+However, the pot’s size meant that batches were relatively small, and it was rare to get even ten bottles from a single successful craft. Again, not a problem under usual circumstances, as making the cauldron bigger also meant that every craft became riskier. Failing a craft meant losing all the ingredients, so if one used a bigger cauldron, the failure rate not only increased significantly, but the loss in resources would also be far worse.
+
+Jake didn’t fear either of these drawbacks... which was why he did something many other alchemists would judge profoundly stupid, though he was sure Villy would appreciate it.
+
+Using his Soulflame, Jake started forming a cauldron again, but instead of making it the regular size, he expanded it. He kept growing it until it reached several meters tall, looking more like a giant vat than a cauldron.
+
+With a smile, Jake stabilized the entire thing, making what he temporarily named his Soulflame Mega Cauldron. Once his monstrosity of alchemy was ready, he filled the entire thing up with water before proceeding to dump shovel-fulls of herbs into the mixture, his giant grin never fading throughout.
+
+And that was how Jake managed to create a market-distorting potion production facility in the cellar of his lodge. By going big or going home... and seeing as he was already home, it was an absolutely flawless plan.

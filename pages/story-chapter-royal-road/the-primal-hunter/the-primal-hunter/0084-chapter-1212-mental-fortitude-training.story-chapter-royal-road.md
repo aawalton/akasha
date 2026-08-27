@@ -1,0 +1,125 @@
+---
+id: 4d7aa327-5ccb-5d02-9da5-5cc9d280033b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1212 - Mental Fortitude Training"
+slug: 0084-chapter-1212-mental-fortitude-training
+partOf: the-primal-hunter
+position: 84
+ownLength: 2682
+unit: words
+ownProgress: 2682
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2815445/chapter-1212-mental-fortitude-training"
+royalRoadId: "2815445"
+markedReadAt: "2026-06-29T19:31:55.636Z"
+---
+
+Mental fortitude wasn’t a stat in the system, even if it was most certainly empowered by Willpower. Yet it remained extremely important and was a trait many factions sought to train their young talents in, as it was so important for reaching the peak.
+
+The way one usually trained mental fortitude was to experience highly distressing situations and gradually becoming more accustomed to them. Other times, it was merely to continue doing the same task over and over again, soldiering through the boredom while ignoring all distractions to keep going as long as one possibly could.
+
+However, the best way by far to have high mental fortitude was simply to be born like that or to have cultivated a mindset capable of handling distress and uncomfortable situations to an extreme level.
+
+Jake had never had to actively train mental fortitude and was a brilliant example of someone with high inborn mental fortitude, in part due to his Bloodline. All the way in the other camp was the Sword Saint, who had slowly become the person he now was and had a level of mental fortitude Jake wouldn’t want to challenge.
+
+But, having high mental fortitude didn’t mean one couldn’t still train it… and oh boy did Jake get in some mental training that day. He had been incredibly nervous before even stepping onto the teleportation circle and appearing in the auditorium, and after he’d gotten there, things had only gotten worse.
+
+Having a thousand people stare at him was already stressful, and unlike all other times where Jake was the center of attention, he actually had to do something. Moreover, what he had to do wasn’t just some brief speech or whatnot where ultimately what he said or did wouldn’t matter in the grand scheme of things.
+
+Jake’s only choice was to stabilize his mind and simply start teaching, believing in the plan he’d made. He had chosen the topic in question after very careful consideration, and he genuinely believed he had some valuable insight on the topic, courtesy of his rather unique Path as an alchemist and caster.
+
+The alchemy profession didn’t usually give much, if any, Perception. Shit, Jake’s own profession didn’t provide a single point in Perception unless he invested the Free Points it gave.
+
+This often resulted in alchemists and even mages having relatively low Perception as they needed many other stats instead. But that didn’t mean there weren’t those out there with high Perception while also doing alchemy. Many of the beastkin races gained a lot of Perception, and Jake found it a shame if they didn’t even know how to make proper use of it.
+
+Not to say that what Jake talked about required that much Perception in the first place. Even with low Perception, one could infuse a magic circle using one’s presence if it was small enough.
+
+Ultimately, Jake did realize that this lesson likely wouldn’t be for everyone. In fact, it would likely only prove useful for the minority, with the rest just considering it an interesting method at most.
+
+A small part of him did fear that he could lead some of the students in the wrong direction and make them mess up their Paths to try to mimic Jake, but all he could really do about that was trust these D-grades and their judgment.
+
+This was just one lesson among many they would experience during their lives, and many of them also had dedicated mentors or masters who taught them, which would surely help them adjust if Jake had somehow led them astray.
+
+These members of the Academy were not like Temlat. Jake was not their only lifeline and source of guidance. He was just another opportunity on their long Paths, and if they were so affected by Jake’s singular lesson… well, maybe they were the ones who needed to train their mental fortitude.
+
+The lesson continued more or less as Jake had planned, even if the experience turned out to be even more harrowing than he had feared. Jake was hyperaware of every single person looking at him, and he couldn’t help but make minor adaptations whenever he saw too many people frown or continue with an example just a little longer if too many had eyes full of interest.
+
+Jake had purposefully structured his lesson to have a lot of practical demonstrations where he would also unleash his aura upon the room. He’d done this as he wanted everyone present to at least benefit somehow, even if the topic in question proved useless to them.
+
+He was fully aware of the benefits associated with experiencing his presence, and while the effects wouldn’t be that profound for the students who only had a few hours with Jake, it was still something, especially when coupled with the plethora of Records they would gain from merely being in attendance.
+
+About two hours into the lesson, Jake suddenly spotted something. During all of his examples and demonstrations, quite a lot of the people present had tried to follow along and do it themselves, but none had fully succeeded… until now, that is.
+
+A beastkin woman in the crowd had followed along as Jake had summoned a smaller magic circle meant to summon a barrier for instant defense. She was just one of hundreds, but compared to all the others, her presence managed to fully envelop the entire magic circle as she successfully perceived the entire circle before infusing her mana.
+
+Instantly, it activated, summoning a simplistic barrier of pure mana. She seemed surprised for a moment, and Jake genuinely sympathized with her as her feat hadn’t gone unnoticed. Jake didn’t make matters better with what he did next either.
+
+“Congratulations, you seem to have a knack for this,” he said in a casual tone to try not to be too intimidating. “May I know your name?”
+
+The poor beastkin woman looked incredibly nervous as she didn’t even dare to fully look up as she answered in a small voice. “Chalette, Lord Chosen.”
+
+“Good job, Chalette, and once more I congratulate you,” Jake said with a smile as he waved his hand and shot up a token toward her. “A small gift for your achievement. Keep it up.”
+
+She slowly took the token that stopped right in front of her, the beastkin’s hands shaking as she did so. Jake showed some mercy as he redirected attention from her again with what he said next.
+
+“It’s just some points, and should others also prove themselves, there’s more where they came from. Now let us continue…” Jake moved on as the envious gazes soon left Chalette and returned to focus on Jake.
+
+The token he’d given was just a minor one that he had over a thousand of stored away in his inventory in preparation for this lesson. All of them had points that could be absorbed by the Academy Tokens of all the students present, and he’d decided to get them to have some kind of incentive for those who did well.
+
+This was naturally something he’d learned from observing other talented teachers within the Academy. These points were one of the things that Jake had nearly forgotten even existed, but to other students, they were absolutely vital. Attending lessons or buying alchemical ingredients had a point cost; it was just Jake who had a special token he’d been given from Villy with infinite points.
+
+Jake’s reward clearly had an effect as more and more students tried to follow along whenever Jake made any examples. A few of the students present also found success, and Jake even purposefully dragged on some of the easier examples to give more students a chance to succeed, after which he would give them rewards.
+
+After this first success, which also marked the first time Jake had directed and interacted with one of the students present, he felt that things had gotten… easier. He felt less nervous and was more willing to adapt his lesson plan to try to make it more beneficial to all those present.
+
+An unintended consequence of this was that by the time they reached the three-hour mark, which was meant to be the end of Jake’s lesson, he wasn’t done. Usually, what teachers would do in these instances was to just cover what they didn’t have time for in the next lesson, but there wasn’t a next lesson.
+
+In instances like these, where it was one-off lessons taught by experts or guest lecturers, what they usually did was just to continue. If this were Jake’s university days, he would have expected half of the students present to be looking at the clock while already halfway out the door upon reaching the scheduled end of the meeting, but not a single student present looked like they had even noticed how long it had been.
+
+Seeing this, Jake ended up doing something he’d never expected to see himself doing… he purposefully chose to stay in a social situation he found uncomfortable. He could have tried to wrap things up quickly, but instead, he merely continued with his plan to cover the rest of the lesson he’d planned.
+
+In retrospect, Jake had definitely over-prepared. He’d planned the lesson to be more or less exactly three hours, but that was under the assumption that Jake spoke pretty quickly, and it didn’t leave much room for all the practical demonstrations, nor any kind of interacting with the attendees. He’d desperately wanted to avoid making the lesson too short as he didn’t want to disappoint the hopeful students, but he’d overshot it by a lot.
+
+Luckily, no one seemed to complain, and Jake had also gotten into a pretty good tempo, so he just kept going. Soon, he’d reached the four-hour mark, but he still had a little left to cover.
+
+The three-hour lesson ended up taking just shy of five in the end, with Jake having finally covered everything he wanted. Despite going so much overtime, not a single person had left, and nobody had dared disturb them either, until finally, the lesson reached its end.
+
+“I want to reiterate once more that this isn’t something I expect all of you to suddenly integrate into your Paths. In fact, I reckon the vast majority of you will not find many practical applications for what you’ve learned today, but I still hope you can at least take some form of inspiration,” Jake said, genuinely wishing that all the attendees had a good time.
+
+“As a final thing, let me provide some personal words of advice, even though you consider me woefully unqualified to offer them in the first place, seeing as I guess most of you have lived with the system longer than I have,” Jake began. This last part he wanted to say was what he’d debated including for the longest time, as he feared it could go into the territory of overreaching, but he decided to do it in the end.
+
+“Me, you, and all of us walk our own unique Paths, and while learning from others and trying to directly replicate their feats can be all well and good in some instances, never fully model your Path after that of another. Forge your own destiny, your own Path, and never find yourself satisfied or content with what you’ve accomplished. All of us in this room, myself included, are pathetically weak right now, but we have the capability to change that and one day stand side-by-side with those we once viewed as impossibly ahead of us.”
+
+His words echoed throughout the hall as everyone was quiet, nobody protesting what he said, but he did see a few people look skeptical. Jake understood why. To them, this likely sounded like an incredibly gifted rich-kid telling them all that anything was possible, but Jake really couldn’t make that his problem.
+
+He believed that everyone indeed had the ability to reach the pinnacle as long as they had the will and the dedication to do so. Perhaps they would be far slower than average, but if they kept working hard and kept taking risks and jumped at any and all opportunities presented to them, even the most untalented could surpass expectations.
+
+And it wasn’t as if these people weren’t all considered talented in the first place.
+
+“So continue to work hard. Continue to improve. Continue to prove your Path and seek greater power, and prove that this era will truly be the rise of the Order of the Malefic Viper. Show that not only have the powers of old returned, but that the new generation is not to be underestimated either, but are up to the challenge to one day stand side-by-side with those who today claim the apex.”
+
+These were unbelievably arrogant words, but no one dared scoff as Jake was most certainly one of the few C-grades in the multiverse who had the right to utter these words. He had already proven himself to stand at the apex of this generation, and if he continued his Path as he was now, the claim of one day standing beside even the most powerful gods wasn’t that far-fetched.
+
+“And with that, I’ll wrap things up. Keep it up, everyone. Who knows, perhaps our Paths will one day cross again, and if they do, be living proof that you were worthy of being here today.”
+
+Jake wanted one last motivating sentence, and going by the vibe of the auditorium, he felt that what he’d landed on worked well. He appealed to the arrogance and confidence of all those present while making it clear he had expectations and a belief that they could indeed prove themselves.
+
+Mere seconds after Jake had spoken his words, he activated the teleportation circle – funnily enough, using the method the lesson had revolved around – and teleported out of the auditorium, leaving all the students behind to talk amongst themselves or leave to do their own thing.
+
+Upon appearing on the other side of the teleporter, Jake didn’t hesitate to find the nearest gateway to quickly return to his residence. After leaving, Jake had felt the exhaustion slowly begin to creep up on him, and by the time he was home, he was mentally drained and simply collapsed on the couch.
+
+He had a recording of the student’s reaction that he seriously didn’t have the faculties to watch right away, but would go over once he felt better. For now, he had something else to go over, as right when he’d left the auditorium, Jake had received a few system messages, which he now checked out.
+
+You have successfully taught your first lesson as the Chosen of the Malefic Viper, inspiring and guiding the next generation of your Patron’s Order while helping to spread your own fame as a teacher - A new feat has been accomplished. Bonus experience earned
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 340 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 336 - Stat points allocated, +45 Free Points
+
+He probably shouldn’t, but Jake was still surprised to see that he’d gained a level from the lesson he’d conducted. Perhaps because a part of him hated to admit that Villy had indeed been entirely correct that he had a lot of Records and experience to reap from having done so.
+
+It was something entirely different from what Jake usually did and leaned into both his Path as an alchemist and a Heretic-Chosen. This definitely had been healthy for Jake from a progress standpoint, but he still felt some uncertainty about just how healthy it had been for the students in attendance.
+
+Jake walked a unique and weird Path that wasn’t suitable for… well, he wasn’t sure who, besides himself, it was even suitable for. He would definitely watch the recordings of the student’s reaction later, but for now, Jake seriously felt like he needed a nap as teaching had fully drained his social battery for the day…
+
+But hey, if nothing else, today had definitely been a solid one for mental fortitude training.

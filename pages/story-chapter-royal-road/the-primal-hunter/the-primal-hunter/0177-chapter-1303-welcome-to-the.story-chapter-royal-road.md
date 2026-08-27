@@ -1,0 +1,147 @@
+---
+id: ef43df6a-5364-560e-882f-1fbc629de169
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1303 - Welcome to the..."
+slug: 0177-chapter-1303-welcome-to-the
+partOf: the-primal-hunter
+position: 177
+ownLength: 2856
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3329292/chapter-1303-welcome-to-the"
+royalRoadId: "3329292"
+---
+
+While Jake had fun hunting down even more nasty undead spiders with his frog pals, the time for the Administrator Test had finally arrived. A hundred days of testing lay ahead for all who entered, whether as Administrator Candidates or as assistants to the Candidates.
+
+Miranda sat in Haven alongside the four people she’d chosen to enter with. Holstred, William, Lillian, and the Wyvern were all present, with Lillian and the Wyvern still yet to evolve to B-grade. Something that hopefully wouldn’t be an issue, as Miranda still hoped and believed that this Administrator Test wouldn’t be all about combat.
+
+“Does everyone have everything ready?” Miranda asked. “Potions, other consumables, upgraded equipment, and anything else that might come in handy.”
+
+“Everything should be prepared, Ma’am,” Holstred confirmed, being as polite as ever.
+
+Miranda nodded, naturally feeling a little nervous about this upcoming test. She had never been good at tests and always got overly nervous when she had to take one, even in cases where she couldn’t be more prepared. It was an irrational nervousness she also felt this time, despite all the intelligence she'd gained and everyone she'd consulted agreeing that the upcoming event would be no problem.
+
+So far, post-system, this had never been an issue. She never had to actually pass any tests. Sure, she participated in events and had tests and whatnot by her Patrons, but a test set forth by the system felt different, especially knowing she only had one shot. The system wasn’t one for multiple tries in events like this, which really put on the pressure.
+
+Usually, Jake was the one to bear this pressure. He was the only person who had to actually succeed in whatever trial the system put forth, and Miranda just had to be in the background, ready to assist in dealing with whatever prizes he gained or consequences that emerged from his victory or potential loss. It wasn’t her responsibility to “pass” any tests.
+
+I’m sure it’ll be fine, and even if I mess up, it’s not like my promotion to Administrator is necessarily needed, she tried to assure herself as her entire party sat there quietly, also making Miranda realize that the people she had chosen weren’t exactly the most sociable sort.
+
+Lillian tended to prefer being the silent background person; Holstred spoke only when spoken to in the presence of people he recognized as superiors, and William and the Wyvern were both, well, themselves. The wyvern had been stuck on a mountain its entire life until recently, and didn’t exactly look comfortable in a party full of humans, and William had really shifted his personality to prefer just sitting back and observing whenever possible.
+
+As Miranda was stuck in her own thoughts, it finally came.
+
+Transmission to the Milky Way Seat of the Exalted Prima shall commence in fifteen (15) minutes. Ensure all potential allies are selected and in your physical proximity beforehand.
+
+Once entered, the Administrator Test cannot be exited unless successfully completed or forfeited. Further rules will be outlined upon entrance and when the test commences.
+
+Countdown till transmission: 14:59
+
+It was a short and simple message that made Miranda nod. “I just got a system message about entering.”
+
+“Me too,” Lillian said. “One saying I’m invited to be your assistant, and if I want to accept.”
+
+The other three in the room expressed they saw the same, once more surprising Miranda with the system’s ability to recognize intent. It likely worked in the same way that it could just tell who one's party members were when trying to enter dungeons or when using certain skills. Jake called it system-fuckery, Miranda believed, though she was certain there was a proper term out there.
+
+“Fifteen minutes more, then,” Miranda smiled. “Allow me to say this preemptively: if the event allows you all to also become Administrators through this test, you should go for it if you want to. Assuming it doesn’t impede or hinder my own promotion, that is.”
+
+“I would prefer not to,” William spoke up in a quiet voice. Not surprising, as if he did become an Administrator and ended up having to play a role in controlling the World Wonder, William definitely wouldn’t enjoy it, seeing as he preferred to be a background character and all.
+
+“I will go for it, but I’m not sure what it will mean if I do become one. I’m not exactly loyal to the Order of the Malefic Viper,” the Wyvern said with a shrug. Again, not surprising, with him being blessed by a member of the Dragonflights and all.
+
+As for Holstred and Lillian, they both simply nodded in agreement, both definitely only wanting to serve as backups for Miranda, who was already only taking part in this to serve as a potential backup to Jake.
+
+The remaining minutes until the system event passed were spent with a bit of casual chatter, forcibly engaged by Miranda every time. She wanted to potentially strategize or make up plans, but nobody knew what this Administrator Test would entail. There were a few basic things to cover based on potential expected scenarios, but it was seriously limited what could be prepared.
+
+Finally, it was time as the timer reached zero, and the first part of this system event finally began. From the room in Haven, the five of them were teleported away, and the very next moment, they found themselves standing inside a familiar room.
+
+It was the same place they’d been brought to during the first Seat of the Exalted Prima event, where they had seen simulated Paths they could have potentially had based on a different choice in the past. Being there honestly felt a bit nostalgic, but different from last time. There was no small Watcher or whatever it was called to greet them, and there was no pathway leading into another area.
+
+Miranda looked around, surprised to see only the five of them there. She knew this was only the area for Administrator Candidates of Earth, but still, there should have been at least a couple who went there, right? So either no one else had gone, or this wasn’t a shared space.
+
+A few seconds after appearing, as everyone had gotten their bearings and had some time to think, a new system message arrived.
+
+Welcome to the Administrator Test for the Milky Way Seat of the Exalted Prima.
+
+During this test, all Administrator Candidates will be tested and have the opportunity to prove themselves worthy of promotion to Administrator. Testing parameters and passing criteria are to be discovered by the Administrator Candidates themselves.
+
+The Administrator Test will take place within a simulated reality. Death within this simulation has no negative effects, but will result in instant failure to promote. Any assistant that dies during this simulation will find themselves removed from the Milky Way Seat of the Exalted Prima.
+
+In the event of the successful promotion of the Administrator Candidate, all surviving assistants to the new Administrator may also be promoted to full Administrators, provided they have proven themselves worthy of the title and have the Administrator's permission.
+
+To enter the simulation, all participants must step into the highlighted area. Those not in the area upon simulation initiation will be removed from the Milky Way Seat of the Exalted Prima.
+
+Simulation initiates in: 9:59
+
+All five of them remained quiet for a few moments as they reviewed the system message. Miranda was both relieved and annoyed by the message. Relieved that this was a safe system event where death or harm weren’t even possible outcomes, but also annoyed that the system still didn’t tell her how to pass the damn Administrator Test. She already didn’t like tests where one could only pass or fail, but one where she didn’t even know the criteria for passing before starting? Yeah, she outright loathed that.
+
+It didn’t help either that it seemed Miranda had to pass for any of her assistants to be eligible for promotion. It was good to know that assistants could also be promoted, though. Though it did mean that the prior competitions to become Administrators seemed a bit more pointless than before, if everyone could just become one now.
+
+Miranda already assumed that the true Administrators competing with Jake in the next round would be pinnacle figures who hadn’t otherwise even been able to contend to become Administrator Candidates. Also, people would compete from galaxies they didn’t originate from, which Miranda wasn’t that against from a purely selfish point of view. It meant that Casper, the Forest King, the Sword Saint, Carmen, Vesperia, Sylphie, Caleb, Eron, Maria, and so many others from Earth were candidates to take control of different galaxies’ Seats of the Exalted Prima.
+
+While that didn’t outright help the faction she belonged to, it raised Earth's prestige, and as the person effectively in charge of the planet, that growing prestige helped her profession.
+
+All in all, there were many implications to this system message. As a kind of funny thought, she could totally imagine some factions failing to get their desired people promoted to Administrators because the Administrator Candidates in question, who had brought along assistants the factions actually wanted to be Administrators, weren’t the most competent.
+
+Miranda was the one in their group they wanted to be an Administrator first and foremost, and she really hoped she wouldn’t be part of this statistic of failing promotions. Only one way to tell, though.
+
+At the same time as the system message, a beam of light appeared in the center of the room, emitted by a large metal platform. They had ten minutes to get on it, though, so plenty of time.
+
+“So, it appears that assistants can’t be promoted, so...”
+
+She reiterated some of what she had said earlier and more or less kept the conversation going so that things would not get needlessly awkward. Miranda regretted not having spent more time practicing with the four of them to ensure proper teamwork, but alas, they only had ten days, and it had admittedly been Miranda who didn’t really have time to do much.
+
+As the timer closed in on its end, all five of them went onto the shining platform, unsure what to expect on the other side.
+
+“Remember, if we somehow end up split inside, use the orb I’ve provided, assuming we retain our current items. If we don’t, but we retain our abilities, William will connect us all through karmic magic. In the event we also lose our abilities, try to seek out the tallest structure, mountain, or whatever is in view. Honestly, though, probably attempt to progress on your own, and the system should allow us to team back up once more,” Miranda said, still trying to go over everything that could go wrong.
+
+The wyvern looked a bit annoyed, though he tried to hide it, while the other three just nodded. For the second time that day, another countdown finished, and Miranda felt herself transported yet again, though this one certainly felt different. It was longer, and Miranda felt her consciousness fade, as if she were being induced into sleep.
+
+Then, suddenly, she was awakened by the sound of a loud “ding!” as an all-too-familiar system message appeared before her eyes.
+
+Welcome to the Tutorial
+
+The eruption of destructive arcane energy sent the three Deathstalkers scurrying away as Jake narrowly avoided the beam from a Monitor down below. The Corpsemender nearby attempted to repair its undead compatriot, but three Venusian Warriors set upon it in an instant, smacking away with their clubs, stopping the healer of the Arachnec group from contributing.
+
+Not too far away, the Virumancer was in combat with a new variant of Arachnec they had only come across recently upon getting further into undead spider land. It was a creature that floated in the air, with its belly replaced by what looked creepily like a face. Its eight legs were pointed toward the Virumancer as they shot out black blasts of energy that seemed to make the atmosphere itself decay as they passed.
+
+Fortunately, the Virumancer was able to avoid every attack and counter, making the fight very much a stalemate where both would slowly take damage and be whittled down given enough time. Jake had only spared this new variant a single Identify, as he had his own foes to deal with.
+
+[Arachnec Rotspreader – lvl 391]
+
+Elsewhere, the Shaman was engaged in combat with more Deathstalkers, as he slowly went back towards Jake and the others, providing assistance wherever he could, using his large repertoire of supporting skills.
+
+Jake quickly switched targets, moving to take out the Arachnec Monitor as quickly as possible, since it was the biggest threat to all of them. Its sudden, powerful eyebeams could do a lot of damage if they caught someone by surprise, so it was definitely the first one that had to go. Well, the second one, after the Corpsemender Jake had one-shot during his opening attack.
+
+The Shaman came in clutch when he pushed back the Deathstalkers coming for Jake with a barrier of space magic, allowing the hunter to unleash an Arcane Powershot coupled with a Primal Gaze on the Monitor, allowing him to deal devastating damage.
+
+Annoyingly, two Deathstalkers made their way through and set upon Jake, forcing him to switch to katars as he quickly tried to tear through them. Fortunately, one of the Venusian Warriors who had been on the Corpsemender before split off and descended upon the Monitor, smacking its semi-defenseless form hard with her club over and over, soon leading to the second kill of this fight.
+
+Without having to deal with constant eyebeams, Jake quickly put down a Deathstalker before more arrived. There were nine of them in total, well, eight now, with them mostly getting bullied by Jake and the Shaman keeping them in check.
+
+Alas, despite their pretty decent teamwork, there were simply too many Deathstalkers for them to constantly address them all. One of them slipped away and used its eerie movement skill to get behind the isolated warrior who’d just finished off the Monitor and managed to lacerate the frog in the back.
+
+The Warrior quickly fought back, but three more Deathstalkers rapidly descended and tried to take advantage of the situation. Jake and the Shaman both successfully stopped one each, but the third one still made it through and landed another nasty attack.
+
+A spiritual spear fell upon one of the attacking Deathstalkers, pinning it to the ground and allowing the Warrior to smack away the second Arachnec attacking it. With a moment’s reprieve, the Venusian cracked something she had hidden inside her mouth, looking like such an act was incredibly painful. Not because of actual pain, but because of the conceived value of the item just consumed.
+
+The Warrior’s wounds rapidly started healing as the frog had just consumed a health potion given by Jake. As if wanting to prove that using such a valuable item was worth it, the Venusian jumped forward and landed a solid blow on a Deathstalker, before skillfully dodging the attack of the one who had just been pinned by a spear prior.
+
+Jake, for his part, managed to kill another Deathstalker, with the Shaman also rapidly getting close to finishing one off. The Virumancer was also clearly winning that one-on-one duel, with the two remaining Warriors rapidly wearing down the Corpsemender.
+
+While things did get dicey for a moment there, the tide rapidly turned fully in Jake and company’s favor, and with every death among the Arachnecs, the easier things got, and not long after, the final undead spider creature was slain.
+
+By now, they had been in the territory of the Arachnecs for nearly a full month, killing many of the damn things during their stay. It had taken a month, but finally... Jake’s very first class level in B-grade.
+
+’DING!’ Class: [Arcane Hunter of the Boundless Horizon] has reached level 351 - Stat points allocated, +125 Free Points
+
+“Good fight,” Jake said, especially giving the still pretty heavily injured Venusian Warrior a nod. She had taken quite a few more hits during the cleanup, but stood strong till the end, and only allowed herself to relax now.
+
+“Indeed,” the Shaman nodded as he put down a circle of glowing light that looked reminiscent of a lake’s surface. Jake sat down on it, enjoying the benefits it provided for his recovery. The other Venusians did the same, as they all sat in silence to recover for nearly a full hour.
+
+At that point, Jake was feeling close to being in top form once more, but suddenly his eyes shot open. The Shaman also quickly stood up as he looked towards the horizon, following Jake’s gaze. He was holding an item in his hand that had clearly warned him, the frog’s eyes opening wide.
+
+In the distance, Jake felt an aura approach, and before he could get a full read on it, the Shaman clapped his hands together and summoned the robed frog projection, applying a buff to all six of them that increased speed as he yelled:
+
+“Run!”

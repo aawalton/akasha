@@ -1,0 +1,129 @@
+---
+id: 1a3ab4c7-dde5-55b1-aeb7-595aa9249f76
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1285 - A Seasoned Swordsman"
+slug: 0158-chapter-1285-a-seasoned-swordsman
+partOf: the-primal-hunter
+position: 158
+ownLength: 2634
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3222697/chapter-1285-a-seasoned-swordsman"
+royalRoadId: "3222697"
+---
+
+Miyamoto closed his eyes for a moment before giving the world he had felt a part of for more than the past millennium a knowing smile. Opening them again, he stood up, moving his limbs for the first time in what felt like forever, the smile still lingering on his lips.
+
+Cupping his hands, he bowed to the land, thanking it for its hospitality before he spoke. “It’s done.”
+
+In the very next moment, he disappeared from the small, unassuming planet, none of the creatures who’d lived there were aware that a C-grade had ever visited. He reappeared again inside the usual white room with a single worktable present, Aeon already sitting there waiting.
+
+The god looked the Sword Saint over for a few moments before nodding. “Then prove your success.”
+
+Once more, Miyamoto was teleported away, ready to face the test waiting for him on the other side. When next he felt solid ground under his feet, he stood atop a tall stack of rocks in the middle of a valley, and right as he appeared, several presences locked onto him.
+
+Looking down, he found himself surrounded by three familiar creatures, though the variant he had fought in Nevermore had certainly been a bit smaller and most certainly weaker, seeing as these were all B-grade. Using Identify, he confirmed they were indeed the same monster.
+
+[Meteorborn Beast Lord - ???]
+
+Each was large, looking like the fusion of a rock elemental and a scorpion, with a bit of lizard mixed in, the scorpion part especially distinct, as evidenced by the stinger and eight legs. Though its rocky, almost metallic-looking exterior was certainly also intimidating.
+
+All three were newly evolved, likely placed there purposefully by the Sword Saint’s Patron. Miyamoto had killed many B-grades already, yes, but these were all far more powerful variants, and could all relatively easily kill other newly evolved B-grades. Facing one was already a tall order for a C-grade, much less three at once, and most would probably suspect Aeon of purposefully trying to kill off the old-looking swordsman.
+
+If this had been before, the Sword Saint would indeed have been in trouble, and he doubted he would even be capable of facing one of them. Now, things were different.
+
+He had lived through the seasons for over a thousand cycles, observed their change, understood them, and made them part of who he was. Miyamoto didn’t consider himself a supreme genius, but he did think he was at least decently talented and could understand certain things others struggled with. Despite still being young based on the regular standards of the multiverse, he continued to see himself as an old man,  which was perhaps why he felt so connected to certain things.
+
+At least, that’s what he believed had been what allowed him to do something he reckoned others would find difficult:
+
+He'd successfully upgraded his Transcendent skill.
+
+All three Meteorborn Beasts made their move as one, the rock he was standing on rumbling as they mobilized their energy, and the entire valley started to move as they unleashed their gravity magic as one.
+
+The Sword Saint started rising into the air, affected by the magic. Resisting it as he currently was wouldn’t prove very successful, so he started his presentation. The proof of his improvements, all under the watchful gaze of Aeon.
+
+Drawing his sword, Miyamoto held it out to the side as he spoke, invoking a season he had only managed to glimpse the concepts of before.
+
+“Scorching Summer.”
+
+His blade began to shimmer as it reached an extreme level of heat, and a moment later, his entire body was affected. The gravity magic was suppressed, finding itself scorched and unable to affect him, allowing the swordsman to move freely, right as the beasts made their first actual attack.
+
+The entire valley imploded as a city-sized sphere of rock and soil was condensed into a single large boulder in an instant, with the Sword Saint stuck right in the middle. However, before it could fully condense, a dozen cuts formed in its side before the swordsman flew out, straight down towards one of the Meteorborn Beasts.
+
+Reacting quickly, the monster let out a loud roar as it manipulated the metallic stone covering its own body to form spears that shot towards the old man. With speed far surpassing anything the swordsman had ever been able to display before, he dodged in between every spear, rapidly closing in on his opponent before any of the other monsters could intervene.
+
+Seeing him nearly upon it, the Meteorborn Beast wrapped gravity magic around its stinger, attempting to draw the Sword Saint towards it as it struck forward. Unfortunately, the very concept of gravity was burned away before it could even successfully affect the Transcendent swordsman, allowing him to pass by it effortlessly as he made his first attack.
+
+Miyamoto’s blade clashed with the natural armor of the Meteorborn Beast, the monster confident in its defenses... right until the moment the blade cut straight through, seemingly finding little to no resistance.
+
+The beast roared in pain as not a single drop of blood was spilled, the wound instantly cauterized due to the extreme heat of the sword. Its entire body exploded with powerful gravity magic, forcing the Sword Saint back for only a moment before he sprang forward again, showing no mercy with his slashes.
+
+He cut off several pieces of its armor and eviscerated the B-grade’s face in moments, before landing one final blow as he sprang forward, unleashing a vertical cut as he moved through the entire monster, nearly splitting it in half down the middle.
+
+Even then, as the beast fell dead to the ground, there was still not a single drop of blood.
+
+Breathing heavily, the Sword Saint nearly stumbled as his body was rapidly reaching its limits. Scorching Summer allowed him to embody the heat and ceaselessness of the season, making his blade an unstoppable force and his speed unmatched, incomparable to what he could usually muster. Unfortunately, it also came at a high cost, as he couldn’t maintain the state for long due to the harshness of summer.
+
+After having killed one of their brethren so quickly and effortlessly, one would perhaps expect the two other Meteorborn Beasts to retreat, but instead, they both attacked at once without any hesitation.
+
+Seeing their approach and the torrent of heavily condensed stone spears flying toward him, the Sword Saint allowed his body to cool and summer come to an end as the temperature fell and the season shifted.
+
+“Decaying Fall.”
+
+With a swing of his blade, all the approaching spears lost power mid-flight, missing as the mana within was dispelled by his attack. Far slower than before, the Sword Saint retreated, the faint image of fluttering brown leaves in his wake.
+
+A moment later, one of the Meteorborn Beasts made contact with one of these leaves, making it sink into the monster’s body, seemingly doing nothing. The beast released a loud roar, making the ground erupt and send up pillars of impaling stone, forcing the Sword Saint far into the sky as the entire land below rose and swelled under the B-grade’s power.
+
+The second Meteorborn Beast used its gravity magic to propel itself towards him, trying to crush him with its body or impale him on its stinger. Pressured heavily, the Sword Saint kept falling back, swinging as he sent crescent wind blades containing falling leaves in the process. The beast ignored these weak leaves that seemed to have little to no effect, pressing its advantage as the old man started taking minor wounds.
+
+Whenever he was injured, the blood released turned into small scattering leaves, which were promptly swept up the next time he attacked, or they were simply left fluttering in the air during his constant retreat. The beast in melee kept taking on more and more leaves, still not wary of the seemingly useless attack.
+
+Miyamoto knew they did their job, though, as he went fully on the defensive and welcomed the decay of fall upon the massive crater that had once been a valley. His blade was the instrument to dictate the decaying wind of change that brought about fall. It was a slow process, yes, but such was the nature of the season.
+
+More and more leaves started filling the battlefield as both B-grades continued attacking the Sword Saint, one of them using primarily ranged attacks, while the other stayed in melee. Dealing with the range attacks proved easiest, as whenever the attacks left the bodies of the monsters and made contact with the energy released by the swordsman, the attacks quickly fell apart; all the energy infused into the attacks decayed away.
+
+Unfortunately, B-grades were still B-grades, and the melee monster proved fast and deadly, resulting in the old man’s body soon being filled with wounds. He tried to parry the stinger a few times, correctly diverting the power of the blows like he was directing the current, but the difference in sheer power was too vast, still resulting in his injuries.
+
+Some of the ranged blows also made it through, including a hyper-condensed bullet of rock that shot straight through his abdomen, nearly making the swordsman stumble as a powerful wave of gravity sent him spiralling toward the ground below, a whirlwind of scattering leaves pouring out of his wound during his descent.
+
+The season of fall felt long as the Sword Saint seemingly only got slower and weaker the longer it went on. His wounds grew more numerous and impactful, his vital energy draining at a rapid pace as he was chased down by the two B-grades and their relentless assault.
+
+Even as weakness gnawed at his resolve, Miyamoto’s eyes remained unyielding, watchful for any shift in the beasts’ approach. The swirling leaves continued to multiply, a lingering testament to every strike and wound, painting the battlefield in the muted golds and browns of fall. Yet, beneath the surface of every fluttering remnant, something unseen was working its magic, an inexorable and invisible rot creeping deeper into their bodies and Soulshapes both.
+
+The Meteorborn Beasts, emboldened by his apparent frailty, pressed the offensive with growing ferocity. Each reckless charge, every wound inflicted, caused more leaves to scatter and enter them, unnoticed and disregarded in their onslaught. But as the minutes stretched on and the valley was choked in the haze of decay, the Sword Saint built up to the grand crescendo. The end of the season, when the final leaf had fallen, and only stillness remained.
+
+Towards this end, the Sword Saint was haggard, his body broken in so many ways, and even his non-dominant arm had been severed and turned into a torrent of leaves. To an outsider, the battle looked over. Miyamoto had put up a good fight, had invited in the Scorching Summer to take out a single foe using the element of surprise and a sudden burst of power, but against the two other Meteorborn Beasts, he seemed to be in a hopeless situation.
+
+Yet the old man remained calm, his emotions and senses dulling as coldness spread throughout his being. With the two B-grades closing in and the old man out of energy to even fight back, the ending seemed inevitable. His aura faded even further, death seemingly about to take him... and right then, the final leaf was gone, and fall came to an end.
+
+“Silent Winter.”
+
+His words echoed as the world became still. The loud sounds of the Meteorborn Beasts were gone, replaced by absolute silence, as if the very concept of sound had died. Colors faded, taking on a white hue as the two B-grades slowed down significantly. Through the invocation of the silent winter, the world itself had calmed, time seemingly moving towards a standstill.
+
+The two powerful Meteorborn Beast Lords became sluggish, their magic no longer activating, and a sense of death lingered around both of them. Not something as simple as death affinity energy, but the very concept of death itself, a fate that could claim all, even those who lived in undeath or did not meet the traits one usually associated with life.
+
+Subtle signs of decay appeared on the two monsters’ bodies, as they both simply floated quietly through the air. Despite their monstrous appearances, Miyamoto could feel their surprise and confusion, but alas, it was too late. Their deaths were decided, and all he had to do was execute his role as their reaper.
+
+The eternal silence of winter was broken up only by the sound of steady footsteps as the Sword Saint slowly walked forward. The two B-grades were entirely frozen at this point, as far too many leaves had affected them both before winter came, overwhelming them entirely in both body and soul.
+
+They could do nothing as the one-armed swordsman walked up and swept his sword through the first one, extinguishing its life as it phased through its body. A second swing ended the other Meteorborn Beast. Both of them were still floating there with open eyes and undamaged bodies, but their Truesouls were gone, marking their deaths.
+
+Winter. The conclusion of the cycle, and the end of all things. A period of calm before the wheel would spin again, and all would once more bloom.
+
+With tired movements, the Sword Saint sheathed his blade before falling down motionlessly. His body was cold and exuded an aura of death, but deep within his being, a single seed still clung to life, having survived the winter.
+
+The stillness of the world soon subsided as everything was allowed to move once more. Slowly, the two B-grades fell toward the ground, crashing down not far from the unmoving Sword Saint, who lay there, not even breathing anymore. He seemed all but dead, but that one small seed still persisted. Still held on until spring came.
+
+Time soon began moving as it should once more, and as it did, the Sword Saint took in a single gasping breath as life seemingly returned to his body. After a dozen or so seconds, he pushed himself to sit, looking where his arm had once been. Healing it would take longer than normal due to the concepts he’d just invoked, but such was a price he willingly paid.
+
+Transcendent Skills weren’t totally free, after all.
+
+Taking out a healing potion, it helped a little, giving the Sword Saint a second wind that allowed him to stand. He regarded his two dead opponents, satisfied with his display. It had been cruder than he’d hoped, but this was the first time he’d used this newly gained part of his Transcendent Skill, so one couldn’t expect perfection. Besides, he’d used it with B-grade in mind, so his current grade definitely held him back from displaying even a fraction of his Transcendent Skill’s potential.
+
+“Good,” a voice suddenly spoke from right next to the Sword Saint, the man having not detected the newcomer’s presence at all. He didn’t panic, though, as he naturally recognized the voice of his Patron.
+
+Looking over, Aeon inspected the corpses with genuine interest, nodding as he went along. “Very good.”
+
+“I’m certainly glad I didn’t disappoint,” the Sword Saint chuckled, but halfway through it turned into a cough as he spat out black blood. His state certainly wasn’t very good right now.
+
+“You did not, no,” Aeon shook his head before looking directly at the swordsman. “With that, I shall also stick to my promise. The timeline of events may be moved up a little, but no reason to delay. If you accept, from today onwards, you shall be my new Chosen, which should hopefully help you evolve to B-grade quicker, as my expectations for you during this Seat of the Exalted Prima event are not low.”

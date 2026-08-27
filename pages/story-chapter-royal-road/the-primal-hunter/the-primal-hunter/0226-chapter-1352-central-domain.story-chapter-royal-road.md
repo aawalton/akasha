@@ -1,0 +1,147 @@
+---
+id: b2b4818f-1497-5ab2-94be-683f737ab2ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1352 - Central Domain"
+slug: 0226-chapter-1352-central-domain
+partOf: the-primal-hunter
+position: 226
+ownLength: 3003
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3671563/chapter-1352-central-domain"
+royalRoadId: "3671563"
+---
+
+Having someone in your camp with a strategic mind was truly an overpowered advantage. Having several of them was even better, as it meant they could play off one another and make even better decisions.
+
+While Jake’s Territory didn’t have a lot of fighting power initially – though they did now with Tramon’s successful evolution - they had plenty of strategic prowess, which immediately came into play when the third phase began.
+
+The new special building available in this phase to enter the Central Domain wasn’t free. It wasn’t even cheap. It required an upfront investment of 200,000 Prima Credits, making Jake instantly sigh at the thought of having to wait for them to earn that.
+
+Except they didn’t have to wait, because Miranda and Kindroth had long discussed this as a possibility and had saved plenty of Prima Credits while waiting for the next phase. That was part of the reason why there weren’t a bunch of Outpost Beacons and Teleportation Nodes throughout Jake’s Territory yet, as they’d saved up PC.
+
+Sadly, it still took some time to construct. A full day, in fact. During this day, Holstred and William returned once more, and Jake decided to head out again, not to try to claim another Territory, but to prepare for the third phase. In the fight with the Behemoth, Jake had used a lot of poison, and he also felt like he needed a good restock of necrotic poison and hemotoxin, with a few neurotoxins mixed in for the especially annoying foes. He also wanted to make some bane poison, but he only had a day to grind alchemy.
+
+He ended up spending a bit more than that, but that only gave Miranda and company more time to learn about the new special building and this Central domain.
+
+Now, right after getting back to the Territory Beacon, Jake already found himself standing in front of an all-new building. A very un-impressive one, mind you. It was just a medium-sized, octagonal building made of simple stone and a flat roof. Rather than a building, it looked more like a slab of concrete that didn’t even have a door but only a door-shaped hole.
+
+Inside the “building” was a simple magic circle in the center. At least it looked simple at first glance, but Jake instantly knew that it was created using the power of system-fuckery. In other words, it wasn’t the kind of thing that could simply be replicated.
+
+“Not the most impressive place,” Jake commented, standing alongside Miranda, Lillian, Kindroth, William, and Holstred. Tramon was also on his way back, but had taken advantage of everyone getting distracted with the new phase to take down one more Territory before his return.
+
+“From the description, I believe it will upgrade in appearance based on how much we earn in the Central Domain. At least I can’t upgrade it, and the required space is far beyond its actual size,” Miranda explained. “Which is an interesting design choice, seeing as it effectively communicates to every other faction how rich a Territory is. Rich with Central Domain resources, anyway.”
+
+Jake nodded along, as he also decided to check the description of the special building himself, but before he could even do so, Holstred asked about what he wanted to check out.
+
+“How does the teleportation work? Is it one-way, or do we have a way back again? Also, is there any cost to this teleportation, or is it unlimited?” the chief of Haven’s police force asked, making Jake pause reading the description.
+
+“When teleporting, the teleported person gets a return token that can be crushed to start a teleport back to this building. However, this can only be done outside of combat, and the process takes a minute to complete,” Miranda explained. “As for cost, there is one. There is an initial price to teleport a person, and further upkeep for every person currently in the Central Domain. Moreover, this upkeep gets higher the more people one has sent there.”
+
+“Something that without a doubt favors small groups of experts over simply trying to flood the Central Domain with numbers,” Kindroth followed up. “Sending just a dozen is cheap and simple, but sending a hundred would risk bankrupting even a Territory our size. The upkeep increases by 20% for every five people sent there, and the initial upkeep is equivalent to your level every day. An upkeep that increases retroactively: while five people at level 350 would only cost 1750 PC a day, adding the sixth would bring it to 2520. While it is probably doable to handle up to twenty or twenty-five people for some large Territories, anything more than that would be impossible.”
+
+Jake nodded along as he couldn’t help but crack a small joke. “So, an anti-Holy Church mechanic. Neat. Any obvious way to exploit it? Can you teleport using a Vassal’s special building or use weaker allies to keep it cheap, a bit the same as how Teleportation Nodes are being used?”
+
+“No,” Miranda shut that down. “One can only teleport through the Territory one belongs to. Overall, I would say this is very advantageous to us, as we only have a few people we want to send. Of course, this could change if we get more to join our Territory in the future, but I doubt it would ever not prove primarily beneficial.”
+
+“It just keeps sounding better and better,” Jake smiled. “Man, I should really read those building descriptions.”
+
+“Wouldn’t have done you much good in this case,” Miranda shook her head. “The description did mention the upkeep rules, but nothing about the return token, the limitation on Territory, or anything like that. I guess this is also when I should inform you that you won’t be the one to take the maiden voyage of this teleporter. Lillian already went through and returned.”
+
+“Oh, no complaints from my side,” Jake said, feeling in a joking mood. “Makes a lot more sense for her to go first, anyway. I’m not a maiden, you know?”
+
+Miranda just gave Jake a look, not even bothering to comment on his horrendous joke. “With everything discussed, are you going to wait for Tramon to return or cross through now? Lillian didn’t explore anything within the Central Domain, but we can assume there are some dangers lurking there, with other people naturally being the most dangerous.”
+
+“I think I’ll head through first,” Jake said, looking at the simple teleporter. “Bound to be a lot of good stuff there, and it would suck to miss out because I delayed further. Early bird gets the worm and all that.”
+
+Jake already felt like he was delayed by having finished up his alchemy, though he knew that being just a few hours late wasn’t going to change anything. The true gains would be found in this so-called Palace of Abundance, and he doubted that it was already on the cusp of being fully explored. Assuming it had even been found and entered by anyone. No one knew how that place worked, and Jake was keen to find out.”
+
+“Then step onto the center of the platform. Oh, and one final warning... we have no idea what happens if the Beacon is destroyed or we run out of funds while you’re in the Central Domain. We naturally had no way to test either scenario,” Miranda said.
+
+“Well, I would hope we don’t need to ever find out,” Jake answered with a chuckle. “At least not find out through experience. Wouldn’t complain if someone else volunteered to provide that information.”
+
+“I would assume a faction like the Holy Church or a large alliance would test something like that by sacrificing a lesser Vassal,” William shrugged, saying something Jake was in full agreement with.
+
+Truthfully, it wasn’t really a loss for a large alliance to lose a member if they got rid of it themselves. Sure, they would lose some people, but these Vassals were likely weak in the first place, so was it really a loss?
+
+“I’ll be sure to ask any member of the Church I come across,” Jake said semi-jokingly as he walked over and stood in the middle of the teleportation circle. He was about to ask how to initiate the teleport when a notification popped up in front of him.
+
+Would you like to teleport yourself to the Central Domain? This action will consume 1,000 PC and a further 357 PC a day until your return. This upkeep may increase based on how many individuals from your Territory are in the Central Domain.
+
+“I assume you see it, but to teleport, the acceptance of the Chief Administrator or someone he’s given the privilege to make such decisions is required. Probably for the best, so random people can’t try to bankrupt a Territory,” Miranda said.
+
+Jake nodded. “Good to know. Anyhow, I guess I’ll see you guys around.”
+
+“I expect to soon see a sudden windfall of Prima Credits,” Miranda chuckled with a smile as she waved Jake off. He prompted the teleport to activate, and immediately his vision shifted.
+
+A moment later, a large area entered his mind’s eye. It felt as if Jake floated above the world, looking down at it from a few hundred meters up. Jake quickly realized what this was, courtesy of instinctual knowledge granted by the system, and without much effort, he made his selection.
+
+The second he did, solid ground appeared beneath Jake’s feet as he found himself standing atop a large, flat stone. This teleportation was quite an interesting one, as it hadn’t simply made Jake appear within the Central Domain but had given him the chance to choose his own spawn location. Within a limited area, sure, but he had quite a bit of leeway.
+
+While something like that wasn’t super relevant to Jake, it could be incredibly valuable to others. It would allow them to scout the immediate area they would appear in and choose a location not surrounded by other people. Jake also realized something else after he’d appeared.
+
+An odd, shimmering barrier covered his entire body, seemingly offering both defense and obfuscation. Jake tried to move and realized that as he did, the barrier weakened. After moving about ten meters, it disappeared entirely. Another safety measure for those who teleported into the Central Domain, Jake reckoned.
+
+With that discovery out of the way, Jake turned his attention to his surroundings. All the Territories were nearly entirely barren, with any changes in the terrain only there by design, by whatever Territory Beacon had control over that area. This Central Domain was quite the opposite of barren.
+
+Jake found himself standing within a lush jungle, with massive plants surrounding him and trees reaching several kilometers into the sky, blotting out the sun with their dense crowns. With Pulse of Perception, Jake confirmed that the jungle continued for over a thousand kilometers in all directions, though he did notice that there was one area where it started to significantly thin out. Perhaps the border of this jungle.
+
+Wanting to take a better look at his surroundings, Jake took to the air as he attempted to fly above the treetops. So far, Jake had not detected any danger at all, but when he started flying upwards, his senses suddenly warned him.
+
+After getting about a kilometer into the air, the trees suddenly seemed to start leaning towards him. The leaves covered everything and grew denser, and it was as if the world warped in front of his vision as the jungle closed around him. At the same time, Jake felt a deep sense of pressure bearing down on his soul, warning him to halt his advance and stop trying to fly out of the jungle.
+
+Not having much other choice, Jake stopped advancing and floated in the air. Frowning, he looked down.
+
+The trees... weren’t this tall before, he mentally noted. What’s more, with his sphere, he could confirm it. When Jake had flown upwards, and the trees had seemed to close around him, they had also continued growing to stay above him. Not in that it looked like they’d grown, but Jake felt that the entire fucking jungle had actually expanded in size to accommodate Jake’s flight. He also felt that continuing upwards more would be incredibly challenging, but not impossible. It would likely be a waste of time and energy, though.
+
+This jungle was obviously designed not to allow one to fly out of it through the top. Instead, it would grow, making it harder to go upward. All he would accomplish by flying up was to make the jungle even taller, which, while interesting, didn’t seem super useful. It would definitely fuck with everyone else in the jungle, though, but unfortunately, he didn’t see anyone currently who could show him a funny reaction.
+
+Seeing as flying above the treetops to get a better look at his surroundings wasn’t an option, Jake did something else. He flew down and landed, planting his feet firmly on the soft soil. Closing his eyes for a moment, he allowed his Perception to do its work, also relying on Sense of the Malefic Viper and his boots’ special enchantment to sense treasures as he scanned the entire area.
+
+Opening his eyes again, Jake found his direction and immediately set off. As he did, Jake also repeatedly used Pulse of Perception to scan his surroundings, and finally, he saw someone. In the direction he was running, he saw a single armored humanoid figure leaning on a stone placed in the middle of a clearing. The figure had its arms crossed and looked asleep, and through his Pulse, Jake saw that the area around this figure seemed oddly disturbed. The mana shimmered in an odd pattern, and as Jake got closer, this odd shimmering expanded towards him.
+
+When he was still several hundred kilometers away, the shimmering passed over him, and immediately, Jake noticed the change. The world behind him seemed to fade away, even if it was still there when he looked back. Jake had crossed some kind of barrier, and having crossed it, the armored figure also woke up. Still unaware of Jake’s position, yet awake, the figure drew a sword and stood ready.
+
+Even more curious to see what or who he was dealing with, Jake sped up. Unseen Hunter activated as he approached fully hidden, not intent on letting this person see him if he didn’t have to. As he got closer, he started doubting he was dealing with a real person, though, as the location of the armored swordsman happened to also be exactly where Jake had detected a treasure.
+
+This conclusion was muddied a little, though, as when Jake finally got close and used Identify on the knight-looking figure, he didn’t get the kind of response he’d expect.
+
+[Human – lvl 375]
+
+Jake had seen many humanoid monsters, but this evidently wasn’t one. It also wasn’t another Administrator. He wasn’t sure why, but Jake just knew this was an NPC of some sort.
+
+The knight stood in front of the large boulder with several runes carved on it, each emitting a deep blue glow. What’s more, Jake clearly saw a shimmering barrier covering the boulder, with faint lines of energy connected to the knight.
+
+A boss guarding a treasure. Classic, but for good reason, Jake thought with a smile as he landed on the ground in front of the clearing. He could attack from stealth, but he wanted to see if this NPC was capable of communicating or just a mindless fighter.
+
+Revealing himself, Jake instantly got the attention of the knight, who raised his sword and stood ready.
+
+“Hello there,” Jake said, raising his hand and waving.
+
+In response, the knight charged, trying to cut him down. Jake dodged the blow and continued speaking.
+
+“Can you understand me?”
+
+The knight got faster and started using earth magic as the terrain warped around them, terraforming this entire part of the jungle with the goal of limiting Jake’s movements.
+
+“I come in peace?”
+
+Waves of sword light flew past Jake, the knight holding nothing back as his momentum only grew.
+
+“... just one word? You’re supposed to be enlightened, but you’re not really living up to that name right now,” Jake muttered, dodging the sword swings and random earth magic thrown at him effortlessly.
+
+He kept trying for a bit longer, but ultimately, Jake could only sigh in annoyance.
+
+“Fine, have it your way.”
+
+As the sword stabbed towards his neck, Jake deflected it with a katar as he reached forward and grasped the helmet of the knight. He smashed the human NPC into the ground, his hand glowing green as the helmet rapidly corroded away and crumbled, sending Jake’s hand into the knight’s face along with black, brittle pieces of metal.
+
+The knight tried to fight back, but Jake used Pride and stopped any magic from making its way to him as he continued pressing down, looking into the eyes of the knight. They were hollow, empty of any meaningful thought, making Jake only push down harder as the ground cracked, trees tumbling all around them as everything shook.
+
+Jake held one hand as the knight punched Jake in the stomach with the other, trying to desperately escape, but he just took the attacks as the knight’s movements slowed, and it didn’t take long before his arm fell mid-punch, a system message confirming that the “fight” was done.
+
+“Disappointing,” Jake muttered, checking the notification quickly to see if at least that was interesting.
+
+You have slain [Human – lvl 375 / Knight of Abundance – lvl 375 / Mason of Abundance – lvl 375] – Bonus experience earned for killing an enemy above your level
+
+Yeah, not really. Seemed very basic, which also explained why the NPC had been so weak. But, hey, at least he now had a magical boulder to claim, so that was something, right? Had to be a lot of Prima Credits... right?

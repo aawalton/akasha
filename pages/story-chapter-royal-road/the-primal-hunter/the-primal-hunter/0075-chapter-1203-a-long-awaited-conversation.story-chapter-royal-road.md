@@ -1,0 +1,139 @@
+---
+id: f3cd9b32-6196-57df-accb-38102be8e659
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1203 - A Long-awaited Conversation"
+slug: 0075-chapter-1203-a-long-awaited-conversation
+partOf: the-primal-hunter
+position: 75
+ownLength: 2757
+unit: words
+ownProgress: 2757
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2769097/chapter-1203-a-long-awaited-conversation"
+royalRoadId: "2769097"
+markedReadAt: "2026-06-29T19:31:38.525Z"
+---
+
+“So, remember kids, nothing happened on the way here, and it was a smooth trip,” the Malefic Viper said to Jake and the other C-grades. “Of course, as mortals, the void still takes a toll, so you may be a little out of it for a few days, but that’s just totally normal void-related nausea. We clear?”
+
+Jake and his fellow C-grades nodded, making the Primordial smile and nod before turning to Artemis. “You go ahead and finish the trip, then.”
+
+Artemis nodded as she went to join Jake and the others. “As the Malefic One said, we’ll teleport as if we were indeed just arriving at the Order straight from the Pantheon of Life. Our appearance will be relatively brief, but it will be a somewhat public teleportation circle that will allow witnesses to see we’ve arrived.”
+
+“Ree?” Sylphie asked.
+
+“No, don’t purposefully aim to draw attention,” Artemis shut down the hawk’s idea. “As I said, we’ll only appear briefly, after which we’ll split up and deal with our individual ordeals. Dina and I shall head to meet with other officials from the Order. Jake will go deal with a personal matter, while the swordsman shall take you and the Golden Forest King elsewhere until Jake reaches out.”
+
+The part about the Sword Saint effectively being the ward of the two monsters for a little while was something they’d agreed upon earlier. All three of them planned on returning to Earth, so it was just easier for them to hang out until Jake had time.
+
+With a plan set, the Primordial bid them goodbye before Artemis took them all to a teleportation circle that wasn’t actually that far away. Seeing as the Malefic Viper controlled all the formations within his Order, he’d easily been able to teleport them about without anyone noticing, but it was clear several gods detected when Artemis initiated the teleport to the circle within the Order’s territory.
+
+Instantly, as the six of them appeared on the large teleportation circle, Jake felt the attention of several gods upon them. The circle had been cleared out in advance, expectant of their arrival, meaning there weren’t that many people around.
+
+The teleportation platform was placed slightly elevated, just up a few steps. Below the steps, several officials wearing cloaks bearing the motif of the Order waited, having likely been there for some time, considering the substantial travel delays.
+
+When they saw movement, all of them sprang into action and hurried up the platform, where they greeted Jake and the others. Artemis gave them all a look before teleporting away to meet with other deities, as a Godqueen naturally wouldn’t deal with lowly mortal officials.
+
+That was for poor Dina to handle.
+
+She was swarmed, news of her appointment having naturally reached the Order long ago. A few people also tried to talk to Jake and the other three, but they quickly backed off once it was clear they had no interest, allowing them to escape the area safely fairly quickly.
+
+Jake, Sylphie, the Sword Saint, and the Forest King headed toward another nearby teleportation hub where they would split up once more. The three of them planned on going shopping to bring high-tier materials back to Earth to help others on their Path.
+
+Sylphie naturally wanted to help out her parents and the Sword Saint, his clan. As for the King... we’ll he’d decided to expand his method of ruling to also include the carrot a little, intending to bring natural treasures to show that following him could also result in good things happening.
+
+As for Jake, he’d already confirmed the person he wanted to have a talk with was back at his residence. Unsurprisingly, considering she lived there within her large tower that Jake admittedly did want to see the interior of.
+
+“Good luck,” the Sword Saint said before they split up at the teleportation hub. “No matter how you choose to handle things, I hope it will result in the most happiness created for all.”
+
+“Let’s hope things do end well,” Jake sighed, ignoring the slightly confused look from Sylphie as he really didn’t want to explain to her the complicated relationship he was hoping to finally unravel and properly define.
+
+The King seemed to know but didn’t seem to care much. Jake didn’t even know how much the Unique Lifeform knew about himself and Artemis, as he had lived with them in the Pantheon of Life for a good while and had seen them interact several times, even if Artemis did make sure to turn their more intimate moments private.
+
+He had a feeling that even if the Unique Lifeform knew the details, he wouldn’t bother mentioning it or even care in the slightest what Jake was up to romantically. At most, if he truly did know, he’d only bother to bring it up to get in a dig at Jake during their usual bickering.
+
+The others all soon departed, leaving just Jake remaining. With his token in hand, he teleported back to his residence within the Order of the Malefic Viper. Appearing in a place that had been his home as much as Haven since the system arrived, Jake instantly noticed that the place was spotless and that, obviously, someone had tidied things up. Jake tended to be pretty good at remembering how things looked, and he was very sure that the rug had been moved slightly, and the coffee table hadn’t been in the exact same place last time as it was now.
+
+Very few people had free access to Jake’s residence, so Jake had a good idea who had stopped by once in a while. Releasing a Pulse of Perception, Jake felt it sweep throughout the subspace, including Meira’s tower. He didn’t even need to look inside to know she was there.
+
+Sighing, Jake prepared himself as he went toward the front door to go see her, but before he could even reach it, movement entered the range of his sphere. At a pretty respectable speed, he saw Meira flying over, landing just outside the door he was about to open.
+
+He hesitated for a moment before just deciding to rip off the band-aid and get things over with. Meira, who was just about to knock on the door, looked surprised as Jake opened it, her hand halfway raised as the door swung open.
+
+Looking at Meira, Jake wouldn’t say she’d physically changed a lot since the last time he saw her. The only real difference was that she had obviously become more comfortable wearing fancier clothes, as evidenced by the rather ornate white dress she wore. Then again, perhaps she’d just accepted that as the Chosen of Duskleaf, it was only normal for her to wear proper equipment, and proper equipment tended to also look quite nice, especially the sort made for casters where there was less consideration for form over function.
+
+However, that wasn’t to say the elf hadn’t changed. She had decades of development behind her since they last met, and Jake instantly noticed. Her entire demeanor had shifted, no longer conveying the impression of someone defenseless and lacking confidence. Instead, she gave off a comfortable feeling while still radiating competence, and even a little dependability. Compared to the Meira Jake had first met, he wouldn’t even have been confident considering them as the same person, even if they looked identical.
+
+Meira’s level had also soared, having successfully stepped into late-tier C-grade.
+
+[High Elf – lvl 308]
+
+As he evaluated her, he noticed her gaze doing the same. He had naturally hidden his mask, but besides that, Jake was wearing his normal equipment as he still sucked at putting any anything more casual when in safe areas.
+
+Breaking the silence, Jake was the first to speak as he smiled. “Hey Meira, it’s been a while. From your perspective more than mine, I’d imagine.”
+
+Meira looked at him and smiled awkwardly in return. “It really has been, and I’m glad to see Lord Thayne has comfortably returned to the Order of the Malefic One.”
+
+Her tone was the usual respectful one, but it seemed slightly less inherently subservient than before. Jake guessed Duskleaf had spent a lot of time helping Meira not to automatically regard herself as lesser than the opposing party whenever speaking with others.
+
+“Could have been smoother,” Jake said casually with a shrug. “You know how the void is; always a real chore to go through.”
+
+“I guess it can be nauseating,” Meira agreed with a nod. “Is Lord Thayne feeling okay? Master contacted me once you left the Pantheon of Life, but it took far longer for you to arrive at the Order than he predicted.”
+
+“Some of the others weren’t feeling too good, and we decided to only fully announce our arrival once they were better,” Jake explained, technically not lying while not telling the entire truth either. While he didn’t want to hide things, Jake wasn’t sure if Villy planned on having Duskleaf know what had happened, and if Meira knew, so would her Patron. She was a proper Chosen and not a heretic like Jake, after all.
+
+“Oh, I see,” Meira accepted Jake’s explanation at face value, even if he got the feeling she knew that couldn’t be the full story. “In either case, welcome back. I hope it’s fine that I took the liberty of tidying up once in a while whenever I had time.”
+
+“It’s all good,” Jake said, only realizing now that they were still just standing at the door. “Where are my manners? Come on in and make yourself comfortable. You already know the place, so it shouldn’t be too hard.”
+
+“I thank Lord Thayne for the hospitality.” Meira bowed slightly before entering the house she’d lived in not even that long ago. At least not by multiversal standards.
+
+After letting her in, Jake naturally shut the door as the two went to the living room. Without even saying anything, Meira went and made some tea, something she’d always done when she used to live there and they had guests over. Jake didn’t say anything as the two of them soon sat on the couch, facing each other with only the coffee table between them.
+
+Taking a sip of the tea, Jake’s eyebrows shot up. “This is pretty damn good... and am I sensing a little whiff of hemotoxin in there?”
+
+Meira smiled as she also drank. “I’m glad Lord Thayne likes my brew. I’ve found that creating my own tea is a good way to practice my alchemy, as one has to be very careful, or the taste can easily turn horrendous.”
+
+“Sounds like a great hobby,” Jake said, genuinely enjoying her craft. “Did you also practice tea-making when in Nevermore?”
+
+“Some,” Meira nodded. “I sold quite a lot on Minaga’s City Floor. It tended to get great evaluations and thus great prices, allowing me not to be the last person in my party to finish the floor.”
+
+“You still had to do Minaga’s City Floor despite not having the Leaderboards?” Jake asked with exasperation.
+
+“From my understanding, we had it easier,” Meira explained. “But yes. We also did the Challenge Dungeons. Even if they didn’t give any points, the rewards offered were still excellent.”
+
+“Man, you’re making me all nostalgic,” Jake smiled and leaned back. “Anyway, I am curious. How was your trip to Nevermore? I heard you went with people from the Altmar Empire.”
+
+“It was good,” Meira nodded. “Our party leader was a veteran who had been stuck in D-grade for a long time before evolving, making her quite powerful for her level. The one I spoke to most was a mage from the new universe who...”
+
+Meira continued to explain her adventures in Nevermore and the people she’d experienced it with. They’d done fewer floors than Jake and company, but spent a lot more time on several of them just to grind levels from fighting the monsters available there. It was also clear that the experience had really differed from Jake’s in other ways.
+
+While they had done Challenge Dungeons, it had only been some of them, and not even all at the same time. Moreover, as one didn’t need to have consistent teams in the non-Leaderboards version of Nevermore, they sometimes had stand-ins from the Altmar Empire if another person was busy doing a Challenge Dungeon.
+
+It was all very interesting, and from the sounds of it, she’d gotten quite close to a lot of people from the Altmar Empire. Meira also sprinkled in several questions herself, asking primarily about Jake’s time at the Pantheon of Life.
+
+The conversation ended up taking several hours, with Meira going through quite a few tea leaves, as Jake happily sampled all her most successful creations. Throughout their talks, they managed to avoid certain subjects and primarily discussed events and their personal experiences.
+
+Jake wouldn’t even call this beating around the bush or ignoring the elephant in the room. In fact, he found himself incredibly surprised at how easily the conversation flowed. Before, getting Meira to share her own opinions was like pulling out teeth, and her joking around or even throwing in a faintly sarcastic line would have been utterly impossible.
+
+It was a nice change of pace that Jake greatly appreciated, and while Meira was still a bit awkward at times, this was a significant improvement. Jake even felt an odd sense of pride when he felt just how much stronger Meira’s aura had grown, both showing her gain in power and demeanor.
+
+Alas, eventually, Jake did want to touch on the main reason why he’d wanted to speak with Meira. Luckily, he got a rather natural segue into the topic when they began talking about the recent declaration of friendship between the Order of the Malefic Viper and the Pantheon of Life, alongside the two representatives from the faction Jake had traveled back with.
+
+“Yeah, I think Dina is gonna do a good job, even if she was obviously chosen due to her existing connection to me,” Jake said. “As for Artemis... did you hear about any of your party members mentioning the Lord of the Hunt in the Colosseum of Mortals?”
+
+“Only mentioned, none managed to actually fight the champions,” Meira answered.
+
+“Well, the Lord of the Hunt was an image of Artemis,” Jake explained. “And, well, during the Challenge Dungeon, her image and I kind of got close after it had its full memories restored.”
+
+“Oh?” Meira asked, looking genuinely curious.
+
+Jake decided not to try to hide anything as he went on a bit of a rant.
+
+“A recording of this interaction between the Lord of the Hunt and me made its way back to Artemis, and I saw the real her at Nevermore before going back, though we didn’t have any time to talk. When I went to the Pantheon of Life, the two of us finally had a proper sit-down to talk about everything, and part of the reason I wanted to go there in the first place was to talk to her. The Malefic Viper had even given me a treasure that allowed her to reach Godqueen. Anyway, we talked and now we’re kind of... together. As in, officially together, and part of the explanation for that declaration of friendship is because of that. I would say it’s pretty serious and not just a fling, so out of respect to her, I need to clean up certain parts of my personal life. Okay, she did say she would give some leeway, but I don’t really want to do that, as it feels wrong, especially because it sounds like she isn’t interested in making use of this leeway herself. Things are definitely still a bit complicated, but one thing’s for sure, I’m not gonna commit to that one relationship and not have any other ones...”
+
+Admittedly, Jake should perhaps have rehearsed what he planned on saying a little instead of just vomiting everything out, but once he got started, he felt like he had to finish his rant. He at least managed not to be outright presumptuous and “reject” Meira, though he felt like he made his stance pretty clear.
+
+Jake felt pretty damn nervous as he looked at Meira for a reaction. Her face was neutral for a few moments as she digested Jake’s slightly incoherent ramblings before she surprised Jake.
+
+Meira smiled as she looked straight at him and spoke in a tone that sounded genuine: “Congratulations, you two sound like a good match.”

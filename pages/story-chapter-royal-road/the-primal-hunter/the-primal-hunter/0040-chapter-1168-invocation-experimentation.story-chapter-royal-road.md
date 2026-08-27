@@ -1,0 +1,131 @@
+---
+id: eb772b5f-1fef-5f3e-ac75-a6c2634c6af8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1168 - Invocation Experimentation"
+slug: 0040-chapter-1168-invocation-experimentation
+partOf: the-primal-hunter
+position: 40
+ownLength: 2862
+unit: words
+ownProgress: 2862
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2638063/chapter-1168-invocation-experimentation"
+royalRoadId: "2638063"
+markedReadAt: "2026-06-29T19:30:31.711Z"
+---
+
+It almost felt like cheating. In some ways, perhaps it was.
+
+Jake sat in his alchemy lab, staring at the bottle of poison in front of him, his evaluation of it clear and unambiguous. It’s nearly twenty percent more potent than without the empowerment...
+
+Over the last day or so, Jake had used his new Invocation skill a number of times to empower different Legacy skills just to see what happened. He’d naturally first started with Sagacity and quickly noticed a few things.
+
+Due to Sagacity being nearly entirely passive, empowering it didn’t drain a lot of energy, but he certainly felt the strain it put on his soul, nevertheless. As for what empowering Sagacity did... well, as it said on the can, it made all its effects better, with some minor limitations.
+
+Sagacity provided Jake with a wealth of knowledge simply by having the skill, but sadly, empowering it didn’t result in Jake suddenly feeling an influx of new knowledge. He also quickly had it clarified that empowering a skill didn’t give him more stats, either. With that, Jake concluded that some of the bonuses from skills simply couldn’t be increased. In fact, it seemed like only the “active” or at least “triggered” effects would be improved from his initial testing.
+
+A part of what Sagacity allowed him to do was extract knowledge from the drop of blood in his Soulspace, and that part was empowered. It wasn’t very useful, though, as the extraction of knowledge tended to take a long time, and by the time Invocation would provide any value, he would have to deactivate it to avoid the skill becoming too unstable.
+
+At the end, Jake concluded that Invocation worked essentially only with the middle section of the skill:
+
+“Allows the Alchemist to make creations he does not have the associated crafting skill for (if no associated skill is found, a small bonus to stat effectiveness shall still be provided). You can freely modify and change the displayed information of anything you create, fooling most Identify skills. Knowledge further increases Records infused when crafting.”
+
+Empowering Sagacity using Invocation increased all these effects, with especially the last two having proven themselves to be very useful. Jake hadn’t experimented a lot with editing displayed information of crafted items, but it was clear that Invocation made this aspect of the skill a lot easier and harder to see through. The part about infusing Records was also great, as it was just a straight-up increase to the effect of anything he crafted.
+
+Another tidbit of very useful information Jake learned was that he didn’t have to activate Invocation throughout the crafting process. As long as he used it right before he got done with a craft, it would apply its full effect, meaning he only had to use Invocation for a few seconds.
+
+Now, when it came to the downsides of the skill, it rapidly became evident that those were very much overstated. The reason Jake could conduct a good deal of experimentation in a short time was that Sagacity only ended up being penalized for around twenty minutes after his first attempt, and if he used Invocation for only a couple of seconds, the penalty would barely last a few minutes.
+
+Jake also noticed something else after empowering Sagacity a few times. It was very subtle and he could barely detect it, but after every use and recovery period, everything didn’t return to being exactly the same.
+
+During Invocation, Jake absorbed Records from the Malefic Viper, most of which were dispersed through his actions. However, a bit of these Records stayed with Jake afterwards, meaning that with every use, he felt that his understanding of his Legacy skill grew by a minuscule amount. It was so small that it was nearly undetectable, but that it was even a thing was incredible.
+
+Jake had discovered this while recovering after empowering Sagacity. He had just been studying a bit in a book when suddenly he read something and got an odd sense that he already knew it. He also seemed to know more about a particular herb he’d never seen before than what was on the page, and after flipping to the next section, he confirmed this knowledge was correct. Due to that, Jake believed that while Invocation didn’t directly give Jake instinctual knowledge, the Records lingering in the skill did give him more knowledge... he just had to figure out how to trigger this “remembering.”
+
+He also theorized that his Identify should be better if used in conjunction with Invocation-empowered Sagacity, but he hadn’t tested that yet.
+
+When it came to the Records echoing back to the Malefic Viper, he’d yet to notice it happening. It was likely entirely passive and undetectable, and if it did have a negative effect on experience gain or anything similar, he would only know after a long time of gathering data. His initial guess was that the increase in Records Jake got from Villy roughly cancelled out the ones he gave away, as that seemed to track with the whole theme of them being best-buddy equals.
+
+Also, even if there was a disparity in the exchange of Records, that didn’t mean either side would lose out. Records weren’t just Records but varied widely in quality and quantity; however, these two distinctions were also oversimplifications.
+
+What would be considered high-quality Records to one person could be trash to another. In Jake’s case, the Records obtained from killing a peak C-grade would likely be shit, while to someone else his level who was worse at combat would get extremely high-quality Records from such a feat.
+
+Perhaps an easier example would be if the Sword Saint successfully transmuted a legendary rarity sword. Such a feat would be absolutely insane to him, in the same vein that Jake painting a legendary rarity painting would give him a huge amount of quality Records. However, switch it around, and it was back to Jake and the old man just going about what they regularly did, which was the key to why they would be considered high quality in the first place.
+
+Diversity was the spice of life and a massive source of Records. Accomplishing and trying new things was incredibly important as it helped one diversify Records. Sure, some Records weren’t actually that useful if they didn’t benefit one’s Path, but that didn’t mean one wouldn’t get them.
+
+The point was that the same Records affected Jake and Villy differently, which was why an exchange taking place could potentially prove massive. The Records Jake got from Villy were certainly entirely useless to the Primordial, and even if what Jake got could be considered high quality for both himself and the Viper, when it came to quantity, it was akin to Jake drinking with a straw from the ocean.
+
+Meanwhile, the Records Jake gave back to the Viper could also prove surprisingly beneficial for the Primordial. Sure, Records from crafting some rare poison didn’t mean shit to Villy, but what about if Jake sent back Records related to the First Sage? The ones from his ritual? Or just ones flavored with Jake’s unique signature of Jake-ness that ultimately stemmed from his certifiably overpowered Bloodline?
+
+In that case, perhaps even a being standing at the apex of the multiverse could find some quality.
+
+Anyhow, back on topic. After testing Sagacity a bunch, Jake moved on to his other Legacy skills, but a lot of them weren’t that interesting. Sure, it would work with skills such as Wings, Fangs,  Presence, and Scales of the Malefic Viper, but honestly, in what realistic scenario would he use Invocation?
+
+These skills were primarily made for combat, so he nearly only used them when also using Arcane Awakening. The sixty percent increase in all stats made these skills even stronger than Invocation could in most cases, and in the scenarios where Invocation would be better, it wasn’t really an option. Sure, he could use Invocation to make his Wings of the Malefic Viper escape or defense features stronger if he found himself in a pickle during a fight, but doing that meant deactivating Arcane Awakening first, resulting in an instant period of weakness. In other words, trying to use Invocation was primarily great for committing suicide if used mid-battle.
+
+With a skill like Sense of the Malefic Viper, Jake also found it had few uses. Primarily, he could use it to far better detect alchemical ingredients and energies in his surroundings, despite this being a primarily passive feature. The other aspects of the skill were either combat-focused or didn’t provide any obvious benefits. All in all, not very useful with his current version of Sense.
+
+To quickly gloss it over, Jake didn’t – and couldn’t – use Invocation on Palate of the Malefic Viper. When it got fixed, Jake had some neat ideas, though.
+
+Blood was an interesting one, too. Ignoring the combat-related parts of the skill, Jake discovered that he could use Invocation, cut himself, pour some blood to craft, and then deactivate the skill again, resulting in the blood he used just being better. It was a bit silly, but hey, as he didn’t have to activate Invocation for long, he could repeat this every time he needed more blood, turning it into a straight buff.
+
+Now, Touch was probably the most obvious of the nine Legacy skills to use Invocation with. It was a purely active skill that Jake used as his transmutation skill, and he quickly confirmed that Invocation just made him better at transmuting when using it. There was one slight downside, though.
+
+Due to how actively involved he was during Touch of the Malefic Viper, it took a big strain on his body and soul to use Invocation. Transmuting things was also a time-consuming process, and he couldn’t really stop halfway through even if he wanted to. If he kept Invocation running for too long, Touch also risked becoming too unstable for Jake to continue, and even if he found that his arcane affinity did help calm things down, he simply had no way to make Invocation last long enough for a full transmutation.
+
+From this, Jake concluded that it was best to delay using Invocation when transmuting. It tended to get harder in the latter portions anyway, especially towards the very end, so he would still get massive benefits from using it only for parts of the transmutation process. Even just using it right at the end would massively increase his chances of success.
+
+Overall, Jake was more than satisfied with the effects of the skill, especially upon discovering it would make upgrading all of them easier based on how much he used Invocation. It definitely worked better with some skills than others, but even in those cases, who’s to say what future uses he could find? He was also pretty damn confident he’d missed a lot of interesting ways to use Invocation already, as his experimentation had admittedly been a bit rushed.
+
+Being done with testing the nine “of the Malefic Viper” skills, Jake calmed down and took a breather as he considered things. Artemis hadn’t been back yet either, so to pass the time, Jake decided to concoct a few poisons, as he was in the mood. He planned on using Sagacity towards the end... however, that’s when he had a stroke of inspiration.
+
+One that led him to discover perhaps the most overpowered skill to empower when making poisons that he already knew how to concoct. It was a skill that he hadn’t even initially thought of when considering his Malefic Viper Legacy skills, as it didn’t fit in with the other nine. Even so, it most certainly was one:
+
+Malefic Viper’s Poison.
+
+In fact, this was the first Legacy skill Jake had ever gotten, seeing as it had been part of the basic alchemy profession from the second he touched that book way back in the Challenge Dungeon. It was a great, entirely passive skill that Jake barely even considered, and he only noticed its existence when it rarely activated.
+
+Until today, that is. Because there was one part of the skill’s description that Jake had suddenly recalled:
+
+“Increases the potency of all crafted poisons.”
+
+The question was: When did this effect activate? When was it triggered? Jake discovered that it happened right as Jake finished creating any kind of toxin using his alchemy skills. It worked similarly to Sagacity’s effect of infusing more Records into a craft and making it stronger, except this effect was far more powerful when empowered.
+
+When using Invocation on Malefic Viper’s Poison right at the end of the craft, the resulting poison turned out to be roughly twenty percent more potent than if he hadn’t done this. It was a massive bonus... that he could even use in combination with other Legacy skills.
+
+Invocation didn’t have any cooldown. The only limitation was that Jake could only empower one skill at a time. That meant he could use Invocation on Sagacity of the Malefic Viper for nearly the entire crafting process, cancel it right at the end, only to then empower Malefic Viper’s Poison. Oh, and of course, before he even started crafting, he’d poured in Invocation-empowered blood.
+
+And all of this was discovered by Jake within a single day. Given more time, he was bound to discover even more clever uses of skill and system mechanics for him to exploit.
+
+Combat-wise, Jake still felt that Invocation was mostly useless, but when it came to crafting, it was insane. In fact, the best way Jake could describe it was as a boosting skill for crafting, something that Jake was pretty confident wasn’t really a thing. Sure, it didn’t directly boost stats or anything, but due to his alchemy relying a lot on the Malefic Viper’s Legacy a lot, the effect on the outcome turned out similar.
+
+Another similarity Invocation had to a boosting skill was the exhaustion it could inflict. While it was true that there was no cooldown on the skill as long as he used it on different Legacy skills, that didn’t mean systemic exhaustion wouldn’t build up with repeated uses.
+
+After a day of experimentation, Jake was well and truly spent, and he knew that using Invocation much more wouldn’t turn out well for them. He also felt like the instability kicked in earlier than usual during his last few uses, only further cementing that he needed some rest.
+
+Still, as he stared at the bottle of Heartrot Poison he’d crafted as an experiment, he felt more than satisfied. Empowering Malefic Viper’s Poison alone led to a roughly twenty percent increase, and coupled with Blood and Sagacity, Jake was confident in pushing it toward making all of his crafted poisons a third more potent than they had been just a couple of days ago.
+
+To recover and perhaps even do a bit more experimenting before he had to check in on Jasper again, Jake started meditating down in his alchemy lab. While he was done reading the tome of the First Sage for now, he still had a lot of content to review as he properly digested everything and fully formulated his Meditate skill upgrade.
+
+Jake ended up spending about four hours in meditation before he felt a new presence lock in on his location. He couldn’t help but smile as he opened his eyes right as a familiar wood elf goddess appeared in front of him.
+
+“You know, some people would find it disturbing when you seemingly always know they’re about to arrive,” Artemis said in a teasing voice. “I would also be a bit careful showing it off. It’s neat for sure, but also something that will raise some eyebrows. A mortal detecting a Godqueen is not normal, especially not when they did it in the middle of meditating.”
+
+“I knew it was you who was coming, so I didn’t see the need for caution,” Jake shrugged as he quickly stood up from the pillow he had been sitting on.
+
+“See, you saying that would also prove disturbing to many,” Artemis reiterated.
+
+“I don’t really care what this ambiguous group of many thinks about me,” Jake smiled as he walked over to Artemis and put his hands around her waist. “And I don’t see you acting very disturbed.”
+
+“Oh, me?” Artemis said, looking him in the eyes. “Perhaps I’m the disturbed one for finding it attractive. Shows you’re not the type to get snuck up on. Always the hunter, never the prey and all that.”
+
+“Should be careful around someone that dangerous, shouldn’t you?” Jake chuckled.
+
+“It’s too late, it seems. I’ve already been caught,” Artemis smiled as she leaned in and whispered into his ear. “Now what shall the hunter do with the defenseless prey he holds in his clutches?”
+
+“Well,” Jake responded, moving his head closer to hers. “I’m not the type to catch and release.”
+
+Jake took the initiative this time around and didn’t give her time to answer before he covered her mouth with his, having decided that the experimentation could wait a little longer.
+
+Besides, meditation wasn’t the only way to heal one’s soul.

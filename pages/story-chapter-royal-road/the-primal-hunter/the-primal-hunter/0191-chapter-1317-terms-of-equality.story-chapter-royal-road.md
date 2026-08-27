@@ -1,0 +1,151 @@
+---
+id: 41ba9fc7-0a64-50ab-a0ae-ec655f4f8593
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1317 - Terms of \"Equality\""
+slug: 0191-chapter-1317-terms-of-equality
+partOf: the-primal-hunter
+position: 191
+ownLength: 2986
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3427915/chapter-1317-terms-of-equality"
+royalRoadId: "3427915"
+---
+
+Jake certainly didn’t enjoy being put on the spot, and he felt all the A-grades passively observe him, looking for any sort of reaction. However, Jake couldn’t give an answer that wouldn’t be detrimental, because it was the truth. The ninety-third universe was heavily restricted, and truth be told, if these A-grades broke out, they could conquer the entire Milky Way relatively easily.
+
+Sure, in due time, the Order of the Malefic Viper would be able to enter the universe and perform a purge, wiping out every native of Venus, but how the hell would that help Jake’s current situation? The only thing he had was the threat of that happening... and he reckoned that was his best bet after some consideration.
+
+Trying to still play it cool, as if he’d just been momentarily surprised, Jake raised his hands in a joking manner. “You got me. It’s indeed under a level restriction. One that’s loosening every day.”
+
+The Horned Slayer smiled as Jake tried to get ahead and reclaim some momentum as he continued.
+
+“Which means the threat of the multiverse to this Minor World isn’t gone. Just delayed. That’s why I said it could take up to a thousand years originally, as by that point, the restrictions will have loosened significantly,” Jake continued, not feeling confident saying that he believed A-grades, especially not peak A-grades, would be able to enter the universe by then.
+
+“We know,” the Horned Slayer said, continuing to smile. “Or, more accurately, we’d figured. And isn’t that part of the problem? We all fully realize that this multiverse will utterly dominate us once the time comes, but you know what won’t help us avoid such a fate? Being trapped in here.”
+
+Jake frowned, genuinely confused about what the Horned Slayer was getting at. “What do you mean? We were just talking about working on a plan to figure out the best way to create travel between this Minor World and the universe.”
+
+The Horned Slayer looked at Jake before shaking his head, as, surprisingly, the Nestmother moved closer and spoke.
+
+“You’re used to being in a position of authority, yes? That your decisions matter, and that ultimately, your will shall dictate events. Because that’s exactly the assumption you’re operating under right now,” the Nestmother said, also shaking her head. “You say work on a plan, but tell me this... what stops you from merely leaving through the Boundary, locking down the entrance with the authority you clearly hold in the outside world? Stops you from waiting for a few thousand years before sending in these S-grades to utterly dominate our world? Our people?”
+
+Jake suddenly realized why these A-grades were acting like this as he frowned. “That has never been my intention.”
+
+“Again, that’s the problem,” the Nestmother let out a loud sigh. “Every outcome of what happens to this world relies on your intentions. Your choices decide our fate. You can come and go as you please. Meanwhile, we’re all trapped here and can only enter the outside world at your mercy. On your timeline. And what then awaits us on the other side? From all you’ve said so far, the only fate we can look forward to is a life as subordinates if we’re lucky, or slaves if we’re unlucky. Assuming we even survive.”
+
+At this, Jake didn’t immediately have a response, at least not one he wouldn’t expect to get another sigh as a reaction. He started really considering what she was saying and... she kind of had a point. A point Jake had heard many times before on both Earth and the rest of the Milky Way, and one Miranda had talked about being a problem in several places.
+
+A problem Jake could totally understand, but was lucky he didn’t have to deal with.
+
+No faction liked being dominated and forced into a subordinate position by a stronger force, just as Jake didn’t like being told what to do.
+
+Jake had essentially come into this Minor World and started preaching of supremely powerful factions that would inevitably conquer the entire world, and in his mind, all he had considered was which factions these races could join. How, maybe, the Arachnecs would fit with the Risen, and the Venusians probably with the United Tribes. However, throughout this, he had never considered perhaps the most important question:
+
+Did these races even want to become subordinates of a multiversal faction?
+
+He had come to their world and more or less announced their future conquerors. With such a large disparity in power, the natives of Venus likely realized they couldn’t win a fight when the time came, which was probably why they were trying to do something now. Something to preserve whatever they currently had.
+
+Jake was deep in thought, and this was definitely noticed as the A-grades kindly gave him some time to process. At least until it was evident Jake had reached some kind of realization.
+
+“He finally seems to be getting it,” the Horned Slayer said with a slight chuckle, shaking his head. “Human, I don’t blame you. You probably like this faction of yours, but I’m not gonna lie, I’m not particularly keen on being forced under someone else without any input.”
+
+“We fully realize that we will be in no position to fight, but we still aim to create a situation where we can at least negotiate,” the Nestmother continued, where the Horned Slayer left off. The two of them had really done a one-eighty by working together now, which showed that if nothing else, Jake had successfully managed to create some sort of unity even between warring factions.
+
+“What exactly do you want from me? To be clear, I’m more than happy helping you to make this transition as smooth as possible, both for individuals and factions, but I’ll also be honest... remaining entirely independent isn’t an option. The entrance is located in an area already ruled by someone and under the purview of the Order of the Malefic Viper, but maybe it can be agreed that the Minor World itself will remain under your control,” Jake said, really just trying to communicate he was open to finding a solution.
+
+Despite the attitudes of Venus’s natives having taken a bit of a turn, they still didn’t show outright hostility. Clearly, they wanted something out of this, and it had to be something Jake could provide.
+
+“Even in that scenario, we’ll at best be considered vassals at best, and it will be given through mercy that can be retracted at any point,” the Nestmother said, shaking her head. “I am glad to hear you’re willing to help, though. Because we admittedly do need your help... the circumstances of this help, just cannot come solely based on your whims, though.”
+
+This appeared to be the crux of their current issues. Despite the actual disparity in power, Jake was more or less holding all the cards right now. They had no recourse if Jake acted against them or refused to cooperate. Well, no recourse but to use their superior power.
+
+“I understand you’re in a difficult position, but again, all I can give is my word,” Jake sighed, getting the feeling that nothing he could say would reassure these A-grades. They likely also questioned if Jake, as a mere B-grade, was even capable of making any truly important decisions.
+
+“No, no, you can do something more,” the Horned Slayer said with a smile. “Something to equalize the situation somewhat.”
+
+Jake had a feeling he wasn’t going to like what would come next as the Horned Slayer continued.
+
+“As you no doubt realize, you hold all the decision-maker power, and all we’re going to ask of you is to hand that over. To trust us in the same way that you’re asking us to trust you,” the A-grade said, as a figure Jake had waited to speak finally entered the conversation.
+
+“Oh, that’s why I’m here,” the Lich cackled, definitely having looked forward to this moment in the conversation. The powerful Lich waved its hand as magical scripts started flying in the air, and Jake’s eyes opened wide when he realized what it was.
+
+“Good. Good, you know what this is,” the Lich said with a pleased smile. “Before, you spoke about making a plan for the integration of natives from this world. Isn’t this a great first step? A document setting certain... parameters for success.”
+
+Jake continued staring at something he recognized all too well.
+
+A Soul Contract.
+
+There were many forms of magic in the multiverse Jake wasn’t a fan of, and Soul Contracts were certainly one of them. Especially seeing as the most common use of Soul Contracts throughout the multiverse was to create slaves. Sometimes they did have legitimate uses, as Soul Contracts were binding and could carry catastrophic backlash if broken, often even resulting in death. This made these contracts incredibly powerful but also underused outside the slave trade, as the backlash also meant most would never dare to sign one unless they really had no choice.
+
+Especially because these contracts were never truly equal, meaning more often than not, the only way to have someone sign it was under duress. Such as the situation right now, because the contract Jake was staring at sure wasn’t one of equals either.
+
+It wasn’t a slave contract... but it got disgustingly close.
+
+“This is naturally just a draft to be edited and refined until we all reach an agreement we’re all happy with,” the Lich said in a cheery tone. “Of course, some things are non-negotiable. Such as this.”
+
+The Lich pointed at one of the terms written in runes that outlined Jake would have to “report in” at the Lich or one of the leaders of the Venusians or Arachnecs at least once every five years.
+
+“And this, of course.”
+
+A second term outlined how Jake had to bring a certain number of natives from the Minor World into the universe every decade, with that number being far from small.
+
+He read the entire damn thing through, and it more or less read like a job description. Except it wasn’t a job Jake could merely quit if it ended up sucking. Instead, the Soul Contract would naturally expire the day free travel through the Boundary became a thing.
+
+In return, the natives of the Minor World would provide Jake with resources to help hasten his growth – something that was definitely done more for their own sake so he could bring them out faster – and a guarantee none would dare hurt him while within the Minor World.
+
+The real “pull” of what they offered came in the form of giving him his own “special cave” down at the ocean of the Minor World. Jake recalled the Shaman mentioning these as more or less blessed land for any monster, as the mana there was incredibly dense and pure due to natural formations. In other words, a place entirely useless to Jake, given that he wasn’t a monster.
+
+There were a lot more things in the Soul Contract, but honestly... did it fucking matter?
+
+“Naturally, some of the other things are hard to negotiate, but I’m sure that-“
+
+“Is this a fucking joke?” Jake cut off the near-peak A-grade.
+
+The Lich instantly stopped looking all jolly as she looked at him. “It’s most certainly not. Understand that this is the best option. Submit while you are weaker, reap the benefits, and in due time, you’ll come to realize that you made a wise decision today.”
+
+“Or what, you’re gonna kill me?” Jake said, pointing at the contract. “Because I’m not signing shit.”
+
+Reasonable thought and politeness had entirely left Jake’s mind as he fully realized it didn’t matter anymore. He’d tried those things and realized it had been the wrong approach from the start of this conversation. Something had felt wrong from the beginning, and now he knew why.
+
+Just looking at the contract made Jake feel a deep rage from within.
+
+“Please, this is just a starting point, and while it’s certainly heavily in our favor, do try to understand-“ the Oracle started, but Jake cut her off.
+
+“It’s you who doesn’t seem to understand. I’m never going to sign anything. You have either the choice of trusting me or killing me, and if I were you, I would at least try the former first, because the latter will only have one very predictable conclusion,” Jake said.
+
+“What? That you die a needless death due to your own stubbornness and refusal to see what kind of situation you’re in?” the Horned Slayer rejoined the conversation with a disappointed-sounding tone. “You’re obviously young, so give up that stupid bravado and take the damn Lich’s advice. Do we want to kill you? No, obviously not, but if we allow ourselves to be trampled all over by a mere B-grade, we’re gonna get utterly crushed down the line.”
+
+“You’re right now headed straight towards the worst ending imaginable,” Jake sneered.
+
+The Horned Slayer narrowed his eyes as he flared his aura at Jake. “I’m being nice right now because you’re useful, but at some point, your delusion has to come to an end. You’re a B-grade. Sure, you’re talented, and I don’t doubt your faction values you, but don’t kid yourself. Do you really think some supreme being would go out of their way to avenge something like you? Stop kidding yourself. Sure, they might demand compensation, but if the Venusians offered allegiance to this Malefic Viper, do you genuinely think such a being will give a shit we killed a damn B-grade?”
+
+And there was the second major misunderstanding or error in the approach of the natives of Venus. Another explanation why the hell they dared to act as they currently were. They didn’t fully comprehend the concept of gods and Blessings, so they didn’t understand what it meant to be a Chosen. At most, Jake was indeed just a talented B-grade, and what faction would throw away a race full of B-grades and even A-grades to avenge someone like Jake?
+
+They were right in that usually no faction would bother to... except Jake was a Chosen. Even ignoring his close personal relationship with Villy, no god would accept someone killing their Chosen. A Chosen was the prophet of a god, and in many cases, their mouthpiece among mortals. Killing a Chosen was a personal offense to a god, and revenge was more about pride than the person who was actually slain.
+
+“You’re absolutely clueless,” Jake scoffed at the A-grade. “Let me make it absolutely fucking clear and make sure that truth-teller of yours is watching. If I die in this minor world, I can guarantee you that every single one of you will meet the same fate, and this entire world will be erased from existence.”
+
+He had tried playing nice and used veiled threats and implications at most, but it was clear the time for those kinds of things had long passed. Now, it was time to directly threaten them with annihilation, and he truly did believe what he was saying. He knew Villy well enough to know that he would destroy this entire Minor World, and not just because he wanted to avenge Jake as a person. If he allowed someone to kill his Chosen without absolutely devastating consequences, it would undermine all he’d been working on with the Order’s expansion. The natives of Venus would just be another warning to the rest of the multiverse.
+
+And if Villy didn’t take revenge, then he at least hoped Artemis would. She seemed like the type who would.
+
+Further leaning into threats, Jake used a card he’d been saving and wanted to avoid using if he could, in part because he really didn’t want to risk the mental resistance, but he felt like he needed to do it anyway.
+
+Without any warning, Jake used Invocation on Pride of the Malefic Viper as he unleashed the divine aura of the Primordial while speaking again.
+
+“I-“
+
+Jake didn’t even get further as the presence of the Horned Slayer crashed down on him, this time with a bit of actual energy infused into it. Under the pressure from a near-peak A-grade, Jake’s Pride of the Malefic Viper crumbled as his soul experienced a sudden shock, nearly knocking him unconscious from the backlash of having his skill broken.
+
+“You can posture and mimic all you want, but it isn’t going to work,” the Horned Slayer said in a slightly mocking tone as he moved toward Jake. “The terms have already been laid out, and you really have no choice. All you’re doing right now is lessening any goodwill we have and making things harder for yourself. That, or you’re actually looking to die.”
+
+The words rang in Jake’s head as his mind was still shaken, and beneath his mask, blood poured out of his eyes, nose, and mouth, as his soul had suffered some severe damage. As he saw the Horned Slayer approach, only a single thought struck him.
+
+Could I harm him if I did that?
+
+Jake felt his heartbeat as his Bloodline responded, ready to heed his will should he choose to make his final stand. He doubted it would lead to anything... but he wanted to at least see if he could make one of them bleed if it came down to it.
+
+“Not gonna talk? Fine, I’ll give you some time to recover, but it won’t change anything. Make the smartest decision of your life, because there’s no leaving alive unless a Soul Contract is signed. No help is coming, and-“
+
+The Horned Slayer stopped himself and whipped his head around as he stared downwards. Jake also felt it and instinctively shifted his gaze below, where he saw the world shifting as a massive, scaled beast ascended towards them, its aura overshadowing every other A-grade present.

@@ -1,0 +1,171 @@
+---
+id: cfc68131-8388-5238-82cf-c5448faa0777
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1249 - A Pair of Dungeon Critics At Work"
+slug: 0121-chapter-1249-a-pair-of-dungeon-critics-at-work
+partOf: the-primal-hunter
+position: 121
+ownLength: 2851
+unit: words
+ownProgress: 2851
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3015405/chapter-1249-a-pair-of-dungeon-critics-at-work"
+royalRoadId: "3015405"
+markedReadAt: "2026-06-29T19:34:20.998Z"
+---
+
+“This makes no fucking sense!” Jake yelled, flying at full speed while flapping his wings frantically. “Where the hell would a faction with B-grades even have gotten something like that!?”
+
+“Stop asking questions that we both know don’t have a reasonable answer!” Casper yelled back, curse and ghostly energy revolving around his body as he barely matched Jake’s speed with the help of Lyra.
+
+Behind them, an item of immense power was rolling towards them. It was a glowing blue orb that consumed everything —living and dead —in its path, leaving only the walls of the labyrinth untouched. Jake and Casper had already seen a few poor Construction Golems make physical contact with the massive orb, only to see them instantly get disintegrated.
+
+To make matters worse, the orb had writing on it, showing five glowing letters that were somehow always visible despite the ball rolling around:
+
+Jones.
+
+The two of them kept fleeing down the corridor as the gigantic ball kept rolling, its speed slowly increasing as time went on. Jake and Casper had already tried to throw all sorts of attacks at the damn thing, but it was all to no avail. Whatever the fuck this orb was, it wasn’t something at the level of early B-grades.
+
+“Definitely leaving a review about this,” Jake cursed under his breath as he finally spotted something ahead of them, making him yell toward Casper. “On the left, fifty seconds away!”
+
+Casper nodded, focusing on maintaining his current speed as the orb slowly began closing in. The ominous object of pure destruction was getting uncomfortably close as they reached a construction hole in the wall large enough for the two to pass through.
+
+Right as they got next to it, Jake released a blast of arcane energy to the side, propelling him into Casper and dragging the two of them through the hole right before the massive orb rolled by. Upon feeling it pass, Jake’s danger sense flared, and the hair on his neck stood up as a shiver ran down his spine.
+
+“Shit,” Casper said, breathing heavily while getting his bearings. “Okay, I’m gonna venture a guess that thing isn’t going to be part of the actual dungeon when it releases, but just Minaga trying to get revenge for us fucking with him in Nevermore…”
+
+“I sure hope so,” Jake said as he poked his head out of the hole and saw the massive orb continuing to roll down the long hallway of the Grand Labyrinth before the path slightly curved, making it disappear. “If not, I venture it would be responsible for ninety-nine percent of deaths.”
+
+“Surely he’ll remove it,” Casper muttered, shaking his head. “Man, and here I was thinking everything was going so damn smoothly.”
+
+“They were. Until that thing appeared,” Jake concurred, looking to the sides and down the two new hallways they had entered. “Weird, no Architects, Engineers, or even Golem Foremen here. Also, based on what I see, I’m pretty sure both of these paths lead to dead ends.”
+
+“Guess we’ll head back and follow wherever that orb went,” Casper said. “Let’s just hope that damn thing can’t turn around… though, considering if we follow it, won’t it have killed everything in its way?”
+
+“Oh, definitely,” Jake nodded. “But there are other construction holes ahead for us to find other paths.”
+
+“Right,” Casper nodded. “Let’s find some more stuff to kill already. Hopefully, we’ll find another stretch with proper enemy density again.”
+
+“I’ll definitely be on the lookout for such a place, but also let me know if you detect anything. Especially those hidden teleporters,” Jake said, getting a confirmation from the Risen before the two of them headed back to the other hallway and began flying through it.
+
+During his flight, Jake kept scouting using Pulse to locate more enemies. He did see some, but they were all behind walls with no clear way to reach them. That giant orb of destruction had definitely messed things up, though, as Casper said, they had been making good progress, both in exploring the Grand Labyrinth and when it came to farming experience.
+
+They also no longer fought only Construction Golems, but had encountered three more kinds of foes. All of whom had met the same fate, of course.
+
+You have slain [Aginian Architect – lvl 359] – Bonus experience earned for killing an enemy above your level
+
+You have slain [Aginian Engineer – lvl 360] – Bonus experience earned for killing an enemy above your level
+
+You have slain [Aginian Golem Foreman – lvl 364] – Bonus experience earned for killing an enemy above your level
+
+At least from their names, the theme remained consistent. These were all crafting-focused creatures, making them naturally weaker in combat. The Architects used space, light, and illusion magic, while the Engineers primarily used earth and metal bending.
+
+Jake had also wondered what kind of creatures these non-golems would be, and he still kind of did. It appeared that not only had Minaga made up the Aginian faction name, but even an entire race known as Aginians.
+
+Appearance-wise, they looked like a mixture of elves and squid people. They had elven ears and overly thin bodies, but also beak-like mouths and long tentacles for hair, with eyes that looked like octopus eyes, with their weird square shapes.
+
+Besides that, they had two hands and feet, though they did have webbing between their fingers and toes, making Jake fear there would be an underwater portion of this dungeon somewhere due to their aquatic looks, but luckily, they’d not seen any such horror yet.
+
+Power-wise, they had been pretty weak, once again likely because of their roles as construction workers and not combatants. The strongest enemy thus far had been the Golem Foreman, but even that one had been slain pretty damn fast. Not to say Jake and Casper hadn’t found any challenges yet. Outside of the Jones Orb, of course.
+
+This was mainly due to the enemies being more gathered inside the Grand Labyrinth than outside. Oftentimes, one would encounter groups working together on sections of a labyrinth wall, making it borderline impossible to only fight one at a time. So far, Jake had remained capable of one-shotting everything they’d met during the dungeon, even the Foremen, though that did require him using a full-power Arcane Powershot with a Protean Arrow.
+
+Time-wise, Casper and Jake had spent just short of five days together in the dungeon, and while both had a lot of complaints they would be sure to tell Minaga later, one thing they couldn’t complain about was the progress they’d made. Casper had gained two class levels throughout the dungeon, and even Jake had managed to get a level during their last fight.
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 344 - Stat points allocated, +50 Free Points
+
+Granted, if Jake had been alone, there was a chance he could have made more progress, but if he had, Jake doubted he would have gotten his Stealth Attack skill upgrade and also wouldn’t have increased his understanding of using curses in combat.
+
+Oh, and it would have been a lot less fun, as Jake was genuinely having a good time with Casper, and it had been nice to catch up and hear all about what the Risen had been up to in the last few years. While the two had spent some time together, this was the longest stretch they had spent one-on-one since the system arrived. Okay, technically, there were three people, counting Lyra, but she was being nice and chilled in her locket for the most part, allowing them to have some guy-time.
+
+“I detect a teleporter somewhere nearby,” Casper said while the two were flying. “Should be up ahead.”
+
+Jake released a quick Pulse and nodded. “Yeah, there is a construction hole there. I reckon the teleporter is through that.”
+
+It was a bit annoying, but Jake couldn’t see the teleporters with his Pulse or Sphere of Perception. They took the form of magic circles engraved on the metal walls of the Grand Labyrinth, leaving no physical marks but only magical ones, making it impossible for Jake, who only saw shapes, to spot them.
+
+Luckily, Jake had Casper around, who had certain skills that were extra useful in dungeons. As a Dungeon Engineer, he mostly focused on making and maintaining dungeons, but he still had some skills that granted him increased insight when within one, and sometimes he could even “cheat” to a certain extent. Sadly, the Risen hadn’t found anything too exploitable quite yet, and considering Minaga was the one who’d made the dungeon, he wouldn’t find anything either unless Minaga purposefully placed them there.
+
+“By the way, is it just me, or was having a dungeon-focused Path not way more overpowered in Nevermore?” Jake asked as the two were nearly upon the construction hole.
+
+“Oh, it definitely was,” Casper confirmed. “Pretty sure Minaga purposefully went overboard there to help his fellow dungeon-enthusiasts. However, for a dungeon like this, giving someone like me too many advantages honestly just ends up being bad design. It’s all about finding a balance, and so far, I feel like I have some advantages, but not enough to make it feel too unfair. Granted, my impression is definitely colored by being here with you and your entire cheat-like existence, but based on what we've seen, I wouldn’t say it’s a valid point of criticism.”
+
+“Alright, fair enough,” Jake nodded, not going to argue about anything the Risen said, including the portion about Jake being a bit of a cheat.
+
+By now, they’d reached the construction hole, and after entering it, Casper quickly located the teleporter that was hidden on the other side, towards the bottom of the wall. They were hidden unless someone got close, making it incredibly easy to miss them if one didn’t have someone like Casper with them.
+
+“The idea of making the Architects or Engineers drop items to make it easier to find these is definitely a good piece of feedback,” Jake said as he watched Casper inspect the teleportation circle to also get some idea of where it would take them.
+
+“Yeah, good fucking luck to anyone who’s not a dungeon engineer or a space mage finding them,” Casper shook his head as he also quickly got done inspecting the teleporter. “Alright, this one will take us quite a distance and to the opposite end of the Grand Labyrinth, but closer to the center, so probably a good idea to take it. Unless there are any holes nearby leading toward enemies?”
+
+Jake shook his head. “Nothing within several hundred kilometers. I could scout a bit in either direction, but I think just taking this would be faster.”
+
+“Could be a trap,” Casper said, making Jake remember the last time they took a teleporter only to find themselves confronted with a giant orb of pure destruction rolling towards them.
+
+“Surely, we won’t hit two teleporters leading into traps in a row,” Jake said, his voice full of hope. “And even if we do, at least the last teleporter still made us progress.”
+
+“Good point,” Casper shrugged. “But still, better safe than sorry.”
+
+Curse energy was mobilized as Casper wrapped himself in it to increase his defense. Jake didn’t see the need to do the same, as he reckoned that his danger sense would be screaming at him before even using the teleporter if it would lead directly to certain death. Even if it didn’t, Jake at least also had enough trust in Minaga to believe he wouldn’t make an instant-death teleporter, as that would just be un-fun for everyone involved.
+
+Jake had proposed just sending him through to confirm the other side was safe as the teleporters were two-way, but Casper’s assessment of the teleporters confirmed that after use, they would become inactive for a few hours, meaning that even if one could teleport back and forth, it would be on a cooldown. This meant that unless Jake wanted to waste hours upon hours teleporting through, confirming it was safe, and then teleporting back to fetch Casper, only for them to finally both go through, they had to go together right away.
+
+“Ready to go?” Casper asked.
+
+“Of course,” Jake confirmed.
+
+With a nod, Casper activated the teleporter as space magic wrapped around them both. Jake felt himself being dragged through space, as their environment shifted from standing next to a labyrinth wall… to standing next to another labyrinth wall.
+
+However, a quick Pulse confirmed that this area was quite different from where they had just come from.
+
+With surprise, Jake turned in a certain direction, joined by Casper, who also noticed something over there.
+
+“You feel it too?” Casper asked.
+
+“More than feel, I see it,” Jake said with a smile.
+
+There was a change in the Grand Labyrinth. So far, all they had ever encountered were endless wide hallways with massive walls on both sides, with little choice but to travel either to the right or left. The place lacked variety, to say the least, but now something was finally different.
+
+Ahead of them, far in the distance, the Grand Labyrinth started opening up, creating a circular room of sorts. One with only one entrance and exit, too, making it very evident this was an important place. They weren’t at the center of the dungeon yet, but this could serve as a clue or perhaps was part of the solution to getting there.
+
+Moreover, to make things better, the large hallway leading to the room had dozens of B-grades. It wasn’t the regular workers either, but two new types of enemies. One of them was a golem that looked bulkier than the Construction Golems, but more importantly, it gave off an aura, making it evident that it was made for combat. Their names also confirmed this.
+
+[Aginian Guard Golem – lvl ???]
+
+Besides them, there were regular Aginians also wielding weapons and wearing armor lining the hallway. These were clearly stronger than the golems and were all found patrolling the area with two Guard Golems following them.
+
+[Aginian Guardsman – lvl ???]
+
+“Finally, some proper enemies,” Casper said, also using his own stealth skill as the two checked out their next targets.
+
+“Eh, soon, but not quite yet,” Jake said, narrowing his eyes. “They are stronger than the trash B-grades earlier, yes, but they’re still trash. Fortunately, I get the feeling that within the room ahead, proper prey awaits.”
+
+“Hey, they have Guard Golem and Guardsman in their names; they can’t be that weak,” Casper said, shaking his head. “Maybe those senses of yours are off for once?”
+
+Spoiler: they were not off for once.
+
+You have slain [Aginian Guard Golem – lvl 360] – Bonus experience earned for killing an enemy above your level
+
+You have slain [Aginian Guardsman – lvl 361] – Bonus experience earned for killing an enemy above your level
+
+Casper and Jake proceeded clinically through the hallway, wiping out every single guard group in their way. As Jake had felt, these guards were stronger, yes, but they were still far from powerful enough to offer a proper challenge. Compared to someone like the Rainbowfeather Sovereign Jake had fought while in the Pantheon of Life, these were weaker, and compared to back then, Jake had grown a lot stronger.
+
+It still ended up taking a little while, but soon enough, the two reached the entrance to the first actual “room” within the massive Grand Labyrinth. The hallway behind them was littered with corpses and broken golems on the various battlements, which only further confirmed that this room was important.
+
+While still staying hidden, Jake and Casper scouted the area ahead. The circular room was mostly empty, and unlike the stone ground everywhere else, it was all gray sand here. Moreover, patterns had been drawn in the sand everywhere, making the entire place look eerie.
+
+Besides the sand, there was one more thing present in the room. Right at the center stood a ziggurat, emanating an odd sense of power. On the lower levels of the ziggurat, Jake and Casper spotted several enemies. These definitely looked more impressive than the guards they had just slaughtered. For good reason, too.
+
+[Aginian Elite Guard – lvl ???]
+
+They were apparently elite, and as Jake scouted more, he spotted another unique-looking Aginian who gave off an even more impressive aura yet.
+
+[Aginian Guard Captain – lvl ???]
+
+Jake was already smiling, but as he saw the top of the pyramid, his smile turned into a full-on grin. A singular robed figure stood there, their aura by far the strongest they had encountered in the dungeon so far.
+
+[Aginian Formation Master – lvl ???]
+
+Casper had gone through the same inspection process as Jake and looked to the hunter. “Say, Jake… I have a feeling I’ll finally be able to show you my single-target curse magic properly now.”
+
+“It sure seems that way, doesn’t it?” Jake agreed wholeheartedly, looking forward to seeing if this encounter would add or detract stars from the dungeon’s final review.

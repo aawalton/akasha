@@ -1,0 +1,235 @@
+---
+id: c7c9fd61-32f0-52ed-b152-9aefe1d9109c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1158 - A Day In Holstred's Life Full of Surprises"
+slug: 0030-chapter-1158-a-day-in-holstred-s-life-full-of-surprises
+partOf: the-primal-hunter
+position: 30
+ownLength: 3650
+unit: words
+ownProgress: 3650
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2602332/chapter-1158-a-day-in-holstreds-life-full-of-surprises"
+royalRoadId: "2602332"
+markedReadAt: "2026-06-29T19:30:12.589Z"
+---
+
+Holstred held a hand on his sword as he flew through the dense forest alongside the rest of his fellow officers. The former Knight Commander and slave made a hand motion, telling the scout beside him to move forward and see if he could spot any of their targets.
+
+Right as the scout moved forward, Holstred felt a great release of energy in the distance, making his eyes open wide. “Defenses!”
+
+A beam of pure flames shot towards the scout in the front, the man unable to react in time. Luckily for him, Holstred was as he used a skill to instantly teleport in front of the man and summoned a shield of energy.
+
+The fire beam exploded upon impact, setting the surrounding forest aflame. Lowering his shield, Holstred looked ahead. “We’re close... I believe that was a trap of some kind.”
+
+“A magic circle was placed on a tree roughly nine kilometers in that direction,” a ranger in his group said, having located the source of the attack successfully.
+
+“That means we’re close,” Holstred nodded as he took out a token. “I’ll inform him. Continue onwards and locate the enemy camp before it’s too late.”
+
+“Yes, sir,” the group of officers said in unison as they all began moving forward once more, adopting a defensive formation in case they found themselves attacked again.
+
+Holstred was currently leading a group to apprehend – or more realistically, slay – a group of criminals who had lately caused trouble in a mid-sized city on Earth. While the details weren’t perfectly clear yet, it appeared they were all servants of some god who’d tried to gain influence and create a foothold on the planet. They had done a pretty decent job, too, having taken over an entire city with over two million citizens.
+
+Miranda had responded by sending a team of her own to investigate and have a discussion with the City Lord. It was from there that things hadn’t gone well. Again, the details were vague, but the end result was that all seven people in the negotiation team were publicly executed by the City Lord, all of them accused of being heretics.
+
+The City Lord had likely wanted to accomplish something with these executions, but it evidently hadn’t gone as planned. Despite the City Lord and the followers of the yet unknown god being in control of most parts of the city, there were still officials related to the World Council present.
+
+What could only be described as an internal civil war began within the city, leading to more executions and murders before spiralling into public conflict in the streets. At that point, the situation had become untenable, and Miranda had stepped in with force, sending Holstred and his team of officers.
+
+However, when they arrived in the city, the City Lord and higher-ups of the unapproved religion had taken off. They’d set up a secret teleportation circle that, from an initial analysis, was supposed to take them off the planet, but Miranda had stopped them using her remote control over the Pylon of Civilization. Each Pylon had the ability to disturb teleportation, and coupled with the planet-spanning barrier that also worked to do the same thing, it had put a stop to their plans.
+
+Using the space mage as part of Holstred’s team, they tracked the City Leader and his coconspirators and followed their teleportation as best they could. That had now led them to this situation where they were actively tracking the enemy, and from the looks of it, the other side had indeed been well prepared.
+
+They encountered several more traps that slowed them down, making it clear the other party always had this as a backup plan, as there was no way all of these traps had just been placed.
+
+Moreover, they were in one of the areas still considered unexplored territory on Earth. It was one of the areas considered quite dangerous due to how prolific C-grades were, and only those considered elite dared enter.
+
+Holstred had been slightly hesitant going, but having already used his communication totem, he felt a lot better about the situation should things go wrong.
+
+Continuing the pursuit, one of the scouts soon notified him that auras had been detected not too far away.
+
+“Prepare yourselves,” Holstred said in a calm voice. “Assume they’ll resist.”
+
+After saying this, he also detected the auras. Their entire group slowed down slightly as they broke through the treeline and saw a large circular grass and tree-covered mound appear before them.
+
+Some form of residence? Holstred instantly questioned as he saw the large, poorly put-together wooden door leading into the mound. It was just over five meters tall, and evidently not made for or by humans or other human-sized species.
+
+“Sir, there are movements of space mana from within the mound,” the space mage in their party informed him.
+
+Holstred acknowledged the message, but before he could give the command to move forward, the targets they had pursued showed themselves.
+
+From atop the mound, having been hidden within the trees, two dozen people stepped out. One of them was the City Lord in question, while the others were officials and elites who’d fled alongside him. He quickly identified the people in front of him doing the City Lord last.
+
+[Human – lvl 281 – Minor Blessing of ???]
+
+Holstred’s Identify skill had been upgraded to see Blessings, but the god in question had hidden who they were, something he knew they could easily do. It was annoying for sure, but at least his initial assessment was that none of the people there were a threat, and if push came to shove, Holstred could handle them all on his own.
+
+Alas, before the violence came the negotiations.
+
+“You’re like a dog, wagging its tail to its master,” the City Lord spoke as he stepped forward, and Holstred instantly felt the effect of several mental skills upon him. “I heard you were a slave when you first got to this planet. To me, it looks like you’re still one.”
+
+Holstred ignored the man entirely as he cleared his throat. “Under the penal code of-“
+
+“This planet is a gift to the multiverse. You’re following a master who will monopolize it. Sure, they’re communicating the illusion of openness, but it’s all a lie. Just see how they limited access the moment our universe opened up. All of my fellow faithful, denied entry,” the City Lord continued speaking as he sneered. “Pure heresy, to disallow the passage of the faithful.”
+
+“You’re under arrest,” Holstred stopped trying to cite laws and got straight to the point. “Either surrender or resist and suffer the consequences.”
+
+The City Lord seemed undeterred. “I see you’re not blessed. Holstred... I have an offer to you instead. Serve a better master. Someone worthy of that title. We will retreat from this planet for now, but you are free to join us. Join us and go somewhere better. Or stay forever a slave to a witch.”
+
+Holstred’s eyes opened wide. “Are... are you serious?”
+
+The City Lord smiled. “My Patron is righteous and forgiving. Someone actually worthy of your loyalty.”
+
+“Sir?” the space mage beside Holstred asked, but he ignored her.
+
+“I... this is not a decision I can make lightly,” Holstred frowned. “I have family... a wife... child...”
+
+“You can return for them, or we’ll send people to help them evacuate,” the City Lord said in a soothing voice. “Unless your wife is powerful on her own, it’s also best she leaves. This planet will only become more and more dangerous to those without power as time passes. Definitely not the kind of place you’d want a kid growing up.”
+
+Holstred seemed to resolve himself and adopted a serious face. “I will admit I’ve also feared for the future of my family and have considered leaving. Grant me three guarantees, and you shall have my loyalty.”
+
+As he said this, Holstred moved away from his fellow officers and stood between the two groups, his hand still on his sword. His companions all looked at him with faces full of shock as the former Knight Commander spoke.
+
+“First of all, no witnesses. The assumption must be that I died here today. That’s the only way my family can be kept safe. Secondly, I want a proper position and all the benefits to boot. I’m confident in reaching B-grade and will perhaps even go beyond, and I think it’s a valid expectation to get resources that will allow me to grow.”
+
+“Certainly,” the City Lord agreed happily.
+
+“Finally, I want a Blessing from your Patron. From my new god,” Holstred said. “Promise me the first two and grant me the final one now, and I shall cut them all down.”
+
+Holstred raised his sword and pointed it towards his former companions, who all prepared themselves for what was to come.
+
+The City Lord was all smiles as he spoke.”I believe this is... what... no... you!”
+
+Halfway through, he seemed to get a message of some kind from somewhere, making the City Lord instantly turn furious. “Blasphemer! Deceiver!”
+
+“Damn, thought I had you,” Holstred smiled. “Guess I won’t discover the identity of this mysterious Patron of yours today. Alas... negotiations over. Officers, permission to kill.”
+
+He had really hoped his little ruse would have worked. All he was fishing for was to get the Blessing offered, as it was impossible for a god to hide their name there. He would have rejected it, but it would have confirmed who they were dealing with.
+
+“You had me in the first half,” the space mage sent him as magic began revolving around her, being among the first to get her bearings.
+
+The other officers also let out sighs of relief as they all moved to attack. Holstred wanted them to finish up here and get into the mound as soon as-
+
+“I told you talking was a waste of time.”
+
+A beam of fire erupted from within the large mound, blowing a hole through it and straight toward the space mage, who was preparing to attack. Holstred’s eyes opened wide as he teleported once more and appeared in front of the beam at the very last moment, his shield summoned once more.
+
+The impact blasted him back into the mage as the two of them were sent flying. Holstred’s shield was slowly burned through, but luckily, the beam stopped right before his shield was burned away.
+
+“Oh? Not too bad. I understand why you thought he was worth recruiting,” the same voice as before echoed as a creature walked out of the large mound.
+
+Holstred stabilized as he checked on the mage he’d been slammed into, making sure she was also alright. She had some bruises, but otherwise, none of them had taken any major damage. However, that didn’t mean things were good.
+
+He looked at the creature that had just appeared, and from its aura, he knew they were in trouble. It was a bipedal boar-like creature with two large tusks on each side of its mouth and red hair that looked as if it was on fire all over its body. What’s more, rather than eyes, it had two balls of fire, and in its hand, the creature carried a staff that looked like it was made out of a long spine of some monster.
+
+[Great Bristleboar Pyrolord – lvl 349 – Lesser Blessing of ???]
+
+It was a peak C-grade. Holstred himself had reached level 310 after much struggle, and while he could fight the monster, he wasn’t confident in his chances of victory at all. Rather than fighting, he planned on ordering a tactical retreat to-
+
+“Now you’re the one talking.”
+
+A second voice came from behind Holstred, and as he whipped around, he saw another huge boar monster walking out of the forest toward them, cutting off their path to retreat. This one wielded a large axe over its shoulder and had metallic hair covering its entire form.
+
+[Great Bristleboar Champion – lvl 349 – Lesser Blessing of ???]
+
+“Defensive formation,” Holstred instantly ordered as all the officers moved to be closer to him. Focusing, Holstred activated several skills with the hopes of allowing himself and his allies to at least buy some time.
+
+“Kill the heretics,” the City Lord spoke in a cold tone.
+
+“Who are you to give me orders?” the Pyrolord sneered, before quickly changing his expression into that of a grin. “But I’ll let this one slide.”
+
+“Brace!” Holstred yelled right as the Pyrolord slammed its staff into the ground. A pillar of fire descended from the sky down upon them, and Holstred reacted as fast as possible by summoning a new shield to defend them. The other officers also used their own skills, as several barriers appeared to block the powerful blow.
+
+The pillar struck them as the Pyrolord started laughing and channeling even more power. Magic runes lit up all over his body, and one even formed on the ground beneath his feet as the intensity of the flames grew, and Holstred knew that he couldn’t keep defending the others for much longer.
+
+However, just then... the payoff from the message he sent earlier arrived.
+
+The Pyrolord, who was happily channeling his magic, suddenly whipped his head upwards, but the only thing he could do was scream. A beam of energy that Holstred couldn't even begin to comprehend the complexity of struck the Pyrolord right in the head, unceremoniously shearing it off in an instant.
+
+A powerful peak C-grade had died in an instant, and all Holstred could do was sigh in relief as a figure floated down from above.
+
+“How was he so fucking weak? Couldn’t even handle one Dragon’s Breath. I was hoping for a proper fight based on what the Verdant Witch told me...” the newcomer said.
+
+It was a scalekin covered in dark green scales with two wings behind his back.
+
+[Malefic Dragonkin – lvl 321 – Divine Blessing of the Malefic Viper]
+
+“Lord Draskil,” Holstred said as he lowered his shield. “I thank you for your prompt assistance.”
+
+“Yeah, yeah,” the Malefic Dragonkin waved him off as he looked toward the second peak C-grade monster, who was just staring at his dead ally. “Someone called a champion should put up a better fight, right?”
+
+Draskil didn’t hesitate as he flapped his wings once, teleporting down right in front of the Bristleboar Champion. The boar responded quickly by raising its axe and swinging it down towards the far lower level C-grade.
+
+Raising a claw, Draskil blocked the blow directly as his arm only slightly buckled from the impact. “Weak.”
+
+With his other hand, he swept upwards as a large green claw of malefic energy cut into the boar, but its metallic hide managed to block the attack for the most part. This seemed to please Draskil as he unleashed a barrage of blows, the poor boar barely able to fight back.
+
+Holstred took this opportunity to move and apprehend the City Lord with the other officers. Inside the mound, he found three space mages trying to prepare a new magic circle for them to flee the planet, likely with the goal of ultimately escaping the universe.
+
+The City Lord had given up surprisingly easily after Draskil’s appearance, and while some fought back, it was nothing he and his officers couldn’t easily handle. Holstred took out a pair of handcuffs made by Arnold himself, the metal strong enough for most peak C-grades to struggle with breaking it.
+
+He cuffed the most dangerous ones, and while it wouldn’t pacify them entirely, it would make them a lot weaker if a fight were to break out again. Holstred doubted they would be foolish enough to try with the presence of the Malefic Dragonkin, but he’d already been surprised quite a few times that day.
+
+And it turned out the world had at least one more surprise in store for him.
+
+While still inside the mound, they all heard a massive explosion sound from outside, and while that in itself wasn’t concerning, seeing as two C-grades were fighting, the yell that came after certainly was.
+
+“Fuck!”
+
+Draskil had been the one to yell, making Holstred charge out in concern, and once outside, he was met with a sight that felt straight out of a nightmare.
+
+He saw Draskil looking down at his bleeding arm that had a nasty cut on it, and about a hundred meters away, the Champion was kneeling on the ground, his entire body covered in rotting wounds.
+
+Right behind him, another boar stood. This one was nearly ten meters tall and covered in a combination of red and golden fur. The new boar casually reached out his hand and grasped the head of the already dying Champion.
+
+“Weak indeed.”
+
+A nasty crushing sound echoed through the clearing as the skull of the Champion was crushed into paste. Holstred could barely stay upright on his legs when he identified the new arrival.
+
+[Supreme Bristleboar Warchief – lvl ??? – Greater Blessing of ???]
+
+B-grade. He had heard B-grades had begun being observed around the planet, and that a few had even been hunted down already... but that had been by large elite parties, such as a group led by the Judge from the Court of Shadows.
+
+However, perhaps more concerning than the appearance of a B-grade was why the B-grade was here in the first place. It was evident that some god had deep roots on Earth and had managed to stay mostly undetected until now. Moreover, if there was one B-grade serving this god, there could be more.
+
+Holstred would be lying if he said a deep sense of panic didn’t begin to well up in his chest, but he still had one source of calm. Despite being injured, Draskil didn’t look afraid in the slightest. In fact, he looked nearly as annoyed as anything else.
+
+“Malefic Dragonkin,” the B-grade Warchief said as a large halberd appeared in his hand. “I’ve heard much about you. A rising star in the Order of the Malefic Viper... and someone my Patron would love to see dead.”
+
+Draskil looked at the B-grade as he licked his lips “Fuck... man, I would also love to see you try. I’ve been itching for a good fight.”
+
+The B-grade scuffed and lowered his halberd. “Then come. Show me what one who received the Legacy of a Primordial is capable of.”
+
+“Again, I would bloody love to, but you’re really not in a state to be fighting anyone right now,” Draskil sighed.
+
+“Your posturing and faux confidence would almost be impressive if it weren’t so delusional,” the B-grade Warchief chuckled. “But please. Do humor me. Why am I not in a state to battle?”
+
+“Well,” Draskil shrugged. “You’re already dead.”
+
+“What do you-“ the B-grade said as he tried to take a step forward, but his leg buckled under his own weight. Blood began bleeding from the Warchief’s eyes as wounds spontaneously appeared all over his body, leaking black pus. “Wha... what did you-“
+
+“Me? Nothing,” Draskil said casually, shaking his head. “You were already dead before you even arrived.”
+
+The B-grade shook all over as his gaze lowered to two small puncture wounds on his ankle that he hadn’t noticed before now. He tried to reach down toward the wound but fell forward, his entire body breaking apart upon impacting the ground, spreading flesh and gore everywhere.
+
+“Damn,” Draskil said in an impressed voice as he looked somewhere behind the Warchief. “That’s some serious venom you’re packing.”
+
+Holstred was confused about who the Malefic Dragonkin was speaking to until he saw a faint shimmer in the forest. Seemingly walking out of nowhere, a woman who looked to be in her early twenties with almost sickly white skin appeared. She wore an odd dress that didn’t quite look like fabric, and her two eyes were entirely red and sent a shiver down the Knight Commander’s spine.
+
+It was another B-grade, but one on a whole other level from the Warchief that had just died. He was almost afraid to do so as he used Identify.
+
+[Jadescale Crimsoneye Snake – lvl ??? – Greater Blessing of the Malefic Viper]
+
+When he saw the name, he realized who it was, but before he could say anything, Draskil spoke up again.
+
+“Shit, that was hot. There’s nothing more attractive than a woman who can kill someone without them even noticing,” Draskil grinned as he began walking toward the B-grade snake. “Hey, how about the two of us-“
+
+Holstred didn’t even see what happened next, as Draskil was sent flying into the forest. A trail of blood and thousands of toppled trees in his wake as he slammed into a hill over a dozen kilometers away, exploding the entire thing. Scarlett, the former Alabaster Crimsoneye Snake, lowered her raised hand as she looked at Holstred and smiled.
+
+“Hi there!” she said in a cheery tone. “Miranda asked me to help out. Seems like her suspicions were correct... oh, and she told me to apologize for keeping you in the dark. She said something about it being necessary to bait out the real prey.”
+
+Once more, Holstred didn’t even have time to answer as a bloody Malefic Dragonkin walked out of the forest with a big smile on his face. “You really are one hell of a woman, eh? But you know, you could have just said no. Unless-”
+
+A second whipping sound echoed through the valley as the Malefic Dragonkin was sent flying once more, Holstred and Scarlett continuing to speak as if Draskil wasn’t even there.
+
+“I can only be grateful for Ms. Wells’ foresight,” Holstred said as he looked toward the listless City Lord, who looked as if his entire world had just crumbled. “Hopefully, at least one of these can provide some insight.”

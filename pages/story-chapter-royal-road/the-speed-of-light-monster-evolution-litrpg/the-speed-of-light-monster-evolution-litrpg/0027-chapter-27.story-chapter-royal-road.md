@@ -1,0 +1,189 @@
+---
+id: 217f3066-4638-5eb5-a598-56cb9f377249
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27"
+slug: 0027-chapter-27
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 27
+ownLength: 1680
+unit: words
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2624728/chapter-27"
+royalRoadId: "2624728"
+---
+
+Tachyon wasn’t the most concerned with the coins. At a glance, she could tell that they were both upgrade tokens. And scoring two in the same chest was not something she was going to complain about.
+
+However, the last item was a musty old book. Or at least, that was what she thought at first. It was a bunch of wrinkled papers folded on top of each other. Which she assumed was a book.
+
+She brought it out with a mana thread to take a closer look. As she did, the paper unfolded into a single long piece.
+
+Amazing Ballz Civilization Foundation Ticket! [F-Grade, Legendary]
+
+This voucher is good for a single-use Civilization Foundation Crystal at the end of the tutorial. You can make your own town, city, cult, order, or small friend group! Isn’t that amazing ballz?!
+
+Tachyon almost instantly threw the piece of paper away. However, the fact that she caught it saying Legendary Rarity allowed more sensible heads to prevail.
+
+What would I do with this though? It's not as if I wish to have a city under my rule or anything… Maybe Ted or Ned are interested in it? She thought. Or maybe I can trade it for more food from Secretariat? He seems like someone interested in big fancy cities.
+
+After going over the new items, she finally lowered herself back to the ground. Briefly going through the cave for anything left behind by the Vampire Bats, she was only able to procure monster cores.
+
+Landing on the ground, she was proud to say she was finally done with the caves. At least for now. She could now leave the caves and let Sandor take care of them. Tachyon had done quite a lot here, however. Getting to her second evolution and a rare one at that, would hopefully allow her to be head and shoulders above the rest of the monsters with Medium Controlling Stones currently.
+
+Her only problem was that the gap between her current rank and E-Rank was 20 levels. And that was just between the ranks. If what Secretariat said was correct. The E-Rank that was brought to the tutorial was E-Rank when it arrived. So she had little idea how much stronger it would become by defending its Controlling Stone.
+
+But Tachyon did have a slight advantage. She didn’t really mind losing Controlling Stones in the short term. She was more concerned with growing stronger through toppling them as she went along. Gaining the experience that came with conquering them.
+
+At her core, she was a free spirit. Or at least, now she wanted to be. For too many years, she had been captive in a place she was not allowed to leave. But here in the tutorial, and the place she hoped to see after. She would be unrestricted on where she wanted to go.
+
+Tachyon began moving down the passageway she hadn’t come in from with Sandor. Casually looking at her status, which she had been ignoring since evolving. She had increased two levels, and her free points were beginning to add up.
+
+Tachyon
+
+Race: Light Fire Alpha Mare
+
+Rank: F-Rank
+
+Level: 22
+
+VIT - 43(11)
+
+STR - 70(13)
+
+AGI - 218(25)
+
+MAG - 133(14)
+
+STAM - 93(16)
+
+RES - 80(18)
+
+Free Point - 65
+
+Titles
+
+Sapient Monster, Survivor, Captive, Defiant, Sturdy, Slayer of the Strong, Improbability, Manslaughter, Kings Queens and Castles, Bat Out of Hell, Magic Artillery 1, Faster than Most, Death on Four Legs, Skills of Legend, Bane of Cavemen, Magic Artillery 2, Rare Evolution, Kings Queens and Castles 2.
+
+Skills
+
+Fire Light Magic - Unique, Fire Light Clones - Rare, Unstoppable Force Meets Movable Object - Legendary, Mana Motion Platform - Rare.
+
+Tachyon’s eyes bulged at the sight of her stats. Her titles were beginning to bloat already, and her stats were very close to getting in the hundreds for a majority of them.
+
+Her main stats were comfortably her highest. However, her auxiliary stats were lagging behind. So, Tachyon did the most sensible thing.
+
+Better put them all into Agility. She thought, doing just that.
+
+Putting all 65 free points into her Agility, she brought it from 218 to 283, nearly breaking 300 naturally.
+
+She couldn’t help but shimmy slightly, thinking of leveling up and doing just that.
+
+And with the influx of stat point,s she could feel her body lighten noticeably. The excitement and anticipation of getting out of the caves to see just how fast she could run were already starting to gnaw at her. That wasn’t even mentioning how she was thinking more and more of where she would go once the tutorial was over.
+
+She could try to find where she was originally born. Tachyon had a vague memory of the area, but it was nothing but a distant blur in her mind by this point. Or maybe she would just run as far as she could, for as long as she could.
+
+But before that, she had something to do. At least if she wanted to continue to have relevant equipment.
+
+Tachyon took out the two coins that she had retrieved from the chest in the bat cave. Using her mana threads to keep them in view.
+
+Rare Upgrade Token
+
+Increases one piece of equipment from Uncommon rarity to Rare rarity.
+
+Can only be used within the tutorial.
+
+Can only be used on F-Grade Equipment or Items.
+
+This item will disappear after use.
+
+One was a Rare Upgrade Token, like she suspected. The other was not.
+
+Uncommon Upgrade Token
+
+Increases one piece of equipment from Common rarity to Uncommon rarity.
+
+Can only be used within the tutorial.
+
+Can only be used on F-Grade Equipment or Items.
+
+This item will disappear after use.
+
+She wondered why there would be a token for the second-lowest rarity to be increased. But as she mulled over it in her head, she understood. Tachyon pulled out her skillet.
+
+Mana Cast Skillet [F-Grade, Common]
+
+While it hadn’t shone in her last fight. The item was sentimental to her after coming to the tutorial.
+
+Then there were other options as well for the Rare Upgrade Token. Her cuirass, which was somewhat useless, if she was being honest.
+
+She hadn’t taken much damage from any of her fights outside of Gregor.
+
+Then there were the Mana Rings that she collected from the mage troglodytes. She had plenty of them now, but only one upgrade token.
+
+Finally, there was the Scientist’s earring. Which, while having a vague description, gave the most beneficial stats out of the bunch so far.
+
+It was a tough decision. But Tachyon felt she had a solid plan on which to upgrade.
+
+Would you like to use Uncommon Upgrade Token on: Mana Cast Skillet [F-Grade, Common]?
+
+Tempered Mana Cast Skillet [F-Grade, Uncommon]
+
+A well crafted piece of cooking equipment that most certainly could be used as butt armor, or hat, or weapon. Its main use is however, fortunately, for cooking.
+
+Enchantments: Self-repair, Self-cleaning, Mana-Infusion.
+
+Would you like to use Rare Upgrade Token on: Earring of the Unknown Scientist [F-Grade, Uncommon]
+
+Energy Earring of the Unknown Scientist [F-Grade, Rare]
+
+An eye-catching and stunning piece of jewelry fashioned by skilled craftsmen for a scientist of an unknown Era. The earring holds gems that once stored potential energy. While the gems have lost their sheen, however, their raw benefits and a fraction of potential energy storage potential remains.
+
++20 to RES, AGI. +5 to STAM.
+
+New Title earned: Horse Zoomer 1.
+
+Horse Zoomer 1
+
+You have increased your speed to a significant level as a young equestrian for your rank.
+
++10 to AGI.
+
+“What’s a zoomer..?” Tachyon thought aloud, looking at the new notifications. Both impressed and confused.
+
+The descriptions of some of the items were only slightly different, but a notable increase of bonus stats was applied to the earrings.
+
+Tachyon went back to her musings, her daydreams continued as she navigated the passageways. Using her increased mana sense to pick and choose the tunnels that seemed to have the most dense mana in them.
+
+She would travel a bit, stumble onto the cave, and the passage would connect to. And if there were monsters, she would fight them. If there were fruits or mysterious things that looked like fruits, food, vegetables, or just something that might be useful.
+
+And with some time, she eventually made it to the exit.
+
+We are finally free!! My, what an adventure. She thought, a little bummed she didn’t get to see her three friends before leaving.
+
+But she was confident they would see each other again. She didn’t intend on making friends while here, but she was more than pleased to have had the happy accident.
+
+Tutorial Seasoning Period
+
+Time Remaining: 8 Days, 20 Hours, 9 Minutes.
+
+Tachyon looked at the countdown timer. It had crossed into the next day in the time it took her to navigate the cave system. Which explained why it was still dark outside. But she had finally done it. She was two Medium Controlling Stones richer and now needed to aim for the rest.
+
+“But first.”
+
+First, she would stop for a little snack. As any self-respecting horse would.
+
+She pulled several plates of sweets out in front of her, blissful enjoyment awaiting her in each bite.
+
+Unfortunately for her, something invaded her sphere of mana, several somethings. The sound of a small and fast being scurried up a tree. Stopping right above her.
+
+Her head turned, bringing one of her spells to get a better view of it.
+
+“HmMmmmMm… W-Whatcha got there girlie?”
+
+Standing on a branch, leaning and craning its small neck as a small rodent. It wore something on its face, almost like glasses. The color reflected green in the light.
+
+“This is my meal…” Tachyon explained, feeling a bit more hostile toward the rodent than she felt she should have.
+
+The small creature’s nose twitched as it took a deep breath of the air. Two buck teeth heading the front of a grin.
+
+“HmMmmMmm… S-Smells good! Think I’ll help myself to it!” it shouted. Pulling out two small. Guns?

@@ -1,0 +1,157 @@
+---
+id: 29d4ad6e-9fee-5ed6-a360-47503aff068a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1176 - A Dish To Remember"
+slug: 0048-chapter-1176-a-dish-to-remember
+partOf: the-primal-hunter
+position: 48
+ownLength: 2877
+unit: words
+ownProgress: 2877
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2663608/chapter-1176-a-dish-to-remember"
+royalRoadId: "2663608"
+markedReadAt: "2026-06-29T19:30:46.995Z"
+---
+
+The difference in status provided by a True Blessing compared to a divine one was truly vast.
+
+When meeting someone with a Divine Blessing, you would show them respect and recognition, as the only way they could have possibly gained such a Blessing was due to their high innate potential. It was effectively a seal of approval from a god, indicating that they were truly part of the elite and individuals one should take notice of.
+
+Jake’s True Blessing of the Malefic Viper, on the other hand, meant he was effectively the spokesperson of his god. Their prophet. It was almost expected for other mortals to treat a Chosen with the same level of respect they would treat the god behind the True Blessing, as they were their mortal representatives.
+
+In the simplest of terms, the difference between the two Blessings was like the difference between how one would dare treat a mortal and a god. This difference couldn’t be more clearly outlined than that which occurred at the beginning of the double dinner date, when one looked at the contrast between the human and the dryad, and the two elves talking.
+
+“I definitely think some of the newer regulations regarding the number of hunting parties allowed at a time are a bit too strict when it comes to the lower-level Hunting Grounds. One of my little nieces recently got to mid-tier D-grade, and she barely managed to spend two years in a Hunting Ground before she and her team were called back to make space for a new team to take their place. I think rather than limiting it by the number of teams, any regulations should take into account how efficient each team is,” Keerla spoke enthusiastically to Artemis, still managing to get in a swift bite of food in between some of her sentences.
+
+“My guess would be that these new regulations were, in part, made for the sake of simplicity. It’s difficult to keep track of every team’s efficiency at the same time unless there were way more surveillance throughout every Hunting Ground, which they also want to avoid. You are partly right that the hunting efficiency of teams should be considered, and that’s why they lowered the number. The average hunting team has simply gotten more efficient since the last update to regulations. Besides, if these new rules are overdoing it, I’m sure they’ll be rolled back sooner rather than later,” Artemis responded, seeming more genuinely engaged in the discussion than Jake would have first thought she would be.
+
+Meanwhile, Solana and Jake, who sat across from one another, only exchanged some pleasantries here and there, with the dryad remaining a bundle of anxiety. In many ways, having the two elves sit beside them with their constant discussion about hunting grounds and whatnot helped keep things from getting tense.
+
+Going back a bit, after Jake and Artemis had been invited inside the house, they’d gotten a quick tour of the place before finally jumping right into the actual dinner. Solana had prepared a three-course meal of main dishes as well as a plethora of other sides that filled the dinner table, which seemed slightly too big for their dining room, making Jake guess they had swapped out their usual smaller two-woman table for this one on account of Jake’s visit.
+
+The first dish Solana had brought out was some kind of fish that Jake didn’t recognize at all. It was paired with a lot of herbs and spices, which also allowed Jake to experience some all-new flavors. Overall, Keerla certainly hadn’t lied when she said Solana was a good cook. At least this was some of the best food Jake had ever had.
+
+Granted, Jake probably sucked at identifying if the food was good or not. One thing he’d learned was that ever since the integration, all food tended to just be a lot tastier. Cooking skills were damn overpowered in that regard, and coupled with Jake’s lack of exposure to any food outside of eating raw toxic materials for Palate, Jake probably thought all food was damn good.
+
+Artemis, who had a lot more exposure to the wonders of multiversal food, also seemed happy enough, though, so it couldn’t be that bad.
+
+Finding a small lull in Keerla’s and Artemis’ conversation, Jake spoke up. “Keerla really wasn’t lying, you are quite the chef. I guess you have some kind of skill?”
+
+He had spoken to Solana, but Keerla was the one to answer, keeping the same enthusiastic tone as she’d used when discussing with Artemis just prior. “No skills, she’s all talent!”
+
+Keerla seemed to realize she’d spoken without thinking, and a flash of horror crossed her face... but luckily, Artemis was quick to jump in.
+
+“Really? I’ve had similar dishes from people who make cooking their entire Path that weren't as good,” the Godqueen in disguise said, turning her head to Jake. “How about the Chosen? Does he have any interest in cooking? I know a fair share of alchemists, especially those from the Order of the Malefic Viper, pick it up as an auxiliary skill.”
+
+“No, no, I would rate myself pretty damn horrible in the kitchen,” Jake chuckled. “In fact, I’ve barely cooked since before the initiation of my universe. Probably because I don’t have to and always find myself busy with one project or another.”
+
+“If I may,” Solana began, having built up some courage to ask a question. “I’ve heard talks that in an uninitiated universe, there isn’t any mana and all, with all creatures effectively considered level 0. Is this true?”
+
+“Putting a level on anyone at all would have been considered weird,” Jake said in a casual tone. “Without the system, there are no stats, no levels, no nothing. In fact, I’m fairly confident everyone was inferior to even level 0 humans, as we didn’t get the benefits of some stats.”
+
+Jake was specifically referring to willpower here. He still remembered that first day, standing on that giant pillar inside the Tutorial, and how everyone had been unnaturally calm due to the Willpower stat suddenly kicking in.
+
+“Is it true humans had to eat and sleep all the time before the integration?” Keerla also asked, her curiosity outweighing her caution.
+
+“Recommended to sleep at least eight hours and three healthy meals every single day,” Jake said, getting looks of disbelief from both elves and the dryad. Yes, Artemis was also playing along, acting all surprised.
+
+“How did society even work with so much time dedicated to nothing?” Keerla wondered out loud.
+
+“You know, I do find that notion a bit funny, considering people post-system can easily spend what would be considered an entire lifespan just sitting on their ass in meditation,” Jake pointed out.
+
+“Fair enough. Still seems silly to sleep away a third of every day,” Keerla said with a smile, earning her a small kick from Solana below the table, making the elf speak again. “Not that I mean any disrespect toward the Chosen of the-“
+
+“No, it’s definitely silly by multiversal standards,” Jake agreed, backing her up. “And no need to apologize. As I said, I’m just here as a fellow hunter. Truthfully, I prefer being treated normally and find it awkward when people are overly respectful. If I’m getting any respect, I would prefer it to come from my own achievements and not because a god decided to give me a True Blessing.”
+
+“Even if we go by that standard, wouldn’t everyone still treat you overly respectfully? Even disregarding your identity as the Chosen of the Malefic Viper, it’s not like you don’t have plenty of fully self-earned achievements under your belt. At least you did the last time I checked the All-time Nevermore Leaderboards,” Artemis pointed out in a humorous tone.
+
+“See, that should only lead to a normal level of respect and recognition,” Jake defended himself. “The kind that makes people go, ‘cool, great job,’ and then move on to a more interesting topic.”
+
+“Your view of normal is seriously warped,” Artemis chuckled, shaking her head.
+
+“Then join me in having a warped mindset and act like fellow hunters for a night,” Jake smiled in response, glad to see Artemis try to help their two dinner hosts.
+
+She purposefully acted very casual with Jake as a way to show the two that it was okay to do so. In their eyes, she was just another C-grade like them, and even if she did have a far higher status than both of them combined, it wasn’t even comparable to the gap between themselves and a Chosen of a Primordial. So if Artemis could treat Jake like a ‘normal person,’ perhaps so could they. At least that was the hope.
+
+Luckily, it seemed to have worked somewhat, as Solana spoke up next, touching on a topic they had in common. “Speaking of fellow hunters... the Fortuna Ferret we encountered last time apparently managed to take over one of the islands after you left due to the power vacuum of all the dead B-grades. I also heard that the Rainbowfeather Sovereign has fully established itself as the most powerful B-grade in the Hunting Ground, and there were talks of it now being too powerful to remain for much longer.
+
+“Oh? Sounds like quite a bit has happened there,” Jake said, a little surprised. “Do you two keep up to date with that place?”
+
+“It’s our usual Hunting Ground that we’ve used for the last few decades,” Keerla answered. “Without really thinking much about it, you come to know and get interested in the entire place’s development after a while.”
+
+“I see,” Jake nodded. “That makes sense, even if I can’t fully relate. I’m more of the quickly in and out type of guy who, as you said, leaves power vacuums in my wake.”
+
+“Hey, who hasn’t gone a bit overboard and overdone a hunting trip a little here and there?” Keerla continued to joke.
+
+“It can definitely be hard to avoid, but in my defense, it’s not my fault they give so much experience,” Jake said with a smile, happy to see Keerla appreciate his somewhat dark humor.
+
+While it had certainly taken a while, their two dinner hosts had finally begun to properly loosen up, and by the time they finished their first meal, the atmosphere was a lot less tense than when they’d started.
+
+The two were still cautious and had a few moments when a flash of panic crossed their faces, but Jake acted as if he hadn’t seen and remained polite and friendly. Artemis also did a banger job being a peak C-grade huntress who repeatedly showed the couple that Jake wasn’t some stuck-up asshole who would get angry if they forgot to put ‘Lord’ in front of his name.
+
+After finishing the first meal, Solana urged Jake to stay seated as Keerla quickly moved to clean up. Jake still considered offering to help, which was when he was once more reminded he was in a magical multiverse when Keerla just swiped her hand across the table, depositing all the dirty tableware into her spatial ring.
+
+A few moments later, Solana walked in with four floating bowls surrounding her, the dryad looking nervous once more. Beside him, Jake saw Artemis hiding a huge smile, and when he looked at the bowls more closely... he realized. It was undeniable when he felt the faint reaction from Sense of the Malefic Viper.
+
+No... she wouldn’t, would she?
+
+The mischievous look Artemis gave Jake told him she truly had.
+
+“I hope this doesn’t come as a surprise, but this is our first time hosting a member from the Order of the Malefic Viper,” Solana started speaking as the bowls slowly lowered themselves down in front of the four of them.
+
+“Wanting to be good hosts, the two of us agreed that we would try to tailor the menu to the taste of the Chosen. Through prayer and what little research we could do, I made this dish, which I hope Lord Thayne will appreciate, even if it certainly isn’t up to his usual standards.”
+
+Jake looked down as he saw the bowl of mushroom soup emanating toxic energy.
+
+“Of course, the three of us aren’t as capable as the Chosen, so I prepared these,” Solana continued, making several small bottles float down and land in front of each person. Within was some kind of antitoxin.
+
+“Simply add until the toxic energy is entirely eliminated, or keep as much of it as you desire to add a little extra spice,” the dryad finished her speech that Jake was fairly certain was at least semi-rehearsed.
+
+Before Jake could say anything, Artemis spoke up.
+
+“What a wondrous idea!” she said in a cheery tone, looking at Jake. “How thoughtful, and doesn’t it just look delicious! Wouldn’t you agree, Lord Thayne?”
+
+Jake put on a forced smile as he saw the dryad and high elf across from him look back with hopeful eyes. Seeing that... what kind of monster would Jake be to speak up negatively? “Yeah, it’s definitely not something I saw coming...”
+
+“See?” Keerla said, nudging Solana with her elbow. “I told you we couldn’t go wrong with divine guidance!”
+
+“Divine guidance, huh?” Jake said, keeping up his smile.
+
+Keerla confirmed proudly, as Artemis leaned forward.
+
+“You never go wrong following the advice of the Mistress of the Hunt,” she shamelessly praised herself.
+
+“Definitely not. The wisdom of a god is incomparable to that of us mortals, so it’s only natural their ideas are also top-notch!” Keerla nodded enthusiastically, turning to look at Jake, her gaze full of expectation.
+
+Noticing Solana also looked at him, he knew what they wanted as Jake resigned himself to his destiny and picked up the spoon. Taking a good scoop, Jake put it in his mouth, chewed a few times, and swallowed.
+
+The mushrooms in the soup had been cut into fine slices, and the mushrooms themselves had a meaty texture. Toxicity-wise, it indeed wasn’t anything to write home about, but the two clearly had gone out of their way to find relatively rare life-affinity poisons unique to the Pantheon of Life, as Jake detected four entirely new poisonous mushrooms he’d never had before.
+
+As for the taste? It... wasn’t bad. The problem was, again, Jake compared it to his own version of mushroom soup, which was just moss and mushrooms thrown wholesale into a bowl of water, sometimes even still with a bit of dirt mixed in for extra flavor.
+
+After watching Jake eat, all eyes were on him for his reaction. Keerla and Solana were full of hope and expectation, while Artemis looked mischievous as hell, not even trying to hide that she’d been the one to plant the idea of serving him mushroom soup.
+
+Alas... Jake truly didn’t have much of a choice in how he reacted. His mom had taught him too good table manners for that.
+
+“It’s delicious, definitely better than the usual mushroom soup I sometimes eat,” Jake said, being completely honest while not seeing the need to mention he despised eating mushrooms in the first place and would never do it if not for Palate.
+
+“I’m delighted that the Chosen of the Malefic One has such praise for my cooking,” Solana said with a big smile as she also motioned for the others to dig in.
+
+Of course, they all added their antitoxin to the soup first, in order not to poison themselves. However, Keerla chose to be brave and didn’t fully detoxify her soup, giving the food a little extra kick.
+
+Again, the level of toxicity wasn’t at the level where it could harm C-grades. As the crafter of the meal, the potency of the toxin was limited to Solana. Considering that, it was only to be expected that she wasn’t capable of crafting anything that could truly hurt those at or around peak C-grade.
+
+“Who doesn’t enjoy a good mushroom soup once in a while?” Artemis said after a little while of silence. Jake guessed their two dinner hosts had purposefully given them time to truly enjoy the special meal.
+
+“Not part of my usual palate, but certainly a novel experience,” Solana said, Jake getting the vibe she personally wasn’t a huge fan.
+
+Keerla just nodded as she ate in silence, Jake unable to tell if her distorted face was a result of her disliking the meal or because she was purposefully poisoning herself.
+
+Jake, feeling pressured to do so, finished his mushroom soup like a good dinner guest, consoling himself that this could technically count as training. When he was done and Jake believed he was in the clear, Artemis looked over at his empty bowl.
+
+“Done already?” she asked, a sense of dread flooding over Jake, as he already knew what was coming next. “Perhaps you could ask for seconds, seeing as you enjoyed it that much?”
+
+“I do have more in the kitchen,” Solana said with a big smile that Jake couldn’t refuse as he internally sighed while handing over his bowl, with Artemis full of glee beside him.
+
+“Yes, please... and if you could also bring another bowl for Diana, I’m sure she would appreciate it,” Jake said, unwilling to go down alone.

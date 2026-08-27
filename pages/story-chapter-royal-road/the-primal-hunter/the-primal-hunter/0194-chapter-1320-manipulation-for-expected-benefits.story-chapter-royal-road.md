@@ -1,0 +1,129 @@
+---
+id: 61c441a7-8c03-54f9-9749-95187374e957
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1320 - Manipulation For Expected Benefits"
+slug: 0194-chapter-1320-manipulation-for-expected-benefits
+partOf: the-primal-hunter
+position: 194
+ownLength: 2808
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3448934/chapter-1320-manipulation-for-expected-benefits"
+royalRoadId: "3448934"
+---
+
+The Great Sea Serpent continued to observe Jake carefully before he spoke again. “In my rest and meditation, I had a... dream. Vision. Faint echoes of what I vaguely believed to be memories at first entered my mind, and an intent was born when I fully comprehended them. A curiosity to uncover truth. I acted upon this, followed the wisdom of my vision, and confirmed its veracity when I arrived at the Boundary and saw the Arachnecs and Venusians working together.”
+
+After Jake heard the answer from the serpent, he had to agree. It did seem very nonsensical on the surface, and almost too convenient to be the truth. Really, the peak A-grade claimed he randomly got a sudden vision telling him what was going on, and instantly went right where things were going down?
+
+It was honestly laughable, and Jake could see many write it off... but Jake had a strong suspicion the convenient vision hadn’t come out of nowhere. When he heard the explanation, it even reminded him of something that had happened to him once.
+
+During the Tutorial, Jake had a dream that was invaded by Eversmile. It was a phenomenon that, even now, Jake still couldn’t fully understand. He had written it up as weird god or karmic magic, but he also knew that his knowledge of what top-tier gods were truly capable of remained incredibly limited.
+
+Anyhow, back then, Jake had directly interacted with Eversmile, and the contents of the dream itself were likely controlled partly by the god. If Eversmile could do something like that, what’s to say Villy couldn’t do something similar?
+
+Because yes, Jake immediately concluded that Villy was behind this through that explanation alone. Could it be some other top-tier being in the multiverse? Sure, but it was definitely Villy.
+
+The Great Sea Serpent was a lot stronger than Jake, and definitely had a lot stronger mind and soul, but in front of a Primordial, the difference between a peak A-grade and a newly integrated F-grade was practically negligible.
+
+Jake still didn’t fully understand how Villy could make someone experience a dream-like vision, but he definitely believed he could, which was enough.
+
+“I see,” Jake nodded resolutely. “What kind of knowledge did this vision include, besides the location of the waiting Arachnecs and Venusians?”
+
+“You believe such a ludicrous phenomenon so easily, without skepticism? Or perhaps you are aware of such events happening in the past. Before I respond, answer me this first: Do you know the cause of this vision?”
+
+Well, Jake got part of his question answered with that, as one of the things he’d wanted to know was if Villy had revealed his identity in any way. However, it seemed like whatever the Viper had done was a lot more mysterious and vague in nature.
+
+“I believe I do,” Jake nodded. “My guess is that it was done by the Malefic Viper, my Patron. The god that the factions spoke about earlier.”
+
+The Great Sea Serpent gained some insight from the explanations of the Arachnecs, Venusians, Nomads, and the Lich, so he was at least aware of what a god was, and he also knew that Jake was related to this god.
+
+“So that’s how it is,” the Great Sea Serpent said, looking at Jake with an inquisitive gaze. “I acted as his agent, did I not? Unknowingly moving to fulfill his will and extract you from a disadvantageous situation. Searching my memory, I do not remember the last time I was this perfectly manipulated... but it also shows the power and greatness of this being you refer to as the Malefic Viper.”
+
+Yeah, despite Jake thinking he had learned not to overshare, he’d immediately gone and revealed more information he really shouldn’t have, effectively telling the peak A-grade it had been forced into acting as the Viper’s pawn.
+
+“I believe it’s my turn to respond now,” the serpent said, fortunately not seeming that upset. Surprisingly, it seemed almost the opposite. “Putting the contents of the vision or dream into words would truly only communicate nonsensicality. Instead, I shall refer to the knowledge and intent it sought to impart. It indeed led me to know of your location, but it also conveyed that your existence holds value and opportunity besides taking me beyond the Boundary. A sensation similar to when a powerful natural treasure appears, calling to all worthy of detecting its presence. Lastly, I detected a greater purpose behind the vision. An intent and will, which would never be present if the system were the source.”
+
+It was a rather detailed response, far more so than Jake had actually expected. The Great Sea Serpent seemed like the kind of creature not a fan of revealing too much information, yet he had been very open so far. That, or the peak A-grade just wanted Jake to think he was being open.
+
+One thing did seem clear from the snake’s words, though; he expected some kind of gain from saving Jake. It had not been done merely out of the kindness of his heart, but as a way to reap promised vague benefits alluded to in a vision.
+
+“I see,” Jake merely said, nodding in acknowledgment. “And what are you thinking now that you look at me?”
+
+The rather intense stare of the peak A-grade, with an odd mix of emotions, was so evident that Jake felt he had to ask. Again, he’d felt no hostility so far, but Jake at least wanted to get a vibe from the snake. Of course, he was also very curious about something that he had fortunately somewhat confirmed right away.
+
+“That you appear oddly familiar,” the Great Sea Serpent responded. “I have an instinctive need to answer you truthfully when you speak, and a faint sense of oppression I do not believe solely stems from your being, but something beyond both of us.”
+
+“And why do you think that sensation is there?” Jake followed up, pushing his luck a little, but he really wanted to know if the Great Sea Serpent had interacted with the Miresnakes he’d met inside the Nest.
+
+One very important thing the factions hadn’t explained during their quick ramble before was what Jake had told the Miresnakes within the Nest. Perhaps because they didn’t see it as overly important, all they’d relayed was that Jake claimed the being behind him was so powerful that his mere existence could affect the growth of others. A simplistic explanation that didn’t at all scratch the surface of the complexity of Records.
+
+“You’re wondering if the Miresnakes returned from the Arachnecs and told me of what you revealed to them, yes?” the Great Sea Serpent answered, making Jake feel like the monster was reading his mind. “As my answer indicates, I have. I encountered them on my way to your location. A meeting I would refer to as fortunate, though now I would rather classify it as fated, with fate being a manipulable concept.”
+
+“Then you do already know-“
+
+“I do not. I believe. I have theories. But I do not dare claim to truly know what you speak of. The concept of Records does seem inherently familiar to me when I first heard it. We have other terms for similar concepts, but as I heard the explanation from the Miresnakes and mused on the phenomenon, the system responded. Descriptions were changed, and I felt... enlightened. Even then, I do not dare say I truly comprehend how one being’s existence can echo throughout all that shares these Records with them. Not because the concept seems impossible, but because I cannot imagine a singular individual holding such overwhelming power.”
+
+“Yet these existences are out there,” Jake said, still not entirely sure if this interaction was going well or not, though the more time passed, the more he believed that this could have a good ending. “I would gladly share what I know about Records, but even my knowledge is limited due to the sheer complexity of such a concept.”
+
+“I would ask you, but I believe there are more pressing matters, yes?” the Great Sea Serpent said, definitely pointing to still waiting for a promised reward. Jake did have in mind what that could be, but before moving forward, there were still some things he really wanted to know first.
+
+“You aim to become the first S-grade of this world, eh?” Jake said with a smile, joking a little, hoping it would make the snake entertain him a bit longer by giving answers.
+
+“Yes. I do. But I know you aren’t capable of helping me reach the next level yet,” the Great Sea Serpent said calmly, which made Jake frown. Something the snake naturally saw as it tilted its head.
+
+“Oh. You do not know, do you? Then allow me to inform you. Evolution beyond A-grade is not possible within this world. It has never been. It’s no question of accumulating these Records or power, but a limitation placed upon us directly by the system. When I reached peak A-grade, I gained an evolution quest... and one of the requirements is to leave this world and go beyond the Boundary. A fate shared by all who reach my level,” the Great Sea Serpent shared, making Jake’s eyes open wide as he spoke next without even thinking.
+
+“That sounds fucking horrible. Does that mean all the peak A-grades of the past, no matter how talented, died of old age just because they were unfortunate enough to be born in this Minor World?” Jake spluttered, finding the notion genuinely horrifying.
+
+“I find your indignation amusing, as most would consider themselves incredibly fortunate if they ever reach the peak of A-grade in the first place,” the Great Sea Serpent said. “As for their fates... I do not know. What I do know is that some of them dove into the Boundary to never return, with rumors of them escaping to a world beyond flourishing since long before I first hatched. I myself had considered leaving for the last fifty thousand years, but stopped when the system announcement of your arrival came.”
+
+Jake nodded slowly, genuinely hoping that the system had still left some way out for those A-grades. It was entirely possible that it had, and then made it impossible for them to share their true origin by making it Forbidden Knowledge. That was Jake’s ideal scenario, and the only one he considered somewhat probable, as he had a hard time imagining the system trapping all natives in such a... cruel fashion.
+
+“Do you know if the A-grades of the past also got an evolution quest to go beyond the Boundary?” Jake asked with curiosity.
+
+“No, I do not,” the peak A-grade answered. “Such details are not openly shared. Perhaps the Venusians are Arachnecs now, but as a solitary creature, I have no historical records or inherited knowledge to rely on.”
+
+He had hoped to hear that all A-grades had gotten such an evolution quest in the past, because if they had, it meant that they indeed had a chance to leave and join the multiverse. Jake simply refused to believe the system would ever hand out a quest that would lead to certain death. It was even possible that the peak A-grades of Venus could also leave now; they just wouldn’t appear at the exit in the Milky Way Galaxy.
+
+“If I may offer my perspective... I believe the A-grades of the past also had an opportunity to break free and evolve. The system tends to leave possibilities open, even if they prove nearly impossible,” Jake said, not sure if his words were meant to be comforting or informative.
+
+“Such a sentiment would indicate I would also have had the possibility to break beyond the Boundary on my own. Perhaps I should have tried in the past, but I do not regret my decision, especially not now. Not seeing the benefits your existence represents,” the Great Sea Serpent said, giving him an expectant look again.
+
+“I know you’re looking for some kind of reward, but I feel like I need to be honest about the nature of these benefits,” Jake sighed, already knowing what the serpent was getting at, and also having realized there was really only one thing Jake could do to help an A-grade evolve.
+
+On a side note, Jake instinctively knew that even if he wanted to help boost a peak A-grade’s evolution into S-grade through his ability as the Harbinger of Primeval Origins, he was entirely unable, seeing as he was still only B-grade. The power gap was simply too large, and while Jake had a lot of Primeval Origin Energy, he would run out if he tried to make up for lack of quality with quantity.
+
+That meant Jake only had one thing to offer:
+
+A Blessing.
+
+Alright, technically, Jake wasn’t the one offering the Blessing; Villy was, but Jake would serve as the medium to grant it. Jake did think that the Viper could give out Blessings remotely if he wanted, perhaps even using similar means to how he’d shown a vision to the Great Sea Serpent, but he hadn’t gone and straight-up given the massive snake a Blessing.
+
+Instead, he’d left the matter up to Jake, only interfering as little as he could while still saving Jake’s ass from his own dumbfuckery.
+
+Hence, Villy should also be entirely on board with granting a Blessing. Plus, honestly, the Great Sea Serpent was worthy of a Blessing, and if he had been in the multiverse, would have definitely already gotten one.
+
+He was a high-tier variant who had managed to reach his current level of power solely through his own efforts. The serpent was also clearly smart and manipulative, both being traits the Viper appreciated. Finally, even the Order would be happy to get another S-grade, as while S-grades were still mortals, they did represent the apex of mortality and were considered very valuable even to the top factions.
+
+“Yes... I figured that would be the case. However, no cause for concern; I do not consider myself as foolish as others. This multiverse clearly has beings far beyond our comprehension, and given that, would it not logically follow that we are so far beneath them that our matters don’t truly concern them? Instead, we should approach it selfishly and see how the existence of these beings can benefit us, even if it means we may need to alter some actions to earn the favor of a god,” the Great Sea Serpent said, being pretty damn spot-on.
+
+For the most part, anyway.
+
+Gods were generally beings that rarely interacted with mortals and didn’t concern themselves with mortal affairs. It was just that Jake and even those around him were massive outliers, nearly entirely due to Jake and the effect his existence had on people.
+
+Villy had told Jake a long time ago that one of the reasons other gods and even Primordials had been so personable with those like the Sword Saint, Casper, Sylphie, Carmen, and many others was that they could actually interact with them. The presence resistance Jake granted made conversation possible. It made the interactions actually interesting.
+
+Still, outliers were outliers for a reason, and the Great Sea Serpent was scarily good at realizing something like that with such limited information. Perhaps because he himself was a long-lived creature who probably didn’t bother interacting with many of the weaker denizens of Venus.
+
+“Then do you know the form this benefit takes?” Jake asked, wondering if the snake could also guess that.
+
+“Would it concern you that my first thought was that consuming you was how I would gain my benefits? Though it was short-lived, the thought did pass through my mind. Naturally, I no longer consider that, even if it does appear slightly tempting,” the Great Sea Serpent said in what Jake hoped was a joke.
+
+Not wanting to drag things out anymore, Jake just smiled awkwardly. “Rather than try to explain... how about I just show you? I’ll need physical contact to do it. Don’t worry, I swear that if you don’t like the nature of this benefit, it isn’t anything you have to accept.”
+
+Jake had expected the Great Sea Serpent to need a moment, but the snake appeared right in front of him in an instant, moving faster than Jake could register as it looked down at him from above.
+
+“You may proceed.”
+
+Nodding, Jake reached out a hand and touched the scales of the Great Sea Serpent as he intended to bestow a presence... and upon doing so felt the Viper channel himself through Jake as the snake’s eyes blanked over. The serpent’s consciousness shifted elsewhere, and Jake couldn’t help but smile as he felt that the peak A-grade had just gotten a personal audience with the biggest snake of them all.

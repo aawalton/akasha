@@ -1,0 +1,103 @@
+---
+id: 580f2d55-272d-5baf-ad8a-06ac8fd5f43d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 - Training & rest"
+slug: 0007-chapter-7-training-and-rest
+partOf: the-primal-hunter
+position: 7
+ownLength: 2518
+unit: words
+ownProgress: 2518
+publishedAt: 2020-09-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/559412/chapter-7-training-rest"
+royalRoadId: "559412"
+markedReadAt: "2026-06-29T19:29:28.351Z"
+---
+
+”OW! For fuck's sake, that hurts!” Jake growled after being hit by yet another arrow.
+
+“Jake, are you sure about this?” Casper asked, genuinely wondering if Jake was actually a masochist. He had been shooting padded arrows, with dulled arrowheads wrapped in cloth, at Jake for nearly three hours already. The cloth came from Jakes's own jacket, which he had been wearing under his cloak this entire time.
+
+“Yeah, just give me a second,” Jake said, getting ready once again. He had wrapped the torn sleeve of his jacket around his eyes, acting as a blindfold.
+
+“Are you really sure this is doing anything? Well, I guess it’s good target practice for me, but…” Casper said, mumbling the last part. Jake’s plan was rather straightforward. He would have Casper shoot arrows at him while blindfolded while trying to react to them without relying on sight.
+
+While Jake certainly had reservations of his own plan's veracity, to begin with, he had made progress throughout their training session. In the beginning, he merely flinched milli-seconds before the arrows hit, while now he could react to at least try to attempt to evade the arrow before it hit him.
+
+“Just keep the arrows coming, I can feel it!” Jake said, still hurting, though also very positive.
+
+He had been wondering about his weird senses since coming to this tutorial. He somehow ‘knew’ the big boar was charging through the bushes before he saw or even heard the beast. Actually, to say he knew was a bit too strong of a word. He just had this vague feeling that a massive danger was coming.
+
+In combat, he didn’t really think much per-se but merely went with the flow. He was still in full control of his body, of course, but at times it felt like his brain couldn’t keep up with his body. His instincts. He just did what felt most natural at the time. And the results spoke for themselves.
+
+And that was how Jake got the idea for this kind of practice. He wanted to train his senses and allow him to understand exactly what was happening to him and why it felt like he had a new sixth sense. He had suspected it had something to do with being an archer or may be tied to the perception stat, but Casper didn’t have the same experiences as him at all.
+
+With the big boar he had felt that the boar was coming for him as he had just begun climbing the tree. His logical mind then took over, concluding it would hit the tree, allowing him to strengthen his grip and avoid falling.
+
+At the beginning of their impromptu practice-session, Casper had merely thrown small sticks and cloth-wrapped stones at him. Jake felt nearly nothing before the things hit him. He could get a feeling that something was coming towards him, but not how fast or where it would hit. It also came way too late for him to react.
+
+After quite a bit of frustration and thinking, he asked if Casper could throw a rock not wrapped in cloth. This time, he felt it quite vividly before it hit him, and even more so when it actually did hit. Got a nice blue mark from that one. A round of Casper apologizing profusely later, Jake had calmed him down and convinced him to switch to the cloth-wrapped arrows. They still hurt like hell, but at least they were not able to cause any real damage. Well, he had lost a few health points, but it was barely noticeable, and they were regenerating quite quickly.
+
+Throughout the session, Jake felt the improvement more and more, and he felt like he was just a little away from grasping unto something. He had a far more distinct feeling that something was about to hit him than when he started. Still not enough of a feeling to react adequately, though.
+
+Back in the present, the next arrow came, and Jake once again felt that something was about to hit him, so he tried dodging it. He ended up still getting hit again and even ended up tripping while trying to dodge it. He got up again, not at all discouraged. He had felt it there. Not just the concept of danger approaching, he had even felt what it was that was about to strike him.
+
+They kept up the practice a bit more, with Jake even managing to dodge an arrow or two here and there. Casper was finally beginning to believe in whatever Jake was doing, and even asking questions on how to do it. Jake tried to explain the feeling he got, but Jake sucked at it, putting the feeling into words, and to begin with, it was like trying to explain colors to a blind person.
+
+Another hour went by before someone came over from the makeshift camp. Food had been prepared, and while neither Jake nor Casper were hungry, they knew the importance of sustenance. No one knew when they could get their next meal either.
+
+The dinner that was about to be ready was the two badgers killed earlier. Grilled haphazardly over a small fire after being skinned and gutted. Bertram knew how to do that, surprisingly. They didn’t have any spices or proper tools though, so quite frankly, it looked quite… simple.
+
+Even the cook, Lina, had to admit that it did not exactly look appetizing in any way. Caroline was the one that came over to the two archers to get them to eat. Jake nearly felt like all the pain had been worth it when she sat down next to him while they ate in order to heal his wounds. The healing felt good like a cold stream was running through his veins, and he saw the blue marks slowly disappear over the next twenty minutes as he sat there, enjoying the sensation.
+
+They chatted while Caroline mainly asked questions about why he had let Casper use him for target practice for the better part of four hours, and about other minor things, like how he was so good at using a bow and what-not.
+
+Jake was happy to talk to her and explained his training with Casper and what he hoped to achieve by doing it. He also explained to her how he had practiced archery growing up and how he did it from time to time still, thus explaining his proficiency with a bow.
+
+He even divulged how he sadly had to give up going pro due to an injury, much to Caroline's interest. She had always seen him as the silent nerdy type, and not at all sporty. This also made Jake realize how little he had interacted with her outside of work. The same went for everyone in their group, in fact.
+
+He had never been the social type in any kind of setting, really. While he wasn't absolutely hopeless in social interactions, he did try to minimize them. Heck, he ended up doing archery, to begin with, because his dad insisted on him doing some kind of sport, so he picked one where he had no team or direct opponents to interact with. Archery was a sport he could enjoy in solitude, just him and his bow.
+
+Him liking Jacob and Caroline was most likely because they were two of the only people outside of his family that he felt comfortable around. Because of his welcoming nature and open demeanor, Jacob allowed pretty much anyone to feel good about themselves. Caroline, on the other hand, he couldn't put his finger on why he liked her. He just did. Ah, who was he kidding, he just found her physically attractive, and that’s about it. He barely knew the gal before the system.
+
+In university, he had purposefully worked on improving his social skills and actively aimed to take part in gatherings and such. While he never got completely comfortable doing it, it improved his self-confidence tremendously during those years. Getting a girlfriend and a few close friends did even more for that confidence to develop. All until it was brought down the day he walked in on his girlfriend and his supposed best friend. Apparently, it had been an open secret in their little group. Open to everyone but Jake.
+
+All the work and development he had gone through was for naught and his self-confidence and self-worth in the gutter. His girlfriend claimed it was just ‘having fun’ and that it was nothing serious, while his so-called best friend seemed to think it was no big deal at all, and that he just had to ‘stop being a pussy about it'. A sentiment apparently shared by everyone else in their little university group. Or maybe they just feared social ex-communication from the group if they spoke up.
+
+This event led to Jake being back to his old introverted ways. He studied, did archery, played games, watched TV, and went to classes. A good day was one where he hadn’t spoken a single word to anyone but his parents when they called, asking how he was doing.
+
+It had improved after he graduated, having gotten a good job, and through that was forced to engage in the social system that is the workplace. Jacob was the one that had gotten him out of his shell initially and made him open up more to his colleagues. Enough to be on friendly terms with everyone, at least. Jacob seemed to always try to invite Jake to things explicitly. Thinking back, the reason why they were in this tutorial together was maybe even due to Jacob asking him to go to lunch together.
+
+In a professional setting, he had no issue speaking or expressing himself normally now. The same reason why he had no problem arguing for his decision-making with Jacob earlier and talking with Casper during their training. But what he was doing right now. Casually small talking with Caroline… it was more nerve-wracking than facing down the huge boar.
+
+During the conversation, Dennis yelled out to them, clearly flustered.
+
+“Caroline! Joanna woke up. Can you come to check on her?” All said while nervously shooting glances at Jake. Caroline did not hesitate and excused herself as she followed Dennis over to Joanna. Not that they were very far away, being less than five meters away from where they had been sitting and eating.
+
+Jake could easily peek or listen in but decided against it. He wouldn’t blame Joanna if she were angry at him. In her eyes, he was the indirect cause of her injury after all. However, he was a bit scared if she would put any of those thoughts into words or actions.
+
+How would he react if she started yelling at him? Blaming him? Could he stand there and argue that he stood by his decision? Or would it get heated and turn into another huge argument? He was afraid to find out and fell back into his old habit of simply avoiding the potential confrontation.
+
+So Jake instead chose to close his eyes, and once again focus on trying to understand and reexperience his weird new sixth-sense-like ability. As he closed himself off mentally, he lost track of time until he was awoken by Casper, who was about to poke him in the side.
+
+Jake opened his eyes before the finger even touched him, much to Casper’s surprise. Jake was about to ask what he wanted when he noticed Jacob having gotten up also. Clearly about to launch into another speech.
+
+“Alright, everyone, we made it through our first day,” he said, as he gave a sad look Joanna’s way. “Casper already checked and confirmed that the beasts have at least some fear of fire; however, we are not sure if it is a sure thing. I think we should have someone be on watch while everyone sleeps. We should make a rotation.”
+
+No one had any objections to the idea of having someone watch their back as they slept. It was agreed that two people would keep watch together, while the others slept. Making the rotation, they had an odd number of potential lookouts, Joanna being excluded from the rotation. Without much fuss, Jake volunteered to keep watch solo, once again not meeting any objections.
+
+The first watch would be Lina and Dennis, and the second watch would go to Jake and the third Jacob and Caroline. Jake wasn't exactly overjoyed imagining Caroline and Jacob being alone together, sitting at a bonfire under the moonlight. Not that a murder-forest was particularly romantic.
+
+As they finished cleaning up after dinner, nobody wasted any time getting some shut-eye. While the stamina of most of them was still more than half full, they were nevertheless exhausted. While Jake did not feel particularly tired, he knew it would be foolish not to take the opportunity to get some sleep in. It wasn't exactly comfortable, just lying on the grass—the coarse cloak offering little comfort.
+
+Jake shut his eyes and fell asleep immediately. Quite a feat considering the circumstances. He had no idea exactly how long he had been sleeping, he imagined the three hours they had agreed on, but he woke up as he felt someone approach him. Opening his eyes, instantly alert, he heard the small yelp of Lina as she jumped back, frightened by Jake suddenly awaking as she was about to wake him.
+
+“Holy shit, you scared me. Were you already awake?” Lina whispered as Jake got up and made sure he had both his bow, full quiver, and knife still on him.
+
+“No, I just awoke. How long have I been sleeping? And did anything happen while I slept?” Jake asked, looking around. It was now deep in the night, though not as dark as he would have assumed. The moonlight did much to illuminate the surroundings, making it quite easy to see everything in the clearing. Or perhaps it was just his improved eyesight making everything appear brighter. He frankly had no way to know.
+
+“We have been keeping watch for a bit over three hours. We used the tutorial countdown to keep track,” she said, “and nothing has happened, really. A couple of small animals and what looked like more of those badgers were on the outskirts of the clearing, but they didn’t even exit the bushes or get close to us. Scared of the fire, I think. That or my awesome magic!”
+
+Jake chuckled at her attempt at a joke, mainly out of courtesy than it actually being funny. He could see how tense she was and knew she was just trying to lighten the mood. She smiled, and they went over to Dennis, who was more than happy to be relieved of his services.
+
+The two promptly went over to the others to sleep, while wishing Jake a peaceful watch. Jake took a seat on the same log that Dennis had been sitting on as he looked into the dark forest. Let’s hope that the rest of the night will also be quiet.

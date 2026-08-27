@@ -1,0 +1,341 @@
+---
+id: 42cc1bf8-6145-5877-971b-030aed68c97e
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 488"
+slug: 0188-the-path-of-ascension-chapter-488
+partOf: the-path-of-ascension
+position: 188
+ownLength: 5172
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3269409/the-path-of-ascension-chapter-488"
+royalRoadId: "3269409"
+---
+
+Chapter 488
+
+The moment of truth came faster than Matt was prepared for. Only two weeks into their stay, JR informed Matt he'd finished preparing the various materials and Natural Treasures earlier than expected. It was time to officially get started on his armor by ripping his name out.
+
+Matt couldn’t avoid it any longer without backing out. The thought made a tiny part of him want to find an excuse, any excuse, to avoid the meeting but he cast the [Portal] the moment Liz and Aster signaled they were ready. He’d been locked onto the coordinates for the last twenty minutes since the message had arrived.
+
+Seeing a familiar older woman already waiting for them, Matt nodded silently to Rosemarie before realizing he needed to introduce Liz and Aster. Midway through, he realized she very obviously knew who they were, and that he’d mentioned her to both of them, making the entire moment unnecessary. He didn’t embarrass himself further by changing his mind midway but he did send a nice note to Luna for her insistence on political training from a young age.
+
+Shaking himself, Matt followed her into a familiar laboratory where a raven was already perched and waiting for them next to a slightly illusionary Manny.
+
+“Good morning, you three. How surprising to see you all. I’d expected one, but no matter. You’ll get a show; so good, I’m inclined to charge you.”
+
+Phoenix Liz fluttered over, landing next to the similar sized raven, inspecting the other bird.
+
+Far from displeased, JR waved a wing, bringing the four of them in and shutting the door behind them, though his full attention was on phoenix Liz. “Well, maybe not. One of you has good taste in form at least. You’ll find many a perch through the office, make yourself at home.”
+
+Splitting his attention, he looked at both human Liz and Aster simultaneously. “As for you two, find a corner to stay out of the way I guess. Gasp quietly if you must. Clapping and other exclamation’s of appreciation may be done at full volume. If you don’t understand what’s going on, feel free to clap. There is a good chance I’m doing something impressive.”
+
+Matt turned to the Manny clone who tapped his eyes. “I’m here so the main body can watch. Don’t worry. I can arrive instantly should it be required but otherwise I’m a silent observer. Everything is up to you at this point. I’ll back you up.”
+
+Nodding to Manny in silent appreciation, Matt looked back to the other Tier 50.
+
+The raven waved at the far wall, not wasting a moment. “Your armor. I believe I’ve reached what I can call a final design. I await your approval so we can get started. I need to prepare our final material.”
+
+Hopping sideways past phoenix Liz, JR gestured for Matt to hurry along.
+
+More occupied with the several fairly large changes, Matt started with the things he didn’t like. “Why did you remove the sight enhancements? Those were pretty high on my wish list. A lot higher than other things I see you kept. And don’t say because you are taking my name. I read all of the provided documentation and I’m confident it can replace any of the effects you seem to have replaced.”
+
+Opening sub menus, JR brought up a new projection off to the side, allowing Matt to see. “I’m glad you did your reading. Well done. So few clients even attempt to understand. I removed the sight enhancement along with all of the perception and mental enhancements, as I’m sure you've noticed, because I needed the spiritual space. I did say I made some changes.”
+
+Trying to drown the growing apprehension, Matt kept sifting through everything.
+
+JR hadn’t removed the functions because he’d lost his mind. No, he was trying to explode Matt’s.
+
+“Growing the crystallized structure through my brain can not be safe.”
+
+“‘Through’ feels like a misleading choice of word, if accurate in the context. Around is much better, yes? Encasing, maybe? Through? No, not quite.”
+
+Flapping next to Matt and landing on nothing, JR’s barking laugh grated. “What did I say about doubting me?”
+
+Rather than waiting for a reply, he continued while looking positively smug, “The entire point of this is to take advantage of how fragile the brain is and how well protected it is. Even for you it's a high value area, so it's one of the last you’ll let get destroyed, which is why it's the last to be built. If we are already growing additional abilities, why not save the enchanting space and simply boost your brain directly.”
+
+Looking at one of the other projections, Matt consulted the list. “That’s pretty far down on the growth pattern.”
+
+JR didn’t try to shy away from that and nodded. “Yes but hopefully unlike your arms or legs once it's grown you’ll never need to do so again.”
+
+Seeing he’d won, the bird strutted as he played presenter. “One of my finer works, if I do say so myself. Once the armor is embedded and fully spread through your subdermal, it will start to shunt any excess mana generation into growing the additional effects. Do take note that because of the setup, damage to the underlying crystalline structure will need to be fixed before any additional growth can commence. That's a fundamental order of operations even I can’t circumvent.”
+
+Matt easily accepted that, having long expected it. Correcting foundational damage would always be a higher core priority than expanding. Any other design philosophy and he’d have started getting worried but he had hoped JR would have been able to give him the ability to choose. Flexibility was a sacrifice he had to make if he wanted to manifest his very important skills in his chest; stability had to be the priority.
+
+That was why the armor’s baseline effects, the ones that would be immediately active upon stage zero’s completion, centered around his casting stability instead of physical enhancements. In fact a large portion of the armor was dedicated to his spirit, not that such was apparent from the blueprints but that had been intentional.
+
+Stabilizing his spirit was difficult but that was what made the armor so special. At its core the armor was there to enable what he could already do.
+
+Going through the relevant documents, he carefully looked for any hidden changes in that most important area, his skill manifestation, but found none. Where JR had taken liberties with the growing features, removing and replacing as he saw fit, he’d only improved that section of the design, with none of the features being altered.
+
+Seeing the core functions of his armor were still what he needed, he let himself look at what had JR’s interest so firmly.
+
+He wasn’t disappointed.
+
+The first additional power the armor would grow would be outward. Filaments of mana would weave themselves together, creating literal skin deep armor. JR’s numbers suggested that once the first stage had fully grown it would be like always having the first layer of [Cracked Phantom Armor] running at half power.
+
+At no cost.
+
+Additionally, JR had taken great pains to ensure that the armor could take advantage of his Intent’s ability to concentrate his mana. That would further bolster the first layer's defenses, but the first stage wasn’t over there.
+
+As a partial step, his eyes would be reinforced, preparing to be tied into the later mental boosts. At the same time, his armor would form mana conduits on his hands, his entire back, and the back of his thighs.
+
+Disregarding everything else, the enhanced mana pathways would give him an immediate boost to his combat power and he was happy to see it so high on the list. Better yet those enhancements would be further boosted by his manifested skills, leading to an even greater increase in power.
+
+Matt almost didn’t dare to imagine it, fearing nothing could live up to his expectations, but his analytical side didn’t need any help to reach the same conclusion.
+
+The following steps were all inward.
+
+In fact, the second step didn't enhance his body in any way. Rather, it was a simple race to his bones, going through as little muscle as possible in as many places as possible. Once contact was made, the mana crystals would spread and encase them, increasing his defence bone by bone. Once complete, the cumulative effect would bring the armor's defensive power up to the full
+
+Ultimately that was still only a preparation for the next phases.
+
+That was where he couldn’t follow the effects.
+
+After fully enhancing his bones, his muscles would be sandwiched by layers of his growth armor, allowing JR’s madness to shine. Infiltrating his muscles from both sides allowed JR to concentrate several effects he’d managed to rip out of Natural Treasures. Together it culminated in an effect Matt thought could appear in something like a Domain or Talent.
+
+As the mana fibers grew denser, they would enhance his base physical cultivation abilities. First his strength, then his durability, regeneration, flexibility, and then, finally, his proprioception, with the earlier enhancements becoming more complicated with each deeper stage. That would mean each new enhancement would come with a small but noticeable boost to the previous stages but that was only the passive effect.
+
+JR laughed, seeing straight through him. “Yes, Matthew, I copied various mana based biologies for parts. Obviously. But don’t worry, this won’t be inheritable in any way, shape or form. I’d have already started selling slots if I could make an item that could be bred like livestock.”
+
+Left unsaid was that all of the previous stages, all of the boosts, were only foundations for the next stage. Once complete, the mana filaments would facilitate Matt’s various physical empowerment spells by multiplying the baseline effectiveness of his physical boosting spells. Combined with crystal stabilized spells allowing him to spend more mana without destabilizing them, [Archmage’s Presence] and its brethren would see a significant uptick in potency the moment the effect finished growing.
+
+It was only then, after his body was fully developed that the armor sought to boost his senses and mind, the two remaining aspects of physical cultivation. It was those changes that initially caught his eye due to the knock-on effects. Growing mana crystals around and through his muscles might not be pleasant, though JR promised he wouldn’t feel it thanks to a tertiary side effect of the name integration, but the damage to his brain could prove lethal.
+
+JR, in madness or genius, chose the fifth stage to improve Matt’s brain. The schematic even took account of the [AI] modifications he’d been working with Max by not tampering with the brain itself.
+
+“This is incredible but what are the downsides?”
+
+Matt immediately felt both Liz and Aster’s relief as he asked the question, making him realize how long he’d been inspecting the diagrams.
+
+“If your brain does get destroyed, it's going to take that much longer to get those functions back. But it's a bad habit for anyone to lose their head regularly. Gamble enough and the odds eventually catch up. I’ve seen far too many people learn the hard way, there is always an exception.”
+
+JR wasn’t wrong but he also hadn’t brought up the spiritual aspect of the armor that would be doing as much work as the physical side.
+
+The armor itself was nice to have, extremely nice to have, but the true magic lay elsewhere. Deeper and hidden from all but the most careful observation, masked behind the physical changes.
+
+Inside his very spirit.
+
+Matt had thrown out the almost insane idea of manifesting skill structures into reality once during their initial brainstorm on the armor as a dream goal. It wasn’t a serious suggestion, not really. At least, he didn’t expect any substantial progress but JR apparently had taken it as a challenge and seemingly succeeded.
+
+Using the impossibly tight connection created by being a growth item and having it host a part of his name, the armor could weave itself through any skill structures his spirit held, reinforcing them. That would let them handle far more maximum mana and mana throughput before the minor deformations from mana pressure started to crop up, while also giving him a baseline to build off of.
+
+Looking at specs, Matt was both delighted and mildly disappointed that JR had taken his research on the helical reinforcement structures and ran with it, instead of coming up with something else. The result was a strange, positively organic looking structure that he’d never have been able to design. A positive side effect of the integration also meant the armor could regrow from his very spirit should it manage to be physically obliterated.
+
+The armor was everything he’d asked for and more. He’d not only be stronger in every way, his mana transfer abilities would improve with the higher Tier [Item Link] integration, and manifesting his skills into reality would further boost everything the armor did.
+
+Matt didn’t think he could say no at this point.
+
+And that was his problem.
+
+Looking at his wife and bond, Matt asked, “Anything I’m missing? Any last minute warnings I need to be aware of?”
+
+Aster shook her head, her ears twitching, “Nothing stands out to me. I’m kinda jealous about all the additional power this thing is giving, so I wanted you to know that. I figured you deserved at least one win today.”
+
+Her playful feelings helped settle him, as did Liz’s firm hug.
+
+Taking and squeezing his hand for a moment she smiled up at him. “It will be fine. Ten, even twenty years as Titan or Quill will be okay. I love every version of you and will be here in case you do need something.”
+
+“Thank you.”
+
+It was all he could say but the other two didn’t hold it against him.
+
+Apprehension rising, Matt sat down on the indicated spot and opened his memory of Leon’s speech knowing they might be his last thoughts. Carefully, fighting his every instinct, he lowered all his spiritual defences.
+
+Then JR spoke above him.
+
+“Matthew Moore né Alexander.”
+
+***
+
+Liz saw the change happen immediately.
+
+That was obvious by the appearance of a ghostly Matt, but his body language shifted.
+
+Titan.
+
+Even before merciless eyes opened, Liz knew which personality had taken primary with the removal of Matt.
+
+“How do you feel?”
+
+She couldn’t help but ask, despite dreading the answer, knowing Matt would want to know.
+
+Looking at his hands, Titan frowned imperceptibly. “Hollow. Like a toy with all the stuffing removed. All that’s left are my bones and skin. Or that’s how it feels upon first impression. It's… fading slowly but that’s an awareness thing. Pieces are still gone.”
+
+Her phoenix self nearly pecked the raven as he exacerbated the issue by laughing. If she’d thought it had worked, she’d have done it, screw the consequences. But she’d rather not embarrass herself for zero gain. “I’d expected Titan to be dominant but I’d also hoped for a surprise. Still, being correct means my models shouldn't have any issues. Any problems, Titan? Hmmm?”
+
+Titan’s head turned to face JR in a slow move Liz normally only saw on the battlefield and it set her on edge.
+
+Liz had heard most of Matt’s worries about who he’d be post removal of his name but she now had her answer.
+
+Titan, with all that entailed.
+
+In Matt’s battle mode even a simple head movement had turned into an unspoken challenge, but Titan’s words were what truly surprised her. “Does it please you to irritate me? Is a rise out of me your desired outcome?”
+
+She didn’t miss Manny’s clone’s eyes focused on Matt but she held her tongue.
+
+JR didn’t. “And what if it does? Do you have a problem with that, Ascender Titan?”
+
+The raven’s use of his Empire title was strange but her bird self was more focused on his body language. As a bird herself, that Liz had a better read on birds than most people, and while he only appeared mildly interested, her intuition told her that was a lie.
+
+A massive one.
+
+Instead of growing angry, Titan smiled as he stood up and walked in front of his name projection and studied it. He continued ignoring the Tier 50’s question for so long, she was confident he wasn’t going to reply at all, but he did after taking his fill.
+
+“I do.” The two words felt like glass in the silent room but he didn’t stop there. “You stand at the peak of a realm. Having talked with Rah, I believe I have a better understanding of why you all seem to treat everyone weaker than yourself as disposable.”
+
+When Titan didn’t continue, JR eagerly played his part. “Oh, and why is that? Please do tell.”
+
+“It's complacency.”
+
+That answer shocked Liz. From their reactions, Manny and JR hadn’t expected it either. Aster seemed to be the only one who wasn’t surprised, but then again Liz wasn’t entirely sure she’d heard a word that had been said at all.
+
+While far from a new concept to her, she’d never thought to hear Matt say such a thing to a Tier 50s face. Then again, he hadn’t.
+
+It was Titan without Matt to ameliorate and she suddenly realized how much scarier that was.
+
+Finally looking at the raven, he continued. “You seem to forget your advantage is age and the willingness to stall your advancement. Yes, you can kill me with a thought and I can’t stop you. So go ahead and do it.”
+
+When he wasn’t killed on the spot, Titan snorted as if disappointed. “It's said in Tier 100 Realms cross-Realm travel is possible and everyone seems to believe it. If that is even remotely true, I’ve never understood why every Tier 50 seems so confident their lead time will survive another fifty Tiers? Even if you disregard that, how many of your previous rivals are waiting for you and hoping you ascend to their Realm? It seems so… short sighted.”
+
+Laughing, JR circled Titan as if he’d never seen him before, his interest undisguised. “Well, there it is. I thought you were a true anomaly, Ascender Titan, but no. There. It. Is. That’s the arrogance and pride we normally see. I thought you didn’t have it at all. How interesting that you packaged it up and shoved it all into Titan. Most embrace it. They earned it after all. Why wouldn’t they get to enjoy the fruits of their labor? How very intriguing.”
+
+Titan didn’t reply, glaring at, or maybe just watching, JR.
+
+Even ostensibly neutral, Liz was so used to certain expressions on Matt’s face that seeing Titan’s more combat oriented reactions outside of those situations was deeply discomforting. She’d die before she let any version of Matt know how much that bothered her but she needed to face it.
+
+She’d made up her mind about two seconds after he revealed his initial fears about the process of removing his name and wasn’t changing it now. No matter the truth, her version of this vacation would be purely positive.
+
+It was the only thing she could do.
+
+JR on the other seemed to think it was a game but that only proved Titan’s, and Matt’s, point as well. He simply had the tact and social graces to know that saying such a thing came with risks.
+
+However, rather than continue the verbal spar as she expected, Titan looked away from himself and to Liz and Aster.
+
+“I’m self aware enough to realize that I won’t make good company for the remaining time but I wanted to share something. I know I— the previous me, feared what emotions I, Titan, might feel but his absence didn't take them away. However it does amplify emotions core to this identity.” Smiling at them, he nearly melted her phoenix form. “The main emotion I can feel is love for you two. Everything else, even anger and rage, are like the thinnest of sheets while my love is part of my very bones.”
+
+Before Liz could unpool several of herself from the puddles they’d made, he declared his intentions as he sat back down and closed his eyes. “Let’s try being Quill instead.”
+
+***
+
+Quill opened his eyes and took a moment to take stock of… everything.
+
+Things were… strange.
+
+Quill was a mask. An identity spun up to play a role. Now… His thoughts weren’t altered, yet he felt… strange.
+
+A side effect from the large part of himself missing? He didn’t know. His brain was… foggy. Thin might have been a better word. It was hard to think about such circular things without falling into the abyss of his missing self.
+
+Thankfully, as with Titan, things started to settle down, though the process was agonizingly slow. Looking down at his hands, Quill carefully rubbed his pointer finger and thumb together, letting himself feel the heightened sensations.
+
+His initial reaction was to make a joke but the instinct felt hollow.
+
+Like the rest of himself.
+
+Where Titan had been metaphorical skin and bones, Quill was somehow less. He was…
+
+Quill didn’t quite have the words to express how he felt. Taking several deep breaths, he finally opened his eyes.
+
+Seeing his wife— he was married to Liz! How cool was that?— Quill kept his focus inward.
+
+“Well this isn’t quite as fun as I’d hoped but it’s not that bad either. I feel… mildly fake.”
+
+Laughing, Quill rubbed his nose, instinctively playing the moment down seeing their concern, but he didn’t stop, knowing they deserve to know. “Whereas Titan still felt like a normal part of myself, I can feel Quill is a bit more… artificial. I can definitely work with this though. I’m at least feeling all of my emotions like normal, so that's fun.”
+
+Liz shared a look with Aster, prompting his bond to speak for the first time since they’d arrived.
+
+“Yeah, this is the one. Even as fragmented as our connection is at the moment, I couldn’t last a year of constant combat mode in the back of my mind. I’d have gone stir crazy.”
+
+Quill knew what she was talking about. Their bond was a spiritual bond but like a sandwich that had been together too long, removing his name had taken pieces of their bond with it. That sensation hadn’t been pleasant, but thankfully Titan had processed most of the existential horror that came with being able to see one's core identity, their name, manifested in reality.
+
+Luckily, theirs wasn’t a new problem.
+
+Sitting directly on the ground, Quill calmed his breathing and started meditating to quiet any distracting thoughts. Once he was appropriately calm, he turned his attention inward, trying to reconnect with his body.
+
+Because ultimately even with his name removed he was still…he was still…what was his name!? He’d known he’d not know his name, that’s what it being taken means, yet no amount of preparation could stop the shiver of existential terror that went down his spine as he realized something.
+
+With as much casualness he could force, he turned to Liz and asked. “I just want to test something, what’s my name? My full name I mean, not Quill or Titan.”
+
+Looking as concerned as he felt, he watched as her mouth formed each syllable. “Your name is『　』.”
+
+The question made JR laugh but it also explained what was going on. His name was gone, and with it his understanding of self. Of course he couldn’t comprehend his own name.
+
+It took a few more moments of forced casualness that he knew fooled nobody present, but he managed to collect… himself.
+
+Yes, himself. Quill, he, was still himself. Or at least his own body. It was his body because it was a part of himself, just as Quill and Titan were parts of himself.
+
+He was subletting an apartment from… himself. Quill liked that example but he didn’t let himself look into it too deeply. He needed to finish moving in and settling down.
+
+Refocusing on his body, he started from his ears and one by one moved each muscle all the way down to his toes. There he moved his way back up, taking his time and not rushing the process.
+
+Quill didn’t suddenly feel connected to his body, but there was noticeable improvement and that was good enough for him. He’d settle in later. It was high time to take care of Aster and Liz.
+
+Opening his eyes, he grinned as he used the side of a single foot to stand up from his crossed legged position. “I gotta say, full me has forgotten some of the cool things he can do as a Tier 30. I’d have snapped my ankle trying to do that maneuver at Tier 1.”
+
+Liz smiled but Aster’s expression was smaller and more reserved. He felt her grasping at the fragmentation of their bond like someone trying to crawl through wet glass, but didn't want to bring it up if she wasn’t going to.
+
+Instead he fell back on an old favorite, deflection. “It's better than Titan at least, but I apologize for any gaffs I might cause. Some will most certainly be on purpose but what can I do?”
+
+JR took that moment to interrupt. “Before we start digging for any deeper personalities, why don’t you look over the schematics. I want to ensure you can… assist post-name removal. Knowledge shouldn’t be affected but you never know. I would never have any problems but I can't speak for what Max is teaching you.”
+
+Quill desperately wanted to comment that Tier 50 was just trying to get a rise out of him but held himself back. He wasn't a Titan who was supremely confident in his abilities, he was Quill whose initial instinct was to make a quip.
+
+Looking over the information, Quill found it both new and old. Old because he remembered everything, given he’d just looked at it a few minutes ago, but it was also new.
+
+Quill, the mask, was a seasoned talisman master, and through his eyes things looked slightly different. Not enough to change any of their plans, JR was a better crafter than Quill could ever be, and his full self wasn't that much better, but Quill noticed a few things that he hadn’t paid particular attention to. Nothing major but enough to make him realize he needed to take everything in with new eyes.
+
+Wanting to show off a little, Quill created a simple light talisman on a small sheet of mana only a hair thick.
+
+“Good enough?”
+
+Seeing JR’s sly side look, Quill didn’t blink, admitting to nothing.
+
+Snorting, the raven continued. “This will work, this will work nicely. Okay, now go away. I need to prepare your name, then we start working. I’ll guarantee you four months but before six I’ll start the initial process, which will officially signal the start of our work. We’ll need to meet at least once a month afterward at a minimum, but until then you are free to concentrate on the business you still haven't started.”
+
+Ignoring the snide remark, Quill didn’t bother arguing. Instead, he took a moment to say goodbye to the Manny clone. He knew even if his previous self was there, he wouldn’t feel like arguing either. There was no point.
+
+That, and where previous him was only just willing to play along, Quill wanted to. He may have been a mask, but he had also been a way to cut loose during the stressful public moments he never liked handling. Those aspects hadn’t been dulled over time. He not only had several much better ideas than the initial uninspired plans, but he also had a name.
+
+Quill’s Quality Quintessentials.
+
+His full self…no, that was getting ridiculous.
+
+Why did it have to be so annoying to work around not knowing his own name? They were his own thoughts!
+
+He needed a better solution.
+
+A nickname? Prime?
+
+That felt too lazy and he didn’t like the implication he was lesser, nor did his Domain. No matter if he was a mask, he was still himself.
+
+If his full self didn’t want to deal with the consequences of that, he shouldn't have envisioned Quill with an ego.
+
+He needed something to call his previous self. He wanted to use his birth family name, but found that technicality hadn’t been as convenient as he’d hoped. Following that line of logic, he found something he did like.
+
+Blake.
+
+His father shouldn’t mind Quill borrowing his name to think about his previous self.
+
+That worked.
+
+Blake might have had too many options that he felt overwhelmed, but Quill had exactly one: talismans.
+
+Not only had Madam Renaissance created something that deeply intrigued Blake with the permanent talisman enchantments, Quill had his own ideas. Many were taken indirectly or directly from Titan Torch’s inventions, or the previous inventions that had occurred while they were exploring chaotic space. There was so much room for innovation between both aura enchanting and high Tier runes that a decade or two exploring taslimans seemed like a blast.
+
+Finding profit in the corporate battlefields wouldn’t be easy but with entirely new products, he hoped things would be easier. He, Blake really, already had several ideas, so they weren't starting from nothing.
+
+They both really liked the idea of a new type of tracking tasliman inspired by Madam Renaissance’s latest weapons.
+
+Rosemarie led them out of the secure room before vanishing to return to whatever work she’d been doing when they arrived. That struck Quill as strange but he couldn’t quite put his finger on why.
+
+Cato did similar things for him, but something about the situation felt off. Not dangerous per se, but he knew there was undercurrent, another game being played where he couldn’t see it.
+
+Casting [Portal], Quill froze.
+
+Instinct had led him through the casting, and when he thought about it, he still knew everything Blake did. But if asked if he knew it would work before casting the spell, he wasn’t sure he could have said yes.
+
+Running through his spells, Quill found anything without a frame of reference to his younger Tiers mentally blank. Not gone, and not irrecoverably as he’d proved, but blank, as if he’d never used the spells before. Focusing back on the [Portal] he created, he was quite sure the casting wasn’t as smooth as he could have managed an hour ago.
+
+It was very interesting and, once he confirmed he wasn’t mentally blocked from his own skills, kind of cool. It offered a new way to look at and improve upon his skills and he sent off a message to Luna asking for a plan.
+
+She’d be tickled to know he was still serious about his training. Best of all she was a Great Power away and the repercussions were Blake’s to deal with.

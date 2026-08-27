@@ -1,0 +1,401 @@
+---
+id: 52846222-71f6-58ff-8850-2b00e523fc7d
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 513"
+slug: 0179-the-path-of-ascension-chapter-513
+partOf: the-path-of-ascension
+position: 179
+ownLength: 7344
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3859914/the-path-of-ascension-chapter-513"
+royalRoadId: "3859914"
+---
+
+Chapter 513
+
+Matt lifted the tip of his longsword, preventing it from drooping as he looked around at the floating body parts that surrounded him. That glance didn’t reveal any still active combatants, but that didn’t mean the fight was truly over. They were tired, which made it a prime time for an ambush.
+
+When he found nothing, he checked for a fourth, then fifth time before trudging back to Aster and one of the Lizzes.
+
+“Ready?”
+
+His one word question didn’t even get much of a response, with only a single swish of her tail from Aster as she continued to scan the remnants of the latest battlefield. The general troops had fled and scattered after the elites had been dealt with, but that had still necessitated them fighting two high elite teams while under constant bombardment.
+
+While winnable, such battles had occurred near weekly as the Collective forced them to run from battlefield to battlefield as they tried to brunt the wave of this newest attack.
+
+The war had been going on for close to a decade at this point, and everyone's war machines were in full swing, with armies arriving to the front lines in waves.
+
+Word was already spreading amongst the general troops that once they’d repelled this onslaught, they’d be going on the offensive. Matt knew of the rumors, since they, as Ascenders, were asked by General Raven to spread them. That in itself didn't make them true, but Matt assumed they were more likely accurate than not, since there was little upside to having them spread full on lies. There might have been a small short term morale boost, but any ground gained would be lost when the rumors inevitably got disproven.
+
+That didn’t mean he understood why they were told to do so. Even unofficially announcing such plans wasn’t typically something the Great Powers, littered with spies, would do. Not that they’d have time for such niceties in this world.
+
+[Portal] retrieved their ship from where it lingered in the void between the central inhabited planet and the fortress world at the edge of the star system. Personally, he’d much rather have opened the aperture inside the ship. He didn’t necessarily care about breaking the protocols restricting that, but tripping the anti-assassination early warning triggers to save just a few moments would have been plain stupid.
+
+Without Allie bouncing around, they’d both needed to protect against such intrusions, as well as be prepared for others to abuse their familiarity with teleportation to create a gap in their defences. That meant the defences weren’t reactivatable, and would require their ship to reroute to a Tier 35 shipyard for repairs.
+
+General Duran arrived with a burst of dust, overflowing with gratitude for them salvaging her position, but they didn’t have time to play the hero and lounge around after their victory. Not today. They were in an even larger rush than usual and had to continue moving.
+
+Only two years ago, the Empire suffered two back to back defeats on the far edge of their border with the Collective. They’d been redirected in an effort to stem or, if possible, reverse the tide and return the fighting to the border region. They’d raced along the battlefront, but the closer they got to the Collective’s breach point, the more they were called upon to help stabilize the surrounding Tier 35 battlefields.
+
+The part of his mind that was already tired of the fighting wanted to complain that their efforts weren’t having any appreciable effect, but that would be a lie. With each fight they took, with each elite they captured, killed, or put on healing cooldown, and with each battlefield they cleared, the incursion slowed its advance.
+
+Matt analyzed the latest reports as they reentered chaotic space and started picking up new messages. He was almost surprised to not be surprised at the latest news. He’d expected some last minute change by the Collective. Now that they were only a few worlds away from their most defended location, the Collective’s Tier 35 troops had ceased their advance and seemed settled in for their arrival, preparing defences.
+
+They’d known their stops to plug the edges of the battlefield would cost them time, but he hoped it had been a worthy exchange.
+
+By preventing the breach from expanding, they’d minimized the defensive line, which in turn reduced the amount of reinforcements that the Empire would have to redirect.
+
+There were already three armies on the way, with the open possibility of two more that could be redirected their way should the need arise. Hopefully it wouldn’t be necessary and they could continue to assist the Empire breach on just the other side of the battlefields, but the armies were prepared to step in should the three of them fail to push back the incursion themselves.
+
+Matt tapped a discreet area on his chair and activated the privacy function after reviewing the data. “We are looking to be facing at least four armies, though they’ve spread throughout nine worlds. Five are only being held in the loosest terms, with a squad or regiment holding down the fort that will probably retreat the moment we or Empire reinforcements arrive. The final four positions are where they intend to make their stands. Beyond the normal contingents of elites sprinkled through the army, we know that Traxix and Redfur’s team helped in the initial push, but the Empire suspects Hali’s team is waiting in the wings for our arrival. That’s two pinnacle teams between Redfur and Hali, and while Traxix was only a peak elite in the last war, he’s either on the edge of promotion and here for experience, or has already crossed that threshold and is here as a trap. They haven’t updated his public designation but he was holding himself back in the battles to take the system. If I had to guess, I’d wager the trap is more likely. No way they risk one of their chimeras against us if he's not already pinnacle. That is, if there isn’t another team or two in the wings waiting for our arrival, which also feels likely.”
+
+The three of them had access to the same information channels, but he was faster at distilling the pertinent information.
+
+“Any word about the enemy reinforcements?” When Matt shot Aster a questioning look, she clarified with a shake of the head. “General troop movement. Sorry, I did hear you about the elites. Have those reinforcements arrived yet? And if not, when are we expecting them to do so?”
+
+“In the Tier 30 and lower brackets there has been a constant trickle, but the highest Tier battlefields have been silent. Likely, they are waiting for our arrival before committing more Tier 35 armies. If we arrive and defeat their elites and make a move on their armies, they will likely pull back to the border region. If we fail… well at that point I’m sure those same troops will move in and entrench themselves further.”
+
+Liz managed to keep herself collected as she tapped away at her own information streams. “So we are either walking into a trap, or going to kick up enough of a fuss that we bring the same thing down on us. Joy. Have there been enough sightings on the other battlefields that we have any guesses on who might show up?”
+
+They didn't, but that was mainly because most of the way most pinnacle elite teams were handled. They were either attached to an army for a long term assault, or held in reserve between missions. This early in the war, the current ratio leaned heavily to the latter category.
+
+As they reached the breach in the defensive line, they started getting scanned by more and more enemy ships. One and all, the moment they were identified, the enemy ships changed course. They either fled into a real space world of an appropriately low Tier, or they broke away from the safe paths the teleportation tethers created and braved the corrosive winds of open chaotic space.
+
+Settled space may have been the safest layer of chaotic space, but it was still chaotic space and deadly to any and all life. High Tier materials would last longer in the corrosive miasmia, but even most military ships weren’t rated for more than small jaunts away from the safety of the tethers.
+
+The enemy pilots must have considered the risks worth it, because every Tier 35 ship they encountered had the same reaction. Flee at a hard angle at max speed and keep running until they were firmly out of sight.
+
+While Matt didn’t mind the temporary lack of fighting, he also knew what each encounter really represented: information. Each and every time they were seen, their position would be relayed back to the Collective’s information network. Unlike last war, they didn’t have Allie and there was precious little they could do about it.
+
+It was one of the main reasons Ascenders went rogue during wars. If even their own side didn’t know what they were going to do, neither could the enemy. They could do so now, but that would only allow their enemies free reign in the Empire’s kitchen. So while they could tackle the problem how they wanted, they still had a job to do.
+
+One that the enemy was watching them approach with every battle and report.
+
+It was the bane of every Ascender team, as he knew from the others complaining about Allie and their war stories.
+
+As such, Matt wasn’t shocked when only a few hours away from one of the Tier 35 battlefields, the ship’s interior flashed red as the ship's shields flared to life.
+
+Matt’s initial reaction was to teleport out of the ship, but he held himself still as he purposely bottomed out his mana pool. The ships mana batteries were eighty seven percent full, but the shielding could burn through that reservoir in short order if their opponents decided to focus on the ship.
+
+It was a good thing too, as not even an instant later, another dozen impacts landed in a tightly controlled burst on their starboard flank. With unlimited mana, the shields quickly shed the strain, but everyone noticed the well coordinated attack and took note of its implications.
+
+The crew immediately sprung into action, preparing for a battle, while Yvette and Halfords teams did the same by moving to a hatch.
+
+Their ship turned to face their attackers, but the moment they did so more, larger explosions transmitted through the ship as they ran into a veritable wall of mines.
+
+Eyes flicked to him from all over the command center and Matt shook his head. “Spatial locks are active. I can’t open a [Portal] large enough for the ship.”
+
+Matt could feel the lock’s current strength and he placed it as a suped-up anti-elite lock rather than one of the specific anti-Allie devices they’d had to fight around during the last war. He wasn’t sure if he was being insulted by the lack of true top level blockers, or if they hadn’t comprehended the implications of his [Portal] usage.
+
+Until he had an answer he intended to assume it was a trap, but even if he was right, their trap would still have to be strong enough to contain his blade.
+
+Aster was already walking to the door as she spoke. “You handle the shields and I’ll get us through the mine field. Once we are through, we can say hello properly.”
+
+“Why couldn’t they have waited to fight in real space? Don’t they know it burns my feathers almost instantly if I don’t concentrate? It's not fair. No one wants to see a half burnt bird. It's undignified.” Liz joined Aster after putting away her perusal of possible elites with a question to the Realm rather than any of them.
+
+The minefield was well placed and so stupidly dense that the explosions were constant; it nearly sounded like they were inside a bag of popcorn being cooked. That made more sense when they identified the type of hunter-seeker mines the Collective was using.
+
+They were fantastic for targeted attacks without overly risking the uninvolved like indiscriminate mines would have caused. Mines in chaotic space were already hard to identify and harder to keep protected before they were broken down by the everpresent corrosive energy that was chaotic space.
+
+The treaties were worded in a way that limited how long the mines last via two metrics while leaving other innovations possible. They were only allowed to last a week through purely physical means and an additional three with magical shielding. That both ensured that mines remained disposable by preventing an arms race for the longest lived disposable items, and ensured shipping lanes wouldn’t be disrupted for long, even during a war.
+
+The explosions continued until Aster cast her new merged skill, a combination of [Cross Wind] and [Dispelling Wind] she’d named [Dispersing Squalls]. Though he knew she was mainly relying on the [Cross Wind] portion of the skill for the moment. Even before the merge, the upgraded spell had reached the point where it could deflect more than typical physical projectiles thanks to the first upgrade orb, which expanded its coverage to magical effects. Its second upgrade had included more esoteric things, such as passive effects and obscuring them from enemy targeting, which was exactly what they needed.
+
+Chaotic space mines weren’t casually used in wars, but like talismans, they allowed massive amounts of damage to be imparted without expending the combatant's mana pools, which gave them a place. In an ideal world, this move would have forced them to drain their own reserves, which was exactly why seeing the tactic took a small weight off Matt’s shoulders.
+
+So long as they kept running into plans that proved his enemies didn’t comprehend his Talent, he had confidence that his secret was safe.
+
+When they cleared the densest part of the minefield and their ship could use its active sensors, they identified three previously hidden ships. Not through their own efforts, but rather because their own engines and shields came online as they prepared for active battle.
+
+Standing from his chair, Matt stalked off the bridge and to one of the nearest hatches, where he slipped outside.
+
+Inside the shield's protection he was safe from the corrosive swirls that was chaotic space, but he wasn’t there for sightseeing. He raised his longsword like an oversized wand and aimed. Because that’s exactly what it was.
+
+At least, temporarily.
+
+Half a million mana a second could turn [Mana Beam] into a deadly arm thick bar of death and discontent, but other Tier 35’s could manage something similar with either the same spell or a different one. Fewer could cast with a full million mana second, even if they had a large enough mana pool to sustain such a cost for more than a moment or two.
+
+The groups who could cast such a taxing spell at a quarter of a billion mana a second could be counted on one hand, and Matt was confident that none of the others could double the number yet again.
+
+He did exactly that.
+
+Half a billion mana into [Mana Beam] turned the bar of mana into a train, with more than enough energy to burn through most defences in only a few moments. And against most cultivators and monsters, a train of damage was more than enough size for what they needed. After all, the concentration damage was the most important factor of the spell, with its size being a byproduct of greater throughput rather than the intended goal of [Mana Beam].
+
+And that was fine most of the time, but not today.
+
+[Diffusion Shield] was a defensive spell that weakened attacks by forcefully widening beam attacks into ever expanding cones, wanting to spread that damage out as much as possible.
+
+Matt quickly and forcefully carved new mana channels into his sword as he cast both spells, using his weapon as a casting implement.
+
+His longsword’s lattice structure left the liquid mana gem visible, which he hoped they took note of. It let anyone watching see the deceptively slow build up of mana.
+
+When the mana reached the halfway point, he fired the [Mana Beam] with [Diffusion Shield], widening the scope of his attack to from a dozen feet to miles.
+
+It wasn’t strong enough to kill anything except the weakest of Tier 35 soldiers, but it was more than enough to clear the battlefield of any remaining traps. Mines exploded either from direct damage or the chaotic space energy that found a way in, and the miasma was finally able to do what it did best and tear the material asunder. The mines weren’t the only thing they discovered, as a fourth, yet to be detected, ship had to raise its shields as it was caught in the edge of the attack.
+
+One glance later, he decided not to target the ship. It wasn’t a concern. Not only did it have all of the hallmarks of a spy vessel, small, stealthy, and packed with sensors, it fled the moment it was discovered, aiming for the nearest Tier 35 battlefield.
+
+Its presence also confirmed this was far from a random encounter, if the mines hadn’t done so already.
+
+Matt was confident that if he used that same trick a few more times farther out, he might find one or two more spy ships, but he didn’t bother. His job wasn’t to stop spies from gathering information, it was to make their information useless by being so strong they had no recourse in place.
+
+Or, that was the idea.
+
+Traxix must have had the same thought, because the clearly pinnacle elite exited one of the three ships with a swish of his tail. The chimera was in his fish form, which let him dart through chaotic space as if it was normal water, but he stopped midway between the cluster of ships, declaring that their battlefield.
+
+That could have been a trap in and of itself, but Matt personally doubted it.
+
+Traxix was strong, and from the brief demonstration, in excellent control of said power, but he was far from subtle.
+
+Redfur, on the other hand, was exactly that. The kitsune stepped into chaotic space before splitting into half a dozen copies of himself, each one keeping a single tail from the original body.
+
+His typical team of lesser elites followed him out, but the kitsune himself was the biggest threat from that ship.
+
+From the third vessel didn’t come Hali, as Matt had expected, but Angela Fortune and her team that qualified them as pinnacle elites.
+
+Three pinnacle elites was quite the investment to take them on given how each Great Power usually had around twenty at the breakpoints. Under normal circumstances, it would be more than enough to force them to retreat without their Aspects. Normally. This was the reason they weren’t alone.
+
+Yvette and Halford’s teams came out the same hatch Aster and Liz had while everyone squared off. They’d prepared for this, or some variation of it, but that didn't mean it would be an easy fight.
+
+Matt half expected some sort of color commentary from the way all three teams were idling, but any such notions were put to an immediate end as an ink black and nearly undetectable arrow punched through Aster and slammed into their ship’s shielding in a spray of blue sparks.
+
+A new copy of Aster reappeared a few steps away in a swirl of ice without any apparent injury, but the fight was on.
+
+Matt and Liz accelerated in a burst, each aiming for the same opponent, Traxix.
+
+At least that was the clear plan.
+
+Yvette and Halford moved to intercept the remaining two teams, but that didn’t mean the three of them could enjoy a leisurely one on three fight. Far from it.
+
+Traxix wasn’t an ideal fight for them, as he was a fast moving hit and run fighter. In theory that was a counter against Matt’s new heavy fighting style and Aster, with Liz being the only one he’d struggle against. At least until she was alone, where he’d be able to wear her down bit by bit.
+
+The minute they were distracted, troops poured out of all three ships and set up portable defensive platforms that protected them from chaotic space. That, in turn, let them attack without having to worry about defence from the ambient danger.
+
+Matt idly highlighted the anti-Liz defences he saw which aimed to prevent her from using the weaker troops as sources of blood. But they were just far enough away that it would be a difficult tactic to employ, giving the troops a solid lead time to either run or attack her.
+
+All in all, it was a good ambush.
+
+Traxix darted forward directly at Matt, and he prepared to take the charge head on. However, as he got within darting range, the fish’s attention shifted to Liz instead.
+
+The moment the chimera reached melee distance, his form warped as the small and speedy fish grew into a fully armored hippopotamus. At the same time his Aspect flared and he tried to pen them in and keep them contained.
+
+They threw their Domains at his general working which was enough to keep them mobile but it was costly. Matt suffered comparatively less with his Meld but it still strained him to keep moving under the pressure.
+
+He tried to activate the swapping function on his and Liz’s ring, but the battlefield was still being locked down by what he assumed was one of the ships. It had been a longshot at best, as it wasn’t strengthened to work under such conditions, but he already knew how he’d handle it when he identified which ship was doing so.
+
+Liz raised her shield, taking the blow on the growth item with a silent but still resounding boom. Her shield stored a portion of the kinetic energy for later use, but she was still sent flying backwards from the impact.
+
+Matt used the opportunity the attack created to bring his sword around, aiming for the larger creature's flank, but Traxix blurred forward, chasing Liz with a burst of speed that should have only ever been possible in his fish form.
+
+His second strike was clearly aimed for Liz’s head, but she transformed into liquid and split into two. One body welcomed the attack darting from his mouth, while the other skirted around and drove her spear into his shoulder. The newly advanced pinnacle elite, for it was clear he’d taken that step and was confident in his power well before this battlefield, bit down on the mass of ichor without fear as a stupendous crushing force obliterated anything and everything in his mouth.
+
+Liz’s second strike on the armored flank was backed by [Heart-Piercing Stab], which punched through his side and deep into the rotund chest.
+
+Traxix roared in pain but didn’t stop his charge as he finally reached his real target, Aster.
+
+As he got close, the Tier 35 shot forward, blurring with an incredible speed, only to run into a wall of wind and snow as she activated [Dispersing Squalls] once again and started to unfold her spirit space.
+
+His maw of a mouth still managed to close around her head and snapped down in a mirror of what he’d done to Liz. The difference was Aster wasn’t able to split herself the same way to dodge the attack.
+
+Her head vanished, and unlike with the earlier bolt, her body spasmed before exploding into a wave of ice that tried to trap and encase Traxix. It worked, but not for long as the hippo shattered the binding ice with his continued charge through.
+
+Aster reformed another illusionary clone a few feet away, just as Matt and Liz arrived in front of him.
+
+Traxix took another spear thrust from Liz, accepting the hole her spear caused rather than try to block Matt’s longsword.
+
+The moment he got free of the ice, he transformed into his fish form and tried to dart away, but Liz managed to hit him with [Congeal]. The blood that caked his flank from the earlier attacks hardened and prevented the fish from accelerating at his normal pace, which gave Matt just enough time to bring his sword back up from his earlier attack.
+
+Traxix attempted to twist out of the way, but his back half exploded in a spray of white flesh and ultra thin bones. His body twisted as the man finally transformed into his humanoid form.
+
+The damage was still there, but his style shifted seamlessly and he dodged both the spear strike and the follow up sword slash. That bought him just enough time to heal his legs, and Matt could read the desire to transform and reengage on better terms in the man’s expression.
+
+Neither were happy with the current battle, which meant they were about even.
+
+[Gravitic Bolt] tried to put an end to that plan, but before Matt was able to follow it up, he had to change course as the first wave of attacks from the general troops arrived.
+
+A well placed [Bulwark] blocked the first wave, but each of the following ones came from a different angle. They also came with a carefully curated variety of styles, mana types, and physicality that made it hard to defend against everything with a single spell.
+
+Solidifying and recasting the spell to create a large hyper dense dome of interlocked [Bulwark]s, Matt temporarily cut off the rain of attacks.
+
+That still left them vulnerable to one type of attack. The curses that had been hidden among the flasher spells slipped through almost unhindered. They landed on them, which forced Aster to dispel the ones that hit her, even as Matt forcefully purged any that landed on him. As he did, he tried to grab Traxix’s attention while the other two were busy.
+
+Where Aster needed to protect herself from the curses before they did serious damage, Liz, on the other hand, went still as she pulled the curse deeper into herself.
+
+Traxix saw that and moved to stop her, but her wings formed a cage of golden ichor that crystallized as she used one of her oldest spells, [Blood Crystal Armor], to hold him back.
+
+The man transformed mid-move back into his hippo form and recklessly bit at her wings, trusting in his innate protections and Aspect to keep her from using his mouth as a weakness.
+
+His bite didn’t immediately penetrate the barrier, but the cracks told Matt her defenses wouldn’t last very long. He also knew she’d need a few more uninterrupted moments to trace the curses' connections to their casters and keep them occupied with a few curses and plagues in return.
+
+Liz had felt compelled to push her expertise with the darker side of blood magic after her evolution from normal blood to ichor, where she lost access to a number of spells. She hadn’t regained all of them, or even most, but she had gotten a few to work that had become nasty when cast with her particular blend of Talents and abilities.
+
+So long as she had enough time.
+
+Matt’s arrival immediately forced Traxix’s attention off Liz and onto himself.
+
+They’d already seen his other form couldn’t handle Matt’s sword, and the Collective elite didn’t seem eager to test his hippo form’s durability.
+
+Once more Traxix ducked, sliding along with unfathomably agile movements. As he circled under Matt, his jaws snapped around his left leg in a sudden, fierce spell reinforced [Chomp].
+
+Matt’s outermost layer of armor, one of his army provided temporary sets, crumpled under the spell and its Domain reinforcement. The rest of his leg didn’t fare much better.
+
+His skin was obliterated, revealing the blue of his augment. Fine cracks were visible but already healing. The worst of the damage had been his foot, which had been crushed, as the thinner bones failed to handle being that deep inside what amounted to a giant pair of angry scissors.
+
+And that was it.
+
+By the time the hippo had moved further, hoping to sneak another bite at Liz, he’d realized he would need to use his very best to even inconvenience Matt, but it was already too late.
+
+Matt was next to Liz and Traxix knew stopping her was a lost cause.
+
+Instead, he went after Aster, but Matt left him to it.
+
+That Aster wasn’t any more real than any of the others the Collective had attacked. In fact it was one of her ice golems in disguise. Her [Ice Manipulation] skill pretending to be her in fact which was a trap in and of itself. He knew she’d be fine for a few more seconds.
+
+Not that Matt wouldn’t help her. He cast [Hail] off to the side to give her some more ice to work with. It wouldn’t last long in chaotic space, but even just its casting helped distract Traxix, who now had to wonder if that’s where the real Aster was hiding.
+
+Traxix abandoned chasing Aster, instead turning back to Matt as Liz gave the curse mages a taste of their own medicine.
+
+His spiritual perception watched the show even as he went on the offensive, chasing down the hippo as Liz started moving. [Thalassemia] hit first and stopped the mage’s blood from carrying oxygen. Even in space, most immortals didn’t override such functions. And for the underprepared, let alone the unprepared, the sudden loss meant they needed to divert attention to managing it.
+
+Which was exactly when [False Wound] made it look like they were bleeding or injured in some way. Many resisted the urge to believe not only what their eyes, but bodies were telling them, but some failed.
+
+One or two dug at their own skin to try and get her out of their blood, but that only let her start casting normal spells. Like [Blood Sprites]. Swarms of red sparrows silently screamed as they attacked anyone around them.
+
+Which was when [Blood Debt] sealed even more fates.
+
+Left with a source of enemy attacks in their midst, the enemy elites did what they were trained to. They turned on their comrades and killed them before they could do more damage.
+
+That act was as logical as it was callous. Better yet, it caused an astronomical amount of hate and anger on both sides. Then, as the unwitting beacons were killed, [Blood Debt] transformed all of those feelings into phantasms that lashed out.
+
+Those were far more troublesome than the earlier sprites. A curse themselves, the summons were nearly immune to any purely physical attack and were resistant to energy based ones. Purely magical effects had the best effect, but as they flowed through Collective elites, their claws attacked their spirits directly, making landing those spells nearly impossible.
+
+To their credit, they held their ground and sacrificed their closest comrades, which saved far more people than if the phantasms had been allowed to run amuck.
+
+Still, it worked as their distraction bought the three of them time. Time they needed, as another Aster illusion was destroyed and she’d been forced to reveal her actual body.
+
+Worse yet, Traxix seemed to know it.
+
+With Liz in the fight, they pressed the attack. But anytime they did so, Traxix transformed into his fish form and landed impossibly fast wounds on Liz, and when he could manage it, Aster.
+
+Matt did his best to block what spells he could, but even he struggled to see [Fin Flick]’s projectile, let alone intercept it.
+
+As Traxix came in at an oblique angle away from Matt, he cast [Cracked Air Slide], shooting himself forward and only able to control the movement thanks to his courtly warfare boon.
+
+It allowed him to intercept the bite meant for Aster with his chest.
+
+Instead of slowing down, Traxix sped up, as if hoping to punch through Matt’s chest.
+
+It hurt. He could say that without hesitation.
+
+However, the move hadn’t worked.
+
+Matt had to grip reality itself with his Domain to stop himself from being flung across the battlefield, but he wasn’t run through, to Traxix’s evident shock. The fish tried to turn away, but his head was embedded a few inches into Matt’s chest where [Cracked Phantom Armor] and his augment reinforced sternum came together to make an incredibly strong protective shield.
+
+It was one of the most defended places in his body, just in case he was attacked when he had a skill manifested.
+
+Matt had to admit that the [Mana Beam] Traxix cast through the mouth as a digging implement was inspired, and he added it for future contemplation. It just hadn’t worked against him.
+
+His left hand tried to grab the fish’s tail, but as he darted away, Traxix tried to impart some extra damage with [Fin Flick]. Against Matt’s right hand the move might have managed to take off a finger or two, but it only caused white lines to appear on his left as he grabbed a fin.
+
+It wasn’t a good grip. Not enough to stop Traxix from fleeing, but it ensured he did so at a cost.
+
+The fish darted around and down through the winds of chaotic space and the snow spells Aster cast, but none of them seemed to have any effect on its speed. They did hinder the fish in other ways, with his reaction time slowing slightly, but his movement remained undiminished.
+
+As he darted in and transformed at Liz, the hippo twisted while following some invisible current that let him circle around her spear thrust and bite down on her spear arm.
+
+Unlike Matt, Liz's arm, armor and all, exploded in a way that he knew meant she’d taken actual damage from the man's Aspect.
+
+She’d heal with blood and time, but she didn’t require that. Liz used some of her stored ichor to simply regrow the arm and armor. Her spear shaft, on the other hand, presented more of a problem as it was shortened by half.
+
+Instead of letting Liz take the hit for nothing, both Matt and Aster tried to capitalize on the time he was slowed by making the attack.
+
+Aster hit him with an illusion that obscured his senses. It wasn't subtle in the slightest, but it was effective. At least well enough to let Matt get in close.
+
+It just hadn’t worked well enough to stop the elite from correctly predicting the angle of Matt’s attack and landing a heavy [Stomp] on his chest.
+
+The hippo sacrificed a limb and most of his chest to do so, and Matt felt his chest nearly cave in as the spell empowered blow landed. However, instead of trying to redirect his blade back around at Traxix, he swapped the weapon's forms to one he’d prepared beforehand and let it go. In that same movement, he also cast [Sword Twin], using the hidden apparition of his blade to subtly shift its trajectory as it soared into the darkness of space, right at his collapsing barrier of [Bullwark]s just in time to slip through under the latest wave of spells.
+
+With his hands now free, Matt flared his Intent, locking Traxix in place as he landed a hit on the now human man's upraised forearm. Bones snapped and flesh tore, but Traxix managed to use his last limb to protect his head.
+
+Liz followed up the strike only a heartbeat later, her now shorter spear cutting a thick line on his face, but Traxix used the move to forcefully halt Matt’s forward momentum.
+
+Aster’s spirit space finally made its appearance, as now that she’d been given a moment of reprieve, she started forcefully overlapping it with reality. It was slow as she pushed through all of the spatial locks, but inch by inch, ice and winter started to replace the swirls of chaotic space.
+
+Traxix tried to dodge, tried to leave, but it was already too late, and he must have realized that as he transformed back into his hippo form.
+
+Towers started to appear out of the snow and wind already fully charged and unleashing their attacks not worrying about Matt.
+
+The large mouth blurred with amber light as it clamped down on Matt’s right arm with enough power to crack a battleship’s armor.
+
+The second outermost layer of [Cracked Phantom Armor] shattered almost immediately, but the layer woven through his augment proved a much more challenging hurdle to overcome. The damage started to accumulate, but it wasn’t the disarming move Traxix had clearly expected.
+
+Matt drove his unoccupied left hand forward, using the additional leverage provided to him by his opponent to drive a heavy blow into the man's skull, backed by both spiked knuckles grown from [Cracked Phantom Armor] and further strengthened by [Fist Blast].
+
+A spell of sepia and silver Matt didn’t recognize halted all of his blow’s momentum, both the physical and magical, but he suspected it was like [Phantom Armor] and had spent its lifesaving charge. Wanting to test that, he reared back and slammed his fist forward again.
+
+Traxix let go, seeing that no matter how hard he bit and chewed, he wasn’t getting through Matt’s augment before Matt or Liz’s follow up attacks landed.
+
+The moment his mouth was free, Traxix swapped to his fish form in a smooth, fluid motion that only cost him another fin and some scales as Liz’s golden [Blood Sickle] nearly severed his head from his body.
+
+After that engagement, all of them were forced to relocate as the bombardment from outside finished clearing enough of his [Bulwark] barrier that they could interfere with coordinated attacks once again.
+
+Matt ignored them as he spun to track the fish, even as it tried to weave between ever growing gusts of wind, ice, and spell projectiles. However, despite his appearance, most of his attention was following his sword.
+
+A moment later, the battlefield paused as his blade finally reached its destination.
+
+Thrown with all of his might and accelerated with [Sword Twin], the weapon had been moving at incredible speeds. If it weighed less, it would have still been a problem, but there might have been some question in the outcome. When his sword met the ship, the ship lost immediately and without opportunity for a second chance.
+
+His lattice longsword punched through the ship’s shielding, its armor, and the entire width of the vessel before hitting something volatile enough that it caused the explosion that captured everyone's attention.
+
+Aster’s spirit space didn’t rapidly expand, so Matt targeted the next.
+
+Using his connection to his blade, the moment it got far enough away from the spatial lock, he activated the formations he’d carved on it under Allie’s guidance. They were simple, insofar as such things went, as they were only there to give him an anchor point to focus on during a hectic battle.
+
+It still tore at his spirit to rip open even a sword sized [Portal] right in front of his blade with the spatial locks, but he managed it, just as he had in practice.
+
+The exit aperture was farther away than he’d have preferred, but it didn’t matter given how fast his longsword was still moving. It had lost a small portion of its momentum passing through the first ship, but there was still more than enough to pass clean through the second a moment later.
+
+That ship didn’t explode, but the crew did evacuate en masse, understanding a follow up strike was likely. Not that one ever came.
+
+Matt’s blade came out of a portal only a foot behind him, already moving at a perfect angle to fall into his waiting hands.
+
+At the same time, Aster’s spirit space started to rapidly expand even as the first two ships’ crews retreated to the third. He could have targeted them as well, but without protection, even Tier 35s would find it hard to traverse large distances of chaotic space before running out of mana to protect themselves.
+
+Traxix landed a glancing blow that managed to break a few ribs with one of his massive legs, but he paid for the distraction as Liz landed a [Bloody Spirit] and [Heartpiercer] empowered [Heart-Piercing Stab]. A second copy immediately followed, thanks to [Pulmonary Echo], and for the first time, Traxix slowed down after taking a hit.
+
+Matt knew it wasn’t only from the two attacks, but the bevy of curses Liz had slipped into his body with those attacks.
+
+[Analgesic], [Fever], [Embolism], [Hematohidrosis], [Thalassemia], and to top it off, Matt saw the telltale spores that [Scarlet Plague] left behind as its infections set in and tore at the hippo’s admittedly resilient body.
+
+Then, to close it out, the illusionary spear [Pulmonary Echo] created hardened into a more solidified form as [Ischemic Harpoon] summoned a mixed chain of golden ichor and red blood between herself and Traxix.
+
+One Liz split into three as she pulled with all of her might, stopping the rampaging pinnacle elite in his tracks.
+
+It only lasted a second, but that was the second Matt needed as he brought his blade down directly on Traxix’s head.
+
+That most vital organ vanished, but the lack of an essence burst told Matt the other man had moved his brain somewhere else. However, before he could start attacking secondary locations such as the chest or pelvis, the pinnacle elite took the opening to attack.
+
+Traxix’s next [Mana Beam] caught two of the Lizzes, destroying one while severely wounding the other, but his hooves’ main target was Aster, who disappeared behind a wall of snow deeper into her ever-expanding spirit space.
+
+Sensing his attack fail, Traxix activated a lifesaving measure.
+
+The burst of wind that carried the man away told Matt exactly how he’d escaped, but he still cursed himself for making the aura escape talismans. One day, he’d find a way to block those stupid things, and he didn’t care if people hated him for it. The damn things were a menace to ending a fight permanently.
+
+However, instead of following the injured elite into the distinctly empty region of chaotic space, the three of them turned their attention to the rest of the battlefield and their teammates.
+
+Liz and Aster were both wounded and Matt was a little low on willpower, along with the spiritual damage he’d done to himself, but their contributions would still be enough to turn the other fights, which meant they had no time for revenge or rest.
+
+Their pinnacle teams had done their job and allowed the fight to remain a one versus one, but their enemies weren’t stupid and had made them pay for that. All of their people were wounded and two were missing, but without corpses, which Matt hoped meant they’d escaped with a lifesaving measure instead of indicating their deaths.
+
+Thankfully, the moment they started moving to assist Yvette and Halford, Redfur, and Angela’s teams disengaged and boarded the final remaining ship, along with the rest of the ambush, choosing to leave rather than fight on.
+
+With one third of their top level combatants down, they knew the attempt had failed and preferred to retreat with their forces as intact as possible.
+
+It was smart. Matt wanted to stop them, but he knew it was a losing battle. They could chase, but he was confident they’d run into a minefield or some other worse trap.
+
+No, the war wasn’t going anywhere and the three of them needed time to sit down and digest their gains before they threw themselves at the armies still infesting Empire space.
+
+They could only take so many of these battles so many times before they ran out of Empire pinnacle elites, or the Collective bit the arrow and dedicated more than three teams to account for their protectors.
+
+As they reboarded their ship he once more lamented the fact Allie had been bought out of the war.

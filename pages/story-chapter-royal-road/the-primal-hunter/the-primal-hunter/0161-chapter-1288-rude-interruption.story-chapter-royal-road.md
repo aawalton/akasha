@@ -1,0 +1,133 @@
+---
+id: 3a2308e0-10cd-5713-b2b5-768a440b1b50
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1288 - Rude Interruption"
+slug: 0161-chapter-1288-rude-interruption
+partOf: the-primal-hunter
+position: 161
+ownLength: 2583
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3243736/chapter-1288-rude-interruption"
+royalRoadId: "3243736"
+---
+
+Jake also immediately recognized what kind of item the Viper had left for him. It was similar to something Jake had seen several times before, though most certainly far more potent than any of those had been. Something a quick Identify confirmed.
+
+[Supreme Token of Akashic Awakening (Mythical)] – Infuse into a piece of equipment to attempt to awaken or amplify the Records within, upgrading the item to a maximum of mythical rarity. If the item is already at mythical rarity, it will try to amplify existing effects through awakened Records. Grants the user some control over the infused Records of an item, enabling minor customization. WARNING: Touching directly upon the Records of an item may make others related to the associated Records aware. Requirements: User must be below lvl 400.
+
+He let out a small whistle and nodded with satisfaction at not having to go get one of these himself somewhere else. What’s more, reading the description, this item was far better than any token he’d used earlier, even allowing him to customize the upgraded item to some extent. Perfect for Jake, who wanted to avoid giving any stats and instead focus on improving other aspects of the item.
+
+As Jake was inspecting the item, his expected second visitor of the day arrived as the elven goddess appeared just behind him and looked curiously over his shoulder at the token.
+
+“Those aren’t easy to come by, not even for a Primordial,” she spoke in an approving voice.
+
+“Yet I’m pretty sure I overpaid for it,” Jake smiled as he turned to look at Artemis. She smiled in return, but Jake still felt a little awkward as he scratched the back of his head. “Should I be apologizing for not exactly being available recently?”
+
+“Hm?” Artemis asked, looking genuinely confused for a moment before she understood. She chuckled a little and shook her head as she looked at him. “You don’t actually think I just sat around waiting, did you? Even if I did, I wouldn’t call a bit over a year long. We’re both busy people, and if any bond we have can fade just because a bit of time passes, perhaps it was just never meant to be.”
+
+“I guess I was just overthinking,” Jake sighed, shaking his head. His last girlfriend got pissed if he took more than a few hours to respond to a message, so he definitely wasn’t used to Artemis shrugging over him taking a year.
+
+“You most certainly were,” Artemis smiled. “Now, with that out of the way... slightly belated congratulations on your evolution to B-grade. I would ask you if it went well, but based on the fact that you got a skill that affected me and what you just traded with the Malefic Viper, I’m going to assume it did.”
+
+“I would indeed say it did,” Jake nodded as he briefly explained what had gone down and even included a loose explanation of Primal Spirit of Man. Just the part that directly affected her, though he did also make it clear that he’d gotten a unique version that was very overpowered.
+
+Artemis, in turn, gladly shared her recent triumphs and woes, as she was effectively the ambassador of the Pantheon of Life. The Order of the Malefic Viper could definitely be a struggle to deal with, and many of the gods who served Villy weren’t necessarily the most social or nicest of people, so it took some extra social grease to get things moving.
+
+Coupled with that, both organizations had heavily wound up for the upcoming Seat of the Exalted Prima system event. No one knew for sure when it would open, but there were some theories. The foremost was that there wasn’t actually a set time; instead, it was a threshold that had to be passed.
+
+Seeing as it was an event designed for B-grades, it made sense that it would only begin after a certain number of people who had qualified to become Administrator Candidates or even full-on Administrators, such as Jake, had evolved.
+
+Which reminded Jake... at the end of the Prima Guardian event, five people from the Milky Way had been promoted to Administrators. Jake, Kindroth, also known as the Voice of the One... and three people who were now dead or no longer in the galaxy. Ell’Hakan and King Iludar, who had worked with the Chosen of Yip of Yore, had both died during their little war, and as for the person called Servant of the Holy Church, Jake wasn’t even sure who they were. Maybe they were dead, maybe it was Jacob, or maybe it was someone he had never even met. Either way, the Holy Church was gone from the galaxy.
+
+Granted, it did mention that other Administrator Candidates could be promoted. Jake knew many people who had qualified to become Administrator Candidates, but weren’t actually Administrators. Unsurprisingly, all of these people were ones close to Jake, and he really didn’t expect any competition when it came to claiming the Seat of the Exalted Prima.
+
+The same couldn’t be said about many other places.
+
+While a lot of galaxies had banded together during the Prima Guardian event, that didn’t mean there were plenty of candidates who could, and likely would, compete for the galaxy’s Seat of the Exalted. Even within the same factions, there was a lot of conflict. Places like the Holy Church were especially dealing with this, but the Pantheon of Life wasn’t free from such internal strife either.
+
+Artemis had a few followers who were Administrator Candidates and even two who had been promoted to Administrators due to their performance during the Prima Guardian event, so she was busy supporting them and discussing with other gods whose followers should be allowed to compete or claim ownership. It really was a mess in so many places.
+
+But for now, the newly evolved B-grade and goddess allowed themselves to take a break from all such thoughts and considerations. Once they were done discussing recent events, they spent some quality time together and enjoyed each other’s company, sometimes still delving into more serious topics, but mostly just nerdy ones, like concepts and whatnot. As always, Jake learned a lot, and Artemis certainly also seemed to enjoy this time together.
+
+He also put off upgrading his boots here and now, primarily because Artemis was there. While he shared a lot of things he wouldn’t talk about with others, things related to the First Sage were still ones he kept to himself. It didn’t help that the man was Forbidden Knowledge incarnate, so Jake wouldn’t even be able to explain much. Besides, he wasn’t in a rush to upgrade them, as it wasn’t as if the token had an expiration date.
+
+On top of that, after working with his Lesser Primeval Energy, Jake definitely needed a good break where he didn’t need to think about complicated stuff, and this was the perfect opportunity to take one. He had many plans for what they could do, as neither had any immediate plans and had cleared their schedules.
+
+Alas, sometimes, circumstances just wouldn’t allow such things, as only three days after Artemis had come by, while the two of them were out to eat in a restaurant, the flow of conversation was suddenly interrupted as a system message unceremoniously arrived.
+
+The time has come.
+
+As the natives of the 93rd Universe grow into their own and realize their Paths, the Exalted Prima has watched, judged, and reached a conclusion. Administrator Candidates have been given a chance to prove themselves worthy of graduating to fully-fledged Administrators, granting them the right to compete for each galaxy’s Seat of the Exalted Prima.
+
+All current Administrator Candidates will gain the right to prove themselves worthy of this honor. Each Administrator Candidate can bring up to four (4) trusted allies to assist them during this promotion event. These allies cannot surpass the level of the Administrator Candidate themselves and may not exceed level 375. These allies cannot be current Administrators or Administrator Candidates from other galaxies.
+
+Administrator Candidate testing will take one-hundred (100) days, after which all qualified Administrators will be invited to the Chief Administrator Selection, wherein the true leader of each galaxy’s Seat of the Exalted Prima shall be decided.
+
+Testing for Administrator Candidates will begin in ten (10) days, with no restriction on where it can be accessed. Administrator Candidate must be in close physical proximity to any potential trusted allies.
+
+Once the Chief Administrator Selection begins, all qualified Administrators are to use their Seals of the Exalted Primas to enter their respective Seat of the Exalted Primas.
+
+Only once all Chief Administrators are selected, the next round shall begin.
+
+Artemis immediately noticed Jake staring into thin air as she frowned.
+
+“What happened, did someone-“
+
+She didn’t even have time to finish her sentence as she, too, fell silent, likely reached out to be her colleagues at the Pantheon of Life. In fact, Jake noticed that the entire high-end restaurant had suddenly grown incredibly still, with everyone stopping to eat. They were all within their own small formations, providing visual and sound isolation, but naturally, Jake could still see everything with his Sphere.
+
+After a few moments, Artemis looked at Jake. “I fear we’ll have to cut things short.”
+
+“I figured,” Jake said with a comforting smile. “I should also head back to Earth and get a status about how people are planning on approaching this event.”
+
+“From my understanding, there are a lot of Administrator Candidates out there amongst the natives of your universe. Many who performed just adequately during the Prima Guardian event got the opportunity to become one, and that’s not mentioning the monsters,” Artemis said with a sigh.
+
+“Monsters?” Jake asked with a frown. Thinking about it, yeah, what opportunities did they get from this event?
+
+“Yes,” Artemis nodded. “I just got word that on planets where the local monster population sided with the Prima Guardian – all of whom are now dead and have turned their Planetary Pylons into regular Planetary Cores – a few Administrators have also appeared, alongside a vast number of Administrator Candidates.”
+
+Okay, so evidently, monsters also had the opportunity to become Chief Administrators, which definitely meant competition would be even higher, and that Chief Administrator Selection for the Milky Way wouldn’t be as straightforward as he’d first assumed. To be clear, Jake still saw it as a foregone conclusion that he would become the Chief Administrator, assuming he could pass whatever test the Seat of the Exalted Prima had no doubt prepared.
+
+“Things are about to get busy again,” Jake muttered. “Especially after these Chief Administrators are all selected.”
+
+“Most definitely,” Artemis nodded in agreement. While the internal competition within each galaxy could be high, it couldn’t possibly be compared to what would likely end up being a universe-wide event.
+
+From all Jake had put together, these Seats of the Exalted Primas were just parts of a greater whole. Part of the true World Wonder, of which there was only one. In other words, at the end of it all, there would likely only be one true “owner” of the World Wonder, selected from all qualified candidates in the universe.
+
+No... no, more than that. Based on the fact that Administrator Candidates could bring four allies, and that there was no restriction on where one could enter, didn’t that mean that these candidates could bring reinforcements from all universes? And assuming they could, the true Administrators would likely have the same ability.
+
+Jake shared this thought, and Artemis once more immediately agreed. “That’s also my conclusion, and has been what most factions assumed based on prior system events. While there are many exclusive events for natives after integration, and it is very normal for these natives to have certain advantages, the system usually provides a pathway for everyone in the same generation as those newly integrated to also gain significant benefits.”
+
+“I take it the Pantheon of Life already has a fair number of galaxies locked down?” Jake asked, knowing they had a lot of strong elites.
+
+“Of course,” Artemis smiled. “The Order of the Malefic Viper is lagging behind significantly in that regard, but I wouldn’t be surprised if they still end up with a lot through alliances and sending their elites with otherwise independent forces.”
+
+“That does sound like something that could happen,” Jake nodded.
+
+All around them in the restaurant, figures kept disappearing, teleporting away, as this upcoming event was one that would affect the entire multiverse. Artemis also looked like she received constant updates, and soon enough, it was also her turn to get to work.
+
+“I have a meeting with the Verdant Sisters in just a little while,” she said apologetically. “If you want, you could come along?”
+
+“No thanks,” Jake shook his head. “I’ll make my preparations on Earth.”
+
+Artemis nodded. “In that case, good luck. Oh, and one final note... if you end up encountering members of the Pantheon of Life during this system event, try to assume they are not enemies. However, if they do turn out to be hostile, do what you must.”
+
+“Alright,” Jake nodded solemnly. He hoped that the members of the Pantheon of Life wouldn’t be so stupid as to come after him, but if they did, well, that would be incredibly unwise.
+
+“Don’t look so glum. It’s a competition. People die during competitions. It’s just part of nature,” Artemis said in a comforting voice as she slowly stood up. “Anyone who has the willingness to kill another must do so with the knowledge that it can end in their own doom. Though I will say that I personally hope that you can avoid such a fate, no matter how many you choose to slay.”
+
+“Are you saying you’re worried about me?” Jake asked with a cheeky smile as he’d also stood up.
+
+“Not particularly,” Artemis chuckled before turning a bit more serious. “Though I will tell you to take care of yourself. While you are definitely powerful, there are many monsters and enlightened out there with methods you’re not used to. That will only become more and more true the stronger you get. It’s always a risk that you meet someone with an eccentric ability or fighting style that takes you by surprise, resulting in a dangerous situation.”
+
+“I’m always careful,” Jake said in a comforting tone.
+
+Artemis just looked at Jake skeptically before shaking her head. “Sure you are.”
+
+She didn’t give Jake much time to say anything more before she walked over and leaned in, planting a kiss on him before pulling back. “For good luck, in case you need it.”
+
+“I’m also always lucky,” Jake said as he pulled her in for a second kiss. “There, good luck to you, too. You’ll definitely need it far more than I, having to enter the den of bureaucracy.”
+
+“I’m getting incredibly tempted to drag you along now,” Artemis said in a joking tone before taking a step back. “See you again soon, hopefully without such a rude interruption next time.”
+
+With those words, she teleported away, and not long after, Jake returned to his own residence, where he stocked up on a few items before heading back to Earth. Things had been calm for a while, but with the system’s announcement, things were about to get moving again, and Jake was more than looking forward to what the system and the many multiversal factions had to throw at him.

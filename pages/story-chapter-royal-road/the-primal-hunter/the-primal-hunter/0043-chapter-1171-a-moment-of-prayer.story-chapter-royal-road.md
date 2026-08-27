@@ -1,0 +1,185 @@
+---
+id: 8e6f7e35-dcef-5862-b354-e27153a78578
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1171 - A Moment Of Prayer"
+slug: 0043-chapter-1171-a-moment-of-prayer
+partOf: the-primal-hunter
+position: 43
+ownLength: 2836
+unit: words
+ownProgress: 2836
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2646026/chapter-1171-a-moment-of-prayer"
+royalRoadId: "2646026"
+markedReadAt: "2026-06-29T19:30:37.341Z"
+---
+
+“They finally had it in stock?” Keerla asked with excitement as Solana walked into the living room holding a large bottle in her hand.
+
+“Just got in a new shipment last night,” Solana said with a smile as she put the bottle of oil-like substance down on the table.
+
+Keerla rushed over and opened it up to inspect its contents. The smell alone gave her high hope, and a quick Identify confirmed it was indeed some good stuff. “Yes! There should be enough here to make at least twenty strings.”
+
+“So two bows,” Solana teased her partner.
+
+“Hey, I’ve gotten more consistent!” Keerla mumbled. “Besides, the last batch of wood was shit compared to what I’m working with now.”
+
+“I’m just saying, better at least make one bow or we’ll have to return to a Hunting Ground to get more Credits,” Solana said.
+
+“We’re already running low again!?” Keerla exclaimed. “We’ve barely just gotten back from our last hunting trip. How can we already be low on funds?”
+
+Solana just looked at Keerla with a raised eyebrow, her eyes not meeting her partner’s but instead directed at the necklace around her neck.
+
+Keerla noticed and looked down at the latest major purchase of their household.
+
+“Oh, yeah.”
+
+“Yeah,” Solana chuckled, shaking her head. “On the positive side, the vice-head druid at work is recruiting for a new project, and I think I have a solid chance at qualifying.”
+
+“If you aren’t qualified, who is?” Keerla said proudly. “Especially after our recent hunting trip.”
+
+Solana just smiled, though she did look a little concerned. Keerla, on the other hand, wasn’t worried, even if she maybe should be.
+
+Their latest trip to a Hunting Ground had been their most adventurous yet. Finding themselves fighting enemies they weren’t confident in beating wasn’t anything new, and getting assistance from other hunters while in a pinch also wasn’t that odd.
+
+However, for it to turn out that the one who’d come to your assistance was the Chosen of a Primordial, now that was certainly something they hadn’t experienced before. It was the kind of event that both Keerla and Solana wouldn’t have been able to answer whether it was good or bad before it happened, as such a hypothetical was just too silly to even consider.
+
+Even now, they couldn’t entirely agree if that encounter had been positive or negative.
+
+Keerla thought it was positive. After that encounter, the two of them had noticed a growth spurt, resulting in both of them getting more levels, Records, and even a skill upgrade for each of them. Even such a small meeting with the Chosen had a significant impact on their lives.
+
+Perhaps too big of an impact, which was why Solana was worried.
+
+The Chosen of the Malefic Viper was likely the most talked about mortal Chosen at the current time due to everything he’d been up to. His simply being the Chosen of the Malefic Viper and seemingly involved with the return of the Primordial was already enough to make people curious about him, but his subsequent actions had only heightened interest.
+
+He was no longer just famous for his connection to the Viper, but known as the top of the all-time Leaderboards of Nevermore and the Harbinger of Primeval Origins, meaning that even without his Patron, even gods would bother to take notice.
+
+It was a given that an encounter with someone like that would have an impact on their Records, and a positive one in most cases, as they had met as allies. However, their meeting hadn’t just been the two of them briefly encountering the Chosen before splitting up.
+
+Because before they parted, a promise had been made, which had sown a seed of karma. One that Solana was afraid would haunt them or bring about something bad.
+
+They owed the Chosen of the Malefic Viper a favor, something both of them had recognized. Usually, making a promise like that to another C-grade was just something one casually did, but things changed when it involved someone of the Chosen’s caliber.
+
+“Look, I know you’re worried, but you really don’t have to be,” Keerla said with a smile.
+
+“Such a karmic debt isn’t good for us,” Solana insisted. “We owe a debt, and in order to repay it, we need to give something of value. What do we own that the Chosen of the Malefic Viper would value? What could we possibly provide that can in any way compare to him helping us out of a situation that could have resulted in our deaths?”
+
+“Nothing,” Keerla said, shaking her head. “Besides, we only promised dinner.”
+
+“A vague promise made to the Chosen of a Primordial known for consuming powerful treasures, and a member of the Order of the Malefic Viper, where offering rare and exotic poisons to dinner guests is only considered polite,” Solana sighed. “What if his version of a ‘mean dinner’ is some mythical rarity poison we couldn’t afford even if we sold ourselves into slavery?”
+
+“You’re such a doomer sometimes,“ Keerla said, trying to calm the dryad down. “From our little encounter, he seemed like a decent guy, right? I don’t think he would want to take advantage of us just because we foolishly made a promise without knowing who he really was. Heck, he probably just finds it amusing.”
+
+“Or, alternatively, he was just playing around by hiding his true identity and will find it equally as fun to mess with two stupid members of the Pantheon of Life who made a misguided promise,” Solana sighed.
+
+“Look, do we even need to rehash this same conversation again?” Keerla sighed. “We haven’t heard anything yet from the Chosen, have we? Isn’t it more likely than any of our other speculation that he never took the promise serious in the first place? If he forgets or doesn’t care about us repaying the favor, nothing happens. I’m sure that sometime in the future we will look back at this time and laugh at how nervous you were.”
+
+Solana looked a bit calmer as she let out a deep breath. “You know I worry, but you’re probably right.”
+
+“Duh, of course I’m right! I tend to be, don’t I?” Keerla said as she went over and put her hands around her partner. “Now, speaking of promises, I do believe someone deserves a reward for finally helping find that damn oil.”
+
+“It was really hard to get,” Solana smiled in response, but before anything more could happen... Keerla felt something from within her spatial storage that made her stop.
+
+“Just a second... someone is reaching out to me through my communication token,” Keerla said, pulling away, a bit perplexed about who could be contacting her using the token.
+
+Taking out the token, she froze up entirely and just stood there.
+
+Solana looked at her with concern for a moment before realization dawned on her. “Is... is it...?”
+
+Keerla looked at her partner as an awkward smile marred her face. “I guess he didn’t forget?”
+
+Solana just held her face in her hands. “Please tell me he isn’t-“
+
+Keerla just continued to stand there before lowering her hands, cold sweat running down her back. “I... eh... we’re having guests next week?”
+
+“Guests? As in multiple?” Solana’s eyes opened wide.
+
+“Yeah... he said he’s bringing a date...”
+
+The two of them just looked at each other for several seconds before Keerla tried to smile and lighten the mood. “Hey... think about it this way. If we get out of this in one piece, we will have the greatest story ever to tell friends and family and a whole bunch of Records to boot!”
+
+“We need to report this to our Patrons,” Solana said in a severe tone. “Sooner rather than later.”
+
+Keerla’s eyes opened wide at having not even considered that option. “Of course! I’m sure they’ll want to know, considering the Chosen’s position, and maybe they’ll even provide some advice to make things go smoothly!”
+
+“Exactly,” Solana said as she practically dragged Keerla out of the house toward the local altar garden to pray at the statues. Solana had little hope of her Patron, Yggdrasil, actually providing any advice, while Keerla thought there was a decent chance her Patron would at least answer.
+
+As for whether Artemis would provide any advice, that was yet to be seen, as both of them honestly believed it was far more likely that neither god would bother to get involved in mortal affairs, making this more about reporting to their Patrons than seeking any actual help.
+
+--
+
+“A date has been set!” Jake said with a happy smile as he spoke out loud to the empty room, where the only one listening in was that creep, Villy. “I guess we got lucky and caught the two of them at a good time, considering they had time to accommodate us as soon as next week!”
+
+Jake was looking forward to his first official date and was pleasantly surprised that Keerla answered so quickly. He was even more surprised at how quickly she agreed to host him and Artemis. Granted, the high elf hunter had been a little stiff in her speech, but Jake understood that people sometimes could get a little nervous around him due to his status.
+
+He was also fully aware that the two of them were probably panicking a bit at Jake suddenly reaching out and them now having to prepare, but most of his guilt over that was washed away by the knowledge that this would ultimately turn out to be a good thing for the two of them.
+
+Despite the rumors that circulated around him, Jake knew how to be a proper guest and was genuinely thankful that the two would host him. He was also looking forward to learning more about how the people in the Pantheon of Life lived and to seeing some more modest areas of the territory.
+
+After quickly checking that Jake had some proper casual clothes to wear for the following week, he went down to the cellar cavern area to calm poor Jasper. Sadly for him, the Warpsnatcher had taken the opportunity to slip away after Artemis also left by quickly jumping to the gateway and using it to go plunder some more loot for his piles.
+
+Instead, Jake just went down there to check on the ritual circle and improve upon it a little here and there. After that, he experimented some more with his new Invocation skill before it was time to meditate and go over the knowledge he’d gained from the First Sage once more. After being fully recovered, Jake quickly checked in on the Soulflame Cradle and infused some more mana into it before he went back to experimenting with Invocation once more.
+
+About two days passed with Jake being all alone in his palace – alright, the King was also there, but he hadn’t even moved since he entered meditation. After the whole second day passed, Jake began to get a little worried that Artemis wouldn’t make it back in time for the dinner date, but luckily for him, she returned as the third day had just begun.
+
+Jake had been in the middle of testing out Invocation on Scales of the Malefic Viper as she appeared in the living room above, making Jake instantly abandon his experiment and quickly make his way up to her again.
+
+Artemis naturally saw him coming, but hadn’t taken a seat, indicating to Jake she didn’t plan on staying very long. Entering the living room, Jake looked at her inquisitively as she started speaking in an amused voice.
+
+“Hey, I want you to guess who reached out to me with a prayer not long after the two of us got invited to that dinner,” Artemis said with a wry smile.
+
+“I wanna guess Keerla, since she was the one you’d blessed?” Jake asked.
+
+“Exactly,” Artemis chuckled. “I do get my fair share of prayers, but hers was certainly one of the most unique ones. Poor girl was nervous out of her mind, but I managed to calm her somewhat.”
+
+“That’s good,” Jake said, not wanting the two dinner hosts to be bundles of anxiety. Artemis speaking of Blessings and prayers did get him curious, though. “Say, how often do you get prayers? And how often do you answer?”
+
+“I get a lot of prayers... more than I bother to count every day,” Artemis said with a shrug. “Most of them don’t even ask for a response but are just said to grant the one praying courage, forgiveness, or to merely pay reverence.”
+
+“How about the ones who do ask for a response?”
+
+“Depends on the question and who’s asking,” Artemis answered. “If it’s one of the few people with a Divine Blessing or my Chosen, I answer every time. Generally, the lower the level of the Blessing, the less likely I am to answer. Additionally, the answer I can provide becomes less clear the lower the Blessing. In Keerla’s case, seeing as she only has a Lesser Blessing, I couldn’t directly convey words but only a feeling of calmness and assurance.”
+
+“I see,” Jake muttered. “What kind of thing do people usually ask about? I reckon it’s quite different from my interactions with the Viper.”
+
+“Oh, they most certainly are,” Artemis chuckled. “But usually, they just ask for assurance and confirmation before making important decisions. Many pray before battling a powerful foe, sometimes questioning if they should even do so.”
+
+“Praying with the hope that your god will tell you not to fight sounds like something someone who’s just looking for an excuse to back out of a fight would do,” Jake scoffed.
+
+“It often is,” Artemis answered casually. “But those kinds of prayers are better than final requests. Those prayers are definitely the worst. When a mortal is lethally injured, praying as death is rapidly approaching, all you, as a god, can do is offer them some level of comfort. Many pray, asking for help or more power to overcome death, and it’s not a nice feeling knowing that it’s not something you can do. Even if I decide to give someone at death’s door my Blessing, what would that help?”
+
+“Have you ever answered a prayer by descending directly to help the one praying?” Jake asked curiously.
+
+“In a combat scenario? No. I have in a few other instances, but only because other gods are also involved in the matter,” Artemis said. “But such a thing is very rare. Usually, gods don’t interfere directly with mortal matters.”
+
+Jake nodded along slowly, Villy having already talked about that several times in the past.
+
+“A bit of a topic change, but how did you come by Blessing Keerla? How do you even decide who to bless?” Jake continued to ask questions relentlessly to satisfy his curiosity.
+
+“I didn’t bless her personally,” Artemis shook her head, entertaining Jake.
+
+“You had a priest do it?”
+
+“I don’t have priests, at least not the traditional kind,” the Godqueen chuckled. “I do have people with religious Paths who can give out my Blessings with my permission, though. Mostly, these are not only representing myself, but all the gods of the Pantheon of Life. That’s how Keerla got hers. She was deemed talented enough to have it granted, thus she was given it. For Lesser Blessings, I don’t personally review every individual, as that would simply be a waste of time and effort. I check every person with Divine Blessings, of course, as well as many of those with Major and even Greater Blessings.”
+
+“I’m learning a lot today,” Jake smiled.
+
+“Glad to hear it,” Artemis shook her head. “Speaking of Blessings, I have a feeling Keerla will be in for an upgrade soon, as the Records she’ll get through her direct yet brief interaction with you will definitely strengthen her potential.”
+
+“I’d wager that a direct interaction with her Patron in disguise will also positively affect her,” Jake smiled.
+
+“Also a possibility for sure,” Artemis chuckled. “Now, my brief amusement over getting a prayer about an upcoming dinner aside, I come directly from Nature’s Attendant’s side.”
+
+“Oh?” Jake said, totally fine with the extreme change of subject. “Has anything changed with the bow ritual?”
+
+“You could say that. At least my work there is done, and Nature’s Attendant also seems to be wrapping things up,” Artemis said in a casual voice.
+
+Jake was confused about what she meant by that until a thought struck him. “Do you mean that...?”
+
+“The problem is, without the future owner of the bow, we can’t finish the ritual,” Artemis said in a teasing voice. “To clarify, we’re not in a rush to finish it, so if you want to wait a few days and-“
+
+“Artemis. Don’t even joke about keeping a man away from his new bow,” Jake interrupted the Godqueen.
+
+“I just gave the option,” Artemis chuckled as space magic wrapped up the two of them.
+
+Finally... it was bow time.

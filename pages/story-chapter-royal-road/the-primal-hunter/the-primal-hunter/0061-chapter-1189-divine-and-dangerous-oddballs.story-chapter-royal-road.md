@@ -1,0 +1,175 @@
+---
+id: 6f7f1b05-5965-53c9-a1a2-f957f0c612bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1189 - Divine & Dangerous Oddballs"
+slug: 0061-chapter-1189-divine-and-dangerous-oddballs
+partOf: the-primal-hunter
+position: 61
+ownLength: 2733
+unit: words
+ownProgress: 2733
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2711816/chapter-1189-divine-dangerous-oddballs"
+royalRoadId: "2711816"
+markedReadAt: "2026-06-29T19:31:11.825Z"
+---
+
+Jake seriously had a hard time understanding how others couldn’t view gods the same way he did. In his eyes, gods were just people who had lived for a long time and gotten really strong, but they remained individuals with all the oddities that came with it.
+
+And the Seeker was nothing if not weird.
+
+He didn’t give off the slightest sense of divinity but looked more like a tradesman living out of his van while going on jungle adventures on the weekend. Moreover, his demeanor was that of a guy with zero social awareness as he just stared at Jake and Artemis after asking if they wanted something.
+
+“Oh, no, not in particular, I’m just surprised you decided to stick around,” Jake answered before Artemis had a chance to speak up.
+
+“Am I not allowed to?” the Seeker asked, sounding genuine, making Jake pretty sure that if he said no, the god would promptly leave as requested.
+
+“You can totally stay if you want to,” Jake shrugged as he looked at the cube Jasper had been absorbed into. “How long do you think Jasper will take to do the test?”
+
+“The shorter the better, but if he takes more than a week, I’ll forcefully expel him and leave, this trip having been a waste of time,” the Seeker said bluntly.
+
+“What kind of test is it?” Jake continued asking curiously. “Is it anything like a Puzzle Box?”
+
+“No, it’s quite different,” the Seeker said, now seeming curious about Jake. “Are you familiar with my work?”
+
+“More than familiar, I’m a fan,” Jake said as he took out his Puzzle Box from his spatial storage. He hadn’t had as much time to play with it lately as he would have wanted to, but he also wasn’t in a rush, as he wouldn’t solve the damn thing for a very long time.
+
+“Ah, one of the newer iterations,” the Seeker said, looking at the box. “You seem to have made some decent progress with it. Hopefully, you’ll be able to fully solve it in time.”
+
+“Wait, there’s a timer?” Jake asked, taken aback.
+
+“Hm? No, why would there be a timer?” the Seeker said, looking at Jake as if he’d been dropped on the head as a child.
+
+“Then what do you mean when you say solve it in time?”
+
+“That you do so before you become too high level,” the Seeker explained.
+
+“Ah, like that,” Jake nodded. “Guess it makes sense if this version is for mortals. Do you also make ones for gods?”
+
+“Naturally,” the god nodded.
+
+“Cool,” Jake smiled. “Say... can you give a little hint about what’s inside my Puzzle Box?”
+
+“No.”
+
+“Damn,” Jake gave up after being outright rejected as he leaned back. “Worth a shot.”
+
+“Wouldn’t it be too boring to know now?” the Seeker asked Jake. “Isn’t part of the fun to finally uncover the hidden treasure and see what it is? While the process is certainly entertaining in its own right, without that final moment of joyful surprise upon seeing the reward, the exercise would be missing a crucial aspect, making it incomplete.”
+
+“Guess I can’t argue with that logic,” Jake relented. “Anyway, I’m surprised you came here this quickly, seeing as Jasper only evolved recently. If you had sent an avatar, I could see it make sense, but if I’m not wrong, you’re here with your true body, right?”
+
+“I don’t do avatars,” the Seeker shook his head. “Never made much sense to me. As for your question, Vilastromoz caught me at a good time. I’m making preparations for when your universe allows access to us gods, so I’ve paused most of my important long-term exploration missions for now.”
+
+“I see,” Jake acknowledged. “Makes sense. Are there any parts of the ninety-third universe you already have your eye on? I assume information remains limited due to the system limitations.”
+
+“No concrete targets, no, but I do have some ideas,” the Seeker answered. “All universes are created with sections suitable for gods, and I shall be the first to explore many of those. There’s also bound to be some dungeons that...”
+
+The Seeker continued to explain his future plans, having opened up and become a lot more interested in talking after the subject changed to what was effectively the god’s work.
+
+Jake listened with interest as the god enthusiastically explained his future plans and the types of preparations he had been making, and all the while Artemis was staring at them, evidently not sure what to do or say.
+
+Despite their brief interaction, Jake already liked the Seeker. Not just because he seemed like an interesting guy, but because of how he’d acted so far. Sure, he’d shown up uninvited, but afterward, he’d been surprisingly polite, and not just towards his fellow god or the Chosen of a Primordial.
+
+He’d treated Jasper like an actual person and asked if the little guy wanted to take part in the trial. That in itself was something most gods wouldn’t bother doing. They would have just forcefully thrown Jasper into their test with the base assumption that, of course, the mere mortal would agree to receiving a Blessing from them. Especially when it was a god like the Seeker, who was considered at the forefront of his Path and the multiverse as a whole.
+
+In summary, compared to most other gods, the Seeker seemed to have far less of an ego, even if he definitely still remained arrogantly confident in himself. Even someone like Villy, who treated Jake like a person, certainly didn’t extend the same sentiment to other mortals. In fact, Jake had noticed how the Viper didn’t even bother using the names of mortals unless they had truly made themselves worthy of him doing so.
+
+So, yeah, the Seeker seemed like a nice guy, even if he was definitely an oddball. Then again, all interesting people were oddballs to some extent, and who was Jake to call someone else out for being weird?
+
+His conversation with this weirdo of a god continued for several more minutes until a natural lull introduced itself. A few figures chose this opening to take advantage, as two auras simultaneously appeared in the living room right before the two gods teleported inside.
+
+One was Nature’s Attendant, which wasn’t really as a surprise as Jake would have found it more odd than not if the Pantheon of Life just ignored a top god teleporting into their domain without responding.
+
+The second god was a bit of a surprise, though, as Minaga appeared, already with a giant grin on his face from the moment he laid eyes on the Seeker. The god in question also noticed the arrival of these newcomers as he proceeded to entirely ignore Nature’s Attendant and stood up as he opened his arms in welcome while looking at the Unique Lifeform.
+
+“Ah, Minaga! What a pleasant surprise,” he said, walking over as he extended his arm for a handshake, which Minaga instantly reciprocated. “It’s a pleasure to meet you. I’m a good friend of another you, but it’s always nice to get to know more.”
+
+“Hey mate, heard a lot about you from our mutual friend,” Minaga said while still shaking the hand with vigor. “I’m also surprised to see you here! I take it you have business with Jake?”
+
+“No, I’m actually here for the Shimmershroud Planeswarper that I understand he recently helped attain that evolution,” the Seeker answered. “I must ask, how is my good friend doing?”
+
+“Ah, sad news,” Minaga sighed. “He died... but don’t mourn, for he died doing what he loved.”
+
+“Oh... I see,” the Seeker also sighed. “What happened?”
+
+“I have no idea; it was inside an isolated space,” Minaga explained with a deadpan expression.
+
+“Alas, such things happen,” the Seeker shook his head. “You do have a propensity for dying.”
+
+“Not my fault that I can die pretty much as many times as I want,” Minaga grinned. “Just stupid that most places worth sending me to explore are also isolated spaces that aren’t synchronized with all the other versions of me. I guess that’s why you’re a better explorer than I am.”
+
+“There are times when your talents are better, so do not shortchange yourself,” the Seeker said encouragingly. “Speaking of which, I may need your help with a small mission I’ve been planning for once the new universe opens up. I understand there’s a supermassive black hole I want to explore, and when it comes to a mission like that, you are certainly the best partner I can imagine.”
+
+“Oh, shush you,” Minaga waved his hand, trying to act all embarrassed. “You know I can’t say no to you when you’re being like that.”
+
+“Sometimes, underhanded strategies are required to achieve the best results,” the Seeker chuckled.
+
+“Speaking of being underhanded, you met Jake here, right?” Minaga said, motioning toward Jake. “If that guy makes it to godhood, you’ll definitely want to take him on a few missions. He broke nearly all the records for my Endless Labyrinth in Nevermore and is a real cheat.”
+
+The Seeker looked at Jake with raised eyebrows. “Truly? Well, if he makes it to godhood, I’ll certainly keep that in mind.”
+
+“Eh, my money is on him getting all the way,” Minaga shrugged. “And I should know; I’ve become a god more times than anyone else.”
+
+“That’s a high opinion,” the Seeker nodded thoughtfully.
+
+Once more, the conversation had a natural pause, something the fourth god present quickly took advantage of as he jumped in.
+
+“Seeker, I was not informed you would be visiting us today,” Nature’s Attendant said in a polite tone.
+
+“Ah, there’s a good explanation for that,” the Seeker nodded. “It’s because I didn’t inform anyone besides Vilastromoz that I was coming, and even he only knew it mere moments before my arrival here.”
+
+“Was it truly such an urgent matter that you couldn’t have taken the time not to forcefully break through the barriers?” the second-in-command of the Pantheon of Life asked with raised eyebrows.
+
+“No, no, it wasn’t very urgent.”
+
+“Then how come you didn’t?”
+
+“Didn’t cross my mind,” the Seeker shrugged. “Oh, but I must say, the newest iterations of your formations are definitely better than the last ones when it comes to detection. Even if I tried to hide my arrival, there’s a good chance you would have noticed me here within just a few days.”
+
+“Yes, I guess we should thank you for not trying to hide your presence,” Nature’s Attendant said sarcastically.
+
+“You’re welcome,” the Seeker said, not recognizing the sarcasm at all.
+
+Jake looked at Nature’s Attendant with pity as the god just sighed. “Can I safely assume you are only here for the Shimmershroud Planeswarper? Do you have another objective?”
+
+“Should I have another objective?” the Seeker asked, his eyes narrowing as he looked toward the trunk of Yggdrasil before he smiled. “Perhaps I could expand the scope of my visit.”
+
+“Do remember you are here because of the Malefic Viper’s influence, so any actions you take while here will reflect back on him,” Nature’s Attendant warned.
+
+“I think he’s telling you to please not steal their stuff,” Jake helpfully translated.
+
+“I do not steal,” the Seeker said, shaking his head. “I procure and preserve. Notions of ownership are second to the noble goal of preservation.”
+
+“I’m sure the Pantheon of Life is great at preserving things already,” Jake said, holding himself back from smiling. While it would be kind of funny if the Seeker went full-on British Museum on the Pantheon of Life, it definitely wouldn’t reflect well on the Viper and Jake, hence why he believed it best to discourage the god.
+
+“Perhaps,” the Seeker said, keeping things ambiguous.
+
+Jake glanced at Nature’s Attendant, who looked both relieved and still on guard at the same time. He considered asking the god more about why he was so worried, but Artemis reached out telepathically before he even had the chance to.
+
+“While the Seeker isn’t known to be a strong combatant, when it comes to infiltration and escape, he’s second-to-none. Even if he isn’t a threat to Nature’s Attendant or the Mother Tree, they can’t stop him if he decides to run. To truly demonstrate how elusive the Seeker is, just notice how he’s almost exclusively moving about using his real body, even when he visits the divine realms of other gods. Something he has done on occasion to steal from here. He can only do this because he has absolute confidence in his ability to escape and doesn’t fear any god in the multiverse,” Artemis kindly explained.
+
+Hearing her put it like that, Jake could see why other gods could be downright afraid of someone like the Seeker. Usually, if they were in conflict with another god, the worst consequences were a fight or possibly having some of their territory destroyed.
+
+However, with the Seeker, you risked having all your shit stolen in retaliation while you could do fuck-all about it. The fact that he could enter the Divine Realm of another god, yoink their stuff, and leave again had to be seriously unsettling.
+
+Luckily, it didn’t look like the Seeker was actually planning on robbing the Pantheon of Life but was satisfied having a nice reunion with Minaga, even if it technically was their first time meeting.
+
+Seeing the two gods interact, Jake wasn’t surprised they got along. Both were oddballs, but when he thought about it, they were also an insane team when it came to exploration.
+
+In places where clones could be used for scouting, Minaga could keep sending them while perfectly sharing information with all his other selves. Then, in situations where that wasn’t possible, the Seeker could step in and explore while being the greatest escape artist of the multiverse. Plus, if they ever did have to fight, Minaga was far from harmless.
+
+Well, alright, maybe one Minaga wasn’t super dangerous unless it was his best version of himself, but when it came to fights, one Minaga rarely came alone.
+
+Finally, seeing as the two were independent gods that didn’t belong to any major faction, it was probably nice to have a friend. Especially when said friend could help scare off potential troublemakers, as they could risk making both enemies by going after one. Not that Jake saw that happen, as the two were definitely towards the top of the “most annoying gods to deal with” list.
+
+As Jake sat there waiting with Minaga, the Seeker, and occasionally Nature’s Attendant chipping in, he decided to ask Artemis something else he’d been wondering.
+
+“Exactly how strong is the Seeker? Like, I know he’s not a fighter, but if he wanted to fight, do you reckon he could beat a Godqueen?” Jake asked curiously, admittedly still lacking when it came to knowledge regarding gods at that level.
+
+“He’s not a fighter compared to others at his level, not compared to someone like me. While I’m proud to be a Godqueen and believe in my newfound momentum to surpass myself, I’m also fully aware I’m nowhere near beings like the three other gods present,” Artemis candidly explained. “The Seeker is a god often spoken about in context with other non-Primordials who are at their level, nevertheless. He stands side-by-side with Umbra, the Autarch of the Altmar Empire, Gwyndyr of the Crimson Flame, and a handful of other gods who dare proclaim themselves beings at the pinnacle of the multiverse. So, to your question if he could beat someone like me in a fight... it would be an effortless endeavor for him.”
+
+Hearing Artemis’ slightly somber explanation, Jake realized that the Seeker really was an outstanding god in more ways than one. It also made more sense why Villy had suggested that he look at Jasper, as someone like the Seeker, even the Viper cared about making an ally.
+
+Ultimately, the Seeker being truly powerful was only good in Jake’s eyes, as the stronger Jasper’s Patron was, the better. Of course, to get that Blessing, Jasper needed to escape from that cube sooner rather than later, as Jake guessed his speed would be the main determining factor of the tier of Blessing the Seeker would offer.
+
+All Jake could do was hope that Jasper would soon pop out... a sentiment he strongly felt Nature’s Attendant shared, so the Seeker would finally leave.

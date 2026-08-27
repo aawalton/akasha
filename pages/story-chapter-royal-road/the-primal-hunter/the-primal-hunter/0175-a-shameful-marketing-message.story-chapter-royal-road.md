@@ -1,0 +1,25 @@
+---
+id: f81c7b3f-24d4-506b-b1c5-8085627f3089
+page-type-slug: story-chapter-royal-road
+title: "A Shameful Marketing Message"
+slug: 0175-a-shameful-marketing-message
+partOf: the-primal-hunter
+position: 175
+ownLength: 280
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3313504/a-shameful-marketing-message"
+royalRoadId: "3313504"
+---
+
+Hey everyone! Bit of a shameful marketing message here.
+
+I know that season 1 of the WEBTOON isn't everyone's favorite or mine, but some people like it or even love it. At least I’ve been told so. The point is, my publisher is bringing out a print graphic novel edition soon that will go on shelves everywhere, and they really want me to post about it. I know, the audacity of a publisher wanting to sell more books, can you believe them?
+
+Anyway, they've told me that preorders are super important for getting it onto as many shelves as possible everywhere. Plus, the better it does, the higher the likelihood they'll do editions through the season 2 content. You know, when it actually gets decent. And if it does really well, it could help with a possible anime adaptation, which I've been told is actually in early discussions (I know very few details here, so don’t ask me, and there is nothing concrete at all yet).
+
+So yeah. If you want to, pre-order it. Doing so would be highly appreciated. As for what you do with the book, that’s up to you. Read it, give it as a gag gift, use it as kindling, I don't care. I just want my publisher to be a happy camper and, hopefully, for it to do well enough to actually reach season 2 of the Webtoon, where it no longer (in my opinion) sucks. I've been told that preorders through Barnes & Noble are the most helpful, as they have the most shelf space and need to see preorders before risking stocking copies. Do with that what you will.
+
+Barnes: https://www.barnesandnoble.com/w/the-primal-hunter-zogarth/1145221108?ean=9781638493792
+
+Amazon: https://www.amazon.com/exec/obidos/ASIN/1638493790?tag=simonsayscom

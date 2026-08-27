@@ -1,0 +1,157 @@
+---
+id: 8aa36ee9-5bf0-52d0-ac29-55a0d6b35865
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1153 - A Quite Unique Party"
+slug: 0025-chapter-1153-a-quite-unique-party
+partOf: the-primal-hunter
+position: 25
+ownLength: 2784
+unit: words
+ownProgress: 2784
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2528138/chapter-1153-a-quite-unique-party"
+royalRoadId: "2528138"
+markedReadAt: "2026-06-29T19:30:02.968Z"
+---
+
+Everyone knew their Nevermore party had been an odd one. It included four people related to four different Primordials, while the final member was a Unique Lifeform who didn’t have any direct relations to a Primordial, primarily because he couldn’t be blessed.
+
+Most top parties had included only those from the same faction. That, or they were at least put together with the blessed by gods who were officially allied. Aeon and Stormild were Primordials with no official alliances, but tended to remain entirely neutral so they could be left alone to their own pursuits.
+
+Their party even had a mixture of monsters and enlightened, another major outlier. Monsters and enlightened very rarely did dungeons together, much less mega-dungeons like Nevermore.
+
+Yet their ragtag collection of misfit geniuses had performed quite well and come out of Nevermore as the top party of their entire generation, even producing the new all-time top scorer on the Nevermore Leaderboards.
+
+Usually, a party like this wouldn’t have worked out so well. It was very rare to see people recognized as individual geniuses to group up together like this, as teamwork was an important factor when exploring dungeons. Yet even that had worked out well, as while their teamwork hadn’t been extraordinary, they were all individually so competent and ambitious that everyone had willingly adapted to increase the group’s overall chance of success.
+
+That’s to say, everyone had been able to put their ego aside at times if the situation demanded it. This was only the case because they respected each other and recognized the competency of every member in the party. This recognition that they were among peers had also allowed genuine friendship to bloom between the five, as it was quite frankly hard spending over forty years with someone without at least finding some common ground.
+
+Yet despite actually getting along, they never had the chance to all meet up again after Nevermore. Not before this, anyway. Between all the system events, Dina being from another universe, and the King being kind of dead, they had all been too busy.
+
+Sure, it hadn’t actually been that many years since they parted after Nevermore, even if it did feel like it. So much had happened, and they had all grown stronger during their time apart – some more than others.
+
+Jake and the King had hung out in his palace for a while as they waited for the others to arrive. Jake had gotten word that Minaga had taken the task upon himself to fetch them all, which he naturally had no objections to.
+
+They all arrived about as fast as Jake had expected them to, with the Sword Saint and Dina getting there first. The moment they stepped through the gateway, Jake would tell the two had recently gotten out of quite a fight as their auras were still slightly unstable, showing that they had hurried there as soon as possible.
+
+“Welcome once more to my humble temporary abode,” Jake greeted them in the entrance area of the way too large palace.
+
+“Thank you for having us,” the Sword Saint responded as he glanced around. “I was told-“
+
+“The garden,” Jake interrupted, already knowing what the old man was about to ask. “He’s still getting familiar with having a body again, and I also get the feeling that despite being dead, he did have some gains from the experience.”
+
+“Are there any negative lingering effects?” Dina asked, worried. “Returning to life cannot have come without any cost... especially not after this long.”
+
+“Well, technically, the King was never actually dead, so I don’t think that applies here,” Jake shrugged. “As for if he has any other issues, how about you just go ask him yourself?”
+
+“We both know he wouldn’t answer truthfully if he did have some kind of problem,” the Sword Saint chuckled.
+
+“No, but from his response, you should at least be able to figure out if he does on your own,” Jake rightfully pointed out. “Now let’s go.”
+
+Jake turned to walk towards the garden as something just occurred to him. “Wait, where’s Minaga? He was the one who went to get you, right?”
+
+“He did, but he had us take the last teleporter alone,” Dina answered, shaking her head. “His excuse was that he would arrive with Sylphie and that having two clones at a reunion party at the same time would just be weird.”
+
+“I suspect he also wants to make an entrance,” the Sword Saint added. “You know how Minaga feels about showmanship. If he has a chance to be over-the-top, he’ll take it.”
+
+“True, true,” Jake nodded in understanding as he continued leading the two toward the garden area. It was a large enclosed garden on one side of the palace, and Jake had chosen this as their reunion spot due to how much space there was. Also, the King had wanted it to be outside as that would allow him to continue training until everyone got there, and for the sake of any demonstrations of power, being outside was superior.
+
+Jake suspected it was mainly because the King had to stop floating to fit through the doorways inside, but that was neither here nor there.
+
+Reaching the garden, they found the Forest King floating in the middle of it as several golden orbs revolved around his body. Each was filled with intense energy, but upon noticing their arrival, the King waved his hand and dispelled them all.
+
+“The hunter was right. You did arrive far more promptly than I presumed,” the Unique Lifeform said as he turned around and looked at the Sword Saint and Dina. “It’s a genuine pleasure to meet you both once more, even if the time between our last encounter and now is shorter from my perspective.”
+
+“It’s good to see you up and floating again,” the Sword Saint smiled. “Also, Golden Forest King now, huh? I guess it does make sense to get rid of the “Fallen” if you no longer consider yourself such.”
+
+“It pleases me you understand the intent behind the change,” the King nodded.
+
+As the two spoke, Dina just stared at the King. It took her a few moments to gather herself before she could no longer hold herself back from asking:
+
+“That body... vessel... whatever it is you call it... did the Mother Tree truly make it personally?” the dryad druid asked with disbelief, already knowing the answer to her own question.
+
+“Indeed, the Primordial did,” the King nodded. “Her involvement in its creation is why I’m taking longer to adapt than I had originally planned. The Primordial took my Records, my energies, and my blueprints and created a form from them using some of her own power. It’s... stronger than what I could have made myself, that’s for sure, and merely merging with the body resulted in a forced upgrade or change to several of my passive defensive skills.”
+
+Jake hadn’t known that last part as he looked at the Unique Lifeform with a frown. Noticing this, the King waved him off. “I say forced, but I could have merely chosen not to accept this body and forge one myself instead. However, doing so would have been a fool’s errand, as this one is strictly an upgrade. One that’s superior in channeling my energies is easier to heal by others, and shall leave me more durable. The only possible downside is that I need to now fully familiarise myself with it.”
+
+Relieved, Jake nodded in acknowledgment. He didn’t like the thought of Yggdrasil having forced anything upon the King, even if it had ultimately ended up helping him. Not because he didn’t find Yggdrasil particularly untrustworthy, but simply because he didn’t like the concept of taking others’ choices away like that.
+
+“Can I try to examine you? Just for a bit?” Dina asked curiously.
+
+“You go ahead. Do convey any changes you unveil,” the King said as Dina walked over with hurried steps. She placed her hand on the chest of the Unique Lifeform and sent in a wave of energy to explore the King’s body.
+
+Jake and the Sword Saint stood back quietly as nearly a full minute passed. From the looks of it, the King hid nothing from Dina and allowed her to explore away, indicating a very high level of trust. Having someone examine you like that could be a major risk if they had any insidious thoughts, especially when the one doing so was capable of manipulating life energy.
+
+Once she was satisfied with her preliminary exam, Dina pulled her hand away. “Amazing. The structure is far more complex than before, but that isn’t even the most significant change. It’s filled with actual life energy now and is capable of absorbing it from the environment and your soul to restore itself. Healing you before was a bit difficult due to the complex structure, but despite having gotten so much more complex, it’s also gotten far easier to mend in every way.”
+
+“That is indeed something I also noticed,” the King nodded. An idea seemingly occurred to the Unique Lifeform just then as he looked over at Jake. “Could you provide me with a health potion? I wish to test something.”
+
+“Sure,” Jake shrugged as he took out a healing potion and tossed it to the Forest King. The Unique Lifeform caught the potion telekinetically as he made it float over into one of his clawed hands. The other arm he raised as golden fissures opened up all over it, making the wooden vessel split apart and get damaged in several places.
+
+“Despite not possessing vital energy like you three, I wonder if this body can absorb it and turn it into useful life energy to restore this vessel,” the King said as he clasped the bottle in his hand, making it disappear entirely.
+
+A few seconds later, Jake saw the arm of the King begin to mend rapidly, and less than ten seconds later, it was fully healed.
+
+“There was a lot of waste. Your vessel clearly isn’t designed to properly integrate vital energy,” Dina commented, having seen the process.
+
+“Indeed. I shall stick to my own means of restoration,” the Unique Lifeform nodded.
+
+“Or just use mana potions,” Dina shrugged. “If you want it to, your body should be able to directly absorb any kind of mana and turn it into life mana to restore your body.”
+
+“I’m aware, but isn’t the efficiency too low?” the King questioned their resident healing expert.
+
+“Quite the contrary,” Dina said, sounding almost offended that the King would say anything a body created by Yggdrasil could be inefficient. “The only reason it may appear that way to you right now is because the body takes a lot more energy to heal than the one you had before, but with its increased durability, it’s definitely a major overall gain.”
+
+“Hm, I see,” the King said as he examined his healed arm a bit. “It appears I still have some testing left to do.”
+
+“You can do that later,” Jake said, shaking his head. “For now, we have something far more important to discuss.”
+
+Turning to the Sword Saint, he looked at the old man with a serious gaze. “How many?”
+
+“Sixty-seven,” the swordsman replied, instantly knowing what Jake was asking about.
+
+“What the hell?” Jake exclaimed. “That many? Wait, is it just you, or both of you combined?”
+
+“Kills I’ve been involved in,” the Sword Saint clarified. “Solo, it would be four. However, I see little meaning in pursuing solo battles right now, as I already find myself with plenty of gains from fighting with Dina.”
+
+“Alright... that at least makes me feel a bit better,” Jake muttered. “I’ve killed... less than that. But all solo! Kind of. There was this one encounter with a Chimera and a Forest Fae that could technically count as a two-on-two battle?”
+
+“Sounds like we have plenty of battle stories to share on both sides,” the Sword Saint smiled before looking over at the Forest King. “With your current power, do you feel confident in taking on a B-grade?”
+
+The King hesitated for a moment before shaking his head. “Confident would not be the word, as it implies I believe my chances would be good. I’m not saying fighting a B-grade would prove impossible, but without truly knowing the limitations of my new form and how powerful this theoretical B-grade will be, I cannot answer with any confidence.”
+
+“Yeah, but when you reach our level, it should be pretty straightforward for you to fight B-grades, assuming the matchup is good,” Jake said, sharing his genuine assessment.
+
+Out of his four Nevermore members, Jake would consider the King the second-strongest after himself in most circumstances. Sure, the Sword Saint and Sylphie both had higher offensive prowess, and Dina won when it came to defense, but as an overall package, the King was still a Unique Lifeform and a pinnacle creature.
+
+Now that he had shed his old form and adopted the name of Golden Forest King, the Unique Lifeform had grown even stronger, with his potential also higher than before. The aura of the King at least felt a lot more stable and powerful than before, and if the Unique Lifeform had been higher level, Jake would have already gone for a duel.
+
+“Oh, do not fret, I fully plan on hunting down B-grades in large quantities as I climb toward evolution,” the Forest King reassured them.
+
+“Maybe we could go hunting together at some point?” Dina proposed, looking between both Jake and the King. “I think it would be fun and maybe even a little nostalgic.”
+
+“I’m not against it,” Jake tentatively agreed. “As long as we’re not carrying some lazy bum who’s far behind the rest of us in levels.”
+
+“I find your teasing amusing, especially when one considers the facts,” the King said, crossing his arms. “Knowing how slow you tend to level, there is a high probability I shall find myself stepping into B-grade before you. Additionally, I wish to remind you that as you wear the mirror of my soul upon your face, I got a small glimpse when you bound it. Ignoring the fact that your soul remains damaged and needs to be fixed before you can evolve, your soul itself does not strike me as one that easily grows. It’s a vessel that requires more than most can provide, and while I find your Path admirable, it’s also a more arduous one.”
+
+Jake opened his mouth, but no words came out as he couldn’t really argue against any of what the King had said. He also knew full well that monsters tended to level a lot faster than enlightened, especially if they actively worked for it. Based on how the King was acting, Jake had a good feeling he was going to work very hard to get some levels under his belt in the near future.
+
+“I think that any of us concerning ourselves with our speed of progress rather than the quality of every step we take is a complete waste,” the Sword Saint shook his head. “Levels are all well and good, but I see them not as the goal but as a side effect of striving for self-improvement.”
+
+“Wisely so,” the King agreed.
+
+“Yeah, can’t really argue with that,” Jake shrugged. “But that doesn't make those level-ups feel any less awesome. I just really like to see numbers going up, I guess.”
+
+“Levels do feel nice,” Dina nodded as she glanced around a bit. “Say, do you know when Minaga and Sylphie will arrive?”
+
+Jake hesitated for a moment as he looked toward an empty spot on the lawn. “Well... you know those two. I’m sure they’ll pop up all dramatically when we least expect them to, probably with some silly-“
+
+“Surprise!”
+
+“Ree!”
+
+A blast of wind with sparkling light erupted from where Jake had just been looking as Minaga and Sylphie revealed themselves standing on each side of a long table filled with all sorts of different foodstuffs.
+
+Jake had naturally noticed their arrival a good while ago and had struggled hard to ignore them as Minaga had taken out a folding table and begun to set up snacks while Sylphie made sure to taste-test everything on offer.
+
+Minaga’s divine aura spread out after he revealed himself, which only displayed another rather unique trait of their Nevermore party... because Jake was fairly confident they were the only party of C-grades capable of completely ignoring the aura of a god and instead just stare at the god in question as if wondering who’s idea it was to invite him in the first place.

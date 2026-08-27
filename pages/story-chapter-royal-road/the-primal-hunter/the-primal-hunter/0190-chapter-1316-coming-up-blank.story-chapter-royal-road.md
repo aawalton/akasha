@@ -1,0 +1,165 @@
+---
+id: bb1e3004-30e4-5f0a-be81-8ce67eea2dbf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1316 - Coming Up Blank"
+slug: 0190-chapter-1316-coming-up-blank
+partOf: the-primal-hunter
+position: 190
+ownLength: 2961
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3422952/chapter-1316-coming-up-blank"
+royalRoadId: "3422952"
+---
+
+Jake significantly slowed down his speed as soon as he detected these additional presences just at the edge of the Boundary. Obviously, the Venusians and Arachnecs following him noticed this as the Shaman looked at him, perplexed.
+
+“Why are we slowing down?”
+
+His question seemed full of genuine confusion, which made Jake believe that at least the Shaman had no idea what was going on. Something he found somewhat comforting, as he momentarily feared that his frog buddy had betrayed him.
+
+“The situation ahead seems to have changed,” Jake muttered, carefully observing the Arachnec Lords to see if they had any visible reaction to Jake’s words. Unfortunately, they were a lot harder to read than the far more expressive Venusians, not really allowing him to discern if they were equally confused.
+
+“Could you elaborate?” the strongest of the Arachnec Lords asked, making Jake consider that this also wasn’t a play by them.
+
+That, or none of these B-grades knew what their higher-ups were planning behind the scenes. Something that was true for both the Arachnec and Venusian factions. It shouldn’t really surprise Jake either, as if some clandestine plot were being hatched behind the scenes, revealing it to even a bunch of B-grades would probably be a terrible strategy.
+
+Choosing not to hide his observation despite the potential risk, Jake shared what he’d noticed.
+
+“Lots of new presences ahead, including at least one that appears to surpass that of the Horned Slayer,” Jake said, shaking his head.
+
+The Shaman’s eyes opened wide at this revelation, and as far as Jake could tell, the Arachnec Lords also looked surprised. As far as Jake knew, the Horned Slayer was considered one of the stronger beings in this world. The kind that very few had confidence in fighting, and that likely no one had confidence in stopping, should he decide to simply run away?
+
+To hear that a stronger entity had now appeared had to be a shock, especially if there were more than one. As far as Jake knew, only the Venusians and Arachnecs knew that Jake and company were there and had entered the Boundary, so his guess was that they had to have come from one of these factions. Which really didn’t mesh well with the temporary truce they had agreed on.
+
+Granted, their group of eleven had been gone for a while, but Jake still had a hard time seeing any of the other top-tier creatures of Venus noticing what was going on and making their way over during their absence.
+
+“How does the Envoy propose we proceed? Can he detect if there is hostility shown by these presences?” the Arachnec Lord asked, the question genuinely seeming more like the B-grade was trying to probe what Jake was capable of than a genuine question born of concern.
+
+“I can only vaguely feel what’s ahead, that’s it,” Jake answered, definitely not going to give away the existence of Pulse or just how powerful his senses were. “But I don’t think we have much choice but to return, unless we want to head back through the Boundary and enter the multiverse.”
+
+“That’s...” the Shaman said with a frown. “I’ll be honest, if you choose to do that, I’m not confident we can all follow.”
+
+Jake nodded in understanding, having already felt that the Venusians had been pushing themselves with only the Shaman there to protect them. “I understand. While I am tempted to simply return to the multiverse, let’s continue and see what’s actually going on. Besides, I’m fairly sure we’ve already been detected, and should any of us choose to turn tail, things could quickly take a turn for the worst.”
+
+While he wasn’t entirely sure, he was fairly confident that the A-grades ahead should be able to know they were close now. He couldn’t detect anyone or outright observe them, likely due to the Boundary obscuring them, but he didn’t want to risk some general scanning skill not having picked up on their presence in the same vein that Jake had felt the many A-grades ahead.
+
+“If there are more Arachnecs, be aware that we have no desire to be your enemy or act hostile,” the front-lining Arachnec Lord said in an attempt to be comforting. Which it kind of was.
+
+“While I can’t speak with such equal certainty about all of Venusian kind, I can at least say that I also genuinely believe we wish to remain allies with you,” the Shaman said, his reassurance a lot more grounded, but also somehow more comforting due to that.
+
+“Then let’s hope this is all just a big nothing-burger,” Jake said with a light smile as he motioned for them to continue flying.
+
+Things had been pretty cheerful on the way back so far, but now things had turned tense once more as no one knew what to expect ahead. Not long after, Jake also definitely felt a powerful A-grade presence lock onto his own, and soon, there was a second, and then a third. More followed, with several of them being unknown. The Nestmother and Horned Slayer were among the presences, though, so at least some big fight hadn’t broken out.
+
+It didn’t take long before Jake’s Pulse covered all the newcomers to the scene, and, yeah, there were a lot of them. There were now over two hundred Venusians and more than a hundred Arachnecs, including ten Nestmothers. Evidently, both forces had called in reinforcements, but at least they hadn’t started fighting yet.
+
+Besides the Venusians and Arachnecs, there were also others that Jake didn’t recognize, including a group of many different monsters that Jake guessed were part of the Nomads. Then there were all the solitary monsters, including one that especially caught his attention, as he was fairly sure he felt this one’s attention on him.
+
+It was a large, bulky skeletal figure with the upper part of its skull shaped like a crown, and elaborate robes covering its body. It wasn’t the skeleton of a human, though, but rather that of a Venusian, as far as Jake could tell. Around it were several other clearly undead creatures.
+
+What especially caught his attention was that, despite both being undead, this group clearly wasn’t aligned with the Arachnecs. What’s more, this skeleton was arrogantly sitting on top of a small bed of bones as the creature floated there, definitely also awaiting Jake’s return.
+
+Jake considered consulting his group about what he’d seen, but kept quiet to hide the existence of Pulse. Instead, he just continued as he considered what exactly would be waiting for them once he was fully out of the Boundary. He had no idea why all these clearly powerful beings had come, but he seriously hoped the relatively peaceful situation he’d carefully tried to curate hadn’t escalated.
+
+Soon, all these A-grades were even within Jake’s sphere, and not long after, the initial group of eleven who’d first gone to venture beyond the Boundary returned safely to Venus.
+
+Upon breaking out of the Boundary, Jake already felt all eyes locked on him and the ones with him. Jake didn’t act shocked as he was practically confronted with an army of A-grades, but he did at least act a little surprised, also to excuse an “instinctual” use of Identify on several of the newcomers.
+
+[Horned Venusian Virumancer – lvl ???]
+
+[Arachnec Scythefiend – lvl ???]
+
+[Lich – lvl ???]
+
+The first two were new variants of races he already knew very well, who seemed to have brought more combat-specialized individuals. The last one was the Venusian skeleton, and Jake was pretty sure the undead had a skill to hide their real Identify result. He refused that a being he believed to be at or near peak A-grade was merely a lich, and not some far more impressive-sounding variant.
+
+Jake didn’t spot anyone particularly noteworthy among the Nomads, though all of them were certainly powerful. As he was standing there, he surprisingly got a quick message from a frog nearby.
+
+“The Lich is one of the entities closest in power to the three strongest beings in this world, and has power rivaling the leader of the Venusian and Arachnec factions,” the Shaman informed Jake subtly through telepathy.
+
+Hiding any outward reaction, Jake considered the message. From what he knew, the three strongest creatures were this Bog Lord master, the Great Sea Serpent, and one more that he wasn’t aware of yet. However, it sounded like there were several just a step beneath, such as this Lich, and apparently the leaders of the two biggest factions in the Minor World as well.
+
+“Welcome back,” the Oracle was the first from the side of A-grades to speak, surprising Jake a little, as she clearly wasn’t even close to being considered the strongest anymore. “Please do not be alarmed, but as you can see, there have been some developments during your absence.”
+
+“Yeah, I’ve noticed,” Jake said, staying calm. So far, he’d adopted a cool-headed demeanor when interacting with these A-grades and even gone as far as to scold them, but acting intimidated now wasn’t going to fly.
+
+“What a refreshing attitude from a newborn B-grade,” a clearly female voice echoed from the Lich, as her aura was also slightly released. With it, Jake felt space slightly quiver, making him quickly conclude this lich had perhaps been an Oracle of the Venusians herself before turning into what she was today.
+
+“Tell me, human, is that the norm in the world beyond the Boundary?” she asked, allowing her aura to fall upon Jake in a very unfriendly manner. She didn’t seek to actively harm him, but clearly had no problem attempting to embarrass him with her superior power.
+
+Jake responded by flaring his own Bloodline-infused aura, pushing back her presence as he casually shook his head. “No, not really. All individuals are unique, and I just happen to be like this.”
+
+His flippant attitude luckily didn’t offend the Lich, as she looked astonished at him effortlessly rebuffing her aura before chuckling. “Interesting... truly interesting. I think we’ll end up getting along quite well.”
+
+“Please,” the Oracle said, clearly more nervous than Jake at speaking to the Lich. The undead just waved her off as the Oracle returned to addressing Jake and the ten others with him, who all looked like they’d actively been in telepathic communication with their races during this small interaction with the Lich.
+
+“Was this first test a success?” she asked, with the vast majority of the A-grades looking at him curiously. Jake was fairly sure she and everyone else in charge already knew the answer, and this was just to announce the result to the masses. Due to this, and considering there was a frog capable of telling if he was telling the truth, Jake also saw no need to lie or obscure anything as he nodded.
+
+“I would say so, all ten of them were successfully brought beyond the Boundary and back again, after which we confirmed they can now freely pass back and forth,” Jake said, and with his response, he saw the utter elation on the faces of many present A-grades.
+
+However, he also saw a few hide expressions of concern. Jake definitely took note of this, but he nevertheless continued to go into detail about what they had discovered, wanting to remain cooperative.
+
+He even explained the reward given to the B-grades with him and noted how he himself had a similar skill and title. To appear more transparent, he even mixed in a few more details about the multiverse that now consisted of ninety-three universes, including some things he hadn’t told the ten standing beside him.
+
+It was evident that a lot of things Jake said remained beyond the comprehension of these A-grades, not that he could blame them. From their perspective, the world had always been a relatively small space where it was entirely possible to travel from one end to the other.
+
+Meanwhile, just a single universe was so big that not even a Primordial would have confidence in having explored every corner of it, even if they’d spent every second since the moment they ascended till now scouring it. There were even sectors in universes that the Primordials had to be careful when exploring, often found far away from anything else, surrounded by an endless field of nothingness.
+
+Still, it was evident that while they didn’t fully understand, the wonders of the multiverse still intrigued them, and especially the Lich didn’t bother hiding her greed.
+
+“Sounds like you’re about to lead us all to greater heights,” the Lich said with a small cackle.
+
+“Yeah... about that,” Jake said, knowing this was the crucial part he had to share. Again, he guessed the Arachnecs and Venusians also knew, but Jake still wanted to put his own framing on it and explain to all the independent forces present.
+
+“There is a limit to who I can bring through. The barrier is created directly by the system and tests whether whoever I’m trying to bring through is more powerful than me. If they are, it won’t work,” Jake explained with a deep sigh, hiding that he actually found it massively relieving.
+
+“You mean to say you’re more powerful than our Arachnec Lords and the Venusian Shaman?” the Nestmother, who’d originally been there, asked, having seemingly been selected by all the other Nestmothers to be the one speaking.
+
+“I am,” Jake nodded, not seeing any need to elaborate on that answer.
+
+“We cannot deny his power does indeed seem to surpass ours,” the Arachnec Lord nodded, making the Nestmother also nod in understanding. Which was kind of weird, as she definitely already knew he was stronger than them, right?
+
+In fact, Jake found a lot about this situation weird. Why had so many people come, and why were they so relaxed? Even the Horned Slayer didn’t seem as antagonistic as before, as he kept quiet and just sat back.
+
+“I see... so there are still limits,” the Oracle nodded slowly. “A shame, everything would have been far simpler if you could have merely led us out of here immediately.”
+
+“Clearly, that isn’t what the system wants to happen,” Jake shook his head, wanting to redirect any dissatisfaction that may be aimed at him towards the omnipotent system.
+
+“Evidently not,” the Oracle sighed.
+
+“I do believe I warned you,” Jake said with a serious look. “From my prior dealings with the system, and based on my knowledge of how it operates, this was a very predictable outcome. Don’t worry, though; in due time, you will all be able to leave. Not that I can give any set deadline.”
+
+“We discussed this already and acknowledge that’s the case,” the Oracle nodded, and momentarily, he saw a conflicted look on her face, but she quickly hid it and followed up. “Which brings us to what comes next. What the plan will be.”
+
+“Yeah,” Jake said, carefully trying to get a read on the situation, as things started feeling weirder and weirder. To the level where Jake considered that maybe he shouldn’t remain for too much longer. “If you want to, I can bring an eligible group outside, who can serve as political frontrunners? They will be able to freely travel back and forth once brought through the Boundary just once.”
+
+Jake wasn’t super keen on actually doing that, but he wanted a good excuse to leave Venus.
+
+“That does sound like a good proposal,” the Nestmother spoke with a smile. “But... I do have a question.”
+
+She looked at Jake, and he felt the mental magic affect him immediately, triggering Pride, which was now available compared to last time.
+
+“Where are your comrades?” the Arachnec A-grade asked, Jake too focused on locking down his mind and resisting the magic to answer. The Nestmother noticed this and frowned, and after Jake had held on for a few seconds, the Horned Slayer finally spoke.
+
+“Bah, useless wench,” he spat out as he released his aura, pushing back the mental magic and appearing right in front of Jake. The frog towered over Jake as he looked down at him as he spoke.
+
+“You’re all alone, aren’t you?” he said with a smile.
+
+Jake did not like where this was going as he answered, making sure the truth-telling frog was evaluating him.
+
+“I’m not. I’m blessed by the Malefic Viper, a Primordial god, who commands a faction that-“
+
+“Yeah, yeah,” the Horned Slayer cut him off. “But they can’t come here, now can they?”
+
+He didn’t immediately answer, which the Horned Slayer definitely took as confirmation as the frog smiled.
+
+“See, we questioned why there would even be any kind of limitation on who could leave beyond the Boundary in the first place, and why this limit would be dependent on the outside world. After hearing your explanation, it’s clear this entire world is nothing more than a space not unlike a dungeon, though I dare venture this place is actually persistent,” the Horned Slayer continued, still looking down at Jake.
+
+“That’s when we realized... this limitation is there to protect you. To protect your universe from us. There may be powerful beings in this multiverse, but none of them can come to this universe of yours, now can they?”
+
+Jake had fully realized by now that he’d lost all momentum in this conversation, as the Horned Slayer didn’t let up.
+
+“That’s a yes or no question. So answer. Your universe is also under tight limitations by the system, isn’t it?”
+
+Under the watchful gaze of a truth-telling Venusian and an army of A-grades, Jake’s mind was working at high speeds as he tried to find an answer or a way out of this, and right now... he was coming up blank.

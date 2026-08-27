@@ -1,0 +1,405 @@
+---
+id: 478ebdaf-e35f-5c6e-8a5b-b9c60e5c759b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 - Helena and Haley"
+slug: 0038-chapter-37-helena-and-haley
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 38
+ownLength: 3024
+unit: words
+publishedAt: 2022-06-29
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/938010/chapter-37-helena-and-haley"
+royalRoadId: "938010"
+---
+
+Dr. Stacks was an older man with a big heart and a pleasant voice, and he could talk to every patient at their level, from the youngest child to the grouchiest professor.
+
+He was kneeling in front of Eleanor, inspecting her arms and gently probing around each wound.
+
+“How have you been feeling, Lady Serrs?”
+
+“Physically? I’ve been feeling well.”
+
+The doctor smiled. “I’d ask about your mental health, but I’m no psychologist. Still, I suspect it’s been hard for you.”
+
+“Yes.”
+
+“Then I’m glad I can give you some good news. Your arms are healing beautifully, and there’s no sign of infection. I would like you to keep them wrapped until they’re completely scabbed over. After that, you only need the bandages if you can’t resist the urge to itch them.”
+
+As he wrapped her arms again, he asked about her diet and cautioned her about getting plenty of rest. When he was done, he rose.
+
+They were in Eleanor’s room. She had been writing when the doctor came in, and he insisted there was no reason to go somewhere else—“One chair’s as good as another for something like this.”
+
+He said, “Call me immediately if there’s any unusual pain. Small twinges and aches are to be expected, but if you get a fever, or if there’s any weakness or tingling in your hands, let me know.”
+
+“Yes, sir.”
+
+“It’s been lovely working with you, Lady Serrs.” He bowed, then turned.
+
+Helena was standing near the door, acting as a silent witness to the doctor’s instructions, in case Eleanor decided any of them weren’t important. Dr. Stacks crossed over to her.
+
+“And how are you doing, Lady Serrs-Comtess?”
+
+“Later, Doctor.”
+
+“Are you sure?”
+
+“I’m sure.”
+
+“Then that’s everything.” He half turned to say, “I’ll be back in three days to check on you, Lady Serrs.” To Helena, he added, “And I’ll see you later.”
+
+“Would you like me to see you out, Doctor?” Helena asked.
+
+“Thank you, but I can find my way.”
+
+After he left, the baroness came further into the room. “Shall we adjourn to the drawing room, or do you have other nefarious plans to carry out?”
+
+“Not tonight.”
+
+“How boring for you.”
+
+“Not at all.” Eleanor stood up. “I have a wonderful book waiting for me.”
+
+“Would you mind reading to me? I have sewing to do.”
+
+“I would be delighted.”
+
+They stopped by Helena’s room to grab her sewing bag. As they walked down the front stairs, they saw Taylor leading a man through the hall.
+
+Eleanor skipped down a few steps when she recognized the dark hair. “Haley!”
+
+The inspector turned and looked up. “Good evening, Lady Serrs.”
+
+In her excitement, Eleanor had forgotten that her aunt and Taylor were there. She descended the rest of the way at a more sedate pace. “Good evening, Chief Inspector.”
+
+Haley walked back to meet her. “I saw Dr. Stacks on my way in. Was he here to see you?”
+
+“Yes.”
+
+“May I ask how you’re doing?”
+
+“He says everything’s healing well. I forgot you were coming over tonight.”
+
+The inspector looked uncomfortable. “Yes. I have to talk to your father.”
+
+“I understand.” Eleanor tried to come up with an excuse to get him on his own, but she couldn’t think of anything—especially with her aunt staring over her shoulder. “I’m sorry I detained you.”
+
+“Not at all. I’m glad to hear you’re doing well.”
+
+Haley turned and went back to Taylor, who’d been waiting to lead him to the study.
+
+Eleanor felt a hand on her elbow. It was her aunt.
+
+“Did you need to talk to him?” Helena asked.
+
+“Is it so obvious?”
+
+“I think if we leave the door to the drawing room open, Inspector Haley will stop in to wish us good night.”
+
+“You think so?”
+
+“If I saw that you wanted to talk to him, I have no doubt that he saw it as well. He’s distracted, not blind.” The baroness stared in the direction Haley had gone and muttered, “That’s the face of an honorable man ascending the scaffold.”
+
+Helena turned and walked toward the drawing room. Eleanor followed.
+
+“What do you mean?” Eleanor asked.
+
+“It doesn’t matter. Come along.”
+
+Lady Serrs-Comtess sat in the most comfortable chair, next to the brightest lamp, and worked on her sewing. Eleanor sat beside her, book in hand.
+
+Eleanor tried to focus, but, that night, her normally smooth reading was punctuated by the occasional silence. Her voice waned while her ears strained to hear what was happening two rooms away. Every once in a while, the silence stretched on for so long, Helena had to prompt her to return to the story.
+
+“Eleanor!”
+
+“I’m sorry, Aunt Helena.”
+
+“The door is open. Unless Inspector Haley decides to sneak out the back, we will see him.”
+
+“I know.”
+
+Helena took off her reading glasses and peered at her niece. “But that’s not what’s bothering you.”
+
+“No.”
+
+“Will you tell me?”
+
+Eleanor closed the book over her finger. “I’m worried about Father. He isn’t himself.”
+
+“Because he isn’t yelling? Your father has a great deal of respect for the inspector. I don’t think he’s going to shout at him.”
+
+“He does?”
+
+Eleanor had assumed the lack of shouting was because Haley was only asking questions, which rarely upset the duke unless he was already angry; it hadn’t occurred to her that there was something about Haley himself that was curtailing the rage.
+
+Helena replaced her glasses and lifted her sewing. “Chief Inspector Haley has been a rock throughout this whole trying situation. He’s a capable policeman, and he knows how to handle Erravold when reason and a cool head are called for.”
+
+Eleanor thought back to the morning when her father had sent away the reporters. What had Haley said to him?
+
+More importantly, would he give her lessons?
+
+Helena went on, “And when you were abducted, he brought you safely home to us. That counts for a lot.”
+
+“I’m glad to hear it.”
+
+“But you still look worried.”
+
+“I talked to Father yesterday. He sounded so sad and thoughtful.”
+
+There was a short silence.
+
+“This was yesterday?” Helena asked.
+
+“Yes.”
+
+“There’s been a lot of bad news lately, Eleanor. Let him be sad, and let him be thoughtful. It’s probably good for him.”
+
+A shadow moved into the light on the floor. The baroness took off her glasses again and looked up to see Haley standing in the doorway.
+
+“Chief Inspector.”
+
+“Milady.”
+
+“You’re done with my brother?”
+
+“Yes. I wanted to wish you two ladies good night before I left.”
+
+“Inspector, you look tired.”
+
+Haley rubbed his forehead. “It’s been a rough few days.”
+
+“Eleanor was about to get our evening cocoa. Would you care to join us?”
+
+“Milady, I’m not sure that the duke—”
+
+“I doubt Erravold will take exception to the people I invite to stay, no matter how upset he may be, but if he does, he can take it up with me.”
+
+“But—”
+
+“If you stay, it will give me a chance to ask you a few questions. Would you prefer cocoa or a tisane?”
+
+The inspector decided he was too tired to fight the inevitable. He came in and sat down next to them. “Tisane please.”
+
+Helena nodded to Eleanor, who excused herself and went to prepare the drinks. Haley’s eyes followed her as she left the room.
+
+“She’s a good girl,” Helena said.
+
+“I know,” Haley admitted. “I feel bad for her.”
+
+“It has been difficult, but she’s strong. I think she’ll be all right.”
+
+“Do you?”
+
+“In time.” In a more subdued voice, Lady Serrs-Comtess added, “Though I do worry about her. She’s always there for others. Sometimes I wonder who’ll be there for her.” Helena put her glasses back on. “Inspector, before I forget, please give my regards to your father.”
+
+Haley stared at the baroness in surprise. Her sharp eyes peered at him over the rim of her spectacles. They returned to her sewing at the same time the edges of her lips turned up.
+
+She finished by saying, “He’s an old friend of mine.”
+
+“Did Lady Serrs tell you?”
+
+Helena lowered her project. “Eleanor tends to keep her own counsel. I wasn’t aware that she knew—that’s why I said it while she was gone. Did you tell her?”
+
+“Penn told her I was half French.”
+
+“And of course she would have questions. That girl is too curious again by half.” Lady Serrs-Comtess raised her sewing and finished pulling the thread through the stitch. “A background like yours must be a boon to your profession. You know how to talk to the titles, and you aren’t intimidated by them.”
+
+“It helps in some cases.”
+
+“No doubt it helps in this one. Not many people would be willing to stand in front of Erravold Aubrey-Serrs and ask him if he committed murder.”
+
+Haley pinched the bridge of his nose. “I wasn’t quite as indelicate as that—”
+
+“But that’s what it amounted to.”
+
+“I had to.”
+
+“I know, Inspector. I don’t blame you. Quite the opposite—I’m impressed by you. I’m impressed with your devotion to your work.”
+
+“I was under the impression you didn’t like policemen, Lady Serrs-Comtess.”
+
+“Oh, I think very little of the police. But I like justice.”
+
+The two exchanged glances. Helena was glad to see that Haley was repressing a smile, and Haley finally learned where Eleanor had gotten that spark in her eyes from.
+
+The baroness said, “Was Erravold able to explain himself to your satisfaction?”
+
+Haley sighed. “I’m afraid not.”
+
+“Oh?”
+
+“He has no alibi. When I asked him where he was, all he would say was ‘out.’ I pressed him for more details, but…”
+
+“My brother doesn’t like to be pressed.”
+
+“Lady Serrs-Comtess, do you think it’s possible he might have done it?”
+
+Helena reached for her scissors. “I think it’s possible. Only a fool would try to claim that Erravold doesn’t have the temper that such a murder would require, but all the same, I don’t think he did it.”
+
+“May I ask for your reasons?”
+
+“It’s nothing admissible in court.”
+
+“It would mean a lot to me.”
+
+The baroness raised her eyebrows. Then she placed her sewing down on the table beside her and put her hands in her lap.
+
+“I know what Erravold was doing that night. He was out walking.”
+
+“Walking?”
+
+“Yes. When he’s in the country, he whistles for those big hounds of his and walks for miles. When he’s in the city, he has to do without the hounds, but he still leaves the house, and he walks anywhere he wants, for as long as he can. It’s what he did when Celia died.”
+
+“Celia—Lady Serrs’ mother?”
+
+“My brother does not like to admit that he has the more tender emotions, and that’s the solution he’s found. He was extremely upset when Eleanor was taken. I have no doubt he wore out a pair of shoes in those hours. If you want, you could check the darkest and loneliest streets, but I think it’ll be hard to find a witness.”
+
+Haley was quiet as he considered this. Then he said, “May I ask what you were doing at that time, milady?”
+
+The baroness frowned. “I was equally upset, but I no longer have my brother’s stamina. I’m ashamed to admit it, but I took a sleeping draught to escape my worries for a few hours. Mrs. Park will be able to vouch for me.”
+
+“The baron wasn’t with you?”
+
+Lady Serrs-Comtess shook her head. The lines of her frown deepened. “I’m afraid my son and I don’t have a close relationship. Maybe I should have been there to comfort him, but that’s something Eleanor usually does. I suspect Edward went off to his club to drink away his troubles.” One edge of her lips twitched up again. “Perhaps the woman who took the sleeping draught shouldn’t judge.”
+
+Eleanor came back in the room with a tray full of drinks. The moment Helena saw her, she drew in a breath and sat more upright.
+
+“Eleanor,” she said, “Inspector Haley was just asking for my alibi.”
+
+Lucas, feeling like he’d been kicked, opened his mouth to protest or explain, but when Eleanor looked at him, he saw the light of a laugh in her eyes.
+
+She passed him his tea. “The interloper and his awkward questions.” Then she handed her aunt a cup of cocoa. “Did you have a good one?”
+
+“Do I need a good one? I don’t think Inspector Haley seriously considers me a suspect.”
+
+“I think he might. Why else would he ask?”
+
+“Child, how on earth am I supposed to kill someone with this stupid, weak, old body of mine?”
+
+“You could glare at them until they withered up and died of humiliation.”
+
+Haley almost spat out his tea. Still coughing, he covered his mouth with one hand, put the cup on the table, and pulled out his handkerchief to wipe his face.
+
+“Please, Inspector Haley, don’t encourage her,” Helena said. “For twenty-three years I’ve been trying to get her to behave, and she’s still as snide as the day she was born.”
+
+Haley chuckled. When he pulled the handkerchief away, he was still smiling.
+
+“And it wasn’t that funny,” the baroness said.
+
+“No, but I do like the idea that she was snide even as a baby.”
+
+The three of them talked as they finished their drinks, but Lady Serrs-Comtess kept the conversation away from anything that had to do with the case. Haley was glad. He wanted a few minutes respite, where the murder could wait and he didn’t have to think about the next time he would have to talk to Eleanor about everything he’d learned.
+
+Their cups were long empty by the time Edward sauntered in from the hall. He grinned when he saw the assembly.
+
+“Good evening, all.”
+
+Eleanor said, “How was the play?”
+
+“Too hard for me to follow. Very dramatic. I’m sure the critics will love it. Haley! You’re becoming a regular fixture here.”
+
+The inspector set his cup aside. “It’s getting late. I should be going.”
+
+“Not on my account, I hope. Good evening, Mama.” Edward walked behind the matron’s chair and kissed her on the cheek. “How are you feeling?”
+
+“Tired. Thank you for asking. Could you help me up to bed, Edward?”
+
+Edward and Eleanor stared at her.
+
+The baroness must have realized this unusual request needed a little justification. “I have all my sewing to carry, and it’s harder with a cane.”
+
+“Of…course, Mother.”
+
+Eleanor kept her head lowered so Edward wouldn’t see her smile. As far as justifications went, it was very little—almost microscopic—and even less convincing considering the baroness had insisted on carrying it all down by herself.
+
+Everyone stood as Lady Serrs-Comtess used the cane to push herself to her feet.
+
+“Eleanor, you’ll see the inspector out for me, won’t you?”
+
+“Yes, Aunt Helena.”
+
+“Well, good night, Haley,” Edward said as he crossed the room with his mother. “Maybe I’ll be able to chat with you the next time you come over.”
+
+“Good night, my lord.”
+
+Eleanor gestured to the door after she and Haley were alone. As they walked through the hall to the front door, Eleanor struggled to think of what to say. When the inspector picked up his hat, she decided that gracelessly blurting out anything was better than saying nothing.
+
+As he turned to her, she said in a rush, “Mr. Haley, are you busy tomorrow?”
+
+He watched her with his calm, impassive face.
+
+Eleanor blushed and studied the floor. “I meant—I don’t know. I don’t know if you work on Sundays.”
+
+“I try to avoid it, but sometimes a case demands it.”
+
+“No, I see. You need rest. Then…maybe Monday?”
+
+“Miss Serrs, is there’s something I can do for you?”
+
+She forced herself to look at him. “There’s someone I want you to meet.”
+
+“This is about the case, isn’t it?”
+
+“Yes.”
+
+Haley looked around the hall to confirm it was empty, then he took her arm, opened the door, and drew her out onto the porch.
+
+“Tell me everything,” he said.
+
+“We know where the malachite egg is.”
+
+“How?”
+
+“M-Mr. Penn—”
+
+“Penn! Is Ryce Penn still in contact with you?”
+
+“He came to apologize.”
+
+Haley turned away as his hand went to his forehead. He grit his teeth so hard his jaw ached. When he looked back at Eleanor, she was standing with her fingers laced together in front of her body. Her shoulders were curled.
+
+“He wanted to apologize to me,” she repeated in a mumble.
+
+The inspector let out a groan with his sigh. “It’s all right, Miss Serrs. Please go on.”
+
+She explained what happened and how Raphael had agreed to meet Haley.
+
+“And you want to be there?” he asked.
+
+“I promised him I would be. I think the police make him nervous.”
+
+Haley paused, then muttered, “Thank you for your help, Miss Serrs.”
+
+“When would you like to see him?”
+
+“Tomorrow. As soon as possible. Whatever time and place is convenient for him.”
+
+“It might be easier if you were to choose.”
+
+“All right. Eight o’clock, tomorrow evening. You said he works at Robin’s work yard?”
+
+“It won’t be open.”
+
+“No, but he’ll be familiar with the area. There’s a church on Robin and Archer. We can meet him there. If there’s any problems, please call and let me know.”
+
+“I will.”
+
+“Miss Serrs, if you’re going anyway, may I offer you a ride?”
+
+“Please. That would be helpful.”
+
+“I’ll be here to pick you up at seven-thirty.”
+
+“Could—could you pick me up at the edge of the park?”
+
+The inspector’s eyes narrowed. “Why?”
+
+“I don’t want to upset my father.”
+
+Haley could almost see the future by the light of his burning career.
+
+“If that’s what you want, Miss Serrs.” He nodded to her, then turned to go.
+
+From behind him, he heard, “Thank you, Mr. Haley.”
+
+As the inspector walked out to the street, he thought about how strange it was that you could hear the gratitude in people’s voices sometimes, the same way you could hear sadness or excitement.

@@ -1,0 +1,173 @@
+---
+id: 52a208c4-3912-5596-8acc-93f67e8ff0d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1284 - A Queen's Guards"
+slug: 0157-chapter-1284-a-queen-s-guards
+partOf: the-primal-hunter
+position: 157
+ownLength: 3511
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3218599/chapter-1284-a-queens-guards"
+royalRoadId: "3218599"
+---
+
+Within a large morphic pool, the True Royal sat in meditation as seven large eggs were placed around her, all of them slightly poking out of the pool as energy emanated from each.
+
+Just outside the pool stood a gathering of over a dozen gods of the Endless Empire, several of them True Royals, but the majority were Hive Queen goddesses of the Vespernat Lineage, there to observe and admire their leader as she underwent an important ritual.
+
+Some of the True Royals looked a bit nervous and skeptical, though, as one of them spoke up. “Seven is... too many, isn’t it?”
+
+“It’s more than I would dare recommend,” Odonestra sighed. Should Vesperia fail in her current endeavor, she was bound to suffer a severe soul injury that would take at least a few decades to heal, and that was with treasures provided by the Endless Empire to speed up the process.
+
+“Do not doubt Her Majesty,” a Godqueen from the Vespernat Lineage said, arms crossed as she seemed to have full confidence in her True Royal. Perhaps more than confidence, she merely hoped for Vesperia’s success, as the more capable the True Royal proved herself to be, the better it was for the Vespernat Lineage.
+
+As for what Vesperia was currently doing?
+
+Laying the foundation for future assets that would serve her all the way to godhood and beyond.
+
+After evolving to B-grade, Vesperia’s ability to nurture her Queen’s Guard had increased substantially, allowing her to display another aspect of what made True Royals so frightening.
+
+Ectognamorph Hive Queens had several tiers of creatures in their eusocial colonies, ranging from mere workers and drones to the Hive Queen herself. Just under the Hive Queen were the Queen’s Guards, who were meant to ensure the safety of their Hive Queen.
+
+For many Lineages, these Queen’s Guards were stronger combatants than even the Hive Queen herself, especially when they were all working together. Vesperia also had Queen’s Guards while in C-grade, and they had been her strongest creations by far, but they had still been very limited.
+
+Their main problem was that they weren’t truly sapient. They were close, incredibly close, but they didn’t quite reach that level. Due to their limited faculties, they needed all their power to be directly granted by the Hive Queen herself, limiting them in both variety and power.
+
+In B-grade, that changed, at least for True Royals. They gained the ability to create their true Queen’s Guards. Rather than being mere top-tier versions of drones, they became something fundamentally different. Something far more real.
+
+They became truly sapient creatures, with independent thoughts and feelings, not much different from Guardians summoned by some people in the multiverse. Their existence remained tied to their Hive Queen, yes, and loyalty was not something they even had the capabilities to question, but compared to being drones, they were definitely something entirely else.
+
+Perhaps most importantly, due to their independence in thought and actions, they no longer needed to be granted all their power directly by their Hive Queen. Sure, they were granted power by her, but they were capable of diversifying themselves after creation.
+
+Most often, they would end up specializing in various ways. Some could become stronger warriors, relying on physical combat, while others could develop their skills in magic, becoming mages. Others would pick up other weapons, including those made by enlightened species, with very rare occasions even having Queen’s Guards adopting high-level technology into their Paths.
+
+And that was honestly the key word: Paths. Unlike other creations from a Hive Queen, her guards had the ability to forge their own Paths, comprehend their own concepts, develop their own fighting styles, and even get their own skills and whatnot. There were even cases where Queen’s Guards proved to be extremely talented, reaching impressive levels of power and actually getting bottlenecked by their True Royal queen. Because in the end, they were still her spawn.
+
+These Queen’s Guards would all be created at once and stick by their Hive Queen for the rest of their existence, living and dying together. Though, should a Queen’s Guard die, the True Royal Hive Queen could regenerate them once more. At a relatively steep cost, due to the complexity of the Queen’s Guard, though.
+
+The process of creating them was exactly this ritual, which had been passed down since the very first generation of True Royals. The seven eggs Vesperia used were the vessels for her Queen’s Guards and had been carefully created by the Endless Empire precisely for an event like this. Vesperia could have made the eggs herself, even though it would have taken a long time, but it wasn’t a requirement. She technically didn’t need the morphic pool either; it just made the process smoother and easier all around.
+
+Something all the True Royals observing her believed she truly needed.
+
+“I am not doubting her talent, just that I’m not sure this is the time to test one’s boundaries,” another True Royal sighed, shaking her head. “In the unfortunate event she experiences failure, I fear it may leave a lasting impression, negatively affecting her confidence and future.”
+
+“She has the right to try,” Odonestra simply said, not arguing for or against, as she, in truth, was also doubtful Vesperia would succeed.
+
+There was no inherent limit to how many Queen’s Guards a True Royal could create. The more the better, naturally, but the Hive Queen herself did serve as a limiting factor for how many she was capable of creating.
+
+In many ways, this ritual was also seen as a way to determine potential and talent among True Royal Hive Queens. All of them were naturally supremely talented simply on account of their Lineage, but there was still a difference in talent between them.
+
+The more Queen’s Guards a True Royal could create, the better their potential, at least that was the general rule. For the vast majority, they could create four, with no one falling below this number, as they were all supremely talented by general multiversal standards. This was true for in excess of nine out of ten, and not because these True Royals didn’t try to make more.
+
+By nature, True Royals were arrogant creatures, so many believed themselves far more capable than they actually were. Hence, many tried to create more Queen’s Guards than they could, failing in the process and thus forced to take a step back and be more realistic.
+
+Most realized right away when they had bitten off more than they could chew, quickly stopping the ritual, lessening any backlash from failure. The True Royals who tried to go way beyond their potential would also fail right away, without suffering the worst backlash.
+
+Due to that, perhaps a bit paradoxically, the riskiest rituals tended to be for those who were actually standout talents.
+
+While most could indeed only create four Queen’s Guards, some successfully created five. These were viewed as elite True Royals and often served as leaders of their generation. Of the less than one out of ten that managed to create more than four Queen’s Guards, nearly everyone managed five, with the statistics of those making more not even reaching one in ten thousand True Royals.
+
+Odonestra herself was one such talent, having six Queen’s Guards, all of them more than powerful enough in their own right to slaughter Godkings and Godqueens. All the leaders among the True Royal Hive Queen goddesses had six Queen’s Guards, except for four, who were viewed as the hidden power of the Endless Empire. They were the ones who served as the main reason why Rigoria had never dared a direct invasion, a quartet known as the Endless Empresses.
+
+These four all had seven Queen’s Guards. Besides them, only a handful of other True Royals throughout history had managed to create seven, none of whom ever successfully achieved godhood. Even with such supreme talent, breaking through to godhood was never a guarantee, and the Path to ascension was fraught with danger and uncertainty.
+
+In all those cases where someone successfully created seven Royal Guards, the True Royals had been trained from birth to reach their full potential, with some even having Bloodlines or Transcendent skills allowing them to stand head and shoulders above everyone else in their generation. What’s more, they tended to have been on the older side, having purposefully delayed their progress to reach B-grade in their most optimal state possible.
+
+Vesperia was very different. She was incredibly young, not even a century old yet, counting the time she’d insisted on spending in Nevermore. Going to the World Wonder was a risk the leadership of the Endless Empire didn’t agree with, but Vesperia seemed to be almost in a rush compared to what they’d hoped.
+
+To them, if she took a few millennia to reach B-grade, it wouldn’t have mattered in the slightest. In fact, they probably would have preferred it. Unfortunately, as a fellow True Royal leading her own Lineage, not even the most powerful gods of the Endless Empire had the right to tell her what she could and couldn’t do.
+
+Her seemingly rushed evolution and lack of having grown up with the guidance of the Endless Empire were why Odonestra remained skeptical as she observed the ritual. A small part of her had hoped to see Vesperia fail instantly, realized she’d tried to do more than she could, and tempered her expectations.
+
+Yet, at the same time, she wanted to see if Vesperia could truly do it. As the god who had spent the most time with the Vespernat True Royal, Odonestra knew that the young Hive Queen was never to be underestimated. She had exceeded expectations repeatedly, and the more potential she proved herself to have, the better it was for the Endless Empire.
+
+Right then, all the gods were shaken awake as there was a change in the ritual chamber. Vesperia, sitting inside the morphic pool, frowned, and for a moment her energy seemed to grow unstable, as if something had annoyed or disturbed her concentration.
+
+A few of the gods from the Vespernat Lineage started to look incredibly worried, but they quickly squashed any doubts and tried to stay confident in their True Royal. Odonestra used her senses to inspect the ritual, finding that, fortunately, nothing seemed to have gone wrong despite the small hiccup.
+
+The next half an hour passed by uneventfully as complex runic scriptures spread across all the large human-sized eggs in the pool. These runes looked very different from what was usually seen in magic circles or formations, the writing cursive, weaving and winding around themselves in patterns that didn’t even seem physically possible.
+
+Another hour passed, and Vesperia showed no signs of exhaustion, despite how long it had been. She simply sat there with her eyes closed, her mind fully preoccupied with creating the lives of the seven guards who would, hopefully, serve her for the rest of eternity.
+
+Finally, the ritual reached its last stage as all the eggs were fully covered with runes. Each echoed with powerful life energy, but that didn’t mean they were successes. While all ectognamorphs, even the lowest clones, had Truesouls, many still didn’t even consider them genuine lifeforms. They lacked certain qualities that the True Royal was meant to infuse into her Queen’s Guards, and failure was very much an option until the final stage.
+
+Even in instances where talented True Royals managed to infuse all the eggs, it wasn’t odd to discover that some of the Queen’s Guards weren’t successes. Some had only partly formed egos, some couldn’t show true intelligence, some had unstable souls, resulting in a limited lifespan, and, in some circumstances, the Queen’s Guard was effectively stillborn, the soul and body unable to merge successfully.
+
+The more eggs a True Royal Hive Queen managed to infuse during the ritual, the higher the chance one or more weren’t viable. That’s why, even as the energy in the room rapidly wound down, this stage of the ritual completed, nobody dared to relax.
+
+Vesperia slowly opened her eyes. She looked at the many onlookers, nodded to confirm she was in a fine state, before she stood up in the viscous liquid, allowing it to drip off her body as she moved over and stood in front of the first egg.
+
+Placing a palm on it, she gave the order of awakening, and a moment later, the egg started breaking. With fleshy cracks, it slowly opened like a blooming flower, revealing a fully grown female figure within that looked somewhat similar to Vesperia herself.
+
+With bated breath, all the onlookers watched as the newborn Queen’s Guard opened her eyes and looked toward Vesperia. Their eyes met for a moment before the newborn spoke.
+
+“Your Majesty.”
+
+The relief in the room was palpable at seeing the first egg hatch successfully. On rare occasions, all the eggs proved not to be viable, in which case the True Royal would have to start all over after a long period of rest to recover, so seeing one success was a great sign.
+
+Vesperia seemed to be the least nervous as she acknowledged her firstborn Queen's Guard and moved over to the next egg, where she repeated the process of placing her palm in it. A few moments later, that egg also opened, revealing yet another familiar-looking creature. She, too, opened her eyes shortly and bowed.
+
+“Your Majesty.”
+
+Like so, Vesperia went through the pool one by one, awakening her Queen’s Guard. The third, fourth, and fifth all proceeded smoothly, much to everyone’s relief. With five Queen’s Guard successfully born, this could also be considered a success that many True Royals would be happy with, but Vesperia simply moved on to the sixth in a casual manner.
+
+When even the sixth was a success, Odonestra nodded with a big smile. Vesperia had already surpassed expectations and achieved a result everyone would praise her for, but that didn’t mean they weren’t all curious to see if even a seventh guard would be born.
+
+With careful movements and under the gaze of all her sisters and newborn guards, Vesperia moved in front of the seventh and final egg. As the six times before, she placed a palm on it and infused her energy, ordering her final Queen’s Guard to awaken.
+
+As with all times prior, the egg opened like a blooming flower, revealing the female body within. A second passed, the tension high as ever, before the seventh guard opened her eyes, looked at Vesperia, and bowed her head.
+
+“Your Majesty.”
+
+Odonestra smiled, scanning all seven guards with her senses, quickly confirming that none of them had any problems. What’s more, they were all in great condition, not at all lacking in power despite just being born.
+
+One by one, the Queen’s Guards proceeded to fully absorb the eggs they had been born from, each changing shape to form loose robes that they would later be able to model into whatever shape they desired.
+
+Vesperia watched on with a smile of her own as she allowed them to do their thing. After a little while, she looked toward the onlooking gods, thanked them for having come, and subtly let them know that she would like some privacy to better get acquainted with her new lifelong servants.
+
+Only Odonestra remained behind by the time all the Queen’s Guards were done absorbing the eggs they had been born from. As they each got done, they greeted each other, out of politeness more than anything, as they all innately knew what they were and the purpose of their existences. Still, that didn’t mean they couldn’t show individuality; in fact, it was hoped they would.
+
+Of course, the hive would always be above anything else, but a bit of personality had never hurt anyone.
+
+Looking at Vesperia surrounded by her Queen’s Guards, they all looked like sisters, perhaps even twins. A definite strategic advantage, as the Queen’s Guard all had the ability to mimic Vesperia’s aura and would look identical to her in their full combat forms, allowing them to act as perfect bait to protect their queen.
+
+Giving the Queen’s Guard a moment to themselves, Vesperia exited the morphic pool and walked up to stand beside Odonestra. The two shared a look as the divine True Royal nodded her head.
+
+“I’ll admit defeat this time around. I shouldn’t have questioned your capabilities,” she said with a smile. “Though I do have to question... something disturbed you about midway through. What happened?”
+
+Vesperia looked at her seven guards as she sighed. “I just felt a moment of regret, which made my thoughts wander.”
+
+“Oh?” Odonestra exclaimed. “What about?”
+
+“I should have tried for eight,” Vesperia let out a sigh, making Odonestra stare at her for several seconds.
+
+“Don’t get me wrong, I’m not saying I could have definitely done it, but the difficulty struck me as being at a comfortable level with seven,” Vesperia explained. “I know every additional one makes it exponentially harder, but I would have at least liked to give it a try. Not that I regret what I gained.”
+
+Odonestra continued staring at Vesperia before she couldn’t help but chuckle. The Vespernat True Royal was indeed as arrogant as all of them, if not more so.
+
+“I wouldn’t complain either, but ensure that your new guards get a good start in life,” Odonestra said.
+
+“Don’t worry,” Vesperia assured her. “They are my Queen’s Guard; I’m certain they will not disappoint.”
+
+The two stood together for a bit longer before all the Queen’s Guards were fully prepared. As one unit, they approached Vesperia and bowed their heads as the firstborn stepped forward and spoke.
+
+“Your Majesty, on behalf of us all, I thank you for granting us life, and despite it being nothing more than a sentimental gesture, we all wish to reiterate our absolute loyalty and swear an oath of allegiance,” the Queen’s Guard spoke, her speech pattern surprisingly elaborate, showing that she definitely possessed a high level of intelligence despite just being born.
+
+“I accept your oath and look forward to seeing what you shall all become,” Vesperia said with a smile. “I will not dictate any of your Paths but allow you time to discover your own talents and develop into the beings you want to be. Follow me, and I shall also swear that the only one you’ll ever need to kneel before is this queen.”
+
+“Yes, your Majesty,” all seven said in unison, making Odonestra nod in approval. They all seemed like good seeds, and considering Vesperia’s own personal combat prowess... she wasn’t sure who or what being her own level stood a chance should it come to blows.
+
+Vesperia nodded one final time before saying a few words to her Queen’s Guards, after which she brought them into her Inner Hive – the small dimension she stored within herself, containing an entire army.
+
+“I thank you and the other elders for your assistance this time,” Vesperia said to Odonestra. “And I hope you will not protest when I say that I wish to act selfishly once more.”
+
+Odonestra just chuckled and shook her head. “No need to say anything; we all expected and even counted on it. Based on current evaluations, the Records revolving around this Seat of the Exalted Prima event mean it’s something we cannot afford to ignore, and we would be remiss if we did not participate. Though I do hope that rather than merely return to the same galaxy...”
+
+“Don’t worry,” Vesperia calmed the other True Royal. “I shall go there initially, but when the true event begins, I doubt they’ll need my assistance. Instead, I’m sure there are plenty of other galaxies that would appreciate my presence and allow my Queen’s Guard to exercise and discover themselves a little.”
+
+“Glad to hear we are in agreement,” Odonestra nodded in approval. “With you leading the charge, the Endless Empire hopes to reap quite the benefits from this event, though I will warn you... We are far from the only faction with these thoughts, and competition will be steep. Also, while I do have confidence in your abilities, there are some characters you should do all you can to avoid coming into conflict with.”
+
+Vesperia allowed Odonestra to continue as she summoned a small list. Odonestra handed Vesperia the list as she started reading it, as the other True Royal spoke.
+
+“Besides the obvious, there are a few people to avoid above all others. Many of the names you should already recognize from the Nevermore Leaderboards, but allow me to reiterate. Lopas, the Beast of Sloth, Wintermaul, an elemental we have limited information on, and the Chosen of Lucenti, who has already proven their Nevermore performance was no fluke. The Holy Church also has some powerful figures this time around, including someone who is slated to, and may already have become, the Chosen of the Holy Son. However, more than anything, there is one character you must avoid at all costs: the Eastbound Monk.”

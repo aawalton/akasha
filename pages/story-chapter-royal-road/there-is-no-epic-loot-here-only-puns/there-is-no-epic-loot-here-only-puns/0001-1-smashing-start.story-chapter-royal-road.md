@@ -1,0 +1,193 @@
+---
+id: 3a255a8a-5ebf-531c-8d01-6e9ee8c503b6
+page-type-slug: story-chapter-royal-road
+title: "1: Smashing Start"
+slug: 0001-1-smashing-start
+partOf: there-is-no-epic-loot-here-only-puns
+position: 1
+ownLength: 1348
+unit: words
+publishedAt: 2018-01-07
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185054/1-smashing-start"
+royalRoadId: "185054"
+---
+
+There was a name.
+
+It was hers but it had been traded away. A second chance she was promised by the small, pleased child. He wasn’t a child, just what some sanity-chipping being decided what a child should look like to converse with her.
+
+Perhaps it derived some perverse pleasure from her squirming consciousness.
+
+“A name for a chance? I’m being very fair,” he promised. She knew it was a trick.
+
+“Of course it is, that’s the ‘name’ of the game,” the child had laughed with delight. She had felt stars shiver at the noise.
+
+“Now… maybe we’ll talk again when you become interesting. Now, I have to go meet the others, maybe you’ll meet them one day?” the thing said casually.
+
+Then she twisted, breaking into a thousand shards that shattered into countless motes that sundered into the basic existence of the universe.
+
+Then she was slapped together with little care and left in the smallest...darkest….room.
+
+She turned and stared up the single tunnel that was quickly digging itself until it stopped and sunlight pierced her.
+
+She turned, trying to move, slightly moving forward with no real sensation.
+
+Then with a moment of shock, she looked down.
+
+There was nothing there. Empty air where a body and legs should have been.
+
+She turned.
+
+A pulsing orange orb about the size of an orange sat encrusted in a single stalagmite. The sunlight hitting the orb made the room glow with light.
+
+She moved closer and peered into the orb.
+
+The light showed a tiny shadow in the amber like glass.
+
+It was a perfectly round object that pulsed with a tiny light. On that orb, the fainting symbol could be seen.
+
+4
+
+She shuddered.
+
+Four?
+
+This thing was… her?
+
+She was just a number to that thing. Not the first… definitely not the last.
+
+Well… at least she wasn’t a tree or a frog!
+
+Hopeless optimism was better than screaming fear was what she told herself.
+
+The house may be on fire but at least she was warm!
+
+Ugh… she was going to die here as some orb thing.
+
+Without a name? No, she needed a name, something to defined herself and used to hold herself together with.
+
+She pulled something that seemed to float by as she just stared at the orb.
+
+Delta.
+
+It was kinda four-ish. It was better than Orby or screaming-wailing-ghost-girl. Definitely better than just ‘victim number four’.
+
+So she, Delta, go to work on the next problem she had to tackle.
+
+Mostly, why did the creepy-demon-child thing think she was going to be interesting as… an orb?
+
+Delta looked about and saw the walls were hard packed dirt, loose stones and not a lot else.
+
+Charming, she was underground, a ghost, and bound to an orb. Delta tried to march right up the tunnel but with a small pause saw a completely white wall where the sun was a moment ago.
+
+She took ten steps back and the vision of some dense grass hills appeared.
+
+Delta took a step forward, the outside world vanished.
+
+One step back and it reappeared.
+
+Delta inhaled and then swallowed a slight scream as she promptly turned around and floated back to the orb.
+
+So, she couldn’t even leave.
+
+She had to stay underground, stuck in some void state to hang about with some ominous globe of eerily light.
+
+She was either a vampire, ghost, or a goth in the making. Delta hoped for a goth, she could really use some anger right now to keep her from going insane.
+
+“Well… it’s just me… and me?” Delta asked aloud and the orb pulsed again but then went quiet.
+
+“Hm… I can’t leave, this is the only room and you’re centre figure. Logic dictates you’re the key to my problems, logic also dictates I should have legs but let’s ignore that little factoid,” Delta spoke to the orb with a serious tone to her words.
+
+“I can’t move you, I can’t bash my head on you, you’re not exactly stimulating this conversation. I must admit, I’m kinda lost on what the frick I’m supposed to do with you!” Delta yelled.
+
+The Orb remained smug in its silence.
+
+“Fine, you know what, orb-me, you’re a jackass! A mongrel, a low-life, a charlatan! A hoax, a poser, a bad move knock-off prop!” Delta hissed.
+
+The orb pulsed, maybe in anger but Delta pushed it, needing any form of contact.
+
+“You, good me, are the worst orb I have ever heard of,” Delta sniffed.
+
+The Orb was glowing fully now.
+
+“Your father was a cow and your mother a goblin with warts and no tee-” Delta was cut off as the orb let loose one final pulse and as if sighing with relief, the glow fled the orb and swirled around the room.
+
+The comet of orange dust and light encircled one corner and took shape with before Delta.
+
+It was small, haunched, and green.
+
+“Oh...no,” Delta whispered as a goblin sniffed the air before spotting the Orb in its odd stone pedestal.
+
+“Job?” it grunted.
+
+Delta could only crawl away, not making any noise, mind reverting to some tiny mouse state.
+
+She had nobody but that thought only added to her panic instead of easing it. What if she couldn’t feel anything anymore?!
+
+Delta heaved as the goblin blinked.
+
+“Rooms?” it offered. Delta just stared at where her hands should be.
+
+How would she hold sandwiches? How would she type on the internet?
+
+Wait… what if there was no internet?
+
+Delta howled and the goblin ran off, shrieking as the Orb crackling with energy.
+
+“ME GUARD DOOR!” it screamed with fear.
+
+Delta panted, feeling quite tired… she should… just… rest for a while.
+
+The Orb seemed to agree and went dormant.
+
+Delta felt her head hit the floor and felt a twinge of pain.
+
+Good… that was still a thing.
+
+---
+
+Goblin, until further notice, sighed with relief as the everlasting master of his new abode seemed to rest. He had been rather silly, suggesting he knew what the core, all hail its greatness, should do next.
+
+Such arrogance on his part. Goblin watched the tunnel, not expecting any trouble. Surely, the great one would have traps ready. They must be so good, he couldn’t spot any sign of them!
+
+Such a powerful master, so wise, so cunning.
+
+Goblin grinned and felt excited that he was one of the first, if he did well, perhaps he could receive a boss promotion...oh how much he desired such a lofty goal.
+
+“Me good boss,” Goblin said with pride.
+
+That was when the entrance was breached by two more goblins. Runts, even a dungeon Goblin like himself could see it.
+
+They squawked and begged for protection.
+
+Goblin bared his teeth, not wanting such riff-raff near his grandmaster and holy object. The goblins pleaded harder and voices came not far off.
+
+Deep ones, angry ones, eager ones.
+
+Goblin frowned. As wonderful as the great core was… being so fresh, it was not prepared for anything more than beasts…
+
+At least that’s what the walls whispered to Goblin. His tie to the dungeon saying that Delta… the great one was not ready for this.
+
+Snarling, he grabbed both goblins and threw them down the tunnel.
+
+If they hurried, they could make a bargain. A deal so soon was… well, he didn’t know. Deals with a dungeon core were handled with care, poise, elegance, intelligence, and with great thought.
+
+---
+
+Delta opened one bleary eye at the begging goblins making weird yowling noises.
+
+She knew… somehow, that they wanted something.
+
+“Sure… whatever… let me sleep,” she mumbled and curled up to go back to slumber.
+
+She did not see the glow that filled the two tiny goblins.
+
+Nor did she see them grow and rip out of their old furs as muscles bulged and fangs grew.
+
+Delta dreamed and smiled as the great cake god blessed her with deserts.
+
+She drooled as bloodshed filled her dungeon that very same day she was created.
+
+It was a record for this world. Not that Delta would ever know.
+
+----

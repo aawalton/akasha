@@ -1,0 +1,137 @@
+---
+id: 52ff9d16-0a7a-5bd7-bb8a-6b5c9b25703c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1211 - A Chosen's Lesson"
+slug: 0083-chapter-1211-a-chosen-s-lesson
+partOf: the-primal-hunter
+position: 83
+ownLength: 2834
+unit: words
+ownProgress: 2834
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2812407/chapter-1211-a-chosens-lesson"
+royalRoadId: "2812407"
+markedReadAt: "2026-06-29T19:31:53.776Z"
+---
+
+Jake watched the already filled-to-the-brim auditorium, his back feeling particularly sweaty at the sight. He saw the excitement of the attendees as they chatted among themselves, all of them full of smiles as they socialized.
+
+He was genuinely surprised at the diversity of races and factions who would be attending, even though he had been told by the Viper that most factions would be interested in having one of their young D-grade prospects attend.
+
+From his understanding, it would have been viewed as embarrassing if they didn’t have anyone attend, as that would be proof of their lacking political clout. Of course, none of this mattered for what was about to happen, besides maybe making Jake slightly more nervous, as these people were clearly considered geniuses of their grade, so they should have pretty high standards when it came to teachers.
+
+Taking a deep breath, Jake kept observing until it was time for him to take center stage. One thing he had noticed was that the good teachers consistently showed up right on time. Not a minute too early or late, but exactly on the dot for when the lesson was meant to begin. It was a minor thing, but Jake would definitely do the same.
+
+Mentally going over his preparations one last time, Jake found everything in place as it should be. He still had no way of knowing if what he had planned would produce good results and lead to a good lesson, but he was confident this was his best shot.
+
+One of the things he had agonized a lot over was exactly what to teach. Nearly all alchemists employed formations and rituals to some extent, but it was an incredibly broad field of study with numerous branches and methodologies. Finding something broad enough yet also not too simple had been incredibly difficult, but Jake believed he had identified an area where he could offer a unique perspective.
+
+Not to say he didn’t remain incredibly nervous about whether these D-grades would be able to make use of his lesson, but Jake had made his decision. He had also chosen this because even if it proved to be useless to some students, the mere act of Jake teaching it should prove beneficial.
+
+Soon enough, the time for Jake to make his entrance had arrived. Checking himself over one last time, Jake made sure everything was as it should be. He had gotten a new outfit on the behest of Villy to look more presentable so he wouldn’t show up in full combat gear, which he definitely would have without the Viper’s influence.
+
+With a final deep breath, Jake stopped watching the screen showing the auditorium and stepped onto the small teleportation circle as he went to teach his very first lesson in the Academy… and perhaps his last, dependent on how it went.
+
+--
+
+“Were you at the reveal ceremony?” Vendoli asked while occasionally throwing glances toward the podium down below.
+
+“No, but one of my older brothers was,” the female beastkin called Chalette answered as she also joined him in throwing looks to catch the exact moment the Chosen arrived. “He and everyone else definitely took a moment to realize the Malefic One’s Chosen was indeed a human, and he even complained about how it didn’t make any sense.”
+
+“I bet he’s shut up now,” Vendoli chuckled, shaking his head.
+
+“Well, I haven’t heard him say anything since Nevermore,” the beastkin also giggled, clearly still not very fond of her arrogant and uptight older brother.
+
+Vendoli also wasn’t a fan of the guy either, but her brother was approaching B-grade, while Vendoli was still only mid-tier D-grade himself, so he couldn’t say or not much. At least not yet.
+
+As a pure human who’d grown up primarily surrounded by monsters and those who had descended from monsters, Vendoli didn’t have the best childhood, as he was a lot weaker in his younger days. His parents hadn’t been of a high grade either, so he was born inheriting no Records of note, meaning he had to start from F-grade and work his way up without any natural growth to speak of.
+
+This meant he was always the weakest while growing up, and as he needed both a class and profession to make any kind of progress, he sometimes felt hopelessly behind. However, he’d kept working hard, and eventually, the local city lord had noticed his talents and referred him to the Academy. Not out of kindness, mind you, but because the Academy offered ample rewards to anyone who referred successful applicants.
+
+Not that Vendoli wasn’t eternally grateful, as the second he’d joined the Order and the Academy, he’d felt his status change. Everyone looked at him differently now that he was a member of a Primordial faction. This had even happened slightly before the Malefic One returned to the Order, and it had only gotten better since.
+
+What his peers back home hadn’t known was that Vendoli hadn’t done particularly well in the Order in the beginning. Without any backing, he always had to be careful about not offending others, and his race hadn’t helped him either, as the Order lacked humans compared to other races. He had often felt isolated and alone, and group projects had nearly always been solo endeavors.
+
+However, even that had changed when the Chosen of the Malefic Viper had let himself be known. Everyone had expected him to be a dragonkin or at least a scalekin of some kind, but instead, a pure human had appeared. With time, he had only proven himself more and more, resulting in a shift in how members of the Order viewed humans in general.
+
+Vendoli’s treatment improved, people wanted to talk to him, and he had even noticed a significant uptick in the number of human applicants to both the Order and the Academy. To say he was grateful to the Chosen of the Malefic One was an understatement, to say the least, as he felt that his fellow human had already changed his life despite Vendoli having never even met his idol.
+
+All that would change today, as he would finally lay eyes on the most notable C-grade of the multiverse and the person in the world Vendoli admired the most.
+
+“What do you think he’ll teach?” Vendoli asked with excitement as his own thoughts only hyped him up further.
+
+“Does it even matter?” Chalette asked in return with a chuckle. “I would be fine if he just told a story about his travels to Nevermore or gave some basic crafting advice. My father kept reiterating that having too many expectations would only lead to disappointment. He said that the Chosen’s Path is clearly one of combat first and foremost, and that he likely wouldn’t have wasted time learning how to teach, as that would just have been a waste of time.”
+
+“I’m not expecting the Chosen to become some expert teacher overnight, I’m just curious,” Vendoli said, shaking his head. “And for the Record, I would be more than happy to have him just talk about himself. I haven’t been able to find much information about the Chosen’s background outside of him being a Progenitor in the new universe.”
+
+“Not much, no,” Chalette said with a shrug.
+
+“No matter what, he must have been an outstanding and influential figure even before the integration,” Vendoli nodded.
+
+“Obviously,” Chalette scoffed at the most obvious statement of the era. “I wouldn’t be surprised if he already ruled most of his planet even befo-“
+
+Chalette shut up halfway through her sentence, as in an instant, the entire auditorium fell silent. The teleportation circle down below had lit up, signifying it was about to activate.
+
+The two of them both looked with bated breath as the faint ripples of space brought with them a single human who appeared in the middle of the platform below. He wore an elaborate robe with the motif of the Malefic Viper in a design that usually only those with the highest of status, like the Hallmaster, would be allowed to wear. It was slightly altered, though, giving it a personal flair that likely belonged only to the Chosen.
+
+On his face, he wore the signature mask many had come to associate with the Chosen, hiding his face entirely while only revealing two eyes that made a shiver run down Vendoli’s back.
+
+The Chosen allowed the silence to persist for a few seconds before he spoke, his voice imbued with power as it echoed throughout the entire auditorium.
+
+“I do not believe introductions are in order, but following procedure, I shall do so anyway,” he spoke, his tone casual. “I’m Lord Thayne, the Chosen of the Malefic Viper, and today I’ve been asked to teach you all for a few hours.”
+
+He walked across the platform below as he waved his hand. Upon doing so, a large magic circle appeared, suspended in the air. It was glowing with dark green runes, reminiscent of the malefic magic shown by the most faithful followers of the Viper.
+
+“Today’s lesson will revolve around formations and ritual magic, more specifically, the magic circles used therein,” the Chosen continued as he stopped walking. “In the interest of saving time, I shall proceed with the assumption that most of you have a foundational understanding of magic circles, including how to draw one. I do not expect you to be a ritual master or formation expert, but you should at least be able to draw straight lines of mana… and if you can’t, I seriously question how you even managed to be here today.”
+
+Vendoli was pretty sure that was a joke, but he was too nervous and tense to properly register it as he was too busy taking in the words of the Chosen. He felt that if he missed a single utterance, it would be a horrific loss, and from the silence of the room, he was not the only one.
+
+Naturally, the Chosen did not let the silence affect him as he continued.
+
+“In truth, what I’ll cover here today cannot only be applied to magic circles, but all forms of mana-based actions in general,” Lord Thayne spoke, his words definitely getting some of the people to get out of their daze of amazement and listen more to his words.
+
+“From my personal experience, most circles and freeform magic operate with the assumption of power nodes that serve as distributors of mana within. No, I’m not talking about the catalysts providing the energy itself, but the minor repositories of mana stored within an in-progress spell or magic circle that radiate mana to cover the minor ley-lines within.”
+
+While speaking, the Chosen continued using his magic to alter and expand the magic circle he’d summoned before. He highlighted a few dozen smaller nodes within the magic circle, as most students unconsciously nodded along.
+
+It was common knowledge that when creating magic circles, one created these nodes of mana to then distribute this mana to the rest of the circle using the lines drawn within. It could be compared to digging a pattern in the sand, and then making small holes spaced throughout that were each filled with water that could then flow through the rest of the lines dug in the sand, connecting all the different nodes to form a complete circle.
+
+This was a simplification, but not too far off, and the most commonly accepted way of doing things, primarily as it offered great stability and allowed one to more easily pinpoint faults within the magic circle based on which node hadn’t correctly been able to distribute its mana.
+
+“This method is the most effective and stable in most situations, but it’s also limited in adaptability and speed of deployment. Most do not view this as a problem, as when setting up a complex formation or magic circle, time is a resource one has in abundance. However, there are also many scenarios where having an alternative method may prove more beneficial. However, I will warn you that this method is not an easy one and requires something I doubt many of you possess.”
+
+The Chosen lifted his hand as the entire magic circle exploded with mana in an instant, every highlighted section and ley-line lighting up at once.
+
+“Absolute control.”
+
+With an equally effortless motion, the entire magic circle was sucked dry of energy instantaneously as Lord Thayne finally got to what today’s lesson would be about.
+
+“What I will attempt to teach you all now is a method for holistic mana infusion of the entire magic circle or spell at once,” he said while walking back and forth on the platform below, making quite a few open their eyes wide. “This will be done using one’s presence as a medium to perceive the entire construct one wishes to infuse. In the same vein that one can summon magic anywhere within the range of one’s presence, so can one infuse mana into an entire magic circle that’s encompassed by one’s presence.”
+
+The Chosen once more stopped walking and looked up at the crowd, and Vendoli even felt as if they made eye contact for a moment.
+
+“I believe a proper demonstration of what I’m talking about is in order. It’s not one to replicate, but merely to serve as inspiration. Also, a friendly reminder… remain calm and do not panic.”
+
+Vendoli was not sure what the Chosen meant at first… but in the very next second, he understood. For a brief moment, it felt as if the entire world froze, and all he could see was the lone human standing down on the platform below. A deep sense of pressure weighed down on him, and a profound instinctual fear made him shake all over as the full presence of the Chosen of the Malefic Viper washed over him.
+
+All of those present had been close to C-grades before, and it wasn’t uncommon for them to experience the full auras of these C-grades either… but this was on a whole other level. It felt fundamentally different, and if Vendoli didn’t know better, he would never have believed this was the presence of a C-grade.
+
+Lord Thayne seemingly gave them all a few moments to adapt, and just as Vendoli himself had calmed down along with most of the others in the room, their teacher continued the lesson.
+
+“Exuding one’s aura in combat, much less while crafting, has little effect usually, but that’s only if the aura is used without purpose and not as a medium to affect the world around oneself. The Legacy skill known as Pride of the Malefic Viper is built on this concept, but is far from a requirement to do something as simple as this.”
+
+In the very next moment, the movement of mana could be felt all over the auditorium. Several crystalline bolts of mana appeared at each of the attendees, glowing with energy.
+
+While doing this, the Chosen had also taken out a formation disc that he tossed into the air. It instantly drew a large formation that lacked only the required energy to activate.
+
+“In the same vein that your mana can be summoned in a large area, so can this be done.”
+
+Lifting his hand, the Chosen clenched it, making all the crystalline bolts turn to pure energy, and this energy then flew down toward the center stage. In an instant, it all gathered and entered the large magic circle. Every node was fueled at once, every ley-line infused in tandem with the rest, and mere seconds later, the entire magic circle was fully fueled.
+
+It was all a display of power and competence that clearly no one would expect any of them to be capable of replicating… but it was surely enough to fully catch the attention of all the people present, as many were now interested not only because of the person speaking, but because of what he was saying.
+
+“Evidently, I don’t expect you to be able to deploy any of what I talk about in practice any time soon, but I hope it can serve as inspiration for your Paths going forward. I realize one of the reasons why something like this is difficult, not only because many find it unnecessary, but simply because the vast majority do not meet the requirements to pull it off.”
+
+With another motion of his hands, the Chosen of the Malefic Viper dispelled all the theatrics until it was once more just him on the stage with a thousand students looking at him with eyes of admiration and interest.
+
+“This method takes a lot of practice and the right kind of talent and Path, but I believe that if you learn it, it will prove massively beneficial in the future for any aspiring spellcasters. So let us truly begin in earnest, and at the end of today, if you walk away with anything, let it be this: never underestimate the importance of the Perception stat.”

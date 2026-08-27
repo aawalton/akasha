@@ -1,0 +1,121 @@
+---
+id: b75f157f-88a0-5150-ab97-88b8961251db
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1287 - A Successful Upgrade = Scammed (?)"
+slug: 0160-chapter-1287-a-successful-upgrade-scammed
+partOf: the-primal-hunter
+position: 160
+ownLength: 2841
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3239186/chapter-1287-a-successful-upgrade-scammed"
+royalRoadId: "3239186"
+---
+
+Jake naturally had high expectations for his upgraded Alchemist’s Purification skill. If he hadn’t, he wouldn’t have put so much effort into upgrading it and making it work with his Lesser Primeval Energy.
+
+However, that didn’t mean he wasn’t taken aback when he saw that the skill had jumped straight from inferior to mythical rarity. Not too long ago, he had raved about the massive jump to his Alchemical Flame after he absorbed his Supreme Arcane Soulflame, but now he had already surpassed that feat. Not by much, mind you, as the jump between lower rarity wasn’t that big compared to the higher ones, but still. This was an incredible improvement.
+
+He had, based on the fact that he kept being able to create legendary rarity items, fully expected to see himself upgrade it to legendary rarity. That seemed to make the most sense, and he also took into account that he’d just evolved to B-grade. Upgrading skills in B-grade was harder than in C-grade by a good margin, and even his current skills were now considered relatively weaker within their grades, despite not receiving any actual downgrades in rarity.
+
+So, for his new Alchemist’s Purification to jump straight up to mythical rarity felt extreme. Jake didn’t question it too much, though, but instead viewed it as an explanation of just how potent this Lesser Primeval Energy actually was. Just this one instance of Jake applying it in a relatively simple manner made the skill potent enough to warrant reaching mythical rarity.
+
+Lesser Primeval Energy Manipulation was a unique profession skill, so Jake could only really guess what rarity the skill would roughly correspond to if it wasn’t. His initial guess was that it was somewhere between mythical and sacred rarity, leaning more towards the latter, but now he doubted that was even the case.
+
+Either way, it was clear that the only reason Jake had managed to so easily upgrade it to mythical rarity was solely due to just how overpowered this Lesser Primeval Energy was. It definitely also played a role that Jake was, well, Jake. He had an innate ability to control this energy that he suspected was unrivalled, and, as the rarity of his manipulation skill suggested, unique. Without both of those factors, there was no way Jake could have succeeded so soon.
+
+Which also begged the question… if Lesser Primeval Energy was that potent, just how fucking overpowered was Primeval Origin Energy? And just how damn awesome was Jake for being able to access and use it?
+
+Questions that Jake doubted he would get the answer to anytime soon. Okay, he knew the answer to how awesome he was already, but not about just how good these Bloodline-related energies were. He also didn’t really have the time or energy to think about it, as, for now, he still had to fully digest the fact that he’d succeeded and now sat with a very different flower than what he’d started with. It still looked like a regular Red Lavender on the surface, but upon deeper inspecting, it was evident it wasn’t.
+
+The entire flower felt dead, even though it looked the same. The stalk and nearly all the flowers felt entirely devoid of the usual energy, now holding only an iota of what was usually there, barely enough to keep the flowers from falling apart. Even then, it would still wilt and turn to dust if not for stable arcane energy holding it all together, allowing these small fragments of concepts and energies to still do their job of maintaining the Red Lavender’s identity as a Red Lavender.
+
+However, one part of the flower was substantially different from the rest. A single small flower, no, just the center of that flower, emanated powerful energy that far surpassed the entire herb before. Using Identify on his new creation, Jake was pretty relieved with the result.
+
+[Lesser Primeval Red Lavender (Legendary)] – A Red Lavender that has undergone purification using Lesser Primeval Energy. The life affinity mana stored in the small flowers has been substantially purified and amplified, with the rest of the lavender nearly wholly bereft of energy. Relatively stable, though it still shows signs of instability. Formerly known as the main ingredient of health potions, though now its viability for that usage has become questionable.
+
+Not getting any information from his use of Identify indicated that Jake lacked sufficient understanding of what he was looking at. Now that it showed him at least something resembling a proper description was massive progress and proof of his increased comprehension of this newgained energy.
+
+He also felt that it was a lot more stable than even his Iron Flakes, so that was awesome, seeing as flowers were naturally more unstable than metals, meaning he had done a far better job with this Red Lavender than anything prior. Unsurprisingly, given that this was the attempt in which the system acknowledged his efforts and granted the upgrade.
+
+Now, as for the question of what he could use this Lesser Primeval Red Lavender for, the answer was… fuck-all. There was no reality where he could actually craft anything using it, as the energy remained far too potent, and even if Jake managed to create a whole set of ingredients purified using Lesser Primeval Energy, he had absolutely no confidence.
+
+The altered ingredient was incredibly potent compared to any regular alchemical ingredient Jake had ever worked with, and it was still a lot more volatile than regular high-rarity materials. What’s more, while Jake had successfully manipulated the energy within one Red Lavender, if he actually wanted to craft anything using it, that wouldn’t be enough.
+
+His purification had condensed and reduced the total quantity to an incredibly minute level. This meant that if Jake wanted to have enough ingredients to craft an actual potion, he would have to use hundreds of Lesser Primeval Red Lavenders at once. And Red Lavender was just one part, and he would also need the same amount, if not a higher quantity, of altered grass.
+
+Trying to fuse the energy of hundreds of legendary items at once was already a tall order, and that was without considering the volatile nature of what he created.
+
+All of this is to say that despite Jake feeling pretty damn good about his successful upgrade of Alchemist’s Purification, he fully realized that, as things currently stood, he had no way of actually using his Lesser Primeval Energy for anything. The ingredients he could purify were way beyond his ability to use for anything, and he even doubted he could use his new skill on too powerful ingredients yet. Not without a lot of practice anyway, as while the system’s assistance when he used Alchemist’s Purification was significant, it didn’t guarantee success. There was a reason it said ”attempt to” in the description.
+
+Speaking of the actual skill description, there really wasn’t much to say, was there? Despite being a mythical rarity skill, his new Primeval Alchemist’s Purification was a pretty simple skill that did exactly what it said on the tin. It even did this in the exact way he’d planned for it to, making all aspects of it wholly unsurprising. The only somewhat surprising things were the first flavor text and the fact that his new skill came with an in-built warning that he was dealing with some serious concepts that were inherently volatile.
+
+Overall, Jake was happy with the upgrade he’d gotten, though admittedly, he had gotten a bit ahead of himself by working on this just after evolving rather than waiting till he grew into his B-grade power. He could create super-powerful ingredients now, yes, but he had no way to actually combine them; Jake was capable, and he would be able to in the future.
+
+He hadn’t exactly wasted his time either, even if his goal was just to grow stronger, because with his newly upgraded skill, he’d even gotten a bit of experience. Actually, he’d gotten a lot more experience than he thought he would.
+
+’DING!’ Profession: [Primeval Alchemist of Malefic Origins] has reached level 360 - Stat points allocated, +125 Free Points
+
+…
+
+’DING!’ Profession: [Primeval Alchemist of Malefic Origins] has reached level 362 - Stat points allocated, +125 Free Points
+
+’DING!’ Race: [Human (B)] has reached level 355 - Stat points allocated, +135 Free Points
+
+’DING!’ Race: [Human (B)] has reached level 356 - Stat points allocated, +135 Free Points
+
+Three levels perhaps didn’t seem like a lot, but this was B-grade. B-grade levels tended to take a lot longer than C-grade ones, something Jake really hadn’t felt so far with how he’d progressed in his profession. He’d started getting a windfall of levels due to Spirit of Man the very minute he evolved, and right after that, he’d spent roughly one and a half years getting another three levels by upgrading a skill from inferior to mythical.
+
+It was genuinely an insane leveling speed, and Jake knew it wasn’t a streak he could get going. The Spirit of Man endeavor was a one-off, and this upgrade also wasn’t exactly something he could repeat at-will. He also suspected that part of the reason this upgrade gave so much experience was how closely it aligned with his new Path. That could signify that upgrading Malefic Viper Legacy skills would give less experience going forward, but only time would tell. Then again, who knows? Maybe Jake had just gotten levels this fast due to his new Spirit of Man being absolutely broken, increasing his experience gain by way more than he initially thought. Totally a possibility that he was sure he would either confirm or disprove throughout all of B-grade.
+
+For now, he was just happy with what he had, and honestly, he didn’t even want to think about complicating stuff like that. After working with Lesser Primeval Energy for so long, Jake felt like he needed a serious break. Constantly summoning and manipulating such a powerful concept took a serious mental toll, even for a B-grade.
+
+Sighing, Jake shook his head as he stood up and stretched. After that, he quickly put his flower into a crystal bottle to keep it safe from environmental energies and put it together with his other Lesser Primeval creation. He flashed them a small smile before sitting down and entering meditation, where he allowed his mind to fully rest.
+
+He didn’t go for a full mental recovery but just sat there for around half a day before he opened his eyes again, feeling somewhat rejuvenated. Jake wanted to get some proper shut-eye for the first time since he evolved to B-grade, but before that, he had one important thing to do.
+
+There was a table with the Lesser Primeval Energy-infused Iron Flakes and the Red Lavender to address before he could do that. While Jake rested, he did do a little bit of thinking, and while he concluded that he didn’t have anything he could use them for, that didn’t mean they were useless. In fact, he had a good idea of how to avoid them going to waste.
+
+Jake took all the items he’d made during his journey to upgrade his Alchemist’s Purification skill and put them together on the table. Besides the flake and herb, there were several failed products that were still very unstable and had yet to actually explode, and Jake reckoned these would also do fine. These had naturally not been on the table, as Jake didn’t want to risk blowing up his actual successes, so he had stored them within a separate barrier in a whole other room.
+
+With everything on the table, Jake nodded and smiled as he looked towards the ceiling. He had a feeling that a certain someone was about to be quite happy. Jake quickly started initiating the skill as a complex magic circle appeared on the table under the many miscellaneous items infused with Lesser Primeval Energy. An ancient and powerful aura overtook the room as the connection was formed, and Jake activated the skill fully.
+
+“Divine Bargain of the Malefic Viper.”
+
+The items were instantly wrapped in energy before they disappeared, offered as a bargain to his Patron. Seconds passed as the ritual circle remained, Jake waiting for the Malefic Viper’s counteroffer to balance the bargain, and indeed, he soon got his reward.
+
+In place of the several items Jake had wanted to get rid of before they exploded or turned too unstable, Jake ended up with… a Malefic Bargaining Fragment. Unsurprising When Jake had offered a Planetary Pylon back during his fight with Ell’Hakan, he’d gotten an ancient rarity one, but he could instantly tell this one was better than that.
+
+Using Identify on his reward, Jake couldn’t help but slowly nod in approval.
+
+[Malefic Bargaining Fragment (Mythical)] – An item obtained from a successful Divine Bargain with your Patron. Contains Records and energy related to the Malefic Viper. Has many alchemical uses.
+
+”Damn,” Jake muttered to himself. Again, he’d gotten an ancient rarity item from a Planetary Pylon, and now, with these seemingly useless items, he’d ended up with a mythical rarity one. That in itself was great, but more than that, it was the implications of him getting one.
+
+Using Divine Bargain was effectively a way for Jake to force the system to reveal how valuable it considered these items infused with Lesser Primeval Energy to be, and evidently, the valuation was very high. Jake was pretty happy with himself… for about three seconds until a figure appeared behind him and spoke.
+
+”You just got fucking scammed,” Villy said with a cheeky grin as he stood there with the two crystal bottles floating in front of him. ”Like, generationally scammed. Giving your credit card to a random guy on the street who says he’s from your bank levels of scammed. Sending your life savings to some prince or princess who sent you an email with broken spelling tier scam. Investing in-”
+
+”I think I got it,” Jake muttered, having already turned around with a significantly worsened mood. ”And what do you mean I got scammed? I literally just traded a few legendary items, where only two of them weren’t going to blow up soon, and got a mythical one in return.”
+
+”As I said, scammed,” the Viper grinned. ”The only reason you got a mythical rarity Bargaining Fragment is that your skill is only mythical rarity, so that was the limit, and unfortunately for you, I didn’t have the option of offering anything better.”
+
+Jake stared at the god for a few moments before looking down at his fragment.
+
+”I want a refund.”
+
+”No refunds, sorry, sold as-is,” the snake god chuckled as he inspected the two relatively stable items Jake had offered. ”As a reminder, this is a bargain between the two of us. The value of all things is relative and decided by the people involved. I had nothing to use a damn Planetary Pylon for, but this… this is different.”
+
+”I should have just eaten it for Palate,” Jake muttered sadly.
+
+”Could have. Not sure how much it would have helped, and I wouldn’t want anything to blow up in there again, but you definitely could have,” the Viper said semi-jokingly before turning a lot more serious. ”In my hands, however, things are very different. Consider what you have proven yourself capable of doing with your Primeval Origin Energy, and now imagine what I’m capable of? The sheer potential of my Transcendent Skill and your energy.”
+
+The Viper’s aura flared as he held up the bottle, and the entire lab got bathed in his presence as it subtly changed color. The snake god had an evil grin on his face as he turned to Jake with a sinister look. ”Of course, there is just one minor problem…”
+
+With a flick of his wrist, the Viper took out the Lesser Primeval Red Lavender and subtly applied some energy.
+
+”It won’t allow me to use it,” the Viper shrugged as his aura faded, and at the same time, the herb he’d only subtly tried to affect dispersed into pure energy. ”Which in itself raises some questions, wouldn’t you agree?”
+
+Jake was about to answer as Villy held up a hand. ”To clarify, your agreement with my statement has no bearings on the fact that it is odd. Also, I would get into an entire conversation with you about this, but unfortunately for me, someone else has been waiting for over a year already to visit, and I have a feeling you wouldn’t have anything against her visit cutting mine a little short. Oh, and I’ll leave this here, should make you feel a little less scammed than before, though to be clear, you were still very much scammed.”
+
+Before Jake had the time to say anything, the Viper was gone, and on the table next to the Bargain Fragment was an item that made Jake’s eyes open wide as he grinned. Yeah, alright, that definitely did make him feel a lot better about being scammed.

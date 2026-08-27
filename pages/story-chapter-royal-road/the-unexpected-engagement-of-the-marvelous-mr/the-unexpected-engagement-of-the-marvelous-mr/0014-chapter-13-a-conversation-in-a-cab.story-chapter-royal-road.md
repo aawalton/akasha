@@ -1,0 +1,201 @@
+---
+id: cfa66088-a26a-51b0-8dbd-17d97ecb8634
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 - A Conversation in a Cab"
+slug: 0014-chapter-13-a-conversation-in-a-cab
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 14
+ownLength: 1495
+unit: words
+publishedAt: 2022-06-03
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/919844/chapter-13-a-conversation-in-a-cab"
+royalRoadId: "919844"
+---
+
+The cabby laughed. When he spoke, his dock-side accent had disappeared. “All right, Chief Inspector. Fair catch. But I thought my disguise was perfect! How did you know?”
+
+“You might have guessed I was a policeman because I came out of headquarters, but there was no way you could have known my rank.”
+
+“But Eleanor—”
+
+“Lady Serrs.”
+
+“You don’t call her that. You call her Miss Serrs. Did she give you permission?”
+
+“She did. And she calls me Mr. Haley. Not Inspector.”
+
+“Huh. You’re being awfully familiar with my fiancée.”
+
+The barrel of the gun pressed into Penn’s head.
+
+“Oh, put it away, Haley. You and I both know you aren’t going to use it.”
+
+“One more joke like that and I might.”
+
+“I don’t think so. For two reasons. First, you’re not the kind of man to shoot anyone in the back of the head, let alone someone who’s never harmed another person.”
+
+“What about our fights?”
+
+“I was defending myself!”
+
+“From a police officer who was trying to lawfully arrest you.”
+
+“Yes, well, you gave as good as you got. And I never used a gun.”
+
+“What’s your second reason?”
+
+“Can you drive a motorcar?”
+
+“As a matter of fact, I can.”
+
+“While fighting me?” When Haley didn’t answer, Penn went on, “It could get dangerous, and there are lots of people in the street at this time of day. Come now, I’m taking you where you want to go. There’s no need to give me a headache.”
+
+The inspector leaned back, and Penn felt the gun lift away.
+
+“You’re going to try to escape.”
+
+“Of course I am. And you’re going to try to stop me. It’s good we both know our roles so well.”
+
+“You would joke with the hangman.”
+
+“Ah-ah! They don’t hang people for theft in this country.”
+
+“One would hope, for you, they might make an exception.”
+
+Penn grinned. “Who are the three suitors? She didn’t mention their names.”
+
+“What’s your game in all this, Penn? What are you after?”
+
+“The names! As I just said. I could learn them on my own, but I’m sure you already know them, and it would be so much faster—”
+
+“Why would you care?”
+
+There was an unusual seriousness in Penn’s voice when he said, “Someone used me. Someone took my name and used it without my knowledge or permission, and they played me like a fiddle. I want to know who, and I want to know why.”
+
+“You’re saying you didn’t send those invitations?”
+
+“Eleanor—”
+
+“Lady Serrs.”
+
+“You know, you’re more stubborn about that than she was.”
+
+“She was a vulnerable young woman in a strange and dangerous place. I’m the man sitting behind you with a warrant for your arrest and a loaded gun.”
+
+“Point taken. Lady Serrs told you I didn’t send them. Don’t you believe her?”
+
+“I believe Miss Serrs. But she’s the trusting sort. I’m more skeptical.”
+
+Penn let out a brief laugh. “Ah, my darling! She is a little naïve, isn’t she? Imagine turning down three men and thinking none of them would be sore.”
+
+Uncomfortably aware of how close their minds were aligned, Haley said nothing.
+
+The master thief continued, “Ah well. A lady like her has probably never been rejected in her life. You can’t expect her to understand.” He paused. “So who were they?”
+
+“I won’t tell you.”
+
+Ryce shrugged. “Suit yourself. There can’t be that many men with enough prestige to gain the approval of the glorious, humble Duke Erravold Aubrey-Serrs. If only we published a Who’s Who. I bet I’d find them all within the first four pages.”
+
+“Not likely. The ambassadors start on page three.”
+
+“Oh? I guess you’d know. Three gentlemen,” Penn mused. “Good men. Polite. Considerate. Clearly not very good lovers…and not her enemies—that statement was a bit odd, don’t you think?”
+
+“The whole damned thing was odd.”
+
+“God help me, I agree with a policeman.”
+
+Their car was idling on a corner to allow a wagon to pass the other way. Penn put his arm out to signal, then turned in behind it.
+
+“Tell me something,” the thief said, “do you know how much it costs to print a round of wedding invitations?”
+
+Haley didn’t answer.
+
+“You don’t have to be embarrassed by your ignorance. We’re both bachelors—why would we know something like that? But I did happen to find myself in possession of an excellent specimen about ten days ago. Extremely high quality. A little gilding. Heavy paper. It made me curious. I went to my local printer, and I must say, the price he quoted would surprise even a man as privileged as you.”
+
+“What’s your point, Penn?”
+
+“My point, Inspector, is that whatever else this is, it isn’t a joke. Someone wants something from this.”
+
+“Like what?”
+
+Penn shrugged. “Revenge. Humiliation. Jealousy. Getting her out of the way. Annoying the duke. There’s lots that could be gained by this trick. There’s the lady herself—not a bad prize. She doesn’t see it, does she? Our poor little detective can’t imagine why anyone would do this to her. I wonder if it’s even occurred to her.”
+
+“What do you mean?”
+
+The wagon ahead of them stopped. Penn braked as well, pulling up behind it until the car was only a foot away.
+
+“Haley, did you ever bother to ask how much her dowry was?”
+
+With that, Penn jumped from the car. The inspector cursed, uncocked his revolver, and lunged after him.
+
+While the thief tried to talk like a gentleman, he knew there was an essential difference between him and a real member of the upper-class: he wasn’t afraid to get his clothes dirty. And he always thought it was grossly unfair that the son of Guy de Laval wasn’t either.
+
+When Penn got dirty, it was because he was practical and down-to-earth. When Haley inevitably followed him into the mud, it was because the twerp could go buy a new suit any time he wanted.
+
+This time was no different.
+
+Penn went under the wagon, rolled, and came up by the horse, slapping the poor creature’s rump as hard as he could.
+
+Haley was still behind the wagon when the horse reared. To avoid the threat of being crushed in the commotion, the inspector used the front of the car to launch himself to the other side of the vehicle.
+
+Penn dodged into the heaviest part of the traffic. Shouts and gestures followed him, giving Haley a clear idea of where he needed to go.
+
+As the inspector ran, he passed Penn’s abandoned hat, then the thief’s outer jacket. Ryce was shedding his costume.
+
+Let him, Haley thought. Unless he’s wearing a new face under that one, I’ll know him.
+
+Penn cut away from the main street and ran down an empty road.
+
+There was no one else around. No one.
+
+“Penn!” Haley shouted. “Stop! Stop or I’ll shoot!”
+
+Penn ran on. Haley halted and raised the gun, but then he swore and kept running.
+
+The inspector thought he might be gaining on the thief, but too late, he realized that Penn was slowing down because he was searching for something.
+
+Penn found it. He jerked away, as if tugged by a magic string, down a new alley. Haley followed him.
+
+When the inspector turned the corner, he ran straight into chaos.
+
+It was the local work and waste yards. It was crowded with noise, people, animals, carts, goods, piles of raw material, and, yes, raw waste. The master thief was gone, swallowed up by the hectic scene.
+
+Haley spent a useless half-hour trying to find him. He scoured every pile and hunted through the muck. Talking to the people earned him nothing but glares. They were busy. They didn’t have time for games.
+
+“Please! He might have been running!”
+
+“In this shit? You’d break your face and never get kissed again. No runnin’. What was he wearin’?”
+
+“I don’t know.”
+
+“His face then?”
+
+Penn had discarded his clothes, but what about his false nose? The brow? Had he removed any of it? All of it?
+
+Haley pinched the bridge of his nose. “I don’t know.”
+
+When the inspector was ready to concede the battle, he stood back at the alley entrance and cast one last look at the yards.
+
+“I think I prefer an honest fight,” he muttered.
+
+Haley wandered back to the car. When he arrived, a constable was there, trying to placate the angry wagoner.
+
+The constable called out, “Hey, you! Is this your motorcar?”
+
+Haley walked up to him. “Not exactly.”
+
+The constable stood up straighter. “Sorry, Chief Inspector. I didn’t see it was you.”
+
+Haley waved away his apology.
+
+“But if you don’t mind, sir, how is it not exactly yours?”
+
+“I was lucky enough to have use of it this morning, but it’s not mine.”
+
+“Well, that’s good, sir.”
+
+“Is it?”
+
+“I’m pretty certain this is Superintendent Millward’s car. It was stolen this morning.”
+
+“Of course it was.”

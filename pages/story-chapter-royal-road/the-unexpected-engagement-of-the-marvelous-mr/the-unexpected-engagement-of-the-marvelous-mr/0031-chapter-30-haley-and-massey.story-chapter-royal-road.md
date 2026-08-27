@@ -1,0 +1,345 @@
+---
+id: a3d47fdb-c636-568d-9252-c7ad623c6d9e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 - Haley and Massey"
+slug: 0031-chapter-30-haley-and-massey
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 31
+ownLength: 2684
+unit: words
+publishedAt: 2022-06-22
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933233/chapter-30-haley-and-massey"
+royalRoadId: "933233"
+---
+
+Haley tracked Massey down at the Swineherds Club. Garrod led him to the private room and knocked, but there was no answer.
+
+“He’s in there?” Haley asked.
+
+The manager nodded.
+
+Haley opened the door and went inside.
+
+Ryder Massey was sitting at a small dining table with the remains of a modest lunch pushed off to the side. There was an untouched glass of wine in front of him, and a cigarette smoldered in his hand.
+
+He’d heard the door open and raised his eyes. When he saw who was there, he leaned back in the chair.
+
+“You.”
+
+It was a simple statement; Haley was recognized.
+
+The inspector tried to size up Massey’s condition. He was unhappy—that was obvious—but he didn’t seem drunk. It was more like he was hungover. When the earl turned his head, the light from the window landed on his face. Haley could see some fading bruises and scratches along his cheekbone.
+
+“You didn’t answer the knock,” Haley said.
+
+“I didn’t want to see anyone,” Massey said.
+
+“You’ll see me, my lord.” Haley walked over and sat down in the chair across from him.
+
+“Are you here about Dominic’s murder?”
+
+The inspector nodded.
+
+Massey rubbed his forehead. “How can I help you, Inspector?”
+
+“I have some questions for you.”
+
+“I didn’t do it. There. Now that’s out of the way.”
+
+“Everyone says that. Most people are telling the truth.”
+
+“What kind of questions could you even have for me?”
+
+“I’m exploring possible motives for Winfield’s murder. It helps to know about him and his life. You were a friend of his.”
+
+“Yes. Or, rather, I liked him, and he set me up with dinner and a drink every now and then. Maybe that’s good enough.”
+
+“Did he confide in you?”
+
+“Some.” Ryder smirked. “Not much. We talked, but he was a private man. Still, I was around him a lot, so I might know him better than most people.”
+
+“You were around him because of the broken hearts club?”
+
+A faint smile touched Massey’s lips. “Ah. You’ve been talking to Edward, haven’t you?”
+
+Haley nodded.
+
+“And what did that beloved skunk of a friend tell you? Did he mention the ancient Greek chorus lines where we’d join arms and wail together over our sundered futures?”
+
+“I understand you attended regularly. Why did you go?”
+
+“They needed a tenor.” The earl lifted the cigarette to his mouth.
+
+“And the real reason?”
+
+There was a quiet determination in Haley’s voice that made Massey glance at him. The inspector was sitting back with his arms folded, watching the earl’s face.
+
+Ryder looked away. “I enjoyed it. I told you I liked Dominic. Edward is a good friend of mine, and Fitzmon isn’t bad company. Look—Haley, isn’t it?—is this important? Aren’t you supposed to be going after Winfield’s murderer?”
+
+“I am. Was Winfield in love with Eleanor Serrs?”
+
+Massey’s hands started shaking. When the earl saw Haley’s eyes drop to the trembling cigarette, he stubbed it out.
+
+“Inspector, I don’t know how you can expect me to answer that question. You know why it was called the broken hearts club. Do you honestly think that if he loved her, he would confess his tender adoration to us?”
+
+“You’re saying you don’t know?”
+
+“He didn’t tell me anything.”
+
+“That’s not what I asked, my lord.”
+
+Once again, Massey lost the staring contest.
+
+“He fell in love with her somewhere along the way. You could tell. He tried to act natural, but you can’t really hide something like that. If I’m being honest, I found it rather sickening. Even the great men fall, apparently. I wept for him then, and I’ll have to weep again for him now.” Massey added, almost under his breath, “What a waste.”
+
+“Do you know how long Winfield knew Lady Serrs before he asked to court her?”
+
+The earl shrugged. “I think Edward had introduced them once or twice.”
+
+Haley’s mind shifted around that idea. Something wasn’t right, but Massey was unaffected, and it didn’t look as if he was lying.
+
+“I thought you said he was in love with her,” Haley said.
+
+“I did.”
+
+“And my understanding was that Duke Aubrey-Serrs didn’t seek Winfield out.”
+
+“That’s correct. Dominic went to him. At first His Grace”—a slight sneer accompanied the title—“turned him down flat. Then, for whatever reason, the duke reconsidered and magnanimously gave him permission to try his hand.”
+
+Massey pulled out his cigarette case and opened it.
+
+Haley watched without seeing him. In his mind, the inspector was busy going over everything he remembered, everything he’d heard, about Dominic Winfield. The man had seemed sensible and pragmatic, almost to the point of cynicism. It didn’t make sense.
+
+“How did Winfield fall in love with Lady Serrs if he’d only met her once or twice?”
+
+Every once in a while, Massey had an ugly smile. It usually appeared right before he said something sarcastic, but this time it appeared because he could gloat over the fact he knew something that Haley didn’t.
+
+“I think we’re talking at cross-purpose,” Massey said. “I never said he loved her before he asked to court her. He fell in love with her as they spent time together. Dominic Winfield courted Eleanor on a bet.”
+
+“What?”
+
+“Oh, you heard me right.”
+
+“That seems like a bit high of a wager—a man gives away his whole life?”
+
+“Not really. You have to understand the circumstances.” Massey pulled out a cigarette, closed his case, and put it back in his pocket. “You see, Dominic wanted to get married. He approved of the idea of it—I don’t think he ever would have accepted the wager otherwise—but he wasn’t in love with anyone, and he thought that most women were pretty much the same.”
+
+The earl reached for the matches he’d left on the table. As he lit one and put it to his cigarette, he said, “We were relaxing here at the club, and I was moaning about what a frigid bitch Eleanor was—”
+
+The earl was waving out his match, so he missed the change in Haley’s expression.
+
+“—and the others started to tease me—great friends—saying that it wasn’t that she’d turn down everyone, only that she had the excellent taste to turn me down. Well, Dominic was about as different from me as it’s possible for a man to be, so we bet him he couldn’t woo her to the altar.”
+
+“And he accepted?”
+
+“If we’d had a knife handy, I think Edward would have had him take a blood oath he’d follow through—”
+
+“Edward? Edward Comtess?”
+
+For a maddening three seconds, Massey sat there with his cigarette in his mouth and said nothing. Then he slowly removed it and blew out a hazy cloud.
+
+“Did you think I meant Fitzmon?”
+
+Haley didn’t answer.
+
+Massey smiled again. “Yes. It was the Right Honorable Lord Edward Comtess. One hundred and fifty dollar wager from me. One hundred fifty from Edward.”
+
+“Who else knew about this?”
+
+“I told Fitzmon about it when they started courting. I don’t know if Eddie told anyone.”
+
+“Did you ever tell Lady Serrs about the bet?”
+
+“No! God! That would have been cruel.”
+
+“I thought you didn’t like Lady Serrs.”
+
+Massey waved his hand. “It wasn’t like that—”
+
+“‘Frigid bitch’—wasn’t that your phrase?”
+
+“Look, Inspector, Eleanor is a nice girl. I didn’t like being turned down, but I wouldn’t tell her something like that.”
+
+The earl’s indignation seemed authentic.
+
+He went on, “Dominic swore on his life he’d follow through, and things were going so well, I started wondering how much time I had to pull together the money. Then he showed up one day and handed us a stack of bills without a word. So he became an official member of our club.”
+
+There was a brief silence, then Haley said, “What did you think of Eleanor Serrs?”
+
+Massey reached for the glass of wine and took a large swallow. “I told you last time I had the honor of talking to you, I don’t love her.”
+
+“I’m not asking about now. I’m asking about when you were courting her.”
+
+“I thought I had made that clear.”
+
+“You insulted her using a term that most men wouldn’t apply to a whore, and then you said you thought she was a nice girl. Forgive me if I’m confused.”
+
+Massey took another swallow, made a face, and put down the glass. “In my experience, most women flirt. They give some sign—some indication—that they appreciate your attention. Eleanor couldn’t be coy if her life depended on it, so I had no way of knowing that she wasn’t interested in me until she rejected my proposal. That’s a very uncomfortable place to be.”
+
+“Were you interested in her?”
+
+“Eleanor’s sweet. And polite. But she’s also mild—like bread soaked in milk. And she’s booky.”
+
+“Booky?”
+
+“She reads a lot.”
+
+“You don’t like reading?”
+
+“I don’t mind reading myself, but booky women aren’t to my taste. It’s hard to have a conversation with them.”
+
+“And yet you courted her.”
+
+The earl blinked and turned his head. For the first time that day, Haley felt as if Massey was putting in the effort to focus on him enough to really see him.
+
+“I did, and I would have been happy to marry her. I dare say she would have made a good wife. Maybe you have the luxury of courting and marrying a woman you actually like, Inspector, but when my father and Duke Aubrey-Serrs came to me, I lost that opportunity.”
+
+There was an art to infuriating someone; Haley had learned that much from Penn. He carefully chose his words and tone to have what would hopefully be the right amount of challenge.
+
+“But Lady Serrs refused you. You’re able to court whomever you want.”
+
+Ryder Massey laughed. It was uglier than his ugliest smile. “You would think that, wouldn’t you?”
+
+“No?”
+
+“A month after my rejection, I tried to mend my wounded ego by spending some time with a lovely little creature named Miss Hastur—now that girl knows how to flirt—but word got back to the duke, and he asked to see me at his club. He accused me of going back on my word and said that I hadn’t been serious about marrying Eleanor. I reminded him that she had rejected me. And his response?”
+
+Massey lowered his voice to better imitate the duke: “‘Would you give up so easily when there’s every chance she might change her mind?’”
+
+The earl shook his head. “He told me that he ‘wouldn’t think kindly’ of me if I pursued another woman.”
+
+“And that was enough to stop you?”
+
+“It’s not wise to make Duke Aubrey-Serrs your enemy.”
+
+“What are you afraid he would do to you?”
+
+Massey picked up his glass again and leaned back in his chair. “I’m sure the old bully would find something.” He took a drink.
+
+Haley said, “I understand that you’re dependent on your father at the moment.”
+
+Massey eyed the inspector as he swallowed a mouthful of wine. “Yes.”
+
+“And that your father approved of your match with Eleanor.”
+
+“My father and the duke are old friends.”
+
+“How large are your gambling debts, my lord?”
+
+Massey stared, but he didn’t answer.
+
+“And do they have anything to do with the scratches on your face?” When Massey still didn’t answer, Haley added, “It looks like you took a beating a few days ago.”
+
+“I’m impressed, Inspector. You’re very observant. And well informed. How did you know about my debts?”
+
+“Answer the question, my lord.”
+
+“I would be glad to have five thousand about now—shall we put it that way?”
+
+Haley let out a low whistle.
+
+Massey went on, “One or two of my creditors are becoming impatient, and my father doesn’t know about any of this. So you see, it wouldn’t be difficult for the duke to find a way to punish me for incurring his displeasure.”
+
+The inspector nodded, then raised his eyes to meet Massey’s. “Now tell me about the plan to send out the invitations.”
+
+The blood drained from the earl’s face.
+
+“Dominic sent them, didn’t he?”
+
+Haley nodded again.
+
+“And you think his murder has something to do with that? That’s why you’ve been asking me all these questions about Eleanor.”
+
+Haley gave him nothing—not a word, not a twitch.
+
+“You weren’t just asking because you wanted information. I’m a suspect, aren’t I?”
+
+“Where were you on Wednesday, from nine o’clock in the evening on?”
+
+There was a faint tremble in Massey’s voice. “I was at home.”
+
+“Can anyone confirm that?”
+
+“No, I live alone. I have a man that comes in, but he left at eight.”
+
+“Tell me about the plan to send out the invitations.”
+
+“I didn’t know anything about that.”
+
+Haley stared at him for a long time, allowing the silence to sink in. Then he said, “My lord, I’m going to give you this one chance to rethink your answer.”
+
+“Look, I knew about the invitations—we all knew about the invitations—but it was only an idea! A joke! If Dominic went and did it, he didn’t come to me for approval.”
+
+“Who came up with the idea?”
+
+“I swear to god, Inspector, I don’t know. I was drinking that night. We all were. I don’t remember who brought it up, but I remember talking about it.”
+
+“How long ago was this?”
+
+“A year and a half ago? Maybe a little less? Dominic was with us by then, and he felt comfortable enough to joke about it.”
+
+“Did you ever talk about it after that first night?”
+
+“Sometimes—I mean, occasionally. Usually Fitzmon or I would bring it up in passing if we found a new name that might work.”
+
+“Explain.”
+
+“The name of the groom. Who would be the most odious person we could choose.”
+
+“When did Penn’s name first come up?”
+
+“I don’t remember.”
+
+“Do you remember who suggested it?”
+
+“I don’t remember if it was ever suggested! I didn’t suggest it.”
+
+“Did Dominic ever join in the game?”
+
+A sudden sorrow spilled into the earl’s palpable fear. “No. He never did. He would laugh and congratulate us if we came up with a new candidate, but he never made a suggestion. I don’t think he liked the game much.”
+
+“Why did the idea even come up?”
+
+Massey shrugged with one shoulder. “Because Eleanor’s a pushover, isn’t she? We thought that if the duke put a little more pressure on her, she might decide to marry one of us.”
+
+The look in Haley’s eyes was there and gone in under a second, but Massey saw it, and he shivered.
+
+“Which one did you think she’d pick?” Haley asked.
+
+“Fitzmon. Easy money. He’s rich, handsome, and titled.”
+
+“Did she seem to like him more?”
+
+“Who could tell?”
+
+“And if she came to you, would you marry her?”
+
+Massey hesitated, but then he remembered he’d already used up his one chance. “I would.”
+
+“Even though you don’t love her.”
+
+“Inspector, in our world, love usually has little to do with marriage.”
+
+Haley stood up and went to the door.
+
+“No more questions?” Massey asked. There was a note of nervous hope in his voice.
+
+“Not at this time.”
+
+“Do I—do I have to tell you where I’ll be or something?”
+
+The inspector turned back. “My lord, if I ever need to see you again, rest assured, I will find you.”
+
+With that, Haley left the room. He went down the hall to the front desk and snapped his fingers to steal Garrod’s attention away from another guest.
+
+“Inspector?” The manager had never seen Haley look so forbidding.
+
+“I need to borrow a phone. In a private room.”
+
+“I have one in my office.”
+
+The sentence had barely left the man’s mouth before Haley walked around the counter. Garrod had to hurry to take the lead.
+
+Garrod took the policeman back to his office and unlocked the door for him. Haley went for the phone he saw on the desk while the manager shut the door.
+
+“Taylor? This is Inspector Haley. I need to speak to Baron Comtess.”

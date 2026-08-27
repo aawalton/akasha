@@ -1,0 +1,337 @@
+---
+id: c356b7d2-0320-5916-bf76-d6f37bfc2b86
+page-type-slug: story-chapter-royal-road
+title: "63: Wyin or lose"
+slug: 0070-63-wyin-or-lose
+partOf: there-is-no-epic-loot-here-only-puns
+position: 70
+ownLength: 4500
+unit: words
+publishedAt: 2018-07-21
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/236535/63-wyin-or-lose"
+royalRoadId: "236535"
+---
+
+What was a Peacekeeper?
+
+Quiss watched as Noland attempted to dry himself off, while the frogman apologized endlessly under the withering glare of Devina.
+
+He was here because he was a Peacekeeper. The job pushed onto him by the elders of Durence by dint of sheer lack of anyone else willing (dumb enough) to do it. Quiss thought back to that day and struggled to really remember anyone else at that town hall meeting.
+
+The curse of Durence was a subtle one. Quiss had chosen a dingy shack at the edge of town to minimize the effect on himself but even that hadn’t been enough. His own investigation had slowed to a crawl, an afterthought.
+
+He looked at the roaring waterfall, the shadowy form of the worm below the surface of the pool, he looked at the lushness of the space around him, and he felt a little annoyed at the irony of it.
+
+Quiss had come to find a way to burn the very heart of nature and yet it was nature of a sort that had saved him from fading away until he was a mere hermit. He had become just a grumpy Peacekeeper that barely tolerated those around him. But in the beginning, he did have a reason to accept the Peacekeeper duty.
+
+It was such a small reason, but he honestly couldn’t help it.
+
+His master had been a Peacekeeper as well, once upon a time. She had once said that it was a lesson that never ended. Quiss’ throat went dry as he thought about her bemused smirk; like she was intentionally not telling him something about the role.
+
+He had needled her to tell him more, of course. Seth had merely accepted it and asked her what she loved about it. The water mage was a polite and studious type, even back then.
+
+His master ruffled both of their heads fondly as she winked.
+
+“Definitely the people. You learn much about yourself when you become responsible.”
+
+Damn woman had forgotten to mention the stress that came with the badge. Then again, she was never the Peacekeeper of Durence. He admitted that perhaps that part might have added some tiny amount of extra problems.
+
+Like trying to show the Taxman around a backwards Dungeon while a powerful bard and a scary archdruid kept making his blood pressure rise.
+
+Then there was Deo.
+
+Bob rose out of the water again with Deo laughing his heart out as he clung to Bob’s head.
+
+Bob, who would name such a demonic being Bob? The answer was all around him and he merely sighed.
+
+Delta. How that name had changed everything. He was grateful for the mana to bring him back to his senses but the mana was waking up everyone. The elders, Von, Isanella, Holly, and, all the other hidden gribblers of Durence he didn't even know about yet.
+
+What other beings lived in Durence that Quiss had never seen? What nightmarish creatures disguising themselves as friendly neighbors lurked just out of sight? The demonic school at least was consistent. Mr. Jones never seemed to diminish nor to grow as mana left and returned.
+
+Ruli herself only seemed to be somewhat weakened.
+
+Quiss would have to look into what made them so resistant to the mana fade. Demonic energy? The mana fade was a rare enough event but to have a demon inside it?
+
+The thought was pushed aside as Devina gestured to a side path that continued deeper into the woods.
+
+“Come, the mana rises and wasting time may be unwise,” she called. Isanella waited, a towel in hand that she had pulled from her rather small bag, as Bob gently lowered Deo back to solid ground. The boy grinned as two red crabs danced out of his shirt and back into the pond.
+
+“I HAD CRABS!” Deo pointed out as they waved once before merrily jumping back into the pool with the giant hell worm Bob. Isanella merely dried the boy's hair with a bemused smile. Her loot... uh... lute resting across her back as if it weighed nothing.
+
+“Ruli is going to be mad as hell she can’t fish Bob,” Quiss mused as the worm sunk into the dark depths once more. Holly snorted.
+
+“Ruli, the dear, will be just as mad she isn’t here to see how annoyed you look right now,” she countered.
+
+This was true. Quiss needed to make sure he started to document all the amusing things she missed to really rub it in the fact she was stuck in school like a misbehaving 5-year-old. The fate was cruel but since Quiss had confidence in his teaching method, he was sure he could push Deo to at least hit a 30% mark and free Ruli.
+
+That should be good enough for Jones.
+
+“Speaking of rising mana, how close is Delta to achieving a third floor?” Quiss asked as the group began to depart from the waterfall cave. The male frog, Rale, followed behind with a casual pace to his walk. He clearly didn’t feel like they were any real threat.
+
+Quiss wasn’t sure if he was overconfident or just that trusting. He seemed highly pleased with himself since he ‘rescued’ Noland from Bob. He almost seemed to be waiting for something. He paused, his long webbed hand hovering over something as if to push a button but he tilted his head before lowering it.
+
+He seemed to turn a little sulky but beamed as he kept listening to the silent voice. Delta must have been instructing the frog on something.
+
+It was an odd scene from Quiss’ perspective but he didn’t draw Noland’s attention to it as Devina lead them into a large clearing where a noise filled the space. Unlike the cheerful bird song or roaring waterfall, this area was filled with dangerous buzzing.
+
+The eye-catching large stone pillar with numerous large holes near the top seemed like the most likely source.
+
+“Welcome to the domain of the Bees. Please, do not panic,” Devina called, voice soothing as a cloud of red swarmed down from the stone. Noland backed up, clipboard held up like a shield as dozens of red bees converged to encircle a single spot. Quiss could understand the man’s feelings.
+
+Those were a lot of stingers.
+
+Holly moved forward, face flushed with utter joy at the scene of pure nature coming down upon them like an angry plague. Isanella held Deo’s shoulder tightly as the boy looked at the scene with open wonder.
+
+“Such vivid red,” Holly whispered. Devina turned and did a little bow of her head.
+
+“Queen Liz, I greet you on this fine day,” the frog greeted to the cloud. Her calm tone became a little affectionate as the cloud swirled around a rock that jutted up from the ground. From the center of the cloud, a clear noise, like a bell, sounded out. The red mass parted like a sea and landed on every nearby surface, each bee going very still.
+
+It was unnerving to see such control over the army. The lone bee left on the rock was much bigger than every other bee. Among the angry red cloud, Quiss couldn’t have possibly seen the bee before, but now... she was clearly the queen of this hive.
+
+The way each and every bee looked at them, waiting for a command from their leader, made Quiss want to set himself on fire just for security. The ringing bell noise sounded again as the Queen’s feelers seemed to twitch at Devina.
+
+Devina laughed and gave a little twirl.
+
+“No, I am the same shape as always, Liz. Thank you for the compliment. May I introduce Mother’s guests. They have come to see the splendor of her work. Including us!” she explained. Quiss never really thought about relationships between different dungeon monsters.
+
+Giving that most basic dungeons had what would pass as rabid monsters for floor inhabitants, he would never have guessed that there wasn’t a language barrier between them. Devina spoke common to them but the bee understood her and Devina understood her in return.
+
+Was it some unseen dungeon bond?
+
+Was it more of Delta’s weirdness?
+
+His thoughts were interrupted as Deo moved forward, slightly dragging his mother with him.
+
+“SHE’S REALLY PRETTY! WHAT KIND OF BEE IS SHE?” Deo’s gentle voice blasted out the clearing and the wave of red buzzed in warning at him. Devina raised a calming hand at the Queen.
+
+“May I introduce Deo and his mother,” Devina stared, her voice going odd when she gestured to Isanella. The bell noise went crystal clear and every bee went silent. The Queen rose up and floated to hover before Isanella.
+
+The woman’s face was calm but her grip on Deo was stronger. The bell noises began to jingle with a soft harmony. Devina smiled as she translated.
+
+“Liz greets a fellow mother and invites you to feed your young with the royal jelly if needed,” she said. Holly smiled and Quiss wondered why she wasn’t also stating she was a mother. The woman was content to just watch the dungeon encircle Isanella.
+
+Druids were always good at that. Watching Nature before acting.
+
+“You must bee something special to get that invite!” the orange bird chirped. Devina’s serene face pinched with pain and she glared at the bird.
+
+“Why are you so bothersome?” she huffed. The bird looked skyward as if asking some great orange pun god for answers. Quiss hoped no such being answered.
+
+“I hive no idea!” he finally replied seriously. Devina closed her eyes and Quiss could feel a kinship forming as she began to count to ten. Rale was laughing so hard, he was bent over at the waist, slapping his knees.
+
+“To answer your question, little one, they are merely referred to as Jungle Bees here,” Devina focused a strained smile at Deo. Holly looked up at the stone spire.
+
+“A dungeon species of Mason bees. A highly specialized form of bee that can wear stone down and use the tunnels as hives. They are suited for warm climates and may even form a symbiotic relationship with Rock Trolls to further increase their protection. I’ve never seen them act with such intelligence but isn’t it beautiful? Such wonderful creatures that just... exist!” Holly gushed as she pushed Noland closer.
+
+“I... yes! Very n-nice. I shall make a note here! Very... nice... bees,” he stuttered before he moved away quickly as the Queen focused on him. She buzzed and flew back to her stone spire. Devina waved as the bees followed their leader.
+
+“They help keep the local flora spreading, and also work as good gossips or guides if you can earn their trust. They all share a connection that allows them to locate each other,” Devina informed Noland. The man blinked at the information but quickly wrote it down.
+
+“Thank you... that is very helpful!” he replied in surprise. Devina merely smiled as she walked onwards.
+
+Quiss looked at the stone spire with its red cloud before the cloud spread in every direction of the jungle. He wasn’t sure whether to feel better or worse now that he knew that a series of spies were watching his every move.
+
+He decided to just be a grump and stalk after the group as Deo began to point out every bee he saw.
+
+He began to name them as well.
+
+Quiss hoped Delta didn’t take the names to heart.
+
+He really didn’t need to come down a week later to find 20 or so unique bees each with their own special power.
+
+It would be... stressful to say the least.
+
+---
+
+“You taste like blood and fish,” Grim suddenly stated after what seemed like eons of silence. Ruli stopped doodling on her work and gave him an odd look.
+
+“You sound a little creepy when you say that. Gonna give a gal some context?” she asked sarcastically. Grim’s face went a little pink but he merely sniffed.
+
+“Ever since Delta and that dungeon cursed me... I... dunno, taste people,” he waved one hand with annoyance. Ruli put one finger to her chin.
+
+“Did you get consent? Has someone told you about that? The Dragons and the Goblins?” she inquired with a sudden glint in her eyes. Grim pointed to Mr. Jones who was merely reading some trashy romance novel, smiling as Grim’s face went redder.
+
+“He used graphs and diagrams, I know that very well, thank you. What I mean is people give this... they give off this taste. Like snakes when they taste the air but I can do it with people and I think it’s why my tongue is orange and— never mind,” Grim huffed and went back to detailing his second-floor map.
+
+He had no idea what made him tell Ruli. It was such a stupid move giving her more ammunition to tea-
+
+“A mutation of a gift or bloodline ability isn’t odd. Happens all the time when you’re exposed to a new environment or odd energy you’ve never been near before. Doesn’t happen to adults but when you’re young, your body is still changing. it's easier for outside forces to slip something in and mix up your baseline. You eat paper and now you can taste people’s aura or being. You got the gift in a dungeon so most likely you gained the ability to taste people’s mana since that’s what Dungeons feed on,” Ruli said without really looking at Grim.
+
+His mouth dropped open but Ruli kept talking.
+
+“Don’t worry about it. No one's gonna freak if you admit you got a little more than MP from Delta. You’re not a freak or cursed. You just... got some experience is all,” Ruli stretched and kicked back in her chair as she eyed the windows, the setting sun casting the room into shadows.
+
+“Have you ever been... changed like this?” Grim asked quietly. The only sound was Ruli’s creaking chair and the slight turning of paper from Mr. Jones.
+
+“Me? Nah, can’t improve what's already perfect,” she grinned. Grim gave her a flat look before Ruli waved it off.
+
+“I was exposed to some really dangerous places. Made my not-so-human side really grow. It can do that. Just make you stronger if you expose yourself. But be careful, sometimes you can’t undo what happens,” Ruli’s red eyes met Grim’s.
+
+“Don’t be in a rush to dive into the crazy shit. You got a huge life ahead of you, don’t let someone take the good times in the present away from you,” she added. Grim looked at Mr. Jones but he merely turned another page.
+
+He felt… a lot of things at Ruli’s words.
+
+So he settled on a feeling he knew well. Annoyance.
+
+“She swore and you aren’t going to do anything?” he demanded to Mr. Jones. The demon merely blinked.
+
+“I am sorry, I must have gone selectively deaf for a moment. Ruli, did you curse?” he asked in a rather convincing disapproving tone. Ruli shook her head.
+
+“Nope, Mr. J. Must have been in the kid’s head,” she yawned and went to sleep on her desk. Grim glowered at her but went back to his maps. Ruli’s words swimming in his head.
+
+Good times? What good times? Until he braved the dungeon he was always struggling to get anything done! Now here he was penning the first map of Delta’s Dungeon. That was progress. That was what was important.
+
+He idly fiddled with the cat doll in his pocket he had won from the dungeon. His first piece of treasure. It was a simple thing really but Grim couldn’t help but feel a spread of warmth as he kept thinking of this piece as his.
+
+He had earned it... even if it did result in him meeting the... mime.
+
+---
+
+“HELLO!” Deo waved. Renny looked at the boy and then at Devina.
+
+“This one's invited. You don’t need to chase him out,” she promised. Renny didn’t really mind the chasing part but it was the near dying and Delta’s panic that flustered him. Still, the mime patted the boy’s head and looked at the rest of the group that was eyeing the circus and the statue of his father with interest.
+
+He pushed with one foot and his other slid forward. His power made his feet cold as he skated towards the grumpy man standing close to Rale, his blondish hair and serious face making Renny instantly want to bother him.
+
+“This is the contracted monster that Delta unearthed?” the man asked Rale quietly. The frogman nodded in response. Quiet but not enough to escape Renny’s hearing.
+
+If Delta was right, then this would be Quiss. Friend of the demon woman who had utterly crushed Renny before he came to his senses.
+
+“Lovely to meet you,” a cheerful woman said to him, her slightly round frame and red cheeks made Renny like her. She looked like a woman who would take in strays and feed them. Renny bowed as a gentleman should. Just the way his father taught him.
+
+This would be Holly.
+
+The quiet woman with the lute merely gave him a polite smile but it was the man with the clipboard that caught his interest. He was staring at the statue with a very odd expression.
+
+“Noland, are you well?” Holly asked with a small touch of concern in her voice. Noland cleared his throat but he kept staring at the statue.
+
+“It’s... I know this man. I think. When I was young. A show came to the capital. A circus...” he trailed off. He shook his head.
+
+“I was so young but the posters lingered on walls for years. His face was on all of them,” he explained. A show in the capital. A time before Renny was in the circus. How odd... to think he would find someone who had seen his father in the flesh.
+
+A feeling spread across Renny’s chest as he thought of the people out in the world that may still hold scraps of memory. Memories of a time when the circus was... alive. Even this man held onto some precious moments that his father was able to give.
+
+His home was not lost yet to the march of time.
+
+He took Noland’s hand into his own and shook it firmly. He could not speak but he tried to convey his gratitude for the man’s words.
+
+“I... not sure what is going on,” the man said, but relaxed when Renny let go.
+
+“Why would the circus be down here in the dungeon?” Holly mused. Quiss cleared his throat and moved forward.
+
+“I’m not sure that’s important right now. Noland, make a note of the area and we shall move on,” he said a little too quickly. Renny knew why, but he had a feeling Quiss also knew to an extent. He wondered why he didn’t want Noland or Holly to know.
+
+Renny let it go. The only thing that mattered was that it was about time for Wilhelm to be coming home for his nap.
+
+He raised one finger to try and catch their attention to maybe warn them but Wilhelm did it well enough on his own when he charged into the cave, beating his chest in welcome. There was a lot of noise. Mostly Noland screaming, Holly’s excited noise, Deo’s yelling, and Quiss’ cursing.
+
+“Wilhelm, how are you!” Rale greeted and the giant ape snorted at the number of people in the room.
+
+“Well, he gibbon everyone a scare!” the bird squawked. Devina shooed him away but the bird merely landed on Deo’s head.
+
+“No one appreciates the art of monkeying around anymore,” he informed Deo who grinned.
+
+“THEY MUST DRIVE PEOPLE BANANAS!” he agreed. The bird closed his eyes in pleasure and sat on Deo’s shoulder like an affectionate pet.
+
+Renny was sure Quiss’ ears were steaming a little as Noland still hadn’t stopped gibbering like a madman.
+
+It was just a giant ape. Noland should have seen the circus in the best days. The shows that played there sometimes literally drove people a little crazy for a while.
+
+It was then Renny noticed Delta was nowhere to be seen.
+
+He wasn’t sure there was anything would be more important than watching the guests. Unless something was and Renny didn’t know it yet. He braced himself for any news and allowed the group to go into the tent. A shadow of its former self.
+
+If Delta had unearthed anything else, Renny would be first in line to offer a hand to... dispose of it.
+
+---
+
+What had been a basic square boss room was now replaced by a large circular space with no clear defined edge with trees acting as the walls. Grown so close together that nothing could be seen beyond, the massively increased space had large patches of grass and wildflowers growing in rings towards the center where a deep pond was filled with crystal clear water. The water rose and lowered slightly at intervals, almost like a heartbeat.
+
+Rising out of the center of this pond was a giant tree.
+
+Delta stared up at it with a nervous expression.
+
+“Hey, how are you doing?” she asked. The large wooden being shivered as lush green branches shifted. The act of hiding the Wyin tree was a moment of panic but it seemed to have turned into something else. The offer to turn the tree into the boss of the floor was sudden and it also solved a lot of Delta’s problems.
+
+A tree was nice and didn’t make Delta feel like she had to create a monster just to be a boss. However… she had not expected the tree to gain sentience beyond a simple awareness. Delta had definitely not planned on the Wyin tree looking down at her with very expressive eyes.
+
+The Wyin tree’s trunk was curved as a body formed midway up the trunk. Two powerful arms spread into many branches that produced healthy green leaves. The body showed a rough form of a woman the details becoming sharper as they moved up towards the face.
+
+The Wyin tree’s face looked life-like. Supple lips with a defined nose. Her eyes glowed deep green as she looked down at Delta. Her hair, as it was, was a flowing mass of branches that blossomed with small white bulbs.
+
+Her tree had become a woman-tree. Delta did not plan this nor was she warned this would happen.
+
+“Mother... I am...” the voice was stiff as the tree practiced moving her lips with more ease.
+
+“Alive,” she finished. Delta smiled weakly.
+
+“Welcome to the dungeon... uh, Wyin!” Delta aimed for a positive tone and managed a slightly nervous laugh.
+
+“Yes... my name is Wyin. Wyin… Wyin... the name is so... important,” she mused and spread her branches wide as if stretching after a long nap. The cracking noise as bark broke and branches shook lose was loud.
+
+“Ah much better!” Wyin beamed as the room’s ceiling beamed down with fake moonlight. The light filtering through the branches of Wyin made the scene look magical and Delta couldn’t help but marvel at the sight of it.
+
+Wyin was least as tall as two men and her form looked powerful as she swung her branches with ease. As the moonlight focused, the buds on her hair blossomed into pale flowers.
+
+It was so wonderful!
+
+“I live to protect you mother, may I water these flowers with the blood of your enemies!” Wyin vowed, thick thorns piercing every branch of Wyin's body as her beautiful form turned into a whirlwind of death.
+
+Why were her eyes glowing?
+
+Why was the water in her pond making mist?
+
+Why was was she laughing like a maniac?!
+
+Delta had a bad feeling about this which only grew worse when Noland’s scream echoed in the jungle.
+
+Delta blinked before her mind stepped in to remind her of something.
+
+“The pygmies!” she screeched and looked between the cackling Wyin tree as it swung its deadly branches and the door which led to Noland who might be in trouble.
+
+Delta prayed Devina could handle the cute little mushrooms without hurting them. They were just playing, she was sure of it! Delta had even made a few more of them to give them more friends!
+
+---
+
+“Cover!” Quiss hollered as another series of blow darts rained down on him. Noland was fast on his heels.
+
+Holly’s distant laughter only made him run faster.
+
+“Why are they only shooting at us!” Noland yelled as he held his clipboard tighter.
+
+“Cause you stepped on one and I laughed as it threatened you!?” Quiss shouted back with a burning in his lungs.
+
+How were those tiny legs keeping up with Quiss and Noland? The little mushroom people should’ve long since been left in the dust.
+
+Noland shouted as one of them tried to land on his face but his clipboard swung out and batted it away by sheer luck.
+
+“How do we make them stop!” Noland panted. Quiss was about to answer when he suddenly ran out of branches to ignore and his feet left solid ground.
+
+Hot steamy water rushed up around him and Quiss found himself submerged. Noland was right behind him and he tripped sending his clipboard on the other side where it landed with a clunk on solid ground.
+
+Having no other idea except burning it all to the ground, Quiss pushed Noland’s head underwater and held his own breath before he joined him.
+
+The water was so warm... after the initial scalding, it was quite pleasant actually. He could see a glowing red crystal at the bottom of the water, barely covered by a box with bars so people could see inside.
+
+Of all the uses for a fire crystal of that size...
+
+It was so like Delta.
+
+Noland was turning blue next to him but the shadows above were waiting...
+
+Quiss wished Seth was here. It was far easier to throw him at danger and not feel guilty. The man was a water cockroach.
+
+Suddenly a large shadow appeared and Quiss allowed Noland to breach the surface. Quiss followed and was stunned to see a confused Mr. Mushy looking at the bowing and worshiping tiny mushrooms.
+
+Mr. Mushy had more pots but the little ones seemed so awestruck by the sheer size of Mr. Mushy that they surrounded him and sang little squeaky prayers at him.
+
+Quiss was sure he was witnessing the birth of some mushroom cult.
+
+But the plus side was that there were no more darts in his face.
+
+That was a bonus.
+
+Mr. Mushy waved at the tiny ones and they all squealed with delight and prayed harder.
+
+Well, Quiss mused as his wet hair steamed, if there was anyone he didn’t mind in charge of a cult... it would be Mr. Mushy.
+
+The sales of pots to dungeon visitors might become slightly more aggressive but Quiss honestly couldn’t care less right now.

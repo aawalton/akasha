@@ -1,0 +1,149 @@
+---
+id: 3f0ec034-fcd1-5f48-a73d-1d3a31e36d42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30"
+slug: 0030-chapter-30
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 30
+ownLength: 1880
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2642654/chapter-30"
+royalRoadId: "2642654"
+---
+
+Sphii was more than a little confused about the day's events. It had been several days since she had woken up in this forest, where she recognized nothing at all. It was nothing like the forest she was used to.
+
+The trees were different, and many of the animals were ones she hadn’t met even once in her life. Then there was today where she was attacked by an incredibly powerful snake monster that had caught her by surprise.
+
+Because of course, there was nothing in this world that would ever catch someone as magnificent and intelligent as her off guard.
+
+No, nothing!
+
+She was the best of her flock. Sphii was the best engineer known to birb kind. The construction, or better known as the magnificent process of building universe-renowned art, also known as her nest. Were always one of a kind and incredibly well made.
+
+There was no need to even debate the subject. She was the best there ever was and was a proud engineer of twig construction. It was unquestionable.
+
+And just as she was about to begin construction on the previously aforementioned nest. Once again, bringing into the world one of the great wonders of the universe to life. She was attacked by this despicable snake.
+
+Did it not know who she was? Sphii was an engineer! Able to deconstruct and improve anything she even glanced at related to building. She had even read a few pages of the pesky beastkin books from the forest that had squiggly lines and numbers that explained the subject! A^2 + B^2 = C^2!
+
+It was so simple even a newborn chick could understand it! Or at least that's what Sphii thought. But alas, the woes of a genius go unheard by the masses of peasant normal birbs and their nest building.
+
+While in dire straits. Being ambushed by the sinister snake, Sphii complained as she rightfully should.
+
+Screaming for assistance and the snake's supervisor.
+
+What was it doing here after all! Should it not be looking for more suitable prey?! Sphii was only level 10 after all. Hardly a respectable fight by monster standards.
+
+The snake menace had no class!
+
+Regardless, Sphii spotted a large four-legged beast and pleaded, with all the elegance of a top engineer, for help. And of course, the beast helped.
+
+Wait, no, don’t just look at me! Help!
+
+And of course— the beast helped. Taking down the snake in one mighty blow to the head after bringing it down from the tree.
+
+The beast was large, extremely so. At least twice the size of herself by Sphii’s engineering estimate. And like a magnanimous and benevolent birb of such stature, she thought it was best to thank the four-legged monster.
+
+As well as tell it off for waiting so long to help her from the snake. A righteous talking to commenced from Sphii. But the four-legged monster seemed to disapprove of her factually and morally accurate argument of why the beast should have helped not only sooner, but more carefully.
+
+Sphii’s feathers were slightly ruffled after all, and no one could have that.
+
+But after a few back and forths, that Sphii frankly felt she won handily. They both decided to agree to disagree. And it was entirely not because the four-legged monster decided to use some sort of magic that would have turned her into fried birb.
+
+After de-escalating the situation. Sphii rightfully took to asking the beast for her superior so that she could lodge a complaint about its behavior. The service of her rescue was not something acceptable by anyone.
+
+That was when the beast pulled out something entirely unknown to Sphii. A food that smelled of sweet nectar, unlike anything Sphii had encountered before.
+
+And of course, it was her duty to inform the beast that it was only customary to share such things with guests and rescuees such as herself in these situations.
+
+However, the four-legged beast refused to adhere to proper rescuer etiquette. Restricting Sphii from being able to partake in the delicious food that was immediately in front of her and obviously waiting patiently for an amazing engineer of Sphii’s stature to consume it.
+
+It could easily be called a crime. A universe-level war crime!
+
+But as one would expect, after some fierce negotiations with the beast. Sphii won out once more in the mental sparring known as “The Food Talks of the 201st Era”.
+
+And that was when the reward of the talks was presented to her. Food of immaculate proportions, unlike anything received before, Sphii was sure.
+
+It, without a doubt, was the best thing she had ever tasted. And it was at that moment she knew she had been wrong this entire time.
+
+This beast with four legs was not someone to be talked down to or reported to a superior for bad behavior.
+
+No.
+
+This was a goddess among extras. A beautiful forerunner of hospitality that, without a doubt, everyone in said industry should emulate without fail. The zenith of proper care.
+
+Sphii decided right then to follow this beast for the rest of her life.
+
+She would dedicate the rest of her life to defending the honor and reputation of this great and wondrous four-legged angel that was bestowed upon her. Sphii would use every resource available to her as a top-tier, incomparable engineer at the top of her field to allow for her to do everything she ever wanted.
+
+That was when her new mistress and superior decided to cement that thought even further in Sphii’s mind.
+
+She was caught once again unaware in her moment of blissful epiphany. The sound of a loud bang rang out as her mistress moved to block some sort of projectile.
+
+In that moment, Sphii was made painfully aware of just how strong her new mistress was.
+
+The surroundings went up in flames in an instant. White fire rained down not only on the trees but also ignited her person as a whole. Bringing about a brilliant scene that Sphii would never forget.
+
+In a flash of power, the weight of her mistress’s power and mana came crashing down on her. Telling Sphii just how much of a gap between them there really was.
+
+Her mistress’s power let loose and was then moved at a speed Sphii couldn’t follow. As if disappearing, only a trail of white fire hoof prints were left as any evidence of where she might have gone.
+
+All around Sphii, she witnessed pure destruction at a magnitude she could barely comprehend. Trees were being felled by loud thunderous cracks and singed to nothingness in pure white fire. In the air, the same thunderous steps sounded out as if a storm was brewed and formed in the sky above.
+
+Only an afterimage of a white line was seen in the sky as it fell from above, only long enough to split another tree in half.
+
+It was clear that the difference in speed was not normal, nor a result of only level. Even with several differences in levels, so long as the Rank was in the same tier, there was always hope of overcoming a stronger opponent.
+
+However, the sheer level of speed and agility displayed was something no F-Rank had any hope of competing with. At least none without a rare evolution or a patron God giving them a blessing.
+
+Sphii had never heard of any beastkin obtaining the favor of a God while being under C-Rank. So she assumed her mistress had also not obtained a blessing. Meaning she must have gone through a rare evolution, or better yet, obtained a title or skill above Epic Rarity.
+
+Or was it possible that she had reached even beyond?
+
+Legendary? No, Heavenly Rarity..? Sphii thought as she attempted to follow the fight.
+
+Streaks of green projectiles and explosions tried their best to find the white blur, but found no purchase over the course of the fight.
+
+And of course, as Sphii knew, was the expected result of someone she had chosen to follow and recognized as an engineer and all-around expert of things. Clear victory for her mistress.
+
+Coming down in one final streak of white light and standing amongst the flaming rubble of the forest and beasts that challenged her was her mistress.
+
+Sphii, of course, knew she, herself, was of course capable of such things. And the gesture of her mistress to lay siege to the perpetrators of this attack until not one stood was simply a formality in the forming of their lifelong bond.
+
+Her eyes sparkled in the possibilities that they could reach together now that their relationship as mistress and unmatched engineer of the universe was now set in stone and completely not one-sided.
+
+She was so excited and unable to contain her joy that she chirped and hopped in joy.
+
+Tachyon let out a breath after laying waste to the surroundings. Finally killing the last of the squirrel legion that had been sent after her.
+
+She had not used her clone skill this time around, wanting to personally end them.
+
+Looking at her status, she had gained another level. Bringing her to level 23, which was a pleasant surprise, and leaving only 2 more levels until another skill selection.
+
+Tachyon was also curious as to how her skill selection would look now that she had made contact with Secretariat, as well as her rare evolution.
+
+The sound of excited chirping caught her attention while she was in thought, as she craned her neck to look behind her. The Humming Beak hopped back and forth, white and orange crumbs on its face as it chirped, raising its wings up and down in somewhat of a cheer.
+
+Tachyon couldn’t help but feel her heart warm at the sight.
+
+I suppose having a small companion follow me around for a time wouldn't be the worst outcome. She thought.
+
+She then went and scoured the still-burning forest for anything that survived. Monster cores, items, equipment, and the like. But was only able to find the occasional core, her flames melting anything not above a certain grade, it seemed.
+
+“The equipment they used seems to be relatively low quality, but it was still dangerous. If any of those exploding things caught me off guard, it would have been a disaster,” she thought aloud, the sound of flapping wings reaching her.
+
+A small bird perched herself on the end of her snout and raised their wings.
+
+“So you really are going to follow me around then?” Tachyon asked.
+
+The Humming Beak nodded furiously, still giving off an awkward air of superiority and subservience at the same time.
+
+Tachyon didn’t say this part out loud, but couldn’t help not find it unpleasant to have such an adorable bird following her. She was quickly finding out that she had a soft spot for cute things, just as much as she had for tasty treats.
+
+It was an interesting time for her, and she couldn’t wait to see what was in store for her once she reached her goal of ascending to the top of the mountain.
+
+But first, it might be time for another snack break.
+
+“Maybe after we move somewhere else first,” Tachyon laughed, looking around at the fiery remains of the forest.

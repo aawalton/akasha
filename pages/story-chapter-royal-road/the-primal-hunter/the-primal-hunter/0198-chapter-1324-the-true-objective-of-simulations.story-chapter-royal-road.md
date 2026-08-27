@@ -1,0 +1,143 @@
+---
+id: afda6157-5051-5ddc-a2dc-29bba7ea3213
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1324 - The True Objective of Simulations"
+slug: 0198-chapter-1324-the-true-objective-of-simulations
+partOf: the-primal-hunter
+position: 198
+ownLength: 2710
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3478549/chapter-1324-the-true-objective-of-simulations"
+royalRoadId: "3478549"
+---
+
+What exactly was the Seat of the Exalted Prima? That was the core question Miranda had continually asked herself both before and during this Administrator Test. What was its purpose?
+
+The first system event with the Seat allowed participants to experience a simulated world depending on whether they had made a different high-impact decision in the past. They had then been allowed to effectively alter their Paths based on the new reality simulated. Phillip, the former leader of the Fort, had been one of the most notable people who’d changed his Path after the system event, reinventing himself and going far further than he usually would. Admittedly, it was doubtful if he would reach B-grade, but if not for the system event, he would likely never even have made it to C-grade.
+
+After that was the Prima Guardian event, which Miranda had a difficult time understanding the meaning of. She understood its purpose. It was a test of the natives across the new universe and decided the fates of planets inhabited by enlightened beings, but that didn’t really mesh with its connection to the Seat of the Exalted Prima.
+
+Based on the first event and this one, the core of the Seat of the Exalted Prima was the concept of simulation. Meanwhile, the Prima Guardian and Primas in general had been very much real. However, upon further consideration, and in part due to having been allowed access to the internal discussions amongst the higher-ups of the Order, Miranda believed she’d started to understand why it existed.
+
+The Prima Guardian had been an existence capable of emulating those on its planet. It could mimic certain skills and adapt like a chimera, while decidedly not being one. Instead, Miranda had begun to believe that it might have been a simulated creature, or at least born of the concept of simulation. An artificial creature, of sorts.
+
+There was a definite futuristic aesthetic to the entire Seat of the Exalted Prima. It used high-tech drones to inform them of things, was literally a space station of some sort, and naturally used simulation, something often associated with a high level of technology. Given that, it wasn’t a stretch to say that if the Seat of the Exalted Prima could bring real people into a simulation, wasn’t it also theoretically possible for it to have summoned a simulated creature into the real world?
+
+Of course, it was all a theory, but it had gotten Miranda thinking.
+
+And those thoughts had ultimately led her to decide what to do with the place known as the Unnamed City. As William had said, the place was indeed horrid. The citizens were suffering; the leadership was incompetent, and Miranda felt compelled to try to right the wrong before her eyes, but she stopped herself and decided not to get involved.
+
+She could be wrong, and she would accept it if she were, but she believed that her judgment had been correct. Miranda’s conclusion regarding the city was simple:
+
+It didn’t exist.
+
+Or, perhaps more accurately, it was just a simulation. A temporary construct, much more fake than even a dungeon, where at least theoretically the creatures within could be taken outside. Meanwhile, the Unnamed City wasn’t real, something she even believed the Seat directly hinted at with the name.
+
+Why would a city that had clearly existed for a long time be unnamed? Also, why was there nothing around the city to show it was inhabited? In addition, and this wasn’t her who noticed it, but the wyvern, then there was no wildlife to be found anywhere. The only other “life” in this entire simulated world seemed to be within the city.
+
+That’s why Miranda decided not to waste her time even interacting with the place, which should definitely be a valid option. Choosing inaction was an action in and of itself and was the one she would stick with. Besides, getting nearly a full month for them all to practice their magic in a quiet environment was a great opportunity, especially for those of them who’d very recently evolved.
+
+Miranda would be lying if she said she wasn’t a little nervous that her judgment had been wrong. Alas, she’d made her choice as the timer ticked by, with nothing happening until the final three days of this stage of the test.
+
+William was the first to notice, as he warned them, that a large force appeared to be approaching the Unnamed City. He’d gone to scout it out and kept them updated as he merely observed what would happen.
+
+The approaching force consisted of over a thousand people, with nearly all of them C-grade, except for ten B-grades who led the group. They approached the Unnamed City and took it over, executing the ones currently leading it. Before William saw them do more, Miranda called him back, as, quite frankly, none of it mattered.
+
+She cared only out of curiosity, as she liked to imagine what might have happened if they had decided to try to help the city in some way. Would they have been attacked by this approaching force? Thanked for helping the city? Would this force even have appeared if they had gone to the Unnamed City? Assuming the answer to that was yes, would they perhaps have come earlier?
+
+Lots of questions they ended up never getting the answer to, as the thirty days of this stage were up quickly.
+
+Congratulations, you’ve passed the second stage of the Administrator Test. The next stage will begin shortly. Do not leave the entrance platform.
+
+The system message appeared, and with it, their group of five found themselves back inside the Seat of the Exalted Prima. Seeing the message itself, Miranda smiled a little. “I assume we all passed?”
+
+She got nods all around, making her nod. “I doubt you could even fail that stage. Or maybe I’m a genius who saw through the true nature of the Administrator Test already, and everyone else actually failed.”
+
+Her boastful joke sadly didn’t have time to elicit any positive reactions, as the metal disc beneath them suddenly activated yet again. The five once again had their consciousnesses transported into the simulation, and soon, they found themselves somewhere quite familiar.
+
+“I see how it is,” Miranda said, feeling a little proud that she’d already considered this as a possibility.
+
+They found themselves standing on the same hill with the Unnamed City far in the distance. Everything was exactly the same, making her believe they were indeed doing a repeat, something the system message quickly confirmed. Though it did appear there was some change, at least with the objective.
+
+Administrator Test is continuing. Stage three: Another Cycle.
+
+Objective: Consider the result of the last stage and take whatever actions you deem necessary and which you believe will prove most beneficial. This stage will last for thirty (30) days.
+
+There were definite changes in the objective, but the vagueness remained. It was also immediately evident that this was effectively a time-loop kind of situation, though, since it was another thirty days, it would only be a twice-and-done kind of deal.
+
+“Most beneficial...” Holstred muttered, having read the objective. “For whom?”
+
+“Now that’s the question, isn’t it?” Miranda asked with a smile. “Perhaps one without a true answer. I’m getting increasingly unsure that there aren’t several ways to approach this test and be approved as an Administrator. Doesn’t mean it makes sense to me, but the Seat of the Exalted Prima must be judging something subjective regarding our approach.”
+
+“Then would I be right to assume that we’ll stick with the same strategy?” the wyvern asked.
+
+“If I believe I’m right, which I do, that would indeed be the most beneficial thing to do. For us, anyway,” Miranda said, and this time around, they didn’t even bother leaving the hilltop they originally appeared on. William didn’t go investigate the city, and even when the army appeared towards the end of the month, they stayed put, doing their own thing.
+
+Lillian and Miranda had plenty of rituals and magic to study, which made them spend most of their time together. Meanwhile, Holstred enjoyed practicing his swordsmanship and even sparred with William, who was clearly holding back during their duels. The wyvern was by far the one with the least to do, but as a creature used to being solitary, he didn’t complain. He simply meditated and continued trying to improve his Records by at least a little before his evolution.
+
+Like so, the third stage quickly came to an end, having proven itself even more uneventful than the second one. Yet Miranda had found it quite beneficial, and wasn’t that the objective?
+
+At least the system didn’t outright tell her she’d failed as yet another system message marked the end of the stage.
+
+Congratulations, you’ve passed the third stage of the Administrator Test. The next stage will begin shortly.
+
+With that, they were once more teleported back to the Seat of the Exalted Prima. With the previous three stages having all lasted thirty days, and the event's total length being a hundred, it meant only ten remained before the Administrator Test was done.
+
+“It would be rather ironic if the system just didn’t tell anyone if they were failing or not, but just kept making them continue completing these stages despite how futile it would be,” Miranda said in a joking tone as they waited for the system event to continue.
+
+After spending two months not going much, they were all a little bored, and Miranda hoped that the fourth and probably final stage would be an interesting one. So far, only the first stage - the Tutorial - had included any mandatory combat, so she reckoned there was a solid chance this one would, too.
+
+“That would be unfortunate,” William commented. “But at least it won’t have been a waste of time. The Tutorial was a valuable experience, and the practice wasn’t wasted. While it doesn’t seem like we gained any experience even when using professions, we definitely earned Records. Likely more than usual, given the environment.”
+
+“True,” Miranda nodded. “Now, let’s see what- oh, there it is.”
+
+Right as she was about to comment on the system message being late, it arrived.
+
+Administrator Test is continuing. Final stage: Administrator’s Terrace.
+
+Objective: Successfully claim your role within the Administrator’s Terrace. Time limit: ten (10) days.
+
+Short, sweet, and simple, but also pretty vague. Fortunately, Miranda did know what the Administrator’s Terrace was. It was the unfortunate place where Jake and Ell’Hakan had first met one another during the first Seat of the Exalted Prima system event. From how he’d briefly described it, the place was one of the hemispherical greenhouses with a garden on it, with a clear view of the stars surrounding the Seat. That made her believe it was towards the top of the space station.
+
+Not that such knowledge helped her much in finding the place. Jake had been teleported there originally, and based on the layout of the Seat of the Exalted Prima, many places seemed accessible only through teleportation.
+
+“Seems rather straightforward on the surface,” the wyvern commented. “Way too straightforward. No way the objective is just to search the entire place hoping to find a random teleporter taking us to this Administrator’s Terrace.”
+
+“Certainly not,” Holstred agreed. “There must be some method to discover its exact location.”
+
+“For now, we should at least leave this room and check out the common areas for any clues,” Lillian acted as a voice of reason, pointing out that the room they were in was no longer sealed off.
+
+“We should,” Miranda agreed, not feeling overly rushed. Turning to William, who’d definitely shown himself to be a major asset during this entire event, she saw he looked a bit off. “What’s wrong?”
+
+“I can’t detect anyone else. Not anywhere,” he muttered, making some weird magical seals with his hands. “We’re the only five people in the Seat of the Exalted Prima as far as I can tell.”
+
+“That... doesn’t make much sense,” Miranda frowned as she looked at the large hallway leading towards the common area that had been the first meeting place of the many races and factions of the Milky Way Galaxy way back then. “Let’s go, maybe you just can’t feel them due to barriers or something like that.”
+
+It turns out there weren’t any barriers blocking their way, and the five of them could freely wander the entire Seat of the Exalted Prima unimpeded. They went to a few of the other rooms, which should belong to other planets who’d entered the Seat of the Exalted Prima for this Administrator Test, but there was no one anywhere.
+
+Miranda was a little surprised that no one else from Earth had entered this test, but not that much. However, she knew for a fact that people from other planets would definitely enter the Administrator Test. Not even necessarily because they wanted to become Administrators or dared compete with Jake, but simply to gain the Records from participating in a system event.
+
+That’s why this truly made no sense. There should at least be someone else.
+
+“Could everyone else have failed?” Holstred questioned. “Perhaps the Seat judged that they weren’t truly aiming to become Administrators and compete for the World Event, making them fail the test. Lack of desire to truly take up the role could be a disqualifying factor.”
+
+“That’s entirely possible,” Miranda said, considering his words. However, she quickly wrote it off. While the vast majority certainly wouldn’t dare compete with her, much less Jake, that didn’t mean there weren’t some who dared to at least try. They knew they wouldn’t win, but some would definitely want to become Administrators, hoping that by some miracle, they would end up as the Chief Administrator.
+
+Even if they couldn’t gain that title, no one knew whether Administrators would keep any power or influence after a Chief Administrator had been successfully selected. Doubt regarding the true roles of these Seat of the Exalted Prima titles should alone be enough for at least a few to have earnestly tried to pass the test.
+
+“I don’t think it’s a good assumption that everyone else failed the test,” Lillian said, shaking her head. “Something else is going on here.”
+
+“There certainly is something amiss,” the wyvern frowned, sounding more like he wanted to be part of the conversation than having any actual input.
+
+Miranda was in full agreement with both of them as they continued walking through the large space station and its many common areas. They even went to the hallway of simulation rooms that Miranda had used during the Myriad Paths event. Holstred had also done the event, though that had been back on his home planet, while Lillian hadn’t quite been strong enough to participate back then. Oh, and William was still in the clutches of the Primordial of Karma back then, which led him to make many self-sabotaging decisions, such as not taking part in important system events.
+
+She considered whether that was why the mage was so quiet compared to the rest of them, and she was reluctant to ask him if that was the case. Being manipulated by a Primordial couldn’t be healthy and was bound to cause certain issues that would linger, perhaps for the rest of his life.
+
+Quietly chatting, the five kept exploring as much of the space station as they could over the next few hours, even finding a few teleporters that took them around the large complex. There were several hemispheres with gardens, places that resembled private residences, training grounds, and much more. Miranda hadn’t seen any of this the first time she was there. Likely because it had all been unavailable back then.
+
+Throughout, William didn’t speak at all, but instead kept making magical seals and appeared quite preoccupied. However, suddenly, he stopped and frowned, making the other four turn to him.
+
+“Did you discover something?” Miranda asked.
+
+“Pretty sure I did,” William nodded, and without any warning, his body exploded with energy as a whirlwind of metal strings was unleashed towards the four of them, striking Lillian first as blood soon filled the empty hallways of the Seat of the Exalted Prima.

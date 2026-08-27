@@ -1,0 +1,153 @@
+---
+id: fe450f6e-51fd-58b4-87d2-d80f42eee20f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29"
+slug: 0029-chapter-29
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 29
+ownLength: 1744
+unit: words
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2637327/chapter-29"
+royalRoadId: "2637327"
+---
+
+Tachyon’s back leg sank into the side of another tree. The sound of her white fire covered hoof hissing as it felled it at the impact.
+
+The small, annoying legion of furballs taking refuge in its branches scattered as the tree thudded against the ground.
+
+Tachyon didn’t miss the opportunity and fired a barrage of magic light fire carrots into the surrounding trees, catching some of the rodents with the attack but leaving more than a few unscathed.
+
+She had been holding off on using her Fire Light Clone skill because of the cooldown. But it seemed that if she wanted to win, she would have to turn the whole surroundings to ash to do so.
+
+And while she wasn’t a fan of trees. Tachyon didn’t see the need to do unnecessary destruction to the surroundings. The Junk Squirrles and their legion were annoying to say the least. But after several back and forths, she found them not to be a pressing problem.
+
+If anything, they were taking up more of her time than they really should have. Tachyon was much stronger than they were; that was clear. But their ability to avoid her and spread out made winning the fight difficult without a large-scale attack.
+
+And that was something Tachyon just wasn’t willing to do with no idea who may be around. Instead, she had a better idea.
+
+Instead of being held down by this current situation, she would just leave. And that was where he clones came into her plan.
+
+Tachyon summoned her clones, each one of the three forming in a billow of white fire before taking off in different directions.
+
+First, Tachyon had them run off in the directions the small furballs had, to hopefully gain their attention. And she moved in a direction she hadn’t yet.
+
+Her goal?
+
+To find one of the next Medium Controlling Stones on this level of the mountain. And also to find more compatible opponents that would hopefully be around her own level.
+
+If she wanted to reach her next evolution, as well as reach E-Rank, she would have to sadly focus more on gaining strength than eating.
+
+The thought hurt her heart, but she knew in the long run, being strong only opened doors. Doors that lead to more tasty sweets.
+
+And one such door was the top of the mountain that apparently held an E-Rank bird that she needed to beat.
+
+Tachyon also wanted to do this before the tutorial participants arrived. More people only meant more problems as far as she was concerned, and she would do her best to avoid them once they arrived.
+
+She had a little over a week before that happened, which she could only hope was enough to reach her goal.
+
+Dashing off and getting the occasional notification that her clone had killed a squirrel or two. Tachyon’s plan seemed successful.
+
+As a reward, she of course found a nice spot under a tree to bed down and have a little snack.
+
+And of course, just as her blissful sweet was about to pass her lips, the sound of a struggle broke out above her.
+
+Tachyon raised an eye to see a snake-like monster wrapping itself around a small bird.
+
+She tried her best to ignore it. It wasn’t her business, and she was more than aptly aware this was just the cycle of monsters. The weak were killed by the strong.
+
+However, the sound of the small bird became more and more desperate. The sound souring her mood as well as the anticipation for her sweets.
+
+That was the only reason Tachyon intervened. It was for the sake of her own sweets, not for the sake of the small bird about to be eaten by the snake.
+
+She sighed as she got to her feet, slamming a hoof into the side of the tree as it shook the entire thing enough to let loose the snake. Still wrapped around the struggling bird, it fell to the ground right next to Tachyon.
+
+Staring down at the slithering menace, its mouth still half unhinged, ready to swallow the bird. Tachyon raised a hoof.
+
+You have killed, Branch Lurker Level 13. Experience earned.
+
+Unsurprisingly, the snake wasn’t that low of a level or very high, but high enough to bully the lower-level monsters that were brought here. Including this small bird that struggled to wiggle out of grips of the now deceased snake.
+
+It battled with the dead snake as its eyes looked up in terror at Tachyon’s looming figure.
+
+Tachyon, however, knelt back down, ready to finally enjoy peace and quiet for a moment as she enjoyed her sweet-smelling treat.
+
+But it seemed fated that she would have no peace this day. The sound of fluttering wings and chirping.
+
+Angry chirping.
+
+Tachyon looked up to see the small bird she had just saved flapping a single wing as it used the other to point furiously at her.
+
+“Are you upset I helped you?” Tachyon asked incredulously as she inspected the bird.
+
+Humming Beak Level 10
+
+The bird both nodded and pointed again furiously, flapping its wings to shoot itself in different directions as if to show its level of dissatisfaction.
+
+Tachyon couldn’t believe that the small bird would be complaining about having its life saved and was forced to do a double-take.
+
+No, they are still there. And still pointing… She sighed inwardly.
+
+The Humming Beak was smart enough not to attack Tachyon. Giving Tachyon a reason not to just outright kill the bird. But she was quickly reaching her tolerance for the bird.
+
+Tachyon threw out a grunt and blew a puff of air to push the bird out of her immediate space. The Humming Beak doing a somersault in the air as it was blown backward a few inches.
+
+But it seemed that didn’t deter the hyper-aggressively complaining bird in the slightest. As it immediately returned, its cries of complaint reached new peaks as it buzzed around Tachyon’s head.
+
+This time, Tachyon blew harder, using some of her light fire magic to send the message more firmly.
+
+The Humming Beak flew backwards, dodging the small puff of light fire as it went to a nearby branch above Tachyon. However, it didn’t take long for the bird's cries of complaint to return, just from a more safe distance.
+
+Using both wings now that it was perched on the branch as it hopped side to side, it began crying out with more fervor if such a thing was possible.
+
+Having the rowdy bird finally a good distance away, Tachyon was able to safely and securely eat her snacks. First bringing out a slice of soft goodness.
+
+It wasn’t as crunchy as the apple treat that Ted and Ned made, this was far softer. On top of it being quite a deal sweeter, but Tachyon didn’t mind that one bit, in fact. She thought it made it all the better. Its creamy and soft white outer layer covered the just as soft and fluffy orange inside.
+
+She had inspected the treat as she took it from her storage, seeing that it was called a Carrot Cake. However, she preferred the name she thought up.
+
+A Carrot Cloud Sweet Treat.
+
+But it would only confuse the less elegant and sophisticated treat eaters if she used her own naming sense, she was sure. So she decided to go with the normal naming sense of Carrot Cake.
+
+As the first bite passed her lips, wondrous sweet euphoria exuded from her entire being. At least that was until yet another cry out from the bird came.
+
+Tachyon grunted in annoyance, half ready to blow the monster to pieces with her magic.
+
+“Will you be angry in a more quiet volume?! I am trying to enjoy my meal here!” she shouted.
+
+The Humming Beak, however, seemed to be less interested in its own self-preservation at the sight of the scrumptious food. Gliding down next to Tachyon as it began chirping as it jumped side to side.
+
+“No! This is mine! I have killed less adorable animals than you for less!” Tachyon roared, moving the plate of cake to the side with a string of mana.
+
+Now that Tachyon had a good look at the small Humming Beak, she was surprised to see just how cute the small creature was.
+
+A small yellow beak, sparkling emerald eyes, a fine coat of green and black feathers that almost looked like green fire. Or possibly wind? It’s small yellow feet with adorable talons.
+
+Tachyon felt her heart waver for a moment. Then she remembered her food.
+
+“No!”
+
+Then she saw the small bird again, flying to the other side of her, where the cake was moved. Landing to again chirp and bounce adorably as it complained for the food.
+
+“I said no! That means- That means…”
+
+Tachyon felt her heart waver once more as the Humming Beak’s demeanor suddenly changed. It began rubbing on its belly with its wing, its eyes looking up at her as if pleading.
+
+“I-I… I said n-n-n- Yes…” Tachyon sighed, lowering the food down for the bird to reach.
+
+The Humming Beak chirped happily and, for the first time, finally went silent as it began digging into the cake.
+
+Tachyon was taken aback by how much she enjoyed seeing the small monster enjoy the food. Awakening to something deep inside her person.
+
+It’s… It’s so keeeewwwwwuuutttttt! Oh my gods! Why is this small creature so adorable!? I felt nothing like this when seeing Ned and Ted. But this small bird is so utterly cute! I can not stand it! I would fight a thousand Secretariat’s for this bird, and I can not even fathom why! Tachyon thought, some sort of motherly intuition or deep feeling of needing to protect this creature in front of her, welling up inside.
+
+That was when she was about to reach into her bag of holding for another snack for herself, when she felt small signatures gather around her again.
+
+“Will you not leave me alone!” Tachyon yelled angrily, only to move directly in front of a projectile.
+
+A projectile aimed right for the small Humming Beak.
+
+The sound and pain of the sizzling flesh were insignificant to the flood of emotions Tachyon had suddenly come under.
+
+“You dare? After I allowed you to leave? Fine! This whole forest will burn to the ground! Time to experiment and see at what temperature squirrels turn to ash!”

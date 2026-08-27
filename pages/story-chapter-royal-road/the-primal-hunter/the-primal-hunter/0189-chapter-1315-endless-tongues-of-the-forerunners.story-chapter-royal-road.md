@@ -1,0 +1,133 @@
+---
+id: 2a322516-c0d6-5803-b47b-0936699ff6ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1315 - Endless Tongues of the Forerunners"
+slug: 0189-chapter-1315-endless-tongues-of-the-forerunners
+partOf: the-primal-hunter
+position: 189
+ownLength: 2891
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3418688/chapter-1315-endless-tongues-of-the-forerunners"
+royalRoadId: "3418688"
+---
+
+Jake had expected the natives of Venus to receive some kind of system message upon leaving their Minor World, and the thought that they would even get some kind of minor reward had even strafed him. However, it was immediately clear that Jake had severely underestimated the importance the system placed on the achievement of leaving Venus for its natives.
+
+“Would you mind telling me exactly what the system told you and what you received?” Jake asked in a serious tone. “For clarity, I already know that Forerunner of the New World is the name of a title.”
+
+While it was a title Jake also had, they clearly hadn’t gained them in the same way, as Jake had gained his in quite different circumstances, and he also doubted the benefits of the title were the same, even if it would be a little funny if they were.
+
+[Forerunner of the New World] – Complete the introduction and enter the tutorial as a forerunner of the New World. +3 all stats. Grants the skill: [Endless Tongues of the Myriad Races (Unique)].
+
++3 to all stats for a B-grade was genuinely comical, and had just been a bit of a boost given to newly integrated individuals, probably in part to make up for the existence of G-grade, and the often lacking starting variants, classes, and professions natives of a new universe often began their Paths with.
+
+Endless Tongues of the Myriad Races was a whole other story, though. Jake usually just mentally referred to the skill as Myriad Tongues, and it was by far the best translation skill in the entire multiverse, bar none.
+
+It was pure system-fuckery incarnate, and the description was simple to the point of being silly.
+
+[Endless Tongues of the Myriad Races (Unique)] - Allows you to communicate with the myriad races throughout the multiverse. A unique skill granted for free to the forerunners of a newly initiated race.
+
+The entire last part was simply there to be informative, as if to help new initiates know where the skill came from if they missed the initial system message or title.
+
+Considering these things and the low stats of the title, Jake wasn’t sure if whatever these natives of Venus had received was similar to what Jake’s title gave, which was one of the reasons he didn’t share that he also had the title, only that he was aware of its existence.
+
+Truthfully, a part of him was also a little nervous about what the system had told them. He had purposefully kept hidden the fact that the ninety-third universe was currently under level restrictions for outsiders, and while he now at least knew there wasn’t free travel between Venus and the solar system, Jake still felt conflicted.
+
+Despite Jake having asked the Shaman about the title, it was surprisingly one of the Arachnec Lords who answered first.
+
+“It’s a title given for successfully passing through the Boundary with the help of a native from the ninety-third universe before the full integration of this aforementioned universe,” the Arachnec Lord said, having seemingly decided to keep nothing hidden. “It provided +250 to all stats, as well as a skill known as Endless Tongues of the Myriad Races. Given your displayed prowess in all languages of our world, we presume this is also the skill you possess.”
+
+Jake was a little surprised at getting such a straight answer, especially from the undead spider faction. Seeing as it used the word “we,” Jake assumed it was an agreed-upon decision to be this open, maybe to remain in his good graces now that they had definitely confirmation the natives of Venus needed the help of natives from the new universe.
+
+As for the actual information, Jake was surprised at hearing that their title gave +250 to all stats, though, thinking about it more, perhaps he shouldn’t.
+
+Doing the math really quickly, Jake’s Forerunner title gave +3 to all stats, but that was for a G-grade. Seeing as it was kind of an unofficial grade, Jake chose to ignore it for now and instead just considered F to B-grade. That was a total of five evolutions, and going with stats usually tripling with every evolution, if Jake had gained the title today, it would have given +243 to all stats, right? The math wasn’t perfect, especially considering the existence of G-grade, but hey, maybe that’s where those final 7 stats to reach +250 came from. That, or the system just preferred using nice-looking numbers.
+
+Considering this, the stats weren’t even that impressive, and Jake realized it probably only seemed like a lot due to his recent evolution to B-grade. Besides, no matter what, the real gain from the title wasn’t the stats, but the overpowered translation skill.
+
+It was widely considered one of the biggest advantages provided to those newly integrated into the multiverse. Even if it kind of stopped mattering in later grades when it came to communicating with other races, as one could simply use intent to relay information, effectively live-translating words anyway, the same couldn’t be said about non-verbal or telepathic communication.
+
+Written text, new languages, old forgotten languages, and anything in between would be automatically translated by Myriad Tongues. Books could also be written with intent infused into them, but they were far from always being so, making it a pain having to learn the language to read them, no matter how fast a high-grade individual could pick up such things.
+
+Moreover, it was also just damn convenient, never having to fear that someone couldn’t understand one’s words. Jake didn’t need to think about communicating intent and whatnot when doing a lesson at the Order, but could just talk. Shit, if he wanted to write a book, everyone would be able to read it by default unless Jake purposefully manipulated Myriad Tongues to make sure they couldn’t. Not that Jake was ever going to actually sit down and write a book. Only nerds wrote books.
+
+Anyway, Endless Tongues of the Myriad Races was an overpowered skill that it seemed the natives of Venus could also get if they left the Minor World through the Boundary before the full integration of the ninety-third universe.
+
+Additionally, it could be argued that the true gain came in the form of Records. This was definitely a high-tier skill and would provide great benefits to those who gained it. Perhaps it could even help push those approaching S-grade over the border, though Jake still suspected the reason why no S-grades had appeared in the Minor World was due to a more fundamental restriction.
+
+After processing everything, Jake nodded in acknowledgement. “I do indeed also have that skill, and even a title with an identical name, though the circumstances in which I got it were vastly different.”
+
+“What does it mean when the message said that this is the ninety-third universe?” the Shaman asked a pertinent question, followed by one that was perhaps even more important for them to know. “Also, what exactly is a universe?”
+
+Jake knew he had a lot of common knowledge and whatnot to cover, but he felt there were more pressing matters, so he gave them a brief answer. “The universe is like the Minor World, just so much bigger, with various biomes, energy-densities, and just a myriad of possibilities. Nothing I can say or describe could possibly do its grand scale justice. And this is called the ninety-third universe, because this is the ninety-third universe to join the ninety-two before it, all of which now make up what’s referred to as the multiverse. I would delve deeper, but for now, I think we need to decide what we need to do.”
+
+While Jake was perfectly fine just floating within the Boundary and feeding his Palate, the Venusians couldn’t do this forever, so they needed to decide sooner rather than later.
+
+“From my perspective, we have two options. Either I bring you fully out of the Boundary and into the wider universe, which would definitely take some time, as I’m not willing to simply leave you right outside the entrance before properly introducing you to the area. Expect this to take at least a few days, and that's a very optimistic estimate. Second option, we head back into the Minor World, and you share this discovery with your kin, and we make a plan together with them on how to move forward,” Jake said, really trying to sell the second option, as that’s what he was hoping for them to choose.
+
+He probably should have considered the matter more, but he had no idea what the natives of Venus were supposed to do after leaving their Minor World. To make matters worse, Miranda, Lillian, and pretty much anyone else he would ask were gone doing a system event, and thus weren’t available. Not being able to simply offload responsibility truly was the worst.
+
+Maybe Arnold could help, but Jake had a feeling that in the field of diplomacy, the mad scientist wasn’t exactly better than Jake. No, if he wanted help, the only ones available were probably the Whaleman and Arthur back on Earth? They were holding down the fort while Miranda and everyone else were gone, but Jake wasn’t sure how much help they’d be.
+
+Thus, he hoped to at least delay things a little until he could come up with something.
+
+“I find myself tempted to explore this whole new world,” the Shaman said with a smile, making Jake curse internally a little. For a moment, anyway.
+
+“However, you’re right. We are here as representatives of our races and to scout the way ahead. While it pains me, I do agree it’s best that we return, report back on what we’ve learned, and make a more fleshed-out plan with the leaders of our factions. This integration into the wider multiverse isn’t something that will happen within just a few years,” the Shaman continued, fortunately proving himself to be a smart frog once more.
+
+“We concur,” the Arachnec Lord said, though truthfully, Jake had never been worried about them. No fucking way a bunch of noble undead spiders would want to go exploring on their own without at least first reporting everything and getting permission from the Nestmother or some other leader of their faction.
+
+“Great,” Jake nodded. “Do me a quick favor, though. Try to see if the barrier has any impact on you anymore.”
+
+The B-grades seemed to also only consider this now, as several of them moved out of the invisible barrier again and back to the Venus side. They all looked nervous as they approached Jake and the remaining B-grades once more, but fortunately, it seemed like the system had given them free travel passes to leave and enter the Minor World now.
+
+With yet another positive confirmation in the bag, their ragtag group of undead spiders, giant bipedal frogs, and singular human started heading back towards the inside of Venus once more, with Jake really hoping that they would appear in roughly the same place they had entered the Boundary. It would be very awkward for the eleven of them to appear in the middle of fucking nowhere, though. If it did happen, hopefully the Venusians or Arachnecs had some way to reach out to their factions.
+
+Their flight back was a lot more relaxed, especially this time, as the toxicity within the Boundary would lessen as they traveled, not increase. He was sure the Venusians appreciated that, as the Shaman did what he could to help his kin on their way back.
+
+Jake could have maybe helped with Pride or something like that, but he figured that the Shaman had things handled, so he didn’t do anything. Instead, he thought ahead to the upcoming discussion with the A-grades of the Venusian and Arachnec factions.
+
+He hoped they could reach a good agreement and make a solid plan for the upcoming immigration of Venus natives into the wider multiverse, while hopefully not complaining too much about Jake only being able to bring out people the system judged weaker than himself.
+
+All in all, things really continued to go pretty damn swimmingly, and everything indicated that this would all end nicely. At least that’s what Jake thought.
+
+Watching his Chosen inside the Minor World was truly entertaining, though also a little frustrating at times. His dear Chosen had handled himself well by Jake-standards, sure, but his approach remained rough, and his plan had several shortcomings that fortunately had yet to prove fatal.
+
+What’s more, he didn’t even know where his missteps were. He had missed several things and chosen to reveal some information he probably shouldn’t have. All while keeping other things hidden that would have benefited him in the long run.
+
+Not that he judged his Chosen too much. This was his first venture into a world full of more powerful natives with no knowledge of the wider multiverse. Scenarios like these were always a lot easier if one could simply overpower the native population, but alas, that wasn’t an option this time around.
+
+Again, Jake had done fine so far, but... this still wasn’t his forte. Which was why the snake god had made a decision.
+
+Vilas really didn’t have any intention to interfere or get involved in any way, but had been intent on just letting Jake have his fun. However, the Viper had far greater insight into psychology and knew the kinds of creatures Jake was dealing with. Yes, he had done a good job thus far, and no, it wasn’t assured things would go wrong... but Vilas had still decided to put his finger on the scale. Made preparations for a probable negative outcome.
+
+It was just a small touch. One that would hopefully not become necessary, but knowing his Chosen, if things developed in the direction Vilas could see things go... the situation could quickly turn unpleasant. And, really, Vilas had no intention of losing his Chosen this early on.
+
+Oh, and could he just have advised his Chosen to simply not return to the Minor World? Warned him about his missteps and potential lurking dangers?
+
+Sure. He could have. But where would the fun in that be?
+
+The return trip through the Boundary turned out to be slightly faster compared to reaching the barrier the first time around. Probably because the weakening toxicity allowed everyone to relax a little, and they didn’t have to play it safe to ensure that everyone could hold on until the end.
+
+A bit of a shame, as Jake would have loved to travel within the treasure trove of Palate food for a little longer, but alas, actually getting back into Venus remained the priority. On the way back, the entire atmosphere in the group had definitely also become a lot more positive and relaxed, as Jake had a nice conversation with both the Shaman and the Arachnec Lord.
+
+Unsurprisingly, they still didn’t talk to each other, but at least Jake could function as an in-between a few times here and there. As for what they talked about, well, it mainly turned out to be common knowledge of the multiverse. Non-sensitive stuff, like the mere existence of planets.
+
+“I find it difficult to imagine that most live on spherical islands... how is one even supposed to be on its bottom region? Don’t they risk falling off?” the Shaman asked a question Jake would have expected from someone who pre-system believed Earth was a pancake.
+
+“Gravity,” Jake answered with a smile. “A concept I’m not even going to bother explaining to you, but let’s just say it’s what allows everyone to remain grounded and is the reason the very concept of up and down exists.”
+
+Even though Jake wasn't entirely sure of that answer, he went with it anyway.
+
+“And these massive gaseous planets appear to function as gathering points for other planets?” an Arachnec Lord asked if star systems existed.
+
+“We call these ‘gaseous planets’ stars, and the one closest to the entrance of this Minor World is generally referred to as the sun. Thinking about it, most planets seem to refer to their local star as the sun, but I digress. You’ll see it in due time. I reckon you’ll find it quite a sight,” Jake said with a slight chuckle.
+
+He continued telling more interesting facts, and the reactions continued to amuse him, as all the normal things in the rest of the multiverse sounded entirely unheard of for these natives of Venus. Just the fact that there was no “bottom” to the universe seemed like a concept they simply couldn’t wrap their heads around.
+
+This casual chatter continued as the Boundary really started thinning out, and soon, they would be out of it. Jake released a few Pulses of Perceptions and tried to feel ahead, and fortunately, it seemed that they had managed to return to the same place they had entered from, much to his relief.
+
+However, this relief only lasted for a short moment as he frowned, because from what he felt ahead, the situation at the entrance had undergone a drastic change in the many hours they’d been gone.
+
+At least there were far more presences than before... and from how it felt, at least one, if not more, of these newcomers were stronger than even the Horned Slayer.

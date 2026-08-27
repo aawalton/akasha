@@ -1,0 +1,371 @@
+---
+id: b6992ec5-b8b3-5df1-aaca-f195a957a504
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Burden of the Throne."
+slug: 0191-interlude-burden-of-the-throne
+partOf: there-is-no-epic-loot-here-only-puns
+position: 191
+ownLength: 3627
+unit: words
+publishedAt: 2023-01-27
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1098662/interlude-burden-of-the-throne"
+royalRoadId: "1098662"
+---
+
+50-60 years before Delta
+
+Verluan, Captial City.
+
+Durence could feel his brains leaking out his nose like snorted milk, but only less funny.
+
+"Prince Durence; please pay attention," the old crone chided as she tapped the blackboard behind her with the 'ruler.'
+
+At the only other desk in the room, Lendious gave him a sour look as he labored over his notebook, taking meticulous notes. Lenny was funny like that.
+
+Durence, on the other hand? He eyed the board with one eye that struggled to stay awake.
+
+"The banking error is due to the weaving guild overcharging for the cotton out of season; two barrels of Dungeon goods degraded, causing an imbalance of the funds in the culinary guild, and there is likely embezzlement happening around the guards at the keep due to the numbers simply not adding up," he said with a forced smile.
+
+Lenny seemed to stare at the board and then at his own answers before he angrily tore the paper out of his notebook and tossed it aside.
+
+Durence was an 'eyeball it and work out the details when it mattered' sort of guy.
+
+The Kingdom would be better with Lenny, really; the younger man was a stickler for rules and worrying over everything. Plus, Durence felt chills at the idea of being stuck on some throne all day while he watched knights and adventurers do exciting things.
+
+His soul practically withered at the idea.
+
+But as his father was fond of saying…
+
+'A Verluan does not choose; he does as intended.'
+
+Durence was sure that was fancy-wancy talk for 'shut up, and do what I tell you to do.'
+
+The sun was shining so brightly, and he mentally sighed as none of that beautiful sunlight seemed to enter the gloomy education chamber.
+
+"Our time is up," the old crone said, and Durence almost jumped out the window in joy.
+
+"Next, you have horse-riding, debate in the hall, dueling, journey-man magic theory, and due to Prince Durence's engagement date arriving soon, dance lessons," she said with a frown aimed at Durence, who sagged lower with every word.
+
+The engagement… Durence had managed to forget about it for a whole week.
+
+He felt so bad for the lady on the other end of the arrangement. He could only imagine what hellish schedule and expectations were being set on her.
+
+"Of course, matron," Lenny said, his bag bulging with the proper riding equipment, theory books, and dance shoes.
+
+Lenny planned his day out like it was fun.
+
+Durence had cheese in his pocket that he fed to the castle mice.
+
+Day and night, the two princes were, but Durence loved his brother and wouldn't change him for the kingdom. Leaving the education chamber, Durence nudged Lenny with a small smile.
+
+"I heard the old man relented," he said, and Lenny tried to appear indifferent, but a flush of excitement spread across the boy's face.
+
+"He did, Dury!" he said before composing himself.
+
+"I only have to do five years of internship with the bank, and then I can apply for my adventurer's license," he said, eyes bright.
+
+"That's not bad at all! I heard Ned Happy is easy on newcomers; even princes," Durence grinned as Lenny flushed.
+
+"I have it all planned out. I'll do a few skirmishes in the Royal Dungeon, then head south to the Shattered Left, or maybe see if I can discover a Dungeon on the Crown! There's a huge patch of nothing there," Lenny said excitedly. Durence leaned back and poked one of Lenny's dance shoes that stuck out of the stuffed bag.
+
+"Maybe conquer talking to girls first before you take down a dragon," he suggested. Lenny flushed again, his neck turning red with embarrassment.
+
+"Women are simple creatures. Give them shiny things and a place at your side, and they want for nothing more," he said, and mother's words coming out of Lenny's mouth made Durence frown, but he didn't comment on it. The Gold Queen certainly had a way with the empathy of others. Even being Durence's mother didn't stop Durence from seeing the coiling grip she had on Lenny.
+
+When people thought Durence couldn't hear; they would whisper about the Gold Queen; how she would sooner break her own teeth chewing gold than give a 'lesser' one of her coins. She hadn't always been like that.
+
+Durence remembered… not much, but laughter, subtle perfume, soft spring dresses, and honest smiles. But she changed, and he knew why she changed.
+
+The Gold Queen who lost her prized treasure.
+
+Who didn't know the story by now? Durence grew up hearing it; hating the tale, and yet, wanting to know every last detail.
+
+His mother wasn't always called the 'Gold' Queen for heravarice, but because she used to be a gold-rank adventurer. A high-tier warrior.
+
+Then her partner, her third arm… her blessed blade 'Gahmah' was stolen away from her, or 'fled' her if the stories of its power were to be believed. An oath between her and the sword that she broke when she refused to pass him on.
+
+Durence once had a nightmare because one of the knights told him the sword screamed in a deep vault in the castle for seven days and seven nights straight, stuffed into a tiny case where no light could touch it. In his nightmare, Durence was the sword, and he was trapped.
+
+Now, Durence, Lenny, and the Kingdom were the sword; trapped in the queen's ever-gripped hands.
+
+"-And then I'll swing by the Silver Dungeon. If anyone has seen a talking enchanted sword, that hub community would have heard of it," Lenny was still speaking of his plans.
+
+His plans to restore their mother's sanity.
+
+The idea of Lenny being so far away, as free as the wind…
+
+It hurt, but he beamed at Lenny.
+
+"You're going to be famous, I can tell already," he said, ruffling his annoyed brother's hair.
+
+"Says the king-to-be," Lenny muttered.
+
+---
+
+Durence just happened to walk down the wrong hallway, out the castle, and into the marketplace by total accident.
+
+Strange, really.
+
+Shame about all those 'fun' lessons he was supposed to be attending.
+
+"Are you Prince Durence?" a woman asked, boggling at him browsing her stall. Durence shook his head.
+
+"Prince Lenn-, er, Lendious," he said brightly, and the woman hummed and carried on with her business.
+
+Ah, the joys of being a twin.
+
+Identity theft was never easier. Still, she could have at least fawned over Lenny a bit! He was a prince, too!
+
+Durence looked around and sighed, Verluan was its usual self.
+
+He watched the bakers go with their trays like always, the same old bread and rolls to sell. The weapon stalls were empty, as always. Every new weapon was hand tested by the Queen before being sold back into town.
+
+Perhaps she thought she'd find her missing weapon amongst pots and hand-axes?
+
+Durence bent down as some earnest worker cooked a strange lump of meat on a grill, and when asked what the creature was, the grinning creepy child promised it was 'the king of monster's toe.'
+
+Durence got himself a toe on a bun to go! It was chewy, but tart.
+
+He stopped to enjoy watching the familiar tanned faces of Ned and Ferry sharing an ice-cream and arguing over which cause to fund or civil right issue to raise.
+
+Mother didn't like those two at all…
+
+Sometimes her expression scared Durence when they were brought up with the reforms and changes father helped enact.
+
+Some of the richest men in the kingdom, and they still got a cone to share as if they were poor children living in the gutter.
+
+Durence wanted that relationship with Lenny. One where they always depended on one another.
+
+Eventually, Durence was drawn closer to the kingdom's gate, where it looked like some people had come to hawk wares and show off exotic gains. Verlaun was one of the major cities on the main body; Durence always got to see something exciting.
+
+"Moving on from the 'Twister Devil' and the fruit-crazy 'Bandit Cut'; I present you now with my wildest capture yet," the man on the raised platform said, voice drawing attention with ease. The whole stage had a feeling of being set up in a few minutes with misaligned boards and cheap paint, but that had a sort of charm to it in Durence's eye.
+
+The final cage was opened to reveal not a strange bipedal creature, but what seemed like a crouching form in animal skins.
+
+"This feral girl was found on Drifting Member Island, the most primal and wild of islands. She not only survived but is a killer in her own right. I lost 15 men trying to contain her," the man said with no obvious grief about said men.
+
+And only immature kids called it 'Drifting Member.'
+
+"Given a name by a local that means 'Unwanted Beast', this killing machine is called 'Mila.' A girl who sold her humanity to the king of demons just to survive on that hell island," the.man said, working the crowd.
+
+He banged the cage with his cane, and the form inside rammed the bars, shaking them.
+
+A little scary since they seemed magically reinforced.
+
+"And she can be yours for only 10 silver!" he yelled, and Durence narrowed his eyes.
+
+He hated slavery.
+
+No, Durence despised it. It was one of the few acts he was actively involved in helping his father pass through the lawmakers to make it illegal.
+
+Durence only knew what it was like to be a caged bird of paradise. Wanting for nothing, allowed to want nothing.
+
+He couldn't imagine the sheer nightmarish conditions actual slaves went through.
+
+"15!"
+
+"20!"
+
+"I'll give 25."
+
+The bids started coming in, and the girl in the cage seethed at them all; her bared teeth in no way helped her 'feral' image. Durence was going to get in trouble. He knew it, but he was not sorry for it.
+
+After all…
+
+'A Verluan does not choose; he does as intended.'
+
+"She will make a fine gift to the Royal Prince Durence, no?" he called, and the crowd went silent.
+
+He smiled through the disgust he felt. Only a few more weeks, and he could start punching these people instead of negotiating with them. To be free of royal chains… to rush in with sword in hand to free all these beast and slaves… how his heart yearned for it.
+
+But he was a coward.l
+
+A rich and influential coward.
+
+---
+
+"Enjoy your gift… watch out, she bites," the courier said as he dropped Mila's cage off on the ground, and up close, he saw several areas where she had begun to hack the metal bars with something sharp She would have escaped on her own, it seems, but Durence couldn't have known that.
+
+The quiet side street gave them privacy, and as soon as they were alone, he opened the lock, tossed it aside, and stepped back. Mila inside didn't move, her unblinking eyes locked onto his.
+
+"You are free… freeee…" he said slowly.
+
+"You're an asss… an asssss," she hissed back.
+
+"You speak common languages??" he blinked
+
+"No, I'm just making random noises with my mouth flapper and hoping for the best," she said as she pushed the door open. She was a little taller than Durence, which was intimidating, but also alluring in its own way.
+
+"I'm confused," he admitted, and she retrieved a hidden knife from atop her cage.
+
+"Nothing new there, I'm guessing," she grunted as she attached the knife to her hip. She turned, sniffing the air like an animal.
+
+"Slavers messed up my scent trail. He was here… he was here, and he was bidding on me! You idiot! You massive hero-idiot!" she said, smacking Durence with no care for his uniform or royal adornments.
+
+It was… amazing.
+
+And it hurt.
+
+"Why are you so strong?" he complained, wilting away from her smacks.
+
+"To hit big idiots like you better!" she snapped. He grabbed her wrists, and she sighed.
+
+"Sorry… I'm worked up… and mad," she said, taking a big intake of a calming breath. Durence let her go, and she smacked his arm again.
+
+"Damn it, I'm still mad!" she complained before turning and sitting on a broken crate left outside some bar.
+
+"I thought I was saving you," Durence pointed out, and she blew out a sigh.
+
+"I get that, and if I was a normal gal? I'd be sweet on you for it, but I've been eating gruel and acting like my mother on a fullmoon to get that psycho's attention, and he was going for it… which you didn't know about because you were trying to be nice," she gritted with a full set of rather sharp teeth before she gestured for him to sit on the ground before her.
+
+Durence had never been told to sit on dirt before, and he bemusedly did so.
+
+Mila was weird, but Durence liked how free she was with her actions.
+
+"I'm from an island a while away; you have a name for it, but we call it Sword Island," she said, and Durence nodded.
+
+He liked it better than 'Drifting Member.'
+
+"What's it like?" he interrupted, and she shot him an annoyed glare, but sighed when she saw his eager stare.
+
+"Lot's of roaming crabs and bush fires; anyway," she moved along.
+
+"A year ago, a boat filled with really stuffy snobheads came close, and we tried to be friendly, ya know?" she shrugged.
+
+"Threw spears at their hull, tried to rob them blind, and convince more than a few of their sailors to live with us to get some fresh blood into the village; customary greetings," she said easily, and Durence must have missed that social custom in his lessons.
+
+Strange, it sounded far too unique to be boring.
+
+"Very welcoming," Durence managed, drinking this all in.
+
+"We even threw in a nighttime hunting of their men to spice things up. We're a great place to visit," Mila agreed without any shame.
+
+"And people joined you?" Durence managed to ask in a way that sounded more like scholarly curiosity than sheer disbelief.
+
+"Well, usually, the ships leave so fast that the people left behind sort of just accept that they live with us now," she admitted.
+
+"This ship was different," Mila confessed.
+
+"If you come back for your people, they can leave our island if they aren't happy, but they took my sister away," Mila said softly as she looked down at the ground.
+
+"They came with cages and special nets. Magic users that could shift the land or bring plants to life. Hunters, there were no other words for it, and it was good when it started. We thought 'finally, people that get us', but then they pushed and resorted to extreme violence. We don't kill if we can help it. Dead people are no use to anyone," Mila said briskly.
+
+"My sister was to be a Dungeon Maiden; a caretaker of one of the Dungeons on our Island. To be its voice and communicate with us when it was sleeping or wanting a challenge. We could not chase these boats, we had but fishing vessels… so I waited until they came back and allowed them to take me to my sister," she explained, and Durence swallowed once, but he refused to feel guilty.
+
+He simply didn't know.
+
+"Who took her?" he asked suddenly. If it was a nobleman or someone of standing, he could perhaps allow them to curry favor with the future king in exchange for Mila's sister.
+
+It was good to be the king, or something like that.
+
+Without a word, she drew a strangely complex symbol from memory on the ground using a finger.
+
+The symbol made his eyes water due to the long hours spent in its proximity and wanting to stab himself to escape extreme tedium.
+
+"Your sister was sold to the Wizard's Tower?" he asked, trying not to sound grave in his terror.
+
+"You know of it?" Mila asked sharply, her calm eyes suddenly intense and yellowing.
+
+Durence stood up and dusted goodness to honest dirt off his butt. How novel!
+
+"Better, I can get us into it without a fuss," he said, and Mila crossed her arms, her face flat.
+
+"I won't sleep with you," she said, and Durence blinked once.
+
+"That was an option?" he blurted out. Mila's smile was a little predatory.
+
+"I don't lay with little boys who would flush at the sight of my knees," she said easily. Durence looked down and huffed.
+
+"I can't even see your knees, just rabbit skulls you're using as shin guards," he pointed to the bone white things on her leg.
+
+"They're actually Mana-Enriched Squirrels that wandered too close to my cage one day," she explained, sounding pleased he noticed.
+
+This girl was weird.
+
+He was almost sad to know that he'd help her out, and then they'd part ways.
+
+---
+
+"Smells like lonely people in here," Mila muttered as Durence led her to the front receptionist of the Wizard's tower.
+
+"We don't say that aloud. Wizards are fragile people that can cry and cast fireball," Durence said back quietly.
+
+The receptionist was a sour-faced boy with the perfect appearance of a wizard's apprentice that was stuck serving a very surly master.
+
+"Deliveries down the hall and second on the left. New students up the stairs and to the back. Complaints of enchanted broomstick assault or 'accidental' insertions of broomsticks into any orifice, please take a seat, and a wizard will be with you shortly," the boy intoned.
+
+Durence noticed they had little ringed donut cushions on the chairs for said incidents.
+
+"I need to inquire about a person purchased from Sword Island," Durence said, and the boy handed him a ticket that said '1288' on it.
+
+"Please take a seat, and a wizard will be with you shortly," he intoned again. The little ticket glowed, then changed itself to '1287.'
+
+It took thirty seconds for it to change down to 1286.
+
+Mila lasted until 1280.
+
+To be fair, she only lasted so long because of the sheer chaos of the Wizard Tower's coming and goings.
+
+Wizards came and went in all shapes and sizes.
+
+A bloated man seemed to glide along the floor with a massive coat tail trailing behind him that slithered out of the people's paths. Another was an old man, whose beard doubled as a coat. One woman was seemingly living out of her travel case. Another bright woman dragged two apprentices off by the ear for tea, one speaking in Shattered Left curses at the treatment. Another wizard seemed to be eating never ending garlic bread out of a box.
+
+Mila stomped up to the desk.
+
+"Please take a seat, a wizard will be with you shor-urk!" the boy gagged as Mila dragged him over the desk.
+
+"What's your name, stale one?" she asked dangerously.
+
+"H-Haldi," he whimpered. Ah, he was so small. Durence towered over him, which meant Mila was massive!
+
+"No wizard name?" Durence asked pleasantly. Haldi looked ashamed as his feet dangled off the ground by a foot.
+
+"I have not yet earned enough Magic Tokens to pay my way into the ceremony. Working the desk for 15 hours earns me 10 tokens. I need 5000 tokens to access the basic ceremony," he said sadly.
+
+"What is a token?" Mila asked seriously, still not putting him down.
+
+"A magic token is a Mana-Fabricated-Talisman. It's just a unique creation here in the tower with no practical uses in the outside world. It governs everything we do here in the tower," Haldi said quickly.
+
+His stomach gurgled, and he looked down.
+
+"A basic meal is 25 tokens. I skipped breakfast," he explained. Durence eyeballed the tower and did some basic math.
+
+"Here," he said and gave Haldi his spare piece of cheese. If Durence squinted, Haldi had the confidence of a mouse!
+
+"Why not hunt outside?" Mila sighed, dropping Haldi onto the desk with a thump.
+
+"There's no money in being an apprentice. Your master governs what classes you have, whom you room with, what jobs you can and can't do, how much Money you get," he listed, and he blinked at their confusion.
+
+"Mundane Money," he said, blushing.
+
+Durence opened his mouth, but a bunch of students walked past, eating rich meats and looking like they had all the time in the world. One of the boys, who looked like Haldi, paused.
+
+"Hally, you failed Levitation again? That's an easy 100 MFTs," he said, shaking his head.
+
+"Sorry Oppy," the young boy said, looking like he might cry as the others laughed. Oof
+
+"Horrible Haldi, the horrendous Mage," a girl giggled. Mila turned and actually barked at them with her teeth bared.
+
+They screamed and scattered.
+
+"They suck," Durence said, and Haldi looked confused.
+
+"Who are you?" he asked, and Durence didn't want to be identified, so he shoved more cheese at the boy, who ate it gratefully, if a little confused.
+
+"Please, we need to see a girl brought in from Sword Island," he said, and Mila's face turned into a hard set.
+
+Haldi bit his lip then, making sure no one was looking, waved his hand.
+
+The ticket in Durence's hand leapt all the way to number '0004.'
+
+"You're really nice, and it's mostly broomstick-related issues all day… and not the accidental kind," he grimaced. He turned to Mila.
+
+"I like your northern mana-enriched squirrel shin guards, looks like two males and big ones," he complimented her awkwardly.
+
+Mila's face lit up as the number counted down to '0002.'
+
+Durence was sure they were joking now.
+
+They were clearly rabbit skulls.
+
+He hoped…

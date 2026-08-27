@@ -1,0 +1,143 @@
+---
+id: 4a761594-61fc-5c6f-8899-ad355b899754
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1305 - A Brief Tutorial & A Tunnel Mound"
+slug: 0179-chapter-1305-a-brief-tutorial-and-a-tunnel-mound
+partOf: the-primal-hunter
+position: 179
+ownLength: 3027
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3337147/chapter-1305-a-brief-tutorial-a-tunnel-mound"
+royalRoadId: "3337147"
+---
+
+Tutorial.
+
+Truthfully, Miranda couldn’t say she had performed that well in hers. In fact, no one had. Her Tutorial had been, in general, downright average, with no real standouts. The most impressive person had probably been Hank, with his construction experience.
+
+Seeing as her Tutorial had effectively been a base-defense kind of deal, his skills had come in handy to make sure they could hold on and handle the waves of monsters coming to try to kill them. Miranda had never tried to go beyond their starting area or explore the entire Tutorial area, or anything like that. She had just wanted to survive alongside Hank and his family.
+
+Entering the Tutorial the second time around, things were very different for several reasons. Miranda never read much of the story trope herself, but she believed this was effectively what people called a regression, and with that came many inherent advantages, such as knowing the future and entering with all the experience she’d gained the first time around.
+
+This was probably even more overpowered than a mere regression, since she only had to do the Tutorial. Though there was one slight complication: the goal.
+
+Administrator Test has commenced. Stage one: the Tutorial.
+
+Objective: Clear the Tutorial within thirty (30) days. All experience gained is doubled. Class, profession, and skill selection set based on prior choices made.
+
+The original Tutorial had a duration of 63 days, give or take. Now, they had only half that, but with experience doubled, which should make up for much of the lost time. In addition, Miranda had one other huge advantage: four assistants who had entered the Tutorial with her that weren’t there initially.
+
+Experiencing the Tutorial all over again was weird, to say the least. Miranda had spawned in the same place as the first time, surrounded by familiar faces, some of whom were now dead. They all acted so real, probably because this simulated reality was as real as it could get.
+
+It didn’t take long for Miranda to purposefully dissociate these simulacra and not engage with them, but instead focus solely on completing her task as quickly as possible to pass this stage of the test. She didn’t want to think too much or risk getting any kind of emotional connections with people who would effectively stop existing within a month.
+
+Immediately, several methods were available to clear the Tutorial. One was to make use of the other Tutorial Attendees. They also all got twice the experience gain, and what’s more, it was confirmed that they could all pick different classes and professions, meaning if Miranda was skilled at guiding them towards specific Paths, she could likely have ended up with quite the competent helpers.
+
+But again, Miranda didn’t choose this method; she instead relied solely on her four allies. Well, mostly three of them for the majority of it, seeing as one of them wasn’t that helpful in the beginning. She still fondly recalled witnessing the grand Northpeak Wyvern immediately after entering the Tutorial, as she found herself with three other humanoids... and a small lizard. A iguana, to be precise.
+
+Yeah, definitely not the most useful in the beginning, but he grew up pretty quickly, and at least he had retained his full mental capabilities despite turning into a state where he originally didn’t have any real sapience. As a monster, he also had some innate advantages, such as Tutorial creatures in general not attacking him, meaning he could serve as a scout and find the objectives beyond defending the starting base.
+
+Her decision not to include the original Tutorial Attendees was likely wasteful and suboptimal, but Miranda felt too weird about using them. They felt too real, so with mainly herself, Lillian, William, and Holstred, she ventured away from the safety of the base with their little iguana friend serving as a scout.
+
+Miranda hadn’t been strong at all during the Tutorial the first time around. While she was definitely better now, she realized how much she still sucked. As a basic caster, she had no way to pull off any of her witch magic, which was all she’d trained in, making her incredibly useless.
+
+Lillian was a bit better, but the magic she had trained in was also less than optimal. Lucenti magic was also inherently mystical in nature, and she didn’t have the ability to pull anything impressive off either. Sure, if they had been this “talented” in their original Tutorials, they would have been prodigies, but they certainly weren’t with the current company they were keeping.
+
+Holstred was honestly a beast. Perhaps due to his servile demeanor, she’d forgotten that he was a genius of his own planet during his Tutorial. Now, with all the experience of a B-grade, he surpassed the classification of merely being a genius and became a true master who easily cleaved down all the monsters that dared come near. Yet, despite his extreme level of skill, he ended up spending most of the simulated Tutorial defending Miranda and Lillian. Not even because they needed a defender that badly, but due to their final party member.
+
+Miranda had kind of started to think that casters were just disadvantaged in this kind of regression scenario compared to those relying on martial skills. To pull off complex magic, one needed the required mana and a certain level of mana detection, something that simply came with levels and evolutions. Meanwhile, being good with a weapon was being good with a weapon.
+
+However, William shut down that assumption entirely.
+
+If Holstred was a master swordsman, William was a force of nature. Miranda and Lillian were both decently skilled casters, but they hadn’t been anywhere near geniuses initially. William, on the other hand, had always been a prodigy when it came to mana control, and now, with his experience as a B-grade, he could have easily completed this entire first stage of the Administrator Test on his own.
+
+William didn’t look very happy about the situation at all, though. Miranda knew his history, and it was clear that being back in a Tutorial didn’t bring back any happy memories. He was quiet and just seemed like he wanted to get out of there as quickly as possible, which he certainly worked hard to accomplish.
+
+In the end, it took them twenty-five days out of the thirty to reach the D-grade boss of the Tutorial, though they could have definitely been faster if Miranda hadn’t insisted on ensuring they wouldn’t lose anyone in the final fight. By that point, all of them were around level 60 to 70, with Holstred at level 70 and William at level 75, as he had been the one doing most of the killing. Jake had been around level 65 when he fought the King of the Forest back in his Tutorial, and Miranda had wanted them to at least surpass that.
+
+Something that really turned out to be unnecessary.
+
+Miranda’s Tutorial was not like Jake’s. Its overall difficulty was far inferior, and the last boss was so much weaker it was almost comical. The grand confrontation with the mighty D-grade ended up lasting just shy of thirty seconds, with William and Holstred absolutely slaughtering the poor boss.
+
+With that, the first part of the Administrator Test was passed, though Miranda remained unsure what they were being tested on. It had seemed way too easy to simply complete the simulated Tutorial, but perhaps that was only because of having the assistants she’d chosen.
+
+After the first test was done, the five found themselves back in the Seat of the Exalted Prima once more, with one of them especially happy to have returned.
+
+“Truly a horrendous experience,” the wyvern said, shaking his head as he stretched, now back in his humanoid form. “I only had memories of my time with such a form, so truly experiencing it myself was familiar, yet it also felt like I wasn’t in my own body.”
+
+“I do wonder how this testing stage works with other monsters, especially those who were born naturally at a higher stage,” Miranda said, having considered this throughout the Tutorial. What if she had brought someone like Vesperia, who had been born as a C-grade? Wait... what if Jake had been able to participate in this system event and brought along the Forest King? Would there have been two of the same Unique Lifeforms? What if the Forest King himself had been an Administrator Candidate? Things could have quickly gotten trippy. Then again, chances were they simply wouldn’t have entered a “real” Tutorial but something else entirely.
+
+“In my opinion, we were lucky with the challenge we faced,” Holstred said. “The difficulty was low due to the below-average judged potential by the system during that Tutorial. Mine was far harder. Ah, I naturally meant no offense; I was merely making an observation.”
+
+The knight was incredibly apologetic, but Miranda waved him off. “None taken. My Tutorial was indeed on the easier side, and I wasn’t increasing the average much, if at all, since I wasn’t the most competent back then. Still not the best, but I’ve gotten better.”
+
+She looked over at William and wanted to say something, but he still looked a bit in his own world, having definitely had to confront a lot of internal struggles during the test. He would definitely need another session with that psychologist woman he sometimes visited.
+
+Regarding the next stage of this Administrator Test, it would begin when the original thirty days for the first test expired, meaning they had a few days to spend inside the Seat of the Exalted Prima. They were entirely sealed off within, unable to contact anyone, including their gods, but that didn’t mean they were bored.
+
+Spending three and a half weeks going from level 0 to closing in on D-grade had been an incredibly valuable experience that was almost like a reward in itself. Losing all their skills and being able to experiment without relying on them had given them newfound inspiration to improve their current abilities, really showing the value of a simulation like this.
+
+It was no doubt all the top factions wanted it, if this was just a taste of what it could do.
+
+The days thus passed as they all practiced and discussed strategy for the next Administrator Test, and when it was time to start the next stage, they once more went onto the platform that sent them into the simulated world.
+
+During their discussions, the general consensus was that the next test would likely focus on the time immediately after the Tutorial. That seemed like the logical next step.
+
+Oh, how wrong they were.
+
+Being what was effectively a diplomatic prisoner was definitely a new and novel scenario that Jake hadn’t thought he would ever see himself experience. Mainly because he was the kind of person who would rather try to kill anything and everyone rather than be taken prisoner.
+
+Yet he’d agreed to the Arachnec’s “demand” to follow him back to the Nest. The likely reason Jake wasn’t hating the situation was that the undead spider had been awfully polite when inviting him, not really making Jake feel like he was being forced along.
+
+Which, technically, he wasn’t. Jake could try to run at any time, and he was still fairly confident he could succeed should he attempt a daring escape. At least for now. When he got to the Nest, where he reckoned there was bound to be at least one A-grade, he wasn’t as confident.
+
+It was definitely risky, but Jake was also incredibly curious to learn more about the Arachnecs and see this Nest, so he followed along willingly. To be clear, he was still very much friends with the Venusians. They were his frog pals, and no undead spiders were going to come between them.
+
+“I find it hard to determine whether the level displayed upon using Identify on you is accurate or not,” the Archweaver said, speaking for the first time after they’d already been flying for more than ten minutes, with Jake following after the Arachnec.
+
+“Why?” Jake asked, though he already had a good idea, but he would prefer for the Arachnec to spell it out.
+
+“Your speed. Evidently, the Venusians were slowing you down before. I had initially judged you to be the weakest link in that group, but it appears not,” the high-tier B-grade said.
+
+“I’ll take that as a compliment, and for the record, my level displayed is very much accurate,” Jake said, once more being totally okay with all the natives of this world getting the impression that humans were all some incredibly powerful creatures.
+
+“Are all humans as powerful as you, or are you a variant of some form?”
+
+Jake took a moment to consider how honest he wanted to be before eventually just giving the same spiel he’d given the Shaman when he’d asked the exact same thing. Again, it wasn’t as if Jake could stop this race from ever making contact with the outside world, and they would eventually learn that humans came in many forms, pretty much all of them weaker than Jake. Technically, Jake was the only superior variant of human, so he could argue he was at the very top.
+
+Their flight continued mainly in silence; the Archweaver was definitely less talkative than the Shaman. It did observe him carefully throughout their flight, though, as if trying to glean some secret from his body. Jake also felt the Archweaver’s magic, which significantly increased their flight speed, in addition to trying to subtly probe him, but it didn’t achieve much.
+
+Jake mostly ignored the undead spider's attempts, thinking that if the undead spider wanted to know anything, it could bloody well just ask. Jake took this time to get a proper look as they got further into Arachnec territory, flying directly for the Nest. At least Jake thought they did, but soon something else caught his attention.
+
+In the distance, something felt off. They were heading for an empty area, but when Jake looked there, something told him what he saw wasn’t entirely right. Narrowing his eyes, Jake also activated Sight of the Boundless Horizon, and when he did, his vision shifted, allowing him to see the truth.
+
+A mountain, or perhaps a large hill, appeared, made entirely of bone, stitched flesh, and webbing. Except at its top, where a familiar-looking worm-like growth sprouted up, with a far larger than average eye at its end. This worm moved around erratically, looking in different directions, but the moment Jake focused on it, it spun around and stared directly at him as Jake used Identify.
+
+[Arachnec Guardian Monitor – lvl 499]
+
+Peak B-grade, though even from this distance, the creature didn’t strike him as more powerful than the Archweaver. In fact, it felt significantly weaker. Still far stronger than Jake with its massive level advantage, but definitely a far easier target if Jake had to somehow try to take it down.
+
+“Your Perception rivals or surpasses that of Monitors many levels beyond your own,” the Archweaver said, having realized Jake saw through the illusion. “That, or you have skills allowing you to peer through illusions. Likely a combination of both.”
+
+“I do like Perception,” Jake said, deciding not to accurately state that Perception was indeed the best stat, as he honestly didn’t want to get into that kind of discussion right now with the bone mound so close.
+
+“Like? A statement implying stat allocation is partly by choice for your race. Interesting,” the Archweaver said, definitely getting more out of Jake’s words than he intended to reveal. He’d kind of forgotten that a lot of monsters had little to no Free Points given, but had all their stats automatically allocated upon gaining levels.
+
+“What is this place?” Jake asked, changing the topic as he looked at their destination. “It’s not a Nest, that I can tell.”
+
+“It is not,” the Archweaver confirmed. “This is what we refer to as a Tunnel Mound. If you are familiar with the Venusians, it functions similarly to the teleportation network they’ve set up between villages, though on a smaller scale. All of them connect to the Nest.”
+
+Jake nodded, also suddenly understanding how these Arachnecs could claim such large territories. Assuming all of their kin were spawned in these Nests, it would take a long time for them to travel to outer territories, but if they had these weird things that were effectively long-range teleporters.
+
+Based on how Jake saw Arachnecs streaming out of the Tunnel Mound, it looked like they were trying to replenish the losses from Jake’s hunt. That, or they just always had this much of a run on their teleporters.
+
+“Aren’t they a safety hazard?” Jake asked, looking at the structure – a term he used very loosely. “What if the Venusians claim one of these Tunnel Mounds?”
+
+“It would achieve nothing but waste the resources of creating one. The Tunnel Mound is like a limb of the Nest, relying on its will to operate. It can be cut off at any moment, rendering it useless,” the Archweaver answered, looking at Jake. “Despite having hunted my kin alongside the Venusians, you seem wholly ignorant about many things. Did they not share this knowledge with you? Curious why they didn’t.”
+
+Jake ignored the Arachnecs clear intent to sow discord as they approached the Tunnel Mound. There were undead spiders everywhere, hundreds of them staring at him, but none moved towards him. He guessed it was due to the magic the Archweaver was using on him, which seemed to not only increase his speed but also make the other undead recognize him as one of their own.
+
+Landing in front of the large Tunnel Mound, they entered a cave leading to its insides, which were quite nasty to say it nicely. Definitely not the kind of place for those faint of heart.
+
+The Nest is definitely not going to be better, is it? he asked himself as they walked toward a dark pit in the center of the Tunnel Mound with undead spiders already crawling out of it.

@@ -1,0 +1,117 @@
+---
+id: 40f51ab4-be69-5220-a306-9e6a512bd50d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1331 - New Outfit & Chief Administrator Stuff"
+slug: 0205-chapter-1331-new-outfit-and-chief-administrator-stuff
+partOf: the-primal-hunter
+position: 205
+ownLength: 2647
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3519865/chapter-1331-new-outfit-chief-administrator-stuff"
+royalRoadId: "3519865"
+---
+
+Back in his lodge, Jake sat on the porch and ate a banana as he enjoyed the view of the small pond and waterfall. Within his sphere, he also saw Rick busy at work far beneath Haven, in a vast cavern, and, turning his attention to the city itself, he saw it was truly buzzing with activity.
+
+The city portion of Haven had truly turned into a metropolis that was unlike anything Jake had experienced before the system. Mainly considering just how fast the city had expanded.
+
+Having over a hundred kilometers between the forest that housed Jake’s lodge and just a few thousand people and the massive city most now referred to as Haven had seemed like a lot initially, but now, he knew that Hank and Miranda had discussed whether it was even enough.
+
+To Jake, the concept of a city expanding to be over a hundred kilometers of dense construction seemed ludicrous, even if he’d seen it happen more than once already. He’d observed planets that had their entire surfaces covered with construction, creating planet-sized cities.
+
+Shit, just the Order of the Malefic Viper had cities that far surpassed the entire surface area of Earth in scope. It was really only to be expected that Haven would one day reach that size if not for Miranda stepping in and creating a buffer zone between city Haven and forest Haven.
+
+I definitely get why Arnold wanted the moon. Plenty of space, peace, and quiet. Oh, and he doesn’t have to bother getting building permits when he wants to add another mega-factory, Jake chuckled to himself as he finished off his banana.
+
+After sitting quietly for a few moments, Jake turned his attention to the two black suitcases. He already knew what was in them and had waited to open them until he was properly settled at home, so he could take some time to properly analyze what the scientist had cooked up.
+
+Telekinetically lifting both suitcases over, Jake had them float in front of himself as he slowly opened both for dramatic effect... and initial impressions weren’t that great.
+
+What Jake saw within the two suitcases was just a black sweater in one and what looked like black jogging pants in the other. Both looked to be made out of common cloth that wasn’t even waterproof.
+
+However, Jake didn’t let himself be disappointed, as he trusted the mad scientist, and upon using Identify on the sweater, he felt his belief reaffirmed.
+
+[Stabilized Voidfiber Chestpiece (Ancient)] – A piece of armor seemingly not of the material world, yet it exists firmly within it. Made from regular, powerful fibers interwoven with some that have been touched by the void, empowering the overall armor piece significantly. These void-touched fibers were then stabilized and given their current form as their innate power permeates the armor. Offers substantial resistance to all damage and can nearly instantly self-mend as long as the wearer has sufficient energy. This chestpiece nullifies a portion of all damage dealt to its wearer, as energies and concepts are absorbed by the void, rendering them null. Due to its material, the chestpiece is highly customizable. Enchantments: Voidfiber Nullification. Voidfiber Customization.Requirements: lvl 350+ in any humanoid race.
+
+After checking out the chestpiece, he also quickly used Identify on the pants, confirming that the two items were very much a set.
+
+[Stabilized Voidfiber Pants (Ancient)] - A piece of armor seemingly not of the material world, yet it exists firmly within it. Made from regular, powerful fibers interwoven with some that have been touched by the void, empowering the overall armor piece significantly. These void-touched fibers were then stabilized and given their current form as their innate power permeates the armor. Offers substantial resistance to all damage and can nearly instantly self-mend as long as the wearer has sufficient energy. These pants nullify a portion of all damage dealt to their wearer, as energies and concepts are absorbed by the void, rendering them null. Due to its material, the pants are highly customizable. Enchantments: Voidfiber Nullification. Voidfiber Customization.Requirements: lvl 350+ in any humanoid race.
+
+From the looks of it, Arnold had switched up the material he used this time around. Jake’s current armor was made of Titansteel Nanofiber, which sounded both more and less impressive than Stabilized Voidfiber. His old stuff definitely sounded more sci-fi than the new, but he preferred Voidfiber. Anything with the word void in the name tended to be awesome.
+
+Regarding the effects of Jake’s new armor, Arnold had indeed listened to his request and done away with any stats. Funnily enough, that meant when Jake switched his old equipment out for the Voidfiber stuff, he’d actually lose several thousand stats from his status menu.
+
+Of course, in reality, it didn’t matter as his Primal Spirit of Man made up for the difference instantly, but the thought of losing stats from a gear upgrade was still funny to him. Oh, and to be clear, this was definitely going to be an upgrade.
+
+The items were still ancient rarity, the same as his old stuff, while now being made for B-grades. That meant a lot more Records total, with all of those Records focused entirely on the two enchantments on the pants and chestpiece. One of those enchantments was related to customizing the armor, which rarely took up much budget, which meant that everything had been focused on that Voidfiber Nullification effect.
+
+Jake wanted to test it, but first, he needed to see how the customization worked, as there was no way he was going to wear his new equipment as-is. It would make him look like some guy pitching the newest phone at a tech conference, which really wouldn’t fit his whole hunter vibe.
+
+Taking off his old stuff, Jake felt the stats disappear as he severed his connection with the pants and chestpiece that had both served him well in C-grade. He put them aside for now, planning to give them back to Arnold later... actually, he was just going to put both in the suitcases his new stuff came in and leave them with someone who could get them back to Arnold. That way, Jake couldn’t forget.
+
+For now, Jake wanted to avoid standing on his porch without clothes as he took on and formed a connection with his new equipment. Feeling the Voidfiber, it was practically identical to wool at first, and it even stretched the same way. Really, the more he interacted with his new armor, the less it felt like actual armor and the more it felt like regular clothes.
+
+However, when he formed a connection with it, he got a far better understanding of its nature. Jake couldn’t help but smile a little as he started out with the customization right away, and damn, did he instantly question his assumption of where the Records budget had gone.
+
+The level of customization available was beyond anything Jake had imagined. He could change the texture entirely, making his armor feel like leather or even metal, and with little more than a thought, his equipment morphed into armor that looked nearly identical to what he had before.
+
+Deciding to play around a little, Jake added some details here and there, also finding himself relieved that he could make a hood grow out from what had once been a sweater. Color-wise, Jake also had free rein, and after some consideration, he decided to make a change.
+
+Usually, Jake’s armor was almost black or dark brown, as those were the colors leather tended to end up with. However, now, given the choice, Jake decided to add a little bit of color he believed would suit him. Seeing as he was a hunter and the Chosen of the Malefic Viper, he decided to add a bit of a dark green hue to his outfit, making him look a lot more hunter-like in Jake’s humble opinion. Definitely closer to nature, even if Jake’s flavor of hunting had little to nothing to do with nature.
+
+Artemis will definitely approve, Jake thought to himself as he made a few more alterations here and there. Towards the end, the two Voidfiber armor pieces were entirely unrecognizable, and Jake felt like he looked pretty damn good. Not that much different from before, sure, but damn good nonetheless. Which wasn’t surprising, seeing as he already looked good before.
+
+“Do I have anything I want to bring back to the Seat?” Jake wondered out loud, also halfway asking Villy, as he knew the snake god was always watching. Unsurprisingly, he didn’t get an answer, and after thinking on the topic for a little while himself, he reckoned there was no need to dally.
+
+The only thing he did before heading back was going to Miranda’s office, where he scared a random clerk shitless by appearing in front of her with two suspicious black suitcases he ordered her to ensure would reach Arnold. With that handled before he could forget, Jake went back to the lodge, where he used his Chief Administrator’s Seal to return.
+
+Activating the ring, magical seals started floating around Jake as a circle appeared beneath him. He had to channel energy into the ring for roughly half a minute before it was fully activated, upon which Jake disappeared from Earth once more.
+
+Instantly, Jake found himself standing back inside the Seat of the Exalted Prima. However, he hadn’t appeared inside the Administrator’s Terrace as he’d initially expected to.
+
+Instead, Jake found himself within what looked like a mix between a control room of a ship and an office. At the center of a dome-shaped room was a large leather pillow that seemed designed for meditation, and lining the walls were countless screens.
+
+There were also several control boards that didn’t actually have any buttons or anything interactable on them. Instead, the metal panels were entirely empty, making the entire look incredibly weird.
+
+At the back of the room was the only entrance and exit in the form of a gateway, not unlike what could be found at the Order of the Malefic Viper. Jake wanted to explore the room a bit more, starting with the bare control panels.
+
+Walking up to one of them, he tried running his hand across it, getting no reaction. Next, he tried to pour in a bit of energy, and once more, there was no response. Finally, Jake tried the simplest thing: he merely sent a mental command outward using Willpower, hoping something would happen.
+
+He had commanded the screens to turn on, and to his pleasant surprise, all of them switched on at once. As they did, some of the control panels also suddenly started having things on them. There still weren’t any physical buttons, but instead, the panels seemed to be big touchscreens of sorts.
+
+Inspecting one of them, he finally gained some instinctive knowledge, giving him a hint as to what he could do. Acting on this knowledge, Jake issued another command as several of the screens stopped turning white and began showing livestreams.
+
+“I wonder how that works,” Jake muttered as he saw what was essentially security footage from within the Administrator’s Terrace. Having access to this function wasn’t super useful, seeing as Jake’s sphere already covered the Terrace, but it did at least make him curious.
+
+Seeing as he could observe the Terrace with his Sphere of Perception, Jake tried to figure out where the security footage was even being recorded from, but no matter how much he looked, he couldn’t find the source. Seemingly, the system just showed him images without any device on the other end to record.
+
+Testing some more, Jake discovered he could “create” cameras pretty much anywhere within the Seat of the Exalted Prima besides the few private rooms in the large space station. Private rooms that Jake could assign to people, which he reckoned Miranda could do for him if it were relevant.
+
+He tried a few more things in the control room, but there really wasn’t much he could do, making him turn his attention to the gateway. Jake assumed it worked like the ones at the Order, where he had to use his Order Token to control it, with the Seal definitely being what was needed here.
+
+Jake was correct, as he merely had to hold his hand up wearing the seal, and the gateway responded. He also felt that he could go pretty much anywhere within the Seat of the Exalted Prima, though there were designated gateway points limiting him a little.
+
+Deciding on a random place, Jake activated the gateway and stepped through, finding himself within a large, empty dome, not unlike the Administrator’s Terrace, though this one was entirely empty and slightly larger. It looked quite fit for duels, though perhaps it was still a little small for that, given the sheer speed and power of B-grades.
+
+Going back through the gateway, Jake checked out a few other places, including one he reckoned could be good for alchemy, before ultimately heading back to Miranda and all the others who were no doubt waiting for his return. At least he thought they were, but upon closer inspecting, they seemed plenty busy discussing among themselves. He considered heading back to the control room to see if the Seat’s surveillance had sound available, but decided against it. No need to be all creepy and spy on them when he could just go there directly.
+
+Passing through one last gateway, Jake stepped back onto the Administrator’s Terrace. He appeared at its edge, having now confirmed how one moved about the Seat of the Exalted Prima. He was sure there was still much to explore, but he would have plenty of time to do all that later. Assuming he didn’t somehow lose control of the World Wonder or something, that is.
+
+Now we just have to wait until everyone else is done voting, and it’s finally time to move on to the real system event. Hopefully.
+
+Across the ninety-third universe, Chief Administrators were selected left and right, with many getting the required votes in the first round, but in most places, these three rounds of voting turned into a cruel competition, where Challenges were strategically used to gain votes. More mechanics to the Challenge system were also discovered, like cooldowns on forced Challenges and other such balancing features a galaxy like Jake’s never even had to learn existed.
+
+To many factions, the Chief Administrator title was their way to truly lay claim to a galaxy and prove themselves to be at the top. All the top factions had galaxies where several were present, creating competition even between forces that were usually on good terms.
+
+There were even galaxies where Valhal, the Order, the Holy Church, Risen, United Tribes, Altmar Empire, and other major factions clashed, each with Administrators vying for the position.
+
+In other places, there truly was no competition, not only because a faction had more influence there but also because certain individuals were competing for the Chief Administrator slot. Just as no one dared to compete with Jake, few dared to stand in the way of top scorers from Nevermore or people who had proven themselves particularly outstanding.
+
+In some places, the outcome was expected. The Endless Empire had already established itself as a top competitor, and the appearance of Vesperia in such a case was merely the nail in the coffin.
+
+However, there were other scenarios. Less predictable ones.
+
+It felt almost unfair that smaller factions could have established themselves to compete, only for an old man to suddenly appear as the assistant to an Administrator Candidate no one had seen as serious competition, become Administrator himself, and immediately lay claim to the Chief Administrator title.
+
+And who would possibly dare compete with someone like that? Who would be stupid enough to risk offending the Primordial of Time’s new Chosen?

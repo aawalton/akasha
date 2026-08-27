@@ -1,0 +1,175 @@
+---
+id: f60386c3-5da8-5406-ab2d-b27b1a62be87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1139 - Friends In High Places - START OF BOOK 16"
+slug: 0011-chapter-1139-friends-in-high-places-start-of-book-16
+partOf: the-primal-hunter
+position: 11
+ownLength: 2684
+unit: words
+ownProgress: 2684
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2476024/chapter-1139-friends-in-high-places-start-of-book"
+royalRoadId: "2476024"
+markedReadAt: "2026-06-29T19:29:36.719Z"
+---
+
+“Do you intend to continue your hunt?” the Sovereign asked after a few seconds of silence.
+
+Jake shook his head. “No, I don’t see the point. If this Chimera was the most powerful that this planet had to offer, there are no opponents left worth hunting. Well, I still think you could put up a good fight, but since you’re being boring and refuse to fight, I guess my time here is done. Speaking of being done, you took quite a while dealing with that Fae, eh?”
+
+“I informed you she was a tough opponent, not because she was stronger than me, but because of her magic. She quickly realized during our battle that her chances of victory were slim, so she switched to buying time with the hope that the Chimera would kill you and come to her assistance. When she realized the Chimera had lost, she tried a last gambit that you see the result of held within my talons.”
+
+“Fair enough,” Jake said, still finding himself surprised at just how much the Rainbowfeather Sovereign enjoyed talking. “Anyhow, I plan on leaving. How about you?”
+
+“I shall not leave yet,” the Sovereign shook his head. “Soon, but not yet. In this coming time, I shall take advantage of the power imbalance of the planet being broken and prepare for the one who lurks below to release another set of treasures meant to restore balance. During this, I will have another B-grade Rainbowfeather emerge and take my position as leader, allowing me to leave.”
+
+“And you can just leave?” Jake wanted to make sure.
+
+“I can. Killing the Forest Fae has qualified me fully,” the B-grade nodded.
+
+“Good for you, I guess,” Jake said as he gave the bird a smile. “Honestly, I would be lying if I wished you luck in your endeavors as you Rainbowfeathers really are assholes by nature, but I will at least wish you luck with leaving this planet and entering the multiverse proper.”
+
+“Thank you,” the Sovereign nodded. “Though I will never fight you, no matter what you say.”
+
+“Don’t flatter yourself,” Jake shook his head. “By the time you leave here, I very much doubt I would bother fighting you, either. I have standards, you know.”
+
+“In that case, let our Paths never cross again,” the B-grade said with a solemn nod.
+
+“We’ll see,” Jake said with a smile, as he knew the system and Records had their way of making people meet again. Karma was definitely also involved somehow. “Goodbye... for now, at least.”
+
+With those words, Jake turned and headed off toward the horizon. He used One Step for a good distance before he found an island that seemed safe enough. The other B-grades had evidently evacuated the area due to the fight going on, making Jake feel relatively safe as he found a place to sit down and meditate and fully deactivate his boosting skill.
+
+Right as he did so, Jake instantly had pain shoot through his body as the weakness flooded through his system. He had been putting on a bit of a front when facing the Sovereign, as his body truthfully wasn’t in the best condition. The fight with the Chimera had been pretty long, and Jake had taken his fair share of blows throughout. He could still have fought the B-grade, but that would definitely have resulted in an even worse time down the line.
+
+Jake meditated for about a full day before he felt close to peak condition again. After giving a quick mental thanks to the First Sage for his assistance in recovery, Jake took to the skies as he headed toward the jetstream.
+
+As mentioned, Jake had a couple of stops he wanted to make before leaving the Hunting Grounds. One of them was to check in with the Fortuna Ferret as Jake was a little curious how it was doing, and the other one was naturally to fulfill a promise he had with a certain little Warpsnatcher.
+
+It didn’t take that long before Jake was back in Area 1 once more, and from above, he quickly located the Fortuna Ferret, who was now chilling in the former territory of the Rainbowfeathers. He saw it down there, its children playing around with their parent watching happily, and Jake decided he didn’t need to go down there.
+
+Instead, he just smiled as he headed to the area where the Warpsnatcher had dropped Jake off after he’d recovered last time. When he got there, Jake considered searching the area, but ultimately decided to just make his presence known. Quite loudly so.
+
+Blaring his aura, Jake expected the little critter to locate him sooner or later, and luckily for the two of them, it turned out to be the former. Within his sphere, Jake saw a faint shimmer in the air as the weird cat-porcupine-hybrid appeared. Turning his head, Jake used a quick Identify as he felt a very minor change in the beast’s aura.
+
+[Shimmerfur Warpsnatcher – lvl 347]
+
+“Hey, you got a level since last we met, eh?” Jake said with a smile.
+
+“You many!” the Warpsnatcher replied while clapping its small paws.
+
+“I sure did,” Jake replied proudly, having indeed gotten quite a few levels. He had been level 309 in his class after killing the Simivita Warlord the last time he and the Warpsnatcher met, while now, he was already level 320. It was quite insane speed, especially when one considered the penalties from Anomalous Soul and Jake’s overall difficult Path. Then again, hunting B-grades as a C-grade was a very efficient way to farm experience.
+
+“Why here?” the Warpsnatcher asked after the two of them were done having their mini celebration. Jake detected a faint hint of hope in the critter’s voice, already knowing what it was waiting for.
+
+“I’m about to leave this Hunting Ground, and I did make a promise, didn’t I?” Jake said with a smile.
+
+“Found way?” the Warpsnatcher asked, showing that it had some insight into the rules of hunters. It seemed to at least already know that Jake wasn’t allowed to bring the Warpsnatcher with him just because he wanted to.
+
+Jake also knew this. It was written quite explicitly in the rule book, which was also why the two other hunters who had interacted with the Fortuna Ferret hadn’t even considered it an option to take it with them.
+
+The only way for a non-hunter to leave the Hunting Grounds was to qualify while in B-grade, which was effectively done to keep the average power level of the planet low, or in rare instances, hunters could petition for a monster to leave. This was very rare, though, and only ever seemed to happen in cases where a beast master wanted to take in a beast as a companion or pet.
+
+There was nothing about what one could do if they just wanted to help out a beast to leave.
+
+“Not exactly,” Jake answered, instantly seeing the Warpsnacher deflate.
+
+“Stuck?” it asked, looking up at Jake with its huge cat-like eyes.
+
+“I didn’t say that. I just said I haven’t found a way,” Jake said with a comforting smile. “But that doesn’t mean I can’t fulfill my promise. I have something even more powerful than permission, something capable of bending every rule and making every kind of exception.”
+
+Jake paused for dramatic effect as the Warpsnatcher’s mouth was wide open, the creature full of anticipation.
+
+“Nepotism,” Jake finally revealed, and it was instantly clear the poor Warpsnatcher had no idea what that meant.
+
+“Neo... tist?” it said, looking very confused.
+
+“Nepotism,” Jake repeated. “It means I have important and powerful friends who can help us out.”
+
+“Good?” the Warpsnatcher questioned.
+
+“Very good,” Jake smiled. “I won’t make any promises, but I will do my best to take you along, and I have a strong feeling my best will be good enough. Rules be damned.”
+
+Jake had stayed anonymous when he came to this Hunting Ground, as he had seen no reason to flaunt his identity. He had originally planned on staying anonymous, but sometimes, making use of his reputation and connections could be useful.
+
+Rules were written for the regular members of the Pantheon of Life, but Jake wasn’t even a member of the Pantheon in the first place. Plus, Jake was pretty damn confident that if the Chosen of Yggdrasil stopped by and wanted to bring a random C-grade beast with them from a Hunting Ground, no one would dare object no matter the rules.
+
+His confident demeanor seemed to convince the Warpsnatcher, and the little critter jumped into the air a few times in happiness. “Leave! Leave!”
+
+“Leave indeed,” Jake smiled and nodded. “Now follow me. We’re heading to the Outpost.”
+
+“Dangerous?” the Warpsnatcher questioned.
+
+“Not when I’m with you,” Jake said. If a monster approached the Outpost alone, Jake assumed they would find themselves in quite the trouble. Those formations alone allowed even a peak C-grade caretaker to kill any B-grade on the planet easily. “Now, are you ready to go?”
+
+“Wait!” the Warpsnatcher said as it disappeared the next second before Jake could even ask what they had to wait for. About a dozen seconds passed before the Warpsnatcher returned, looking pleased with itself.
+
+“Ready!”
+
+Through a bit of deductive thinking, Jake guessed what the little hoarder had left to do. “You went to fetch your stuff?”
+
+“Yes!” the Warpsnatcher said happily.
+
+“Say, why did you even collect that much stuff in the first place?” Jake asked, curious if it truly was just the monster’s Path.
+
+“If give. Me leave,” the C-grade explained, Jake frowning at the answer.
+
+The Warpsnatcher had tried to gather enough things to buy its own way off the planet, it seemed, not knowing that would never work. Perhaps it had seen other hunters trading and assumed if it had enough stuff to trade, it could also negotiate with the hunters.
+
+“Luckily for you, I already got payment, so you can keep all your stuff,” Jake said in a comforting voice. “Now let’s go.”
+
+“Okay!” the critter said, ready to go.
+
+Taking to the air, the Warpsnatcher followed, teleporting through the air as it kept up with Jake nicely. The more Jake learned about the creature and the more he saw it move, the more certain he became that it really wasn’t a creature that did combat at all. It was so damn specialized in speed and being elusive while also being good at snatching stuff. Hence the name Warpsnatcher.
+
+In many ways, it was a creature like Sandy. Both walked a Path that revolved around treasures rather than combat. Both still had some combat options available to them, but it wasn’t truly how they grew.
+
+Jake and the Warpsnatcher were silent as they soon approached the Outpost that only Jake could see from afar due to his Hunting Grounds Manual. As he got closer, a Pulse revealed the Outpost, and Jake saw that compared to the last time he went there, quite a few more people were now present.
+
+A quick count told Jake there were around fifty people in total, and he recognized three of them. One of them was naturally the attendant who took care of the Outpost, who looked busy from the snapshots Jake took. The other two were Keerla and Solana, the two hunters Jake had met when the Simivita attacked the Fortuna Ferret.
+
+“Just a warning, there are a lot of people there, so stick close to me,” Jake warned the Warpsnatcher, and at his cue, the creature teleported over and appeared on top of Jake’s shoulder mid-flight.
+
+Approaching the Outpost, Jake didn’t slow down but still wanted to make sure the barriers would allow their entry, as he wasn’t sure if the Warpsnatcher would be automatically blocked. Luckily, that didn’t seem to be the case as Jake passed through all the barriers safely while carrying the little critter.
+
+When he was through, he looked down and saw all the people already outside. They weren’t there for Jake or even looked his way, but were busy discussing something. Jake subtly listened in... and he hadn’t been entirely right when he said they weren’t there for Jake.
+
+“I contacted the other managers, and there have been no special arrivals within the last year in their Outposts, either. It’s possible someone was snuck onto the planet through unauthorized means, but we also need to consider the possibility of it being a newly evolved B-grade. One that possesses power surpassing all the others,” the caretaker said to the slightly worried crowd of hunters.
+
+“You say the same thing every day. When are the investigators arriving?” a hunter asked with a sigh.
+
+“That’s the thing... they don’t seem to be in a hurry and told me just to wait, which must mean they know what’s going on, right?” the caretaker argued.
+
+The crowd continued talking as Jake began floating down, the caretaker looking up towards him. Even if Jake had tried to hide his entrance as much as possible, he simply didn’t have the ability to hide from the formations covering the outpost.
+
+“Hey, you!” the beastkin caretaker yelled toward Jake, making others also turn toward him. It looked for a moment as if the caretaker wanted to ask Jake something else... but that’s when he spotted the beast sitting on his shoulder. “You... is that the Shimmerfur Warpsnatcher? You brought it here?”
+
+By now, Jake had reached the ground and landed, and he just confidently nodded. “Yep, it is. Little fella helped me out, and in return, I promised to lend a hand with leaving this Hunting Ground.”
+
+Jake’s words instantly made people look at him like he was an idiot, with only Keerla and Solana looking at Jake with some concern, as Keerla was even nice enough to send a telepathic message.
+
+“What the hell are you doing? You know that bringing native monsters to the Outposts is strictly forbidden, much less leaving with one... I get that you’re not necessarily a member of the Pantheon of Life, but the rules still apply to you, and so do the consequences. Look, if you try to- “
+
+“It’s fine,” Jake cut her off with his own mental response, appreciating the unneeded concern.
+
+“I get that this is a hectic time, but that doesn’t mean all order has fallen apart,” the caretaker sighed, shaking his head. “Go release the native immediately, and- “
+
+“We can make an exception,” Jake responded confidently, primarily to calm down the nervous and shaking Warpsnatcher that was trying to dig itself down into his shoulder.
+
+“I don’t have time to deal with this,” the caretaker groaned, the crowd now even more convinced Jake was some moron. “With the authority vested in me as an Outpost Manager, I hereby place you under arrest for attempted smuggling and breaking Hunting Ground regulations. Now hand over the Warpsnatcher and surrender yourself willingly.”
+
+When Jake heard these words, he couldn’t help but feel a hint of excitement. This was such a novel experience as it was his first time ever getting arrested, counting both pre- and post-system.
+
+Sadly, or perhaps more accurately, luckily, Jake doubted he would get to spend any time in the slammer, as he’d already activated the token Artemis gave him right before he entered the Outpost. Before anyone could even approach Jake, an aura appeared from the teleporter, one that definitely didn’t belong to anyone who should come to a planet for C-grade hunters.
+
+It was an S-grade woman, wearing simple leather armor, but her appearance instantly put everyone on alert, and Jake quickly threw an Identify her way. The result of which made Jake fairly certain she had come because of him.
+
+[Human – lvl ??? – Divine Blessing of Artemis]
+
+The caretaker, as well as several other hunters, instantly went down on their knees and spoke in unison.
+
+“I greet the Hunting Director!”
+
+Their voices echoed, filled with respect and reverence, and in response, the newly arrived Hunting Director also knelt down toward Jake.
+
+“I greet the Chosen of the Malefic Viper.”

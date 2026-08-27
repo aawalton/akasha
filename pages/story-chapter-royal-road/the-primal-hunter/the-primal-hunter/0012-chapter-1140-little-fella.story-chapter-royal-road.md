@@ -1,0 +1,177 @@
+---
+id: d27711f6-1b89-5226-9e09-c6be509bd147
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1140 - Little Fella"
+slug: 0012-chapter-1140-little-fella
+partOf: the-primal-hunter
+position: 12
+ownLength: 2794
+unit: words
+ownProgress: 2794
+publishedAt: 2025-07-30
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2478783/chapter-1140-little-fella"
+royalRoadId: "2478783"
+markedReadAt: "2026-06-29T19:29:38.636Z"
+---
+
+Jake honestly felt a bit relieved when he saw it was “only” an S-grade with a Divine Blessing that had shown up. A part of him had feared Artemis would send some lower-ranked god, or worse, come on her own to provide assistance. If that had happened, the situation would have been a bit too much in Jake’s opinion, though even this was a lot.
+
+At least Jake deemed it so based on the looks he got from the crowd, especially Keerla, Solana, and the poor caretaker, who looked like he wanted to jump right off the floating island. Jake wasn’t sure why that guy looked nervous. He should be proud instead, as the first person to ever arrest the Chosen of the Malefic Viper for a hunting violation.
+
+“You came quicker than I expected,” Jake said to the newly arrived S-grade. At the same time, he also made sure to use his own aura to cover the trembling Warpsnatcher that was trying to bury itself in his shoulder.
+
+He had never seen the poor thing this scared before. Likely because it never had to be scared under usual circumstances. Due to just how damn elusive the little monster was, Jake doubted even the local B-grades had a chance to catch it, not even someone like the Forest Fae with her weird magic.
+
+However, an S-grade was on a whole other level. There was no B-grade, much less a C-grade, in the multiverse capable of escaping a true S-grade. Especially not someone at the level of the woman who had just arrived.
+
+“My Patron insisted,” the S-grade answered as she stood up, quickly shedding her aura of over-politeness. “I’m uncertain what the issue is, but I’ve come to resolve it.”
+
+“Not really an issue per se,” Jake said casually as he lifted a hand and patted the little Warpsnatcher on the head. “It’s just that I decided to bring this little guy with me out of the Hunting Grounds, and I predicted doing so could lead to some challenges, seeing as it does technically break the rules.”
+
+“I wouldn’t say it only technically breaks the rules. The rules are very clear in that area,” the S-grade sighed. “However, it naturally isn’t a problem, though it would have been easier if you had informed us beforehand, so this entire scene could have been avoided.”
+
+“Everything was decided rather spontaneously, and I realistically couldn’t give much forewarning,” Jake shrugged, still casual in his demeanor and speech. The S-grade seemed to mirror his casual demeanor somewhat as she nodded and turned towards the caretaker.
+
+“I take it there won’t be any issues if the Chosen of the Malefic One decides to bring along a singular C-grade beast?” she asked a very leading question that the poor peak C-grade really couldn’t say no to.
+
+“N... no, of course not!” the caretaker said, straightening his back. “I’ll make sure to handle any paperwork, and the issue can officially be considered closed!”
+
+Jake could be petty and ask if he had been released from custody, but he decided not to be a dick. The poor guy already had the scare of his life, and making it worse was just unnecessary.
+
+“Good,” the S-grade nodded as she looked at Jake. “I briefly went over the recent reports of what has happened on this planet, and saw that a fair number of B-grades have been slain recently, and the power dynamics have shifted. Am I right to assume you’re the cause?”
+
+“That would indeed be a good assumption,” Jake confirmed. “I just returned from slaying the Darkwood Chimera, which I believe was the most powerful B-grade present on the planet. That being the case, I have no reason to stay.”
+
+Jake’s revelation that he had killed the B-grade Chimera definitely raised a few eyebrows, especially seeing as Jake still wasn’t hiding his level. It was generally accepted that someone at Jake’s level simply didn’t stand a chance against B-grades, and yet he had just claimed to have killed the strongest on the planet.
+
+However, Jake also saw the surprise disappear just as fast as it appeared. Likely because they remembered who Jake was. While barely anyone knew how Jake looked outwardly, they did know about him. They knew about the new top scorer on the Nevermore Leaderboards, and they knew it was the Malefic Viper’s new Chosen. Jake could rightfully be called the most famous C-grade in the multiverse, and he was even a contender to be the most well-known mortal, especially amongst the gods.
+
+“I see. It sounds like you had a fruitful hunt,” the S-grade Hunting Director said, to which Jake gave a quick nod. It wasn’t surprising either. Artemis had been the one to pick this Hunting Ground for Jake after all, and it made a lot of sense that the general power level suited him greatly.
+
+“I’m glad to hear the facilities of the Pantheon of Life have proven worthwhile,” the Director said. “Unless you have more matters to settle here, are you ready to leave?”
+
+“Yeah, just one more thing,” Jake said as he briefly glanced into the crowd of onlookers and made eye contact with Keerla, who stood frozen beside Solana.
+
+“Don’t forget you two still promised me a mean dinner,” Jake sent telepathically, once more being nice by not singling out the two from the crowd. He knew just how annoying being the center of attention could be, and it wasn’t a fate he wanted to lie on them.
+
+Turning back to the Hunting Director, Jake nodded. “Alright, ready to go. Do I need to do anything more to bring this little guy?”
+
+The S-grade briefly glanced at the Warpsnatcher that still looked afraid of the far more powerful entity. “No, not from my point of view. We’re already breaking convention here, so there’s no official protocol to follow. Besides, I was ordered by my Patron to handle any obstacles you request of me, so even if there were administrative challenges, I would address them.”
+
+Jake got the feeling the S-grade was subtly trying to probe him for just why Artemis had given her such orders. She very clearly outlined that Artemis had done a lot to help Jake, which likely didn’t make much sense from her point of view.
+
+Even if Artemis had been assigned to ensure Jake had a good stay, it wouldn’t make any sense. She was a god, so why would she be this personally involved? Jake totally understood the S-grade’s suspicion and made sure not to give anything away.
+
+“See, I told you things would be fine,” Jake said as he took the Warpsnatcher off his shoulder and held it in his arms like the cat-like creature it was. The little guy snuggled into his arms, still looking around nervously at all the hunters who stared at it.
+
+Following the motion of the S-grade, Jake stepped onto the teleportation platform, and without further ado, he was whisked away from the Hunting Grounds, the Warpsnatcher in tow. When Jake arrived on the planet, Artemis had helped him get there directly, but this time, he returned through more official channels.
+
+The teleportation took Jake, the Warpsnatcher, and the S-grade to another planet within the Pantheon of Life’s territory. Right as they appeared, Jake naturally released a Pulse, and the first thing he noticed was how dense yet small this place was.
+
+Jake could detect the curvature of the planet, meaning it couldn’t be that large, likely only the size of the moon pre-system. Give or take. However, the place was absolutely packed with buildings everywhere, and just the hall Jake appeared in was absolutely massive.
+
+They had appeared on the top floor, standing on what was clearly the S-grade Hunting Director's personal teleportation circle. Far below them, Jake saw what he could only refer to as the portal room. The building they were in was tower-shaped, and most of the other floors were one big portal room, filled with what had to be tens of thousands of portals.
+
+If Jake’s guess was correct, each and every single one of these portals led to a Hunting Ground... and this was just one of many towers a single Pulse could see.
+
+“Is this your first time here?” the S-grade asked, even more casual now than before.
+
+“It is,” Jake nodded.
+
+“Curious. You would ordinarily have had to pass through here to enter the Hunting Ground,” she commented with a raised eyebrow.
+
+“Curious indeed,” Jake said in a dry voice. “I take it this is some kind of hub that allows access to all the different Hunting Grounds?”
+
+“All of them?” the S-grade asked as she chuckled and shook her head. “No, far from all of them. Just this sector I’m the Hunting Director of.”
+
+“How many Hunting Grounds are you managing in total?” Jake questioned, genuinely curious. There had to be at least a few hundred thousand, right?
+
+“It does fluctuate a little, with some being added and others decommissioned, but as of the last census, just above ninety-six million, two hundred and eleven thousand,” the Hunting Director answered as if spouting out such a high number wasn’t absolute insanity.
+
+“That’s a lot of Hunting Grounds,” Jake muttered.
+
+“Some are more populated than others, and it takes a lot of work to manage them all,” the S-grade answered, glancing his way. “Especially when individuals appear who upset the balance by slaying a lot of the monsters in charge.”
+
+“Sorry for giving you work,” Jake shrugged, not really meaning his apology.
+
+“Speaking of work, now that we are away from the others, I would like to ask you directly: why is my Patron so personally involved in this matter?” the Hunting Director finally just came out and asked.
+
+Honestly, it was a bit refreshing, and Jake definitely felt that people here in the Pantheon of Life were less reverent than back in the Order of the Malefic Viper. Likely because Jake wasn’t actually the Chosen of a god that they actively worshipped. Sure, they respected his status, but far less than those back at the Order.
+
+As for the S-grade’s question... Jake decided to give her a bit of a half-truth.
+
+“I have been receiving archery lessons from her, and when I got here, I also brought a present from my Patron. I guess you can put two and two together with that information,” Jake said rather nonchalantly, fully aware she definitely wouldn’t reach the right conclusion from that.
+
+He actively saw the S-grade frown before seemingly realizing what was going on. “I see... that does make some sense. Seeing as that means you’re likely to meet her again, could you put in a good word? It would be truly wonderful.”
+
+“I guess that’s not too much to ask,” Jake said. In his arms, he felt the Warpsnatcher moving around uncomfortably, telling Jake it was time to go as the poor thing really didn’t like bathing in the presence of an S-grade, even if Jake protected it.
+
+“Thank you,” the Hunting Director nodded. “If you plan on staying in the Pantheon of Life for an extended period, I reckon we will meet again. I watch over most Hunting Grounds in your immediate level range, and I’ll happily provide personal advice on which Hunting Grounds I believe are best.”
+
+“I may just take you up on that offer,” Jake smiled as he looked toward a certain wall in the chamber. “That’s a gateway, right?”
+
+“It is,” the S-grade confirmed. “And we are close enough to your residence to teleport directly there.”
+
+“Then I believe it’s time I take my leave. I have a lot to digest back at my residence,” Jake said as he scratched the Warpsnatcher. “And I also think this little guy will like some calm.”
+
+“Before you go, what exactly do you plan on doing with that Warpsnatcher?” she asked curiously.
+
+“Well, that’s gonna be up to this little fella, isn’t it?” Jake answered rhetorically. “I’m just returning a favor, nothing more.”
+
+“Curious behavior, but I’ll not be one to judge,” she shrugged. With that, Jake made his way over to the gateway and placed a hand on it as he looked toward the Hunting Director.
+
+“Goodbye or till next we meet,” Jake said with a smile as he activated the gate, using the token he’d been given. The gateway in front of him changed, and with a single step forward, he and the Warpsnatcher teleported across a vast distance, right into the way too large castle that was Jake’s temporary home at the Pantheon of Life.
+
+Exiting the gateway, Jake took a deep breath and enjoyed the fresh air of his personal residence. The mana was way different this close to Yggdrasil, something the Warpsnatcher also instantly noticed as it raised its head and took a few sniffs.
+
+“Home?” it asked, looking up at Jake.
+
+“Yeah, this is my home right now,” Jake said with a smile.
+
+The Warpsnatcher looked around for a few moments before jumping from his arms and landing on the floor. Next, its body began to shimmer as Jake’s sphere informed him the little critter teleported around between the different rooms, checking out most of the large castle before returning to Jake.
+
+“Big!” it yelled, lifting its two paws.
+
+“It is pretty big,” Jake agreed. “But I do have to warn you about something. I’m not always alone here and sometimes get visitors. Just know that none of them are gonna harm you, okay? Even if they may seem very strong.”
+
+These words made the C-grade a bit concerned as it sat down. “Stronger than woman?”
+
+“If you’re talking about the woman from before, then yes,” Jake nodded. “A lot stronger.”
+
+“Not dangerous?”
+
+Jake was about to answer... but someone else came before him.
+
+“No, I’m not dangerous,” the voice of Artemis echoed as the goddess appeared in the room a second later.
+
+Her sudden appearance spooked the Warpsnatcher as it jumped right back into Jake’s arms and dug itself into his embrace.
+
+“Look at what you did now,” Jake shook his head as he stroked the poor thing.
+
+“I’ve already reined in my aura as much as I possibly can,” Artemis said. “The Shimmerfur Warpsnatcher is just especially sensitive towards the auras of others. They possess a set of very powerful skills that allow them to identify dangerous creatures and areas, but when it comes to someone like me, all it can detect is that it can’t detect anything, which usually correlates directly to danger.”
+
+“You seem to know a lot about Warpsnatchers?” Jake asked as he continued stroking the C-grade, trying to calm it down.
+
+“I know a lot about most beasts,” Artemis said, once more reminding Jake he was speaking with a god who had lived for longer than his entire universe had existed several times over.
+
+“Are they a powerful variant?” Jake just asked directly, seeing no reason to beat around the bush.
+
+“Powerful? That’s hard to answer,” Artemis said as she went over and made herself comfortable on a sofa. “Rather than powerful, I would call them unique. I will also clarify that it’s definitely not native to the Hunting Grounds you found it in, but then again, Warpsnatchers aren’t really considered native anywhere.”
+
+“If you’re not native to that planet, then how did you get there?” Jake asked the Warpsnatcher as he also walked over and sat down on the sofa opposite Artemis.
+
+Despite its nervousness and fear, the little C-grade still answered. “Sent.”
+
+“You were sent there?” Jake exclaimed in surprise.
+
+“Let me clarify,” Artemis chimed in. “When the offspring of Warpsnatchers reach a certain level of maturity, their parents teleport their young elsewhere in the universe. Dependent on the power of the parent, this can be across an entire universe or perhaps just a single planet. All I do know is that even a B-grade Warpsnatcher can send their young from one galaxy to another.”
+
+“Now that does sound pretty darn powerful,” Jake said as he looked down at the Warpsnatcher. “Aren’t you indeed a powerful little space magician?”
+
+“They don’t strictly use space magic,” Artemis clarified. “Their magic is more in the realm of mysticism. Space magic is certainly involved, but only to a certain extent. Generally, what they do is referred to as Shimmermyst magic.”
+
+“And is Shimmermyst magic considered powerful?”
+
+Artemis shrugged once more. “Depends on the user. It definitely can be, though its applications don’t tend to be combat-focused. As you’ve probably already realized, Warpsnatchers aren’t fighters. I am curious, though. What are you trying to truly learn with all these questions?”
+
+“I’m just considering something,” Jake shook his head as he looked down at the Warpsnatcher. Yeah... I guess this little fella is a candidate.

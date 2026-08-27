@@ -1,0 +1,171 @@
+---
+id: 4f6f0a89-3fdf-5c44-9a8d-2416ff3efb37
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19"
+slug: 0019-chapter-19
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 19
+ownLength: 2007
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2575819/chapter-19"
+royalRoadId: "2575819"
+---
+
+Tachyon groaned as she pulled another patch of moss from the wall, her eyes somewhat filling with tears as she ground the bitter, earthy food between her teeth.
+
+“Why does it have to taste so…mossy…”
+
+Forced to give the moss on the walls a try, she sighed, pulling more and more off with her mana threads and storing them into her bag for unfortunately later.
+
+Blue Moss [F-Grade, Common]
+
+A mana-sensitive luminescent moss. The taste is earthy with a hint of, earth?
+
+Consuming this fruit gives a temporary +1 to Magic for 1 hour. (Does not stack)
+
+Can be used in cooking, crafting, and alchemy.
+
+The description itself wasn’t very useful to her. And it also didn’t have the agility boosting bonus that the Wolverine Pomegranates had. Also, to make matters worse.
+
+“I already ate through all the pomegranates I had,” Tachyon muttered in a soft wail of frustration, her mouth mechanically chewing the moss.
+
+But through all her terrible and horrid tribulations, she must still continue on. For power, for freedom, and of course for more sweet treats.
+
+After spending a few more minutes recovering in the cave, gathering whatever she could. Tachyon began looking for another passageway to continue down. Guided by the light of her magic carrots and a more vibrant red now that she obtained the fire stick from the troglodyte mages. The passageways might have well been in the sunlight for her.
+
+Tachyon had found that if she charged the stick with her mana by placing it on her head and between her ears, she could use it as a beam of light. You could say, a head light.
+
+And if she truly wished, she could fire it in any direction she was looking at. Almost like a head cannon.
+
+With the new acquisition of the mana ring, it offset some of the costs of holding her speed in her skill as well as her constant use of magic. Did it fully fix her mana problems? No, but every little bit helped at the moment.
+
+Using her beam of light and mana senses she only found two openings that were not caved in. The mages had destroyed her way in, leaving only these for exits.
+
+Unfortunately, both seemed to give off only faint densities of mana, leaving her even more confused.
+
+There is even less mana coming from these passages than what is in this cave. She thought. Did I go down the wrong path and end up in the wrong place?
+
+Debating if it was worth attempting to dig the entrance she had used out, she finally settled on continuing down one of the passageways instead.
+
+There was no reason to put more effort into digging up the entrance for now when she could explore and just come back later. There was also the possibility of doing more harm than good if she kicked or moved something and caused another cave-in.
+
+With that, she pointed her head light down the tunnel and trotted down.
+
+Nothing out of the ordinary stuck out to her as she did, a few minutes passing until she came to a small cave opening with strange fruits dangling from vines attached to the walls. The cave moss were absent from their previous places.
+
+Tachyon put her nose to the air, but was unable to snatch the scent of sweet-smelling fruit that she was usually aware of when she came close to treats. The fruits on the ends of the vines were nearly odorless.
+
+Approaching them, she began smelling something the opposite of sweet, but bitter and sour. Something more akin to the smell of an orange? It was hard to place the smell of something she had never eaten.
+
+Using a mana thread, she extended it to pick the fruit, placing it into her pan as she inspected it.
+
+Cave Lemon [F-Grade, Common]
+
+A citrusy fruit that puckers the mouth when eaten. The absence of light has increased its bitterness and sensitivity to mana.
+
+Consuming this fruit gives a temporary +1 to Resistance for 1 hour. (Does not stack)
+
+Can be used in cooking, crafting, and alchemy.
+
+Interested to taste new things as well as snatching up the buff, she placed the cave lemon in her mouth, biting down without preamble.
+
+Suddenly, her face puckered, her vision went black as if she had nearly gone blind instantly, letting out a loud ‘puhhhh’.
+
+She felt herself lose control of her spells for a moment, but reclaimed it a split second later. However, not fast enough as one of her magic carrots flew off behind her, slamming into a few fruits and splattering their contents all over the walls of the cave.
+
+“Ewwwww!!” she groaned, letting her tongue hang out of her mouth as she prayed the taste of the cave lemon would pass.
+
+Unfortunately, it did not. Forced to bring out the blue moss to scrape her tongue clean she couldn’t help but whimper in agony.
+
+“Nebar! Nebar again!” she roared. Having half a mind to destroy every last lemon in the cave.
+
+But more sweet treat-focused minds prevailed. Tachyon was smart enough to know that things and fruits she wouldn’t normally expect to be tasty could be turned into amazing foods and treats. Ned and Ted showed her just that only a day ago.
+
+So even with a sourpuss face and disgruntled shake of her head, she took her time to gather all the cave lemons covering the walls. And after finishing, she refused to eat more, continuing down the only other passageway.
+
+Still trying to get the sour taste out of her mouth, she grumbled while trotting. Making sure her mana and stamina were at reasonable levels in case of anything.
+
+Coming to another opening, she prepared for a fight, but was only met with a handful of groups.
+
+Their levels averaged lower than the other monsters before, around twenty in total in the level 12 range. A few standard troglodytes and the off Bruiser. Sadly, no mages.
+
+Tachyon honestly wanted a second stick for two head lights, maybe even four for better visibility.
+
+Cleaning out the cave with no major problems, she went onto the next. This time the interconnected caves all had straightforward paths. Had the large cave with the mages been the prize cave and she was backtracking down another path?
+
+But as long as the passageways continued, she would keep going. Her goal was to take control of the Controlling Stones that Ned and Ted had mentioned, and then leave this place behind for better treats —stronger monsters, she meant.
+
+Finishing the fourth cave in the linked passageways and heading down another, Tachyon finally felt the mana intensify. This next cave would most certainly be a large one.
+
+Passing through the mouth of the cave into the opening of the area. She was astounded to find how large this cave was. Tachyon had trouble believing that this large of a cave made sense within the mountain she had seen. Almost as if the space was being manipulated somehow.
+
+Even more, she was taken aback by the monsters within it.
+
+She had seen masses of troglodytes since entering the cave system, but this by far was the biggest and the most intimidating. Everywhere she looked, Bruisers and mages were paired off in groups surrounding a small hill.
+
+And at the center of the hill stood a familiar stone pillar. However, its color was no longer a chalky white, but a fiery red, while also standing twice as tall and three times as wide.
+
+There would be no toppling this Controlling Stone in one blow, she assumed. Especially with the monster leaning against it. In its arms, an elaborate stick filled with shining jewels.
+
+Troglodyte Elementalist Level 23
+
+Suddenly, Tachyon felt the whole room's gaze fall on her, the monster that was leaning against the stone standing upright.
+
+“Who the hell are you?” it asked.
+
+But before she could open her mouth, the monster answered itself.
+
+“Don’t care. Kill ‘em, boys,” it snarled, pointing its stick directly at her.
+
+Instantly, Tachyon was assailed with raining fire, snarling Bruisers twice her size charging directly for her.
+
+She looked for a way to escape, but she couldn’t go down the passage she had entered. If she wanted to make it all the way back to where she had first met the mages earlier, she would be backed into a corner. And if she tried to lure the Bruisers into the tunnel, they would simply block her way.
+
+Could she take them on one by one? Sure. But would she run out of stamina and mana before that? Very possibly.
+
+She had a better tank of mana now with obtaining the mana ring, but by no means were her stats inexhaustible.
+
+Tachyon only had one option and that was to run.
+
+Taking to a sprint, she used a burst of her Unstoppable Force skill to target the furthest Bruiser that was nearest to the wall of the cave.
+
+With swift strides, she slammed into the monster, her studded cuirass ripping into its flesh briefly as she pushed her hooves into its chest. Jumping off the monster, she continued her stride as she collided with the wall.
+
+The moment she did, the sound of numerous explosions rang out behind her, but she forced herself to focus on running.
+
+Her hooves met the cave wall and dug divots into the stone as she tried to continue running. Managing for several steps, she let out a snort of laughter, but only for a few steps before her speed was unable to keep her against the wall.
+
+Slowly slipping, she touched one last time against the wall, kicking off to touch back down with the solid horizontal ground. Only to find a plethora of fireballs headed her way again.
+
+It seemed the mages in this cave were much more powerful than the ones she had faced previously. And also more accurate.
+
+Using her head light, Tachyon let out her own fireball, but it was only able to collide with two of the many coming toward her.
+
+She sent out several of her magic light carrots, but there were simply too many for her to deal with alone without exhausting herself.
+
+So she did the next best thing. Tachyon touched her skillet to her butt, feeding it enough mana to reinforce the object. Then, as if it was natural began swatting the fireballs with it they were flies.
+
+With little effort she used her mana threads to guide the skillet to deflecting several of the fireballs, but only enough to allow her to run forward to dodge the rest.
+
+Looking down at her poor companion, she saw the metal had begun melting. The mana she used to reinforce it being consumed to slowly repair it, but not at a pace that would let her do that again.
+
+She needed to thin the herd, and quickly.
+
+Tachyon saw an extra-large fireball head her way and activated her After Image, doing her best to scramble out of the way with a burst of speed from her stored momentum.
+
+The blast destroyed her After Image instantly and flung her forward from the shockwave.
+
+“Is that all you can do, little horse? Run?” the Elemental Troglodyte bellowed.
+
+Tachyon got up quickly, but felt an influx of dense mana congregate at her hooves. Unsure what was going on, she jumped backward. A moment later, a spike of earth shot upward.
+
+She let out a breath of surprise. A moment too late, and she would have been impaled.
+
+Looking back up, she saw the Elemental Troglodyte give a sinister grin.
+
+“You came here to take my Stones, but you won’t be leaving alive! Maybe I’ll just trap you here and use you for target practice!”
+
+Will this stupid fat head shut up?! Tachyon roared internally. Threatening to chain me down!? Over my dead body!
+
+Could all she do is run? Maybe it was. And if that was what this annoying yapping troglodyte wanted. She would do just that!

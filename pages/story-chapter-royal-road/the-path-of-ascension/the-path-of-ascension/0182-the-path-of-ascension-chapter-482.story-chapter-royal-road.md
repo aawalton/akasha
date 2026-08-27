@@ -1,0 +1,281 @@
+---
+id: 7138d600-1e64-59ae-a702-0dfd1fcefdf5
+page-type-slug: story-chapter-royal-road
+title: "The Path of Ascension Chapter 482"
+slug: 0182-the-path-of-ascension-chapter-482
+partOf: the-path-of-ascension
+position: 182
+ownLength: 5176
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3185054/the-path-of-ascension-chapter-482"
+royalRoadId: "3185054"
+---
+
+Chapter 482
+
+Mathew flinched away, confused before he saw the message Matt was now very glad he’d sent. From there, his motion reversed as he pulled Matt into a hug.
+
+When they pulled apart, they simply swapped and Matt gave Melinda a hard squeeze as well before letting go and stepping back.
+
+“Fancy seeing you guys down here.” Liz mirrored Melinda and Mathew’s earlier stance, threading her arm through Matt’s.
+
+Nodding unashamedly, Melinda explained, “We just got to see each other for the first time in almost a century, so we wanted to have a little couple time. I’ve been slamming my head against my Talent’s latest hurdle before Tier 25. To make a long story short we both needed the break.”
+
+Matt laughed as they moved onto the next stall as a larger group. “We were doing the same thing. Mind if we tag along?”
+
+“Mind if I riffle through your pockets for change? Rumor has it you guys had the best total haul.”
+
+Rolling his eyes, Matt sniped back, “I’m pretty sure you have a larger official budget than I do.”
+
+Mathew snorted and pointed out the flaw in Matt’s argument. “I’m pretty sure everyone has a larger official budget than you.”
+
+Matt didn’t need the silent ‘you are the budget’ tacked on to hear the words all the same and crinkled his nose up at his friend. “That was my joke. You can’t steal my joke. That's wrong on so many levels.”
+
+Liz was no help as she shook her head. “You’ve made that joke a few too many times now, honey.”
+
+Wincing, Matt put a hand to his chest before shrugging. “Nope, no heart attack.”
+
+That caused Melinda to scan him before she wrinkled her nose up at him. “I can’t see through your mask. Boo.”
+
+Reaching out so she could touch him, Matt let Melinda hit him with a healing spell.
+
+Sighing, Melinda brushed aside an errand strand of hair before poking both him and Liz in unison. “I’m peeved at both of you and I wanted to let you know that.”
+
+“Wait, what did I do?”
+
+Looking at his betrayer, Matt asked, trying not to laugh. “Heyyyy?”
+
+“I visited your ‘Young Immortal’, Timmothy. I thought he might have been the big break I needed in getting my Talent to treat age as an ailment, but nope his Talent is just doing the same thing normal immortals do to decrease age, ageing their cells down through spiritual control. Therefore, he's not doing anything new and it wasn’t helpful. Booo. I got really excited. Baxter definitely knew but he’s a dick about stuff like that and let me waste my time.”
+
+Mathew nodded silently. “She was very enthusiastic. And very let down when she realized.”
+
+Picking up a stick of caramel covered fruits from a passing tray, Matt offered it as an apology.
+
+One that was quickly devoured by all of them when Melinda offered after trying the first one. The blackberry Matt got was the absolute perfect ripeness, and he followed it up with a raspberry for a contrasting tartness.
+
+“You’re forgiven. Besides, I'm in a fantastic mood. I finished creating my Intent and so I’ve been preparing to break through to Tier 25. I want to expand my Tier 3 a little more before I make the jump. Maybe it will help my Tier 25 Talent, maybe it won’t but I’m in no rush.”
+
+After giving the appropriate level of congratulations, Melinda looked between the two of them. “Okay, now your turn. What have you guys done?”
+
+“Let’s not skip Mathew.” Matt nodded to the other man but he shook his head.
+
+“Don’t look at me. I’m in the same boat as every other Tier 25 who just broke through despite being a Tier lower. I haven’t made the slightest progress on my Aspect. In fact I haven't even thought about getting started on my Aspect. I’m not crazy like you guys.”
+
+Liz agreed while trying to play demure. “I get it. I only recently made a breakthrough myself and it was semi-incidental, really.”
+
+“Oh?” Seeing the interest, phoenix Liz preened even as human Liz let herself smile. “I figured out my Anchor.”
+
+Eyes widening, both congratulated Liz, even as she waved it off, using touch to send her reply. “It’s my cauldron that I was able to customize. I wouldn’t say using it as an Anchor is a unique idea so it's not that impressive. I think all of us are intending to at least try for the same thing so really I’m just slightly ahead of the curve.”
+
+Returning to verbal communication, Matt didn’t let his wife downplay her achievement any further. “Except what she's forgetting to mention is that she didn’t just figure out that it's compatible, she already managed to claim it.”
+
+Not bothering to act demure any further, Liz's smile widened fully. “I still need to finish ninety percent of the process, but the hard part is done.”
+
+“That's seriously impressive. Any chance we can see it in action?”
+
+Melinda's question was answered by a happy nod. “If we can find something good, I’m happy to show how it works.”
+
+Mathew stretched up looking at farther stalls, “What are you looking for?”
+
+However, Liz shook her head. “Nothing we are likely to find out here in the open stalls. I’ll give a demonstration when we find something, though. I'm sure there will be things. But honestly don’t stress about your Aspect’s. It's the same process as with an Intent. Once you're confident, using whatever method feels best, claim the item and you're done. No big deal.”
+
+Melinda, an expert on everything biology thanks to her profession as a healer, immediately started digging deeper. “How does that work? What items do you need? Or rather, what criteria makes an item good? Do they have to be Natural Treasures?"
+
+Liz shook her head. “In theory? No. In practice? Most of the time, yes. As for the criteria I’m looking for, that's harder to explain. I really want unique or interesting properties related to Ichor but that's far from a hard requirement. When you zoom out far enough it's mainly trying to find magical or physical properties that might be useful to me; however other objects not related to Ichor are simply harder to… refine.”
+
+Saying as much as she was willing, the other two didn’t push.
+
+Instead, they continued around until they agreed to head up to the suite they had booked for the month.
+
+Ordinarily the size of a closet, the room was spatially expanded, warded, and furnished into a full luxury suite able to easily fit more than fifty people for the month-long auction without discomfort. Given the typical costs involved with each room, it wasn’t too surprising, but Matt was more than happy with what they got.
+
+Centered around a large living room with plenty of seating, he found several side rooms configured into beds for anyone who wanted or needed to sleep, but most were set up as slightly more private lounges. Entirely customizable and rearrangeable, the rooms were also catered by an entire team of Talent chiefs ready to make anything they could dream of.
+
+The entire place was of course lavishly furnished, with not a single piece of furniture lower than Tier 40.
+
+Whistling, Liz brought their arrival to the attention of everyone already in the room. There they were met with a chorus of jeers, cheers, whoops and other nonsense calls, such as ‘finally made it’ and ‘took you long enough’, as if they hadn’t been the ones doing everyone's chores.
+
+Liz was the fastest to snipe back, “Don’t give me that! It's clear you guys haven’t been missing our presence. I see cards. Deal me in!”
+
+Skipping to join most of their friends who already arrived, Liz was greeted with good natured boo’s and others derogatory remarks. She was even dealt in to good natured complaints.
+
+Passing by the table and briefly saying hello to Kyle and Samantha, Matt joined Aster, Vinnie, Tara, Annie, Emily, and Conor who were gathered around one of the bars as they kept ordering stranger sounding drinks.
+
+Seeing the bright pink drink rise out of the counter, Matt sniffed once before leaning away with everyone else.
+
+“What did you guys order? It smells awful.”
+
+Aster snorted, even as everyone else laughed. “The description called it a Holiday Relaxation Starter. I expected… anything else. Alright, who wants the first sip?”
+
+Seeing everyone look at him, Matt rolled his eyes, willing to eat the newcomer tax.
+
+Picking up the drink, he searched for the straw before taking a sip.
+
+Looking down in surprise, Matt made a pleasant sound. “It doesn't taste anything like it smells.”
+
+An interested Vinnie took his own sip. “He’s lying. It tastes awful.”
+
+However instead of pushing the glass away, Vinnie tried to pull it closer to himself, causing everyone else to rush into their doom as the drink passed around.
+
+Only when Aster took a sip did Matt let go of the death grip he held on their bond. The initial flavor really wasn’t too bad, it was fruity with a hint of sourness that made the colors bright. It was everything that came after which was the problem.
+
+Matt didn’t enjoy remembering it, but he’d dug his way through sewage and worse, yet he still struggled with words to describe the aftertaste. It was foul in a way he found hard to describe.
+
+Seeing everyone else trying not to react, Matt finally let himself laugh with Vinnie. His laughter turned into tears as the flavor only started to grow worse the longer it sat on his tongue.
+
+Face still distorted in a cringe, Sam gasped, “Someone order something new! I can’t do this flavor anymore. My stupid Talent won’t even let me consider these drinks as a poison, which is clearly wrong. Anything that tastes this bad is objectively a poison. This is bullshit of the highest order! I hate Talent made drinks.”
+
+Scrolling through the list they'd been ordering off of, Matt found something called a Limping Slammer and ordered a lower Tier variant that his sub-Tier 25 friends could consume.
+
+When a deep green drink rose out of the table, Matt was bombarded with hate as his drink was surprisingly drinkable without any harsh flavors.
+
+As a punishment, the rest of the table collectively ordered him one of the worst drinks they’d sampled before his arrival.
+
+Seeing the Thunder Thunder Thunder made with Tier 30 liquor was purple and near ice cold, Matt knew he was in for serious punishment. His instincts were correct, and the moment the drink touched his taste buds, he hated himself for not joining Liz in playing cards.
+
+Setting the empty glass on the table, Matt tried very hard to not blink or let his face move all too much. “Fantastic.”
+
+Hearing how gasped the word sounded even to his own ears, Matt didn’t bother holding back and joined in the laughter, even as Vinnie started looking for the next awful drink.
+
+Their partying lasted for most of the first day, before they were inevitably pulled into the auctions as they started to begin. With their private suite, they could attend any of the auctions remotely, which was a special privilege only given to those wealthy enough to pay for the convenience.
+
+Using the projectors built-in, they were easily able to watch as an older woman started things off.
+
+Being the first official auction, the venue had gone all out, despite the first one being traditionally aimed at the mortals.
+
+Whistling, Matt shook his head with most of the rest of the room as they shook their heads in disapproval at the first item.
+
+A sliver of reality held fast as someone broke through reality and ascended to one of the higher Realms. The moment the very unneeded introduction ended, the item's starting price of one Tier 1 mana stone rapidly jumped to a more realistic valuation of a dozen Tier 20 mana stones. Once at a reasonable level the bidding didn’t slow down, rather it sped up.
+
+Quickling checking the EmpireNet to see when the most recent Ascension was, Matt realized someone had preserved the Shard of Reality, which narrowed down the sellers substantially. It was not easy to extend a shard's life span, but it was possible. It at least explains why so many people were losing their minds and emptying their wallets.
+
+When the bidding finally ended at a Tier 32 valuation, everyone visible in the auction was notably worked up and fully engaged.
+
+Matt would have loved to complain, but the second item was one of theirs.
+
+Seeing both Ascender teams and Rah growing interested as a seemingly normal looking bundle of herbs was brought out, the others in the room started paying attention.
+
+Aster’s tail started wagging ferociously as their hologram's border changed to indicate they weren't allowed to submit a bid for the current item. “We got the first real auction spot? Does that mean they are more valuable than we expected? Oh no, what if we are auctioning them all? Did someone keep some of them in reserve?”
+
+Her question was almost immediately answered as the auctioneer enticed everyone. “Today we have a bit of an oddity to follow up the rarity. After thorough investigations, a lot of testing, and finally, a participant who was willing to let us record a very private moment, let me introduce Dream’s Delight. This is a recently identified Natural Treasure that, once turned into an incense and burned, will send the inhaler into a deep drowsy state where creating a skill entirely is safe. Do be warned the resulting skills can be slightly… unique if one doesn't have a clear enough mental image going in. However it's nothing dangerous. A little post-use modification should be able to fix all but the worst results.”
+
+There was a brief moment of silence until the hall burst into noise as everyone tried talking over each other. At the same time, Dream’s Delight turned into one of the most searched topics in the Empire as news spread through micro portals.
+
+Being excellent at her job, the auctioneer, Judith, continued right as the excitement was about to boil over. “A full and complete video of our tester’s experience is available for purchase, but overviews are available for free. Given the new nature of this item, our auction house has put a restriction on this first batch of goods at the behest of the sellers. This first lot will only be sold to locals below Tier 10 who have created their own skill at least once before. Before that, we will have a short intermission for those who wish to prepare. Starting bid is the item’s Tier: One Tier 11 mana stone. All bids must be in same Tier mana stones.”
+
+Sharing a look with Liz, who was as confused as he was, Matt denied any part in the idea. “We never asked for that. Did they just assume we’d like that?”
+
+“I had honestly forgotten about it. Didn’t you look into it, Rah? Good guess if they did.”
+
+As Liz denied asking for special treatment, everyone looked to Rah, who slowly started to grin.
+
+“Ah, maybe this one is my fault. When we first got back from chaotic space, I dropped a few of the samples we gathered off at the university I wrote most of my paper at—”
+
+Leaning over Aster, Allie poked Rah, interrupting him. “Are you ever going to share what you were researching? I swear you’ve hinted at everything and said nothing. Time to spill!”
+
+Unruffled by the teleporter, Rah continued, “I was a little busy, but I was called upon quite often during the research that went into the herb and then again before they finally used it. I may have mentioned at a meeting we’d prefer all of the lower Tier herbs not be bought by companies immediately and hoping individuals might get involved, but it was idle chatter. I didn’t expect them to set one aside.”
+
+One question answered, they had little else to do but to pester Rah about his secret research paper, since he was finally willing to talk about it.
+
+Finally succumbing to the good natured peer pressure, Rah took over the projectors and minimized the auction while they were giving lower Tiers time to gather enough money to bid. Everyone knew that without the auction house’s limitations, they’d never have the chance to get their hands on a ‘new’ Natural Treasures.
+
+Realistically, other teams had similar or identical herbs stored away but they would be in the minority. Few teams were willing to keep unidentified Natural Treasures around long term, and they’d already bought up any samples they had been able to find on the open market before the auction. Something Matt now felt bad about, knowing Rah’s idle musings had been taken seriously.
+
+Sending the organizers a small thank you note, he focused on the more joyful lower Tiers who hadn’t expected any chance at securing the Dream’s Delight.
+
+Rah, however, distracted him as he finally started talking about his research. “When we were exploring chaotic space, I started to realize something. At least, according to what I know and remember, which isn’t perfect given my people’s misunderstanding of rifts, there are far too many strange realms in your Realm. On average we found over one strange realm per world. Sure, there were worlds with none, but there were far more worlds with two or three strange realms, which inflates the average. At first, I told myself this is a new Realm and there isn’t any reason to try and compare everything. But while we were in the bubble, it felt like any other explorations I’d been on, everything matched, except we kept finding far too many strange realms. I couldn’t mesh that with what I know. So when we got back and after I took my break, I started investigating. My original paper was limited to the differences in the amount of strange realms found in this Realm versus my first Realm, but without ways to verify my own Realm’s data beyond my memories, I began looking elsewhere. To make a long story short, I got in contact with Ciceron, who had some very interesting ideas.”
+
+Seeing the auction start, they all took a moment to watch as the price jumped up to Tier 11, but with few signs of slowing down, they turned back to Rah. “Together we started combing historical data and plotting what I did remember or what dowsers could drag from my earliest memories. What we found somewhat confirms my original theory, this Realm has far more strange realms than my old one did by an order of magnitude. But still, only one man’s memories of a single Tier 25 Realm isn’t enough to prove anything definitive, my Realm could just as easily be the odd one out when the sample size is two. I even considered it’s a property of this Realm being a higher Tier in general, which would imply the next Realm up will have them in even greater abundance. However, in keeping with making things short, both Ciceron and myself seriously doubt that is correct. First of all and most telling is that Rasdale tidal breaches have the highest number of strange realms observed by a fairly wide margin. Sure, the other breaches all have higher than average number of strange realms, but when looking at the historical averages, the Rasdale tidal breach is hands down the best breach for strange realms.”
+
+Rubbing his temples, Rah sighed. “I wish I'd known about chaotic space when I was in my lower Realm. Only seeing half the picture makes it very hard to truly know what else I might have missed, but we can’t do anything about that now. Instead, Ciceron and I started looking for historical data from other lower realm ascenders and checking their records. The Empire has very few such records, but in our searching we found something even more interesting. The tunnel I ascended through was expected to close, but it didn’t. Don’t ask me how Ciceron knows this because he wouldn’t explain it to me, but he was confident the tunnel I created when I ascended is still there and stable.”
+
+Cocking her head to the side, Allie asked, “Wait, have you been waiting to tell us all of that because you want to get another ascender and ask them about their Realm so you have another data point?”
+
+Rah shrugged but nodded. “Our hope and estimation is that the next ascender will likely be from my Realm if I truly did create the tunnel. If I just happened to be the first one through a randomly occurring permanent tunnel, we could be wrong, but we believe we are correct.”
+
+Smiling for his friend, Matt offered, “That's a good thing, right? Means you might be able to reconnect with others from your Realm.”
+
+Instead of being happy, Rah shook his head firmly. “We are in uncharted waters according to Ciceron, so I’m keeping my expectations low. According to the Realm’s history, there hasn’t been a stable permanent connection to this Realm since the Glorious Kingdom of Eternal Prosperity. That's when ‘frequent’ lower realm ascenders stopped appearing, not necessary when people stopped ascending into this Realm, because they do have records of random ascensions like mine. Also there is zero indication it leads to my Realm and not some other, as seen by this Realm having three Realms to ascend into.”
+
+Taking a moment to think and consider the implications, Matt asked, “Does that mean more people might have ascended between your arrival and now?”
+
+Rah shook his head. "According to Ciceron, no. They have ways to know when it's about to happen. At the same time, my arrival was very quiet and without you guys being there, I doubt anyone would have noticed, so maybe. If a seasoned explorer ascends next, we can hopefully gather more data points from their Realm. Don’t you understand how big this is?”
+
+Aster shook her head. “Rah, I think you are excited about the wrong thing! Having more people possibly ascending is awesome. Why didn’t you start there?”
+
+“I’m with Aster on this one. I feel like the big thing is the stable connection to one if not more Tier 25 Realm. What could that possibly change?” Melinda nodded along, finally saying something, which Matt was grateful for. The unfamiliar higher Tier Rah had caused some of his friends to be reticent, where they were normally boisterous, and it would be a long month if they couldn’t relax with the more literal ascender.
+
+Rah flicked everyone a data packet of what he found, but Matt only scanned it with his [AI] before setting it aside for later review. Rah was an excellent researcher, and while a little more speculative than most papers due to the information gap, his work was pristine and deserved his full and undivided attention.
+
+Before any of them could dig too much deeper into Rah’s paper, their item’s auction ended, bringing them all back to the present.
+
+Checking in on the winner was easy, as the Tier 9 woman was doing her best to resist having a panic attack, even as she was being congratulated by everyone around her.
+
+Matt was considering sending her to a private room where she could relax when the venue stepped in and escorted her out of the room.
+
+Intending to use one of the newly named Dream’s Delight himself in conjunction with the better [Item Link] JR promised for his armor, Matt indicated he’d be interested in buying Tiana’s experiences of using the Natural Treasure. Not that he was alone in his interest. The Tier 9’s AI would be working overtime screening her inbox as anyone involved with skill creation reached out to her.
+
+Realizing where that could lead, Matt started going through the process of ordering protection for Tiana, but found the venue had already handled it.
+
+The next several items went by without too much fanfare, no doubt a deliberate choice by either the venue or Judith, but as the tenth item rolled out, Aster leaned forward.
+
+“Oh, what is that?”
+
+Vanishing from their room, Matt felt Aster appear in the auction room. To her credit, she was invisible and didn’t stay long, but when she returned to their suite, she was grinning from ear to ear.
+
+Judith provided the answer at the same time. “This is an ice and illusion based plant picked up from the breach. Each fern is a pseudo Natural Treasure, which means they have magical effects, but they aren’t so restricted in their growing locations, with two successful transplants. As an alchemical ingredient, our appraisers believe it can be added to offensive ice potions to add random illusionary powers. We have four batches of seeds to be sold here, with two Tier 20 plants being sold at the later auction.”
+
+Shaking a limp Allie, Aster shouted, “I think it can grow in my spirit space! I need some of these seeds!”
+
+Aster only managed to buy the third set of seeds after she raised the price to a Tier 16 mana stone after deliberating with the rest of them. Seeing a Tier 36 mana stone’s worth of additional charges added onto her bill, Matt reminded himself to keep his purchases to items closer to his Tier.
+
+However, Susanne’s late and bedraggled arrival signaled Matt's moment to make JR’s offer known to his friends. Ultimately, the conniving raven had a point, and they needed a way to hide the true reason as to why he was spending something like a decade in a foreign Great Power. If he’d been asked, he would have gone under a false identity, but JR killed that plan. Still, it did free him up to actually have a pleasant trip, so he didn’t grumble too loud, even internally.
+
+“Everyone, I want to thank you all for making it. Susanne, I know they had you working until the last minute.”
+
+As he was speaking, Aster pretended to gag as she whispered to Tara and Annie, “He swears all his speeches haven't altered the way he speaks, but listen to him. Clear as day.”
+
+Flipping her a rude gesture, Matt changed his manner of speech entirely. “Okay assholes, listen up!” After getting a chuckle, he continued, “I have an offer for anyone who might want to spend a decade in the Corporations opening a business. Once we leave, you can either cash out and sell, or continue to operate it remotely. It's an open offer for everyone in this room, and Manny already said he didn’t care who I brought. At that point, I stopped asking questions before I asked myself out of something good, but I’m pretty sure he’s fine with whoever goes, as I did ask about you, Melinda, and while you’d have to follow some rules and restrictions, he agreed.”
+
+The first question wasn’t a surprise at all as Conor raised a finger, “Why do you need to spend a decade in the Corporations.”
+
+Working his jaw, Matt hammed it up for comedic effect, not wanting anyone to see through the act. “Wrong place, wrong time.”
+
+Waiting until the others looked annoyed, he elaborated, “I was there when Manny and JR were chatting and got caught in the crossfire.”
+
+Seeing no one believed him, Matt threw up his hands. “I’m telling the truth! JR then started pestering me about the economy and then he basically said, ‘Because you started the aura craze you can play in the mess you made. When should I stop cutting?’.”
+
+It only took Allie a moment to put the pieces together for everyone else who rarely paid attention to other Great Powers. “Wait a moment! Are you the reason the Corporations did their big reset thingy? Dude you fucked a lot of shit up. Several of my favorite corpo bakeries went under.”
+
+Wistfully she added, “Who knew the common ingredient in good snacks was tax evasion?”
+
+No one believed Matt’s denial, but he made it all the same. “He clearly intended to do so even before I got dragged into the conversation. I think I just made it worse?”
+
+Seeing the held back laughter, Matt waved them for them to let it out. “Go on, laugh at me! Anyone interested in coming with? Picture it now. At least a decade-long vacation where you can make your own business, all at my expense. Come on, who wants in?”
+
+Melinda asked the second most important question, and one of the ones Matt wished he could have avoided. “When do we leave?”
+
+Shrugging, Matt told his first actual lie of the conversation. “When we get our invites, but not too long. A year, maybe two, max.”
+
+In reality, it came down to if Matt could find the items he needed to finish his armor at this auction. Anything he couldn’t find here would come down to locating it at the Minkalla auction or settling on an alternative.
+
+Knowing the laundry list of items he needed, Matt didn’t let any of his worry show on his face as his friends mulled over his offer.
+
+“Think about it and let me know before the end of the auction. You can also back out at any time if you find you don't like it there. Ultimately this is a vacation and you can work as much or as little as you'd like.”
+
+Dodging a thrown celery spear, Matt glared at Tara, even as he made his way over to where she and Annie were lounging.
+
+“Was this your acceptance celery?” Taking a bite of the vegetable and its tangy filling, he continued, “It passes the taste test if that was ever in question.”
+
+“It wasn’t but I'm glad I have good taste. We had some questions, do you have answers?”
+
+Knowing he didn't, Matt nodded. “I can try.”
+
+After reiterating several times that he didn’t know and JR probably didn’t care what they sold so long as they followed Corporation law, he got both of them to agree. Not that anyone else was far behind to his not so secret delight.
+
+Given the opportunity and having the Emperor’s at least tacit approval made the choice easy. Stay home and do the same old thing or have a decade long vacation that could also prove profitable.
+
+The only one who struggled to say yes was Melinda because she knew that meant not using her Talent. Matt had already cleared it with Manny and he had no issue letting her go, so after some deliberation, she agreed. She’d wanted to visit one of Charl’s victims and see if there was anything she could learn and this was her best chance, making it a clean sweep.
+
+Plans set, Matt settled in to enjoy the auctions, a weight lifted off his shoulders he hadn’t realized had been there.

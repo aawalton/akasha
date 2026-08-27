@@ -1,0 +1,137 @@
+---
+id: 1d7ea59f-a5ba-58f6-99e9-52c871e2c3a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1254 - Finally Final Boss Time"
+slug: 0126-chapter-1254-finally-final-boss-time
+partOf: the-primal-hunter
+position: 126
+ownLength: 2742
+unit: words
+ownProgress: 2742
+publishedAt: 2026-02-12
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3040185/chapter-1254-finally-final-boss-time"
+royalRoadId: "3040185"
+markedReadAt: "2026-06-29T19:34:30.793Z"
+---
+
+While Jake and Casper had spent most of their time in Minaga’s dungeon casually bantering and having fun, they did need to get serious at times, and as they approached the final boss, this was one such time.
+
+The “Inner Labyrinth” guards were substantially more powerful than anything prior, and the Gunlancer and Marksman they had initially encountered were just a taste of what was to come. They encountered a few similar groups of roughly equal power, but after a while, they saw three enemies patrolling the hallway.
+
+Surprisingly, there wasn’t much labyrinth or maze in this end portion of the dungeon. In fact, Jake wouldn’t even have needed Casper’s help to find teleporters, as there weren’t any.
+
+Instead, they found themselves faced with a gauntlet of enemies. There were Gunlancers and Marksmen, but also Technomancers who could summon golem guardians and manipulate metal, as well as Deathstingers wielding poisoned rapiers while displaying the greatest speed of any opponent in the dungeon so far.
+
+If Jake had been in this dungeon alone, he would have adopted a hit-and-run tactic, trying to focus on one opponent at a time while avoiding direct combat with the entire group. He could have handled groups of two, but when there were three, it would have become too tricky, and the final group of four – one of each opponent archetype – would have been impossible in a direct fight.
+
+As for Casper, he straight-up admitted that he wouldn’t have been able to even beat a single Formation Master by himself. His damage output was lacking, and though he could possibly devise a way to kill a few Elite Guards before escaping to recover, it was uncertain if that strategy would even be successful.
+
+However, combined, the two of them were confident in even facing down four of the Inner Labyrinth enemies. Casper’s ability to immobilize while being incredibly hard to kill made him a beast at buying time and controlling enemies, while Jake’s ability to do extreme damage allowed them to win the fight before they would run out of resources.
+
+Casper couldn’t control all the enemies, though, but fortunately, Jake was just as difficult to take down as Casper, if not more so. Sure, when it came to durability and ability to nullify damage, Jake couldn’t hold a candle to a ghost form Casper, but he was still the best damn dodger in all of C-grade. If Jake focused solely on being defensive, he was confident that not even four of the Inner Labyrinth enemies could take him down in any kind of reasonable timeframe.
+
+In the end, it hadn’t been easy, but the pair successfully made it to the final boss room after beating the group of four. It was a long fight, and Jake even had to use Event Horizon to take down one of their targets, but even then, it had taken some time. The difficulty had proven itself beneficial, though, as Jake found himself gaining yet another level, meaning he’d gained two just in this final section.
+
+’DING!’ Class: [Arcane Hunter of Horizon’s Edge] has reached level 348 - Stat points allocated, +50 Free Points
+
+Two levels so far, that is. If all went well, the final boss should offer one as well. But before that, both Jake and Casper were well and truly spent at the end, and they were currently in the midst of recovering right outside the area where the Risen and hunter both believed the final boss to be.
+
+“How long do you reckon you’ll need?” Jake asked Casper, not joking about his inferior Meditate skill, but genuinely asking.
+
+“Longer than I would like,” Casper sighed, having truly spent himself in that last fight. “It’ll take at least half a day, maybe a full one. Lyra also took some serious damage, which won’t be fixed in just a few hours.”
+
+“Alright,” Jake nodded. “I’ll move back a bit and work on a poison for the dungeon boss while I wait. After I recover, of course.”
+
+“Okay,” Casper nodded, closing his eyes as he started recovering. He’d already had to drink a potion during the fight, but even if he hadn’t, Jake was fairly certain that Casper’s recovery wasn’t just about restoring resources.
+
+Jake himself also took a while to recover, though not as long as Casper. While he’d spent a lot of resources in the fight, he had avoided taking any major hits, and unlike Casper, he didn’t have to overextend his boosting skill usage either.
+
+After a bit shy of three hours, Jake stood up and stretched, and after quickly checking on Casper, he retreated a couple of kilometers so he could do some alchemy. While Jake could make a bubble of stable arcane mana to contain the fumes that would be emitted during his crafting, given the ample space available, he found it easier just to use a single One Step and create some distance.
+
+Sitting down again and taking out his cauldron, Jake mentally refreshed the type of crafting he was aiming to do. Based on the brief scouting Jake had made of the final boss room using Pulse, they would face another humanoid Aginian, so Jake wanted to prepare something for that.
+
+Knowing his enemy meant not just that his Protean Arrow would be stronger, but also that Jake could take advantage of his Bane Poison experience from his dragon hunt. All the Humanoidsbane and whatnot he had crafted during his preparation phase paid dividends now as Jake planned on crafting something very close to it:
+
+Aginiansbane Poison.
+
+In the last ten days, Jake had already tried several times, seeing as Casper always took longer to recover, and he was already pretty damn close. There wasn’t much complexity, and fortunately, Jake had plenty of ingredients from newly killed Aginians to use for his alchemy.
+
+Getting to work, Jake was fully focused and even used Invocation of the Malefic Viper to push for success. Casper ended up taking a full day to recover, but for once, Jake was the one who made the Risen wait a while, since he just felt so damn close to success.
+
+Fortunately for them both – especially Jake, as he knew he would get shit if he ended up just wasting their time – he succeeded after only making Casper wait for an hour. Relying on his experience making Humanoidsbane Poison and the fact he’d crafted the far more difficult Dragonsbane, Jake created a bane poison the multiverse had never seen before.
+
+You have successfully crafted [Weak Aginiansbane Poison (Epic)] – A new kind of creation has been made. Bonus experience earned
+
+[Weak Aginiansbane Poison (Epic)] – Aginians are a race with little known about them, but you know enough to create the means to cause their demise. Deals significant damage and inflicts various ailments on affected creatures, most commonly displaying effects of a necrotic and hemotoxic nature. This poison is significantly more effective on entities with Records identifying them as Aginian, while completely ineffective against those that do not. Bane poisons directly bind themselves to the Records of affected creatures, making it incredibly difficult to heal.
+
+The effects of the poison were more or less identical to the Humanoidsbane Poison, which was the best Jake could do with the time he had. Perhaps he could have made a more specialized effect like he had with his Dragonsbane if he was fine with sitting around for weeks, if not months, but who the hell had time for that?
+
+This was more than good enough. Moreover, the thought that this was an entirely unique bane poison, as it was based on creatures created for this dungeon, was mostly a joke, but it really shouldn’t have been. Jake had created something never seen before, and something like that came with Records. Not a lot, as it was an iterative race created by Minaga, but enough for Jake to get an unexpected level-up.
+
+’DING!’ Profession: [Heretic-Chosen Alchemist of the Malefic Viper] has reached level 346 - Stat points allocated, +35 Free Points
+
+’DING!’ Race: [Human (C)] has reached level 347 - Stat points allocated, +45 Free Points
+
+“Did you just get a level?” Casper asked after flying over, Jake’s dumb grin on his face betraying that he’d succeeded.
+
+“Sure did,” Jake smiled, quickly making sure to place all his Free Points in Perception before taking out his void lollipop and giving it a good lick.
+
+“That still looks wrong every time I see it,” Casper muttered, shaking his head. “Anyway, you got a level and made a better poison for the final boss? You know what, I’m starting to think we can actually do this.”
+
+“Was there ever any doubt?” Jake asked jokingly, though in truth, he also had a smidgen of doubt himself, going by this last area. It had been a major step up in difficulty, and while Jake was still confident, he wouldn’t underestimate Minaga’s dastardly creation.
+
+“No doubt we were going to give it our best shot, at least,” Casper shrugged. “I do also have my last trump card if it comes down to it, but remember, I’ll be absolutely useless afterward.”
+
+“I know,” Jake nodded.
+
+Casper had informed Jake that he had a skill that came with some serious backlash for both himself and Lyra, and that after each use, he would need at least a few days to fully recover. Maybe more. That’s why he hadn’t used it yet, but given they were about to face the last encounter of the dungeon, there was no better time than now.
+
+“How about you? Got any hidden super skill that you’ve avoided using?” Casper asked. “Before you answer, be aware that I’m very emotionally conflicted about what I want to hear in response. On the one hand, I would love to hear you don’t have more overpowered bullshit to pull out of your ass, while on the other hand, it would increase our chance of winning.”
+
+Jake considered the question for a bit. Technically, he could have used his Primeval Origin Energy to try to repeat what happened in the Colosseum of Mortals, but he wanted to avoid it if at all possible. He had no idea what the result would be, and he really didn’t want to find out unless he had no other choice. That’s why Jake ultimately ended up shaking his head.
+
+“Nothing we can count on,” he said honestly. “Not to say I don’t have something hidden up my sleeve, but it’s the kind of thing I only pull out when it’s either that or certain death.”
+
+“Fair enough,” Casper nodded. “We shouldn’t need it anyway, and if we do need it, let’s hope retreat is an option.”
+
+“So far it has been,” Jake shrugged. During all prior encounters, no gates ever locked behind them, meaning that if shit went south, they did have the option of tucking their tails and fleeing like the wind.
+
+Getting up, Jake motioned for Casper to follow as the two made their way toward the boss room. Both used stealth as usual while approaching, Jake having already confirmed earlier that they could get pretty close without triggering the encounter.
+
+The final room was much akin to the ones containing the Formation Masters, except far bigger and smack in the middle of the entire Grand Labyrinth. This one was also a massive circular arena, except in the middle, one would no longer find a ziggurat, but instead a large metal disc that looked like it was made of a material similar to the walls. Upon closer look, Jake and Casper identified this metal disc as a gate or grate of some kind. At least it had a slit that indicated it could be opened like a hatch.
+
+Here, the ground was also not made of weird gray sand, but large tiles with different symbols inscribed on them. None of them seemed to be active, but Jake’s knowledge of rituals told them they were part of something greater. Casper also concurred. In the grand scheme of things, not a surprise considering they had been going around killing Formation Masters to stop them from doing... something. Yeah, they still didn’t know exactly why they had been killing them, but surely Minaga would soon tell them through his brilliant character writing.
+
+It was also easy to see who would be delivering this writing, as only a single individual could be seen within the gigantic boss arena. Sitting on top of the metal disc was a cloaked figure with his legs crossed, seemingly waiting for any adventurers to arrive. A quick Identify confirmed that this was likely the boss they had been looking for.
+
+[Aginian Labyrinth Master – lvl ???]
+
+Jake and Casper both scanned the room as Jake gave the signal to the Risen. Casper nodded and stayed back as Jake moved further into the arena and around its backside to get in position. After a few minutes, Casper followed the plan, revealing himself and flying closer to the boss.
+
+The figure reacted when Casper got closer as his body began to emanate a powerful aura. When he spoke, they also confirmed this was the same hooded mysterious figure who had been giving out those crystal envelopes to the Formation Masters.
+
+“I see... You managed to get through the Inner Labyrinth guards and made it all the way here to the center of this grand construction. When I felt my Formation Masters fall one by one, and when the last of my subordinates failed to do his job in time, I knew it would come to this. Fortunately, I predicted the failure of one Formation Master not finishing in time, and your efforts shall be in vain. The grand design shall become reality!”
+
+Needless to say, the dialogue was pretty crappy again. It managed to be fluffy with little substance, only really communicating that this Labyrinth Master had some grand plan that they needed to kill him if they wanted to stop.
+
+“Do you even know what we’re trying to accomplish here? What our goal is? Why we’re building this Grand Labyrinth?”
+
+Jake kind of hoped the boss would just tell them, as technically, the objective of the dungeon wasn’t the kill a boss but to uncover the true purpose of the Grand Labyrinth. Unsurprisingly, that didn’t happen, and Jake was already mentally prepared for that information to come either as the boss’s dying words or post his death.
+
+“No matter. You have come far and accomplished much, adventurer, but your journey ends here. I would give you the opportunity to turn back now; however, you have killed my subordinates, and it’s only right I avenge them.”
+
+With slow movements, the boss stood up and revealed his height to be slightly more than three and a half meters. His black cloak started billowing as he lifted his right arm in a very cinematic fashion.
+
+“Now come! Face your demise!”
+
+From out of fucking nowhere, a Gunlance weapon shot down from the sky and landed right in front of his outstretched hand, cracking the tile it struck. The boss reached out to take the weapon, and the moment he did, his entire body erupted with mana as his black cloak was torn apart, revealing his true figure.
+
+At first, it looked like he was covered in armor from head to toe, but upon closer inspection, Jake noticed that he wasn’t. Instead, all four of his limbs, much of his chest region, and even his left eye were made up of robotic parts. He still wore armor on top of that, but even without it, he was more metal than man.
+
+A cyborg of some kind? Wait, or was it called an android? I’m pretty sure it’s cyborg...
+
+No matter. With the boss engaged, it looked like Jake could begin his opening attack. Jake and Casper had both theorized that opening the fight with a sneak attack on the final boss wouldn’t work, as they could both totally see Minaga implement some method to ensure the boss would be able to get his opening dialogue off.
+
+Now that he was done yapping, Casper prepared himself to fight, acting as the sole adventurer, while Jake nocked a Protean Arrow and started channeling an Arcane Powershot from behind.
+
+The time had finally come for Jake and Casper to see what the ultimate boss of Minaga’s Awesome and Illustrious Labyrinth Complex Dungeon-5 had in store for them.

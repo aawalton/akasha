@@ -1,0 +1,159 @@
+---
+id: 7eb09f69-2ddb-56ae-a65d-afe046eec9d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1237 - Dragon Hunter (6)"
+slug: 0109-chapter-1237-dragon-hunter-6
+partOf: the-primal-hunter
+position: 109
+ownLength: 3439
+unit: words
+ownProgress: 3439
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2961506/chapter-1237-dragon-hunter-6"
+royalRoadId: "2961506"
+markedReadAt: "2026-06-29T19:32:43.413Z"
+---
+
+Dragons were known for a lot of things, but if one had to be named over any other, it was their unique signature attack. An attack that, rather famously, even possessed innate concepts, making it even more powerful. It was even one that all dragons had, which had no doubt helped make it something any who faced a dragon had to be prepared for.
+
+It was naturally Dragon’s Breath. A simple-looking ability that had ended the lives of more would-be geniuses than perhaps any other skill in the history of the multiverse.
+
+Jake had felt the breath of a wyvern back on Earth. He’d seen the breath of Villy while using Path of the Heretic-Chosen. However, it was nothing compared to experiencing it himself.
+
+As Yrelstromoz breathed in, Jake felt the entire world dim around him as the very concept of light was dragged into her maw. The environment felt starved of mana as her throat began to give off a bright light, and her aura turned even more oppressive than ever before.
+
+To make matters worse, her breath was just one part of the attack.
+
+The gigantic magic circles both above and below him both activated at once, releasing a constant stream of light. Due to their scope, Jake had no feasible way of getting away from them as their magic approached, and as it did, he realized what Yrelstromoz was planning.
+
+Shit, Jake cursed as the light from below struck him, making him feel as if an incredibly powerful force was pushing him upwards. Half a second later, the light from above did the same, aiming to push him down with the odd light carrying physicality.
+
+Together, they squeezed him between them, making it difficult to move. Because of the constant “attack,” he couldn’t even activate One Step to get away. Immediately, Jake summoned his wings and prepared himself for what was to come, as he didn’t hesitate to start channeling the escape function of Wings of the Malefic Viper to get out of the way, but as he did so, he realized he wouldn’t make it in time.
+
+Just as his wings appeared, Yrelstromoz unleashed her Dragon’s Breath upon the world.
+
+She opened her mouth, and a stream of pure light shot out, instantly lighting up the entire planet with the brightest thing Jake had ever seen in his life. He felt a sense of danger from the flash alone, making him instinctively close his eyes before they were scorched, and even then, his vision turned entirely white as the light managed to get through his eyelids.
+
+At the same time, his danger sense exploded. Suspended and squeezed between two giant magic circles, Jake had no way of dodging the insanely quick Dragon’s Breath of pure light as he focused his mind to try to do what seemed impossible:
+
+Block it.
+
+Pride was unleashed as Jake tried to push back the pressure from the two magic circles while summoning several layers of barriers in front of him. His wings wrapped around his body to defend himself, and he infused as much energy into his scales as possible while also trying to divert as much of his mana as he could to empower the barrier made by Arcane Awakening.
+
+Not enough… far from enough.
+
+As the Dragon’s Breath rapidly closed in, a second copy of Jake appeared, dashing towards it as powerful energy revolved around Eternal Hunger, as his Shadow unleashed a Piercing Fang toward the beam. He considered trying to use it to dodge, but the suppressive effect was too strong and the size of the breath too big.
+
+At the same time Jake sent out his Shadow, he also did what little movement he could as he positioned himself in the best way he could to block the incoming attacks. He tugged his limbs in as if a boxer fully on the offensive, shielding his face with his arms while making his frame as small as possible by raising his feet. He even went so far as to point the soles of his feet toward the beam so his boots could take up as much surface area as possible.
+
+He didn’t have time to move more, but his mind continued working at high speed to pull out all stops to try to survive the incoming attack.
+
+Right then, the Dragon’s Breath arrived. The heat and oppressive sensation hit Jake even before his Eternal Shadow punched into the beam, finding itself instantly dispersed in an explosion of curse energy.
+
+One by one, his barriers were torn through, seemingly offering no resistance at all before the might of a dragon. His danger sense was still screaming at him as Jake activated his Umbral Cloak at the very last moment, enveloping his body in shadow energy as the Dragon’s Breath struck him.
+
+Jake felt his wings being burned, the webbing full of holes instantly as the light seeped through. He was pushed back, the light of the Dragon’s Breath carrying a small sense of physicality, though it seemed utterly insignificant before the sheer sense of primeval destruction.
+
+His wings were entirely gone in the blink of an eye, the shadow energy being up next as it tried to block the stream of light as it washed over him. The two opposing concepts battled until the shadow energy suffered absolute defeat, rays of light piercing through the layer of darkness as it struck his two final layers of defense.
+
+The small arcane barrier around him offered little resistance before the light touched his skin, his armor not faring any better except for the boots on his feet and mask on his face. Jake felt an immense rush of energy enter his body as his scales absorbed as much of the Dragon’s Breath as they possibly could before breaking apart, dispersing, and turning at least some of the energy desolate before it could sear his body.
+
+But it wasn’t enough. Far from it.
+
+The light penetrated through his scales and entered his body as he was burned from within. It destroyed everything it came into contact with. His skin below his scales was quickly sheared off by the constant stream of light that washed over him.
+
+Jake kept resisting as he flooded his body with stable arcane mana, focusing on protecting his important organs, primarily his heart and brain. Simultaneously, he repeatedly summoned new scales as quickly as he could to lessen the damage just a little, resulting in broken scales exploding all the time, actually helping more than he’d initially believed it would due to the desolation energy being dispersed into his surroundings, combating the attack.
+
+As for summoning more magic outside his body, Jake wasn’t even going to try. When the Dragon’s Breath hit initially, Jake had already lost total dominion over the area, his Pride of the Malefic Viper effectively washed away by the overwhelming might of a dragon’s authority over magic.
+
+All he could do was focus on his body while defending what mattered most. His skin was sheared off, his muscles were burned and destroyed, leaving not even the slightest trace behind, and in several places the light pierced all the way through his body and out the other side.
+
+The level of pain didn’t even cross Jake’s mind as he focused every fiber of his being on pure survival. With his arms, katars, and mask, he managed to defend his face and head decently, but the rest of his body was not as lucky.
+
+It felt as if the Dragon’s Breath went on for ages, even though it wasn’t more than a few seconds. Slowly, the energy began to peter out, and the intensity of the breath lessened before it finally came to a stop, disappearing at the same time as the two magic circles that had sealed his movements.
+
+As it dispersed, Jake’s form was revealed, still floating there in his defensive stance. He was entirely unmoving as the remnants of mana slowly dispersed into his surroundings.
+
+From head to toe, the Dragon’s Breath had gone on a rampage. His legs were definitely hit the hardest as he’d done the least to defend those, resulting in mostly bone remaining on both, alongside some residues of flesh on the back of his legs, as it had been covered by the bone.
+
+His upper body was also messed up, bones fully visible on both his arms, and in several places, his stomach area had been burned all the way through, allowing one to look out the other side.
+
+Jake was wracked with pain as he slowly moved his almost literally barebones limbs. The only place with any real amount of flesh in his lower body was his feet, as the boots had protected them, but even then, they were both just bloody messes from the exposure.
+
+However, despite the state of his body, Jake couldn’t help but flash a small smile beneath his mask. He’d taken a Dragon’s Breath head-on. Sure, it hadn’t exactly been easy, and perhaps Yrelstromoz even viewed her attack as a success, seeing Jake’s extensive injuries, but what mattered to Jake was that he’d survived it. In fact, due to his preparations, Moment of the Primal Hunter hadn’t even triggered, though if he’d wanted to, he could have simply moved his arms out of the way at any point to allow the breath to reach his face.
+
+Fortunately, due to his defense, his face hadn’t been hit too bad, though Jake did lose both eyelids and all his hair, which felt a little weird. The only place truly untouched was around the middle of his chest, where he’d managed to completely defend his heart, in part due to the stable arcane energy he coated it in throughout the attack.
+
+As a C-grade, the only things Jake truly had to defend were his heart and brain, and even those he could somewhat do without; it was just that healing those took far more than anywhere else. Besides those two, the priority was to avoid injuries that would hinder his movements and lower his combat effectiveness. Luckily, he hadn’t lost any limbs, as while Yrelstromoz’s Dragon’s Breath had been incredibly powerful, it hadn’t managed to destroy his bones, only the flesh surrounding them.
+
+His “successful” defense also seemed to have taken Yrelstromoz at least a little by surprise, seeing as she wasn’t launching a follow-up right away. This allowed Jake to pop a healing potion quickly as his body began visibly healing from all the injuries, Blood of the Malefic Viper speeding up his recovery as he used the active vital energy to regrow new flesh in real time.
+
+Keeping an eye on Yrelstromoz, he suddenly felt something from his Sense of the Malefic Viper. As his own body was flooded with the tasty juices of a Health Potion, Yrelstromoz seemed to face the same difficulties as his Dragonsbane hampered her healing. Even if the toxins were temporarily suppressed by the extreme influx of vital energy, it most definitely still remained, making it hard for her to heal her flesh.
+
+Okay, I shouldn’t be surprised she also had a potion or something with a similar effect made for dragons, Jake told himself as there was a temporary lull in the battle with them both healing their broken bodies a little. Just enough to remain functional, though, as there was no way Jake could mend all that had been broken from the Dragon’s Breath. In part, exactly because the damage had come from a Dragon’s Breath.
+
+Even now, the destructive concepts lingered on his bones and around other injuries, increasing the amount of vital energy it took to heal, as he also had to fight off these concepts while doing so.
+
+Yrelstromoz wasn’t having a good time either, as while the influx of vital energy could push back the Dragonsbane slightly, it was still there and hampered her ability to heal herself.
+
+Jake – likely due to Blood – was the first one to make a move after taking the Dragon’s Breath as he pulled his bow back out to go on the offensive. His limbs were still barely flesh-covered bones, and his body was a royal mess, but relying on sheer inner energy, Jake could still move optimally.
+
+He released a barrage of arrows, forcing Yrelstromoz to respond as she summoned a powerful barrier to block several arrows at once. Moving about, Jake began to pelt the dragon with arrows that curved around, making them far harder to dodge as he started getting in some damage, trying to even the playing field after she landed her breath on him.
+
+Resource-wise, Jake wasn’t entirely certain who was ahead at this point. While he’d survived, his health points were down to less than a third, and if he took too many attacks, it would begin to affect his ability to fight. At least the tempo of the fight had been so high that, despite using his boosting skill right from the get-go, he wasn’t experiencing any effects of overuse yet.
+
+That also meant he wasn’t doing too badly in the stamina department either, though his mana was lacking, seeing as he was down to a fourth. He’d summoned a lot of scales during Dragon’s Breath, and filling his body with dense, stable arcane energy hadn’t been cheap either.
+
+As for Yrelstromoz, while he couldn’t see her resources, he could feel she was really starting to struggle now. Her health pool had been refilled a little by the potion–or whatever equivalent–she used, but it was still low. When it came to her mana, her aura remained oppressive, making Jake fear that despite the display of magic so far, she still had plenty more in the tank. True Dragons were truly ridiculous in that department.
+
+Not that Jake had ever aimed to make her run out of mana; in fact, even if she had infinite mana, his Dragonsbane Poison made it so her massive mana pool would never become a problem, as she’d run out of health first.
+
+While moving around and shooting, Jake also tried to use Touch of the Malefic Viper again to amplify the Dragonsbane Poison, but failed once more as he couldn’t penetrate her magic resistance, forcing him to only strengthen the poison through repeatedly landing attacks.
+
+Yrelstromoz handled most of the attacks well, but he was slowly getting the upper hand, forcing the dragon to make a move to try and regain some momentum. She responded by once more filling the sky with orbs of light, though there were far fewer this time around.
+
+They started bombarding Jake as he was back to living in a bullet hell, but she had evidently gotten weaker as he managed to avoid them relatively easily. They did make it harder to attack, and since there were fewer orbs to control, Yrelstromoz could still defend while attacking.
+
+The fight entered a relatively uneventful phase as they shot low-stakes attacks at one another, both just waiting for an opportunity where the other one fucked up. Jake found several minor openings, courtesy of her lack of combat experience, that allowed him to land solid arrows, turning the tide of battle more in his favor by the second.
+
+Realizing this, Yrelstromoz unleashed even more magic as the land around them came alive. She manipulated the earth and wind to stop Jake’s offense, but he’d seen her tricks before and dodged everything she threw at him as he kept landing arrow after arrow.
+
+Seemingly desperate, Yrelstromoz roared, summoning a magic circle in the sky that exploded a moment later, sending out a shockwave of physical light that forced Jake toward the ground. At the same time, all the beams that had been floating in the sky shot towards her at once, using up the rest of their energy in the process.
+
+Jake was forced to dodge backward and away as he felt the atmosphere change once more. He felt the light of the world dim, the environmental mana move, and as he looked toward the True Dragon, he saw her take a deep breath yet again.
+
+Fucking-
+
+Before he could even finish his thought, the planet was lit up for the second time in quick succession. Jake felt this one was weaker than the last, but that didn’t mean it was weak. Jake considered his options for a moment and quickly decided on his course of action. All the orbs shot in straight lines, forming a tunnel around him that stopped his use of One Step, and with the scope and speed of the breath, dodging out of the way seemed improbable.
+
+That’s why he didn’t even try, as he stopped and drew his bow. Right before he started charging, he released a blast of arcane energy to shoot himself upwards through the many beams of light, at a speed that wouldn’t allow him to get away from the breath at all.
+
+As he drew his bow, Jake’s perception of time slowed down as always, and he’d barely managed to start charging his Arcane Powershot when the second Dragon’s Breath was upon him. This time around, he had no defenses up, instantly triggering Moment of the Primal Hunter.
+
+Time slowed to a crawl before stopping entirely. Jake was unmoving, the world still as he made quick mental calculations to ensure he would avoid the Dragon’s Breath once he allowed time to slowly start moving again.
+
+After confirming, he continued channeling his energy, making the world move as he did. He continued flying upwards, through several beams, as he simply tanked the damage and fought through the pain as his Arcane Powershot channeled.
+
+Time fully resumed as Jake had barely gotten out of the Dragon’s Breath, still feeling its energy shear away at his lower body despite not getting struck directly as it flew past right beneath him. Yrelstromoz stopped the Dragon’s Breath as quickly as she could after realizing she’d missed, but it was already too late.
+
+Jake loosed the Arcane Powershot, and having just used her breath, Yrelstromoz was in no state to defend as she was struck directly and sent reeling back with a new hole in her chest. Jake shot another arrow quickly after that, standing completely still as he did so to take full advantage of this opening where she couldn’t muster a response.
+
+After shooting the second arrow without moving, Jake activated a skill he’d not found the opportunity to fully use before now. Timeless Focus activated as Jake entered a state of rapid fire, shooting a constant barrage of arrows that rained down on Yrelstromoz as she was still recovering.
+
+She was struck by nearly thirty arrows in quick succession before Yrelstromoz had the chance to activate her magic again. However, before she could even do anything, Jake landed a Primal Gaze, allowing him to keep rapid firing, increasing the number of arrows sticking out of her to over fifty.
+
+Jake ignored the splitting headache as he continued shooting, but as Primal Gaze’s effect expired, Yrelstromoz finally managed to make him move, stopping Jake’s Timeless Focus.
+
+With a powerful release of mana, the True Dragon roared as her wings spread, the ground erupting once more as the entire land rose beneath her. At the same time, she released a powerful shockwave of light with physical properties, striking Jake, knocking him back, and blinding him for the umpteenth time this fight.
+
+Quickly recovering, Jake was ready for the follow-up as he released a Pulse to see what Yrelstromoz was up to... her course of action something that shouldn’t really have come as a surprise.
+
+Yrelstromoz shot into the air with impressive speed, flapping her wings quickly as she flew. Jake instantly realized what she was doing, and the second physical shockwave of light that sought only to push him away confirmed it.
+
+She was running.
+
+Jake wasn’t sure if that was even an option for her anymore, considering the poison running through her body and her existing wounds, but Jake wasn’t going to risk anything. He’d known this was a possibility, which was why he’d kept one final card hidden in case this happened.
+
+Based on her speed as a True Dragon specialized in the light affinity, she was far faster than Jake and was rapidly approaching the upper atmosphere already. Jake wasn’t concerned, though, as he stared calmly up towards her, knowing that no matter how fast she flew or how far away she got, she had no escape. He’d locked in on her already, and with his Hunter’s Mark as a guide, he activated his capstone class skill as reality shifted.
+
+“Event Horizon.”

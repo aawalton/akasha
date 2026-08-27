@@ -1,0 +1,183 @@
+---
+id: c9eecef2-5b9c-5bec-8848-7e39a2f70c32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32"
+slug: 0032-chapter-32
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 32
+ownLength: 1787
+unit: words
+publishedAt: 2025-10-06
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2655262/chapter-32"
+royalRoadId: "2655262"
+---
+
+Please select from listed skills and skill upgrades.
+
+Armament of the Unicorn - Rare
+
+Wind Magic - Rare
+
+Secretariat’s Path - Unique
+
+Fine Mana Control - Uncommon
+
+Impact Blades - Common
+
+Tachyon looked at the listed skills, and as expected, there was at least one skill from her previously unselected list. And while she was very interested in what the new skills had in store. There was a small problem.
+
+Well, a small flying problem. A small, cute flying problem.
+
+“I understand you are upset. But it is not like I could have just left you to fly around. What if they had caught you? The Treants were level 15 to 20, it wasn’t safe!” Tachyon explained, a small bird pointing a wing at her.
+
+The Humming Beak had, since the end of the fight, fixed its feathers and was now back to a relatively normal state. Outside of a few still singed feathers. However, she was now incessantly screeching at Tachyon, her wings up in a huff.
+
+“I won’t apologize for doing the safest thing I could…” Tachyon mumbled, the little bird pointing an accusatory wing at her as if to say, ‘You already did, but you should apologize more!’
+
+Tachyon grumbled, “I won’t apologize more than I already have! What we should be asking ourselves is, how are we going to get you stronger to keep up with the monsters?” she continued, thinking out loud, “It isn’t like there is a way to share the experience if you aren’t helping with the fights.”
+
+The Humming Beak huffed, crossing its wings indignantly before a notification reached Tachyon’s ears.
+
+Sphii has invited you to join a party.
+
+Accept?
+
+Tachyon’s head tilted, unsure of what the notification was.
+
+She looked at the Humming Beak at the end of her nose, “Are you Sphii?”
+
+The little bird, Sphii, nodded furiously, puffing out her chest and raising her beak into the air.
+
+“What is a party?” Tachyon asked, Sphii deflating and nearly falling off Tachyon’s snout.
+
+Sphii stomped a foot, raising both wings into the air in frustration.
+
+“It would be much easier if you could speak,” Tachyon laughed.
+
+Another foot stomp came from Sphii, as if to say, ‘I wish I could speak too!’
+
+“Well, there shouldn’t be any problem just trusting you.”
+
+Tachyon assented to the party, a small ring affirming that she had accepted the prompt. But once the faint ring faded, nothing occurred.
+
+She looked down her snout at Sphii, raising a brow in confusion.
+
+Sphii raised her wings, not sure either, apparently never having used this party thing, despite knowing of it. Could Sphii have been the anti-social type?
+
+Noooo… Tachyon thought. She’s far too cute to have no friends…
+
+With Sphii somewhat distracted, and their future problem of having her keep up with Tachyon in levels, so they could continue to travel together. Tachyon returned to browsing her new skill options with more than a little excitement and anticipation.
+
+She was already aware of the Armament of the Unicorn skill from the previous list and promptly moved on to the others.
+
+Wind Magic - Rare
+
+This skill gives access to Mana, Mana Manipulation, and allows the innate ability to cast and manipulate Wind Magic. This skill also allows one to sense mana.
+
+Spells produced through this skill will cost and scale of mana used.
+
+Secretariat’s Path - Unique
+
+This passive skill will give a 100% boost to experience as you walk the path of your forebearer The Eternal Wind. Paying tribute to him through your endeavors, you shall relinquish your previous skills and be given a set suitable for a follower of the Eternal Wind.
+
+Warning. Selecting this skill will reset all skills and replace them with a predetermined set of skills that will start at the base rarity of Epic.
+
+Fine Mana Control - Uncommon
+
+Allows for the user to finely control their mana for more effective use at no extra cost.
+
+Impact Blades - Common
+
+This skill will create physical manifestations in the form of blades based on your agility.
+
+Costs a small amount of Stamina and Mana.
+
+Cooldown: None
+
+This skill scales off Agility.
+
+Continued use will leave you exhausted.
+
+Looking at the skills, Tachyon had more than a few questions.
+
+There were quite a few good options here, but the rarities were all over the place.
+
+First was the fact that the Wind Magic was available. Would she be able to eventually learn every type of magic? Or was she being set up for something else entirely? Then there was the question of why was it starting off at the Rare rarity when her Light Magic originally started at Uncommon Rarity?
+
+Was it a difference in her progress with magic and mana control? Or perhaps it was because she had been in contact with Secretariat, who seemed to expertly control some type of Wind Magic.
+
+There was also the elephant, or well, stag, in the room.
+
+Why are there so many skills named after people… I’m not some dog, and I will never belong to someone ever again… Tachyon growled to herself.
+
+While the skill itself was amazing. More than amazing. A 100% increase in the experience she gained was already beyond what any skill should give. But to reset her entire skill list to Unique rarity on top of it. That was like several gift horses, and she was almost tempted not to look them in the mouth, whatever that meant.
+
+It was hard to understand human jokes, but the men inside the arena would mention a gift horse several times while around her. So Tachyon assumed it was something good. It had to be right?
+
+Moving on to the next skill, because of course, despite the amazing advantage, the skill was named after Secretariat. It was still a path she refused to follow due to the nature of the description.
+
+Fine Mana Control was out. The description basically listed things she could already do naturally, so it was useless to her.
+
+Next was the lowest rarity of the bunch, Impact Blades. The description itself was simple and brief, the rarity much lower than the other options. However, if she had to say, the fact that it scaled off Agility was something that caught her eye.
+
+Tachyon looked over the Armament of the Unicorn one last time, just to make sure she wasn’t overlooking something.
+
+Armament of the Unicorn - Rare
+
+This skill will manifest the physical horn of a Unicorn to the user’s head. The horn will amplify any physical attack as well as absorb the user's magic and mana to enhance attacks.
+
+It was another physical enhancing type skill, but it didn’t necessarily scale off of any one stat. But the added magic and mana were something she already knew to be amazing in combat and could also imply other varying effects, like she had seen with her Mana Platforms.
+
+“So it’s between these three, huh?” Tachyon mumbled to herself, feeling a small tug on the top of her head as she thought aloud.
+
+She quickly brought out a slice of cake from her storage to satiate Sphii, taking out another for herself that she ate using a mana string to hold.
+
+As she nibbled, she debated.
+
+“Hmm. The problem is that I don’t necessarily need any of them for now. My magic is very strong already, and adding another element might give me more problems than benefits. What would happen if it turns into something I can’t control? Then there are the two physical enhancing skills. I don’t really want to have a horn on my head,” she thought, looking upward at Sphii, who was pecking at the carrot cake happily.
+
+“If I did, where would Sphii sit?” Tachyon reasoned, then continued on, “Then there is the problem of the last skill. It’s such a low rarity. Would it be worth it to select it? I suppose you could say that because it’s so simple, despite being at a low rarity, that it only has room to grow if I improve it? But where would the blades come from? I’m worried that the description doesn’t tell me… What if it ends up being on my head? Or at random? That would be worse than just having the single unicorn horn!”
+
+Each skill had a clear advantage. Sadly, each one had at least one or more unknown disadvantages.
+
+Tachyon looked upward again, seeing Sphii finishing her snack as Tachyon took the final bite of her own.
+
+“The Unicorn skill is out…” she said with steely determination.
+
+Two left.
+
+Thinking more clearly with the snack now finished and a slightly less empty belly. Tachyon thought about her earlier skill lists. There had always been several skills from previous lists that carried over if they were unselected.
+
+And while her concern with the Wind Magic right now was that she was unsure if she could control a more powerful variant that might be produced from learning the skill. What about at her next skill selection? Would 5 levels give her enough time to focus on better understanding and controlling her own magic and mana? What about in 10 levels? 15?
+
+For some odd reason, Tachyon had a hunch that this option would always come up. Her meeting with Secretariat put the idea of Wind Magic at the back of her mind. It was natural that someone who wanted to focus on speed would be enticed by the idea of Wind Magic.
+
+Or at least Tachyon thought so. Removing wind resistance? Speeding herself up even more with the thanks of a strong gale of wind?
+
+The thought made her giddy. But therein lay the problem. After her evolution, Tachyon had not pushed herself. Not really to see how far she could go, the possibility of her speed at its true peak and beyond. And that was without Wind Magic.
+
+She simply wasn’t ready, not yet. But would that stop her?
+
+“And here, we, go!” Tachyon nickered, confirming her selection.
+
+New skill obtained: Wind Magic - Rare
+
+You have gained insight into your skills, Fire Light Magic, and Wind Magic.
+
+Skills have combined.
+
+New skill obtained: Prismatic Lightning Gale Magic - Unique
+
+Prismatic Lightning Gale Magic - Unique
+
+This skill gives access to Mana, Mana Manipulation, and allows the innate ability to cast and manipulate Prismatic Lightning Gale Magic. This skill also allows one to sense mana.
+
+Spells produced through this skill will cost and scale of mana used.
+
+Tachyon had shut her eyes as she selected the skill, not sure what would happen from her, admittedly impulsive decision.
+
+But it seemed there was nothing.
+
+“Oh, that wasn’t so bad-”
+
+Before she could finish, the sound of an explosion rang out.

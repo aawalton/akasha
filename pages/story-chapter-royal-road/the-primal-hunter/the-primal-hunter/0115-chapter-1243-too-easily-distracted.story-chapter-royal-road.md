@@ -1,0 +1,171 @@
+---
+id: a1439adf-2339-50aa-8c53-8f23f216dda8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1243 - Too Easily Distracted"
+slug: 0115-chapter-1243-too-easily-distracted
+partOf: the-primal-hunter
+position: 115
+ownLength: 2791
+unit: words
+ownProgress: 2791
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2988147/chapter-1243-too-easily-distracted"
+royalRoadId: "2988147"
+markedReadAt: "2026-06-29T19:34:09.549Z"
+---
+
+Jake hadn’t been that surprised when the Viper mentioned a dungeon in his own universe. In fact, wasn’t it only natural that the newly integrated universe was also rife with new dungeons to discover?
+
+He was a bit suspicious, though. Not necessarily because of the circumstances or where the dungeon was located, but because of the person who directed him there. The Viper loved to mess with Jake, and he had a strong feeling that this final dungeon would, in part, be the snake god pulling his leg. Sure, the Viper had used a newly made teleportation circle and whatnot to teleport Jake, but Jake still had a feeling.
+
+That’s also why Jake wasn’t overly surprised when he appeared not just back in his own universe, but even on his own planet. As the Viper had said, he was even met with a familiar face that instantly let Jake know that the snake god was a goddamn liar… because the dungeon he was about to do wasn’t a natural dungeon but one meticulously created by an overly enthusiastic dungeon designer.
+
+When Jake opened his eyes, he found himself staring directly at a wooden stage with curtains covering it. Not a single other person was around, which meant the upcoming show was definitely for him.
+
+Prompted by Jake’s arrival, the curtains were pulled back to reveal not the expected Unique Lifeform, but instead someone Jake hadn’t expected to see there.
+
+“Casper?” Jake said, surprised upon seeing his former coworker, turned Risen.
+
+“Yo,” the undead man said, waving his hand with absolutely no sense of showmanship.
+
+“No, no, no! Stick to your lines!” the person Jake had expected to greet him suddenly yelled. “Ahem, let’s start over.”
+
+The drapes were instantly closed once more, Jake just standing there for a few seconds, letting out a small sigh. After five seconds, the curtains were drawn once more, revealing Casper still just standing there.
+
+“Welcome to the glorious, brilliant, and extremely exclusive pre-launch event for the venerated and illustrious Minaga’s newest-“
+
+“Do you need to say it in the most deadpan and monotonous tone imaginable?” Minaga interrupted the very bored-sounding Casper. “Put some life into the performance! Some energy!”
+
+“I can’t,” Casper defended himself. “I’m dead. I don’t have any life energy.”
+
+“Yeah, that was actually pretty insensitive of you,” Jake also got involved, shaking his head. “Is this the kind of operation you’re running, huh? Workplace bullying is no joke, and I’m inclined to order an immediate investigation into the clearly toxic culture you’ve created.”
+
+“You definitely should,” Casper nodded. “Did you know he also banned unions? I’m pretty sure that’s illegal.”
+
+“You’re the only other person here… why would you even need a union?”
+
+“Save that for the judge,” Jake shook his head with extreme disappointment. “Now, seeing as I’m here, could you run me through the facilities and allow me to do an impromptu inspection of your project?”
+
+“That was the purpose of the play,” Minaga’s voice echoed, sounding incredibly sad.
+
+“Then go ahead and do your play,” Jake nodded as he looked toward Casper. “Of course, I can’t let this guy take part after seeing the horrendous work environment he’s been suffering under.”
+
+“True, that would be unethical,” Casper agreed and didn’t hesitate to teleport up to the slightly raised platform Jake was standing on that overlooked the stage.
+
+Jake and his old friend shared a knowing look before shifting his gaze back toward the stage. “Alright, we’re ready.”
+
+“I find it funny you believe I won’t still go through with it,” Minaga said as his threats became reality in the very next moment. A projection of the Unique Lifeform appeared on the stage below as he cleared his throat before speaking loudly. “Welcome, welcome, welcome! To the grand pre-launch of the-“
+
+“Aren’t those lines wrong?” Jake asked Casper.
+
+“Definitely not the same ones I had,” the Risen shook his head.
+
+“It’s called improvisation, and if Casper had read the script properly, he would have known that was fully allowed,” Minaga said, crossing his arms.
+
+“And he’s back to bullying,” Jake sighed and shook his head.
+
+“Do also recall how he refused to let me improvise initially and instead tried to micromanage my artistic expression through forcing me to stick to the script,” Casper brilliantly pointed out.
+
+“True, true,” Jake nodded sagely.
+
+“As I was saying, welcome to the pre-launch of my newest creation,” Minaga continued, having clearly decided to ignore his two critics. “This event is only a small preview of the greater mega-dungeon, which shall be known as Minaga’s Glorious Labyrinth of Engaging Exploration.”
+
+“We’re not using that name,” Jake muttered.
+
+“Miranda already shut it down,” Casper nodded.
+
+“In yet another glorious display of creativity, this dungeon shall make use of the fact that it consists of several cores, which has allowed me to do something truly awesome,” Minaga once more continued. “Connected Dungeons.”
+
+Jake slowly nodded along, having decided to hold back on the jokes for a little while as the Unique Lifeform was actually explaining things now and wasn’t just doing pure showmanship.
+
+“While the concept isn’t new, I believe this is one of the greatest iterations of it ever. The Labyrinth will have only one main entrance, but from there, several dungeons shall be accessible from within. Each of them with different sizes and complexities, but all sharing the same theme, and perhaps the most important of all: a proper through-line narrative tying them all together!”
+
+Okay, still a lot of useless fluff in the speech, but Jake stayed silent in part because Casper wasn’t saying anything either.
+
+“Allow me to set the stage. Initially, one arrives at the outskirts of the Great Labyrinth itself. One finds it surrounded by monsters in early C-grade, and the closer one gets, the stronger the monsters become. After battling through these many monsters spawned from the Great Labyrinth, one arrives at the entrance, battered but full of vigor to explore. Upon wandering inside and looking to the side, you spot it: a second dungeon entrance.”
+
+It didn’t sound horrible so far, though definitely a little basic. Jake hadn’t heard much of a story either, only some world-building, and he genuinely hoped that he wouldn’t have to listen to Minaga going on a lore dump.
+
+“However, as you look around more, you realize there is more than one dungeon entrance… that’s right, the Great Labyrinth itself consists of multiple dungeons! Three, in fact, with each being harder than the previous! The first one will have mainly early and mid-tier C-grades, the second one mid and some late-tier C-grades, and the final one exclusively late to peak-tier C-grades.”
+
+Jake nodded along, waiting for the Unique Lifeform to get to the good part. Jake didn’t need dungeons with C-grade enemies anymore, but based on his talks with Minaga about what this dungeon would be, Jake fully expected there to be more.
+
+“Each of the three sections of the Labyrinth will be expansive and have many different paths that all lead to a final boss. This final boss will drop a key fragment, and upon collecting all three keys, the special magic circle at the Grand Labyrinth entrance can be activated, granting access to the fifth dungeon.”
+
+Casper slightly leaned over and whispered in Jake’s ear: “You won’t actually need to do the three other dungeons to enter this fifth one. There will be a hub of sorts at the beginning of it all that will allow access to any dungeon, dependent on whether one reaches certain criteria or gets special permission.”
+
+Minaga, likely acting as if he hadn’t heard Casper, just continued:
+
+“Now, this is where I will need to add a bit of story context. There is an entire theme of figuring out who built the Grand Labyrinth and stuff like that, and this fifth dungeon allows you to explore that aspect, because one will discover that upon activating the magic circle and entering the fifth dungeon, one will travel to the past during a time when the Grand Labyrinth is still being constructed.”
+
+“So, reused assets,” Jake muttered.
+
+“There will naturally be no reused assets, and this fifth dungeon will span the entire Grand Labyrinth and even the land beyond it. What’s more, one will discover that in the past, this land was filled with far more energy than before, and the civilization that built the Grand Labyrinth was far stronger than what now inhabits it… because this will be a dungeon where only B-grades appear.”
+
+Jake’s ears finally perked up as this was the part he actually cared about. Ignoring all the context, Jake was happy to hear that it wouldn’t just be a few B-grades, but that this fifth dungeon would consist entirely of B-grades for him to hunt.
+
+“This is the dungeon we plan on having you enter and test today. It’s technically completed, though it will certainly feel lacking due to the necessary story context for your actions not being there, and some of the dialogue may also feel out of place as it assumes you’ve done the prior dungeons,” Minaga continued, his voice full of shame.
+
+Deciding to play along, Jake raised his hand, making the Unique Lifeform grin as he pointed toward Jake.
+
+“Yes, you.”
+
+“Will this fifth dungeon be the final one?” Jake asked. He didn’t believe that even if the Unique Lifeform added one more, he would do it now, but it would be good to know if he had something to look forward to in B-grade.
+
+“No spoilers,” Minaga shook his head. “But I can reveal that the Grand Labyrinth was perhaps built with a greater purpose than first thought… a purpose you can only uncover by finishing the fifth dungeon! Something I will say I’m not sure if you’ll be able to do, seeing as the final boss is pretty strong.”
+
+“Sounds like a challenge,” Jake smiled, though he wasn’t going to rule out that the Unique Lifeform was wrong. Not to say Jake didn’t fully plan on clearing the dungeon. He was there for the Dungeon Pioneer title upgrade, after all, so not finishing the dungeon would mean he’d need to go do another dungeon.
+
+“It will most certainly be a challenge!” Minaga said proudly before turning a bit more serious. “The entire dungeon complex is getting close to being finished, but there are still some things I’ll need to get fully ready. If all goes well, everything will be done within a year or so, at which point we can do a proper grand opening!”
+
+Casper threw Jake a look, making the hunter nod. “Just inform Miranda, and I’m sure she’ll gladly help market and prepare for when the day comes. If this place turns out to be as great as you advertise it to be, I’m sure you’ll have plenty of visitors.”
+
+Speaking of visitors… Jake hadn’t really thought about it before now, but where were all the people? Jake had been teleported into the middle of what was known as Labyrinth City, yet there was no one around the centerpiece of the entire city. When he used a Pulse, he saw people around the city inside buildings and whatnot, but far fewer than he’d expected, and no one was even close to the dungeon itself.
+
+“I’ll most certainly ask her for all that’s required to make it the greatest celebration this planet has ever seen!” Minaga said with gusto. Perhaps because he’d noticed Jake looking around, the Unique Lifeform also answered Jake’s thoughts. “The city is still a little barren right now, but once we open, it’ll be truly bustling! For now, though, there aren’t many reasons to stick around, and other cities have been very actively recruiting to expand, especially those new settlements that are popping up all over the planet.”
+
+“Miranda has been very aggressively expanding to the rest of the planet in recent years,” Casper explained. “From what I understand, spreading out the Pylons more allows her greater control and insight into what goes on with the planet, and she also wants to make proper use of all the space Earth now offers. If you haven’t noticed, the planet turned pretty fucking big due to the system.”
+
+“Yeah,” Jake nodded as he was in thought for a bit. The stronger he got, the smaller the world seemed, and after having experienced things like seeing Great Planets and gazing upon Yggdrasil, something like Earth did indeed appear small. However, compared to the world before the system, Earth was now roughly the size of the sun, making it a stupidly large planet with way too much surface area. Plenty for trillions of people to live on if it came down to it.
+
+“Speaking of expanding, I heard the Risen got their own territory?” Jake asked.
+
+“We did,” Casper confirmed. “People are still a little iffy about it on both sides, and for understandable reasons too. We are undead, after all. But I think it can turn out well for everyone, and the fact that we have a presence here while the Holy Church got kicked out is a massive middle finger to them and something that makes the higher-ups pretty damn happy.”
+
+“I can imagine,” Jake chuckled, shaking his head. He still found the conflict between the two factions a little dumb, and based on what Villy had said, it was partly manufactured to foster conflict that would lead to growth within both factions, but that was only for the gods. To the regular person, the hatred and conflict were very real.
+
+“You should visit sometime,” Casper said casually. “They’ve been bugging me to invite you. Oh, and before you agree to go, just know you’ll be hounded by annoying sycophants who want to suck up to you.”
+
+“So, business as usual?” Jake chuckled, already more or less used to that.
+
+“Right, I forgot myself; how could the honored Chosen of the Malefic Viper not be used to having someone licking his ass all the time?” Casper said sarcastically. “But, hey, if you’re into that kind of thing, I’m sure the Risen have plenty of men and women who would be more than happy to lick you wherever you ask them to.”
+
+“No thanks,” Jake waved him off. “Besides, I’ve got a girlfriend now.”
+
+“Oh, I see… wait, what?” Casper had to do a double-take as he stared at Jake.
+
+“Details,” a voice suddenly came from behind Jake as the Unique Lifeform had teleported over with his projection.
+
+“I thought we were talking about the new dungeon?” Jake said, raising an eyebrow.
+
+“Yeah, yeah, that can wait,” Minaga waved him off while staring at Jake.
+
+“I concur,” Casper agreed, also looking at Jake in surprise. “Wait, just to be clear, when you say girlfriend, you don’t just mean that you made a friend who’s female, right? It’s girlfriend as in girlfriend?”
+
+Jake slowly nodded, now considering if perhaps this was a stupid topic to bring up in the first place. The relationship between himself and Artemis wasn’t exactly public knowledge, and Jake usually wouldn’t mention it, but he’d kind of just blurted it out without thinking much.
+
+In his defense, Casper was one of the few people Jake had called a friend even before the system, and a part of him wanted to share the news. Minaga also being around was not something Jake had properly considered, though.
+
+“I want to be clear, this is to be kept under wraps, and you two aren’t mentioning anything to anyone, alright?” Jake said, looking at the two of them seriously.
+
+Casper nodded, seemingly understanding. As for Minaga…
+
+“My lips are totally sealed,” he said with a voice full of sincerity.
+
+“See, that doesn’t actually say much, seeing as you can just have some other guy who also happens to be called Minaga spill the news while you argue he had nothing to do with you,” Jake sighed, shaking his head.
+
+Minaga looked hurt for a moment before sighing. “Alright, alright… I promise on behalf of myself and all the other mes in the whole vast multiverse and beyond, both past, present, and future versions in all possible realities. Should I lie or go against the spirit of this promise, may I be cursed to only ever be able to design underwater dungeons for the rest of eternity.”
+
+“That… was a lot more serious than I thought it would be,” Jake muttered, having fully expected Minaga to just continue joking around; however, it appeared the Unique Lifeform had been way too easily distracted and had entirely forgotten about everything else but his curiosity regarding Jake's social life.
+
+“I am serious,” Minaga said, not a hint of jest in his voice. “Now, stop stalling and spill the tea already!”

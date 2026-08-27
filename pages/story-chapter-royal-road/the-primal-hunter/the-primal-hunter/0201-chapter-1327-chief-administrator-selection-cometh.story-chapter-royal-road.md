@@ -1,0 +1,149 @@
+---
+id: eb7b42fa-e705-525d-8c26-a1b4525115ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1327 - Chief Administrator Selection Cometh"
+slug: 0201-chapter-1327-chief-administrator-selection-cometh
+partOf: the-primal-hunter
+position: 201
+ownLength: 2714
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3492399/chapter-1327-chief-administrator-selection-cometh"
+royalRoadId: "3492399"
+---
+
+Kicking his Patron in the face should have really resulted in at least a level or two, but alas, Jake’s foot-tap didn’t result in anything besides making the nosy snake god leave him and Artemis alone.
+
+The two had a lot of catching up to do, and Jake could tell she’d been at least a little worried, having known about his escapades in the Minor World. He really hadn’t thought about it enough, but it was probably the most dangerous circumstances Jake had ever put himself in.
+
+There were beings who could have killed him without any real effort surrounding him constantly, and all without the deterrence of the Malefic Viper existing out there. At least they didn’t fully realize there was supposed to be this deterrence, meaning the only thing that kept Jake alive was his usefulness.
+
+With the help of Villy to get the Great Sea Serpent on board, it shouldn’t be as dangerous the next time Jake went back there, but he still felt reluctant to do so after processing everything. It would be a waste to just ignore the Minor World until Jake was strong enough to fully claim it, though.
+
+Either way, the topic of the Minor World was soon shelved as attention turned toward the Seat of the Exalted Prima. Well, okay, first it turned toward Artemis, but afterward it was the World Event as he and the Godqueen discussed the upcoming event.
+
+The half-a-day wait quickly passed, and soon enough, the Administrator Candidate Test concluded, and the multiverse found itself blessed with many new Administrators. As expected, right as the other system event came to an end, it was finally time for Jake to take the stage, as the next round was immediately announced.
+
+Chief Administrator Selection for the Milky Way Galaxy Seat of the Exalted Prima shall commence in one hour, during which the sole Chief Administrator of the galaxy will be selected from all qualified Administrators. As of this moment, access has been granted to all qualified Administrators.
+
+To enter the Seat of the Exalted Prima, all Administrators must use their Administrator’s Seal. Administrators can enter during the next hour, after which access will be locked until a Chief Administrator has been successfully selected.
+
+Further details will follow once the Chief Administrator Selection commences.
+
+Time to enter: 59:59
+
+Jake read through the system message quickly, and by the time he had, Artemis was clearly also aware of all the message's contents as she looked at him.
+
+“As we expected,” she said in a calm voice.
+
+“Yep,” Jake nodded. “Only an hour to enter, though. Pretty strict. What if I were busy fighting something or in the middle of some long alchemy experiment? Not very respectful of other people's time.”
+
+“You knew when the other event would end, and honestly, I don’t think the system has any interest in operating in an accommodating fashion with events like these,” Artemis chuckled. “It’s already plenty generous that you can seemingly enter from anywhere, not just planets in the given galaxy.”
+
+“Hey, I’m just complaining to complain over here,” Jake defended himself, not really feeling in that much of a rush to instantly enter the event. He reckoned once he did, he would just be hanging out in some lobby waiting for things to start. Though maybe he would at least be there with Miranda and the others, giving him some insight into the kind of event they’d just experienced.
+
+“And I’m just pointing out the flaw in your words for the fun of it,” Artemis shrugged with a teasing smile. “Now get up and get dressed already. What would you have done if the system had just teleported you directly there?”
+
+“Hopefully impressed a few people,” Jake answered with a sly grin as he leaned back in the bed, not feeling particularly inclined to rush out of his birthday suit. Artemis had already gotten dressed as she sat on a chair beside the bed, looking at him judgmentally.
+
+“I doubt they still find your silliness impressive at this point,” Artemis didn’t take the bait. “Miranda truly has my condolences, having to handle the mess you leave behind.”
+
+“You’ve spoken to her?” Jake asked curiously, wondering if the two had properly met. Sure, they’d been in the same space together before, but they’d never really had a private conversation as far as Jake knew. At least not any that would make the two particularly friendly with one another for any reason outside of their mutual acquaintances.
+
+“Briefly, when she was under the tutelage of the Verdant Sisters, whom I’ve had plenty of interactions with,” Artemis said as the Godqueen gave him another teasing smile. “She thanked me, you know.”
+
+Jake threw her a questioning gaze, as he knew she was going to tell him no matter what.
+
+“After learning about the two of us, and having confirmed I’m not particularly open to the idea, her Patrons have left her alone regarding turning her into your mistress,” Artemis said with a smile. “Meaning they now have to fully lean into making her the best manager of your life rather than a romantic partner. Something she definitely seemed to appreciate.”
+
+“Ah, damn, really?” Jake asked with an exaggerated sigh. “And here I was hoping to make her the second wife.”
+
+“Easy there, talking about second wives when you haven’t even fully locked down the first one yet,” Artemis shook her head. “In any case, she seems competent and worth keeping around. The woman has a solid implicit understanding of who you are and what you want, something that’s hard to come by. She also strikes me as loyal,  yet not a total sycophant, something that is scarce for a Chosen.”
+
+“She definitely isn’t scared to call out my bullshit,” Jake chuckled as he looked at the ceiling. After another moment, he let out a sigh and jumped out of bed, already fully dressed before his feet touched the ground, courtesy of the wondrous system fuckery and the nature of equipment.
+
+“I guess I should get going,” Jake said, cracking his neck and stretching a bit. “No idea how long this event will be or what it entails, but I’ll see you around when I get back.”
+
+“I’ll try to make time,” Artemis said, still feeling a teasing mood before turning more serious. “Do be careful during the event. Even if it’s related to simulations, which should mean it’s not dangerous in the traditional sense, that doesn’t mean there can’t be hidden dangers. There might be risks associated with Records, or maybe even being stuck in the simulation or something akin to that.”
+
+Jake nodded, not wanting to downplay anything.
+
+“And do make sure to actually get that Chief Administrator Promotion,” a third person joined the conversation as Villy decided to teleport directly to the doorway leading into the bedroom. “Would be a tragedy if you fail to qualify for further competition with the other geniuses of the multiverse. I reckon they’ll also find themselves disappointed if the feared Chosen of the Malefic Viper can’t even manage to compete against them. Though I guess their higher-ups will be happy with the lack of competition.”
+
+“You know, I was never good at getting promotions,” Jake shot back with a sigh. “Promotions tended to mean more responsibility, and my wage was already fine, so I didn’t care about the raise. I just wanted a chill job to get by while living a decent life.”
+
+“Great, and now you kill dragons for a living and work as my Chosen, I think the avoiding promotions train has long left the station,” Villy answered with a shrug. “What’s adding one little Chief Administrator title to everything else?”
+
+“I’m really not allowed to just complain for the sake of complaining, am I?” Jake muttered, with the two gods both giving gazes that very much let him know the answer to that one.
+
+“Fine... I’m off unless there’s anything else,” Jake sighed.
+
+“Try not to break anything!” Villy said with a smile and a wave.
+
+“Try to ensure whatever you break turns out beneficial to you,” Artemis followed up, and with a slight chuckle, Jake activated his ring and was whisked away by the system.
+
+Jake’s vision shifted, and soon he found himself standing in a familiar space. Familiar in a not very good way.
+
+“This place, huh,” Jake muttered as he looked up and saw the many stars above. This was the place where he’d first met Ell’Hakan and had his emotions fucked with for the very first time. If not for his Bloodline shaking him awake, he would have ended up revealing things back then that he really shouldn’t have.
+
+“Lord Thayne,” a voice spoke from behind, making Jake turn around.
+
+“The great Voice of the One,” Jake said in a slightly teasing voice as Kindroth, the only other surviving person who’d been promoted to Administrator directly following the Prima Guardian event.
+
+“Please, I don’t go by that anymore,” the high elf waved him off. “Rather embarrassing even recalling that moniker, even if it was tremendously useful for a time.”
+
+“Finally pawned off all responsibility to that council of yours?” Jake asked, wondering if Kindroth had finally realized the supreme power of delegation. For the elf’s sake, Jake hoped he had, as trying to manage the most populated planet in the galaxy couldn’t be easy.
+
+“A lot of it, sure, but I’m still in charge of all multiversal politics,” Kindroth answered with a smile. “Something I wouldn’t give up even if I could.”
+
+“Wouldn’t exactly fit your agenda either, now would it?” Jake asked in a rather curt voice, getting a knowing smile in response.
+
+“We all have our own Paths and ways of survival. I just hope for peaceful coexistence and strong diplomacy whenever possible,” the elf answered politely, not addressing what Jake was hinting at.
+
+Jake still didn’t like that Kindroth was effectively an “in” for the Holy Church in his galaxy, but he also knew the logic of keeping enemies close and all that. He’d default to Miranda’s judgment with things like that, but that didn’t mean he couldn’t display his dissatisfaction.
+
+“Whatever floats your boat,” Jake shrugged. “Now let’s go where all the others are sitting around.”
+
+Upon appearing in what Jake recalled was named the Administrator’s Terrace, his sphere had immediately picked up the entire space station as well as the people already waiting there. Kindroth and Jake had appeared towards the edge, while in the center, all the people Jake assumed had passed the Administrator Test were waiting. And there were quite a few more than Jake had expected there to be. He counted just around five hundred people, including a few familiar World Leaders and whatnot from the Prima Guardian event. Of course, all the truly noteworthy figures of the galaxy besides Miranda and her party were gone, conquering their own galaxies across the universe.
+
+“I’ll follow along,” Kindroth nodded as Jake started walking towards the others. It didn’t escape Jake that the high elf was purposefully walking several steps behind, almost as if to show everyone that Jake was in charge. Not that Jake would show that he noticed. Besides, he was too busy wondering about something else.
+
+With Sphere of Perception, he could see the entire space station and the area immediately surrounding the station, but he also released a Pulse, which revealed something rather perplexing.
+
+About five hundred kilometers from the edge of the space station, in what appeared to be a perfectly spherical manner, the entire world ceased to exist. It was pure void, as far as Jake could tell, with not a single fragment of anything there.
+
+Yet, when he looked through the glass above, he could clearly see far into the distance. Jake concluded that meant one of two things. One, the Seat of the Exalted Prima was surrounded by a void-like barrier, keeping it separated from everything else in the universe until whatever time the system decided to remove the barrier.
+
+Or two... the Seat of the Exalted Prima didn’t actually exist within the Milky Way Galaxy, but was just made to look like it potentially could be placed there. All the system messages and whatnot made it sound as if the Seat was placed within the galaxy, but it was entirely possible it was still in some “fake” system space and would only actually appear in the galaxy once the system decided to place it there.
+
+Not that it mattered what was up with the Seat, as the objective remained the same no matter the case. He was to claim this entire space station, and hopefully, none of the people he and Kindroth were heading towards would be stupid enough to try to get in his way.
+
+Passing through the trees, they soon reached the open area in the middle of the Administrator’s Terrace, where Miranda and everyone else were waiting. It was rather normal to carry some furniture around in spatial storage, so everyone had proper seating arrangements, with Miranda sitting towards the center, currently speaking with two other women Jake didn’t recognize.
+
+There was a lot of chatter going on, and the place had a very casual atmosphere. Until Jake’s arrival was noticed, that is.
+
+After someone noticed Jake’s approach, everyone quieted down, and when Jake revealed himself by entering the open clearing, it was dead silent, with all the Administrators present standing up respectfully. Even Miranda and the others from her party stood up, probably mostly not to stand out.
+
+Feeling all eyes on him, Jake couldn’t help but feel how he really hadn’t missed this while in the Minor World. Sure, people were curious about him there, but he wasn’t met with everyone’s gazes of fear, admiration, and sometimes even worship whenever he entered an area. It could really get tiring.
+
+“You two made it here,” Miranda said, stepping forward and bowing slightly, having to show a respectful attitude in front of so many influential figures of the galaxy. “I take it all has been well in the last three months and a bit?”
+
+“At least nothing major has happened, as most of the multiverse is focused on this event,” Jake answered, trying to ignore all the people looking at him as best as possible. “How about things here? What kind of test did you experience, and may anything useful be gleaned from it?”
+
+“Without knowing the nature of the Chief Administrator Selection, I cannot give a definite answer, but through discussion, we do believe we have a solid grasp on the goal of the testing we went through,” Miranda answered.
+
+Feeling that quite a speech was coming, Jake took out a chair of his own while also motioning for Miranda to sit down alongside him. Hopefully, that could also help lighten the mood a little and make the next forty or so minutes less tense than they had to be.
+
+“Pray tell,” Jake said as he leaned forward.
+
+“Very well. Let me start with what these tests entailed...”
+
+Miranda gave a quick rundown of the stages of the Administrator Test, leaving Jake a little miffed about missing out on them. While it was a sentiment he doubted many shared, Jake would have loved to experience the Tutorial again, if for nothing else but the opportunity to face the King of the Forest in another fight. Also just to see how the hell the system would handle all the bullshit that went on during his Tutorial. Alas, it seemed he’d missed the opportunity.
+
+Regarding the other tests, Jake didn’t have many thoughts, and when Miranda shared the common conclusion on the purpose of these tests, he could only nod along, as it did seem like a good answer.
+
+As for the purpose of these tests that everyone seemed to tentatively agree on?
+
+To teach the Administrators to differentiate between a simulated world and the real one. Something Jake very much doubted he would have any problems with, given that the last time “he” experienced being part of a “perfect” simulation, Sim-Jake was born.
+
+If they were right, the Chief Administrator Selection was likely to also be simulation-based in some way, giving Jake hope that his plan of improving Eternal Shadow wasn’t a far-fetched goal for this system event.

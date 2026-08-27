@@ -1,0 +1,79 @@
+---
+id: 4bfd9331-e696-50bc-b9c0-e3aeedeaa2cb
+page-type-slug: story-chapter-royal-road
+title: "Introduction - Letters to the Editor of the Quotidian"
+slug: 0001-introduction-letters-to-the-editor-of-the-quotidian
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 1
+ownLength: 627
+unit: words
+publishedAt: 2022-05-19
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/910114/introduction-letters-to-the-editor-of-the-quotidian"
+royalRoadId: "910114"
+---
+
+Dear sirs,
+
+As always, I’m delighted by how gracious you are when handling my publicity, and considering the fact I’ve never had to pay for it, I feel ungrateful complaining, but I must point out that you have once again misspelled my name. It’s not, as you printed, “an unknown thief.” It’s “Ryce Penn.” No title, I’m afraid, but you may add esquire if you feel the need. The title is now defunct, and I suppose Her Majesty and His Honor, the Regent, wouldn’t begrudge it.
+
+If you explore the etymology of the word, you’ll discover it was often bestowed on the young noblemen who aided the knights. I have a fairly noble bearing, if no actual nobility, and Sir Andrew will testify that, two nights ago, I was kind enough to help him unstick a window that had been shut so fast people assumed no power could open it.
+
+On second thought, Sir Andrew might not be my best reference. I doubt he’s feeling grateful.
+
+Dear sirs,
+
+It pains me, but I must insist you check your sources! Imagine my consternation when I woke up this morning and read about how unhappy and disturbed Lady Mariselle was that her necklace had been stolen. “I can still feel the thief’s hands about my neck!” Oh, really.
+
+I assure you, gentlemen, you’ve been lied to. She had no such objection to my proximity at the time.
+
+Yours, ever, Mr. Penn.
+
+Dear sirs,
+
+I agree with your editor about the rise of crime in this country. Disgraceful. However, I feel that he failed to point out the most frustrating aspect of the matter: our fences are now so wealthy, they’re content to retire rather than pursue their chosen vocations!
+
+What am I supposed to do with all these gems?
+
+Your fellow concerned citizen, Mr. Penn.
+
+Dear sirs,
+
+I appreciate your enthusiasm, but the break-in at Raverly Hall was not one of mine. I deplore violence.
+
+Yours, ever, —
+
+Well!
+
+Master Thief, you say? Far be it from me to argue with the good men of the press. Is there a certificate I can claim somewhere?
+
+The Master Thief, Ryce Penn
+
+Thank you, sirs. It was an honor to see my name in type next to such a well-known scoundrel as Robin Hood. However, I should caution you against using his name as an epithet for myself.
+
+I agree that, on a superficial level, we look similar, but he is supposed to have acted against a mean tyrant out of compassion for the poor—whereas I steal on a whim, primarily to gain fame, and I give it away for pretty much the same reasons.
+
+And of course I steal from the rich. They’re the only people with property worth stealing. They also try to protect it, which does add a little to the challenge.
+
+Yours, ever, —
+
+Gentlemen of the press,
+
+You’ve been listening to rumors again. I have not touched the baron’s home. I would never have stolen those works of art; I think they’re hideous.
+
+I should have foreseen this. One gains a little bit of fame and now, if you’re burgled, it won’t do unless you’ve been burgled by the country’s most notorious thief! But I’m only one man. I can’t do everything.
+
+I urge you not to compound the confusion. If you attribute every crime to me, the police will waste all their time failing to catch me when they could be failing to catch the real criminals.
+
+Yours, ever —
+
+Ah! Now, that’s more like it!
+
+The Marvelous Mr. Penn!
+
+My compliments to you, Mr. Jones. That’s an excellent title. It has a certain purr to it. You may dispense with esquire.
+
+I will forever be faithfully yours,
+
+The Marvelous Mr. Ryce Penn,
+
+Master Thief.

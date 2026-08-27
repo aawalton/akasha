@@ -1,0 +1,371 @@
+---
+id: aaf9eae4-b57e-5d71-b6d9-d92136a63599
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 - Eleanor in the Park"
+slug: 0030-chapter-29-eleanor-in-the-park
+partOf: the-unexpected-engagement-of-the-marvelous-mr
+position: 30
+ownLength: 2818
+unit: words
+publishedAt: 2022-06-21
+link: "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/932512/chapter-29-eleanor-in-the-park"
+royalRoadId: "932512"
+---
+
+Eleanor had wanted to go on a walk. She had wanted to get back to her normal life. Some part of her longed for it all to not have happened, but seeing Haley at the door had driven reality home to her heart like a well-swung hammer.
+
+She was weary before she reached the front gate. She only got as far as the first bench in the park before she couldn’t bring herself to take another step.
+
+She dropped onto the bench and looked up at the sky.
+
+Close your eyes, she told herself. There’s a breeze. You can smell the plants and the soil.
+
+And Dominic Winfield was dead. Because of her.
+
+“Good morning, my darling.”
+
+Eleanor looked over at the man who had sat down on the other end of the bench. He had dark hair, a furrowed brow, thick spectacles, a cane, and the manner of a pompous professor. She stared at him for a full three seconds. Then she laughed.
+
+“It’s you, isn’t it?” she asked.
+
+“Does that surprise you?”
+
+“I’ve never seen you disguised before. It’s amazing! I never would have recognized you. Not in a hundred years.”
+
+“You flatter me.”
+
+“I have to ask—how, Mr. Penn?”
+
+“Ah, you’re delving into great secrets here…but you did have a beautiful laugh.” He pretended to weigh the two facts, then said, “It isn’t much, really. They do it in the theater all the time.”
+
+“Not like you.”
+
+“I did refine some techniques, that’s true. A little observation. A little experimentation. New tools, new tricks—then voilà! A new face.”
+
+“I think this one suits you.”
+
+He touched his hat and bowed his head. “Thank you for being such an appreciative audience.”
+
+“And I should thank you for the flowers. Haley told me they were from you—or that he suspected they were from you.”
+
+“He said that?”
+
+Eleanor nodded.
+
+Penn looked out over the street. “The inspector’s a good man.”
+
+“He’s in there, right now, talking to my cousin.”
+
+“Oh? I appreciate the warning. He’s gotten faster.”
+
+“Shouldn’t you go?”
+
+“What kind of a fiancé would I be if I didn’t come to see you at a time like this?”
+
+Eleanor’s smile faltered. “You’ve heard.”
+
+“I hear a lot of things. But before anything else, I need to tell you how very sorry I am for what you went through.”
+
+He touched the bandage on her arm, then pulled his hand back.
+
+“If I had any idea that Farnham would try something like that, I never would have written those letters."
+
+“It wasn’t your fault. Farnham did this to me. Not you. And he paid for it.”
+
+“But I played a part in what happened, and for that, I beg your forgiveness.”
+
+“Freely given.”
+
+“Thank you. May I ask how you’re doing?”
+
+“I’m afraid that isn’t an easy question to answer.”
+
+“I have time—at least, until that door opens.” He nodded to the Aubrey-Serrs residence. “Then I may have to leave. Rather quickly.”
+
+“My arms itch. I didn’t know the wounds would itch as they heal. It’s maddening. And my cheek and jaw are sore. Otherwise I’m supposed to be fine.”
+
+“Supposed to be?”
+
+“I’m tired, Mr. Penn. I’m very tired, and there’s no one I can ask to forgive me for my part in Dominic’s death.”
+
+Penn wagged his finger. “Oh, no. That’s not how this works, my beloved. A few strict-minded people might argue that my harassing your father with those letters and breaking into your house was wrong. As well as stealing from Farnham. And being a thief in the first place.” He shrugged. “Anyway, I did something wrong, and it led to you being hurt. What did you do wrong?”
+
+“I can see your point, but emotions rarely care about logic.”
+
+“That’s all right. I don’t think logic cares all that much about emotion.”
+
+Eleanor chuckled, but Penn had no doubt that it was born more from her grief than from his joke. “It doesn’t. Logic is a heartless little thing.”
+
+Penn stared at her for a moment, then looked away. “So what can you tell me about Winfield’s murder?”
+
+“Why do you want to know?”
+
+“Come now. Don’t you want to know who did it?”
+
+“I don’t know anymore,” Eleanor said. “I thought I wanted to know who sent those invitations, but I never would have dreamed it was Dominic. It seems so unlike him. Somehow, that scares me.”
+
+Penn’s heart ached when he saw the emotion on her face.
+
+“I don’t blame you for feeling scared,” he said. “This joke has gone much too far. Let’s solve it and end all this. You and me.”
+
+“What about Inspector Haley?”
+
+“I have no doubt that interfering twerp will find some way to involve himself, but do we really want to leave it to him? I mean, the man can’t even catch one little thief!”
+
+At last a smile. Even if it was a small one.
+
+He went on, “What do you say? Or would you rather sit around feeling scared?”
+
+“All right, Mr. Penn. You win. What do we do to solve this?”
+
+“What’s Haley told you about the case?”
+
+Eleanor relayed all the facts that Haley had told her the previous evening. Penn tried to act as if he hadn’t heard them all before. When she finished, he waited, but she only looked at him.
+
+“And?” he prompted.
+
+“That’s everything.”
+
+“That can’t be it. What did he tell you this morning?”
+
+Lady Serrs looked away. “We didn’t talk this morning.”
+
+“Didn’t talk?—I thought you said he was at your house!”
+
+“He is. I also told you he was there to talk to my cousin.”
+
+“Eleanor, darling, I thought that you, of all people, would have asked him a few questions.”
+
+“It’s a little hard for me to talk to Inspector Haley right now. I don’t know what to say to him.”
+
+“Do you need to say something?”
+
+“I think I might have upset him.”
+
+“You?” Penn couldn’t keep the incredulity out of his voice.
+
+“Yesterday I had to admit something rather ugly about myself.”
+
+Penn blinked. As Eleanor talked, the thief scanned his memory for any clue of what she might be referring to.
+
+“It was humiliating,” she muttered. “I’m afraid I was rude to him.”
+
+“Was I there for that conversation?”
+
+“What?”
+
+“After the hospital, did he go to your house?”
+
+“No.” Eleanor was now at least as confused as Penn.
+
+“I see. And…you’re worried that you upset him?”
+
+She nodded.
+
+Penn put a hand to his forehead. The woman could be absolutely astounding in so many ways.
+
+“Eleanor, I really don’t think Haley’s upset with you.”
+
+“How could you know? You weren’t there.”
+
+There was a slight cough from the thief. “You know, if you’re worried about it, I have a fast and easy way for you to solve all this.”
+
+“How?”
+
+“Smile at him.”
+
+“What?”
+
+“Smile at him—you know, like you’re happy to see him.”
+
+“Are you insane? How would that help?”
+
+“Trust me on this one.”
+
+Eleanor started fidgeting with her fingers. “I don’t know if I can. I’m not very good at faking a smile.”
+
+“What! You’re a woman, aren’t you? And you can’t smile on command? Don’t you know that it’s a lady’s second most devastating weapon?”
+
+“What’s the first?”
+
+“Tears. But you didn’t hear that from me.”
+
+“You’re a terrible person. You sit there in your little professor outfit, trying to teach me to manipulate people.”
+
+“If you’re going to be a thief, you can’t be so artless.”
+
+“If you keep insulting me, I’m going to cry.”
+
+Despite her protest, she didn’t look like she was tearing up. Instead, her eyes seemed to be laughing at him.
+
+He shook his head. “Monsters. The lot of you. Well, if you refuse to try it my way, then I guess you could apologize. I suspect it will work as well, and we want him back in your good graces as soon as possible.”
+
+“You mean me in his.”
+
+“If you insist. Haley’s got to have some more information by now, even if he can only tell us what the police have started doing.”
+
+“Are you enjoying yourself, Mr. Penn?”
+
+“Immensely.”
+
+Eleanor glimpsed a bit of dark moving through the trees in her yard and said, “I think he’s coming.”
+
+Penn stood up. “Then it’s time for me to say goodbye.”
+
+“Good day, Mr. Penn.”
+
+“You really should call me Ryce.”
+
+“Why? You don’t call me what I want to be called.”
+
+He bowed. “Then good day, oh cherished star of my soul.”
+
+With that, the thief disappeared into the park. Eleanor didn’t turn around to see where he’d gone, for fear Haley would see her.
+
+He was at the gate. After letting himself out, the inspector turned and caught sight of her. She saw him stall, then he crossed the street toward her.
+
+As he approached, she said, “More questions?”
+
+“Only one. May I offer you any assistance?” He sat down on the other side of the bench, took off his hat, and played with the brim as he spoke. “I know it’s assumptive of me to ask, but you’ve only had one day of rest, and I know the later part of it wasn’t all that restful. Since you’re not walking, I wondered if you might be tired.”
+
+He glanced over at Eleanor. She was watching him, and there was a gentle smile on her face.
+
+“That’s very thoughtful of you,” she said.
+
+The inspector looked away so she wouldn’t see his blush.
+
+“Mr. Haley, about yesterday, I want to apologize—”
+
+“Please don’t. Your cousin warned me about this. You had every right to be angry—”
+
+“You were only doing your job.”
+
+“But I’m the interloper. My job is to ask questions that people don’t want to answer. You’re allowed to hate it—you still have to answer them, I’m afraid, but you can be angry about it.”
+
+“Thank you. Maybe I will be.”
+
+By then he knew her well enough, he could almost hear when she was joking. He looked over to check, and, sure enough, her eyes were bright with laughter.
+
+“May I ask you a question?” she said.
+
+“Of course.”
+
+“Can you tell me what’s happening in the investigation?”
+
+Haley replaced his hat. “I can, but I’ll have to ask you not to talk about it freely, and there may be facts or details I can’t share.”
+
+“I noticed the papers didn’t say anything about Dominic having sent out the invitations.”
+
+“We find it’s generally easier to conduct our investigations if the press doesn’t know everything.”
+
+“I understand.”
+
+Haley took a breath as he considered where to begin.
+
+“We checked with the people in Winfield’s building,” he said. “They didn’t see anyone coming or going.”
+
+“What about the switchboard operators?”
+
+“They don’t keep records, except on transcontinental calls. One of my men asked, but the call volume was higher than normal that night, so no one remembers Winfield’s call.”
+
+“I see.”
+
+“We’re looking into his family—”
+
+“His family? Why?”
+
+“When a rich man dies, one of the first things we do is check to see who inherits. He died with no will, so it’ll go to his next of kin—eventually—but we can account for her whereabouts. She was in New York.”
+
+“You don’t really think they did it, do you?”
+
+Haley could hear the resignation in her voice.
+
+“No, I don’t think so. Mr. Winfield had the largest holdings of everyone in his family, but he was generous with his money. We can’t ignore the possibility of a coincidence, but I’m more inclined to think his death has to do with the phone call the manservant overheard.”
+
+“Why?”
+
+“Jeffery heard him say he would wait for someone, and we know they were there to talk about the invitations and what happened to you. To think that someone else might have come at the same time but for a different reason stretches the bounds of my credulity.”
+
+“So you’ve been asking about my suitors.”
+
+“I’m looking for anyone who would benefit from sending out those invitations. The only real impact they’ve had is to enrage your father and increase the pressure on you to get married. We’re looking into men who might have a grudge against you or your father, but I also need to look into who would want to force you to choose a husband.”
+
+“What will you do now?”
+
+“Personally? I’ll head back to my station, to see if the men working with me have any new information. Then I’ll probably head out to talk to Massey and Fitzmon.”
+
+“Are there any clues?”
+
+When Haley looked over at her, Eleanor caught sight of his wry smile. “I would expect as much from a fellow admirer of Mr. Holmes. Sadly, there were very few. We roughly know the time of his death because of the condition of the body. We believe the murderer washed his hands after committing the crime—”
+
+“Why do you think that?”
+
+“There was a film of blood in the sink and smears on the soap.”
+
+Haley watched her, trying to gauge if the details were too much, but Eleanor seemed less affected the more she learned. With each new piece of information, it must have lost some of the personal influence and become more of a puzzle.
+
+He went on, “We have a partial footprint, but it’s only the edge. It won’t be helpful for making an identification, but we might find some blood on his shoe if we’re ever able to track the man down.”
+
+“Have you found the murder weapon?”
+
+“No. If all my lucky stars align, we might find it still in his possession, but that’s unlikely. When someone commits a murder in the heat of the moment, they often lose their heads, but once they calm down, most of them would realize how incriminating having that egg would be, and they would make it a priority to get rid of it.”
+
+“You don’t think the murder was premeditated?”
+
+“There’s a large difference between sending out prank wedding invitations, even to be cruel, and killing a man. I think the culprit had to stop Winfield from going to the police.” Haley put his elbows on his knees and leaned forward. “The question is why would he be so desperate to keep his involvement unknown.”
+
+“I’m sorry, I don’t follow you.”
+
+“Winfield was worried that the police might think he was involved in your kidnapping. It makes sense that the other man would be worried as well. Most innocent people are eager to prove their innocence. If the murderer wasn’t involved in your kidnapping, why didn’t he agree to come forward with Winfield? Admitting that he’d sent out the invitations would have been intimidating, but it should have been better than being suspected in a kidnapping.”
+
+“Could he have been involved in my kidnapping?”
+
+“No. We talked to the men we arrested in the raid. Farnham did it all on his own. He had you tailed, then had you taken when it was convenient. I think there’s an unknown factor—some reason why the murderer found going to the police so much more threatening than Winfield did.”
+
+As the silence stretched on, Haley realized he’d been talking in a murmur. He sat up and cleared his throat.
+
+“Thinking out loud?” Eleanor asked.
+
+“I’m afraid so.”
+
+“Do you do it often?”
+
+“Not in public. But I don’t often have someone ask me my thoughts on a case either.”
+
+“Thank you for sharing them with me.”
+
+“It doesn’t bother you?”
+
+“A little, but I think I need to start accepting what’s happened. There’s nothing worse than sitting around, feeling scared and knowing nothing.”
+
+“I’m glad I could be of service. I have to go, but before that, should I escort you home?”
+
+“Thank you, but I’ll be fine. I am tired, but not so tired I can’t make it back to my door. And I’d like to stay here for a while. It’s peaceful.”
+
+Haley stood up and put on his hat. “I’ll wish you good day then.”
+
+“Haley!”
+
+He turned back.
+
+“Will you do your best?”
+
+“I will, Miss Serrs. I promise.”
+
+A few minutes after the inspector had left, Eleanor felt someone standing behind her. She glanced over her shoulder.
+
+“I thought you’d gone,” she said.
+
+“I didn’t go far,” Penn said. “If I went too far, I wouldn’t have been able to listen in.”
+
+“And what are you going to do?”
+
+“I think I might go talk to a few people. Maybe try to find the murder weapon.”
+
+“If the murderer dropped it, won’t it be gone?”
+
+“If he dropped it in the ocean, it might be, but nothing ever really gets lost in this city. It only gets relocated.”
+
+“And you think you have a better chance of finding it than all the policemen assigned to this case?”
+
+Penn smiled. “You know, I really do.”

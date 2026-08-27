@@ -1,0 +1,183 @@
+---
+id: 82d2cd1f-6d14-56f5-a0d4-be85abc0a1e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5"
+slug: 0005-chapter-5
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 5
+ownLength: 1756
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2525529/chapter-5"
+royalRoadId: "2525529"
+---
+
+Tachyon read through the notification again. She didn’t like being told what to do but it seemed that the way out of this place was to survive and protect these ‘controlling stones’.
+
+Was that what she was feeling coming from the top of that pile of dirt earlier?
+
+She wasn’t sure, but looking around again she was able to see a faint shining pillar of light in the distance.
+
+Her eyes thinned at the dubious projection of light that seemed to be calling to her.
+
+But she made a note to move in that direction. Eventually.
+
+Right now, however, she wanted to stretch her legs and more importantly.
+
+“Can these things stop flying around?!” she growled.
+
+Since activating her Light Magic earlier while escaping, the small balls of light continued to wink in and out of view all around her. She could feel them sucking up her mana each time they did.
+
+It wasn't entirely detrimental yet, but if this continued on for much longer, she would soon be out of mana entirely.
+
+She stomped her fore foot annoyed. Tachyon had never used magic before. Sure, she had seen other monsters use magic during her fights plenty of time, but she hadn’t the faintest clue how to control the little lights.
+
+Maybe she could ask them nicely to stop?
+
+So she gave it a try.
+
+Would you please cease running around and using up all my mana? She thought politely in her head while looking at the little bug-like motes of light.
+
+No response.
+
+Tachyon was losing her patience.
+
+She stomped her foot angrily.
+
+“I said stop damn it!”
+
+And for some reason the lights listened.
+
+Tachyon tilted her head, slightly confused.
+
+Was it because she asked more directly?
+
+“Start moving again.” she told them.
+
+But they remained still, hovering close to her.
+
+She got irritated once more. Thinking of how stupid these lights were and wishing they would just go away.
+
+And then the lights vanished. Not returning.
+
+Tachyon tilted her head again.
+
+Is it because I’m getting angry? Or…?
+
+This time she tried to remain calm and willed the magic to activate like she would any other skill.
+
+The light magic activated, a few of the motes of lights appearing and floating around her.
+
+Now she tried to focus her intent on the magic, telling them to move back and forth.
+
+WIth a little bit of focused concentration and intent, the lights did just that.
+
+Tachyon neighed and bucked in joy.
+
+But now what was she supposed to do with the magic now that she could tell it what to do?
+
+She could tell it to do whatever she wanted right?
+
+So she tried willing it to get bigger.
+
+The magic balls of light around her grew in size, but so did the cost of maintaining and increasing their size.
+
+Tachyon immediately felt her head get fuzzy as she became slightly unsteady on her feet. She didn’t like that, she didn’t like that one bit.
+
+So she told the lights to get away from her. And the magic balls shot out in different directions, some hitting trees, others flying into the air and ground.
+
+Shaking her head she was curious and went over to where one of the balls hit a tree.
+
+But she didn’t see any damage despite the ball being a sizable bundle of mana. Then she went to the other side of the tree and was surprised to see a scorch mark.
+
+Did the light go through it?
+
+Tachyon didn’t want to go through her head becoming fuzzy again so she willed the magic to activate this time but only allowed it to make one single ball of light.
+
+The ball illuminated its immediate surroundings slightly as it breathed itself into existence. Then Tachyon willed the ball to move back and forth, making sure she was practicing what control she could over the magic.
+
+Once she had a little bit of back and forth with it, she then sent the ball right at the tree, only to see the same thing. No immediate damage, but when she went to check the other side of the impact, there was a small scorch mark.
+
+Frankly, she had no idea why that was happening, but she was sure it would come in handy.
+
+Outside of her magic skill, her new skills were pretty straightforward and more of the same. They weren’t too abstract in concept for her. She would have to get used to some of their cooldown timings but other than that, Tachyon felt pretty confident.
+
+Then… She thought. Let’s go look around!
+
+Tip toeing in a side trot from how excited she was getting, she moved away from the pool of water and began to gallop in the opposite direction of the shining beam of light that kept calling to her.
+
+Tachyon would go there eventually, but first she wanted to explore, and she was honestly just tired of being told what to do after being held captive for so long.
+
+Running through the lack of a better word, city of brown upward pointing sticks -she would really have to find a word that encompassed that description better, a bundle of brown sticks with green feathery tops? Nevertheless, after running through them, she continued to practice using her light magic.
+
+She noticed right away that the magic only followed her when she told it to. If she gave it no commands after willing it to activate, they would just float aimlessly in the area they were summoned. It was silly really how they had to be told what to do all the time.
+
+But she dealt with it. Tachyon surmised that some things, especially skills, just liked being told what to do.
+
+So as she ran and took in the surroundings, she kept track of the lights and played with them. She told them to run around her as she ran, run ahead of her for her to catch up. And eventually she told them to turn into shapes of some of her favorite foods.
+
+Tachyon halted to a stop.
+
+Turning the lights into shapes of carrots, peppers, apples and other various veggies. She realized she was in fact very very hungry.
+
+How hungry?
+
+Well, looking at the flying carrot she had summoned, making circles around her. She began drooling and wondering if she could possibly nibble on the magic.
+
+But thankfully it wouldn’t come to that. Or at least she hoped it wouldn’t come to that.
+
+Her nose going into the air, she took in a big whiff of the feathery green things that came from the brown sticks. She also looked hungrily at the small gathering of feathery green things at the bottom of the brown sticks.
+
+And of course there was the grass on the ground. Tachyon had never had fresh grass before, but something did bother her about eating off the floor.
+
+So instead she got close to the large gathering of the green feathers at the base of the brown stick. To her it just looked like overgrown grass that had different shapes. There were some blue things that smelled very different decorating the green feathers.
+
+Getting closer the smell somewhat reminded her of apples she would sometimes get after winning a fight in the arena. Oh what she would do for an apple.
+
+Tachyon decided to give it a chance. She was extremely hungry and the last time she ate was before her fight with the wild cat and the ape.
+
+Taking a small morsel from the feathers she broke off some of the green and a few small blue dots. But what hit her like a wild mountain boar being thrown at her was the taste.
+
+Small bursts of sweet delectable, well she wasn’t sure how to describe it. First it was bitter, but tolerable. Then it was sweet but not overly so. And the little pops of flavor when she ground them between her teeth.
+
+She was an instant addict of whatever these were.
+
+Going in for seconds. And then thirds. And then of course fourths, she ravaged the gathering of small blue and green things at the base of the tree.
+
+All until nothing was left.
+
+She gave nicker of satisfaction after the buffet of deliciousness, not even caring that she had gotten most of the juice from the small blue things all over her lips.
+
+“I have a new goal now,” Tachyon said aloud, “It's to find more of these delicious things!”
+
+And just like that, it was time for second, second helpings.
+
+Tachyon followed her nose for several more gorging sessions, making her way in a straight line as she followed one group of the blue morsels to the next.
+
+That was until she was rudely interrupted.
+
+The sound of growling and snapping jaws hit her ears as she looked up to see their source.
+
+Surrounding a white pillar sticking out of the ground was a pack of wolves. But they were unlike wolves that she had seen before.
+
+The wolves from the arena were brown in color.
+
+This pack was of grayish color and there were quite a few of them.
+
+Tachyon smacked her lips as she chewed on her last bite of small blue things before she calmly assessed the situation.
+
+“Is there a problem?” she asked nonchalantly, honestly wanting to get back to eating.
+
+None of the wolves answered back. Instead just growling and beginning to circle around her, one particularly larger wolf staying close to the pillar.
+
+Tachyon guessed that none of the wolves were F-Rank right away. Her lack of fear was a very clear tell that they weren’t very strong. At least not by her standards anymore.
+
+As a pre-system animal, she would have been able to tell and sus out danger very well. But now as a monstrous animal with enhanced senses thanks to the system, even without skills, she was able to tell how strong an opponent was.
+
+The wolf guarding the pillar seemed to be the strongest, why they were guarding the pillar she wasn’t sure. However, the rest of the wolves were no match for her even in the numbers they were in.
+
+Tachyon realized there wasn’t going to be any reasoning with them as there didn’t seem to be a sapient monster among them to reason with.
+
+She was not one to shy away from a fight. And besides, she was very curious.
+
+“I wonder what those little purple dots on those green leaves next to that pillar taste like!”

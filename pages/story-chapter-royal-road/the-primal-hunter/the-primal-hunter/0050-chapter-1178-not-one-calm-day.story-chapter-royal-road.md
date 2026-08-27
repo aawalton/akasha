@@ -1,0 +1,187 @@
+---
+id: 6ca2d2ef-6563-527d-9a63-26b2c5e1456a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1178 - Not One Calm Day"
+slug: 0050-chapter-1178-not-one-calm-day
+partOf: the-primal-hunter
+position: 50
+ownLength: 2799
+unit: words
+ownProgress: 2799
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2673276/chapter-1178-not-one-calm-day"
+royalRoadId: "2673276"
+markedReadAt: "2026-06-29T19:30:50.827Z"
+---
+
+“I was serious about that invitation to visit my planet,” the Chosen of the Malefic Viper said with a smile as he stood right outside the house with his partner for dinner, Diana, by his side.
+
+“We’ll certainly take you up on the offer once it’s possible for us to go there,” Solana answered with a bow. Not going would be foolishly passing up a great opportunity. She already knew that she and Keerla would have to report everything that had happened during this dinner to their higher-ups, and chances were that this open invitation would cause both of them to be placed into several courses on diplomacy.
+
+“Thank you for the invitation. It was a lovely evening, and the food was absolutely wonderful, especially the soup,” Diana said, nodding her head.
+
+“I’m glad you could come,” Solana also bowed to the wood elf archer, knowing that the woman definitely also had a status far surpassing that of Keerla and herself.
+
+As for the mention of the mushroom soup... Solana had to admit that while she had done her best, she wasn’t very used to working with toxins during cooking, meaning the end result hadn’t been as good as she’d hoped.
+
+Fortunately, the Chosen had enjoyed it enough to finish the entire pot. Diana didn’t eat as much but also dug in, though Solana expected it was mostly to eat alongside the Chosen. Despite her status being a lot higher than theirs, she still only had a Divine Blessing, and no one could fault her for wanting to get closer to someone like Lord Thayne.
+
+Luckily for her, Lord Thayne did seem to have taken a liking to the wood elf.
+
+“Hey, you could pay me back by putting in a good word with Artemis,” Keerla smiled shamelessly at Diana.
+
+Solana threw her wife a quick glare that the high elf didn’t even register as Diana answered with grace.
+
+“I don’t doubt she’s pleased with how great hosts you are, and I wouldn’t be surprised if she’d begin to pay a little extra attention to you going forward. Especially not if you’ll be visiting the ninety-third universe,” the peak C-grade wood elf said.
+
+Keerla remained shameless as she placed a hand on Diana’s shoulder. “Don’t worry, if I make it big, I won’t forget about those who helped me get there and will definitely return the favor.”
+
+“Looking forward to it,” Diana chuckled. All Solana could do was be happy that Diana wasn’t easily offended. Keerla was quite curt when she felt close to someone, and she’d definitely taken a liking to Diana based on how her etiquette had gone out the window.
+
+“Hey, if it’s worth anything, I’ll also put in a good word with Yggdrasil,” the Chosen of the Malefic Viper said casually as he looked at Solana.
+
+The statement was absolutely ludicrous, and if it had come from anyone else, Solana would have laughed at the notion that a C-grade could talk to her Patron, the Mother Tree, much less have the Primordial actually listen. However, seeing as it was the Chosen of the Malefic One who walked around with a bow created from divine wood donated by the Mother Tree... he likely wasn’t joking.
+
+“I’m unworthy of such praise,” Solana said, feeling genuinely awkward even thinking about someone as insignificant as her being mentioned to the leader of the Pantheon of Life.
+
+“If you feel that way, then work towards becoming a person who would be worthy,” the Chosen said, keeping the same casual tone despite his words.
+
+“I’ll do my utmost,” Solana bowed again, unsure what to say. The Chosen seemed happy with her response as he smiled.
+
+“In case I hadn’t said it... Thank you for hosting us. It was indeed a lovely evening, and I hope we meet again. Perhaps in my home next time. I’m not the best chef, but hey, I know how to order catering,” Lord Thayne said in a tone that made Solana unsure if he was joking or not.
+
+“He’s not joking, in case you’re wondering,” Diana dispelled Solana’s internal thoughts, something she’d done several times prior already throughout the evening. Truly, she had a great understanding of the Chosen.
+
+“It would be an honor to visit your abode,” Solana bowed.
+
+“Yeah, definitely not going to say no to that,” Keerla agreed in less polite words, but at least she also bowed respectfully.
+
+“Just one rule,” Lord Thayne said with a smile. “No bowing all the time on my planet, alright?”
+
+“We’ll try to keep that in mind,” Solana said, hurriedly straightening her back.
+
+“I’ll be seeing you later, then,” the Chosen of the Malefic Viper nodded as he turned to leave.
+
+“You two have a great night, and I’m sure we’ll meet again,” Diana also gave them a nod as she threw Keerla a look, likely because they both shared a Patron.
+
+Solana was about to bow again, but stopped herself as she joined Keerla in waving at the two as they left. Right around when it got sufficiently awkward to stay there waving, she and Keerla went back into their house. Closing the door, Solana threw her wife a look.
+
+“We survived.”
+
+“More than survived... that went great!” Keerla said with a huge smile. “At least I don’t think we’ll get purged for having offended the Chosen of the Malefic Viper. We even got an invitation to visit his planet, something you said the higher-ups are hoping this declaration of friendship would make easier, and here we are with an open invitation.”
+
+“It certainly went a lot better than expected,” Solana said with a slow nod, genuinely surprised things had gone that well.
+
+“We definitely got lucky he brought along Diana,” Keerla sighed. “She rocked. Without her, things would have been super awkward, especially in the beginning.”
+
+“She was indeed skilled in conversation and reading social cues,” Solana wholeheartedly agreed. “And you still don’t remember having heard of her before? C-grades with Divine Blessings are relatively rare, and if she managed to get this close to the Chosen of the Malefic Viper, I’m surprised there hasn’t been more talk about her.”
+
+“Nope, never even heard of anyone with that name having a Divine Blessing of the Mistress,” Keerla shook her head. “But that isn’t super surprising. A lot of those with Divine Blessings are in specialized hunting squads or lone hunters that aren’t very public.”
+
+“I guess,” Solana sighed. As a follower of the Mother Tree, Solana definitely had a way better understanding of the influential mortals who held high-level Blessings of her Patron, but even she wouldn’t dare claim she knew about all C-grades with Divine Blessings of her Patron.
+
+“Hey... do you think those two are together?” Keerla asked after thinking for a moment.
+
+“I think there’s something going on for sure,” Solana speculated. “The most likely scenario is that Artemis and the Mother Tree both pushed for Diana to get closer to the Chosen of the Malefic Viper during his stay here, and he decided to take her up on the offer to enjoy some female companionship.”
+
+“So you think they’re just banging?” Keerla asked curtly. “I feel like they had pretty good chemistry, and Lord Thayne didn’t treat her as just a temporary plaything... then again, he was all-around way nicer than I thought the Chosen of the Malefic Viper could possibly be.”
+
+Solana threw Keerla a glare for the potentially blasphemous statement, making Keerla shrug.
+
+“What? You were thinking the exact same thing.”
+
+“Some thoughts are best kept as just that: thoughts,” Solana said, shaking her head. “As for the true nature of their relationship? Who are we even to speculate? All I will say is that if she does manage to become one of his recognized partners, the Pantheon of Life would be more than pleased.”
+
+“But for now, you think they’re just banging,” Keerla reiterated.
+
+“I never said that,” Solana crossed her arms.
+
+“But you were thinking it,” Keerla smiled cheekily. “And for the record, I’m gonna make a wild prediction... I think they’re already totally an item, and things are just kept under wraps for now. In fact, I wouldn’t be surprised if this entire Declaration of Friendship was partly made on the grounds that the two are together.”
+
+Solana just stared at Keerla for a few seconds. “Sometimes, your wild theories do really drift into the territory of conspiracy theories.”
+
+“Hey, I think I’m right,” Keerla chuckled. “Don’t underestimate the intuition of a hunter. There’s definitely more going on between those two than meets the eye.”
+
+Jake and Artemis walked through the streets for a little while until the Godqueen teleported them both back to Jake’s residence. Back in familiar and private surroundings, Jake turned to Artemis.
+
+“You nearly started a war between the Pantheon of Life and the Order of the Malefic Viper today.”
+
+“And I did so with not a single shred of regret,” Artemis answered in a stoic tone, returning his gaze.
+
+The two looked at each other for a few seconds before Jake chuckled and shook his head. “You seriously convinced Keerla that serving mushrooms would be a great idea?”
+
+“Sure did,” Artemis nodded, bereft of shame.
+
+“What would you have done if I’d raised a fuss or complained?”
+
+“I knew you wouldn’t,” the Godqueen smiled. “Even if every single meal had comprised only mushrooms and moss, you wouldn’t have said anything. You might have been unable to hide your dissatisfaction, but if Solana asked you directly if you enjoyed the meal, you would have forced a smile and nodded.”
+
+Jake glared at Artemis. “I’m not going to disagree, but the fact you knew how I would react only makes the betrayal worse, and you do know that I’m gonna get you back for it, right?”
+
+“Oh, I’m already looking forward to seeing what you come up with,” Artemis said, her demeanor making Jake believe she was serious.
+
+Not wanting to harp on with the subject, Jake changed it. “I need to ask... am I the only one surprised everything went so smoothly?”
+
+“What do you mean?” Artemis asked, having somehow not expected that question.
+
+“You know, nothing weird happened. We just went there, ate, had a good time, and went home. The biggest happening was you pulling a prank and me perhaps going overboard by being unable to hold myself back from showing off my new bow,” Jake explained.
+
+“Yeah?” Artemis said, continuing to look perplexed. “I can see why they would have been nervous of anything going awry, seeing as they were hosting the Chosen of the Malefic Viper and his mysterious companion for the night, but why are you surprised things went as expected?”
+
+“Because they usually don’t?” Jake asked, now confused about why they weren’t both confused. “Your real identity somehow wasn’t revealed, and no other gods had done anything to mess with things. Shit, I’d halfway expected Minaga to show up halfway through, acting offended at not having gotten an invitation. Oh, or maybe it would turn out their neighbor was secretly a group of assassins from the Court of Shadow that would try to catch me off guard. It could also be that Duskleaf or Nature’s Attendant suddenly needed one of us or something like that, resulting in them teleporting into the dining room halfway through the main course. You know, I just expected something to go wrong.”
+
+Artemis stared at Jake for several seconds, a look of genuine concern on her face. “I’m almost beginning to understand why you’re not a fan of social events if that’s how you expect them all to go...”
+
+“Well, not all of them,” Jake muttered.
+
+“Most times, events are surprisingly uneventful. They are predictable. Sure, all those things could have happened, but the chance would be ridiculously low,” Artemis shook her head. “Even if chaotic gods like the All-God Legion surely do skew things toward unpredictability.”
+
+Jake was quiet for a little while as he wondered if perhaps the reason things usually went wrong was because of something Jake did or if he had just gotten unlucky. Sure, sometimes he could definitely pin things on Villy, such as the time he went eating with Scarlett and the Primordial decided to roleplay a waiter, but he couldn’t put it all on Villy. Maybe the explanation instead was that Artemis had been there and had helped Jake not say something that would have led to something major happening?
+
+In the end, Jake just sighed. “I guess you got a point... not every social gathering turns into the day being overly eventfu-“
+
+As if on cue, the gateway in Jake’s temporary residence activated, and out stumbled a small, familiar, cat-like creature. Jake hadn’t even turned his head to look with his eyes before he noticed something was wrong.
+
+Before he could even use One Step, Artemis teleported him alongside herself to appear at the gateway where Jake saw Jasper. The Shimmerfur Warpsnatcher was covered in bloody wounds all over his body, and Jake felt that the peak C-grade had suffered severe damage not only to his body but his soul. At the same time, Jake saw the little guy’s body shimmer with constant energy, letting him know some kind of boosting skill was still going.
+
+“Jasper, what the hell happened?” Jake said as he hurried to take out a health potion and force-fed the little guy.
+
+“Me... treasure,” Jasper said after drinking the potion, making Jake notice what the Shimmerfur was holding.
+
+Between his small paws, Jasper held a weird multi-colored crystal about the size of a fist that gave off an odd and unsettling aura. Jake had been too busy looking at Jasper’s state at first to notice it, but now that he was looking at it, Jake knew it wasn’t anything simple.
+
+A quick Identify confirmed Jake had severely underestimated what he was looking at.
+
+[Supreme Jewel of the Drifting Planes (Mythical)] – A natural treasure born in a small world drifting between the universes. This jewel passively emanates a unique aura belonging to that of the Drifting Planes, allowing any monster below A-grade within to experience rapid growth. Has a myriad of alchemical uses, but must be approached with caution due to the potency of its inherent energy. WARNING: Due to being separated from the Drifting Planes, this jewel will soon start to decay and leak energy rapidly. Estimated time until instability reaches critical threshold: 6 days, 1:29:05
+
+“How the...” Jake muttered, but he didn’t get further as his attention was still on Jasper. The healing potion had helped the Warpsnatcher’s wounds start healing, but Jake felt that it was far from enough.
+
+Artemis, who also looked down at Jasper with concern, spoke and said something Jake already suspected. “He’s suffered severe soul injuries from overdraft.”
+
+“Can you help?” Jake asked, already aware of what the answer would be.
+
+“No, not with this kind of injury. Not when it’s caused by backlash,” Artemis shook her head. “It’s not something external sources can heal.”
+
+“Escape... hard,” Jasper said, still holding tightly onto the jewel. “Needed... treasure. Sorry.”
+
+Artemis, who had a hand on Jake’s shoulder, transferred her voice into his mind. “This is more than simply overspending himself. He took severe damage to his soul from external attacks while it was already harmed by his own doing... if he fully deactivates the current boosting skill he’s using, I fear permanent damage would be a best-case scenario.”
+
+Frowning, Jake asked Jasper straight-up: “Can you evolve now?”
+
+The Shimmerfur Warpsnatcher nodded slowly.
+
+“How long can you hold on with your boosting skill?”
+
+Jasper, who was already looking tired, seemed to realize what Jake was saying as he acted tough. “Enough.”
+
+With determination, Jake nodded and threw Artemis a quick look. She instantly knew as the three of them were teleported down to the cavern below the palace. Down to where all the treasure piles could be found... and the ritual circle they had already been integrated with.
+
+“We’re moving a bit faster than I had originally planned, but it seems like we don’t have a choice,” Jake said, looking at Artemis, who was carrying Jasper. She gently placed him in the center of the ritual circle, where the little guy sat up.
+
+The Warpsnatcher looked over at Jake with his big eyes, a hint of tiredness in them, but the little guy’s determination overshadowed it.
+
+“Ready!” Jasper said, trying to sound as strong as possible.
+
+“Alright,” Jake nodded, knowing time was tight.
+
+I hope I’m also ready for this, he thought as he initiated the ritual, things having moved a lot faster than he would have liked. Alas, he should have known that one doesn’t simply have a calm and uneventful day, including a dinner date, if they were called Jake Thayne.

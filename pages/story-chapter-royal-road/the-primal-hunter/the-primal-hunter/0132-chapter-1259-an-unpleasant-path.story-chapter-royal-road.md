@@ -1,0 +1,133 @@
+---
+id: 414affc3-0fd0-5e59-ac1a-f0122c340f2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1259 - An Unpleasant Path"
+slug: 0132-chapter-1259-an-unpleasant-path
+partOf: the-primal-hunter
+position: 132
+ownLength: 2707
+unit: words
+ownProgress: 2707
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3071467/chapter-1259-an-unpleasant-path"
+royalRoadId: "3071467"
+markedReadAt: "2026-06-29T19:35:10.054Z"
+---
+
+There were many unsolved mysteries in the multiverse. World Wonders that were far from fully explored despite having existed for dozens of eras, dungeons so difficult that not even the strongest of gods had successfully cleared them, and areas in universes so dangerous that no one except the bravest – or most reckless – beings dared explore. This wasn’t even mentioning the grander mysteries, such as whether a concept could ever be fully comprehended or why the system and the laws of the world even existed in the first place. Oh, and of course, everything related to Records, but that topic would deserve an entire list of its own.
+
+However, the mystery that confounded Jake the most at the moment seemed far simpler on the surface, yet he had a feeling the answer would forever elude him. He had theories, yes, but no matter who he asked and what he believed, no one ever seemed to give him an answer to this one question:
+
+Why was Minaga like this?
+
+“... but you see, the minister of technology failed to get the funding due to the lobbying from the Elemental Mage Union, making many from the pro-technology faction get an unfavorable view of mages in general. With the national budget shrinking due to the failed war with the Southern Kingdoms, the Ministry of Technology becomes underfunded, sparking many protests. Many from the pro-technology faction believed the Aginian Empire should lean more into its affinity for technology and embrace Paths that merged the biological with the mechanical. Of course, this was not popular with certain political groups, especially considering how this message impacted the already dropping birth rates, leading to...”
+
+Did it seem like Minaga was making everything up on the spot? No, no, it really didn’t, and that only made matters more concerning, as somehow the Unique Lifeform had managed to constantly talk for more than fourteen hours already, dropping the most useless of lore about a fictional faction.
+
+Were there references to real factions and events? Sure, but Jake had no way of telling apart what was fact and what was fiction, and honestly, he was too exhausted to even try.
+
+He had wanted to just meditate and recover, but Minaga had gone as far as to infuse a very simplistic ego into the projected head, making it able to tell if they were listening or not. When Jake tried to enter meditation once, Minaga kindly told him that he would “wait for him” before continuing.
+
+As a result, Jake ended up just recovering without meditation, sitting on the ground, and actually listening to everything Minaga said. Casper was still not looking good, but at least he seemed to be recovering as all the holes in his body healed themselves. Jake had already poured a potion into the Risen’s mouth, which had allowed Casper to enter meditation, something he’d been doing now for the last twelve hours.
+
+Hours kept passing with Jake nodding along to the overly long story that Minaga seriously didn’t have to string together, much less tell Jake about. He wasn’t going to complain that much, though, as it gave Casper time to recover.
+
+After more than a full day had passed, Casper finally opened his eyes. Wincing in pain, he reached up and pulled out the wooden stake from his chest, his facial expression making it extremely clear this wasn’t a pleasant experience.
+
+“How are you feeling?” Jake asked the Risen, still fully capable of talking to Casper while also listening to Minaga. Fortunately for both of them, the floating Minaga head didn’t seem to view it as a problem that his audience spoke amongst themselves.
+
+“Like shit,” Casper answered truthfully as he looked down at the stake he’d pulled out before crushing it, turning it into splinters that dispersed into the air.
+
+“And Lyra?” Jake asked. He knew that whatever Casper had done came with consequences, not just for himself, but also for his ghostly companion. In fact, based on everything he’d seen, Jake believed that Lyra would be the one suffering the most from this.
+
+“She’s... recovering,” Casper said, letting out a sigh. “I told you before that I had a trump card that I really didn’t want to use. My Domain Skill is that trump card.”
+
+“Yeah, I figured,” Jake nodded, wondering if it was really worth it to dedicate mental energy to still listening as Minaga went over how the amended tax code of the Aginian Empire led to a growing wealth gap and inflation, pushing more into working non-combat jobs to provide for their families.
+
+“In some ways, I’m a bit envious of your Path,” Casper said, slowly closing his eyes. “I originally gained by embracing curses. I had a strong natural affinity to them, but the thing is, using curses isn’t exactly pleasant when you try to truly push yourself beyond your limits. To better understand the power of curses, the best thing I can do is to suffer from them myself, and I don’t exactly have positive memories associated with the power of my curses... with my misery only making the curse stronger. It’s a vicious cycle, forcing me to walk a tightrope between mental collapse and getting stronger.”
+
+Jake was silent as the Risen continued.
+
+“Because Lyra has become one with me, she also suffers from the curses, and she is in the exact same situation as I am, with the two of us helping to balance each other out. What eventually became my Domain Skill was my attempt to create a small personal space for Lyra and me to practice in, where we could better control how the curse affected our psyches. A place where we could suffer together while supporting one another. Unfortunately, I failed and also ended up creating a skill even my teacher – an S-grade lich – told me I should avoid using before entering B-grade.”
+
+“That... does sound like it sucks,” Jake muttered. He knew that compared to Casper, his own understanding of curses was rudimentary at best. The only reason Jake wielded a somewhat powerful curse was due to Eternal Hunger. Plus, all Jake had to do in order to empower his curse was to feed it, something he did merely by killing things.
+
+Meanwhile, Casper had to study and improve his curses all on his own. He had to summon the curse energy from within his own body, making him the vessel also containing the curse. Jake at least had a step of separation there with Eternal Hunger.
+
+“I’m not going to say it doesn’t suck at times, yet I also acknowledge that without it, I wouldn’t be able to fight for shit,” Casper shrugged, the movement clearly painful. “Curses are risky, and with risk comes power. What’s more, even the very powerful don’t truly understand curses, making them susceptible.”
+
+“Yeah, I can see that,” Jake nodded. “Though there are also people who would be borderline immune to your curses.”
+
+Casper looked at Jake and raised an eyebrow. “Thanks for proving my point that people lack understanding of curses. You are far from immune; in fact, your cursed weapon would barely afford any defense if I attacked. It’s true that if I don’t actively try to circumvent your Sin Curse, it would help defend you, but unless you learn to actively control the curse at a level similar to mine, getting around it would be easy. In the same vein, if I want to target your weapon and amplify its curse, that’s also simple for me, as shown during plenty of our fights.”
+
+“Huh,” Jake muttered. Yeah, now that he had thought it out, Casper had shown himself capable of actively stimulating the curse of Eternal Hunger. Jake had never even tried to fight against it, and when he considered it, he wasn’t even sure if he would be able to.
+
+“Anyway... as I said, I would have preferred not to use that skill, but that fucking golem single-mindedly went only for me,” Casper cursed as he stared daggers at the floating head of Minaga that was still going over the impacts of the tax code.
+
+“How long do you think it will take Lyra to recover?” Jake asked, hoping it wouldn’t be too long.
+
+“I don’t know,” Casper shook his head as he reached up and grasped the locket. “It’s not just me who has a natural affinity for curses. Lyra is the same... but her curse energy awakened right at the moment of her death. So, the best way to stimulate it is for her to experience death once more. I know she will return, but I’ve never used the Domain Skill before today, outside of the day when I unlocked it, so there are still some uncertainties.”
+
+Jake slowly nodded. “If it’s any consolation... your Domain Skill seemed pretty damn powerful.”
+
+“Oh?” Casper said with a light smile. “Perhaps even powerful enough to take down the Chosen of the Malefic Viper?”
+
+“Now you’re pushing it,” Jake chuckled, shaking his head. It wasn’t just bravado either.
+
+Yes, the domain was pretty damn strong, but Jake had already started seeing through its weaknesses, and if he did ever find himself trapped inside of it, he was confident in breaking it. Against someone with lower Perception who couldn’t see through its flaws or someone mindless like the golem, the domain seemed to make Casper near-invincible, and it kind of did if one was so stupid as to actually attack his ghostly form.
+
+“Yeah, wouldn’t have expected it to,” Casper shook his head. “But at least it got the job done. Lyra and I will need a lot of time to recover, though, and I’ll also need to re-craft a lot of materials I used to summon the domain in the first place. Again, it really wasn’t a skill I should have used while still a C-grade.”
+
+Jake didn’t say anything but just sat there in silence as Casper decided to chug down another spirit potion to make himself feel better. He was definitely in a weakened state that far surpassed what one would experience after overusing a boosting skill. It wasn’t anywhere near the level of something like the Sword Saint’s transcendence, and it looked like the Risen would be fine given rest, but it certainly wasn’t a pleasant experience either.
+
+Casper joined Jake in listening to Minaga as the Unique Lifeform went on and on. Jake was fully prepared to sit there for at least another day before Minaga would finish blabbering, but fortunately, it only took another couple of hours before he revealed the one crucial piece of information they actually needed.
+
+“... so despite the economic challenges, the construction of the Grand Labyrinth Project was approved. Of course, the true purpose was hidden from the masses, and from the very beginning, it was all a plot by the Ministry of Technology and the Aginian Formations Guild to create a complex that could hide and empower the ancient artifact they had discovered. From their research, they knew this artifact would take a lot of energy to fully awaken, so they wanted to seal it in a hidden dimension here at the center of the Grand Labyrinth. There, it would be allowed to slowly accumulate energy with the help of the labyrinth itself. How, you might ask? Well, quite easily. Because this is not truly a labyrinth... It’s actually one giant magic circle!”
+
+Minaga yelled this revelation with excitement in his voice as he paused for several seconds while Casper and Jake just stared up at the projected face of the Unique Lifeform in silence.
+
+“I know, I know, it must be hard to contain your shock at this absolutely bonkers plot twist, but it’s true,” Minaga said, sounding very proud of himself. “Now, seeing as this entire speech – which I do plan on turning into an audiobook that will be rewarded to anyone who completes the dungeon – will only play if you actually complete the dungeon, I have a minor confession.”
+
+The Unique Lifeform looked a little embarrassed as he took a deep sigh. “I kind of didn’t get around to making this last part, where the entire Grand Labyrinth Formation would activate and the entrance to the final dungeon, where you’ll enter the hidden complex of the Aginian Empire. Oh, but trust me, it’ll be super awesome and really impressive, so take that into consideration when you give the final rating, okay?”
+
+Jake and Casper shared a look before shaking their heads in sync.
+
+“I’ll just assume you agreed that holding such a minor lack of content over my head wouldn’t be fair. Anyway, where was I... alright, yeah, congratulations on doing the dungeon! No rewards! Woo, you two really impressed me. I totally didn’t believe you could do it! Oh, and I really hope that you both survived, because if not, this would be incredibly awkward...”
+
+“Did he say no rewards?” Casper asked.
+
+“But I’m sure you’re both fine and dandy, and you’ll both walk out of here with massive smiles on your faces from having had the best dungeon experience since Nevermore! Wait, that reminds me... now, where was it again... dungeon finish trigger, finish trigger... ah! There it was! See you soon!”
+
+With those words, a notification popped up in front of both Jake and Casper, signifying that they had indeed completed the dungeon. With the notification, the projection of Minaga’s head in the sky also disappeared, the dungeon having now truly come to an end.
+
+Objective: Uncover the true purpose of the Grand Labyrinth’s construction (Completed)
+
+Dungeon shutting down in: 9:59
+
+“Only ten minutes to leave?” Jake questioned.
+
+“No, until it shuts down,” Casper clarified.
+
+“Isn’t that too... wait,” Jake stopped himself as he looked around. “Minaga didn’t put in an exit, did he?”
+
+“Doesn’t look like it,” Casper shrugged, once more regretting the physical movement as he grimaced in pain.
+
+“So we’ll just have to wait ten minutes, and then we’re thrown out?” Jake muttered. “I guess that works.”
+
+“Yeah,” Casper nodded. “I’ll just take these few minutes to ensure I don’t totally embarrass myself when we get out of here.”
+
+“Alright,” Jake nodded. “I also have something I would like to check.”
+
+Casper nodded and closed his eyes as Jake did the same thing. Jake was already mostly recovered after the final boss fight, though some of the weakness from Arcane Awakening still lingered. Meditating would help him recover more quickly, but for now, he had two things he would rather do. First of all, Jake checked that the main objective of doing this dungeon had been completed, and sure enough, there it was.
+
+[Dungeon Pioneer XV] – Be the first to clear a dungeon suitable for your level. +195 all stats.
+
+Jake had finally maxed out his Dungeon Pioneer title for C-grade. It didn’t provide him with a massive amount of stats, but having gotten it done still felt great. Based on how its stats tripled with every evolution, Jake would get +81 to all stats per level in the title while in B-grade. With his Nevermore title increasing it by 50%, it would instead be 121 per level in the title, and with five levels to the title, it would definitely add up.
+
+Meanwhile, if Jake hadn’t bothered to do the dungeons now, he would be stuck earning both the D and C-tier levels of the title whenever he got them done. The extra Records from an upgraded title were also nice, but in truth, Jake seriously doubted it mattered to someone like him. Compared to something like the Nevermore titles he’d gotten or the Sacred Prodigy, these Pioneer titles were utterly insignificant.
+
+Still, every little bit counted, and Jake wanted the best he could get once he evolved to B-grade. Speaking of...
+
+Having reached level 349 in his class also meant that Jake had gotten something else he’d been looking forward to. Something he knew could become a stumbling block for many who sought evolution, or merely a system message affirming they were doing a good job on their Path.
+
+He was naturally speaking of the Class Evolution Quest... and this time around, it was about more than merely having to kill things.

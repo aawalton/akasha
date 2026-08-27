@@ -1,0 +1,185 @@
+---
+id: 8f92ce49-b2b3-5376-9442-5802445cb271
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14"
+slug: 0014-chapter-14
+partOf: the-speed-of-light-monster-evolution-litrpg
+position: 14
+ownLength: 2042
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg/chapter/2545892/chapter-14"
+royalRoadId: "2545892"
+---
+
+Tachyon’s nose didn’t lie. There was no way she could mistaken the sweet smell of a treat such as this. It was improbable, no impossible, for her not to be able to tell this was a delectable snack just waiting for her to taste it.
+
+The smell led into the opening and despite her best efforts and judgment. Tachyon followed the smell.
+
+Using her magic to light the way, she continued inward, the temperature dropping noticeably the deeper she went.
+
+Sounds of dripping water and small rumbles of the shifting earth were the only company available to her for the moment as she followed her nose, suddenly hearing something surprising.
+
+“Oh yes! This is looking good now, isn’t it, Ned?”
+
+“I told you Ted, it’s all about the heat of the flame, ain’t it? Gots to let them simmer and it brings out the-”
+
+“I don’t need all your fancy schmancy higher educational talk, Ned. Long as it taste good that's all we need yeah?”
+
+Soon Tachyon looked down the passage, the dark surroundings illuminated by a small fire in between two hunched over figures.
+
+At the same exact moment both figures looked up and met Tachyon’s gaze.
+
+They were both grotesque and deformed, lumps frequent on their face, and balding heads to match. However, both had large muscular arms that they seemed to be using in place of small feet that didn’t quite touch the ground.
+
+“Ahh! It’s an intruder, it is!” one yelped.
+
+“That’s a horse you fool!” the other corrected as it turned to her, “What’s a horse doing in a cave like this? Are you after our apple strudel? You won’t be getting none you hear me! Shoo, off you go as it is!”
+
+The other moved closer to talk to the one shooing her, trying to talk in a soft voice but failing.
+
+“Ned, do you think we should be shooing away something of their size? What if they just decide to take our food and beat us around?”
+
+“No, Ted,” Ned said back, rubbing their forehead with one large hand, “Look at the beast's level. We are level 20, they are level 17. You know basic arithmetic, Ted. What is the greater number 17 or 20?”
+
+“Psh,” Ted laughed, waving off Ned as if Tachyon had gone invisible watching them, “I know that, I’m not an idiot. It’s 17, that’s why I said what I did, Ned! You think you're so smart just cause you had a bit of learning?”
+
+Ned slapped his face, nearly tumbling back into the fire, “No, Ted! 17 is not greater than 20! Try again like we practiced, use your fingers if you have to.”
+
+Ted frowned, beginning to count with his fingers as he fell backwards on his read, counting with his toes as well.
+
+“15, 16…”
+
+“Come now, Ted, the horse is beginning to look at us funny,” Ned sighed.
+
+“I know, I know. Don’t rush me, Ned! You're embarrassing me in front of the horse wizard! 17…18, 19, 20! Ha, oh 20 is greater than 17 innit? Fancy that!” Ted beamed a mouth full of yellowed and crooked teeth.
+
+Tachyon was left wholly confused. This was the first time she had come across monsters that could speak. Not only that, but they were able to tell her level just at a glance. Was it a skill?
+
+“How can you tell I’m level 17?” she asked, thinking why not just pose the question to them.
+
+“Oh that’s simple,” Ted laughed, “You just use the system’s inspection. Long as yous not too below what you're inspecting, it should tell you right quick and proper what you're looking at.”
+
+Tachyon’s eyes thinned and she tried a few things. Most of her attempts ended in failure. She had no idea what a system inspection was, but eventually she thought to look at them as if they were an item that she could see the description of.
+
+Level 20 Diver Troglodyte
+
+A message came back, stating Ted’s level and race.
+
+“Oh, that was very helpful. Thank you,” she nodded.
+
+“Dun mention it hun, it’s our pleasuh,” Ted smiled, only to be slapped by Ned.
+
+“Why are you helpin’ her, you idiot! She’s the god damn intruder! She probably wants the Controlling Stone, you moron!” Ned yelled.
+
+“Oh right,” Ted said, his frown forcibly turning into a mean frown, “I ain’t ‘elpin you non more, you hear! Tricking me into helpin’ yous!”
+
+Tachyon wasn’t sure what to make of the two. They certainly were talkative, they even mentioned that there was a controlling Stone here in the cave somewhere.
+
+But she was more concerned with what was on the fire, slowly bubbling.
+
+“What is that? It smells delightful,” she asked, nodding in the fire’s direction.
+
+This time it was Ned who brightened.
+
+“Oh, that is the filling for our lovely apple strudel! I’ve been perfecting the recipe for the past few days since coming here!” Ned explained, moving over and stirring the mixture, “We don’t have many fruits where we come from, so I’ve never had a chance to experiment.”
+
+Tachyon nodded, the smell even better from the distance she was at compared to its less potent aroma outside the cave.
+
+“The trick is to simmer the apples,” Ned said, raising a finger, “It breaks down the apples so that the sugar naturally comes out and caramelizes."
+
+Ted had moved to be next to Tachyon and bumped her leg gently with an elbow, “Yeah, Ned’s an educated fellow. Studied in some town or some such, learned to cook he did,” Ted said, nodding along proudly.
+
+Tachyon moved a slight bit away for her own safety, moving a light magic carrot into position just in case as she continued to listen.
+
+“We don’t have bread for the flaky crust that we need, so I went and got some moss that we dried and broke down. Using some blood from the sandworms a few leagues away and the eggs from some of the stupid birds. It came together well enough for a pastry,” Ned laughed, clapping his hands together, “And it’s nearly done too!”
+
+“That sounds fascinating. I would love to try some. You seem to be a great expert when it comes to cooking. I think it would even be an honor if I could,” Tachyon said, truly believing it.
+
+She could have imagined it, but she swore she saw Ned blush slightly as he waved her off and smiled a crooked grin.
+
+“Dawww, you know how to butter up an old fella, don’t you? Don’t see why not! A bite never hurt no one, here! Watch it hun, it is still a bit hot,” Ned warned.
+
+Ned pulled out a small flat surface that seemed to be just bark from a tree. But Tachyon extended a mana thread to pick it up from his offered hand. Bringing the food to her nose as she took in a deep, long breath.
+
+Wondrous perfection. Tachyon thought, her eyes almost watering as much as her mouth.
+
+“May I?” she asked, looking to Ned for permission to eat the art that was in front of her.
+
+Ned nodded as he sat down next to the fire, his arms crossed expectantly.
+
+Blowing on the food to cool it, a moment later, Tachyon took a sizable bite, savoring the moment. The food was sweet and crunchy with a slight bitterness that she could tell was from the moss, but surprisingly did not harm the flavor profile of the sweet apples. The apple bits were cut and spread throughout the food, soft yet crunchy.
+
+She was in blissful love. This was truly perfection.
+
+A tear ran down her face.
+
+“That was truly delightful. Thank you, Ned, Ted,” she said.
+
+The troglodytes seemed genuinely taken aback.
+
+“Aw, we didn’t do nothin’ to deserve thanks like that,” Ted blushed, rubbing the back of his head.
+
+“It was a pleasure to have you try it, miss,” Ned nodded.
+
+“I hope one day I will be able to eat something this delicious once more,” Tachyon said, her eyes smiling, “But I must be on my way. I came to this cave for the smell, but knowing there is a Controlling Stone here as well, I will have to continue on.”
+
+“A right proper purpose that is. The Controlling Stones are a major part of this tutorial they are that’s why the big boss wants to keep the one he has,” Ted agreed.
+
+“Is the stone further down?”
+
+Ned nodded, “The cave is a large tunnel system, you’d get lost if you weren’t careful. There are two medium Controlling Stones in here, there is. Believe there’s five in total on the middle section of the mountain.”
+
+That’s convenient that they are willing to tell me that. Tachyon thought.
+
+“I see, thank you again for the delicious snack, I won’t forget it. I’ll be on my way then,” she told them, bowing her head slightly and moving on past them.
+
+Ted and Ned waved her goodbye with smiles until she was out of view down the tunnel. Ned then remembered they were supposed to stop anyone who came into the cave system.
+
+“Oi! Why did you tell her about the stone, you numbskull!”
+
+“Whatcha mean me?! You're the one that let her go off and eat half our food!” Ted growled back.
+
+“She was very polite! I couldn’t just not offer hospitality to a guest, it wouldn’t be proper!”
+
+“She was very nice, wasn't she. I know we were supposed to stop her, but I really don’t want to anymore…” Ted sighed.
+
+“I’ve not got much of the stomach to do the same. But it’s still your fault for not stopping her! It’s our job, and now I’m going to get yelled at for it!”
+
+“Whatcha mean, my fault?! For all your boasting, bad chest pumping about going to that fancy town to get learnt, and you let her run your pockets for our food!”
+
+“At least I went to some fancy school, you rock-brained idiot!”
+
+“That hurts, Ned. That really hurts. You knows I’m sensitive about my wits, I try my best you know…”
+
+“I’m sorry, Ted, I just get so fired up. Here, let’s eat some sweets and take a break, we deserve it.”
+
+“That we do, Ned, that we do. I sure hope that Miss survives the boss. I’d like to invite her to another meal, wouldn’t you?”
+
+“I think that’s a splendid idea, Ted. I always knew you were smart.”
+
+Ted laughed, slapping Ned on the shoulder as they both bit into the rest of the sweets.
+
+Tachyon continued down the tunnel, her magic lighting the way after her peculiar interaction with the first two other monsters who could speak.
+
+She could still taste the fruity aroma lingering on her tongue. She made a mental note to learn how to make a fire so she could make sweets like that in the future.
+
+But with a heavy heart, she forced herself to move on from the sweets. The news from the troglodytes on a Controlling Stone piqued her interest.
+
+She was also thankful that she wouldn’t have to fight against Ned and Ted. Tachyon had grown to enjoy the two's company, not to mention that they were also several levels higher than her.
+
+The fact that they were several levels higher than her wasn’t entirely a death sentence. In fact fighting above your level often gave more benefits. However, the problem came from the fact that they had reached level 20, which for monsters was a milestone for their evolution.
+
+She suspected if there were more monsters in the cave up ahead, she would have her thoughts confirmed.
+
+A few minutes of walking soon told her all she needed to know. A pack of smaller-looking Neds and Teds gathered around a small fire.
+
+Troglodyte Level 14
+
+It seemed that Ned and Ted were both evolved forms of the monsters within the caves.
+
+“Hello there. Would you mind telling me where the Controlling Stone is?” Tachyon asked.
+
+The troglodytes turned, now aware of her and growled, none speaking a single coherent word.
+
+It would seem that negotiations have broken down. She sighed. Forgive me Ted, Ned. I will be thinning out your family tree.

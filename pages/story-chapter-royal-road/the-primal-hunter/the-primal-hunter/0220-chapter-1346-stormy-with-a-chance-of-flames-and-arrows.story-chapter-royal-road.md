@@ -1,0 +1,111 @@
+---
+id: 4e46a910-0c12-5633-b94a-03c3bff09be3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1346 - Stormy With A Chance of Flames & Arrows"
+slug: 0220-chapter-1346-stormy-with-a-chance-of-flames-and-arrows
+partOf: the-primal-hunter
+position: 220
+ownLength: 2912
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3627240/chapter-1346-stormy-with-a-chance-of-flames-arrows"
+royalRoadId: "3627240"
+---
+
+The Archfiend’s eyes opened wide as he saw the fist penetrate through the chest of the Malefic Viper’s Chosen. Not only because he hadn’t expected the blow to land so easily, but because of what happened at nearly the exact same time.
+
+Out of the dispersing cloud of dark mana, a projectile had been shot, which the demon had found himself unable to fully detect before it was too late. It penetrated his chest, sending him spinning through the air, leaving a trail of blood as destructive energies ravaged through his system, mixing with the poison the arrow had been coated in.
+
+Just then, a shadowy figure looking near-identical to the Viper’s Chosen shot out of the cloud, wielding a bow. At the same time, the Behemoth was shocked to see the fully flesh and blood human she’d just punched through suddenly turn into curse energy, as the shadowy figure that had escaped from the cloud took on a flesh and blood form.
+
+At the very last moment before being struck, Jake had used Eternal Shadow within the cloud of dark mana and managed to lessen the damage significantly. He was truly punched through, and it hurt like a motherfucker, but he replaced it with that reality as he switched places with his shadow, still suffering a significant loss in vital energy, but otherwise finding himself uninjured.
+
+However, right after taking the place of his shadow, he was shocked to realize that the sealing runes were instantly reapplied once more despite the Archfiend finding himself busy spiraling through the air with an arrow empowered by Stealth Attack sticking out of his right shoulder.
+
+That’s when Jake finally managed to trace back the source of the runes. Throughout the battlefield, the Archfiend had positioned dozens of flame orbs while Jake and the Behemoth were having their melee brawl. Many of these orbs had begun casting flame walls, leading Jake to believe that was their function; however, he now realized that five of them were merely made to look as if their function was to make walls.
+
+In reality, they had been placed to form a perfect pentagon with Jake in the middle, and he only realized what was up with them when he saw all five move as Jake moved to maintain their perfect relative position to him.
+
+Having seen through the magic, Jake turned to shoot an arrow towards one of the orbs. He quickly did so, but the Behemoth intercepted it, breaking the arrow with her clawed feet before proceeding to launch toward Jake, still wanting to take advantage of his weakened state.
+
+Seeing no other choice, Jake used Pride of the Malefic Viper to quickly summon hundreds of arcane bolts to send toward the flame orb right as the Behemoth also reached him.
+
+With the sealing runes hindering his movements, Jake had a far harder challenge ahead of him this time around as the Behemoth seemed to be growing stronger the more time passed, making Jake believe she had some kind of momentum skill or perhaps a berserking skill, making her stronger as she took damage. While all her injuries had visually healed, getting rid of his poison wasn’t so easy, meaning she was continually taking damage.
+
+In either case, Jake weakening and her growing stronger was a bad combination. Jake found himself solidly on the back foot, having to dodge her constant killing blows within a hair’s breadth. She switched between swipes with her claws, jabs using fists, and occasionally tried to straight-up just bite him.
+
+Her bulky form didn’t lend well to kicks, but she clearly didn’t need them as her sheer attack speed and extreme level of power were more than enough to tear apart most early B-grades effortlessly. Jake’s only saving grace was that she was clearly focused on power over speed – not to say she wasn’t still ridiculously fast - meaning he could barely keep up even in his weakened state.
+
+At least he thought he could. Right as Jake believed he was getting into the flow of things, the Behemoth suddenly let out a loud roar, sending a shockwave through Jake’s soul and shaking his body to its core. For a moment, he found himself frozen as a fist descended towards his head. Briefly, he considered Primal Gaze, but pushed down the idea as he instead gritted his teeth and forcefully stabilized his soul, whipping his head to the side at the very last moment.
+
+The Behemoth was shocked at Jake managing to react that quickly to the soul attack, and wasn’t ready as Jake jabbed Eternal Hunger into her outstretched arm, penetrating nearly all the way to his knuckles.
+
+Twisting her arms, Jake was forced to let go of his katar or risk being thrown around or having his wrist injured. She thought she’d successfully disarmed Jake for a moment, not knowing that Jake could recall his cursed weapon at any point. Not that he planned to do so immediately, as he was totally fine with letting it sit for a while.
+
+Because right then, Jake’s barrage of arcane bolts finally broke through and managed to disrupt the sealing formation as one of the orbs was destroyed. Immediately, all the runes faded away, and Jake felt like he’d just thrown off a weight vest as he sped up, dodging the Behemoth’s following swipes while even managing to land some counters with his Voidblade Katar.
+
+Eternal Hunger also stayed within her arm, tightly sealed by her muscles. Usually, this would probably be a good way to effectively seal a weapon, but Eternal Hunger was so much more than merely a weapon. It was a Sin Curse given physical form, and being in physical contact with such potent energy, how could it not feast?
+
+The curse started spreading throughout the Behemoth’s system, and Jake felt his own vital energy being replenished after his use of Eternal Shadow earlier. This draining of energy from the cursed weapon was naturally felt as the Behemoth flexed her arm, her muscle control truly spectacular as she shot the weapon like a bullet toward Jake. He caught it, giving the Behemoth a thankful look that she seemed to appreciate as she continued her assault.
+
+Not too far away, the Archfiend had also finally recovered somewhat, now floating with a nasty flesh wound in his chest. The sheer disparity in physiques between the Behemoth and Archfiend was almost comical, as one was at the apex of durability and pure bodily might, while the other was a frail mage that took serious damage even from Jake’s regular arrows.
+
+The less straightforward fighting style of the Archfiend did make him a more annoying opponent, though, as he certainly had much more to show for himself than merely a sealing formation and the flame magic he’d displayed so far. He did start using simpler magic, though, as beams of condensed fire energy and firebolts started raining down on Jake from all directions, the flame orbs shooting some, and the Archfiend himself also releasing a few.
+
+There were thousands of attacks coming from all sides, with a clear focus on quantity over quality. Jake could honestly ignore nearly every attack; his passive barrier from Arcane Awakening and his Scales were more than enough to shrug them off. However, the keyword here was nearly.
+
+Mixed in with the weak attacks were a few spells cast directly by the Archfiend. They mixed with all the others, looking exactly the same, and there was even some kind of obfuscation magic cast on them, making Jake unable to detect how much energy each blow contained. These few empowered attacks were more than capable of doing serious damage, forcing Jake to be even more aware of everything.
+
+Fortunately for him, Jake’s danger sense was at a tier beyond the Archfiend's ability to comprehend, allowing him to rely on it to detect which firebolts and flame beams were dangerous, and which he could safely let his scales consume. It wasn’t easy, though, as while dealing with the Archfiend’s assault, the Behemoth didn’t just sit back and watch.
+
+She continued to charge, completely ignoring all the attacks from the Archfiend as they continually struck her, failing to even leave burn marks on her thick hide. All the truly dangerous attacks were aimed at Jake, and her involvement only made things harder, further straining his danger sense.
+
+The pressure was enough to make Jake unable to fully keep up, resulting in him taking a few empowered firebolts that blasted through his defenses and burned his armor to leave blistering wounds. The status quo was not particularly advantageous to Jake, making him switch things up.
+
+Retreating away from a blow from the Behemoth, he made her lunge forward, the strength of her blow less powerful than those prior. Jake quickly raised his feet and allowed her to punch the soles of his boots, launching him straight towards the Archfiend, who did not look ready for this development.
+
+Jake took several empowered spells on the way to his opponent, and to partly counter them, Jake took out his bow and shot a Splitting Arrow Rain towards the many incoming attacks, filling the air with explosions of fire and arcane energy. Under the cover of these explosions, Jake stepped down, keeping all momentum as he teleported behind the Archfiend, who had summoned a powerful barrier in front of him.
+
+Pivoting in the air, Jake released another Splitting Arrow Rain toward the back of the demon, but he reacted quickly as three flame orbs he’d kept close sacrificed themselves to form three walls of flame that destroyed the several dozen incoming arrows.
+
+Jake wasn’t deterred as he continued to borrow the momentum of the Behemoth’s blow to circle the Archfiend while launching several arrows, forcing the demon to defend continually. Not all the arrows Jake shot were aimed directly at his opponent, and some flew faster or slower than others, meaning they arrived at different times.
+
+This gave Jake the opportunity to charge up a quick Arcane Powershot without his barrage of arrows having any pause from the perspective of the Archfiend. He couldn’t charge it for too long, though, as the Archfiend would soon deal with the last arrows, and he still had a Behemoth hot on his ass wanting to tear his arms off and beat him to death with them.
+
+His Arcane Powershot came just in time, and while the Archfiend attempted to defend himself, his barrier was too weak, resulting in him getting blasted back yet again, receiving yet another major wound in the process.
+
+Jake quickly turned, dismissing his bow and switching back to katars as he had a Behemoth to deal with. The two danced for a few dozen exchanges before Jake made distance again, not interested in fighting her with the Archfiend harassing him. If his theory was correct, that she had some kind of berserker skill, wounding her could even end up being detrimental, so he wanted to save their fight for when the demon was no longer a factor.
+
+Chasing after the demon, the Archfiend started teleporting away, leaving flame orbs in his wake that shot out their own spells, trying to slow down or damage Jake. He dodged in between the beams and bolts, slowly closing in while shooting arrows after the fleeing demon.
+
+Due to the sheer volume of attacks coming toward Jake, he more or less spammed out Splitting Arcane Arrow Rain to destroy the demon’s spells and make it harder for the Archfiend to keep track of his position due to the sheer volume of explosions rocking the sky. With Sphere and Hunter’s Mark, Jake had no trouble tracking his opponents, so he tried to take advantage of the difference in detection abilities, and so far, it seemed to work out pretty well for him.
+
+Occasionally, Jake had to deal with the Behemoth, but he found ways to shake her off time and time again, as while she did have a higher flight speed than him, Jake was far more skilled at using her own attacks to propel himself away, and she also didn’t have any teleportation skill, meaning he was faster in some ways.
+
+The battle entered a phase in which the three chased one another across the sky, with constant attacks flying everywhere and dozens of explosions lighting up the sky every second. Jake burned through quite a few resources using this many Arrow Rains in a row, but he believed it was necessary, and slowly, he also started making the skill slightly more effective, building on some of what he’d already been working on before.
+
+Splitting Arcane Arrow Rain was a skill that hadn’t been upgraded for quite a long time, even if Jake used it fairly often. He hadn’t chosen to upgrade it actively; it was just that he never found the right opportunity and questioned whether he even wanted to upgrade it.
+
+Now, Jake had started to have an idea, and as he was struck with several spells from the Archfiend, he noticed a familiar concept infused within them. One he’d stumbled across before and felt when sitting in front of the Gate of Enlightenment, and now, his level of comprehension seemed to click into place.
+
+Only now did he notice that with every spell the Archfiend had successfully hit throughout the fight, the more damage the demon’s subsequent fire magic would deal. It was a slight effect, but it was slowly accumulating, making even the weak and insignificant spells Jake had just ignored serve more of a purpose than merely being distractions.
+
+It was a powerful concept, and definitely not something he could fully mimic with a basic understanding... But it was something he could incorporate alongside everything else he’d worked on over the years.
+
+His Splitting Arcane Arrow Rains started acting differently, as rather than flying straight, many of the arrows started curving, and not all in the same direction either. The arrows began acting more independently, making them more unpredictable and forcing the Archfiend to block from more directions. It was only a few arrows of each Arrow Rain in the beginning, but soon, more and more began to act erratically.
+
+Finally, right before Jake was attacked by the Behemoth once again, it all fell into place. Jake nocked his arrow, pulled back on the string, and before he even released it, he infused his will and channeled power into the arrow. Loosing it, the arrow was sent forward, and the second it left his string, it exploded.
+
+More than fifty arrows erupted from Jake’s bow, spreading out as all homed toward the Archfiend, who had not expected a new form of attack to come out. He defended himself with barriers as more than twenty arrows reached him and exploded all around him. The explosive arcane arrows amplified one another, and as the blasts all made contact with the barrier, they successfully broke through.
+
+The Archfiend was sent flying down towards the ground with crackling, destructive, arcane energy lingering on his body, and Jake could only grin as he followed up with another Splitting Arrow... no... it was Arcane Arrow Storm now.
+
+[Splitting Arcane Arrow Rain (Rare)] – A skill most often used by archers, now usurped and reformed by the Arcane Hunter of Horizon’s Edge. Allows you to clone your arrows while in flight, allowing them to retain innate magical properties. Each arrow has variable strength and can be further split into less potent versions. If the original arrow is shot upwards, you can explode it into hundreds of smaller arrows, creating an Arcane Arrow Rain. Cloning arcane arrows or creating Arcane Arrow Rains using arcane arrows has a far lower mana and stamina cost. Adds a bonus to the effectiveness of Agility and Wisdom when using Arcane Arrow Rain. Increased damage based on Perception and the distance the arrows fall from when creating an Arcane Arrow Rain.
+
+-->
+
+[Arcane Arrow Storm (Ancient)] – The rain has become a storm, seeking to overwhelm anyone who stands in its path with countless arrows. Allows you to clone your arrows while in flight, allowing them to retain innate and infused properties. Each arrow has variable strength and can be further split into less potent versions. Upon loosing an arrow, you can choose to turn it into a storm, erupting forth and splitting as they all fly toward a chosen target or location. Cloning arcane arrows has a far lower mana and stamina cost. Adds a bonus to the effectiveness of Agility and Wisdom when using Arcane Arrow Storm. Increased damage based on Perception and distance traveled by each individual arrow. Adds a damage amplifier for every arrow that hits from each Arcane Arrow Storm.
+
+It was a long-overdue upgrade, and one that Jake found very welcome. The Archfiend? Probably not so much, as he was on the receiving end of Jake making liberal use of his new and improved skill.
+
+Jake had to say, he had initially found this system event a bit boring as he’d spent all his time just destroying the Beacons of factions that didn’t have a single person worth fighting. However, now, seeing the kinds of opponents he could face, he was kind of starting to appreciate it. In fact, he’d say he was very much enjoying himself as he filled the sky with another Arcane Arrow Storm before teleporting to the side, avoiding getting his head torn off by a Behemoth.
