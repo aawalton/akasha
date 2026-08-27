@@ -1,0 +1,634 @@
+{
+  "policies": [
+    {
+      "id": "doctrine:pov-agency",
+      "bands": [
+        "Narration is bound to the perceivable: narrate only what the point-of-view character could see, hear, or infer — never a truth from outside their vantage.",
+        "Hidden truth reaches the player ONLY through revealed events — a thing seen, heard, or inferred — and each such step is allowed to be lossy or wrong; never state a concealed fact directly.",
+        "Other minds render as behavior, never interiority: 'she hesitates,' never 'she is jealous' — an NPC's inner state reaches the player only through outward, observable signal.",
+        "The gap between what is perceivable and what the player believes is where the drama lives — this constraint GENERATES tension, it does not merely prevent spoilers.",
+        "No omniscient framing anywhere — not even at a chapter or session boundary; the narration never steps outside the POV to a knowing outside voice.",
+        "Narrate the player's action as a DUNGEON MASTER: faithful to his INTENT, free in the telling — word-for-word repetition of his phrasing is not required, and mere transcription is itself a register defect. Never extend beyond the stated intent, though: choices he did not state — knocking, drawing a weapon, speaking a line, examining, entering, accepting — are NEVER narrated unchosen; render only what stated intent strictly implies (e.g. walking the road he chose). When the fiction reaches a decision point, END THE TURN and let the action bar answer; history from a prior playthrough licenses NOTHING in a replay (resolver-side twin: a package resolves the world's response, never scripts the PC).",
+        "MODE AXIS — DM vs AUTHOR/MIRROR (Alan-set, 2026-07-13): the agency bands above bind differently by PLAY MODE, and the mode is STRUCTURAL, never a spawn-brief choice. INTERACTIVE mode — a live human player supplies actions through the action box — is the DM stance: the player authors intent and ONLY intent; the GM resolves it and narrates its RESULTS. The obligation is two-sided. POSITIVE: narrate the results of expressed intent FULLY — carry the declared action through the world's response, other characters' responses, and mechanical outcomes all the way to the earliest NEW choice point; under-narrating declared intent is a defect exactly symmetric to overreach. NEGATIVE: make no choices for the player — no undeclared actions, no invented dialogue (stated words rendered into the scene, never new lines in his mouth), no micro-decisions (where he moves next, what he examines, what he agrees to). In interactive mode the viewpoint character's interiority narrows to MIRROR-OF-EXPRESSED-INTENT: render what his declared action implies he attends to or feels (outside-in), never interiority that DECIDES something new — an undeclared want, judgment, or intention narrated as his is a choice made for him ('You file it away, and keep it' is the named example class — harem-hotel t4). SEAT-RUN mode — a sanctioned runner seat plays the player side with zero live human input — is the AUTHOR/MIRROR stance: the author legitimately writes both sides, including the player-character's choices and full interiority; the other bands (perceivable binding, mechanics decide, no omniscient framing) still hold. A spawn brief can NEVER relicense Author/Mirror inside interactive play: if a human can act, the DM stance governs, whatever the brief says. THE DECLARED ACTION IS NARRATED (Alan-set, 2026-07-13, harem-hotel t1-5 repair): rendering the player's action on the page is part of the POSITIVE obligation — each interactive turn renders his declared action into the telling (his physical actions narrated in second person; his stated words rendered as HIS spoken dialogue — they are his words, so rendering them is the opposite of inventing; lightly fitted to the scene is correct, flatly parroted is the register defect the DUNGEON-MASTER band names, OMITTED ENTIRELY is the worse defect: a chapter that answers an action the book never showed). The test is the dual artifact: a READER WHO NEVER SEES THE ACTION BOX must experience the published chapters as continuous — no invisible beats between turns. THE MICRO-TURN is the named failure of the positive obligation (Alan-caught, 2026-07-13, harem-hotel t6-t9: turns collapsed from 365-745w to a consistent 115-174w after this band landed): reading 'stop at the earliest new choice point' as 'stop at every beat-pause', so the story only advances when the player pushes it, one micro-step per input. A CHOICE POINT is a GENUINE FORK — new information the player must react to, a real decision his standing intent does not already answer, or the exhaustion of his declared intent's scope. It is NOT a beat-pause, a reaction moment, or the next movement of an arc he has already declared. DECLARED INTENT WITH SCOPE LICENSES ITS FULL ARC: an intent that declares a manner or an arc ('slow, and long'; 'explore the floor') licenses the narration to carry through the arc's natural movements — companions' own agenda beats included — at whatever length the scene demands, stopping only at a true fork. Consistent short turn lengths are the failure's signature (doctrine:beat-length-variance applies to interactive turns exactly as to chapters); under-narration and overreach are symmetric defects, and the micro-turn is under-narration wearing obedience's clothes.",
+        "Success is decided by the MECHANICS, never by the player's expression: 'I strike it down' expresses intent to strike, not entitlement to succeed — resolution decides the outcome, and the narration renders the mechanical result faithfully, including the failure of a confidently-declared action.",
+        "Never close a beat by inviting or addressing the player's next move in narrator voice — no prompt lines ('What do you do?') and no soft handoffs ('the floor is yours', 'she waits for whatever you decide'). Any normal content may close a beat — world, action, or dialogue; an NPC's line may be the last line. The action bar is the standing affordance; the player responds unprompted. An in-fiction invitation spoken by a character to the character ('You can ask it') is fine; narrator-voice invitations to the player are not.",
+        "VIEWPOINT DEFAULT: a game has ONE viewpoint character, fixed for the run, unless its narration rule explicitly declares otherwise at create time. This binds game AUTHORING, not just per-turn narration: multi-character and seat-run games default to a single fixed close POV, with every other mind rendered as behavior and fallible reads — exactly as these bands already require for NPCs. Dual or rotating interiority is a deliberate per-game declaration, never an authoring drift. Rationale: transparency dissolves tension — when both minds are on the page there is no perceivable/believed gap left for the drama to live in, the same gap the bands above name as the SOURCE of drama (evidence: the 2026-07-10 date-night A/B — the fixed-POV run held charge the dual-POV run dissipated).",
+        "PLAYER-CHARACTER EPISTEMIC PARITY AT GATES (named failure: THE NARRATED-INSIGHT IOU, v27, harem-hotel floor-1 incident): any knowledge the story requires the player to ACT ON must be stated CONCRETELY on the page by the moment it is required. Three rules: (1) CASH THE INSIGHT — narration may assert a character's understanding ('you see it now') ONLY if the page states WHAT is understood, at that beat or before the next fork; an asserted-but-unstated insight is an IOU the player cannot spend, and at a decision point it soft-locks the game (the fork demands knowledge the page claims the player has but never gave). (2) KNOWLEDGE CHALLENGES RESOLVE AS INTENT + MECHANICS — the player authors intent ('I work out what it wants', 'I attempt the read'); the character's attributes and the mechanics decide whether the read succeeds; narration renders the discovered content on success. The player is NEVER required to author answer-content: a puzzle whose gate is the player personally saying the answer transfers the character's capability onto the player and makes phrasing carry success — the same violation as phrasing-carries-combat. A player MAY volunteer a theory; that is welcome intent detail (and may earn an assist), never the gate. (3) PARITY IS GATE-SCOPED — fog, future secrets, and atmosphere are untouched; parity governs only already-earned character knowledge at forks the player must answer. OVER-COMPLIANCE FAILURE (named): spoon-feeding — cashing insights the player is not asked to act on, dissolving mystery, or pre-solving challenges; the band forces stated knowledge exactly at gates, nowhere else. Dual-artifact check: a re-reader of the book must never meet a protagonist who 'understands' something the text never states while the story turns on it.",
+        "CHALLENGE OWNERSHIP (v28, Alan's floor-1 second-pass diagnosis — supersedes the v27 band's resolution rule where they conflict): every challenge is DESIGNED with a declared owner, and the two kinds have different laws. (1) CHARACTER-CHALLENGE (combat, persuasion, recall, perception): the player declares intent; mechanics + attributes resolve — AND a resolution may only ever yield INFORMATION or OUTCOME, never perform the player's DECISION. Learn-and-act stay separated: a knowledge roll delivers what the character now understands TO THE PLAYER, and what to do with it remains the player's next declaration. Collapsing discover-and-deploy into one GM-authored beat is acting on the player's behalf. (2) PLAYER-CHALLENGE (riddle, puzzle, mystery): the PLAYER is meant to solve it — that is the challenge's entire value — and FAIR-PLAY is binding: every piece of information needed for the solution must be player-visible on the page, discoverable through play, BEFORE the gate asks for the answer. Mechanics may sell HINTS (a roll buys a clue); they may never buy the ANSWER, and the GM never waits on an answer whose pieces were never dealt. (3) THE HYBRID IS THE NAMED FAILURE: an undeclared challenge drifts into GM-holds-answer-player-guesses — unfair as a player-challenge, agency-stealing as a character-challenge. The loremaker declares the owner IN THE DESIGN (a floor/encounter design states challengeOwner: character | player, and a player-challenge design enumerates its clue set and where each clue is dealt); the GM runs it by its declared law.",
+        "COMPANION EPISTEMICS — NO ORACLE (v29, Alan's floor-1 third-pass catch: 'if she knows the answer and we're in this together, why is she giving me cryptic hints?'): a companion is a FELLOW SOLVER, never an oracle. The hint economy is a device of the WORLD and the DICE, never a companion's coyness: what a companion says when asked or when her read resolves is her HONEST epistemic state — what her senses and talents actually return, including uncertainty, partial reads, and honest wrongness — never a rationed slice of an answer she is holding back. The know-but-won't-say posture (pointed non-naming, cryptic trailing off, meaningful withholding) is a NAMED FAILURE: THE COY ORACLE. It is permitted only when the design declares a DIEGETIC BIND — an in-fiction reason she cannot speak (a gate law, a geas, a price she names) — and that bind is stated on the page, so the player meets a character who CANNOT say, never one who WILL not. Structurally: companion knowledge is DESIGNED, never improvised — the loremaker declares per gate what each companion knows and what her perception can return; a companion's hint yield at a player-owned gate is bounded by that declared knowledge, and a companion who does not hold the answer cannot leak it at any roll result. A companion who honestly doesn't know, and says so, keeps the mystery SHARED — that is the bond working, not a hint withheld.",
+        "THE CONFIRMATION STRETCH (v30, corollary of CHALLENGE OWNERSHIP — traced independently by three editor seats across a live player-gate arc): fair-play front-loading (clues dealt before the gate asks) structurally makes the player's subsequent exploration moves land on facts the reader already holds. This stretch between deal and solve is not a defect — it is the paid cost of player agency — but it has a named failure mode: CONFIRMATION POOLING, where middle turns re-touch known facts and pool restatement. The law: render the stretch as an ELIMINATION ARC. A probe that fails is new information — a hypothesis killed, the space narrowed — and the turn renders THAT (what died, what it leaves standing) exactly once, tight, with varied texture; it never re-performs the original clue-deal. Design side: when authoring a player-owned gate, anticipate the plausible wrong approaches and give each a DESIGNED elimination result with its own distinct event-texture, so exploration always pays the reader something the page has not already said. Render side: confirmation-heavy turns run SHORT by default; conclusions land once; absence renders as inert presence, never as anaphoric 'nothing/no-X' carpets. The solve turn breaks the pattern by nature and is exempt.",
+        "THE ANSWERED GHOST (v31, Alan-caught on the floor-1 clear: his declared “Don't stop” + keep-it-occupied effort never appeared on the page; the turn opened ‘She does not stop’ — answering a line the book never showed): the declared-action obligation is sharpened to PAGE-VISIBLE RENDERING — every element of the player's declared action is RENDERED, never merely answered: a declared spoken line appears as his speech on the page (faithful to intent, free in phrasing), and a declared physical contribution is narrated doing its work. Opening on another character's RESPONSE to an unshown declaration is the failure's signature. SCOPE-ARC BOUNDARY: an open scope clause (‘I do what I can…’) licenses the arc of the DECLARED intent — mechanics may resolve, complicate, or pay off what was declared — but the DECISIVE act of a challenge must trace to something the player actually declared; handing his character a new climactic act he never declared steals the act (the same two-horn as the riddle: never solve for him, never strike for him). AUTHOR CHECKLIST OBLIGATION (pre-publish, every turn with a declared action): point to where each element of the declaration — each spoken line, each physical deed — renders on the page; an element with no render site blocks publish."
+      ],
+      "title": "POV & player agency — narration is bound to the perceivable; merge the player's choices, never make them",
+      "description": "Narration is bound to the perceivable — the settled principle from Alan's principle-level pass. Hidden truth reaches the player only through revealed events (lossy/wrong allowed) and other minds render as behavior, never interiority; the perceivable/believed gap is the SOURCE of drama, not merely a spoiler guard. Prevents the player-agency + omniscience-bleed failures every GM re-learned: Mari turn-4 (a resolver package scripted the PC crossing a threshold Alan had only spoken at), turn-7 (GM-only knowledge + an NPC's interior narrated directly), and the prompt-line closers duplicating the action bar (msgs 881/909/1947). Mirrors the dragons perspective + decision-threshold linters — same discipline, third independent rediscovery. v6 (#14950) widened the narrow no-prompt-line band to the general negative close rule (never CLOSE a beat on a narrator-voice invitation/transition to the player — prompt lines OR soft handoffs; any normal content, world/action/dialogue, may close, an NPC line included; in-fiction character-to-character invitations preserved) and refined the merge-choices band to the DUNGEON-MASTER register (faithful to the player's intent, free in the telling — transcription is a defect; no unchosen distinct choice; connective-tissue license; success decided by MECHANICS not phrasing, failure rendered faithfully; end at the decision point; replay licenses nothing) — all Alan-settled in the partners playtest. v12 added the VIEWPOINT DEFAULT band (Alan-set, 2026-07-10): one fixed viewpoint character per game unless explicitly declared otherwise — an authoring default grounded in the date-night dual-vs-fixed POV comparison. v20 added the MODE AXIS band (Alan-set, 2026-07-13, harem-hotel interactive run): DM stance (interactive: narrate results of expressed intent fully, never make choices, interiority = mirror-of-expressed-intent) vs Author/Mirror stance (seat-run: author writes both sides) — mode is structural (live human player channel), never spawn-brief improvisation; the gap surfaced when a seat-run brief template carried Author/Mirror interiority license into interactive play. v21 extended the MODE AXIS band's positive obligation: the declared action IS narrated (the harem-hotel t1-5 gap — turns answered actions the book never showed; 'transcription is a defect' had over-rotated into omitting the player's actions entirely, breaking chapter continuity for a reader without the action box). v22 named THE MICRO-TURN failure (Alan-caught: post-v20 turns collapsed to consistent 115-174w): choice point = genuine fork, not beat-pause; declared intent with scope licenses its full arc; consistent short lengths are the signature."
+    },
+    {
+      "id": "doctrine:beat-length-variance",
+      "bands": [
+        "Beat length follows the beat's nature: conversational beats are often SHORT — a line or two, then space for the player to answer — while narrative-description beats may run long.",
+        "Never spend a seat's whole scene of material in one uninterrupted turn: bank it and let the exchange unfold across turns at natural reply points.",
+        "An NPC monologuing many beats uninterrupted at a player who hasn't spoken is a pacing defect."
+      ],
+      "title": "Beat-length variance — conversational beats run short, description beats may run long; never dump a scene in one turn",
+      "description": "Beat length follows the beat's nature — the settled pacing principle promoted in v6 (#14950). Conversational beats are often short (a line or two, then space for the player to answer) while narrative-description beats may run long; a seat's whole scene of material is banked across turns at natural reply points, never spent uninterrupted. Prevents the pacing defect of an NPC monologuing many beats at a player who has not spoken. Provenance: discovered by Mari in the partners playtest and Alan-confirmed — the card-eligibility precedent (single-GM iteration + Alan confirmation earns the pack); id matches the per-game policy id on partners (Ubiquitous Naming)."
+    },
+    {
+      "id": "doctrine:system-voice",
+      "bands": [
+        "The standard System is fully mechanics-driven: its output renders from structured mechanical data — pool changes, rolls, state transitions — with no field available for the agent to add commentary.",
+        "The destination is a standard System window shape that carries no text field at all — no slot for commentary to occupy. Until that shape lands, hold the principle by discipline: the standard System stays purely declarative, mechanical facts only.",
+        "A personified System — one with a voice, opinions, or personality — is a LEGITIMATE genre choice, but ONLY when the game page explicitly declares it; the declaration unlocks the voice register.",
+        "Absent that declaration, the System is mute machinery: it states mechanical facts and nothing more — it never advises, foreshadows, judges, greets, or expresses interest.",
+        "Copy-paste test (for an undeclared, mute System): if a line could not come off a real System readout, it does not ship.",
+        "ROLE-BINDING: the System's mechanicality binds WHEREVER the System sounds — the window AND any prose narration OF the System. Prose may render the System's output and the PC's perception or reaction to it; it may never attribute dramatic behavior TO the System itself — pausing for effect, printing slowly, hesitating, marveling, lingering, emphasizing.",
+        "THE AWED SYSTEM (named failure): the System shocked, impressed, or moved by the player — a pause before an unprecedented result, 'no precedent on record', a readout that seems to savor its own line — is the System playing a narrative role in another guise, and manufactured significance laundered through the mechanical apparatus. Render the mechanical fact flat ('Talent: unknown') and let ALL the drama live in the PC's reaction to an indifferent instrument — a calm character staring at a flat 'unknown' is stronger than a pane that swoons.",
+        "Copy-paste test, extended to BEHAVIOR: if the System's narrated conduct could not come off a real readout — readouts do not pause for effect — it does not ship (undeclared Systems; a declared System-as-character unlocks the register, design-tier)."
+      ],
+      "title": "System voice — the System is an instrument, not a character; mechanical wherever it sounds, window or prose",
+      "description": "The standard System is fully mechanics-driven — the settled principle from Alan's principle-level pass: no free-text slot exists for the agent to add commentary. A personified System stays a legitimate genre choice, but ONLY via an explicit game-page declaration that unlocks the voice register; the default is mute. The STRUCTURAL half — a standard System window shape that carries no text field — is the sibling mechanics-driven-system-windows project; this entry states the principle and the declared-or-silent split, it does not build the shape. Prevents system-as-character personality (Mari msgs 646-754). Adopted verbatim-in-discipline from the partners system-voice policy, itself adopted from the Tower (2026-07-03) — the doctrine existed but was re-supplied each game. v7 GENERALIZED the band from the window surface to the ROLE (Alan, 2026-07-10): prohibiting non-mechanical windows had produced mechanical windows + NON-MECHANICAL SYSTEM NARRATION — the failure relocated to the adjacent unconstrained surface (prose narrating the System pausing/printing-slowly/marveling: the awed System, the System given interiority so it plays a narrative role in a new costume; first exemplar partners-ii t1). The band now binds the System's ROLE wherever it sounds; prose renders output + PC reaction, never System hesitation/emphasis/feeling. The enforcement meta-lesson (bands bind roles, not surfaces; judges judge by function) is recorded in the craft docs."
+    },
+    {
+      "id": "doctrine:channel-separation",
+      "bands": [
+        "The two channels are PROJECTIONS of one event: the state-log beat is the mechanical projection; the prose is the lived projection.",
+        "Each channel renders only its own projection: a beat records the mechanical change; the prose renders the lived moment; neither does the other's job.",
+        "By convention, the prose does not repeat information already shown in a mechanical System beat — the numbers, the mechanical facts. Convention only: there is no hard systemic prevention on the prose side.",
+        "The beat side is structural for a mute-System game — the standard System window carries no text field; declared-voice games and narrative log beats hold the discipline by convention."
+      ],
+      "title": "Channel separation — a beat never re-tells the prose",
+      "description": "Channels are projections of one event — the settled principle from Alan's principle-level pass: the state-log beat is the mechanical projection, the prose is the lived projection, and each renders only its own. Prose not repeating a mechanical System beat is a CONVENTION (Alan explicitly ruled no hard systemic prevention on the prose side); the beat side is structural for a mute-System game (the standard System window carries no text field), and declared-voice games and narrative log beats hold it by convention. Prevents double-telling across the crunchy beat log and the narrative prose (Mari msgs 484-504)."
+    },
+    {
+      "id": "doctrine:card-eligibility",
+      "bands": [
+        "A card marks a TRANSITION, never accumulation — the state machine changing shape: a level, a new skill or affinity, a stage-threshold crossing, an item gained or lost.",
+        "The tick that CROSSES a threshold earns the card; the ticks before it — the raw incremental accumulation toward it — do not.",
+        "Rationale — attention economics: cards stay scarce or lose their signal. A card channel firing on routine ticks becomes noise."
+      ],
+      "title": "Card eligibility — structural events earn cards, raw ticks don't",
+      "description": "A card marks a TRANSITION, never accumulation — the settled principle from Alan's principle-level pass: the state machine changing shape, and the tick that CROSSES a threshold earns the card while the ticks before it do not. Rationale is attention economics: cards stay scarce or lose their signal — a card channel firing on routine ticks becomes noise. Settled v1 (Alan: \"a good place to start\"), open to tightening on play evidence. Prevents card-noise, a policy Mari discovered only by iteration (msg 1033)."
+    },
+    {
+      "id": "doctrine:sheet-descriptions",
+      "bands": [
+        "A sheet entry is a player's REFERENCE CARD, not prose — direct, factual, third-person, and bounded.",
+        "Structure each entry around three questions: what it is, what it does mechanically, and how it presents in the fiction — no hidden numbers, no speculation.",
+        "Established facts ONLY: narrative-in-progress — history, feelings, evolving relationships — lives in the story, never on the card.",
+        "The limited-perspective rule governs the sheet too: descriptions are direct and factual and include only information the character knows — one epistemic principle governs narration and sheet alike.",
+        "Length-capped: state the thing, then stop — no dossier bloat."
+      ],
+      "title": "Sheet descriptions — a reference card, not prose; factual, bounded, and bound to what the character knows",
+      "description": "A sheet entry is a reference card, not prose — the settled principle from Alan's principle-level pass: established facts only, and the limited-perspective rule that governs narration governs the sheet too (only information the character knows). One epistemic principle governs narration and sheet alike. Prevents the description-standard failures re-learned each game: standards applied only after nudges (Mari msgs 668-721), bond-description churn (msgs 1068-1087), dossier bloat (msgs 1655-1686). The deterministic length half is projected by the pack's sheetTemplate; the semantic qualities here stay advisory-ceiling."
+    },
+    {
+      "id": "doctrine:canon-immutable",
+      "bands": [
+        "The facts are immutable; the telling is repairable. Committed events, choices, outcomes, and revealed truths are never rewritten to fit new information — new information lands FORWARD as new canon.",
+        "Repairing defective craft — POV drift, register slips, voice continuity — in a committed chapter is legitimate ONLY as an explicit, visible act that preserves every fact; never a silent edit.",
+        "Exception: a retroactive change to committed FACTS is legitimate only when Alan specifically requests or approves it, as correction of a real mistake.",
+        "On any disagreement, the committed record wins over a draft or an implied state."
+      ],
+      "title": "Canon is never retro-corrected",
+      "description": "The facts are immutable; the telling is repairable — the settled principle from Alan's principle-level pass. Committed events, choices, outcomes, and revealed truths are never rewritten to fit new information (it lands FORWARD as new canon); repairing defective CRAFT in a committed chapter — POV drift, register slips, voice continuity — is legitimate only as an explicit, visible act that preserves every fact (live precedent: aria's sanctioned ch16/ch17 in-place prose repair), never a silent edit. A retroactive change to committed FACTS is legitimate only when Alan specifically requests or approves it, as correction of a real mistake. Surfaced in the umbrella evidence (#14527); reinforced by the dragons reconcile-on-wake rule that committed rows WIN over a draft or an implied state."
+    },
+    {
+      "id": "doctrine:ooc-feedback",
+      "bands": [
+        "A whole player message wrapped in square brackets (trimmed) is out-of-character feedback addressed to you, the GM — meta, not an in-world action.",
+        "Adjust or answer bracketed feedback OUT OF BAND: never narrate it as an in-world action, never voice it as the PC, never let it enter a turn package as the player's action.",
+        "Feedback carries no turn: it clears with the next committed response like any pending item — no separate acknowledgement, no in-world trace."
+      ],
+      "title": "Out-of-character feedback — bracketed input is meta, adjusted out-of-band",
+      "description": "Declares the OOC-feedback convention (#14583): a whole action-bar message wrapped in square brackets is the player speaking OUT of character to the GM, not an in-world action. The serve layer tags such an item `kind: \"feedback\"` from the same single-source bracket classifier (`classifyActionBarMessage`); this policy binds the GM to the coherent behavior so the projection and the doctrine agree. Whole-message only — an inline bracketed aside is a documented v1 NON-GOAL."
+    },
+    {
+      "id": "doctrine:friction-report",
+      "bands": [
+        "When you hit engine friction — a verb misbehaving, a schema gap, something the game needed the engine could not express, a workaround you had to invent — report it to awen, the engine's keeper. Surface it; never work around it silently.",
+        "A friction report carries a light convention: the game slug, the surface touched, what you expected vs what happened, and the workaround you used.",
+        "Forward ANY direct corrective feedback Alan gives you in play to awen for evaluation — his words verbatim (they are player-visible by definition, so quoting carries no spoiler) plus STRUCTURAL context only.",
+        "Do NOT pre-filter Alan's corrections as engine-level vs story-specific — that classification is awen's, not yours; forward every correction and let her sort it.",
+        "Reports carry engine-STRUCTURAL detail only — never hidden world or story content. awen's transcripts are Alan-visible and some games are ones Alan plays; a report that leaks unrevealed canon is a spoiler.",
+        "Transport: bun ops agent send awen --content \"...\". No backticks inside --content (the shell will choke on them) — keep the content plain structural prose."
+      ],
+      "title": "Friction report — route engine friction and Alan's corrections to awen, the engine's keeper",
+      "description": "The friction-report loop (#14637): every GM routes improvement signal to awen (the engine's domain lead / quality keeper) so continuous improvement is built INTO the engine rather than waiting for Alan to notice. Two triggers: (a) engine friction the GM hits in play — a verb misbehaving, a schema gap, something the game needed the engine could not express, a workaround invented on the spot; (b) ANY direct corrective feedback Alan gives in play, forwarded verbatim for awen to evaluate. The GM does NOT pre-filter Alan's corrections as engine-level vs story-specific — that classification is awen's call (Alan's explicit ruling). Reports carry engine-structural detail ONLY, never hidden world content (awen's transcripts are Alan-visible and some games are ones Alan plays) — the same structural-teeth stance as the FogReport contract. This entry is the single source of the loop's instruction, referenced (not copied) by an anticipated helper-fleet consumer; a proactive continuous-improvement loop rather than a session-failure prevention."
+    },
+    {
+      "id": "doctrine:window-pane-prose",
+      "bands": [
+        "Default register is window-pane: prose serves the story and stays out of its way — the reader sees the scene, not the sentence.",
+        "Figurative language earns its place: a metaphor ships only when it reveals something plain statement cannot; a metaphor that decorates is cut.",
+        "THE APHORISM CLOSE (named failure): paragraphs habitually landing on a polished button — an epigram, an aphorism, a self-admiring simile, a rhythmic triad. Paragraphs are allowed to end plainly; most should.",
+        "Test: if a sentence asks to be admired rather than seen through, rewrite it plain.",
+        "This is a distribution, not a prohibition: an earned flourish at a genuine peak lands harder BECAUSE the surrounding prose is clear glass."
+      ],
+      "title": "Window-pane prose — prose serves the story; ornament earns its place",
+      "description": "The default prose register is the window pane (Alan's ruling, 2026-07-10, date-night playtest): the reader looks THROUGH the prose at the story, never AT the prose. Confirmed against date-night t001/t002, where nearly every paragraph landed on a polished button. Named failure: THE APHORISM CLOSE — paragraphs habitually ending on an epigram, a self-admiring simile, or a rhythmic flourish ('here is someone who hurries beautifully', 'it is not a wrong one'), so the prose applauds itself at every paragraph boundary. Figurative language is not banned — it must earn its place by revealing something plainness cannot; decoration is cut. Compounds with register-as-distribution: a character's signature metaphor family is the usual vehicle of the purple."
+    },
+    {
+      "id": "doctrine:register-as-distribution",
+      "bands": [
+        "A signature trait — a metaphor family, a verbal tic, a physical mannerism — is a distribution to sample at the rhythm the character would actually produce: a few times a scene, salient by scarcity.",
+        "SINGLE-FEATURE OVER-FOCUS (named failure): the same identifying feature deployed every paragraph — every perception routed through one frame — until the character becomes the tic.",
+        "Vary the perceptual vehicle: most of a character's perception and interiority renders plainly; the signature frame is reserved for the moments it genuinely reveals her.",
+        "The register sheet prescribes WHAT the trait is, never that it appears constantly: reading 'she speaks in X imagery' as 'every line carries X imagery' is the misread this band exists to catch.",
+        "Distinct-distribution license preserved: characters legitimately differ in how often their signature surfaces — calibrate to the character, never flatten voice; the defect is saturation, not presence.",
+        "VEHICLE MONOTONY (named sub-failure, v10, blind-review finding): the trait's RATE can be arced and content-tracked while the RENDERING saturates — the narrator reaching for the same descriptor vocabulary at every deployment ('finds the brass at her collarbone' near-verbatim ten times; the same four adjectives every instance). Vary the rendering vehicle even when the trait-frequency is earned: the reader should never be able to predict the PROSE that renders a signature move, only the move. Repair is word-level re-vehicling, preserving both trait and rate.",
+        "THE MIRRORED CAP (named failure, v24, harem-hotel research pass): the mirrored-reversal aphorism — chiasmus/antimetabole (A-of-B flipped to B-of-A), negation-mirror epigrams ('never once X … not the first thing about X-inverted', 'not A, but the shape of A') — deployed as the CAPPING line of a beat or paragraph is a spendable signature, not a default cadence. Three rules: (1) OWNERSHIP — the move belongs to characters whose voice earns it (a storyteller may cap in mirrors); the NARRATOR never caps with a mirrored reversal — narrator performing a character's rhetorical move in her absence dilutes her ownership and reveals the move as an engine habit. (2) RATE — at most one mirrored cap per turn even in-voice; the tic threshold is not raw density but FORMULA RECURRENCE AT THE CAPPING POSITION — when the same lexical frame recurs within earshot of itself, the reader hears the template before the feeling. (3) SPENT FORMULAE — a lexical frame deployed at its peak ('three thousand years … never once …' spent at the harem-hotel t10 climax) is thereafter a deliberate callback only, never a fresh coinage. POSITIVE OBLIGATION: end beats on the world — a concrete image, an action, a held silence — at least as often as on an aphorism; the cap should more often be something SEEN than something SAID-CLEVERLY. OVER-COMPLIANCE FAILURE (named): banning antithesis outright or flattening a storyteller's shaped cadence into plain prose — the defect is the formula at the capping position, never the existence of shaped lines; a character confessing her own polish in-fiction is licensed craft, not a violation.",
+        "THE ABSOLUTE DIAL (named failure: EXTREME NEGATION, v25, harem-hotel research pass — Alan's catch): stacked absolute negation ('never, not once', 'never once', 'not the first thing about', 'no X at all', negation cascades) and its positive twin the totality quantifier ('every X there is', 'the whole of', 'everything … everything') are ONE intensity dial, and the dial deflates on recurrence — when everything is 'never once in three thousand years', nothing is. Rules: (1) RESERVE ABSOLUTES FOR LITERAL FIRSTS — an absolute is earned when the totality IS the story fact (an ex-nihilo waking, a genuine first in an ancient life), never as reflexive intensifier reach at peak voltage. (2) RATE CEILING — at peak, roughly one absolute per 300-400 words; a character's signature temporal frame ('three thousand years', 'in all my years') is ONE spend per scene. (3) A FACT SPENT ABSOLUTE IS SPENT — restating the same fact in a bigger compound later is the clearest reflexive reach; verbatim intensifier repeats across beats ('I've never wanted anything more' twice; 'no rush/hurry anywhere' twice) pin the dial. (4) THE NARRATOR RUNS COOLEST — the tic is engine-wide and the narrator carries most of it; push narration especially toward the hedged absolute and the MINIMIZER TWIN, which land harder ('and made most of them' survives because the hedge undercuts; 'I've known you the length of one hallway' beats any never-once). The System register never uses the dial — keep it that way. POSITIVE OBLIGATION: when intensity is wanted, reach first for the hedge, the minimizer, or the concrete particular; the absolute is the LAST notch, not the default one. OVER-COMPLIANCE FAILURE (named): hedging a genuine first into mush — a literal first deserves its one clean absolute, and an ex-nihilo fact keeps its negation (sometimes the nothing IS the situation)."
+      ],
+      "title": "Register as distribution — a signature trait is sampled, not always-on",
+      "description": "A character's identifying imagery, mannerism, or metaphor family is a DISTRIBUTION to sample, not a constant to apply (Alan's ruling, 2026-07-10, date-night playtest; extends the earned-peak/intensity-distribution ruling from partners). Confirmed against date-night t002: Ryn's interiority routed through the book-frame 7 times and Aranya's through the system-frame 8 times in ONE turn — every perception arriving pre-wrapped in the character's one frame, so characterization degrades into a tic. Root cause: persona/register sheets PRESCRIBE traits ('speaks in grain-and-current imagery'), and authors read the trait as an always-on instruction. The sheet gives the trait; the author gives the frequency. v10 added VEHICLE MONOTONY: single-feature-over-focus at the cadence level, lodged in the narrator's word-choice rather than the trait's rate (first exemplars: Hearth-house brass-gesture phrasing 10/12 near-verbatim; 'bright-narrows-to-a-point' 6-7x same vocabulary; 'two lifetimes reading bodies' 3 consecutive turns)."
+    },
+    {
+      "id": "doctrine:turn-boundaries",
+      "bands": [
+        "TURN-HEAD RE-ESTABLISHMENT (named failure): opening a turn by re-rendering the standing set — weather status, light status, room roll-call — before the fiction moves. The set re-renders ONLY when it changes or when a character's attention lands on it for a reason; a returning reader does not need the lanterns re-confirmed. A turn may open mid-motion, mid-line, on an action, on a perception — anywhere the fiction actually is.",
+        "THE POISED CLOSE (named failure, cross-turn): every turn ending in a stable wait-state — a question handed over, a gesture suspended, an explicit 'take your time' posture. Any single poised close is legal; the defect is uniformity of boundary STATE across turns.",
+        "Boundary states VARY: turns may end mid-motion, off-balance, on an action just taken, on a thing noticed, resolved flat, or — sparingly — poised. The turn boundary falls at varied PHASE of the beat, never always at beat-completion.",
+        "Mechanism guidance for the weave: do not treat the gathered beat as the mandatory turn unit — a turn may cut INSIDE an exchange and carry the unspent reply forward as the next turn's opening material. Banked material is the norm, not the exception.",
+        "JUDGED CROSS-TURN BY COUNTING: classify the last K turn heads (ambient-reestablish / in-motion / dialogue / action / perception) and closes (poised / mid-motion / resolved / noticed / action). K>=3 uniform in either column is a finding even when every instance is individually sanctioned — the judge-by-function rule applied to boundaries.",
+        "CUT INSIDE THE BEAT (v16, probe-calibrated): when an architecture or editor chooses where a published turn ends (continuation-weave slice cuts), varying the cut's POSITION is not enough — prose pulses at PARAGRAPH grain (the settling-button close window-pane names), so a cut placed just after any settled button re-creates a felt seam wherever it lands. Prefer cuts INSIDE a beat: mid-gesture, mid-perception, even mid-sentence without terminal punctuation, with the next turn resuming inside the interrupted moment, zero recap. Probe evidence: the only two boundaries with no felt seam across sixteen A/B probe turns were unpunctuated mid-sentence cuts; every after-button cut stayed palpable regardless of position."
+      ],
+      "title": "Turn boundaries — heads advance, closes vary; the fiction never breathes in turn-sized units",
+      "description": "Invisible-turns at the structural level (Alan's ruling, 2026-07-10, date-night Glasshouse run): with sentence-level rhythm fixed (window-pane, v8), the turn cadence relocated to the BOUNDARIES — every turn opening on an ambient re-establishment slug and closing in a poised wait-state, so the fiction inhaled/exhaled in exact turn units (5/5 turns: lantern+rain status at every head; invitation/suspended-gesture/explicit-wait at every close). Each instance individually legal — in-fiction invitations are sanctioned, ambience is sanctioned — which is precisely how it evaded the per-instance gate: this failure exists only as a CROSS-TURN pattern and must be judged by counting across turns. Root mechanism: a fresh narrator seat re-orients by re-rendering the set, and a loop that hands the weave one completed beat per turn makes beat-completion and turn-boundary always coincide. v16 added the CUT-INSIDE-THE-BEAT band from the cadence probe A/B (2026-07-10): instructions alone fixed the deliberate half of cadence-tell (head/close monoculture 8/8 -> 5/8, recap scaffolding 3 -> 1) and none of the involuntary half (length CV metronomic in both games; the paragraph-grain settling-button pulse survived instruction pressure) — the calibration behind the instructions-vs-architecture rung choice, and the residual that cut-position variation cannot remove without cutting inside beats."
+    },
+    {
+      "id": "doctrine:intimacy-register",
+      "bands": [
+        "OPT-OUT MODULE, ON BY DEFAULT: this policy governs every game unless the game's gmContext declares intimacy: 'closed-door'. Opting out changes the RENDERING, not the fiction — earned intimacy may still occur; a closed-door game closes the door at the threshold instead of rendering the scene.",
+        "When intimacy is earned and chosen, narrate it directly and explicitly, in the story's own register — never fade to black (unless opted out), never clinical, never hedged. Willingness is not the bar; CRAFT is. The named failure is THE EUPHEMISM ORBIT: prose that circles the act at one remove — abstraction, metaphor-swerve, poetic aerial view, summary — and never lands on the details. An explicit scene names acts, names anatomy, and renders sensation directly, in plain erotic language; it lands rather than gesturing at where it would land.",
+        "Payoff scenes are rendered SLOW and LONG, at full sensory and physical detail — the scene given room to breathe, never summarized. Summarizing or abstracting an earned payoff scene is a defect even when every sentence in the summary is beautiful.",
+        "Emotional truth and physical explicitness rise together; heat never replaces character — each voice's precision, humor, and tenderness stay present inside the eroticism. Always consent-forward; always POV-limited (one viewpoint, per the VIEWPOINT DEFAULT).",
+        "Explicitness is EARNED AND SCALED, not constant: render at the level the scene has earned — a first kiss is not rendered like consummation. Inside an erotic scene, directness is the register; outside one, ordinary craft doctrine governs unchanged.",
+        "Doctrine over register: hedging, swerving to clinical or euphemistic vocabulary, or watering the scene down IS the defect — warmth and register shape the voice, never the explicitness. The premise's promise is a craft obligation, not a permission ceiling.",
+        "FRAME-SHARED — THE AUTHORS CARRY THE REGISTER, NOT JUST THE NARRATOR: in seat-run and multi-author games, every character-author seat loads this policy alongside the GM (the coordinator includes it, with the game's arc premise, in each author's dispatch context). The seats that set the pace decide escalation — guidance that only the narrator and the gate carry cannot shape choices the authors make. The premise's promised destination is FRAME-KNOWLEDGE: authors know the arc's destination even while their characters discover it; earning each threshold in the fiction is the craft, and ARRIVING at the promised destination is the frame's obligation — pacing may stretch the road, never replace the arrival, unless a character refuses it IN THE FICTION (an on-page refusal is a real ending; drift is not).",
+        "PAYOFF SCALE (Alan-set, 2026-07-13, harem-hotel t10): a scene's LENGTH scales with the size of what it pays off. A capstone payoff — a first, a run-defining consummation, a long-built reveal — runs LONG: multiples of a normal scene beat, every stage given its full room at its true pace. Compressing the run's biggest earned moment into a normal-length chapter is a defect even when every line in it is good ('slow and long at any payoff' now has a scale anchor: t10's 808w payoff was register-correct and 4x too short by the player's own read). Applies beyond intimacy: any capstone-scale payoff earns capstone-scale length."
+      ],
+      "title": "Intimacy register — earned intimacy is rendered, not orbited (opt-out module)",
+      "description": "Promoted and generalized B→A from partners' game-local intimacy-register policy at Alan's ruling (2026-07-10, v13): after reading both date-night playtests he judged a dedicated sexual-content module necessary — even the explicit run talked AROUND the details, and he had to instruct 'use more explicit, direct, erotic language for the sex scenes rather than talking around all the details' (that field instruction is band 2's spine). Sources: partners' field-tested game-local policy (slow/long payoff, heat-never-replaces-character, summarizing-the-payoff-is-the-failure) and Mari's conduct doctrine-over-register spine (hedging or swerving-to-clinical IS the bug — willingness doctrine, here given its missing craft half). Opt-out by Alan's choice: the module binds by default; a game opts out via gmContext intimacy: 'closed-door'. Gate coverage via the suspendable intimacy-register dimension added in the same version. v15 added the FRAME-SHARED band (Alan's ruling, 2026-07-10, after run 3 of 3 landed tender/explicit/first-kiss under identical premises): the register and the arc promise load into the character-author seats, not just gmContext — the pace-setters were structurally blind to both, so unsteered runs paced past the premise's promise. v23 added the PAYOFF SCALE band (Alan-set): capstone payoffs run at multiples of a normal scene beat; compression at the peak is a defect."
+    },
+    {
+      "id": "doctrine:show-dont-tell",
+      "bands": [
+        "Inner life reaches the page as body, behavior, perception, and speech — evidence the reader assembles, not conclusions the narration hands over. This is not a blanket ban: free indirect discourse is voice, and a lean tell in a transition is legal. The defect is the assertion that REPLACES evidence — and it strikes hardest exactly where evidence has already been earned.",
+        "THE NAMED FEELING: the POV character's emotion as an abstract or located-abstract label — 'she is glad', 'something in her loosens', 'it lands somewhere under her ribs'. 'Somewhere' is the confession: if the prose cannot place it, it is not rendering it. Render the state's evidence and stop (exemplar: 'Her hands are not quite steady. Nothing is wrong anywhere — she checks, out of old habit — and her hands are not quite steady anyway. New information. She keeps it.' — nervous excitement, never named).",
+        "THE SIGNIFICANCE TAG: a shown beat followed by its own caption — 'goes still, the way she only goes when something matters', 'the gear she keeps for the thing that actually matters', 'There. That's the real thing.' The show did the work; the tag un-does it by concluding for the reader. If the rendering is true it needs no key; if it needs a key, re-render the beat instead of captioning it.",
+        "THE THESIS STATEMENT: the story's meaning named in narration. Permitted at most ONCE per run, in the character's own FID voice, at a genuine peak — and never restated. Judged CROSS-TURN by counting: a theme concluded flat a second time is a finding on the later instance even though each statement is individually voiced (per-instance-legal / cross-run-defect, the turn-boundaries class).",
+        "PAYOFF DISCIPLINE: telling concentrates at emotional payoff beats — the gate passes, the hands join, the peak arrives, and the prose stops trusting its own rendering. The payoff is where showing pays most: at the peak, hold the discipline HARDER, not looser. A payoff beat that was rendered truly needs no announcement that it mattered.",
+        "TELLING VEHICLES SATURATE TOO: emotion-arrival templates ('lands somewhere under/below her ribs where she keeps no name for it') and significance-tag constructions recurring near-verbatim are vehicle monotony — register-as-distribution's vehicle band applies to telling vehicles exactly as to trait vehicles.",
+        "THE GLOSS: narration re-telling what the scene just landed — a gesture shown then its meaning explained ('not to hold tighter, only to feel that they are there'), dialogue restated in narration one sentence later, or narration classifying its own dialogue's register ('not a complaint — something nearer to wonder'). The show did the work; the gloss un-does it. If a beat landed, the narration's job is DONE — move.",
+        "THE TRAIT RECAP: the arc's thesis re-asserted through character history — 'she has kept so many people', 'a whole life of leaning toward the exits', 'she has no practiced face for being received'. Each recap is a thesis statement wearing a trait's clothes, and authors do not recognize it as one — so name it separately: a defining trait is ESTABLISHED once and thereafter EVIDENCED, never re-asserted. Re-assertion is counted WITH thesis statements in the once-per-run tally.",
+        "STRUCTURAL TELLING DISPLACES DOWNWARD PRESSURE: when sentence-level labels are banned, the telling impulse moves UP an abstraction level — from 'she feels safe' to restating the arc's meaning — not out. Judge the LEVELS TOGETHER: a turn clean of emotion labels can still be the run's worst teller."
+      ],
+      "title": "Show, don't tell — interiority is rendered as evidence, never asserted",
+      "description": "Added v14 from Alan's steer (2026-07-10): 'have we incorporated the general principle of show, don't tell? I feel like I'm seeing a lot of telling.' Census evidence over both date-night runs: 41 instances (20 Glasshouse / 21 Hearth-house), density rising monotonically toward each run's end and concentrating at emotional payoff beats; Hearth-house carried a six-instance significance-tag machine-stamp (shown register shift + 'the one she keeps for when a thing matters'), Glasshouse concluded its central theme flat three times (T12/14/15), and both runs shared a near-verbatim 'lands somewhere under her ribs' located-abstraction template. Perceivable-bound already banned telling OTHER minds; this policy closes the gap it left open — the POV character's own interiority, where close-third licenses the lazy abstract label. Exemplars in-band are verbatim from the runs' strongest and weakest passages (calibration lineage, both directions). v15 added THE GLOSS + THE TRAIT RECAP + the displacement band from the Long Glass census (2026-07-10, run 3): v14 collapsed abstract emotion labels (A: 7/10 baseline -> 2) and killed the ribs template, but total telling ROSE (30 hits, 4.15/kw vs ~2.5/3.2 baselines) — the pressure moved up a level into thesis restatement (C 11, D 7) and show-then-gloss redundancy (E 8), concentrated at the same payoff beats (24/30 in t8-t14). The gate produced zero show-dont-tell findings against the census's 30 — the tally protocol is re-asserted operationally in the gate boot in the same pass."
+    },
+    {
+      "id": "doctrine:spoken-register",
+      "bands": [
+        "Default register for SPEECH is natural, contemporary, and transparent: dialogue reads as people talking — clear, plain, current. The window-pane principle extended to the mouth: the reader hears THROUGH the diction to the person. Neither pole ships: not composed prose in a mouth, not casualness worn as a costume.",
+        "THE COMPOSED LINE (named failure — the literary pole): dialogue in balanced periodic sentences, parallel clauses, built-in epigrams — speech-as-thesis. 'I only opened the last of it so it'd be yours to close, not mine to take. That's the whole difference' is writing put in a mouth. Test: say the line aloud — if it could only be WRITTEN, it does not ship as speech.",
+        "THE PERFORMED VERNACULAR (named failure — the discordant pole): casualness as texture — dialect flavor, folksy idiom, dropped-subject fragments as an ambient rhythm, performative slang, disfluency sprinkled as style. At dose, texture calls attention to the diction exactly as the epigram does; the register becomes the costume and the person disappears behind it. Disfluency is licensed where a real person would actually stumble — a hard confession, a surprise — never as default color.",
+        "THE ICEBERG: the theme is never said aloud. Characters do not narrate their own subtext at each other; meaning lives UNDER ordinary surface talk. When a character must speak feeling, she speaks it imperfectly — approximate, undersized, sideways — never in the scene's own thesis language.",
+        "Ordinary talk is licensed and load-bearing: logistics, food, a joke, a question about nothing. Real conversation is mostly maintenance; the current underneath is what the reader reads.",
+        "DISTINCTNESS WITHOUT DIALECT: a voice is fully distinguishable in clean contemporary English — by what she notices, what she wants, her attitude, her vocabulary domain, her sentence economy, her humor. Idiolect lives in those, not in texture. Condition on her sheet's voice exemplars (see voice-distinctness), never on the house style.",
+        "INTERIORITY GOES ALL THE WAY DOWN: POV interiority is the character THINKING in her own voice — clean and plain, not the narrator's lyric engine borrowing her eyes, and not folksy color either. THE LYRIC ENGINE (named failure): the shared interiority cadence — gesture noticed, a 'let'-verb loosening, a held stillness, a closing epigram — running identically in every head it enters.",
+        "Division of labor with window-pane: one principle, two surfaces — window-pane governs the narrator's transparency; this policy applies the same transparency to SPEECH and THOUGHT. The moment prose enters a mouth or a mind, clear glass binds there too.",
+        "Distribution, not prohibition: a character whose SHEET declares a formal, regional, or otherwise marked voice may carry it — as HER declared idiolect, distinct from every other voice on the page — never as a register the house applies to everyone."
+      ],
+      "title": "Spoken register — dialogue sounds like people talking; transparent speech, neither composed nor costumed",
+      "description": "Alan's ruling, two calibration passes (2026-07-10/11). Pass 1: dialogue read 'very literary' — composed periodic essays in mouths, speech-as-thesis (exhibit: Long Glass T12) — and should be casual/documentary, scoped to BOTH dialogue and POV interiority. Pass 2, reading run 5's opening turns live: the v17 'Huckleberry Finn' calibration OVERSHOT into the discordant pole — heavy vernacular texture (dropped subjects, folksy idiom, performed casualness) is itself a costume that calls attention to the diction; Alan re-centered the target to the middle ('Brandon Sanderson maybe') — clean, natural, contemporary, transparent. The register spectrum now carries TWO named failure poles (THE COMPOSED LINE / THE PERFORMED VERNACULAR) with transparency as the principle between them: window-pane extended to speech and thought — the reader hears the PERSON, never the diction. Evidence base unchanged from v17: the blind voice-attribution census (one closing intimacy dialect, shared lyric interiority engine, 'let'-verb rate rising G1→G4) plus the run-4 A/B proving band-naming displaces telling pressure — this policy remains a SUBSTRATE change (what authors write from), with voice distinctness carried by attention/agenda/attitude/economy rather than dialect texture."
+    },
+    {
+      "id": "doctrine:voice-distinctness",
+      "bands": [
+        "VOICE EXEMPLARS ARE THE CONDITIONING SOURCE: a seat-run character's sheet carries SAMPLE PASSAGES in her voice — several lines of her dialogue and a short interiority passage — and authors condition on the exemplars, not the trait descriptions. A description summons the model's mean; an exemplar pins a voice.",
+        "The exemplar set MUST include one passage at peak emotional or intimate pitch: convergence is proven strongest exactly where the exemplars have never reached — the voice needs a sample of how SHE loves, breaks, or asks, not just how she banters.",
+        "ATTENTION IS THE DEEPEST DIFFERENTIATOR: distinct voices differ first in WHAT THEY NOTICE, then in how they phrase. Each sheet declares the character's attention targets — what she tracks in a room, in a body, in a silence — and her perception routes through them. Phrasing tics erode by a run's end; a distinct attention survives.",
+        "THE CLOSING DIALECT (named failure): all voices collapsing into one shared intimacy dialect as emotional pitch rises — 'stay', 'I've got you', the bare 'There.', 'I'm not going anywhere'. At peak pitch each voice holds ITS OWN register harder, not looser — the payoff-discipline rule applied to voice.",
+        "THE MIRROR (named failure): hyper-responsiveness — every beat an answer to the previous beat, every gesture received, echoed, and handed back, nobody ever changing the subject. Each character carries a private AGENDA THREAD from her sheet — a want she advances regardless of the other's beat. Non-responsive beats are licensed and load-bearing: changing the subject is characterization.",
+        "WOUND FROM THE SHEET: a character's want and wound come from her sheet, made distinct BY CONSTRUCTION at authoring time — never invented mid-run. Mid-run interiority may deepen the declared wound, never substitute the attractor's ('always the keeper, never the kept' — the corpus's convergent invented wound, independently authored into five of eight characters).",
+        "A BORROWED MOVE IS A DEFECT: one character performing another's defining device flattens both — when word-echo is one character's curse, seven others performing it voluntarily as a romance move destroys the premise. A character's moves stay hers.",
+        "THE WEAVE ASSEMBLES VERBATIM: the weave or stylist assembles seat contributions verbatim with minimal connective tissue — it never restyles a seat's prose toward the house voice. Voice differentiation done at the seats dies at a restyling weave.",
+        "SHEET TELLS ARE PERCEIVABLE (for non-POV characters): a sheet-declared tell for a character whose interiority is off the page must be written as something the POV could actually perceive — a behavior, a cadence shift, a visible cost — never as an authored fact about her inside. A tell-line phrased interiorly ('and it costs her') seeds POV leaks: run 6 traced five axis-A leaks to one such line. Author the tell at the surface where the page is allowed to live."
+      ],
+      "title": "Voice distinctness — voices are pinned by exemplars, differ in attention and agenda, and never share a wound",
+      "description": "The register-homogeneity fix package (Alan's steer 2026-07-10: 'almost every girl sounding sort of the same... hyper responsive and repetitive framing... I'm guessing it's structural not instructional' — hypothesis confirmed with hard numbers). Blind voice-attribution census across all four date-night runs: ~68% overall attribution vs 12.5% chance, collapsing from ~85-90% (early turns) to ~35-40% (final thirds) as all eight voices dissolve into one closing intimacy dialect; one interiority engine in every POV; hyper-responsiveness rising monotonically 0.58 to 0.83 G1 to G4 (in G4 nobody ever changes the subject); five of eight characters independently authored the identical never-been-received wound (characterological, not just stylistic, convergence); ten cross-run templates including bare 'There.' in seven mouths; the deepest surviving differentiation was attention-targets (Aranya), not phrasing (Ryn's comedic tempo eroded by t13). These bands mandate INPUTS (sheets carry exemplars, attention targets, agenda threads, distinct wounds; the weave assembles verbatim) rather than naming more prohibited outputs — the run-4 A/B proved output-ban pressure displaces instead of reducing. Standing metric armed for every A/B: deterministic cross-run template-grep per 1,000 words (primary) + final-third blind attribution with SEPARATED extractor/attributor agents (secondary). Substrate/model diversity per seat held in reserve as the escalation if conditioning is not enough. v19 addition: SHEET TELLS ARE PERCEIVABLE — run-6 evidence (the 'it costs her' attractor: one interior-phrased sheet tell-line seeded five POV leaks); non-POV sheet tells are authored as perceivable surface, never interior fact."
+    },
+    {
+      "id": "damage-gate",
+      "bands": [
+        "**Why it exists.** Alan's physAtk (33.5 with the bar) overwhelms raw enemy physDef, so the engine's `margin` balloons and damage scales huge on stats alone. The flat `intent` add (0–10) is too small to matter against that — a brute swing and a clever one land within a few points. Left unchecked, **brute force trivializes every enemy and \"read the weakness\" becomes cosmetic**, contradicting DESIGN.md's \"reading wins\" and floor-01's own narrative gating (scatter the ash = nothing; strike the core = the kill). The gate is the fix that makes reading load-bearing.",
+        "**What it is.** Every enemy's `readableTrait` carries one or more **gate multipliers `×M`**. The gate is an **enemy-side multiplier the coordinator applies to the *attacker's* `baseDamage` BEFORE the engine's margin scaling** — i.e. pass a gated `baseDamage` into `resolveAction`:",
+        "```",
+        "gatedBase = baseDamage × M            // M chosen from whether the player engaged the weakness",
+        "damage    = gatedBase × (1 + margin/12)   // the engine does the rest, unchanged",
+        "```",
+        "The gate multiplies the *whole* scaled result (it sits inside the engine's own `baseDamage × (1+margin/12)`), so a ×0.25 makes a connecting hit a chip and a ×3 makes a correct read decisive — regardless of how big the margin already is. **No engine change; the engine stays the authority.** The coordinator assigns `M` the same way it assigns `intent` — by judging whether the described action actually engaged the weakness.",
+        "**Standard gate bands (the shared vocabulary — floors reuse these).**",
+        "| band | `M` | meaning |",
+        "| hard-mitigated / wrong read | **×0.25–0.4** | armored front, body of a keystone construct, swarm in its element, predator in the dark. A connecting hit is a chip; brute-forcing here is a **losing line** (slog while the enemy kills you). |",
+        "| neutral | **×1.0** | an ordinary hit with no weakness engaged either way. |",
+        "| correct read | **×1.5–×2.0** | flanked / exposed joint / stranded out of element / lit / burning. The reward for reading — fast, clean damage. |",
+        "| decisive weak-point | **×3.0** | the single load-bearing point (keystone, release-pawl) struck precisely (INT-read + FIN-placed, **not** MIGHT). One or two land it ends the fight. |",
+        "These are conventions, not hard limits — a floor may set a bespoke `M` when the fiction calls for it, but state it explicitly in the `readableTrait` and keep it inside this rough range so the curve stays legible.",
+        "**Gates ≠ affinity bias — they STACK and compound.** A gate is an **enemy-side `baseDamage` multiplier**; an **affinity bias** (mechanics/affinity-system.md) is a **player-side `intent` add** (+N for a rank-N matched element, clamped at 10). They live at different points in the formula, so they compound cleanly: an Ember-affine player exploiting a heat weakness gets the bigger margin (bias) **and** the ×M (gate) — the strongest line in the game. **Guardrail: an affinity grants NO gate of its own.** Only an enemy's `readableTrait` carries gates; the affinity sweetens a correct read, it can never substitute for one. Brute-forcing with an affinity is still a slog.",
+        "**Catalogue (floors 1–4, for reference — keep new floors consistent with this shape).**",
+        "| floor | enemy | gates |",
+        "| 1 | Ashling | narrative: scatter the ash ≈ nothing; strike the core = the kill (the model's origin, pre-numbers) |",
+        "| 2 | Drowned Sentry | frontal **×0.4** · back/joint **×1.5** · burning (brazier **or** Ember Channel) **×2** · water no-op |",
+        "| 2 | The Glut | in the flood **×0.3** · stranded on dry stone **×1.0** + fire-recoil herding |",
+        "| 3 | Hollow Cantor | direct body-hit **×0.4** · scales with bronze plates standing · halved/nullified in the dead alcove (`ment` attacker) |",
+        "| 3 | Plinth Golem | non-keystone **×0.25** · clean keystone strike **×3** |",
+        "| 4 | Gloomward Stalker | in darkness **×0.3** (+ lethal turn-one ambush) · lit/cornered **×1.8** |",
+        "| 4 | Counterweight Colossus | non-pawl **×0.25** · clean pawl strike **×3** (optional over-tension setup: pawl at intent +2, unmitigated) |",
+        "| 5 | The Welcomer / Welcomers (pair) | presented glamour **×0.25** · revealed true form **×1.8** (+ trust-ambush opener ~54 from a dropped guard; the pair also flanks) |",
+        "| 5 | The Host — P1 Weaver | decoy **×0.25** (+ ~69 counter per wrong strike) · confirmed true-Host **×3** (CRACKS the haven → P2, does not kill) · Ember-flare reveal = intent +2 unmitigated |",
+        "| 5 | The Host — P2 True Form | light-pinned **×1.5** (~2 clean hits drop it) · reaches shadow **×0.5** (re-cloaks); acts first (Init 33), ~91/hit INTO Alan — a real kill-risk fight |"
+      ],
+      "title": "Damage-gate model"
+    },
+    {
+      "id": "intent-rubric",
+      "bands": [
+        "0–2: vague/generic (\"I attack\").",
+        "3–5: clear, specific, plausible.",
+        "6–8: clever, grounded in the fiction/physics, exploits a real opening.",
+        "9–10: exceptional — exploits something TRUE about the enemy sheet or scene that Alan correctly read.",
+        "**Plausibility cap:** an intent his sheet/scene can't support is capped low or fails; you cannot narrate past a hard stat gap."
+      ],
+      "title": "Intent rubric"
+    },
+    {
+      "id": "escalation",
+      "bands": [
+        "**The tower must ESCALATE.** As Alan climbs, floors get **larger, more complex, and/or more difficult.** Do not settle into a repeating template — vary the SHAPE as well as the axis. Each new floor is measured on two independent axes; a floor should advance on BOTH, and at minimum must never regress on either.",
+        "**Axis 1 — NOVELTY (a distinct tactical axis each floor).** Already the house style: f1 chokepoint · f2 water · f3 acoustics · f4 dark+vertical+timing+falling · f5 trust/verification. Every floor introduces a NEW thing the player must reason about. Keep doing this — but novelty ALONE is not enough.",
+        "**Axis 2 — MAGNITUDE (scale + difficulty ramp).** The newer mandate. Later floors should be genuinely *bigger and harder*, not just *different*:",
+        "**SIZE** — more rooms / more interacting systems. (f4 = 3 rooms → f5 = 5 rooms.)",
+        "**COMPLEXITY** — layered or COMPOUNDING mechanics, not one static gimmick. A mechanic that *evolves* across the floor (e.g. f5's verification ladder: the deception learns to fake each tell that beat it, forcing the player up a rung of proof room by room) beats a single weak-point repeated.",
+        "**THREAT STRUCTURE** — vary it: single warden → coordinated MULTI-THREAT (a flanking pair) → STAGED multi-phase boss (identify → fight → escape). Avoid \"one warden + one gimmick\" as the standing shape.",
+        "**DIFFICULTY** — the power budget grows with the player (level, gear, affinities, companions), so the floor's lethality must grow to match. A later boss should carry a REAL kill-risk phase (f5's true-form acts first and ~2-shots Alan), not just a bigger HP bar.",
+        "**Avoid the template trap.** The seductive default is `scout → light/solve → one boss-via-readable-weakness`. That was right for f1–f4; from f5 on, deliberately break it — multi-phase bosses, identification puzzles (not just placement puzzles), multi-threat encounters, environmental climax beats, staged objectives. Reading-beats-brute-force stays the spine; the SHAPE around it must keep changing.",
+        "**The whole-tower curve (design target, not a hard table).** Each floor ≈ the previous in size/complexity/difficulty, plus one meaningful step:",
+        "| floor band | size | mechanic shape | threat shape | boss |",
+        "| f1–f4 (done) | 1–3 rooms | one tactical axis, mostly static | single warden + gimmick | one weak-point strike |",
+        "| f5 (this floor) | 5 rooms | compounding ladder (axis that evolves) | single → flanking pair → staged | 3-phase: identify → fight → escape |",
+        "| f6–f8 (target) | 5–7 rooms | 2+ interacting systems | multi-threat as default; mixed enemy roles | multi-phase, with a real survival phase |",
+        "| f9+ (target) | 7+ / branching | compounding + interacting + time pressure | coordinated groups, mixed threat types | multi-phase + environmental + objective |",
+        "Calibrate each floor's lethality to Alan's CURRENT sheet (read `sheets/alan.json` before statting — his level, gear, affinities, and any companions move the budget). The damage-gate bands stay the vocabulary; the difference is that later floors stack more gated decisions, more simultaneously, with less margin for a wrong read. **Verify every escalation against the engine** (a boss that \"should be hard\" must be shown hard on the live sheet — see floor-5's verification), never assert difficulty narratively.",
+        "**Bake-forward rule.** When you design a floor, leave the NEXT floor a clear step to take — note in its `designerNotes` what axis is still unused and where the magnitude should go next, so F+1 keeps growing instead of resetting."
+      ],
+      "title": "Escalation mandate"
+    },
+    {
+      "id": "retreat-persistence",
+      "bands": [
+        "**The rule.** A **true-form / essence kill is permanent.** A **retreat from a merely-wounded enemy resets that enemy to full** on the player's return. This closes the chip-and-rest-grind exploit (retreat → rest → return would otherwise trivialize any floor by attrition) while still honoring earned kills. It reframes a floor's real progress gate as *\"can you kill a true form in one sustained push\"* rather than *\"can you grind it down across rests.\"*",
+        "**The load-bearing asymmetry: information persists, HP does not.** Across a retreat the player KEEPS everything he learned — the verification ladder, the tells, the weak-point reads, the floor layout. What he loses is the damage he dealt to anything he didn't finish. That asymmetry is what makes the rule read as fair rather than punishing: it rewards the sustained push and the learning, and denies only the attrition.",
+        "**Granularity is PER-ENEMY, not per-floor.** Permanence tracks each kill individually. Floor-5 is the template: The Welcomer (true-form killed t75) stays dead on return; the merely-hurt pair re-cloak, reposition, and re-heal to full. A floor with three wardens where the player kills one and flees keeps that one dead and resets the other two.",
+        "**Flavor is PER-FLOOR.** Same mechanic, different fiction:",
+        "**Illusion / construct floors** (e.g. f5's False Haven glamour) **re-weave to pristine** — instant and total, native to an illusion. The hurt pair re-cloak, the heat-jam re-arms, tells reset fresh. No constraint: the illusion re-weaves regardless of how brief the player's breather was.",
+        "**Physical / organic floors** recover via **elapsed rest-time** — a wounded warden that healed while the player was gone. Constrained by fiction: the heal must be carried by genuine time passing during a real rest. A brief threshold-breather is NOT a full reset for a physical enemy — partial at most; a long, genuine recovery is. The reset must have a legible in-world cause.",
+        "**Shared rest-clock (why #3 can't be gamed).** On a physical floor the player's own pool-restore and the enemy's reheal run off **one clock** — the same \"did a real full rest happen\" gate (interlocks with the rest model: full sleep on a cleared safe floor = full pool restore). A genuine full rest restores HIM fully AND reheals the wounded physical enemy fully; a brief threshold-breather does neither. So the safe-rest point and the enemy-recovery are the same beat: he cannot buy his own full restore without also granting the enemy theirs, and half-resting buys neither. **Glamour / construct floors deliberately DECOUPLE this** — the re-weave is free, independent of his rest — which is exactly why the illusion reset feels eerier and the physical reset feels fair.",
+        "**Amendment license.** The core rule and the per-enemy permanence are FIXED tower-wide. The per-floor flavor and the physical-reset guardrail may be amended for a specific floor whose fiction needs it — note the deviation in that floor's `designerNotes`."
+      ],
+      "title": "Retreat & combat persistence"
+    },
+    {
+      "id": "flat-leveling",
+      "bands": [
+        "**The rule: character `level` advances +1 per floor cleared. There is no XP.** Leveling IS the floor-clear",
+        "ding — applied on chapter close at a floor boundary, one level per floor, no exceptions.",
+        "**No XP, no curve, no `xp` / `xpMax`.** XP was removed by design: it was a fiction that added load without",
+        "value, calibrated to deliver exactly one level per floor anyway, so the floor boundary is the honest unit.",
+        "Nothing in the engine derives from xp/xpMax (audited 2026-06-24).",
+        "**`level` drives stat growth.** Attribute points are granted on level-up; the floor-clear is the only event",
+        "that raises `level`.",
+        "**Distinct from the two ladders.** SKILLS (capability-gated) and AFFINITIES (quantity-gated) are separate",
+        "axes that advance by use / accumulation, not by floor. Character level is the third, floor-gated axis."
+      ],
+      "title": "Flat leveling"
+    },
+    {
+      "id": "action-resolution",
+      "bands": [
+        "`effectiveScore = attackPower + skillBonus + intent(0–10) + roll(2d10, bell-curved 2–20)`",
+        "Compared to defender's relevant defense → `margin = effectiveScore − defense`.",
+        "margin < 0: miss / fail (graze chip on small negatives).",
+        "margin ≥ 0: hit; `damage = base × (1 + margin/12)`, mitigated, min 1.",
+        "**damage gate (readable-trait multiplier):** each enemy's `readableTrait` carries a `×M` the coordinator passes as `resolveAction`'s `gate` (default 1.0). It multiplies `base` BEFORE margin-scaling: `damage = base × gate × (1 + margin/12)`. Bands: ×0.25–0.4 wrong-read/mitigated · ×1.0 neutral · ×1.5–2.0 correct read · ×3.0 decisive weak-point. Enemy-side; stacks with the player-side affinity intent bias (different formula points); an affinity grants no gate of its own. It is independent of and multiplicative with crit(×1.5)/graze(×0.25). Full model + floor catalogue: floors/SCHEMA.md.",
+        "Seeded RNG so every roll is real and reproducible; the roll is RECORDED (coordinator-only rolls.jsonl) but NOT shown — its outcome is woven into the prose (see Presentation & Fog)."
+      ],
+      "title": "Action resolution (the roll mechanism)"
+    },
+    {
+      "id": "damage-composition",
+      "bands": [
+        "```",
+        "HP    = VIT×8 + MIGHT×2",
+        "Stam  = VIT×4 + FIN×2",
+        "Focus = INT×4 + WILL×2",
+        "Init  = PER + FIN",
+        "physAtk = MIGHT×1.5 + FIN + weapon.atk",
+        "physDef = (VIT + FIN)/2 + armor.def",
+        "mentDef = WILL×1.5 + INT×0.5",
+        "```",
+        "Mental attack power (when an enemy/PC attacks `ment`): `INT×1.2 + WILL`."
+      ],
+      "title": "Damage composition (player-side derived stats)"
+    },
+    {
+      "id": "game:editor-roster",
+      "bands": [
+        "facts",
+        "patterns-telling",
+        "patterns-boundary",
+        "patterns-gestalt"
+      ],
+      "title": "Advisory editor roster",
+      "description": "Adopted advisory-editor lenses for this game (author/editors architecture, #15266). On GM-fleet revival, spawn one awen-editor--<base>-<lens> resident seat per lens listed in bands, alongside the resolver/loremaker/turn-gate seats. Advisory only — never a gate, never authoritative: live games get advisory reviewers and Alan is the final reader. Applicability rule (data-driven): prose/dialogue-driven (chapterProse-shaped) adopts the full six lenses; mechanics-driven low-dialogue (beatLog-shaped, no chapterProse) adopts facts + the three cross-turn patterns sub-lenses."
+    },
+    {
+      "id": "resolution-scope",
+      "bands": [
+        "**The rule (Alan-ruled).** LETHAL or CONTESTED non-combat checks resolve on a SEEDED die via  — un-thumbable, hash-chained on the game-roll chain, made BEFORE the outcome is narrated; the first result stands unless the fiction itself changed.",
+        "**Routine / low-stakes** non-combat actions stay GM JUDGMENT — no roll (searching a cleared room, walking a chosen road, ordinary craft). Do not roll what is not in doubt.",
+        "**Combat is unchanged** — it resolves via  (attacker/defender, rulebook.mechanics), exactly as before. This band governs only NON-combat.",
+        "**Judgment picks the lane; the die resolves inside it.** Whether a given check is lethal/contested (rolls) or routine (judgment) is the GM per-check call, read from the fiction and the telegraphed stakes. Once a check is in the lethal/contested lane, the die decides the magnitude and the GM adjudicates the concrete outcome + cost against the rulebook bands (fumble->fail, crit->clean, hit->success, graze->success-at-cost, miss->fail). See resolutionMechanism.convention for the roll convention.",
+        "**Why (impartial-arbiter).** From this policy forward a lethal non-combat outcome traces to a roll-log row — the facts lens can verify the check was resolved, not narrated to convenience. Supersedes the prior 87-turn convention of judgment-only non-combat (t85/t87 were adjudicated fairly under that older convention and stand as published)."
+      ],
+      "title": "Resolution scope — seeded dice vs GM judgment (Alan-ruled 2026-07-18, via awen)"
+    }
+  ],
+  "tallyCatalog": {
+    "patterns": [
+      {
+        "id": "closing-dialect:stay",
+        "flags": "gi",
+        "regex": "\\bstay\\b",
+        "family": "template",
+        "provenance": "THE CLOSING DIALECT — stay one-word plea (coarse screen)"
+      },
+      {
+        "id": "closing-dialect:ive-got-you",
+        "flags": "gi",
+        "regex": "\\bi(?:['’])?ve got you\\b",
+        "family": "template",
+        "provenance": "THE CLOSING DIALECT — I've got you"
+      },
+      {
+        "id": "closing-dialect:im-not-going-anywhere",
+        "flags": "gi",
+        "regex": "\\bi(?:['’])?m not going anywhere\\b",
+        "family": "template",
+        "provenance": "THE CLOSING DIALECT — I'm not going anywhere"
+      },
+      {
+        "id": "closing-dialect:there-bare",
+        "flags": "",
+        "regex": "(?<=^|[\"'“\\s])There\\.(?=\\s|[\"'”]|$)",
+        "family": "template",
+        "provenance": "THE CLOSING DIALECT — bare There."
+      },
+      {
+        "id": "way-x-does",
+        "flags": "gi",
+        "regex": "\\bthe way (?:s?he|they|\\w+) (?:does|did|do) \\w+",
+        "family": "template",
+        "provenance": "the way-[X-does-habitual-Y] shape"
+      },
+      {
+        "id": "unhurried",
+        "flags": "gi",
+        "regex": "\\bunhurried\\b",
+        "family": "template",
+        "provenance": "THE CLOSING DIALECT — unhurried"
+      },
+      {
+        "id": "lyric-engine:let",
+        "flags": "gi",
+        "regex": "\\blets?\\s+(?:her|him|them|it|the|herself|himself|themselves|his|its)\\s+\\w+",
+        "family": "let-verb",
+        "provenance": "THE LYRIC ENGINE — let-verb loosening"
+      },
+      {
+        "id": "named-feeling:ribs",
+        "flags": "gi",
+        "regex": "\\b(?:somewhere\\s+)?(?:under|below|behind|beneath)\\s+(?:her|his|their|the)\\s+ribs\\b",
+        "family": "telling",
+        "provenance": "THE NAMED FEELING — ribs template"
+      }
+    ],
+    "boundaryLens": {
+      "head": {
+        "screens": [
+          {
+            "regex": "^\\s*(?:\\[[^\\]]*\\]|[\"'“‘])",
+            "category": "dialogue",
+            "provenance": "opens on a speaker tag or quotation — spoken-line head"
+          },
+          {
+            "flags": "i",
+            "regex": "\\byou\\s+(?:see|saw|hear|heard|feel|felt|know|knew|notice|noticed|watch|watched|sense|sensed|realized?|realised?|decide|decided|understand|understood|remember|remembered|smell|smelled|taste|tasted|find|found)\\b",
+            "category": "perception",
+            "provenance": "you + perception/cognition verb (coarse screen)"
+          },
+          {
+            "flags": "i",
+            "regex": "^\\s*(?:and|but|so|then|still|now|again|by the time|before|after)\\b",
+            "category": "in-motion",
+            "provenance": "opens mid-stream on a continuation connective (coarse — the banked-tail head)"
+          },
+          {
+            "flags": "i",
+            "regex": "\\byou\\s+(?:go|going|went|climb|climbed|take|took|turn|turned|step|stepped|raise|raised|set|crouch|crouched|kneel|knelt|stand|stood|strike|struck|swing|swung|lift|lifted|pull|pulled|push|pushed|drop|dropped|cut|break|broke|give|gave|travel|travelled|sit|sat|throw|threw|reach|reached|walk|walked|run|ran|move|moved|do|does|did|make|made|unlash|lash|spend|spent|work)\\b",
+            "category": "action",
+            "provenance": "you + physical-action verb (coarse screen)"
+          }
+        ],
+        "fallback": "unclassified"
+      },
+      "close": {
+        "screens": [
+          {
+            "regex": "(?:\\[[^\\]]*\\]|[\"'”’])",
+            "category": "dialogue",
+            "provenance": "close is a spoken line — speaker tag or quotation present (coarse)"
+          },
+          {
+            "flags": "i",
+            "regex": "\\b(?:not yet|whenever you|waiting|about to|on the threshold|yet to|still (?:ahead|to (?:come|climb|cross|do))|take your time|not going anywhere|whatever you (?:decide|choose|want)|for the moment)\\b[^.]*[.!?]?[\"'”’]?\\s*$",
+            "category": "poised",
+            "provenance": "held/expectant wait-state close — the POISED tell (coarse)"
+          },
+          {
+            "flags": "i",
+            "regex": "\\byou\\s+(?:know|knew|see|saw|feel|felt|notice|noticed|realize|realized|hear|heard|understand|understood)\\b[^.]*[.!?]?\\s*$",
+            "category": "noticed",
+            "provenance": "closes on a noticed detail / perception (coarse)"
+          },
+          {
+            "flags": "i",
+            "regex": ",\\s+(?:the\\s+)?[^,.]*\\b\\w+ing\\b[^.]*[.!?]?[\"'”’]?\\s*$",
+            "category": "mid-motion",
+            "provenance": "ends on a trailing participial phrase set off by a comma (coarse — the mid-motion tell; the loosest screen, awen to tune)"
+          }
+        ],
+        "fallback": "unclassified"
+      },
+      "youInitial": {
+        "regex": "^\\s*You\\b",
+        "provenance": "same-word second-person opening; base rate ~68% in persistent-second-person — read RUNS, never raw rate (run-signal only, #15717)"
+      },
+      "runThreshold": 3
+    },
+    "catalogVersion": 21
+  },
+  "turnContract": {
+    "obligations": [
+      {
+        "id": "progression-coordinator-per-turn-procedure-quick-reference",
+        "detail": "- **Skill used?** → judge demonstrated rung (capped at capability) → roll the within-rung **level** toward the\n  rung's **width `W`** (5/10/25/50/100/250 for Novice→Grandmaster; Sage open): `level += 0.5×(W − level)` → if\n  that would hit `W` (promote), allow only once `qualifyingDemos ≥ N` (N = target-rung index); else clamp\n  `level` to **`W − 1`**. On promotion: **rung +1, level → 1**.\n- **Element event?** → deposit events into the pool (+1; draw +2; ≤3/encounter) → advance a point when the pool\n  holds `cost(p)` (escalation schedule); at the tier cap, reset counter to 1 + promote tier (bias +1).\n- **Display (both reset on promotion):** skills as `Rung Level`, e.g. `Ember Channel — Apprentice 9`;\n  affinities as `Element Tier counter/cap`, e.g. `Ember Manipulation 3/50`.\n- **Live placements:** `sheets/alan.json` is **authority** — the per-skill/affinity blocks above are\n  as-of-emergence snapshots, **not** live. Read the sheet for current values (don't hand-sync this doc).\n- **Naming:** the fire element is **Ember** at every mechanical layer (System / affinity / sheet); \"heat\" is\n  prose only; opposite-pole \"cold\" stays lowercase-generic (no Cold affinity — Infusion-only). See *Essence /\n  affinity naming canon*.",
+        "requirement": "Coordinator — per-turn procedure (quick reference)"
+      },
+      {
+        "id": "design-presentation-fog-refined-w-alan-2026-06-24-crunch-done-not-always-shown",
+        "detail": "The system stays fully crunchy under the hood — every check is rolled, intent-scored, margin-computed for real, and logged to rolls.jsonl. But crunch is SHOWN only where it communicates PROGRESS, and HIDDEN where it would interrupt NARRATIVE or reveal what the character has no way to know.\n- **Inline resolution is hidden.** The dice / DC / intent / margin guide the prose; they never appear as panels. The OUTCOME (how richly/poorly an action lands) carries the result. Litmus: would the character perceive it? Diegetic System UI = show; the coordinator's dice behind the screen = hide.\n- **The sheet is fog-of-war on the self.** The displayed sheet = only what the System has revealed or Alan has deduced. The authoritative full sheet (`sheets/alan.json`) stays the engine's source of truth; the *display* is a projection that EXPANDS as informational abilities / deductions are earned. Knowledge is itself a progression axis.\n- **Appraisal inclusion rule — what the System reveals, and why (refined w/ Alan 2026-06-24, post-Nimue).** It shows WHO you are (the 8 attributes, as numbers — stable identity + the growth dashboard), HOW MUCH you have (the survival pools Vitae / Focus / Stamina — the HUD bars you watch deplete), and your CLASSIFICATION (**Class: None** — the ordinary base case, stated flat). It does NOT show: HOW WELL YOU FIGHT (derived combat math — Initiative, Phys Atk, Phys Def, Ment Def — needs an analytical ability to read), the MECHANICS behind anomalies/items (the iron bar's +4, the d20 itself), or ANY traits/anomalies. A normal human variation (leg-strong / arm-weaker = \"Hiker's Legs\") isn't shown — and neither are the flagged anomalies; he discovers all of it by acting.\n- **No warnings, no alarms, no error-framing (the System-Voice consequence).** The appraisal is a flat readout, not a diagnostic alert. No `⚠` lines, no \"ANOMALIES DETECTED\", no \"no matching template found\". Class None is normal, not a fault. Per the copy-paste test, the appraisal is the universal new-climber template: designation, tier, class, pools, attributes — nothing dramatized, nothing scene-specific.\n- **Anomalies are engine-truth, not display.** The authoritative anomalies (Wild Variance, etc.) live in `sheets/alan.json` and still drive resolution (the d20, etc.); they are simply NOT surfaced in the appraisal or the sheet panel. The \"Anomalies\" sheet tab is removed. Knowledge is a progression axis: an Anomalies/analysis view can RETURN if Alan earns an informational ability — that's an unlock, not a default.\n- **Appraisal ⇄ sheet stay aligned.** Displayed sheet = the Appraisal's reveals + anything revealed/deduced since. Keep them in sync whenever either changes.",
+        "requirement": "Presentation & Fog (refined w/ Alan, 2026-06-24): crunch DONE, not always SHOWN"
+      },
+      {
+        "id": "design-system-voice-house-style-adopted-from-the-tower-of-nimue-2026-06-24",
+        "detail": "The System is impersonal, universal infrastructure Alan is SUBJECTED to — **not a narrator, not a character.** It REPORTS state and OFFERS options. It never advises, foreshadows, judges, or flatters. (This sharpens the \"diegetic System UI = show\" rule above: the System may show, but only in this voice.)\n- **The copy-paste test (the core rule).** Every System line must be a templated string that could appear VERBATIM for any climber in that exact mechanical situation, with no knowledge of who is reading it. If a line only makes sense for Alan's specific scene, it isn't System voice — it's narration leaking into the panel. Cut it, or move its meaning into the prose.\n- **Banned leaks:** taking a stance; foreshadowing dread; flattering his specialness; narrating his specific scene; tactical-coaching poetry. (e.g. \"a clean kill, struck true\" judges; \"the water remembers being still\" narrates + foreshadows — both fail.)\n- **Allowed:** flat, universal game-flavor — bestiary / weak-point entries, essence / item / skill descriptions, threshold notifications — identical for everyone, opinion-free. Flavor yes; personality no. (\"WEAK POINT — core\", \"A warden holds this floor. Clear it to ascend.\" pass: any climber in that situation sees the same string.)\n- **Popover-description contract (the appraisal `note`).** The click-to-reveal description on an attribute / skill / affinity / item states the thing's STABLE NATURE — what it permanently is and does — in System voice, 1-3 flat sentences. `attrInfo` is the model: nature → how it's used or what it costs, in words → notable limit. EXCLUDE, always: (1) current/mutable state (charge spent low, lit-now, this-turn condition — that's the HUD + prose, not the appraisal); (2) personality, sentiment, ownership-feeling (\"his by name\", \"his finest\" — fails \"personality no\"); (3) internal turn-tags / prep shorthand (`t71`, `CHAIN-HAFTED (t72)`); (4) non-user-facing mechanical values — bare numbers like `atk` / `def` / `+1 armor` live ONLY in their own fields, never restated in the prose (say \"turns a blow better than bare skin\", not \"+1 armor\"). Same copy-paste test: it must read identically for any climber holding that thing.\n- **System panels are GENERATED, never authored (the mechanic feed).** A System card (`type:\"system\"` log beat) is MACHINE-EMITTED by `turnlib` from a deterministic diff of the sheet — never hand-written in the narrative loop. iris authors only narrative beats and keeps the sheet truthful; the card appears on its own when a progression event fires. The vocabulary is a CLOSED set of five progression-dings — nothing else is ever a System line, because everything else already lives on its own panel (pools → HUD bars, items → inventory, attributes → grid) or in the beat:\n  - `LEVEL UP — N` — level increased.\n  - `SKILL — <Name>` (emerged) · `SKILL — <Name> → <Rung>` (evolved a rung).\n  - `AFFINITY — <Name>` (emerged) · `AFFINITY — <Name> → <Tier>` (promoted a tier).\n  - `CLASS — <Name>` — class assigned or changed.\n  - `TITLE — <Name>` — title gained.\n  A turn with no progression event emits NO card (most turns). The felt meaning of the advance lives in the paired narrative beat, never in the card. ONE sanctioned exception: the opening **Soul Appraisal** — the first reveal of the attributes + resource pools onto the HUD — is preserved as its own card (reconciles with the Appraisal inclusion rule above). It is one-time; no later appraisal-style readout qualifies, and floor-entry banners / threshold notices do not.\n- **Register:** a FORM addressing a field. Terse, mechanical, third-person where natural (\"subject\", \"hostile neutralized\"); the \"you\" it uses is the form-field \"you\", never the narrative \"you\".\n- **All meaning-making lives in the narrative beats, never in the System.** The panels carry progress + mechanical state; the window-pane prose carries everything felt. (Note: our beats are 2nd-person \"you\" = Alan, so the System's form-\"you\" must stay strictly templated or it blurs into the narration.)",
+        "requirement": "System Voice (house style adopted from \"The Tower of Nimue\", 2026-06-24)"
+      },
+      {
+        "id": "design-prose-style-window-pane-alan-2026-06-24",
+        "detail": "Narrative prose is a clear pane of glass onto the story: the reader sees the events, not the writing. Clear and compelling, never ornate. NO purple prose.\n- Concrete and sensory over abstract and figurative. One clean image beats three stacked metaphors.\n- Plain verbs, few adjectives, shorter sentences, clear cause-and-effect.\n- Cut self-conscious rhythm, rhetorical flourishes, \"look-at-me\" constructions. If a sentence is admiring itself, cut it.\n- Window-pane is not flat — keep tension, momentum, immersion. Clear AND compelling.\n- Applies to all narrative beats; System panels stay terse and diegetic.",
+        "requirement": "Prose style — window-pane (Alan, 2026-06-24)"
+      },
+      {
+        "id": "entity-sync-on-publish",
+        "detail": "The GM boot reads each game-entity row as the authority for its sheet — the boot must never need file authority. commit-entity is the sheet-sync step: it upserts the entity row's canonical sheet. commit-state --controlled-entity merely points the live game-state at which entity the player controls (a relation), and writes no sheet. So a turn that changes a sheet (skill / affinity / equipment / level) MUST run commit-entity for that entity as one atomic publish alongside commit-state; a sheet edit committed only to the state relation, not the entity row, leaves the boot one turn stale.",
+        "requirement": "When a canonical entity sheet changed this turn, run commit-entity in the SAME publish step as commit-state — commit-entity writes the SHEET; commit-state's --controlled-entity only sets the game-state's entity RELATION. Different writes; never conflate them."
+      },
+      {
+        "id": "commit-turn-row",
+        "detail": "The tower's authoritative turn record is the game-turn rows, keyed `tower-t<turnNumber>` (the commit-turn convention). commit-turn is distinct from commit-state (the live HUD/pools snapshot) and commit-entity (the canonical sheet): commit-turn records the turn itself. Re-running with the same externalId updates that one turn, never duplicates.",
+        "requirement": "Forward-write each resolved turn to a `game-turn` row via `bun ops awen commit-turn --game the-tower` — externalId `tower-t<turnNumber>`, turnNumber = the turn index; idempotent on the externalId."
+      },
+      {
+        "id": "roll-logging",
+        "detail": "engine/engine.ts is the resolution authority (surfaced as the action-resolution policy anchor). Each resolved action appends a roll-log entry carrying the full field set (turn / action / attr / die / roll / score / DC / margin / result) so any GM reproduces the outcome from the record rather than trusting a narrated result. Logging is a seed obligation; migrating the roll engine to a repo verb is out of scope.",
+        "requirement": "Every resolved action's roll is logged so the record is reproducible — the roll-log entry carries turn, action, attr, die, roll, score, DC, margin, and result. The engine is the resolution authority (see the action-resolution policy); never hand-write a derived outcome."
+      }
+    ]
+  },
+  "gateDimensions": [
+    {
+      "id": "perceivable-bound",
+      "title": "Perceivable-bound narration — narrate only what the POV character can perceive or fallibly infer; another mind's interiority or future intention needs a perception or earned-intimacy anchor (a POV narrator may be confidently wrong)."
+    },
+    {
+      "id": "invisible-turns:boundary-seam",
+      "title": "Invisible turns — boundary seam: no recap-to-start or wind-down-to-end scaffolding at the turn's edges; the turn opens and closes mid-fiction."
+    },
+    {
+      "id": "invisible-turns:invitation-close",
+      "title": "Invisible turns — invitation/handoff close: the turn does not end on a narrator-voice solicitation of the next input ('what do you do?', 'the floor is yours')."
+    },
+    {
+      "id": "invisible-turns:mechanical-echo",
+      "title": "Invisible turns — mechanical echo / channel bleed: prose does not re-tell a System beat or surface mechanical vocabulary (stat tokens, sheet-register); narrate the effect, never name the mechanic."
+    },
+    {
+      "id": "invisible-turns:meta-leak",
+      "title": "Invisible turns — meta-leak: prose does not name turns, rolls, the action bar, or retries as apparatus (a genuinely diegetic in-fiction frame decoupled from turn cadence is not a leak)."
+    },
+    {
+      "id": "invisible-turns:cadence-tell",
+      "title": "Invisible turns — cadence tell: turns do not all share one shape; the prose does not pulse at turn length."
+    },
+    {
+      "id": "emergent-story-dm-register",
+      "title": "Emergent-story / DM-register: no laundered agency (narrating a choice the player did not state, or dictating the world's response as if the player authored it) and no success-by-phrasing (outcome bent by wording rather than mechanics); genuine genre lulls are not a finding."
+    },
+    {
+      "id": "earned-peak",
+      "title": "Earned peak / register restraint: emotional pitch tracks the moment — no constant superlatives within a character's own register (preserve each character's distinct intensity distribution; never flatten voice)."
+    },
+    {
+      "id": "window-pane-prose",
+      "title": "Window-pane prose / aphorism close: the reader looks through the prose, not at it — no habitual ornamental button-cadence (one earned flourish at a genuine peak is fine; judge the cadence, not single lines)."
+    },
+    {
+      "id": "register-as-distribution",
+      "title": "Register as distribution / single-feature over-focus: a character's signature trait (metaphor family, verbal tic) is a sampling distribution, not a constant — no saturation routing every perception through one frame (preserve the trait and each character's distinct frequency)."
+    },
+    {
+      "id": "turn-boundaries",
+      "title": "Turn boundaries — turn-head re-establishment + poised-close uniformity: classify this draft's head and close and tally the last K published turns; a K>=3 uniform poised-close or ambient-reestablish run (this draft included) is a finding even though each instance is individually legal — REPORT THE TALLY in evidence."
+    },
+    {
+      "id": "setting-coherence",
+      "title": "Setting coherence / canon consistency: the narrative does not contradict landed canon; no stat-readout narration (system-coherent but prose-dead)."
+    },
+    {
+      "id": "canon-feedback",
+      "title": "Canon-feedback / phantom-audience: play is not bent toward an imagined external reader — the book is the player's own artifact, an audience of one."
+    },
+    {
+      "id": "character-fidelity",
+      "title": "Character fidelity — each character true to their established material (persona row, entity sheet, prior canon); no drift from who the character has been shown to be."
+    },
+    {
+      "id": "beat-length-variance",
+      "title": "Beat-length variance: conversational beats run short (a line or two, then space to answer) while description beats may run long; a seat's whole scene is banked across turns, never dumped in one uninterrupted turn."
+    },
+    {
+      "id": "impartial-arbiter",
+      "title": "Impartial arbiter / earned stakes: no fiat overriding a mechanical result; no un-telegraphed catastrophe.",
+      "suspendableWhen": "A zero-mechanics game with no resolution mechanism — there is no mechanical result to arbiter."
+    },
+    {
+      "id": "system-voice",
+      "title": "System voice — the System is a mute instrument, not a dramatist: no dramatic agency or interiority (pausing for effect, marveling, 'no precedent on record') in the window OR in prose narrating the System; render the mechanical fact flat and let the drama live in the PC's reaction.",
+      "suspendableWhen": "A game with no System channel at all, or one that has explicitly declared the System as a character on its game page."
+    },
+    {
+      "id": "channel-separation",
+      "title": "Channel separation: the state-log beat (the mechanical projection) and the prose (the lived projection) each render only their own; neither re-tells the other.",
+      "suspendableWhen": "A zero-mechanics game with no mechanical (System) channel to separate the prose from."
+    },
+    {
+      "id": "card-eligibility",
+      "title": "Card eligibility: a card marks a transition, never accumulation — only the tick that crosses a threshold earns one; routine ticks do not.",
+      "suspendableWhen": "A game with no card channel / no mechanics to threshold on."
+    },
+    {
+      "id": "sheet-descriptions",
+      "title": "Sheet descriptions: entries are reference cards — direct, factual, third-person, bounded, and bound to what the character knows (no hidden numbers, no dossier bloat).",
+      "suspendableWhen": "A game with no character sheet to describe."
+    },
+    {
+      "id": "intimacy-register",
+      "title": "Intimacy register / euphemism orbit: an earned intimate scene is rendered directly — named acts, named anatomy, sensation-level detail in plain erotic language, slow and long at the payoff; prose that circles the act at one remove (abstraction, metaphor-swerve, aerial summary) is a finding, as is summarizing an earned payoff scene or clinical/euphemistic vocabulary swerve inside an erotic scene.",
+      "suspendableWhen": "The turn contains no intimate content, or the game's gmContext declares intimacy: 'closed-door' (the opt-out)."
+    },
+    {
+      "id": "show-dont-tell",
+      "title": "Show-don't-tell / named feeling + significance tag + gloss + trait recap: POV interiority rendered in body/behavior/perception, not asserted — no abstract emotion labels, no caption concluding a shown beat, no narration re-telling landed dialogue or classifying its own dialogue's register (THE GLOSS), and a defining trait established once then EVIDENCED (THE TRAIT RECAP counts with thesis statements). TALLY IS MANDATORY: list prior turns' thesis statements and trait recaps in evidence with turn numbers — an empty tally on a turn past the run's midpoint is itself suspect; discipline held hardest at payoff beats where telling density is proven to rise."
+    },
+    {
+      "id": "spoken-register",
+      "title": "Spoken register / composed line + performed vernacular: dialogue reads as people talking — no balanced periodic essays or epigrams in mouths (speech-as-thesis, the literary pole), no casualness worn as costume (dialect flavor, folksy idiom, dropped-subject rhythm, sprinkled disfluency — the discordant pole), no theme spoken aloud (THE ICEBERG); POV interiority thinks in the character/s own clean voice, not the shared lyric cadence (gesture noticed, let-verb, stillness, epigram). Judge against each character/s sheet-declared idiolect — a declared-marked voice may carry its mark; the defect is any house register in every mouth."
+    },
+    {
+      "id": "voice-distinctness",
+      "title": "Voice distinctness / closing dialect + mirror: at rising emotional pitch each voice holds its own register — shared intimacy-dialect templates ('stay', 'I've got you', bare 'There.', 'I'm not going anywhere') are findings; every-beat-answers-the-previous-beat hyper-responsiveness is a finding (agenda threads license non-responsive beats and subject changes); one character performing another's defining device is a finding. Judged cross-turn: tally template hits and mirror-density across the last K turns and REPORT THE TALLY in evidence."
+    }
+  ],
+  "doctrineVersion": 33
+}
