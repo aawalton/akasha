@@ -1,6 +1,6 @@
 // Ported 1:1 from LibZone v8.98 (AddOnVersion 898) LibZone_GeoData.lua via `ops temper upstream-data port lib-zone`.
 // Regenerate with: ops temper upstream-data port lib-zone --code-root <code-checkout>
-// Verify with:     ops temper upstream-data verify lib-zone --code-root <code-checkout>
+// Verify with:     ops temper upstream-data verify lib-zone
 export const GEO_DATA_REFERENCE_TABLE: Record<number, Record<number, number>> = {
   [2]: {
     [2]: 0,

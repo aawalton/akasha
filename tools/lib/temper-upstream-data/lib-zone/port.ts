@@ -15,7 +15,7 @@ const GEO_REL = "src/generated/geo-data.generated.ts"
 export const ZONE_HEADER =
   "// Ported 1:1 from LibZone v8.98 (AddOnVersion 898) LibZone_Data.lua via `ops temper upstream-data port lib-zone`.\n" +
   "// Regenerate with: ops temper upstream-data port lib-zone --code-root <code-checkout>\n" +
-  "// Verify with:     ops temper upstream-data verify lib-zone --code-root <code-checkout>\n" +
+  "// Verify with:     ops temper upstream-data verify lib-zone\n" +
   "//\n" +
   "// PRELOADED_ZONE_NAMES holds each language's OWN keys only — the jp/pl metatable\n" +
   "// fallback to en is rebuilt at load in data-init.ts, not baked here.\n"
@@ -23,7 +23,7 @@ export const ZONE_HEADER =
 export const GEO_HEADER =
   "// Ported 1:1 from LibZone v8.98 (AddOnVersion 898) LibZone_GeoData.lua via `ops temper upstream-data port lib-zone`.\n" +
   "// Regenerate with: ops temper upstream-data port lib-zone --code-root <code-checkout>\n" +
-  "// Verify with:     ops temper upstream-data verify lib-zone --code-root <code-checkout>\n"
+  "// Verify with:     ops temper upstream-data verify lib-zone\n"
 
 export async function port(codeRoot: string): Promise<void> {
   const pkgDir = join(codeRoot, PACKAGE_OF["lib-zone"])

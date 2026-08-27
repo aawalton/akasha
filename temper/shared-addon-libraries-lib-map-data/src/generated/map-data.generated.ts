@@ -1,6 +1,6 @@
 // Ported 1:1 from LibMapData v1.21 (AddOnVersion 121) LibMapData_Data.lua via `ops temper upstream-data port lib-map-data`.
 // Regenerate with: ops temper upstream-data port lib-map-data --code-root <code-checkout>
-// Verify with:     ops temper upstream-data verify lib-map-data --code-root <code-checkout>
+// Verify with:     ops temper upstream-data verify lib-map-data
 export const MAP_DATA = {
   alikrDesertData: {
     dungeons: {},
