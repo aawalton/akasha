@@ -47,18 +47,12 @@ function namedIn(at: string): readonly string[] {
   return [...found].sort()
 }
 
-// This is read at import, on every invocation, before an argument is parsed, so
-// wherever these pages stand is where everything starts. They are moving here,
-// and until they have, the repository beside this one still holds them.
 function namedOnDisk(): readonly string[] {
   const here = `${HERE}/${REPO_PAGES}`
   const own = namedIn(here)
   if (own.length > 0) return own
-  const beside = `${rootOf(INSTRUCTIONS)}/${REPO_PAGES}`
-  const there = namedIn(beside)
-  if (there.length > 0) return there
   throw new Error(
-    `neither ${here} nor ${beside} holds a \`*${REPO_ENDING}\` page, so nothing says which repositories there are`
+    `${here} holds no \`*${REPO_ENDING}\` page, so nothing says which repositories there are`
   )
 }
 
@@ -115,14 +109,14 @@ export function rootsHere(): Roots {
   return held
 }
 
-export function resolveRoots(target: Repo = INSTRUCTIONS): Roots {
+export function resolveRoots(target: Repo = AKASHA): Roots {
   const at: Record<string, string> = {}
   for (const repo of REPOS) at[repo] = canonicalize(rootOf(repo))
   return { ...at, target }
 }
 
 export function targetRepo(roots: Roots): Repo {
-  return roots.target ?? INSTRUCTIONS
+  return roots.target ?? AKASHA
 }
 
 export function targetRoot(roots: Roots): string {

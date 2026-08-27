@@ -4,7 +4,7 @@ import { resolve } from "node:path"
 import type { Repo } from "../../page/document/types.ts"
 import { type Repo as Addressable } from "../../page/document/types"
 import { type Roots } from "../../page/page"
-import { ADDRESSABLE_NAMED, isAddressable, locate, resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, ADDRESSABLE_NAMED, isAddressable, locate, resolveRoots } from "../../repo/roots/roots"
 import { fail } from "./command.ts"
 import { decodeUtf8, notUtf8 } from "./utf8-body.ts"
 
@@ -105,7 +105,7 @@ export function repoNamed(argv: readonly string[]): Addressable | null {
 }
 
 export function repoFlag(argv: readonly string[]): Addressable {
-  return repoNamed(argv) ?? "instructions"
+  return repoNamed(argv) ?? AKASHA
 }
 
 export interface Addressed {
