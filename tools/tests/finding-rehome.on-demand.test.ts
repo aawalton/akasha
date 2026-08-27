@@ -25,10 +25,8 @@ function runCommand(
   const proc = Bun.spawnSync({
     cmd: ["bun", ARM, module, ...args],
     cwd: at.root,
-    // ONE ROOT NAMES THE STORE, AND `CODE_ROOT` NAMES THE PACKAGES. `INSTRUCTIONS_ROOT` and
-    // `MEMORY_ROOT` stood here for repositories akasha has absorbed; nothing reads either, so every
-    // case below ran against this checkout rather than the fixture. The temp store carries no
-    // `node_modules`, so the `@shared/...` the command loads is looked for here instead.
+    // ONE ROOT NAMES THE STORE, AND `CODE_ROOT` NAMES THE PACKAGES. The temp store carries no
+    // `node_modules`, so the `@shared/...` the command loads is looked for in this checkout.
     env: { ...process.env, AGENT_ID: AGENT, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home, ...also },
     stdout: "pipe",
     stderr: "pipe",
@@ -141,10 +139,9 @@ describe("what a rehome refuses", () => {
     }
   })
 
-  // A SECOND CHECKOUT, NOT A SECOND ROOT OF THE SAME ONE. This stated the instructions root against
-  // the memory root, and akasha has absorbed both, so the two paths now name one repository and the
-  // case tested nothing. `code-editor` is the repository beside akasha, and a bare git directory
-  // named through its root variable is enough for a path to be placed in it.
+  // A SECOND CHECKOUT, NOT A SECOND ROOT OF THE SAME ONE. `code-editor` is the repository beside
+  // akasha, and a bare git directory named through its root variable is enough for a path to be
+  // placed in it.
   test("a path landing in another repository is refused, naming the one it landed in", () => {
     const at = fixture()
     const beside = mkdtempSync(`${tmpdir()}/rehometest-beside-`)

@@ -37,10 +37,8 @@ function runCommand(at: Fixture, args: readonly string[]): { code: number; out: 
   const proc = Bun.spawnSync({
     cmd: ["bun", ARM, MODULE, ...args],
     cwd: at.root,
-    // ONE ROOT NAMES THE STORE, AND `CODE_ROOT` NAMES THE PACKAGES. `INSTRUCTIONS_ROOT` and
-    // `MEMORY_ROOT` stood here for repositories akasha has absorbed; nothing reads either, so the
-    // command ran against this checkout rather than the fixture. The temp store has no
-    // `node_modules`, so the `@shared/...` the command loads is looked for here instead.
+    // ONE ROOT NAMES THE STORE, AND `CODE_ROOT` NAMES THE PACKAGES. The temp store has no
+    // `node_modules`, so the `@shared/...` the command loads is looked for in this checkout.
     env: { ...process.env, AGENT_ID: AGENT, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home },
     stdout: "pipe",
     stderr: "pipe",
