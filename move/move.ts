@@ -1,6 +1,7 @@
 import { existsSync, readFileSync, statSync } from "node:fs"
 import type { Addressed } from "../ops-cli/global/address.ts"
 import { anyRefused, render } from "../outcome/outcome.ts"
+import { carriesBytes } from "../page/file-kind/carries-bytes.ts"
 import type { Roots } from "../page/page.ts"
 import { sidecarCarriedTo, sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { fail } from "../patches/patch.ts"
@@ -19,6 +20,8 @@ import {
 } from "../repoint/repoint.ts"
 import { slugEdges } from "../repoint/reslug.ts"
 import { decodeUtf8, leadingBytes } from "../utf8-body/utf8-body.ts"
+
+const NUL = String.fromCharCode(0)
 
 export interface Pair {
   readonly from: string
@@ -49,12 +52,19 @@ export function validatePairs(
     if (!existsSync(absolute)) refusals.push(`${from} does not exist — a move names what is there`)
     else if (!statSync(absolute).isFile()) {
       refusals.push(`${from} is not a file — name the files inside it`)
-    } else {
+    } else if (!carriesBytes(from)) {
       const bytes = readFileSync(absolute)
-      if (decodeUtf8(bytes) === null) {
+      const body = decodeUtf8(bytes)
+      if (body === null) {
         refusals.push(
-          `${from} is not UTF-8 text, so nothing here can read what names it or carry it — ` +
-            `it begins ${leadingBytes(bytes)}`
+          `${from} is not UTF-8 text and its extension names no file kind stating \`binary: true\`, ` +
+            `so nothing here can read what names it or carry it — it begins ${leadingBytes(bytes)}`
+        )
+      } else if (body.includes(NUL)) {
+        refusals.push(
+          `${from} holds a NUL byte and its extension names no file kind stating \`binary: true\`, ` +
+            "so the survey that reads what names a path passes over it, and its body would be taken " +
+            "away without landing anywhere — take the NUL out of the source"
         )
       }
     }
@@ -97,6 +107,12 @@ function carriedFiles(moves: Moves, source: Addressed, destination: Addressed): 
     )
   }
   return carrying
+}
+
+function carriedBodies(moves: Moves): readonly Carry[] {
+  return [...moves]
+    .filter(([from]) => carriesBytes(from))
+    .map(([from, to]): Carry => ({ from, to }))
 }
 
 function reportRepointed(named: string, entries: readonly Repointed[]): void {
@@ -166,7 +182,7 @@ export function landMoves(move: Move): void {
   const importers = surveyImporters(moves, roots, landing)
   const pending = repointedBodies(importers)
   for (const one of importers) reportRepointed(`${targetRepo(one.roots)}:`, one.entries)
-  const carrying = carriedFiles(moves, source, destination)
+  const carrying = [...carriedBodies(moves), ...carriedFiles(moves, source, destination)]
   const outcomes = [
     slugEdges(moves, roots),
     escapedSpellings(survey.escaped),
@@ -193,7 +209,7 @@ export function landMoves(move: Move): void {
     process.stdout.write(`repo:   ${at.repo}, which imports them from outside\n`)
     landOrRefuse(at, one.entries, message, dryRun, [], [], [], new Map())
   }
-  const sources = [...moves.keys()]
+  const sources = [...moves.keys()].filter((one) => !carriesBytes(one))
   if (source.repo === destination.repo) {
     if (importers.length > 0) {
       process.stdout.write(`repo:   ${source.repo}, which the bodies move within\n`)

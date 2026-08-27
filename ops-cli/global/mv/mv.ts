@@ -3,6 +3,7 @@ export const summary = "Move files, repoint everything that named them, and remo
 import { readFileSync } from "node:fs"
 import { landMoves, type Pair, validatePairs } from "../../../move/move.ts"
 import { applyPairs, type Pair as EditPair, parsePairs } from "../../../patches/edit-pairs.ts"
+import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
 import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
 import type { Moves } from "../../../repoint/repoint.ts"
 import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
@@ -99,6 +100,12 @@ function changesIn(
       fail(
         `${relPath} is not a destination this call declares — an edit names the path a body LANDS ` +
           `on, and this call lands ${[...landing].join(", ")}`
+      )
+    }
+    if (carriesBytes(relPath)) {
+      fail(
+        `${relPath} is of a file kind stating \`binary: true\`, and an edit names text — its bytes ` +
+          "land at the new path exactly as they left"
       )
     }
     if (changes.has(relPath)) fail(`${relPath} is declared more than once`)

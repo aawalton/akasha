@@ -48,6 +48,11 @@ export const DESCRIPTION =
   "or a sops file standing beside a moved page — carried to the path the page lands on without " +
   "being named, and refused where something already stands there.\n" +
   "\n" +
+  "A FILE WHOSE KIND STATES `binary: true` IS CARRIED, its bytes landing at the new path exactly " +
+  "as they left. The survey that rewrites a path written as text passes over it, having no text to " +
+  "read, and `--input-file` may not name it. A file of any other kind holding a NUL byte is " +
+  "REFUSED, that being a stray byte in a document rather than a kind this carries.\n" +
+  "\n" +
   "ONE COMMIT INSIDE ONE REPOSITORY carries every body to its new path, every referrer it " +
   "repointed, and the removal of every path moved out of. A repo holding the body at both paths " +
   "at once is two documents declaring one `slug:`, which is not a state to publish.\n" +
